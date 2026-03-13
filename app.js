@@ -49,15 +49,123 @@ const LANG_SHORT = {en:'EN',ti:'TI',ti_ro:'TI-R',am:'AM',am_ro:'AM-R',om:'OM',ro
 const STATUS_OPTIONS = {draft:'Draft',review:'Needs Review',final:'Final'};
 
 const GROUP_TAXONOMY = {
-  'Mariam':    { label:'ማርያም · Mariam (St. Mary)',      subgroups:['General / ጠቅላላ','Tsome Mariam / ጾመ ማርያም','Kidane Mehret / ኪዳነ ምሕረት','Debre Tsion','Assumption / ፍልሰታ','Wedding / ሰርግ'] },
-  'Gabriel':   { label:'ቅዱስ ገብርኤል · St. Gabriel',       subgroups:['General / ጠቅላላ','Monthly Feast'] },
-  'Michael':   { label:'ቅዱስ ሚካኤል · St. Michael',        subgroups:['General / ጠቅላላ','Monthly Feast'] },
-  'Egziabher': { label:'እግዚአብሔር · Egziabher (God)',      subgroups:['General Praise / ጠቅላላ ምስጋና','Timket / ጥምቀት','Hosanna / ሆሳዕና','Good Friday / ስቅለት','Easter / ፋሲካ','Pentecost / ጰንጠቆስጤ','Transfiguration / ደብረ ታቦር'] },
-  'Saints':    { label:'ቅዱሳን · Saints & Angels',         subgroups:['General / ጠቅላላ','St. George / ጊዮርጊስ','St. Tekle Haymanot / ተክለ ሃይማኖት','St. Yared / ቅዱስ ያሬድ','Angels / መላእክት'] },
-  'Occasions': { label:'ክብረ በዓላት · Church Occasions',    subgroups:['Wedding / ሰርግ','Funeral / ቀብር','Timket / ጥምቀት','Hosanna / ሆሳዕና','Easter / ፋሲካ','Christmas / ገና','New Year / እንቁጣጣሽ','Finding of the Cross / መስቀል','Epiphany'] },
-  'Morning':   { label:'ጸሎተ ንጋት · Morning',              subgroups:['Morning Praise','Lauds'] },
-  'Evening':   { label:'ጸሎተ ሠርክ · Evening',              subgroups:['Evening Praise','Vespers'] },
-  'General':   { label:'ጠቅላላ · General',                 subgroups:['Praise & Worship','Youth / ወጣት','Children / ሕፃናት','Lent / ጾም','Other'] },
+
+  // ── ማርያም ─────────────────────────────────────────────────────
+  'Mariam': {
+    label: 'ማርያም · Mariam (St. Mary)',
+    subgroups: [
+      'ልደታ ለማርያም / Lideta le-Mariam',
+      'ኪዳነ ምሕረት / Kidane Mehret',
+      'ፍልሰታ / Filseta (Assumption)',
+      'ስደት ማርያም - ወርሒ ጹጌ / Sdet Mariam',
+      'ትሶመ ማርያም / Tsome Mariam',
+      'ጠቅላላ / General',
+    ]
+  },
+
+  // ── ቅዱሳን ──────────────────────────────────────────────────────
+  'Michael': {
+    label: 'ቅዱስ ሚካኤል · St. Michael',
+    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+  },
+
+  'Gabriel': {
+    label: 'ቅዱስ ገብርኤል · St. Gabriel',
+    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+  },
+
+  'Giorgis': {
+    label: 'ቅዱስ ጊዮርጊስ · St. George',
+    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+  },
+
+  'TekleHaymanot': {
+    label: 'ኣቡነ ተክለ ሃይማኖት · Abune Tekle Haymanot',
+    subgroups: ['ጠቅላላ / General']
+  },
+
+  'Yohannes': {
+    label: 'ቅዱስ ዮሓንስ · St. John (Yohannes)',
+    subgroups: ['ጠቅላላ / General']
+  },
+
+  'Saints': {
+    label: 'ቅዱሳን · Other Saints & Angels',
+    subgroups: ['ጠቅላላ / General', 'Angels / መላእክት', 'St. Yared / ቅዱስ ያሬድ']
+  },
+
+  // ── እግዚኣብሔር / Church Feasts ─────────────────────────────────
+  'Egziabher': {
+    label: 'እግዚኣብሔር · Egziabher (God)',
+    subgroups: [
+      'ጠቅላላ ምስጋና / General Praise',
+      'ልደት / Lidet (Christmas)',
+      'ጥምቀት / Timket (Epiphany)',
+      'ሆሳዕና / Hosanna (Palm Sunday)',
+      'ስቅለት / Siglet (Good Friday)',
+      'ትንሣኤ / Tinsae (Easter)',
+      'ዕርጋት / Erget (Ascension)',
+      'ጰንጠቆስጤ / Pentecost',
+      'ደብረ ታቦር / Debre Tabor (Transfiguration)',
+      'ክብረ ታቦት / Kibre Tabot',
+      'መድኃኔ ዓለም / Medhane Alem',
+      'ፋሲካ / Fasika',
+      'ጳጉሜን / Pagumen',
+      'ዘወትር / Zewetr (Everyday)',
+    ]
+  },
+
+  // ── ነፍሳዊ / Spiritual ─────────────────────────────────────────
+  'Spiritual': {
+    label: 'ነፍሳዊ · Spiritual / Penitential',
+    subgroups: [
+      'ንስሓ / Nissha (Repentance)',
+      'ሥሳሴ / Sillase (Trinity)',
+      'ጾም / Tsom (Fasting / Lent)',
+      'ቅዳሴ / Qidase (Liturgy)',
+      'ዘወትር / Everyday Devotion',
+    ]
+  },
+
+  // ── መስቀል ─────────────────────────────────────────────────────
+  'Meskel': {
+    label: 'መስቀል · Meskel (Finding of the True Cross)',
+    subgroups: ['ጠቅላላ / General']
+  },
+
+  // ── ሰርግ / Wedding ────────────────────────────────────────────
+  'Wedding': {
+    label: 'ሰርግ / መርዓ · Wedding',
+    subgroups: [
+      'መርዓ / Mera (Wedding ceremony)',
+      'ቅድስና / Qidisna (Blessing)',
+      'ሰርግ ዘፈን / Wedding songs',
+      'ጠቅላላ / General',
+    ]
+  },
+
+  // ── ቀብሪ / Funeral ────────────────────────────────────────────
+  'Funeral': {
+    label: 'ቀብሪ · Funeral',
+    subgroups: ['ጠቅላላ / General']
+  },
+
+  // ── ጠቅላላ ─────────────────────────────────────────────────────
+  'Morning': {
+    label: 'ጸሎተ ንጋት · Morning Prayer',
+    subgroups: ['Morning Praise', 'Lauds']
+  },
+
+  'Evening': {
+    label: 'ጸሎተ ሠርክ · Evening Prayer',
+    subgroups: ['Evening Praise', 'Vespers']
+  },
+
+  'General': {
+    label: 'ጠቅላላ · General',
+    subgroups: ['Praise & Worship', 'Youth / ወጣት', 'Children / ሕፃናት', 'Other']
+  },
+
 };
 const ALL_GROUP_KEYS = Object.keys(GROUP_TAXONOMY);
 
@@ -198,13 +306,69 @@ function hymnToExport(hymn){
   return out;
 }
 
-function exportHymns(){
-  const data=hymns.map(hymnToExport);
+function downloadJSON(data, filename){
   const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
   const url=URL.createObjectURL(blob);
-  const a=document.createElement('a'); a.href=url; a.download='hymns.json'; a.click();
+  const a=document.createElement('a'); a.href=url; a.download=filename; a.click();
   URL.revokeObjectURL(url);
+}
+
+function exportAllHymns(){
+  const data=hymns.map(hymnToExport);
+  downloadJSON(data,'hymns.json');
   showToast(`Exported ${data.length} hymn${data.length!==1?'s':''} \u2713`,'success');
+  closeExportMenu();
+}
+
+function exportByGroup(groupKey){
+  const group=hymns.filter(h=>h.groupKey===groupKey);
+  if (!group.length){showToast(`No hymns in group "${groupKey}"`,'error');closeExportMenu();return;}
+  const data=group.map(hymnToExport);
+  const filename=groupKey.replace(/[^a-zA-Z0-9_-]/g,'_')+'.json';
+  downloadJSON(data,filename);
+  showToast(`Exported ${data.length} hymn${data.length!==1?'s':''} from ${groupKey} \u2713`,'success');
+  closeExportMenu();
+}
+
+function exportUngrouped(){
+  const group=hymns.filter(h=>!h.groupKey);
+  if (!group.length){showToast('No ungrouped hymns','error');closeExportMenu();return;}
+  const data=group.map(hymnToExport);
+  downloadJSON(data,'ungrouped.json');
+  showToast(`Exported ${data.length} ungrouped hymn${data.length!==1?'s':''} \u2713`,'success');
+  closeExportMenu();
+}
+
+function closeExportMenu(){
+  document.getElementById('export-menu').style.display='none';
+}
+
+function buildExportGroupList(){
+  const container=document.getElementById('export-group-list');
+  if (!container) return;
+  container.innerHTML='';
+  // Which groups actually have hymns?
+  const usedGroups=ALL_GROUP_KEYS.filter(k=>hymns.some(h=>h.groupKey===k));
+  const ungrouped=hymns.filter(h=>!h.groupKey).length;
+  if (!usedGroups.length && !ungrouped){
+    container.innerHTML='<div class="export-menu-empty">No hymns yet</div>';
+    return;
+  }
+  usedGroups.forEach(k=>{
+    const count=hymns.filter(h=>h.groupKey===k).length;
+    const btn=document.createElement('button');
+    btn.className='export-menu-item';
+    btn.innerHTML=`<span>${escHtml(GROUP_TAXONOMY[k].label)}</span><span class="export-count">${count}</span>`;
+    btn.addEventListener('click',()=>exportByGroup(k));
+    container.appendChild(btn);
+  });
+  if (ungrouped){
+    const btn=document.createElement('button');
+    btn.className='export-menu-item';
+    btn.innerHTML=`<span>Ungrouped</span><span class="export-count">${ungrouped}</span>`;
+    btn.addEventListener('click',()=>exportUngrouped());
+    container.appendChild(btn);
+  }
 }
 
 // ═══════════════════════════════════════
@@ -413,6 +577,7 @@ function buildEditorHTML(hymn){
         </select>
       </div>
       <div class="editor-toolbar-right">
+        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">\u271d Submit to GitHub</button>
         <button class="btn btn-danger btn-sm" id="btn-delete-hymn">\u2715 Delete</button>
       </div>
     </div>
@@ -629,6 +794,7 @@ function bindEditorEvents(wrapper,hymn){
   wrapper.querySelector('#btn-duplicate')?.addEventListener('click',()=>duplicateHymn(hymn.id));
   wrapper.querySelector('#btn-regen-id')?.addEventListener('click',()=>regenId(hymn));
   wrapper.querySelector('#btn-delete-hymn')?.addEventListener('click',()=>confirmDeleteHymn(hymn.id));
+  wrapper.querySelector('#btn-submit-hymn')?.addEventListener('click',()=>startSubmitFlow(hymn));
 }
 
 function bindInputField(wrapper,selector,setter){
@@ -807,6 +973,291 @@ function showToast(msg,type=''){
 function escHtml(str){if(!str)return '';return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
 function nl2br(str){return str.replace(/\n/g,'<br>');}
 
+
+// ═══════════════════════════════════════
+//  GITHUB SETTINGS
+// ═══════════════════════════════════════
+
+const GH_KEYS = {owner:'wz_gh_owner',repo:'wz_gh_repo',branch:'wz_gh_branch',token:'wz_gh_token',folder:'wz_gh_folder'};
+
+function getGHConfig(){
+  return {
+    owner:  localStorage.getItem(GH_KEYS.owner)||'',
+    repo:   localStorage.getItem(GH_KEYS.repo)||'',
+    branch: localStorage.getItem(GH_KEYS.branch)||'main',
+    token:  localStorage.getItem(GH_KEYS.token)||'',
+    folder: localStorage.getItem(GH_KEYS.folder)||'',
+  };
+}
+
+function saveGHConfig(cfg){
+  Object.keys(GH_KEYS).forEach(k=>localStorage.setItem(GH_KEYS[k], cfg[k]||''));
+}
+
+function isGHConfigured(){
+  const cfg=getGHConfig();
+  return !!(cfg.owner && cfg.repo && cfg.token);
+}
+
+function openGithubSettings(){
+  const cfg=getGHConfig();
+  document.getElementById('gh-owner').value  = cfg.owner;
+  document.getElementById('gh-repo').value   = cfg.repo;
+  document.getElementById('gh-branch').value = cfg.branch||'main';
+  document.getElementById('gh-token').value  = cfg.token;
+  document.getElementById('gh-folder').value = cfg.folder;
+  document.getElementById('modal-github').style.display='flex';
+}
+
+function closeGithubSettings(){
+  document.getElementById('modal-github').style.display='none';
+}
+
+async function testGHConnection(){
+  const cfg = {
+    owner:  document.getElementById('gh-owner').value.trim(),
+    repo:   document.getElementById('gh-repo').value.trim(),
+    branch: document.getElementById('gh-branch').value.trim()||'main',
+    token:  document.getElementById('gh-token').value.trim(),
+    folder: document.getElementById('gh-folder').value.trim(),
+  };
+  if (!cfg.owner||!cfg.repo||!cfg.token){showToast('Fill in username, repo, and token first.','error');return;}
+  showToast('Testing connection…');
+  try{
+    const r=await fetch(`https://api.github.com/repos/${cfg.owner}/${cfg.repo}`,{
+      headers:{'Authorization':`Bearer ${cfg.token}`,'Accept':'application/vnd.github+json'}
+    });
+    if (r.ok){
+      const d=await r.json();
+      showToast(`Connected to "${d.full_name}" \u2713`,'success');
+    } else {
+      const e=await r.json();
+      showToast(`Error: ${e.message}`,'error');
+    }
+  }catch(e){showToast('Network error — check your connection.','error');}
+}
+
+// ═══════════════════════════════════════
+//  GITHUB FILE API HELPERS
+// ═══════════════════════════════════════
+
+function ghFilePath(cfg, groupKey){
+  const folder = (cfg.folder||'').replace(/\/$/,'');
+  // Use clean filename — groupKey is already a clean key like 'Mariam', 'Egziabher' etc.
+  const filename = (groupKey||'ungrouped')+'.json';
+  return folder ? `${folder}/${filename}` : filename;
+}
+
+// Return all group file paths that should exist in the repo
+function allGroupFilePaths(cfg){
+  return ALL_GROUP_KEYS.map(k=>({key:k, label:GROUP_TAXONOMY[k].label, path:ghFilePath(cfg,k)}));
+}
+
+async function ghGetFile(cfg, path){
+  const url=`https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}?ref=${cfg.branch}`;
+  const r=await fetch(url,{headers:{'Authorization':`Bearer ${cfg.token}`,'Accept':'application/vnd.github+json'}});
+  if (r.status===404) return null;
+  if (!r.ok) throw new Error(`GitHub API error: ${r.status}`);
+  return r.json(); // { content (base64), sha, ... }
+}
+
+async function ghPutFile(cfg, path, content, sha, message){
+  const url=`https://api.github.com/repos/${cfg.owner}/${cfg.repo}/contents/${path}`;
+  const body={
+    message,
+    content: btoa(unescape(encodeURIComponent(content))),
+    branch: cfg.branch,
+  };
+  if (sha) body.sha = sha;
+  const r=await fetch(url,{
+    method:'PUT',
+    headers:{'Authorization':`Bearer ${cfg.token}`,'Accept':'application/vnd.github+json','Content-Type':'application/json'},
+    body:JSON.stringify(body)
+  });
+  if (!r.ok){const e=await r.json(); throw new Error(e.message||'GitHub write failed');}
+  return r.json();
+}
+
+
+// ═══════════════════════════════════════
+//  INITIALIZE ALL GROUP FILES ON GITHUB
+// ═══════════════════════════════════════
+
+async function initializeGitHubFiles(){
+  if (!isGHConfigured()){showToast('Save GitHub settings first.','error');return;}
+  const cfg=getGHConfig();
+  const files=allGroupFilePaths(cfg);
+
+  const btn=document.getElementById('gh-init-files');
+  const statusEl=document.getElementById('gh-init-status');
+  btn.disabled=true;
+  btn.textContent='Creating files…';
+  statusEl.innerHTML='<div class="init-progress"><span class="cross-spin">✝</span> Starting…</div>';
+
+  let created=0, skipped=0, failed=0;
+
+  for (const f of files){
+    statusEl.innerHTML=`<div class="init-progress"><span class="cross-spin">✝</span> Checking <strong>${f.path}</strong>…</div>`;
+    try{
+      const existing=await ghGetFile(cfg, f.path);
+      if (existing){
+        skipped++;
+        statusEl.innerHTML+=`<div class="init-row init-skip">✓ Already exists: <code>${f.path}</code></div>`;
+      } else {
+        await ghPutFile(cfg, f.path, '[]', null, `Initialize ${f.key} hymns file`);
+        created++;
+        statusEl.innerHTML+=`<div class="init-row init-ok">✝ Created: <code>${f.path}</code></div>`;
+      }
+    }catch(e){
+      failed++;
+      statusEl.innerHTML+=`<div class="init-row init-fail">✕ Failed: <code>${f.path}</code> — ${escHtml(e.message)}</div>`;
+    }
+    // Small delay to avoid rate limit
+    await new Promise(r=>setTimeout(r,300));
+  }
+
+  btn.disabled=false;
+  btn.textContent='✝ Initialize All Group Files';
+  statusEl.innerHTML+=`<div class="init-summary">Done — ${created} created, ${skipped} already existed, ${failed} failed.</div>`;
+  if (created>0) showToast(`${created} JSON files created on GitHub ✓`,'success');
+}
+
+// ═══════════════════════════════════════
+//  DUPLICATE CHECK & SUBMIT FLOW
+// ═══════════════════════════════════════
+
+let pendingSubmitHymn = null;
+
+async function startSubmitFlow(hymn){
+  if (!isGHConfigured()){
+    showToast('Set up GitHub connection first (⚙ GitHub button).','error');
+    openGithubSettings();
+    return;
+  }
+  // Validate — needs at least one title
+  const hasTitle = LANGS.some(l=>(hymn.langs[l]?.title||'').trim());
+  if (!hasTitle){showToast('Add at least one title before submitting.','error');return;}
+
+  pendingSubmitHymn = hymn;
+
+  // Search for duplicates in GitHub repo
+  const modal=document.getElementById('modal-dupcheck');
+  const results=document.getElementById('dupcheck-results');
+  const submitBtn=document.getElementById('dupcheck-submit');
+  results.innerHTML='<div class="dupcheck-loading"><span class="cross-spin">✝</span> Searching GitHub for similar hymns…</div>';
+  submitBtn.style.display='none';
+  modal.style.display='flex';
+
+  try{
+    const cfg=getGHConfig();
+    const path=ghFilePath(cfg, hymn.groupKey);
+    const existing=await ghGetFile(cfg, path);
+    const displayTitle=getHymnDisplayTitle(hymn).toLowerCase();
+
+    if (!existing){
+      results.innerHTML=`<div class="dupcheck-clear"><span style="color:var(--green);font-size:20px">✓</span> No existing file for this group yet. This will create <strong>${path}</strong>.</div>`;
+      submitBtn.style.display='inline-flex';
+      return;
+    }
+
+    // Decode existing JSON
+    const decoded=decodeURIComponent(escape(atob(existing.content.replace(/\n/g,''))));
+    let existingHymns=[];
+    try{existingHymns=JSON.parse(decoded);}catch(e){}
+
+    // Find similar titles
+    const matches=existingHymns.filter(h=>{
+      if (!h.title) return false;
+      const titles=typeof h.title==='object'?Object.values(h.title):[h.title];
+      return titles.some(t=>{
+        if (!t) return false;
+        const tl=t.toLowerCase();
+        return tl.includes(displayTitle)||displayTitle.includes(tl)||levenshtein(tl,displayTitle)<4;
+      });
+    });
+
+    if (matches.length===0){
+      results.innerHTML=`<div class="dupcheck-clear"><span style="color:var(--green);font-size:20px">✓</span> No duplicates found in <strong>${path}</strong> (${existingHymns.length} hymns checked). Safe to submit!</div>`;
+      submitBtn.style.display='inline-flex';
+    } else {
+      let html=`<div class="dupcheck-warning"><span style="color:var(--gold);font-size:16px">⚠</span> Found ${matches.length} possibly similar hymn${matches.length!==1?'s':''} already in <strong>${path}</strong>:</div>`;
+      html+='<div class="dupcheck-matches">';
+      matches.forEach(m=>{
+        const t=typeof m.title==='object'?Object.values(m.title).filter(Boolean).join(' / '):m.title;
+        html+=`<div class="dupcheck-match-item"><span class="dupcheck-match-title">${escHtml(t)}</span><span class="id-chip">${escHtml(m.id||'')}</span></div>`;
+      });
+      html+='</div><div class="dupcheck-note">You can still submit if this is a different hymn.</div>';
+      results.innerHTML=html;
+      submitBtn.style.display='inline-flex';
+    }
+  }catch(e){
+    results.innerHTML=`<div class="dupcheck-error"><span style="color:var(--red)">✕</span> Could not search GitHub: ${escHtml(e.message)}</div>`;
+    submitBtn.style.display='inline-flex';
+    submitBtn.textContent='\u271d Submit Anyway';
+  }
+}
+
+async function submitHymnToGitHub(){
+  const hymn=pendingSubmitHymn;
+  if (!hymn) return;
+  document.getElementById('modal-dupcheck').style.display='none';
+
+  const cfg=getGHConfig();
+  const path=ghFilePath(cfg, hymn.groupKey);
+  const exported=hymnToExport(hymn);
+  const title=getHymnDisplayTitle(hymn);
+
+  showToast('Submitting to GitHub…');
+
+  try{
+    // Get current file (may not exist)
+    const existing=await ghGetFile(cfg, path);
+    let arr=[];
+    let sha=null;
+
+    if (existing){
+      sha=existing.sha;
+      const decoded=decodeURIComponent(escape(atob(existing.content.replace(/\n/g,''))));
+      try{arr=JSON.parse(decoded);}catch(e){arr=[];}
+    }
+
+    // Check if ID already exists → update, else append
+    const idx=arr.findIndex(h=>h.id===exported.id);
+    if (idx>=0) arr[idx]=exported;
+    else arr.push(exported);
+
+    const newContent=JSON.stringify(arr,null,2);
+    const commitMsg=idx>=0
+      ? `Update hymn: ${title} (${exported.id})`
+      : `Add hymn: ${title} (${exported.id})`;
+
+    await ghPutFile(cfg, path, newContent, sha, commitMsg);
+
+    // Mark as final locally
+    hymn.status='final';
+    saveToStorage();
+    renderHymnList();
+    if (activeHymn?.id===hymn.id) renderEditor();
+
+    // Show success
+    document.getElementById('submitted-msg').innerHTML=
+      `<strong>${escHtml(title)}</strong> was added to <code>${escHtml(path)}</code> in your GitHub repo.<br><br>Commit: <em>${escHtml(commitMsg)}</em>`;
+    document.getElementById('modal-submitted').style.display='flex';
+
+  }catch(e){
+    showToast(`Submit failed: ${e.message}`,'error');
+  }
+}
+
+// Simple Levenshtein for duplicate fuzzy matching
+function levenshtein(a,b){
+  const m=a.length,n=b.length;
+  const dp=Array.from({length:m+1},(_,i)=>Array.from({length:n+1},(_,j)=>i===0?j:j===0?i:0));
+  for(let i=1;i<=m;i++) for(let j=1;j<=n;j++)
+    dp[i][j]=a[i-1]===b[j-1]?dp[i-1][j-1]:1+Math.min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1]);
+  return dp[m][n];
+}
+
 // ═══════════════════════════════════════
 //  INIT
 // ═══════════════════════════════════════
@@ -819,7 +1270,17 @@ function init(){
   else updatePreview();
 
   document.getElementById('btn-new-hymn').addEventListener('click',addNewHymn);
-  document.getElementById('btn-export').addEventListener('click',exportHymns);
+  document.getElementById('btn-github-settings').addEventListener('click',openGithubSettings);
+  document.getElementById('btn-export-toggle').addEventListener('click',(e)=>{
+    e.stopPropagation();
+    const menu=document.getElementById('export-menu');
+    const isOpen=menu.style.display!=='none';
+    if (!isOpen){ buildExportGroupList(); menu.style.display='block'; }
+    else menu.style.display='none';
+  });
+  document.getElementById('btn-export-all').addEventListener('click',exportAllHymns);
+  document.addEventListener('click',()=>closeExportMenu());
+  document.getElementById('export-menu')?.addEventListener('click',e=>e.stopPropagation());
   document.getElementById('btn-import').addEventListener('click',()=>document.getElementById('file-import-input').click());
   document.getElementById('file-import-input').addEventListener('change',function(){
     const file=this.files[0]; if(!file)return;
@@ -832,6 +1293,33 @@ function init(){
   document.getElementById('filter-status').addEventListener('change',renderHymnList);
   document.getElementById('preview-lang-select').addEventListener('change',updatePreview);
 
+  // GitHub modal buttons
+  document.getElementById('gh-cancel').addEventListener('click',closeGithubSettings);
+  document.getElementById('gh-save').addEventListener('click',()=>{
+    const cfg={
+      owner:document.getElementById('gh-owner').value.trim(),
+      repo:document.getElementById('gh-repo').value.trim(),
+      branch:document.getElementById('gh-branch').value.trim()||'main',
+      token:document.getElementById('gh-token').value.trim(),
+      folder:document.getElementById('gh-folder').value.trim(),
+    };
+    saveGHConfig(cfg); closeGithubSettings();
+    showToast('GitHub settings saved ✓','success');
+    updateGHStatusIndicator();
+  });
+  document.getElementById('gh-test').addEventListener('click',testGHConnection);
+  document.getElementById('gh-init-files').addEventListener('click',initializeGitHubFiles);
+  document.getElementById('modal-github').addEventListener('click',function(e){if(e.target===this)closeGithubSettings();});
+
+  // Dup check modal
+  document.getElementById('dupcheck-cancel').addEventListener('click',()=>{document.getElementById('modal-dupcheck').style.display='none';});
+  document.getElementById('dupcheck-submit').addEventListener('click',submitHymnToGitHub);
+  document.getElementById('modal-dupcheck').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+
+  // Submitted modal
+  document.getElementById('submitted-ok').addEventListener('click',()=>{document.getElementById('modal-submitted').style.display='none';});
+  document.getElementById('modal-submitted').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+
   document.getElementById('modal-conflict').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
   document.getElementById('modal-delete').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
 
@@ -839,4 +1327,18 @@ function init(){
     if ((e.ctrlKey||e.metaKey)&&e.key==='s'){e.preventDefault();saveToStorage();showToast('Saved \u2713','success');}
   });
 }
-document.addEventListener('DOMContentLoaded',init);
+function updateGHStatusIndicator(){
+  const btn=document.getElementById('btn-github-settings');
+  if (!btn) return;
+  if (isGHConfigured()){
+    btn.textContent='⚙ GitHub ✓';
+    btn.style.borderColor='rgba(61,107,78,.5)';
+    btn.style.color='#a8d5b5';
+  } else {
+    btn.textContent='⚙ GitHub';
+    btn.style.borderColor='';
+    btn.style.color='';
+  }
+}
+
+document.addEventListener('DOMContentLoaded',()=>{init();updateGHStatusIndicator();});

@@ -18,8 +18,17 @@
       </div>
     </div>
     <div class="header-actions">
+      <button class="btn btn-ghost" id="btn-github-settings">⚙ GitHub</button>
       <button class="btn btn-ghost" id="btn-import">⬆ Import JSON</button>
-      <button class="btn btn-ghost" id="btn-export">⬇ Export hymns.json</button>
+      <div class="export-dropdown" id="export-dropdown">
+        <button class="btn btn-ghost" id="btn-export-toggle">⬇ Export ▾</button>
+        <div class="export-menu" id="export-menu" style="display:none">
+          <button class="export-menu-item" id="btn-export-all">📄 All hymns — hymns.json</button>
+          <div class="export-menu-divider"></div>
+          <div class="export-menu-label">Export by group:</div>
+          <div id="export-group-list"></div>
+        </div>
+      </div>
       <button class="btn btn-primary" id="btn-new-hymn">+ New Hymn</button>
     </div>
   </header>
@@ -91,6 +100,81 @@
       <div class="modal-actions">
         <button class="btn btn-ghost" id="delete-cancel">Cancel</button>
         <button class="btn btn-danger" id="delete-confirm">Delete</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- GITHUB SETTINGS MODAL -->
+  <div class="modal-overlay" id="modal-github" style="display:none">
+    <div class="modal modal-wide">
+      <div class="modal-cross-header">
+        <div class="modal-cross-icon">✝</div>
+        <h3 class="modal-title">GitHub Connection</h3>
+      </div>
+      <p class="modal-body">Connect to your GitHub repo so hymns are submitted directly into the right JSON file.</p>
+      <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:22px">
+        <div>
+          <label class="field-label">GitHub Username</label>
+          <input type="text" class="field-input" id="gh-owner" placeholder="e.g. essey" />
+        </div>
+        <div>
+          <label class="field-label">Repository Name</label>
+          <input type="text" class="field-input" id="gh-repo" placeholder="e.g. wazema-entry" />
+        </div>
+        <div>
+          <label class="field-label">Branch (usually main)</label>
+          <input type="text" class="field-input" id="gh-branch" value="main" placeholder="main" />
+        </div>
+        <div>
+          <label class="field-label">Personal Access Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Wazema" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:underline;font-weight:400;text-transform:none;letter-spacing:0">Get one here ↗</a></label>
+          <input type="password" class="field-input" id="gh-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
+          <div style="font-size:11px;color:var(--ink-faint);margin-top:4px">⚠ Token is saved only in your browser. Never share it.</div>
+        </div>
+        <div>
+          <label class="field-label">JSON folder in repo (optional)</label>
+          <input type="text" class="field-input" id="gh-folder" placeholder="e.g. data  (leave empty for root)" />
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="gh-cancel">Cancel</button>
+        <button class="btn btn-secondary" id="gh-test">Test Connection</button>
+        <button class="btn btn-primary" id="gh-save">Save & Connect</button>
+      </div>
+
+      <!-- Initialize files section -->
+      <div class="gh-init-section">
+        <div class="gh-init-title">✝ Set up JSON files in your repo</div>
+        <p class="gh-init-desc">Creates one empty <code>GroupName.json</code> file for each category in your repo. Run this once after connecting. Won't overwrite files that already have hymns.</p>
+        <button class="btn btn-submit" id="gh-init-files" style="width:100%;margin-bottom:10px">✝ Initialize All Group Files on GitHub</button>
+        <div id="gh-init-status" class="gh-init-status"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- DUPLICATE SEARCH MODAL -->
+  <div class="modal-overlay" id="modal-dupcheck" style="display:none">
+    <div class="modal modal-wide">
+      <div class="modal-cross-header">
+        <div class="modal-cross-icon">✝</div>
+        <h3 class="modal-title">Check for Duplicates</h3>
+      </div>
+      <p class="modal-body">Searching GitHub for hymns with a similar title before submitting…</p>
+      <div id="dupcheck-results" style="margin-bottom:16px"></div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="dupcheck-cancel">Cancel</button>
+        <button class="btn btn-primary" id="dupcheck-submit" style="display:none">✝ Submit Anyway</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- SUBMIT SUCCESS MODAL -->
+  <div class="modal-overlay" id="modal-submitted" style="display:none">
+    <div class="modal" style="text-align:center">
+      <div style="font-size:48px;margin-bottom:12px">✝</div>
+      <h3 class="modal-title" style="justify-content:center">Hymn Submitted!</h3>
+      <p class="modal-body" id="submitted-msg"></p>
+      <div class="modal-actions" style="justify-content:center">
+        <button class="btn btn-primary" id="submitted-ok">Glory to God ✓</button>
       </div>
     </div>
   </div>
