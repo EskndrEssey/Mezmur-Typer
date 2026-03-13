@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Wazema · Hymn Entry Tool</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="app-header">
+    <div class="header-left">
+      <div class="logo-mark">ዋዜማ</div>
+      <div class="header-titles">
+        <h1 class="app-title">Wazema Hymn Entry</h1>
+        <p class="app-sub">Volunteer Entry Tool · Offline-First</p>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="btn btn-ghost" id="btn-import">⬆ Import JSON</button>
+      <button class="btn btn-ghost" id="btn-export">⬇ Export hymns.json</button>
+      <button class="btn btn-primary" id="btn-new-hymn">+ New Hymn</button>
+    </div>
+  </header>
+  <input type="file" id="file-import-input" accept=".json" style="display:none" />
+
+  <div class="app-body">
+    <aside class="sidebar">
+      <div class="sidebar-search">
+        <input type="text" id="search-input" placeholder="🔍  Search hymns…" class="search-input" />
+      </div>
+      <div class="sidebar-filters">
+        <select id="filter-group" class="filter-select"><option value="">All Groups</option></select>
+        <select id="filter-subgroup" class="filter-select"><option value="">All Occasions</option></select>
+        <select id="filter-status" class="filter-select">
+          <option value="">All Statuses</option>
+          <option value="draft">Draft</option>
+          <option value="review">Needs Review</option>
+          <option value="final">Final</option>
+        </select>
+      </div>
+      <div class="sidebar-stats" id="sidebar-stats">0 hymns</div>
+      <div class="hymn-list" id="hymn-list"></div>
+    </aside>
+
+    <main class="editor-area" id="editor-area">
+      <div class="empty-state" id="empty-state">
+        <div class="empty-icon">♪</div>
+        <h2>No hymn selected</h2>
+        <p>Select a hymn from the list, or create a new one to begin.</p>
+        <button class="btn btn-primary" id="btn-new-hymn-empty">+ New Hymn</button>
+      </div>
+    </main>
+
+    <aside class="preview-panel">
+      <div class="preview-header">
+        <span>Live Preview</span>
+        <select id="preview-lang-select" class="filter-select preview-lang-select">
+          <option value="en">English</option>
+          <option value="ti">Tigrinya</option>
+          <option value="ti_ro">Tigrinya (Roman)</option>
+          <option value="am">Amharic</option>
+          <option value="am_ro">Amharic (Roman)</option>
+          <option value="om">Oromo</option>
+          <option value="ro">Romanian</option>
+        </select>
+      </div>
+      <div class="preview-body" id="preview-body">
+        <p class="preview-placeholder">Preview will appear here as you type.</p>
+      </div>
+    </aside>
+  </div>
+
+  <!-- MODALS -->
+  <div class="modal-overlay" id="modal-conflict" style="display:none">
+    <div class="modal">
+      <h3 class="modal-title">Import Conflict</h3>
+      <p class="modal-body" id="conflict-msg"></p>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="conflict-keep">Keep Existing</button>
+        <button class="btn btn-warning" id="conflict-replace">Replace</button>
+        <button class="btn btn-primary" id="conflict-copy">Save as New Copy</button>
+      </div>
+    </div>
+  </div>
+  <div class="modal-overlay" id="modal-delete" style="display:none">
+    <div class="modal">
+      <h3 class="modal-title">Delete Hymn?</h3>
+      <p class="modal-body" id="delete-msg"></p>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="delete-cancel">Cancel</button>
+        <button class="btn btn-danger" id="delete-confirm">Delete</button>
+      </div>
+    </div>
+  </div>
+  <div class="toast" id="toast"></div>
+  <script src="app.js"></script>
+</body>
+</html>
