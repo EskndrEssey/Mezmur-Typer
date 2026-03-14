@@ -50,123 +50,158 @@ const STATUS_OPTIONS = {draft:'Draft',review:'Needs Review',final:'Final'};
 
 const GROUP_TAXONOMY = {
 
-  // ── ማርያም ─────────────────────────────────────────────────────
   'Mariam': {
-    label: 'ማርያም · Mariam (St. Mary)',
-    subgroups: [
-      'ልደታ ለማርያም / Lideta le-Mariam',
-      'ኪዳነ ምሕረት / Kidane Mehret',
-      'ፍልሰታ / Filseta (Assumption)',
-      'ስደት ማርያም - ወርሒ ጹጌ / Sdet Mariam',
-      'ትሶመ ማርያም / Tsome Mariam',
-      'ጠቅላላ / General',
-    ]
+    label: 'ማርያም · Mariam',
+    file: 'Mariam',
+    subgroups: ['Lideta / ልደታ ለማርያም', 'KidaneMehret / ኪዳነ ምሕረት', 'Filseta / ፍልሰታ', 'SdetMariam / ስደት ማርያም', 'TsomeMariam / ጾመ ማርያም', 'General / ጠቅላላ']
   },
 
-  // ── ቅዱሳን ──────────────────────────────────────────────────────
+  'Egziabher': {
+    label: 'እግዚኣብሔር · Egziabher',
+    file: 'Egziabher',
+    subgroups: ['Lidet / ልደት', 'Timket / ጥምቀት', 'Hosanna / ሆሳዕና', 'Siglet / ስቅለት', 'Tinsae / ትንሣኤ', 'Erget / ዕርጋት', 'Pentecost / ጰንጠቆስጤ', 'DebreTabor / ደብረ ታቦር', 'KibreTabot / ክብረ ታቦት', 'MedhaneAlem / መድኃኔ ዓለም', 'Pagumen / ጳጉሜን', 'Zewetr / ዘወትር', 'General / ጠቅላላ']
+  },
+
   'Michael': {
     label: 'ቅዱስ ሚካኤል · St. Michael',
-    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+    file: 'Michael',
+    subgroups: ['Monthly Feast / ወርሓዊ', 'General / ጠቅላላ']
   },
 
   'Gabriel': {
     label: 'ቅዱስ ገብርኤል · St. Gabriel',
-    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+    file: 'Gabriel',
+    subgroups: ['Monthly Feast / ወርሓዊ', 'General / ጠቅላላ']
   },
 
   'Giorgis': {
     label: 'ቅዱስ ጊዮርጊስ · St. George',
-    subgroups: ['ጠቅላላ / General', 'Monthly Feast']
+    file: 'Giorgis',
+    subgroups: ['Monthly Feast / ወርሓዊ', 'General / ጠቅላላ']
   },
 
   'TekleHaymanot': {
     label: 'ኣቡነ ተክለ ሃይማኖት · Abune Tekle Haymanot',
-    subgroups: ['ጠቅላላ / General']
+    file: 'TekleHaymanot',
+    subgroups: ['General / ጠቅላላ']
   },
 
   'Yohannes': {
-    label: 'ቅዱስ ዮሓንስ · St. John (Yohannes)',
-    subgroups: ['ጠቅላላ / General']
+    label: 'ቅዱስ ዮሓንስ · St. John',
+    file: 'Yohannes',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  'Saints': {
-    label: 'ቅዱሳን · Other Saints & Angels',
-    subgroups: ['ጠቅላላ / General', 'Angels / መላእክት', 'St. Yared / ቅዱስ ያሬድ']
-  },
-
-  // ── እግዚኣብሔር / Church Feasts ─────────────────────────────────
-  'Egziabher': {
-    label: 'እግዚኣብሔር · Egziabher (God)',
-    subgroups: [
-      'ጠቅላላ ምስጋና / General Praise',
-      'ልደት / Lidet (Christmas)',
-      'ጥምቀት / Timket (Epiphany)',
-      'ሆሳዕና / Hosanna (Palm Sunday)',
-      'ስቅለት / Siglet (Good Friday)',
-      'ትንሣኤ / Tinsae (Easter)',
-      'ዕርጋት / Erget (Ascension)',
-      'ጰንጠቆስጤ / Pentecost',
-      'ደብረ ታቦር / Debre Tabor (Transfiguration)',
-      'ክብረ ታቦት / Kibre Tabot',
-      'መድኃኔ ዓለም / Medhane Alem',
-      'ፋሲካ / Fasika',
-      'ጳጉሜን / Pagumen',
-      'ዘወትር / Zewetr (Everyday)',
-    ]
-  },
-
-  // ── ነፍሳዊ / Spiritual ─────────────────────────────────────────
-  'Spiritual': {
-    label: 'ነፍሳዊ · Spiritual / Penitential',
-    subgroups: [
-      'ንስሓ / Nissha (Repentance)',
-      'ሥሳሴ / Sillase (Trinity)',
-      'ጾም / Tsom (Fasting / Lent)',
-      'ቅዳሴ / Qidase (Liturgy)',
-      'ዘወትር / Everyday Devotion',
-    ]
-  },
-
-  // ── መስቀል ─────────────────────────────────────────────────────
   'Meskel': {
-    label: 'መስቀል · Meskel (Finding of the True Cross)',
-    subgroups: ['ጠቅላላ / General']
+    label: 'መስቀል · Meskel',
+    file: 'Meskel',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  // ── ሰርግ / Wedding ────────────────────────────────────────────
-  'Wedding': {
-    label: 'ሰርግ / መርዓ · Wedding',
-    subgroups: [
-      'መርዓ / Mera (Wedding ceremony)',
-      'ቅድስና / Qidisna (Blessing)',
-      'ሰርግ ዘፈን / Wedding songs',
-      'ጠቅላላ / General',
-    ]
+  'KidaneMehret': {
+    label: 'ኪዳነ ምሕረት · Kidane Mehret',
+    file: 'KidaneMehret',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  // ── ቀብሪ / Funeral ────────────────────────────────────────────
-  'Funeral': {
-    label: 'ቀብሪ · Funeral',
-    subgroups: ['ጠቅላላ / General']
+  'Hosanna': {
+    label: 'ሆሳዕና · Hosanna',
+    file: 'Hosanna',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  // ── ጠቅላላ ─────────────────────────────────────────────────────
-  'Morning': {
-    label: 'ጸሎተ ንጋት · Morning Prayer',
-    subgroups: ['Morning Praise', 'Lauds']
+  'Siglet': {
+    label: 'ስቅለት · Good Friday',
+    file: 'Siglet',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  'Evening': {
-    label: 'ጸሎተ ሠርክ · Evening Prayer',
-    subgroups: ['Evening Praise', 'Vespers']
+  'Tinsae': {
+    label: 'ትንሣኤ · Easter',
+    file: 'Tinsae',
+    subgroups: ['General / ጠቅላላ']
   },
 
-  'General': {
-    label: 'ጠቅላላ · General',
-    subgroups: ['Praise & Worship', 'Youth / ወጣት', 'Children / ሕፃናት', 'Other']
+  'Timket': {
+    label: 'ጥምቀት · Timket',
+    file: 'Timket',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Nissha': {
+    label: 'ንስሓ · Repentance',
+    file: 'Nissha',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Erget': {
+    label: 'ዕርጋት · Ascension',
+    file: 'Erget',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Sillase': {
+    label: 'ሥሳሴ · Trinity',
+    file: 'Sillase',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Filseta': {
+    label: 'ፍልሰታ · Assumption',
+    file: 'Filseta',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Lideta': {
+    label: 'ልደታ ለማርያም · Lideta le-Mariam',
+    file: 'Lideta',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'SdetMariam': {
+    label: 'ስደት ማርያም · Sdet Mariam',
+    file: 'SdetMariam',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'DebreTabor': {
+    label: 'ደብረ ታቦር · Debre Tabor',
+    file: 'DebreTabor',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Pagumen': {
+    label: 'ጳጉሜን · Pagumen',
+    file: 'Pagumen',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Zewetr': {
+    label: 'ዘወትር · Everyday',
+    file: 'Zewetr',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'KibreTabot': {
+    label: 'ክብረ ታቦት · Kibre Tabot',
+    file: 'KibreTabot',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'MedhaneAlem': {
+    label: 'መድኃኔ ዓለም · Medhane Alem',
+    file: 'MedhaneAlem',
+    subgroups: ['General / ጠቅላላ']
+  },
+
+  'Mera': {
+    label: 'መርዓ · Wedding',
+    file: 'Mera',
+    subgroups: ['Ceremony / ሰርግ', 'Blessing / ቅድስና', 'General / ጠቅላላ']
   },
 
 };
+
 const ALL_GROUP_KEYS = Object.keys(GROUP_TAXONOMY);
 
 // STATE
@@ -301,7 +336,8 @@ function hymnToExport(hymn){
   // scalar fields
   ['composer','singer','author'].forEach(f=>{ if(hymn[f]&&hymn[f].trim())out[f]=hymn[f].trim(); });
   if (hymn.color&&hymn.color.trim()) out.color=hymn.color.trim();
-  if (hymn.subgroup&&hymn.subgroup.trim()) out.subgroup=hymn.subgroup.trim();
+  if (hymn.subgroup&&hymn.subgroup.trim()) out.subcategory=hymn.subgroup.trim();
+  if (hymn.groupKey&&hymn.groupKey.trim()) out.category=hymn.groupKey.trim();
 
   return out;
 }
@@ -1028,13 +1064,24 @@ function isSessionActive(){
 
 function checkPasswordGate(){
   const cfg=getGHConfig();
-  // If no password set yet (admin hasn't configured) OR session active → let through
   if (!cfg.volpass || isSessionActive()){
-    document.getElementById('modal-password-gate').style.display='none';
+    hideLanding();
     return;
   }
-  document.getElementById('modal-password-gate').style.display='flex';
-  setTimeout(()=>document.getElementById('gate-password').focus(),100);
+  showLanding();
+}
+
+function showLanding(){
+  document.getElementById('password-landing').style.display='flex';
+  document.getElementById('app-header-bar') && (document.getElementById('app-header-bar').style.display='none');
+  document.querySelector('.app-body') && (document.querySelector('.app-body').style.display='none');
+  setTimeout(()=>document.getElementById('gate-password').focus(),150);
+}
+
+function hideLanding(){
+  document.getElementById('password-landing').style.display='none';
+  document.getElementById('app-header-bar') && (document.getElementById('app-header-bar').style.display='');
+  document.querySelector('.app-body') && (document.querySelector('.app-body').style.display='');
 }
 
 function submitPasswordGate(){
@@ -1043,13 +1090,16 @@ function submitPasswordGate(){
   const errEl=document.getElementById('gate-error');
   if (!cfg.volpass || entered===cfg.volpass){
     sessionStorage.setItem(SESSION_KEY,'1');
-    document.getElementById('modal-password-gate').style.display='none';
+    hideLanding();
     errEl.style.display='none';
     document.getElementById('gate-password').value='';
   } else {
     errEl.style.display='block';
     document.getElementById('gate-password').value='';
     document.getElementById('gate-password').focus();
+    // Shake animation
+    const input=document.getElementById('gate-password');
+    input.classList.remove('shake'); void input.offsetWidth; input.classList.add('shake');
   }
 }
 
@@ -1083,8 +1133,9 @@ async function testGHConnection(){
 
 function ghFilePath(cfg, groupKey){
   const folder = (cfg.folder||'').replace(/\/$/,'');
-  // Use clean filename — groupKey is already a clean key like 'Mariam', 'Egziabher' etc.
-  const filename = (groupKey||'ungrouped')+'.json';
+  // Use the file key from taxonomy if available, else groupKey directly
+  const fileKey = (GROUP_TAXONOMY[groupKey]?.file) || groupKey || 'ungrouped';
+  const filename = fileKey + '.json';
   return folder ? `${folder}/${filename}` : filename;
 }
 
