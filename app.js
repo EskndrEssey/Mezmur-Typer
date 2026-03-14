@@ -587,120 +587,119 @@ function buildEmptyState(){
 function buildEditorHTML(hymn){
   const lang=getActiveLang(hymn.id);
   const tabs=LANGS.map(l=>`<button class="lang-tab${l===lang?' active':''}" data-lang="${l}">${LANG_NAMES[l]}</button>`).join('');
-  const uiLang = getActiveLang(hymn.id);
-  const groupOptions=ALL_GROUP_KEYS.map(k=>{
+
+  // Category toggle buttons
+  const catToggles = ALL_GROUP_KEYS.map(k=>{
     const g=GROUP_TAXONOMY[k];
-    const lbl=typeof g.label==='string'?g.label:(g.label?.[uiLang]||g.label?.en||k);
-    return `<option value="${k}"${hymn.groupKey===k?' selected':''}>${escHtml(lbl)}</option>`;
+    const lbl=typeof g.label==='string'?g.label:(g.label?.en||k);
+    const isActive = hymn.groupKey===k;
+    return `<button class="cat-toggle${isActive?' active':''}" data-cat="${k}">${escHtml(lbl)}</button>`;
   }).join('');
-  const subgroupOptions=buildSubgroupOptions(hymn.groupKey, hymn.subgroup, uiLang);
+
+  // Subcategory toggle buttons (for selected group)
+  const subToggles = buildSubToggleButtons(hymn.groupKey, hymn.subgroup, lang);
+
+  const urlsHtml=(hymn.youtubeUrls&&hymn.youtubeUrls.length?hymn.youtubeUrls:['']).map((u,i)=>`
+    <div class="url-row">
+      <input type="url" class="field-input youtube-url-input" value="${escHtml(u)}" data-index="${i}" placeholder="https://youtube.com/watch?v=..." />
+      <button class="btn-icon remove-url-btn" data-index="${i}" title="Remove">✕</button>
+    </div>`).join('');
 
   return `
     <div class="editor-toolbar">
       <div class="editor-toolbar-left">
-        <button class="btn btn-secondary btn-sm" id="btn-duplicate">\u29c9 Duplicate</button>
-        <button class="btn btn-secondary btn-sm" id="btn-regen-id">\u21bb New ID</button>
+        <button class="btn btn-secondary btn-sm" id="btn-duplicate">⧉ Duplicate</button>
+        <button class="btn btn-secondary btn-sm" id="btn-regen-id">↻ New ID</button>
         <div class="sep"></div>
         <select class="filter-select" id="meta-status" style="width:auto;padding:5px 10px">
           ${Object.entries(STATUS_OPTIONS).map(([k,v])=>`<option value="${k}"${hymn.status===k?' selected':''}>${v}</option>`).join('')}
         </select>
       </div>
       <div class="editor-toolbar-right">
-        <button class="btn btn-copy-json btn-sm" id="btn-copy-json">\u29c9 Copy JSON</button>
-        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">\u271d Submit</button>
-        <button class="btn btn-danger btn-sm" id="btn-delete-hymn">\u2715 Delete</button>
+        <button class="btn btn-copy-json btn-sm" id="btn-copy-json">⧉ Copy JSON</button>
+        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">✝ Submit</button>
+        <button class="btn btn-danger btn-sm" id="btn-delete-hymn">✕ Delete</button>
       </div>
     </div>
 
     <!-- HYMN DETAILS -->
     <div class="section-block">
       <div class="section-header">
-        <span><span class="section-header-icon">\ud83d\udccb</span>Hymn Details</span>
+        <span>Hymn Details</span>
         <span class="id-chip">${escHtml(hymn.id)}</span>
       </div>
       <div class="section-body">
-        <div class="meta-grid">
-          <div>
-            <label class="field-label">Group Category</label>
-            <select class="field-select" id="meta-group">
-              <option value="">\u2014 Select group \u2014</option>
-              ${groupOptions}
-            </select>
-          </div>
-          <div>
-            <label class="field-label">Occasion / Sub-group</label>
-            <select class="field-select" id="meta-subgroup">
-              <option value="">\u2014 Select occasion \u2014</option>
-              ${subgroupOptions}
-            </select>
-          </div>
+
+        <!-- CATEGORY TOGGLES -->
+        <div class="cat-section">
+          <span class="cat-label">Category</span>
+          <div class="cat-toggles" id="cat-toggles">${catToggles}</div>
+          <div class="sub-toggles" id="sub-toggles" style="${subToggles?'':'display:none'}">${subToggles}</div>
+        </div>
+
+        <div class="meta-grid" style="margin-top:12px">
           <div>
             <label class="field-label">Color (hex, optional)</label>
             <input type="text" class="field-input" id="meta-color" value="${escHtml(hymn.color||'')}" placeholder="#DB2777" />
           </div>
           <div>
-            <label class="field-label">Status</label>
-            <select class="field-select" id="meta-status2">
-              ${Object.entries(STATUS_OPTIONS).map(([k,v])=>`<option value="${k}"${hymn.status===k?' selected':''}>${v}</option>`).join('')}
-            </select>
+            <label class="field-label">Zemari/t <span style="font-weight:400;text-transform:none;font-size:10px;color:var(--text3)">(Singer / Composer / Author)</span></label>
+            <input type="text" class="field-input" id="meta-zemari" value="${escHtml(hymn.zemari||'')}" placeholder="Name" />
           </div>
         </div>
-        <div style="margin-top:12px">
-          <label class="field-label">Zemari/t <span style="font-weight:400;text-transform:none;font-size:10px;color:var(--ink-faint)">(Singer / Composer / Author)</span></label>
-          <input type="text" class="field-input" id="meta-zemari" value="${escHtml(hymn.zemari||'')}" placeholder="Name of singer, composer, or author" />
-        </div>
+      </div>
+
+      <div class="section-header" style="border-top:1px solid var(--border)">
+        <span>YouTube Links (optional)</span>
+        <button class="btn btn-secondary btn-sm" id="btn-add-url">+ Add URL</button>
+      </div>
+      <div class="section-body">
+        <div class="url-list" id="url-list">${urlsHtml}</div>
       </div>
     </div>
 
-    <!-- LYRICS BY LANGUAGE -->
+    <!-- LYRICS -->
     <div class="section-block">
-      <div class="section-header"><span><span class="section-header-icon">\ud83c\udf10</span>Lyrics by Language</span></div>
+      <div class="section-header"><span>Lyrics by Language</span></div>
       <div class="lang-tabs">${tabs}</div>
       ${LANGS.map(l=>{
         const d=hymn.langs[l]||createLangData();
         return `
         <div class="lang-panel${l===lang?' active':''}" data-lang="${l}">
-          <!-- Per-language fields row -->
-          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:10px;margin-bottom:14px">
-            <div>
-              <label class="field-label">Group Name (${LANG_SHORT[l]})</label>
-              <input type="text" class="field-input lang-groupname" data-lang="${l}" value="${escHtml(d.groupName||'')}" placeholder="e.g. Mary / ማርያም" />
-            </div>
+          <div class="lang-title-row">
             <div>
               <label class="field-label">Title (${LANG_SHORT[l]})</label>
               <input type="text" class="field-input lang-title" data-lang="${l}" value="${escHtml(d.title||'')}" placeholder="Hymn title" />
             </div>
             <div>
-              <label class="field-label">Subtitle (${LANG_SHORT[l]})</label>
+              <label class="field-label">Subtitle / Credits</label>
               <input type="text" class="field-input lang-subtitle" data-lang="${l}" value="${escHtml(d.subtitle||'')}" placeholder="Optional" />
             </div>
           </div>
-          <!-- YouTube URL for this language -->
-          <div style="margin-bottom:14px">
-            <label class="field-label">YouTube URL (${LANG_SHORT[l]}) — optional</label>
+          <div class="lang-youtube-row">
+            <label class="field-label">YouTube URL (${LANG_SHORT[l]})</label>
             <input type="url" class="field-input lang-youtube" data-lang="${l}" value="${escHtml(d.youtube||'')}" placeholder="https://youtube.com/watch?v=..." />
           </div>
 
           <!-- CHORUS -->
           <div class="chorus-section">
             <div class="chorus-header">
-              <div class="chorus-title">\u266a Chorus \u2014 type once only</div>
+              <div class="chorus-title">♪ Chorus — type once</div>
               <div class="chorus-hint">Leave blank if no chorus</div>
             </div>
-            <textarea class="chorus-textarea lang-chorus" data-lang="${l}" placeholder="Type the chorus here. It will be placed automatically after every verse on export.">${escHtml(d.chorus||'')}</textarea>
+            <textarea class="chorus-textarea lang-chorus" data-lang="${l}" placeholder="Chorus text here… it will automatically repeat after every verse.">${escHtml(d.chorus||'')}</textarea>
           </div>
 
           <!-- VERSES -->
           <div class="blocks-section">
-            <div class="section-header"><span><span class="section-header-icon">\ud83d\udcdd</span>Verses</span></div>
+            <div class="section-header"><span>Verses</span></div>
             <div class="blocks-toolbar">
               <button class="btn btn-secondary btn-sm add-verse-btn" data-lang="${l}">+ Add Verse</button>
-              <button class="btn btn-secondary btn-sm dup-verse-btn" data-lang="${l}">\u29c9 Duplicate Last</button>
+              <button class="btn btn-secondary btn-sm dup-verse-btn" data-lang="${l}">⧉ Duplicate Last</button>
             </div>
             <div class="highlight-hint">
-              <strong>\u2605 Inline highlights:</strong> Each line can start with a highlighted prefix (like <em>"Praises of Mary"</em>).
-              Type the <strong>highlighted prefix</strong> in the gold box, then the rest of the line after it.
-              Leave prefix empty for a plain line. Press <strong>Enter</strong> to add a new line.
+              The <strong>gold prefix box</strong> on each line is for highlighted text (like <em>"Praises of Mary"</em>).
+              Leave it empty for a plain line. Press <strong>Enter</strong> to add a new line.
             </div>
             <div class="blocks-list" id="verses-list-${l}">${buildVersesListHTML(d.verses||[])}</div>
           </div>
@@ -708,6 +707,18 @@ function buildEditorHTML(hymn){
       }).join('')}
     </div>`;
 }
+
+function buildSubToggleButtons(groupKey, selectedSub, uiLang='en'){
+  const subs = getSubgroupsForGroup(groupKey);
+  if (!subs.length) return '';
+  return subs.map(sub=>{
+    const key = getSubgroupKey(sub);
+    const label = getSubgroupLabel(sub, uiLang);
+    const isActive = selectedSub===key;
+    return `<button class="sub-toggle${isActive?' active':''}" data-sub="${escHtml(key)}">${escHtml(label)}</button>`;
+  }).join('');
+}
+
 
 function buildSubgroupOptions(groupKey, selectedSG, uiLang='en'){
   const subs = getSubgroupsForGroup(groupKey);
@@ -778,18 +789,35 @@ function bindEditorEvents(wrapper,hymn){
     });
   });
 
-  // Group / subgroup
-  const groupSel=wrapper.querySelector('#meta-group');
-  const sgSel   =wrapper.querySelector('#meta-subgroup');
-  groupSel?.addEventListener('change',()=>{
-    hymn.groupKey=groupSel.value; hymn.subgroup='';
-    const ul=getActiveLang(hymn.id);
-    const noSubs=!getSubgroupsForGroup(hymn.groupKey).length;
-    sgSel.innerHTML=(noSubs?'<option value="">\u2014 No subcategories \u2014</option>':'<option value="">\u2014 Select subcategory \u2014</option>')+buildSubgroupOptions(hymn.groupKey,'',ul);
-    sgSel.disabled=noSubs;
+  // Category toggle buttons
+  const catToggleContainer = wrapper.querySelector('#cat-toggles');
+  const subToggleContainer = wrapper.querySelector('#sub-toggles');
+
+  catToggleContainer?.addEventListener('click', e=>{
+    const btn = e.target.closest('.cat-toggle');
+    if (!btn) return;
+    const key = btn.dataset.cat;
+    hymn.groupKey = key;
+    hymn.subgroup = '';
+    // Update active states
+    catToggleContainer.querySelectorAll('.cat-toggle').forEach(b=>b.classList.toggle('active', b.dataset.cat===key));
+    // Rebuild sub-toggles
+    const ul = getActiveLang(hymn.id);
+    const subHtml = buildSubToggleButtons(key, '', ul);
+    subToggleContainer.innerHTML = subHtml;
+    subToggleContainer.style.display = subHtml ? '' : 'none';
     scheduleSave(); renderHymnList();
   });
-  sgSel?.addEventListener('change',()=>{hymn.subgroup=sgSel.value;scheduleSave();renderHymnList();});
+
+  subToggleContainer?.addEventListener('click', e=>{
+    const btn = e.target.closest('.sub-toggle');
+    if (!btn) return;
+    const key = btn.dataset.sub;
+    // Allow toggling off
+    hymn.subgroup = hymn.subgroup===key ? '' : key;
+    subToggleContainer.querySelectorAll('.sub-toggle').forEach(b=>b.classList.toggle('active', b.dataset.sub===hymn.subgroup));
+    scheduleSave(); renderHymnList();
+  });
 
   bindInputField(wrapper,'#meta-color',  v=>hymn.color=v);
   bindInputField(wrapper,'#meta-zemari', v=>hymn.zemari=v);
