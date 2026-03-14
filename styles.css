@@ -363,3 +363,7 @@ html,body{height:100%;font-family:var(--font-body);background:var(--cream);color
   80%{transform:translateX(5px)}
 }
 .shake { animation: shake .4s ease; }
+
+/* COPY JSON BUTTON */
+.btn-copy-json{background:var(--parchment2);color:var(--ink-soft);border:1px solid var(--border)}
+.btn-copy-json:hover{background:var(--parchment3);color:var(--ink)}

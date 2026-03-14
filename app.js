@@ -231,6 +231,7 @@ function migrateHymn(hymn){
     if (!ld.groupName) ld.groupName='';
   });
   if (!hymn.groupKey && hymn.group) hymn.groupKey = hymn.group;
+  if (!hymn.zemari) hymn.zemari = hymn.singer||hymn.composer||hymn.author||'';
 }
 
 function saveToStorage(){ localStorage.setItem(STORAGE_KEY,JSON.stringify(hymns)); if(activeId)localStorage.setItem(ACTIVE_ID_KEY,activeId); }
@@ -300,7 +301,7 @@ function hymnToExport(hymn){
   if (Object.keys(urlMap).length) out.youtubeUrls=urlMap;
 
   // scalar fields
-  ['composer','singer','author'].forEach(f=>{ if(hymn[f]&&hymn[f].trim())out[f]=hymn[f].trim(); });
+  if (hymn.zemari&&hymn.zemari.trim()) out.singer=hymn.zemari.trim();
   if (hymn.color&&hymn.color.trim()) out.color=hymn.color.trim();
   if (hymn.subgroup&&hymn.subgroup.trim()) out.subcategory=hymn.subgroup.trim();
   if (hymn.groupKey&&hymn.groupKey.trim()) out.category=hymn.groupKey.trim();
@@ -605,7 +606,8 @@ function buildEditorHTML(hymn){
         </select>
       </div>
       <div class="editor-toolbar-right">
-        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">\u271d Submit to GitHub</button>
+        <button class="btn btn-copy-json btn-sm" id="btn-copy-json">\u29c9 Copy JSON</button>
+        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">\u271d Submit</button>
         <button class="btn btn-danger btn-sm" id="btn-delete-hymn">\u2715 Delete</button>
       </div>
     </div>
@@ -643,13 +645,9 @@ function buildEditorHTML(hymn){
             </select>
           </div>
         </div>
-        <button class="optional-fields-toggle" id="toggle-optional">\u25b8 Show composer / singer / author</button>
-        <div class="optional-fields" id="optional-fields">
-          <div class="meta-third" style="margin-top:12px">
-            <div><label class="field-label">Composer</label><input type="text" class="field-input" id="meta-composer" value="${escHtml(hymn.composer||'')}" placeholder="Name" /></div>
-            <div><label class="field-label">Singer</label><input type="text" class="field-input" id="meta-singer" value="${escHtml(hymn.singer||'')}" placeholder="Name" /></div>
-            <div><label class="field-label">Author</label><input type="text" class="field-input" id="meta-author" value="${escHtml(hymn.author||'')}" placeholder="Name" /></div>
-          </div>
+        <div style="margin-top:12px">
+          <label class="field-label">Zemari/t <span style="font-weight:400;text-transform:none;font-size:10px;color:var(--ink-faint)">(Singer / Composer / Author)</span></label>
+          <input type="text" class="field-input" id="meta-zemari" value="${escHtml(hymn.zemari||'')}" placeholder="Name of singer, composer, or author" />
         </div>
       </div>
     </div>
@@ -793,17 +791,12 @@ function bindEditorEvents(wrapper,hymn){
   });
   sgSel?.addEventListener('change',()=>{hymn.subgroup=sgSel.value;scheduleSave();renderHymnList();});
 
-  bindInputField(wrapper,'#meta-color',    v=>hymn.color=v);
-  bindInputField(wrapper,'#meta-composer', v=>hymn.composer=v);
-  bindInputField(wrapper,'#meta-singer',   v=>hymn.singer=v);
-  bindInputField(wrapper,'#meta-author',   v=>hymn.author=v);
+  bindInputField(wrapper,'#meta-color',  v=>hymn.color=v);
+  bindInputField(wrapper,'#meta-zemari', v=>hymn.zemari=v);
   bindInputField(wrapper,'#meta-status',   v=>{hymn.status=v;renderHymnList();});
   bindInputField(wrapper,'#meta-status2',  v=>{hymn.status=v;renderHymnList();});
 
-  wrapper.querySelector('#toggle-optional')?.addEventListener('click',function(){
-    const of=wrapper.querySelector('#optional-fields');of.classList.toggle('open');
-    this.textContent=of.classList.contains('open')?'\u25be Hide extra fields':'\u25b8 Show composer / singer / author';
-  });
+
 
   // Per-language fields
   wrapper.querySelectorAll('.lang-groupname').forEach(el=>{
@@ -828,6 +821,7 @@ function bindEditorEvents(wrapper,hymn){
     bindVerseControls(panel,hymn,lang,wrapper);
   });
 
+  wrapper.querySelector('#btn-copy-json')?.addEventListener('click',()=>copyHymnJSON(hymn));
   wrapper.querySelector('#btn-duplicate')?.addEventListener('click',()=>duplicateHymn(hymn.id));
   wrapper.querySelector('#btn-regen-id')?.addEventListener('click',()=>regenId(hymn));
   wrapper.querySelector('#btn-delete-hymn')?.addEventListener('click',()=>confirmDeleteHymn(hymn.id));
@@ -1011,6 +1005,30 @@ function escHtml(str){if(!str)return '';return String(str).replace(/&/g,'&amp;')
 function nl2br(str){return str.replace(/\n/g,'<br>');}
 
 
+
+
+// ═══════════════════════════════════════
+//  COPY JSON
+// ═══════════════════════════════════════
+
+function copyHymnJSON(hymn){
+  const exported = hymnToExport(hymn);
+  const jsonStr = JSON.stringify([exported], null, 2);
+  navigator.clipboard.writeText(jsonStr).then(()=>{
+    showToast('JSON copied to clipboard ✓','success');
+  }).catch(()=>{
+    // Fallback — show in a modal
+    showCopyFallback(jsonStr);
+  });
+}
+
+function showCopyFallback(text){
+  const modal=document.getElementById('modal-copy-json');
+  const ta=document.getElementById('copy-json-textarea');
+  ta.value=text;
+  modal.style.display='flex';
+  ta.select();
+}
 
 // ═══════════════════════════════════════
 //  VOLUNTEER TOKEN FLOW
@@ -1433,6 +1451,13 @@ function init(){
   // GitHub modal buttons
   document.getElementById('gh-cancel').addEventListener('click',closeAdminPanel);
   document.getElementById('token-cancel').addEventListener('click',()=>{document.getElementById('modal-token').style.display='none';pendingTokenCallback=null;});
+  document.getElementById('copy-json-close')?.addEventListener('click',()=>{document.getElementById('modal-copy-json').style.display='none';});
+  document.getElementById('modal-copy-json')?.addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+  document.getElementById('copy-json-copy-btn')?.addEventListener('click',()=>{
+    const ta=document.getElementById('copy-json-textarea');
+    ta.select(); document.execCommand('copy');
+    showToast('Copied ✓','success');
+  });
   document.getElementById('token-confirm').addEventListener('click',confirmVolunteerToken);
   document.getElementById('volunteer-token')?.addEventListener('keydown',e=>{if(e.key==='Enter')confirmVolunteerToken();});
   document.getElementById('modal-token').addEventListener('click',function(e){if(e.target===this){this.style.display='none';pendingTokenCallback=null;}});
