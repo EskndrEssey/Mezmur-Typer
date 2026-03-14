@@ -1079,7 +1079,7 @@ function promptVolunteerToken(onConfirm){
   }
   pendingTokenCallback = onConfirm;
   document.getElementById('modal-token').style.display='flex';
-  setTimeout(()=>document.getElementById('volunteer-token').focus(),100);
+  setTimeout(()=>document.getElementById('volunteer-token').focus(),150);
 }
 
 function confirmVolunteerToken(){
@@ -1101,11 +1101,12 @@ const VOL_TOKEN_KEY = 'wz_vol_token_session';
 
 function getGHConfig(){
   return {
-    owner:   localStorage.getItem(GH_KEYS.owner)||'',
-    repo:    localStorage.getItem(GH_KEYS.repo)||'',
-    branch:  localStorage.getItem(GH_KEYS.branch)||'main',
+    // Repo details hardcoded — only token and volpass come from storage
+    owner:   'EskndrEssey',
+    repo:    'Mezmur-Typer',
+    branch:  'main',
+    folder:  'data',
     token:   localStorage.getItem(GH_KEYS.token)||'',
-    folder:  localStorage.getItem(GH_KEYS.folder)||'data',
     volpass: localStorage.getItem(GH_KEYS.volpass)||'',
   };
 }
@@ -1128,11 +1129,7 @@ function isGHConfigured(){
 
 function openAdminPanel(){
   const cfg=getGHConfig();
-  document.getElementById('gh-owner').value      = cfg.owner;
-  document.getElementById('gh-repo').value       = cfg.repo;
-  document.getElementById('gh-branch').value     = cfg.branch||'main';
-  document.getElementById('gh-token').value      = cfg.token;
-  document.getElementById('gh-folder').value     = cfg.folder||'data';
+  document.getElementById('gh-token').value        = cfg.token||'';
   document.getElementById('gh-vol-password').value = cfg.volpass||'';
   document.getElementById('modal-admin').style.display='flex';
 }
@@ -1189,13 +1186,10 @@ function submitPasswordGate(){
 
 async function testGHConnection(){
   const cfg = {
-    owner:  document.getElementById('gh-owner').value.trim(),
-    repo:   document.getElementById('gh-repo').value.trim(),
-    branch: document.getElementById('gh-branch').value.trim()||'main',
-    token:  document.getElementById('gh-token').value.trim(),
-    folder: document.getElementById('gh-folder').value.trim(),
+    ...getGHConfig(),
+    token: document.getElementById('gh-token').value.trim(),
   };
-  if (!cfg.owner||!cfg.repo||!cfg.token){showToast('Fill in username, repo, and token first.','error');return;}
+  if (!cfg.token){showToast('Paste your GitHub token first.','error');return;}
   showToast('Testing connection…');
   try{
     const r=await fetch(`https://api.github.com/repos/${cfg.owner}/${cfg.repo}`,{
