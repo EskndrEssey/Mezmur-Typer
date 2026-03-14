@@ -9,7 +9,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500;600&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header class="app-header">
+  <header class="app-header" id="app-header-bar">
     <div class="header-left">
       <div class="logo-mark">ዋዜማ</div>
       <div class="header-titles">
@@ -104,19 +104,19 @@
     </div>
   </div>
 
-  <!-- PASSWORD GATE (shown on first visit) -->
-  <div class="modal-overlay" id="modal-password-gate" style="display:none">
-    <div class="modal" style="text-align:center;max-width:380px">
-      <div style="font-size:40px;margin-bottom:8px">✝</div>
-      <h3 class="modal-title" style="justify-content:center;font-size:28px">Wazema</h3>
-      <p style="font-size:13px;color:var(--ink-faint);margin-bottom:24px;font-family:var(--font-serif);font-style:italic">Hymn Entry Tool · Volunteers Only</p>
-      <div style="margin-bottom:16px;text-align:left">
-        <label class="field-label">Enter Access Password</label>
-        <input type="password" class="field-input" id="gate-password" placeholder="Password" style="font-size:16px;padding:10px 14px" />
-        <div id="gate-error" style="color:var(--red);font-size:12px;margin-top:6px;display:none">Incorrect password. Please try again.</div>
+  <!-- PASSWORD GATE — full screen landing page -->
+  <div class="password-landing" id="password-landing" style="display:none">
+    <div class="password-landing-card">
+      <div class="landing-cross">✝</div>
+      <h1 class="landing-title">ዋዜማ · Wazema</h1>
+      <p class="landing-sub">Hymn Entry Tool · Volunteers Only</p>
+      <div class="landing-form">
+        <label class="landing-label">Enter your access password</label>
+        <input type="password" class="landing-input" id="gate-password" placeholder="Password" autocomplete="current-password" />
+        <div id="gate-error" class="landing-error" style="display:none">✕ Incorrect password — contact Essey for access.</div>
+        <button class="landing-btn" id="gate-submit">✝ Enter</button>
       </div>
-      <button class="btn btn-submit" id="gate-submit" style="width:100%;padding:10px;font-size:15px">✝ Enter</button>
-      <p style="font-size:11px;color:var(--ink-faint);margin-top:16px">Contact Essey if you don't have the password.</p>
+      <p class="landing-footer">Contact Essey if you need the password.</p>
     </div>
   </div>
 
@@ -193,6 +193,26 @@
       <p class="modal-body" id="submitted-msg"></p>
       <div class="modal-actions" style="justify-content:center">
         <button class="btn btn-primary" id="submitted-ok">Glory to God ✓</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOKEN PROMPT (volunteers enter their token once per session) -->
+  <div class="modal-overlay" id="modal-token" style="display:none">
+    <div class="modal" style="max-width:420px">
+      <div class="modal-cross-header">
+        <div class="modal-cross-icon">✝</div>
+        <h3 class="modal-title">Enter Your Access Token</h3>
+      </div>
+      <p class="modal-body">Paste the token given to you by Essey to submit hymns directly to the database.</p>
+      <div style="margin-bottom:16px">
+        <label class="field-label">Access Token</label>
+        <input type="password" class="field-input" id="volunteer-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" style="font-size:15px;padding:10px 12px;letter-spacing:.04em" />
+        <div style="font-size:11px;color:var(--ink-faint);margin-top:6px">Your token is only stored in your browser for this session.</div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" id="token-cancel">Cancel</button>
+        <button class="btn btn-submit" id="token-confirm">✝ Continue</button>
       </div>
     </div>
   </div>
