@@ -978,20 +978,27 @@ function nl2br(str){return str.replace(/\n/g,'<br>');}
 //  GITHUB SETTINGS
 // ═══════════════════════════════════════
 
-const GH_KEYS = {owner:'wz_gh_owner',repo:'wz_gh_repo',branch:'wz_gh_branch',token:'wz_gh_token',folder:'wz_gh_folder'};
+const GH_KEYS = {owner:'wz_gh_owner',repo:'wz_gh_repo',branch:'wz_gh_branch',token:'wz_gh_token',folder:'wz_gh_folder',volpass:'wz_vol_pass'};
+const SESSION_KEY = 'wz_session_ok';
 
 function getGHConfig(){
   return {
-    owner:  localStorage.getItem(GH_KEYS.owner)||'',
-    repo:   localStorage.getItem(GH_KEYS.repo)||'',
-    branch: localStorage.getItem(GH_KEYS.branch)||'main',
-    token:  localStorage.getItem(GH_KEYS.token)||'',
-    folder: localStorage.getItem(GH_KEYS.folder)||'',
+    owner:   localStorage.getItem(GH_KEYS.owner)||'',
+    repo:    localStorage.getItem(GH_KEYS.repo)||'',
+    branch:  localStorage.getItem(GH_KEYS.branch)||'main',
+    token:   localStorage.getItem(GH_KEYS.token)||'',
+    folder:  localStorage.getItem(GH_KEYS.folder)||'data',
+    volpass: localStorage.getItem(GH_KEYS.volpass)||'',
   };
 }
 
 function saveGHConfig(cfg){
-  Object.keys(GH_KEYS).forEach(k=>localStorage.setItem(GH_KEYS[k], cfg[k]||''));
+  if (cfg.owner   !== undefined) localStorage.setItem(GH_KEYS.owner,   cfg.owner||'');
+  if (cfg.repo    !== undefined) localStorage.setItem(GH_KEYS.repo,    cfg.repo||'');
+  if (cfg.branch  !== undefined) localStorage.setItem(GH_KEYS.branch,  cfg.branch||'main');
+  if (cfg.token   !== undefined) localStorage.setItem(GH_KEYS.token,   cfg.token||'');
+  if (cfg.folder  !== undefined) localStorage.setItem(GH_KEYS.folder,  cfg.folder||'data');
+  if (cfg.volpass !== undefined) localStorage.setItem(GH_KEYS.volpass, cfg.volpass||'');
 }
 
 function isGHConfigured(){
@@ -999,18 +1006,51 @@ function isGHConfigured(){
   return !!(cfg.owner && cfg.repo && cfg.token);
 }
 
-function openGithubSettings(){
+function openAdminPanel(){
   const cfg=getGHConfig();
-  document.getElementById('gh-owner').value  = cfg.owner;
-  document.getElementById('gh-repo').value   = cfg.repo;
-  document.getElementById('gh-branch').value = cfg.branch||'main';
-  document.getElementById('gh-token').value  = cfg.token;
-  document.getElementById('gh-folder').value = cfg.folder;
-  document.getElementById('modal-github').style.display='flex';
+  document.getElementById('gh-owner').value      = cfg.owner;
+  document.getElementById('gh-repo').value       = cfg.repo;
+  document.getElementById('gh-branch').value     = cfg.branch||'main';
+  document.getElementById('gh-token').value      = cfg.token;
+  document.getElementById('gh-folder').value     = cfg.folder||'data';
+  document.getElementById('gh-vol-password').value = cfg.volpass||'';
+  document.getElementById('modal-admin').style.display='flex';
 }
 
-function closeGithubSettings(){
-  document.getElementById('modal-github').style.display='none';
+function closeAdminPanel(){
+  document.getElementById('modal-admin').style.display='none';
+}
+
+// PASSWORD GATE
+function isSessionActive(){
+  return sessionStorage.getItem(SESSION_KEY)==='1';
+}
+
+function checkPasswordGate(){
+  const cfg=getGHConfig();
+  // If no password set yet (admin hasn't configured) OR session active → let through
+  if (!cfg.volpass || isSessionActive()){
+    document.getElementById('modal-password-gate').style.display='none';
+    return;
+  }
+  document.getElementById('modal-password-gate').style.display='flex';
+  setTimeout(()=>document.getElementById('gate-password').focus(),100);
+}
+
+function submitPasswordGate(){
+  const cfg=getGHConfig();
+  const entered=document.getElementById('gate-password').value;
+  const errEl=document.getElementById('gate-error');
+  if (!cfg.volpass || entered===cfg.volpass){
+    sessionStorage.setItem(SESSION_KEY,'1');
+    document.getElementById('modal-password-gate').style.display='none';
+    errEl.style.display='none';
+    document.getElementById('gate-password').value='';
+  } else {
+    errEl.style.display='block';
+    document.getElementById('gate-password').value='';
+    document.getElementById('gate-password').focus();
+  }
 }
 
 async function testGHConnection(){
@@ -1131,7 +1171,7 @@ let pendingSubmitHymn = null;
 async function startSubmitFlow(hymn){
   if (!isGHConfigured()){
     showToast('Set up GitHub connection first (⚙ GitHub button).','error');
-    openGithubSettings();
+    openAdminPanel();
     return;
   }
   // Validate — needs at least one title
@@ -1270,7 +1310,11 @@ function init(){
   else updatePreview();
 
   document.getElementById('btn-new-hymn').addEventListener('click',addNewHymn);
-  document.getElementById('btn-github-settings').addEventListener('click',openGithubSettings);
+  document.getElementById('btn-admin-panel').addEventListener('click',()=>{
+    // Admin panel needs a secret knock: triple-click or just open directly
+    // You can protect this with admin password later if needed
+    openAdminPanel();
+  });
   document.getElementById('btn-export-toggle').addEventListener('click',(e)=>{
     e.stopPropagation();
     const menu=document.getElementById('export-menu');
@@ -1294,7 +1338,7 @@ function init(){
   document.getElementById('preview-lang-select').addEventListener('change',updatePreview);
 
   // GitHub modal buttons
-  document.getElementById('gh-cancel').addEventListener('click',closeGithubSettings);
+  document.getElementById('gh-cancel').addEventListener('click',closeAdminPanel);
   document.getElementById('gh-save').addEventListener('click',()=>{
     const cfg={
       owner:document.getElementById('gh-owner').value.trim(),
@@ -1303,13 +1347,13 @@ function init(){
       token:document.getElementById('gh-token').value.trim(),
       folder:document.getElementById('gh-folder').value.trim(),
     };
-    saveGHConfig(cfg); closeGithubSettings();
+    saveGHConfig(cfg); closeAdminPanel();
     showToast('GitHub settings saved ✓','success');
     updateGHStatusIndicator();
   });
   document.getElementById('gh-test').addEventListener('click',testGHConnection);
   document.getElementById('gh-init-files').addEventListener('click',initializeGitHubFiles);
-  document.getElementById('modal-github').addEventListener('click',function(e){if(e.target===this)closeGithubSettings();});
+  document.getElementById('modal-github').addEventListener('click',function(e){if(e.target===this)closeAdminPanel();});
 
   // Dup check modal
   document.getElementById('dupcheck-cancel').addEventListener('click',()=>{document.getElementById('modal-dupcheck').style.display='none';});
@@ -1328,17 +1372,27 @@ function init(){
   });
 }
 function updateGHStatusIndicator(){
-  const btn=document.getElementById('btn-github-settings');
+  const btn=document.getElementById('btn-admin-panel');
   if (!btn) return;
   if (isGHConfigured()){
-    btn.textContent='⚙ GitHub ✓';
+    btn.textContent='⚙ Admin ✓';
     btn.style.borderColor='rgba(61,107,78,.5)';
     btn.style.color='#a8d5b5';
   } else {
-    btn.textContent='⚙ GitHub';
+    btn.textContent='⚙ Admin';
     btn.style.borderColor='';
     btn.style.color='';
   }
 }
 
-document.addEventListener('DOMContentLoaded',()=>{init();updateGHStatusIndicator();});
+document.addEventListener('DOMContentLoaded',()=>{
+  init();
+  updateGHStatusIndicator();
+  checkPasswordGate();
+
+  // Password gate submit
+  document.getElementById('gate-submit').addEventListener('click', submitPasswordGate);
+  document.getElementById('gate-password').addEventListener('keydown', e=>{
+    if (e.key==='Enter') submitPasswordGate();
+  });
+});

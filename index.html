@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="header-actions">
-      <button class="btn btn-ghost" id="btn-github-settings">⚙ GitHub</button>
+      <button class="btn btn-ghost" id="btn-admin-panel">⚙ Admin</button>
       <button class="btn btn-ghost" id="btn-import">⬆ Import JSON</button>
       <div class="export-dropdown" id="export-dropdown">
         <button class="btn btn-ghost" id="btn-export-toggle">⬇ Export ▾</button>
@@ -104,48 +104,66 @@
     </div>
   </div>
 
-  <!-- GITHUB SETTINGS MODAL -->
-  <div class="modal-overlay" id="modal-github" style="display:none">
+  <!-- PASSWORD GATE (shown on first visit) -->
+  <div class="modal-overlay" id="modal-password-gate" style="display:none">
+    <div class="modal" style="text-align:center;max-width:380px">
+      <div style="font-size:40px;margin-bottom:8px">✝</div>
+      <h3 class="modal-title" style="justify-content:center;font-size:28px">Wazema</h3>
+      <p style="font-size:13px;color:var(--ink-faint);margin-bottom:24px;font-family:var(--font-serif);font-style:italic">Hymn Entry Tool · Volunteers Only</p>
+      <div style="margin-bottom:16px;text-align:left">
+        <label class="field-label">Enter Access Password</label>
+        <input type="password" class="field-input" id="gate-password" placeholder="Password" style="font-size:16px;padding:10px 14px" />
+        <div id="gate-error" style="color:var(--red);font-size:12px;margin-top:6px;display:none">Incorrect password. Please try again.</div>
+      </div>
+      <button class="btn btn-submit" id="gate-submit" style="width:100%;padding:10px;font-size:15px">✝ Enter</button>
+      <p style="font-size:11px;color:var(--ink-faint);margin-top:16px">Contact Essey if you don't have the password.</p>
+    </div>
+  </div>
+
+  <!-- ADMIN PANEL (only for you — accessed via secret) -->
+  <div class="modal-overlay" id="modal-admin" style="display:none">
     <div class="modal modal-wide">
       <div class="modal-cross-header">
         <div class="modal-cross-icon">✝</div>
-        <h3 class="modal-title">GitHub Connection</h3>
+        <h3 class="modal-title">Admin — GitHub Setup</h3>
       </div>
-      <p class="modal-body">Connect to your GitHub repo so hymns are submitted directly into the right JSON file.</p>
-      <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:22px">
+      <p class="modal-body" style="font-size:12px">This panel is for the site admin only. Set the GitHub token, repo, and volunteer password here. Settings are saved in your browser.</p>
+      <div style="display:flex;flex-direction:column;gap:11px;margin-bottom:20px">
+        <div>
+          <label class="field-label">Volunteer Password <span style="color:var(--ink-faint);font-weight:400;text-transform:none;font-size:10px">(what you share with volunteers)</span></label>
+          <input type="text" class="field-input" id="gh-vol-password" placeholder="e.g. Wazema2025" />
+        </div>
+        <div class="admin-divider">GitHub Connection</div>
         <div>
           <label class="field-label">GitHub Username</label>
-          <input type="text" class="field-input" id="gh-owner" placeholder="e.g. essey" />
+          <input type="text" class="field-input" id="gh-owner" placeholder="EskndrEssey" />
         </div>
         <div>
           <label class="field-label">Repository Name</label>
-          <input type="text" class="field-input" id="gh-repo" placeholder="e.g. wazema-entry" />
+          <input type="text" class="field-input" id="gh-repo" placeholder="Mezmur-Typer" />
         </div>
         <div>
-          <label class="field-label">Branch (usually main)</label>
+          <label class="field-label">Branch</label>
           <input type="text" class="field-input" id="gh-branch" value="main" placeholder="main" />
         </div>
         <div>
-          <label class="field-label">Personal Access Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Wazema" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:underline;font-weight:400;text-transform:none;letter-spacing:0">Get one here ↗</a></label>
+          <label class="field-label">Personal Access Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Wazema" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:underline;font-weight:400;text-transform:none;letter-spacing:0">Get one ↗</a></label>
           <input type="password" class="field-input" id="gh-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
-          <div style="font-size:11px;color:var(--ink-faint);margin-top:4px">⚠ Token is saved only in your browser. Never share it.</div>
         </div>
         <div>
-          <label class="field-label">JSON folder in repo (optional)</label>
-          <input type="text" class="field-input" id="gh-folder" placeholder="e.g. data  (leave empty for root)" />
+          <label class="field-label">JSON folder in repo</label>
+          <input type="text" class="field-input" id="gh-folder" placeholder="data" value="data" />
         </div>
       </div>
       <div class="modal-actions">
-        <button class="btn btn-ghost" id="gh-cancel">Cancel</button>
+        <button class="btn btn-ghost" id="gh-cancel">Close</button>
         <button class="btn btn-secondary" id="gh-test">Test Connection</button>
-        <button class="btn btn-primary" id="gh-save">Save & Connect</button>
+        <button class="btn btn-primary" id="gh-save">Save Settings</button>
       </div>
-
-      <!-- Initialize files section -->
       <div class="gh-init-section">
-        <div class="gh-init-title">✝ Set up JSON files in your repo</div>
-        <p class="gh-init-desc">Creates one empty <code>GroupName.json</code> file for each category in your repo. Run this once after connecting. Won't overwrite files that already have hymns.</p>
-        <button class="btn btn-submit" id="gh-init-files" style="width:100%;margin-bottom:10px">✝ Initialize All Group Files on GitHub</button>
+        <div class="gh-init-title">✝ Initialize JSON files in repo</div>
+        <p class="gh-init-desc">Creates one empty <code>GroupName.json</code> per category. Run once. Safe to re-run — won't overwrite existing files.</p>
+        <button class="btn btn-submit" id="gh-init-files" style="width:100%;margin-bottom:10px">✝ Create All Group JSON Files on GitHub</button>
         <div id="gh-init-status" class="gh-init-status"></div>
       </div>
     </div>

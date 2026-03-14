@@ -263,3 +263,11 @@ html,body{height:100%;font-family:var(--font-body);background:var(--cream);color
 .init-fail{background:var(--red-pale);color:var(--red)}
 .init-summary{margin-top:6px;padding:8px 10px;background:var(--parchment2);border-radius:var(--radius-sm);font-weight:600;color:var(--ink-soft);font-size:12px}
 .init-row code,.init-progress code{font-size:10px;background:rgba(0,0,0,.07);padding:1px 4px;border-radius:2px}
+
+/* PASSWORD GATE */
+#modal-password-gate .modal{box-shadow:var(--shadow-lg);border-top:3px solid var(--gold)}
+#gate-submit{background:linear-gradient(135deg,#2d5a3d,#1a3d28);color:#e8f5ec;border:none}
+#gate-submit:hover{background:linear-gradient(135deg,#3d6b4e,#2d5a3d);color:#fff}
+
+/* ADMIN PANEL */
+.admin-divider{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.1em;color:var(--ink-faint);padding:8px 0 4px;border-top:1px solid var(--border-soft);margin-top:4px}
