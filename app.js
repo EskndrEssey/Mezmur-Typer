@@ -7,7 +7,7 @@ const LANGS      = ['en','ti','ti_ro','am','am_ro','om','ro'];
 const LANG_NAMES = {en:'English',ti:'Tigrinya',ti_ro:'Tigrinya (Rom.)',am:'Amharic',am_ro:'Amharic (Rom.)',om:'Oromo',ro:'Romanian'};
 const LANG_SHORT = {en:'EN',ti:'TI',ti_ro:'TI-R',am:'AM',am_ro:'AM-R',om:'OM',ro:'RO'};
 const STATUS_OPTIONS = {draft:'Draft',review:'Needs Review',final:'Final'};
-const SESSION_KEY = 'wz_session_ok';
+// const SESSION_KEY = 'wz_session_ok'; (deduped)
 
 const GROUP_TAXONOMY = {
 
@@ -583,7 +583,7 @@ function renderEditor(){
       <div class="form-section-title">Category</div>
       <div class="form-body">
         <div class="cat-wrap" id="cat-wrap">${catHTML}</div>
-        <div class="sub-wrap" id="sub-wrap" style="${subHTML?'':\'display:none'}">${subHTML}</div>
+        <div class="sub-wrap" id="sub-wrap">${subHTML}</div>
       </div>
     </div>
     <div class="form-section">
@@ -669,7 +669,7 @@ function bindEditorEvents(area,h){
         const key=getSubgroupKey(sub); const lbl=getSubgroupLabel(sub,'en');
         return `<button class="sub-toggle" data-sub="${escHtml(key)}">${escHtml(lbl)}</button>`;
       }).join('');
-      subWrap.style.display=subs.length?'':\'none\';
+      subWrap.style.display=subs.length?'':'none';
       bindSubEvents(area,h);
     }
     scheduleSave(); renderHymnList();
@@ -721,7 +721,7 @@ function bindEditorEvents(area,h){
 function bindSubEvents(area,h){
   area.querySelector('#sub-wrap')?.addEventListener('click',e=>{
     const btn=e.target.closest('.sub-toggle'); if(!btn)return;
-    h.subgroup=h.subgroup===btn.dataset.sub?'':\btn.dataset.sub;
+    h.subgroup=h.subgroup===btn.dataset.sub?'':btn.dataset.sub;
     area.querySelectorAll('.sub-toggle').forEach(b=>b.classList.toggle('active',b.dataset.sub===h.subgroup));
     scheduleSave(); renderHymnList();
   });
@@ -786,7 +786,7 @@ function bindVerseListEvents(area,h,lang){
 // ═══════════ GITHUB + TOKEN ═══════════
 
 const GH_KEYS = {owner:'wz_gh_owner',repo:'wz_gh_repo',branch:'wz_gh_branch',token:'wz_gh_token',folder:'wz_gh_folder',volpass:'wz_vol_pass'};
-const SESSION_KEY = 'wz_session_ok';
+// const SESSION_KEY = 'wz_session_ok'; (deduped)
 const VOL_TOKEN_KEY = 'wz_vol_token_session';
 
 function getGHConfig(){
@@ -836,7 +836,7 @@ function isSessionActive(){
 
 // DEFAULT PASSWORD — hardcoded so volunteers always see the gate
 // Admin can override by setting a different password in the Admin panel
-const DEFAULT_VOL_PASSWORD = 'Mezmur2025';
+// DEDUPED
 
 function getVolPassword(){
   // Use admin-set password if available, else fall back to default
@@ -1431,7 +1431,7 @@ function buildExportSheet(){
     gl.appendChild(btn);
   });
 }
-document.getElementById('btn-export-all')?.addEventListener('click',()=>{ downloadJSON(hymns.map(hymnToExport),'hymns.json'); closeSheet('sheet-export'); showToast(`Exported ${hymns.length} hymns`,'success')); });
+document.getElementById('btn-export-all')?.addEventListener('click',()=>{ downloadJSON(hymns.map(hymnToExport),'hymns.json'); closeSheet('sheet-export'); showToast(`Exported ${hymns.length} hymns`,'success'); });
 
 // ═══════════ IMPORT ═══════════════════
 
@@ -1441,7 +1441,7 @@ function importFromJSON(jsonStr){
   importQueue=data; importStats={added:0,skipped:0,replaced:0}; importCurrent=0;
   doNextImport();
 }
-let importQueue=[],importStats={},importCurrent=0;
+importQueue=[],importStats={},importCurrent=0;
 function doNextImport(){
   if(importCurrent>=importQueue.length){
     renderHymnList(); saveToStorage();
