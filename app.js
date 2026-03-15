@@ -225,8 +225,14 @@ function closeSheet(id){ const el=document.getElementById(id); if(el)el.style.di
 function getPassword(){ return localStorage.getItem(GH_KEYS.volpass)||DEFAULT_PASSWORD; }
 function isLoggedIn(){ return sessionStorage.getItem(SESSION_KEY)==='1'; }
 function checkGate(){
-  if(isLoggedIn()){ showPage('page-list'); renderList(); }
-  else{ showPage('page-gate'); setTimeout(()=>document.getElementById('gate-password')?.focus(),200); }
+  if(isLoggedIn()){
+    showPage('page-list');
+    renderList();
+  } else {
+    // Gate is already visible by default in HTML — just focus the input
+    showPage('page-gate');
+    setTimeout(()=>document.getElementById('gate-password')?.focus(),200);
+  }
 }
 function submitGate(){
   const val=document.getElementById('gate-password').value;
@@ -989,4 +995,16 @@ function init(){
   checkGate();
 }
 
-document.addEventListener('DOMContentLoaded',init);
+document.addEventListener('DOMContentLoaded', function(){
+  try {
+    init();
+  } catch(e) {
+    console.error('Wazema init error:', e);
+    // Show the gate page even if init crashes
+    const gate = document.getElementById('page-gate');
+    if(gate) gate.style.display = 'flex';
+    // Show error to help debug
+    const sub = document.querySelector('.gate-sub');
+    if(sub) sub.textContent = 'Error: ' + e.message + ' — please reload';
+  }
+});
