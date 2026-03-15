@@ -1747,17 +1747,24 @@ function initMobile(){
   const nav = document.getElementById('mobile-nav');
   if (nav) nav.style.display = 'flex';
 
-  // New hymn button in bottom nav
+  // New hymn button
   const mobNew = document.getElementById('mob-new');
   if (mobNew) mobNew.addEventListener('click', ()=>{
     addNewHymn();
     mobileSwitchTab('editor');
   });
 
-  // Hymns list button — show sidebar
+  // Hymns list button
   const mobHymns = document.getElementById('mob-hymns');
   if (mobHymns) mobHymns.addEventListener('click', ()=>{
     mobileSwitchTab('hymns');
+  });
+
+  // Export button
+  const mobExport = document.getElementById('mob-export');
+  if (mobExport) mobExport.addEventListener('click', ()=>{
+    buildExportGroupList();
+    document.getElementById('export-menu').style.display='block';
   });
 }
 
