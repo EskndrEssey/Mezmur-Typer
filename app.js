@@ -1125,15 +1125,5 @@ checkGate();
 }
 
 document.addEventListener(‘DOMContentLoaded’, function(){
-try {
 init();
-} catch(e) {
-console.error(‘Wazema init error:’, e);
-// Show the gate page even if init crashes
-const gate = document.getElementById(‘page-gate’);
-if(gate) gate.style.display = ‘flex’;
-// Show error to help debug
-const sub = document.querySelector(’.gate-sub’);
-if(sub) sub.textContent = ‘Error: ’ + e.message + ’ — please reload’;
-}
 });
