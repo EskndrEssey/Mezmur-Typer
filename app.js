@@ -70,7 +70,7 @@ function newHymn(o={}){
   const id = o.id || uid();
   const langs = {};
   LANGS.forEach(l => langs[l] = newLang());
-  return { id, groupKey:'', subgroup:'', zemari:'', color:'', status:'draft', langs, ...o };
+  return { id, groupKey:'', subgroups:[], zemari:'', color:'', status:'draft', langs, ...o };
 }
 
 // ── STORAGE ────────────────────────────────────
@@ -195,7 +195,7 @@ function renderList(){
     const d = document.createElement('div');
     d.className = 'hymn-item';
     const gc = h.groupKey ? '<span class="chip chip-group">'+esc(h.groupKey)+'</span>' : '';
-    const sc = h.subgroup ? '<span class="chip chip-sub">'+esc(h.subgroup)+'</span>' : '';
+    const sc = (h.subgroups||[]).map(s=>'<span class="chip chip-sub">'+esc(s)+'</span>').join('');
     const badge = '<span class="status-badge status-'+h.status+'">'+(STATUSES[h.status]||h.status)+'</span>';
     d.innerHTML = '<div class="hymn-item-left"><div class="hymn-item-title">'+esc(title(h))+'</div><div class="hymn-item-meta">'+gc+sc+badge+'</div></div><span class="hymn-item-arrow">›</span>';
     d.addEventListener('click', () => selectHymn(h.id));
@@ -288,9 +288,10 @@ function renderEditor(){
 
   // Subcategories
   const subs = getSubs(h.groupKey);
-  const subHTML = subs.map(s =>
-    '<button class="sub-toggle'+(h.subgroup===s.key?' active':'')+'" data-sub="'+esc(s.key)+'">'+esc(s.label)+'</button>'
-  ).join('');
+  const subHTML = (subs.length ? '<span class="sub-wrap-hint">Select all that apply:</span>' : '') +
+    subs.map(s =>
+      '<button class="sub-toggle'+((h.subgroups||[]).includes(s.key)?' active':'')+'" data-sub="'+esc(s.key)+'">'+esc(s.label)+'</button>'
+    ).join('');
 
   // Lang tabs + panels
   const tabs = LANGS.map(l =>
@@ -397,7 +398,7 @@ function bindEditor(area, h){
   // Category
   area.querySelector('#cat-wrap').addEventListener('click', e => {
     const b = e.target.closest('.cat-toggle'); if(!b) return;
-    h.groupKey = b.dataset.cat; h.subgroup = '';
+    h.groupKey = b.dataset.cat; h.subgroups = [];
     area.querySelectorAll('.cat-toggle').forEach(x => x.classList.toggle('active', x.dataset.cat===h.groupKey));
     const sw = area.querySelector('#sub-wrap');
     const subs = getSubs(h.groupKey);
@@ -632,7 +633,7 @@ async function doSubmit(){
     if(f){sha=f.sha;try{arr=JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,'')))));}catch(e){}}
     const i=arr.findIndex(x=>x.id===exported.id); if(i>=0) arr[i]=exported; else arr.push(exported);
     await ghPut(path,JSON.stringify(arr,null,2),sha,'Add: '+title(h));
-    if(h.subgroup==='Mera'&&h.groupKey!=='Mera'){
+    if((h.subgroups||[]).includes('Mera')&&h.groupKey!=='Mera'){
       const mp=ghPath('Mera'),mf=await ghGet(mp);let ma=[],ms=null;
       if(mf){ms=mf.sha;try{ma=JSON.parse(decodeURIComponent(escape(atob(mf.content.replace(/\n/g,'')))));}catch(e){}}
       const mi=ma.findIndex(x=>x.id===exported.id);if(mi>=0)ma[mi]=exported;else ma.push(exported);
@@ -801,7 +802,10 @@ function rawToHymn(raw){
   const h=newHymn({id:raw.id||uid()});
   h.zemari=raw.singer||raw.composer||raw.author||'';
   h.color=raw.color||'';
-  h.subgroup=raw.subcategory||raw.subgroup||'';
+  // Support both old string and new array format
+  if(raw.subcategories&&Array.isArray(raw.subcategories)) h.subgroups=raw.subcategories;
+  else if(raw.subcategory) h.subgroups=raw.subcategory.split(',').map(s=>s.trim()).filter(Boolean);
+  else h.subgroups=[];
   h.groupKey=raw.category||raw.groupKey||'';
   LANGS.forEach(l=>{
     const ld=h.langs[l];
