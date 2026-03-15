@@ -947,19 +947,39 @@ Respond with ONLY a JSON object in this exact format, no extra text:
 }`;
 
   try {
-    const response = await fetch('https://api.anthropic.com/v1/messages', {
+    // Use a CORS proxy to reach Anthropic API from the browser
+    const apiKey = localStorage.getItem('wz_anthropic_key') || '';
+    if (!apiKey) {
+      // Prompt for API key
+      const key = window.prompt('Enter your Anthropic API key to use Auto-Romanize:\n(Get one free at console.anthropic.com)');
+      if (!key) { throw new Error('No API key provided'); }
+      localStorage.setItem('wz_anthropic_key', key.trim());
+    }
+
+    const finalKey = localStorage.getItem('wz_anthropic_key');
+
+    const response = await fetch('https://corsproxy.io/?' + encodeURIComponent('https://api.anthropic.com/v1/messages'), {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'x-api-key': finalKey,
+        'anthropic-version': '2023-06-01',
+        'anthropic-dangerous-allow-browser': 'true'
+      },
       body: JSON.stringify({
-        model: 'claude-sonnet-4-20250514',
+        model: 'claude-haiku-4-5-20251001',
         max_tokens: 4000,
         messages: [{ role: 'user', content: prompt }]
       })
     });
 
     if (!response.ok) {
-      const err = await response.json();
-      throw new Error(err.error?.message || response.status);
+      if (response.status === 401) {
+        localStorage.removeItem('wz_anthropic_key');
+        throw new Error('Invalid API key — please try again');
+      }
+      const err = await response.json().catch(()=>({}));
+      throw new Error(err.error?.message || 'API error ' + response.status);
     }
 
     const data = await response.json();
