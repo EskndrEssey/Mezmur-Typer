@@ -208,7 +208,7 @@ Only **Submit** and **Merge** require an internet connection (to reach GitHub).
 Saint George Eritrean Orthodox Church
 Seattle, Washington
 
-*"ዝኽሪ ስም እግዚኣብሔር ይኹን ልዑል" — May the name of God be glorified.*
+*"ስም እግዚኣብሂር ኣምላኽና ዝከበረን ዝተመስገነን ይኹን" — May the name of God be glorified.*
 
 ---
 
