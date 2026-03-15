@@ -1416,9 +1416,21 @@ async function startSubmitFlow(hymn){
       mergeBtn.style.display  = 'none';
     }
   }catch(e){
-    results.innerHTML = `<div class="dupcheck-error">✕ Could not search GitHub: ${escHtml(e.message)}</div>`;
+    const is401 = e.message.includes('401');
+    if (is401){
+      // Clear bad token so volunteer is prompted again
+      sessionStorage.removeItem(VOL_TOKEN_KEY);
+      localStorage.removeItem(GH_KEYS.token);
+      results.innerHTML = `<div class="dupcheck-error">
+        ✕ Token error (401 — Unauthorized).<br><br>
+        <strong>Your token is invalid or expired.</strong><br>
+        <span style="font-size:11px;color:var(--t3)">Close this and click Submit again — you will be asked to enter a new token.</span>
+      </div>`;
+    } else {
+      results.innerHTML = `<div class="dupcheck-error">✕ Could not search GitHub: ${escHtml(e.message)}</div>`;
+    }
     submitBtn.style.display = 'inline-flex';
-    submitBtn.textContent   = '✝ Submit Anyway';
+    submitBtn.textContent   = is401 ? '✕ Close — Fix Token First' : '✝ Submit Anyway';
   }
 }
 
@@ -1534,7 +1546,13 @@ async function submitMergedHymn(){
     document.getElementById('modal-submitted').style.display='flex';
 
   }catch(e){
-    showToast(`Merge failed: ${e.message}`,'error');
+    if (e.message.includes('401')){
+      sessionStorage.removeItem(VOL_TOKEN_KEY);
+      localStorage.removeItem(GH_KEYS.token);
+      showToast('Token invalid (401) — cleared. Click Submit again to enter a new token.','error');
+    } else {
+      showToast(`Merge failed: ${e.message}`,'error');
+    }
   }
 }
 
@@ -1584,7 +1602,13 @@ async function submitHymnToGitHub(){
     document.getElementById('modal-submitted').style.display='flex';
 
   }catch(e){
-    showToast(`Submit failed: ${e.message}`,'error');
+    if (e.message.includes('401')){
+      sessionStorage.removeItem(VOL_TOKEN_KEY);
+      localStorage.removeItem(GH_KEYS.token);
+      showToast('Token invalid (401) — cleared. Click Submit again to enter a new token.','error');
+    } else {
+      showToast(`Submit failed: ${e.message}`,'error');
+    }
   }
 }
 
@@ -1650,20 +1674,17 @@ function init(){
   document.getElementById('volunteer-token')?.addEventListener('keydown',e=>{if(e.key==='Enter')confirmVolunteerToken();});
   document.getElementById('modal-token').addEventListener('click',function(e){if(e.target===this){this.style.display='none';pendingTokenCallback=null;}});
   document.getElementById('gh-save').addEventListener('click',()=>{
-    const cfg={
-      owner:document.getElementById('gh-owner').value.trim(),
-      repo:document.getElementById('gh-repo').value.trim(),
-      branch:document.getElementById('gh-branch').value.trim()||'main',
-      token:document.getElementById('gh-token').value.trim(),
-      folder:document.getElementById('gh-folder').value.trim(),
-    };
-    saveGHConfig(cfg); closeAdminPanel();
-    showToast('GitHub settings saved ✓','success');
+    const token   = document.getElementById('gh-token').value.trim();
+    const volpass = document.getElementById('gh-vol-password').value.trim();
+    if (!token){ showToast('Please paste your GitHub token.','error'); return; }
+    saveGHConfig({token, volpass});
+    closeAdminPanel();
+    showToast('Settings saved ✓','success');
     updateGHStatusIndicator();
   });
   document.getElementById('gh-test').addEventListener('click',testGHConnection);
   document.getElementById('gh-init-files').addEventListener('click',initializeGitHubFiles);
-  document.getElementById('modal-github').addEventListener('click',function(e){if(e.target===this)closeAdminPanel();});
+  document.getElementById('modal-admin')?.addEventListener('click',function(e){if(e.target===this)closeAdminPanel();});
 
   // Dup check modal
   document.getElementById('dupcheck-cancel').addEventListener('click',()=>{document.getElementById('modal-dupcheck').style.display='none';});
