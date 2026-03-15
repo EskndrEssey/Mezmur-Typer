@@ -11,14 +11,13 @@
 <body>
   <header class="app-header" id="app-header-bar">
     <div class="header-left">
-      <div class="logo-mark">✝</div>
+      <div class="logo-mark" id="logo-secret">✝</div>
       <div class="header-titles">
         <h1 class="app-title">Wazema Hymn Entry</h1>
         <p class="app-sub">Volunteer Entry Tool · Offline-First</p>
       </div>
     </div>
     <div class="header-actions">
-      <button class="btn btn-ghost" id="btn-admin-panel">⚙ Admin</button>
       <button class="btn btn-ghost" id="btn-import">⬆ Import JSON</button>
       <div class="export-dropdown" id="export-dropdown">
         <button class="btn btn-ghost" id="btn-export-toggle">⬇ Export ▾</button>
@@ -237,6 +236,21 @@
       </div>
     </div>
   </div>
+  <!-- MOBILE BOTTOM NAV -->
+  <div class="mobile-nav" id="mobile-nav" style="display:none">
+    <button class="mobile-nav-btn" id="mob-hymns" onclick="mobileSwitchTab('hymns')">
+      <span class="mobile-nav-icon">♪</span>
+      <span>Hymns</span>
+    </button>
+    <button class="mobile-nav-btn" id="mob-new">
+      <span class="nav-new">+ New</span>
+    </button>
+    <button class="mobile-nav-btn" id="mob-list" onclick="mobileSwitchTab('hymns')">
+      <span class="mobile-nav-icon">☰</span>
+      <span>List</span>
+    </button>
+  </div>
+
   <div class="toast" id="toast"></div>
   <script src="app.js"></script>
 </body>

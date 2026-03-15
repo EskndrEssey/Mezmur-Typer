@@ -575,8 +575,14 @@ function renderEditor(){
 function buildEmptyState(){
   const div=document.createElement('div');
   div.className='empty-state';
-  div.innerHTML='<div class="empty-icon">\u266a</div><h2>No hymn selected</h2><p>Select a hymn from the list, or create a new one to begin.</p><button class="btn btn-primary" id="btn-new-hymn-empty">+ New Hymn</button>';
-  div.querySelector('#btn-new-hymn-empty').addEventListener('click',addNewHymn);
+  div.innerHTML=`
+    <div class="empty-icon">✝</div>
+    <h2>ዋዜማ</h2>
+    <p>St. George Eritrean Orthodox Church<br>Seattle</p>
+    <p style="margin-top:8px;font-size:12px">Tap below to start entering a hymn</p>
+    <button class="btn btn-primary empty-new-btn" style="margin-top:16px;padding:14px 32px;font-size:15px;border-radius:30px">+ New Hymn</button>
+  `;
+  div.querySelector('.empty-new-btn').addEventListener('click', addNewHymn);
   return div;
 }
 
@@ -1641,12 +1647,23 @@ function init(){
   if (activeId&&hymns.find(h=>h.id===activeId)){activeHymn=hymns.find(h=>h.id===activeId);renderEditor();}
   else updatePreview();
 
-  document.getElementById('btn-new-hymn').addEventListener('click',addNewHymn);
-  document.getElementById('btn-admin-panel').addEventListener('click',()=>{
-    // Admin panel needs a secret knock: triple-click or just open directly
-    // You can protect this with admin password later if needed
-    openAdminPanel();
+  // Secret: tap logo 5 times fast to open admin
+  let logoTaps = 0, logoTimer = null;
+  document.getElementById('logo-secret')?.addEventListener('click', ()=>{
+    logoTaps++;
+    clearTimeout(logoTimer);
+    logoTimer = setTimeout(()=>{ logoTaps=0; }, 2000);
+    if (logoTaps >= 5){
+      logoTaps = 0;
+      openAdminPanel();
+    }
   });
+
+  document.getElementById('btn-new-hymn').addEventListener('click',()=>{
+    addNewHymn();
+    if(isMobile()) mobileSwitchTab('editor');
+  });
+
   document.getElementById('btn-export-toggle').addEventListener('click',(e)=>{
     e.stopPropagation();
     const menu=document.getElementById('export-menu');
@@ -1713,23 +1730,69 @@ function init(){
   });
 }
 function updateGHStatusIndicator(){
-  const btn=document.getElementById('btn-admin-panel');
-  if (!btn) return;
-  if (isGHConfigured()){
-    btn.textContent='⚙ Admin ✓';
-    btn.style.borderColor='rgba(61,107,78,.5)';
-    btn.style.color='#a8d5b5';
-  } else {
-    btn.textContent='⚙ Admin';
-    btn.style.borderColor='';
-    btn.style.color='';
+  // Admin button removed — token status shown via toast only
+}
+
+
+// ═══════════════════════════════════════
+//  MOBILE SUPPORT
+// ═══════════════════════════════════════
+
+function isMobile(){ return window.innerWidth <= 680; }
+
+function initMobile(){
+  if (!isMobile()) return;
+
+  // Show mobile nav
+  const nav = document.getElementById('mobile-nav');
+  if (nav) nav.style.display = 'flex';
+
+  // New hymn button in bottom nav
+  const mobNew = document.getElementById('mob-new');
+  if (mobNew) mobNew.addEventListener('click', ()=>{
+    addNewHymn();
+    mobileSwitchTab('editor');
+  });
+
+  // Hymns list button — show sidebar
+  const mobHymns = document.getElementById('mob-hymns');
+  if (mobHymns) mobHymns.addEventListener('click', ()=>{
+    mobileSwitchTab('hymns');
+  });
+}
+
+function mobileSwitchTab(tab){
+  if (!isMobile()) return;
+  const sidebar   = document.querySelector('.sidebar');
+  const editor    = document.getElementById('editor-area');
+  const mobHymns  = document.getElementById('mob-hymns');
+  const mobNew    = document.getElementById('mob-new');
+
+  if (tab === 'hymns'){
+    if (sidebar){ sidebar.classList.add('mobile-open'); sidebar.style.display='flex'; }
+    if (editor)  editor.style.display = 'none';
+    if (mobHymns) mobHymns.classList.add('active');
+  } else if (tab === 'editor'){
+    if (sidebar){ sidebar.classList.remove('mobile-open'); sidebar.style.display='none'; }
+    if (editor)  editor.style.display = '';
+    if (mobHymns) mobHymns.classList.remove('active');
   }
 }
+
+// When a hymn is selected on mobile, switch to editor view
+const _origSelectHymn = selectHymn;
+function selectHymn(id){
+  _origSelectHymn(id);
+  if (isMobile()) mobileSwitchTab('editor');
+}
+
+window.mobileSwitchTab = mobileSwitchTab;
 
 document.addEventListener('DOMContentLoaded',()=>{
   init();
   updateGHStatusIndicator();
   checkPasswordGate();
+  initMobile();
 
   // Password gate submit
   document.getElementById('gate-submit').addEventListener('click', submitPasswordGate);
