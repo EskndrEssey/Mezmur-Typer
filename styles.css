@@ -643,3 +643,4 @@ html,body{
 }
 .romanize-btn:active { opacity: 0.7; transform: scale(0.97); }
 .romanize-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+ 
