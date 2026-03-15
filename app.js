@@ -202,9 +202,12 @@ function groupLabel(k,l=‘en’){ const g=GROUP_TAXONOMY[k]; if(!g)return k; re
 
 // ═══ PAGES ════════════════════════════════════
 function showPage(id){
-document.querySelectorAll(’.page’).forEach(p=>p.style.display=‘none’);
+document.querySelectorAll(’.page’).forEach(p=>{
+p.classList.remove(‘active’);
+p.style.display=’’;
+});
 const p=document.getElementById(id);
-if(p)p.style.display=‘flex’;
+if(p){p.classList.add(‘active’); p.style.display=‘flex’;}
 }
 
 // ═══ TOAST ════════════════════════════════════
