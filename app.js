@@ -1,52 +1,13 @@
-/**
- * WAZEMA HYMN ENTRY TOOL · app.js v3
- *
- * REAL SCHEMA (from actual hymns.json):
- *   id          : string
- *   group       : { ti, am, en, om, ti_ro, am_ro, ro }  ← multilingual map
- *   title       : { ti, am, en, om, ti_ro, am_ro, ro }  ← multilingual map
- *   subtitle    : { ti, am, en, om, ti_ro, am_ro, ro }  ← multilingual map (optional)
- *   lyrics      : { ti, am, en, om, ti_ro, am_ro, ro }  ← multilingual map
- *   youtubeUrls : { ti, am, en, om, ti_ro, am_ro, ro }  ← per-language URLs (optional)
- *   color       : string (optional hex)
- *
- * HIGHLIGHT FORMAT (inline, not whole-line):
- *   [[highlight]]prefix text [[/highlight]]rest of line
- *   e.g. "[[highlight]]Praises of Mary [[/highlight]]in the morning prayers"
- *   The prefix is highlighted; the rest follows on the same line.
- *
- * INTERNAL VERSE MODEL:
- *   verse = { lines: [ { prefix, text } ] }
- *   prefix : string — the [[highlight]] portion (empty = no highlight on this line)
- *   text   : string — the remainder of the line after the highlight (or full line if no prefix)
- *
- * EXPORT — buildLyrics(ld):
- *   For each line:
- *     if prefix: "[[highlight]]prefix[[/highlight]]text"
- *     else:       "text"
- *   Verses separated by blank lines.
- *   Chorus: [[chorus]]...[[/chorus]] first, then after every verse.
- *
- * LOCALSTORAGE:
- *   'wazema_hymns'     → JSON array of all hymns
- *   'wazema_active_id' → currently selected hymn ID
- *   Autosave 400ms debounce after any change.
- */
-
 'use strict';
 
+// ═══════════ CONSTANTS ════════════════
 const STORAGE_KEY   = 'wazema_hymns';
 const ACTIVE_ID_KEY = 'wazema_active_id';
-
-// All 7 language keys matching the real schema
 const LANGS      = ['en','ti','ti_ro','am','am_ro','om','ro'];
-const LANG_NAMES = {
-  en:'English', ti:'Tigrinya', ti_ro:'Tigrinya (Romanized)',
-  am:'Amharic', am_ro:'Amharic (Romanized)', om:'Oromo', ro:'Romanian'
-};
+const LANG_NAMES = {en:'English',ti:'Tigrinya',ti_ro:'Tigrinya (Rom.)',am:'Amharic',am_ro:'Amharic (Rom.)',om:'Oromo',ro:'Romanian'};
 const LANG_SHORT = {en:'EN',ti:'TI',ti_ro:'TI-R',am:'AM',am_ro:'AM-R',om:'OM',ro:'RO'};
-
 const STATUS_OPTIONS = {draft:'Draft',review:'Needs Review',final:'Final'};
+const SESSION_KEY = 'wz_session_ok';
 
 const GROUP_TAXONOMY = {
 
@@ -170,83 +131,45 @@ const GROUP_TAXONOMY = {
 
 const ALL_GROUP_KEYS = Object.keys(GROUP_TAXONOMY);
 
-// STATE
-let hymns=[], activeId=null, activeHymn=null, saveTimer=null, activeLang={};
+// ═══════════ STATE ════════════════════
+let hymns=[], activeHymn=null, saveTimer=null;
 
-// ═══════════════════════════════════════
-//  DATA MODEL
-// ═══════════════════════════════════════
-
-function emptyLangMap(){ const m={}; LANGS.forEach(l=>m[l]=''); return m; }
+// ═══════════ DATA MODEL ════════════════
 function createLine(prefix='',text=''){ return {prefix,text}; }
 function createVerse(){ return {lines:[createLine()]}; }
-
-function createLangData(){
-  return {
-    groupName: '',    // per-language group name (e.g. "Mary" / "ማርያም")
-    title:     '',
-    subtitle:  '',
-    chorus:    '',
-    verses:    [],
-    youtube:   '',    // per-language YouTube URL
-  };
-}
-
-function createHymn(overrides={}){
-  const id = overrides.id || generateId();
-  const langs = {};
-  LANGS.forEach(l => { langs[l] = createLangData(); });
-  return {id, groupKey:'', subgroup:'', composer:'', singer:'', author:'', color:'', status:'draft', langs, ...overrides};
+function createLangData(){ return {groupName:'',title:'',subtitle:'',chorus:'',verses:[],youtube:''}; }
+function createHymn(o={}){
+  const id=o.id||generateId();
+  const langs={};
+  LANGS.forEach(l=>{langs[l]=createLangData();});
+  return {id,groupKey:'',subgroup:'',zemari:'',color:'',status:'draft',langs,...o};
 }
 function generateId(){ return 'hymn_'+Date.now().toString(36)+Math.random().toString(36).slice(2,6); }
 
-// ═══════════════════════════════════════
-//  PERSISTENCE
-// ═══════════════════════════════════════
-
+// ═══════════ STORAGE ═══════════════════
 function loadFromStorage(){
   try{
-    const raw=localStorage.getItem(STORAGE_KEY);
-    hymns=raw?JSON.parse(raw):[];
-    activeId=localStorage.getItem(ACTIVE_ID_KEY)||null;
+    const r=localStorage.getItem(STORAGE_KEY);
+    hymns=r?JSON.parse(r):[];
     hymns.forEach(migrateHymn);
-  }catch(e){hymns=[];activeId=null;}
+  }catch(e){hymns=[];}
 }
-
-function migrateHymn(hymn){
-  // Ensure all lang keys exist
+function migrateHymn(h){
   LANGS.forEach(l=>{
-    if (!hymn.langs[l]) hymn.langs[l]=createLangData();
-    const ld=hymn.langs[l];
-    // Migrate old verses/blocks format
-    if (!ld.verses) ld.verses=[];
-    if (ld.blocks){
-      ld.blocks.forEach(b=>{
-        if (b.type==='verse') ld.verses.push({lines:b.text.split('\n').map(t=>createLine('',t))});
-        else if (b.type==='highlight') ld.verses.push({lines:[createLine(b.text,'')]});
-      });
-      delete ld.blocks;
-    }
-    if (!ld.youtube) ld.youtube='';
-    if (!ld.groupName) ld.groupName='';
+    if(!h.langs[l])h.langs[l]=createLangData();
+    const ld=h.langs[l];
+    if(!ld.verses)ld.verses=[];
+    if(ld.blocks){ld.blocks.forEach(b=>{if(b.type==='verse')ld.verses.push({lines:b.text.split('\n').map(t=>createLine('',t))});else if(b.type==='highlight')ld.verses.push({lines:[createLine(b.text,'')]});});delete ld.blocks;}
+    if(!ld.youtube)ld.youtube='';
+    if(!ld.groupName)ld.groupName='';
+    if(!h.zemari)h.zemari=h.singer||h.composer||h.author||'';
   });
-  if (!hymn.groupKey && hymn.group) hymn.groupKey = hymn.group;
-  if (!hymn.zemari) hymn.zemari = hymn.singer||hymn.composer||hymn.author||'';
+  if(!h.groupKey&&h.group)h.groupKey=h.group;
 }
-
-function saveToStorage(){ localStorage.setItem(STORAGE_KEY,JSON.stringify(hymns)); if(activeId)localStorage.setItem(ACTIVE_ID_KEY,activeId); }
+function saveToStorage(){ localStorage.setItem(STORAGE_KEY,JSON.stringify(hymns)); if(activeHymn)localStorage.setItem(ACTIVE_ID_KEY,activeHymn.id); }
 function scheduleSave(){ clearTimeout(saveTimer); saveTimer=setTimeout(saveToStorage,400); }
 
-// ═══════════════════════════════════════
-//  EXPORT
-// ═══════════════════════════════════════
-
-/**
- * Build lyrics string for one language.
- * Lines with prefix: [[highlight]]prefix[[/highlight]]rest
- * Lines without: plain text
- * Chorus wraps [[chorus]]...[[/chorus]], placed first and after every verse.
- */
+// ═══════════ EXPORT/IMPORT ════════════
 function buildLyricsString(ld){
   const chorus=(ld.chorus||'').trim();
   const verses=(ld.verses||[]).filter(v=>v.lines&&v.lines.some(l=>(l.prefix||l.text||'').trim()));
@@ -322,7 +245,7 @@ function exportAllHymns(){
   const data=hymns.map(hymnToExport);
   downloadJSON(data,'hymns.json');
   showToast(`Exported ${data.length} hymn${data.length!==1?'s':''} \u2713`,'success');
-  closeExportMenu();
+  closeSheet('sheet-export');
 }
 
 function exportByGroup(groupKey){
@@ -332,7 +255,7 @@ function exportByGroup(groupKey){
   const filename=groupKey.replace(/[^a-zA-Z0-9_-]/g,'_')+'.json';
   downloadJSON(data,filename);
   showToast(`Exported ${data.length} hymn${data.length!==1?'s':''} from ${groupKey} \u2713`,'success');
-  closeExportMenu();
+  closeSheet('sheet-export');
 }
 
 function exportUngrouped(){
@@ -341,12 +264,10 @@ function exportUngrouped(){
   const data=group.map(hymnToExport);
   downloadJSON(data,'ungrouped.json');
   showToast(`Exported ${data.length} ungrouped hymn${data.length!==1?'s':''} \u2713`,'success');
-  closeExportMenu();
+  closeSheet('sheet-export');
 }
 
-function closeExportMenu(){
-  document.getElementById('export-menu').style.display='none';
-}
+function closeExportMenu(){ closeSheet('sheet-export'); }
 
 function buildExportGroupList(){
   const container=document.getElementById('export-group-list');
@@ -458,648 +379,411 @@ function parseLyricsToVerses(lyrics){
   return result;
 }
 
-// ═══════════════════════════════════════
-//  HELPERS
-// ═══════════════════════════════════════
 
-function getHymnDisplayTitle(h){
-  for (const l of LANGS){ const t=h.langs[l]?.title?.trim(); if(t)return t; }
-  return '(Untitled)';
-}
-function getActiveLang(id){return activeLang[id]||'en';}
-function setActiveLang(id,lang){activeLang[id]=lang;}
-function getSubgroupsForGroup(k){
-  const subs = GROUP_TAXONOMY[k]?.subgroups||[];
-  return subs; // array of {key, label} objects or empty
-}
-function getSubgroupLabel(sub, uiLang){
-  if (typeof sub === 'string') return sub;
-  return sub.label?.[uiLang] || sub.label?.en || sub.key || sub;
-}
-function getSubgroupKey(sub){
-  if (typeof sub === 'string') return sub;
-  return sub.key || sub;
-}
-function getGroupLabel(groupKey, uiLang){
-  const g = GROUP_TAXONOMY[groupKey];
-  if (!g) return groupKey;
-  if (typeof g.label === 'string') return g.label;
-  return g.label?.[uiLang] || g.label?.en || groupKey;
+// ═══════════ HELPERS ═══════════════════
+function getHymnDisplayTitle(h){ for(const l of LANGS){const t=h.langs[l]?.title?.trim();if(t)return t;} return '(Untitled)'; }
+function getSubgroupsForGroup(k){ return GROUP_TAXONOMY[k]?.subgroups||[]; }
+function getSubgroupKey(sub){ return typeof sub==='string'?sub:sub.key||sub; }
+function getSubgroupLabel(sub,lang='en'){ if(typeof sub==='string')return sub; return sub.label?.[lang]||sub.label?.en||sub.key||sub; }
+function getGroupLabel(k,lang='en'){ const g=GROUP_TAXONOMY[k]; if(!g)return k; return typeof g.label==='string'?g.label:(g.label?.[lang]||g.label?.en||k); }
+function escHtml(s){ if(!s)return ''; return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
+function nl2br(s){ return s.replace(/\n/g,'<br>'); }
+
+// ═══════════ SHEETS ════════════════════
+function openSheet(id){ const el=document.getElementById(id); if(el)el.style.display='flex'; }
+function closeSheet(id){ const el=document.getElementById(id); if(el)el.style.display='none'; }
+function closeAllSheets(){ document.querySelectorAll('.sheet-overlay').forEach(s=>s.style.display='none'); }
+
+// ═══════════ PAGES ═════════════════════
+function showPage(id){
+  document.querySelectorAll('.page').forEach(p=>p.style.display='none');
+  const p=document.getElementById(id);
+  if(p){ p.style.display='flex'; p.classList.add('fade-up'); setTimeout(()=>p.classList.remove('fade-up'),300); }
 }
 
-// ═══════════════════════════════════════
-//  SIDEBAR
-// ═══════════════════════════════════════
+// ═══════════ PASSWORD GATE ═════════════
+// DEFAULT PASSWORD — hardcoded so volunteers always see the gate
+// Admin can override by setting a different password in the Admin panel
+const DEFAULT_VOL_PASSWORD = 'Mezmur2025';
 
-function getFilteredHymns(){
-  const search  =(document.getElementById('search-input')?.value||'').toLowerCase();
-  const group   =document.getElementById('filter-group')?.value||'';
-  const subgroup=document.getElementById('filter-subgroup')?.value||'';
-  const status  =document.getElementById('filter-status')?.value||'';
-  return hymns.filter(h=>{
-    const title=getHymnDisplayTitle(h).toLowerCase();
-    if (search   &&!title.includes(search)&&!h.id.includes(search)) return false;
-    if (group    &&h.groupKey!==group)       return false;
-    if (subgroup &&h.subgroup!==subgroup)    return false;
-    if (status   &&h.status!==status)        return false;
-    return true;
-  });
+function getVolPassword(){
+  // Use admin-set password if available, else fall back to default
+  return localStorage.getItem(GH_KEYS.volpass) || DEFAULT_VOL_PASSWORD;
 }
 
+function getVolPassword(){
+  // Use admin-set password if available, else fall back to default
+  return localStorage.getItem(GH_KEYS.volpass) || DEFAULT_VOL_PASSWORD;
+}
+
+function isSessionActive(){ return sessionStorage.getItem(SESSION_KEY)==='1'; }
+
+function checkAndShowGate(){
+  if(isSessionActive()){ showPage('page-list'); renderHymnList(); return; }
+  showPage('page-gate');
+  setTimeout(()=>document.getElementById('gate-password')?.focus(),200);
+}
+function submitGate(){
+  const entered=document.getElementById('gate-password').value;
+  const correct=getVolPassword();
+  const errEl=document.getElementById('gate-error');
+  if(entered===correct){
+    sessionStorage.setItem(SESSION_KEY,'1');
+    document.getElementById('gate-password').value='';
+    errEl.style.display='none';
+    showPage('page-list');
+    renderHymnList();
+  } else {
+    errEl.style.display='block';
+    document.getElementById('gate-password').value='';
+    document.getElementById('gate-password').focus();
+    document.getElementById('gate-password').classList.remove('shake');
+    void document.getElementById('gate-password').offsetWidth;
+    document.getElementById('gate-password').classList.add('shake');
+  }
+}
+
+// ═══════════ HYMN LIST ═════════════════
 function renderHymnList(){
   const list=document.getElementById('hymn-list');
   const stats=document.getElementById('sidebar-stats');
+  const search=(document.getElementById('search-input')?.value||'').toLowerCase();
+  const group=document.getElementById('filter-group')?.value||'';
+  const status=document.getElementById('filter-status')?.value||'';
+
+  // Rebuild group filter
   const groupSel=document.getElementById('filter-group');
-  const sgSel=document.getElementById('filter-subgroup');
-  const filtered=getFilteredHymns();
+  if(groupSel){
+    const prev=groupSel.value;
+    groupSel.innerHTML='<option value="">All Groups</option>';
+    ALL_GROUP_KEYS.forEach(k=>{
+      const o=document.createElement('option');
+      o.value=k; o.textContent=getGroupLabel(k,'en');
+      if(k===prev)o.selected=true;
+      groupSel.appendChild(o);
+    });
+  }
 
-  const prevGroup=groupSel.value;
-  groupSel.innerHTML='<option value="">All Groups</option>';
-  ALL_GROUP_KEYS.forEach(k=>{
-    const o=document.createElement('option');
-    const g=GROUP_TAXONOMY[k];
-    o.value=k;
-    o.textContent=typeof g.label==='string'?g.label:(g.label?.en||k);
-    if(k===prevGroup)o.selected=true;
-    groupSel.appendChild(o);
-  });
-
-  const prevSG=sgSel.value;
-  sgSel.innerHTML='<option value="">All Occasions</option>';
-  const sgSource=groupSel.value?getSubgroupsForGroup(groupSel.value):[...new Set(hymns.map(h=>h.subgroup).filter(Boolean))].sort();
-  sgSource.forEach(sg=>{
-    const o=document.createElement('option'); o.value=sg; o.textContent=sg;
-    if(sg===prevSG)o.selected=true; sgSel.appendChild(o);
+  const filtered=hymns.filter(h=>{
+    const title=getHymnDisplayTitle(h).toLowerCase();
+    if(search&&!title.includes(search)&&!h.id.includes(search))return false;
+    if(group&&h.groupKey!==group)return false;
+    if(status&&h.status!==status)return false;
+    return true;
   });
 
   stats.textContent=`${filtered.length} of ${hymns.length} hymn${hymns.length!==1?'s':''}`;
   list.innerHTML='';
-  if (!filtered.length){list.innerHTML='<div style="padding:20px;text-align:center;color:var(--ink-faint);font-style:italic;font-size:13px">No hymns found</div>';return;}
+
+  if(!filtered.length){
+    list.innerHTML='<div style="padding:40px 20px;text-align:center;color:rgba(255,255,255,.3);font-size:15px">No hymns yet.<br><br>Tap <strong>+ New</strong> to start.</div>';
+    return;
+  }
+
   filtered.forEach(h=>{
     const item=document.createElement('div');
-    item.className='hymn-item'+(h.id===activeId?' active':'');
-    item.dataset.id=h.id;
-    const gc=h.groupKey?`<span class="group-chip">${escHtml(h.groupKey)}</span>`:'';
-    const sc=h.subgroup?`<span class="subgroup-chip">${escHtml(h.subgroup)}</span>`:'';
+    item.className='hymn-item';
+    const title=getHymnDisplayTitle(h);
+    const gc=h.groupKey?`<span class="chip chip-group">${escHtml(h.groupKey)}</span>`:'';
+    const sc=h.subgroup?`<span class="chip chip-sub">${escHtml(h.subgroup)}</span>`:'';
     const badge=`<span class="status-badge status-${h.status}">${STATUS_OPTIONS[h.status]||h.status}</span>`;
-    item.innerHTML=`<div class="hymn-item-title">${escHtml(getHymnDisplayTitle(h))}</div><div class="hymn-item-meta">${gc}${sc}${badge}<span class="id-chip">${h.id.slice(0,10)}</span></div>`;
+    item.innerHTML=`
+      <div class="hymn-item-left">
+        <div class="hymn-item-title">${escHtml(title)}</div>
+        <div class="hymn-item-meta">${gc}${sc}${badge}</div>
+      </div>
+      <span class="hymn-item-arrow">›</span>`;
     item.addEventListener('click',()=>selectHymn(h.id));
     list.appendChild(item);
   });
 }
 
-// ═══════════════════════════════════════
-//  SELECTION & RENDER
-// ═══════════════════════════════════════
-
-function selectHymn(id){activeId=id;activeHymn=hymns.find(h=>h.id===id)||null;localStorage.setItem(ACTIVE_ID_KEY,id);renderHymnList();renderEditor();}
-
-function deselectHymn(){
-  activeId=null;activeHymn=null;renderHymnList();
-  const area=document.getElementById('editor-area');
-  area.innerHTML='';area.appendChild(buildEmptyState());updatePreview();
+function selectHymn(id){
+  activeHymn=hymns.find(h=>h.id===id)||null;
+  if(!activeHymn)return;
+  localStorage.setItem(ACTIVE_ID_KEY,id);
+  renderEditor();
+  showPage('page-editor');
 }
 
+function addNewHymn(){
+  const h=createHymn();
+  hymns.unshift(h);
+  saveToStorage();
+  selectHymn(h.id);
+  showToast('New hymn created','success');
+}
+
+// ═══════════ EDITOR ════════════════════
 function renderEditor(){
+  if(!activeHymn)return;
+  const h=activeHymn;
   const area=document.getElementById('editor-area');
-  area.innerHTML='';
-  if (!activeHymn){area.appendChild(buildEmptyState());updatePreview();return;}
-  const wrapper=document.createElement('div');
-  wrapper.className='hymn-editor';
-  wrapper.innerHTML=buildEditorHTML(activeHymn);
-  area.appendChild(wrapper);
-  bindEditorEvents(wrapper,activeHymn);
-  updatePreview();
-}
 
-function buildEmptyState(){
-  const div=document.createElement('div');
-  div.className='empty-state';
-  div.innerHTML=`
-    <div class="empty-icon">✝</div>
-    <h2>ዋዜማ</h2>
-    <p>St. George Eritrean Orthodox Church<br>Seattle</p>
-    <p style="margin-top:8px;font-size:12px">Tap below to start entering a hymn</p>
-    <button class="btn btn-primary empty-new-btn" style="margin-top:16px;padding:14px 32px;font-size:15px;border-radius:30px">+ New Hymn</button>
-  `;
-  div.querySelector('.empty-new-btn').addEventListener('click', addNewHymn);
-  return div;
-}
+  // Status toggles
+  const statusHTML=Object.entries(STATUS_OPTIONS).map(([k,v])=>
+    `<button class="status-toggle ${h.status===k?'active-'+k:''}" data-status="${k}">${v}</button>`
+  ).join('');
 
-// ═══════════════════════════════════════
-//  BUILD EDITOR HTML
-// ═══════════════════════════════════════
-
-function buildEditorHTML(hymn){
-  const lang=getActiveLang(hymn.id);
-  const tabs=LANGS.map(l=>`<button class="lang-tab${l===lang?' active':''}" data-lang="${l}">${LANG_NAMES[l]}</button>`).join('');
-
-  // Category toggle buttons
-  const catToggles = ALL_GROUP_KEYS.map(k=>{
-    const g=GROUP_TAXONOMY[k];
-    const lbl=typeof g.label==='string'?g.label:(g.label?.en||k);
-    const isActive = hymn.groupKey===k;
-    return `<button class="cat-toggle${isActive?' active':''}" data-cat="${k}">${escHtml(lbl)}</button>`;
+  // Category toggles
+  const catHTML=ALL_GROUP_KEYS.map(k=>{
+    const lbl=getGroupLabel(k,'en');
+    return `<button class="cat-toggle ${h.groupKey===k?'active':''}" data-cat="${k}">${escHtml(lbl)}</button>`;
   }).join('');
 
-  // Subcategory toggle buttons (for selected group)
-  const subToggles = buildSubToggleButtons(hymn.groupKey, hymn.subgroup, lang);
+  // Sub toggles
+  const subs=getSubgroupsForGroup(h.groupKey);
+  const subHTML=subs.map(sub=>{
+    const key=getSubgroupKey(sub);
+    const lbl=getSubgroupLabel(sub,'en');
+    return `<button class="sub-toggle ${h.subgroup===key?'active':''}" data-sub="${escHtml(key)}">${escHtml(lbl)}</button>`;
+  }).join('');
 
-  const urlsHtml=(hymn.youtubeUrls&&hymn.youtubeUrls.length?hymn.youtubeUrls:['']).map((u,i)=>`
-    <div class="url-row">
-      <input type="url" class="field-input youtube-url-input" value="${escHtml(u)}" data-index="${i}" placeholder="https://youtube.com/watch?v=..." />
-      <button class="btn-icon remove-url-btn" data-index="${i}" title="Remove">✕</button>
-    </div>`).join('');
-
-  return `
-    <div class="editor-toolbar">
-      <div class="editor-toolbar-left">
-        <button class="btn btn-secondary btn-sm" id="btn-duplicate">⧉ Duplicate</button>
-        <button class="btn btn-secondary btn-sm" id="btn-regen-id">↻ New ID</button>
-        <div class="sep"></div>
-        <select class="filter-select" id="meta-status" style="width:auto;padding:5px 10px">
-          ${Object.entries(STATUS_OPTIONS).map(([k,v])=>`<option value="${k}"${hymn.status===k?' selected':''}>${v}</option>`).join('')}
-        </select>
+  // Lang panels
+  const langTabs=LANGS.map(l=>`<button class="lang-tab ${l==='en'?'active':''}" data-lang="${l}">${LANG_NAMES[l]}</button>`).join('');
+  const langPanels=LANGS.map(l=>{
+    const ld=h.langs[l]||createLangData();
+    return `<div class="lang-panel ${l==='en'?'active':''}" data-lang="${l}">
+      <div class="form-row">
+        <label class="form-label">Title (${LANG_SHORT[l]})</label>
+        <input type="text" class="form-input lang-title" data-lang="${l}" value="${escHtml(ld.title||'')} " placeholder="Hymn title in ${LANG_NAMES[l]}"/>
       </div>
-      <div class="editor-toolbar-right">
-        <button class="btn btn-copy-json btn-sm" id="btn-copy-json">⧉ Copy JSON</button>
-        <button class="btn btn-submit btn-sm" id="btn-submit-hymn">✝ Submit</button>
-        <button class="btn btn-danger btn-sm" id="btn-delete-hymn">✕ Delete</button>
+      <div class="form-row">
+        <label class="form-label">Subtitle / Credits</label>
+        <input type="text" class="form-input lang-subtitle" data-lang="${l}" value="${escHtml(ld.subtitle||'')} " placeholder="Optional"/>
+      </div>
+      <div class="form-row">
+        <label class="form-label">YouTube URL</label>
+        <input type="url" class="form-input lang-youtube" data-lang="${l}" value="${escHtml(ld.youtube||'')} " placeholder="https://youtube.com/..."/>
+      </div>
+      <div class="chorus-card">
+        <div class="chorus-header">
+          <span class="chorus-label">♪ Chorus / ኣዝ — type once</span>
+          <span class="chorus-hint">Leave blank if none</span>
+        </div>
+        <textarea class="chorus-input lang-chorus" data-lang="${l}" placeholder="Type chorus here — it repeats after every verse automatically…">${escHtml(ld.chorus||'')} </textarea>
+      </div>
+      <div class="verse-hint"><strong>★ Gold prefix box</strong> = highlighted line (like "Praises of Mary"). Leave empty for a plain line. Press Enter for a new line.</div>
+      <div class="verse-actions-row">
+        <button class="add-verse-btn" data-lang="${l}">+ Verse / ስታንዛ</button>
+        <button class="dup-verse-btn" data-lang="${l}">⧉ Duplicate Last</button>
+      </div>
+      <div class="verse-list" id="verse-list-${l}">${buildVersesHTML(ld.verses||[])}</div>
+    </div>`;
+  }).join('');
+
+  area.innerHTML=`
+    <div class="form-section">
+      <div class="form-section-title">Status</div>
+      <div class="form-body">
+        <div class="status-row" id="status-row">${statusHTML}</div>
       </div>
     </div>
-
-    <!-- HYMN DETAILS -->
-    <div class="section-block">
-      <div class="section-header">
-        <span>Hymn Details</span>
-        <span class="id-chip">${escHtml(hymn.id)}</span>
-      </div>
-      <div class="section-body">
-
-        <!-- CATEGORY TOGGLES -->
-        <div class="cat-section">
-          <span class="cat-label">Category</span>
-          <div class="cat-toggles" id="cat-toggles">${catToggles}</div>
-          <div class="sub-toggles" id="sub-toggles" style="${subToggles?'':'display:none'}">${subToggles}</div>
-        </div>
-
-        <div class="meta-grid" style="margin-top:12px">
-          <div>
-            <label class="field-label">Color (hex, optional)</label>
-            <input type="text" class="field-input" id="meta-color" value="${escHtml(hymn.color||'')}" placeholder="#DB2777" />
-          </div>
-          <div>
-            <label class="field-label">Zemari/t <span style="font-weight:400;text-transform:none;font-size:10px;color:var(--text3)">(Singer / Composer / Author)</span></label>
-            <input type="text" class="field-input" id="meta-zemari" value="${escHtml(hymn.zemari||'')}" placeholder="Name" />
-          </div>
-        </div>
-      </div>
-
-      <div class="section-header" style="border-top:1px solid var(--border)">
-        <span>YouTube Links (optional)</span>
-        <button class="btn btn-secondary btn-sm" id="btn-add-url">+ Add URL</button>
-      </div>
-      <div class="section-body">
-        <div class="url-list" id="url-list">${urlsHtml}</div>
+    <div class="form-section">
+      <div class="form-section-title">Category</div>
+      <div class="form-body">
+        <div class="cat-wrap" id="cat-wrap">${catHTML}</div>
+        <div class="sub-wrap" id="sub-wrap" style="${subHTML?'':\'display:none'}">${subHTML}</div>
       </div>
     </div>
-
-    <!-- LYRICS -->
-    <div class="section-block">
-      <div class="section-header"><span>Lyrics by Language</span></div>
-      <div class="lang-tabs">${tabs}</div>
-      ${LANGS.map(l=>{
-        const d=hymn.langs[l]||createLangData();
-        return `
-        <div class="lang-panel${l===lang?' active':''}" data-lang="${l}">
-          <div class="lang-title-row">
-            <div>
-              <label class="field-label">Title (${LANG_SHORT[l]})</label>
-              <input type="text" class="field-input lang-title" data-lang="${l}" value="${escHtml(d.title||'')}" placeholder="Hymn title" />
-            </div>
-            <div>
-              <label class="field-label">Subtitle / Credits</label>
-              <input type="text" class="field-input lang-subtitle" data-lang="${l}" value="${escHtml(d.subtitle||'')}" placeholder="Optional" />
-            </div>
-          </div>
-          <div class="lang-youtube-row">
-            <label class="field-label">YouTube URL (${LANG_SHORT[l]})</label>
-            <input type="url" class="field-input lang-youtube" data-lang="${l}" value="${escHtml(d.youtube||'')}" placeholder="https://youtube.com/watch?v=..." />
-          </div>
-
-          <!-- CHORUS -->
-          <div class="chorus-section">
-            <div class="chorus-header">
-              <div class="chorus-title">♪ Chorus / ኣዝ — type once</div>
-              <div class="chorus-hint">Leave blank if no chorus</div>
-            </div>
-            <textarea class="chorus-textarea lang-chorus" data-lang="${l}" placeholder="Chorus / ኣዝ text here… it will automatically repeat after every verse.">${escHtml(d.chorus||'')}</textarea>
-          </div>
-
-          <!-- VERSES -->
-          <div class="blocks-section">
-            <div class="section-header"><span>Verses</span></div>
-            <div class="blocks-toolbar">
-              <button class="btn btn-secondary btn-sm add-verse-btn" data-lang="${l}">+ Verse / ስታንዛ</button>
-              <button class="btn btn-secondary btn-sm dup-verse-btn" data-lang="${l}">⧉ Duplicate Last Verse</button>
-            </div>
-            <div class="highlight-hint">
-              The <strong>gold prefix box</strong> on each line is for highlighted text (like <em>"Praises of Mary"</em>).
-              Leave it empty for a plain line. Press <strong>Enter</strong> to add a new line.
-            </div>
-            <div class="blocks-list" id="verses-list-${l}">${buildVersesListHTML(d.verses||[])}</div>
-          </div>
-        </div>`;
-      }).join('')}
-    </div>`;
-}
-
-function buildSubToggleButtons(groupKey, selectedSub, uiLang='en'){
-  const subs = getSubgroupsForGroup(groupKey);
-  if (!subs.length) return '';
-  return subs.map(sub=>{
-    const key = getSubgroupKey(sub);
-    const label = getSubgroupLabel(sub, uiLang);
-    const isActive = selectedSub===key;
-    return `<button class="sub-toggle${isActive?' active':''}" data-sub="${escHtml(key)}">${escHtml(label)}</button>`;
-  }).join('');
-}
-
-
-function buildSubgroupOptions(groupKey, selectedSG, uiLang='en'){
-  const subs = getSubgroupsForGroup(groupKey);
-  if (!subs.length) return '';
-  return subs.map(sub=>{
-    const key = getSubgroupKey(sub);
-    const label = getSubgroupLabel(sub, uiLang);
-    return `<option value="${escHtml(key)}"${key===selectedSG?' selected':''}>${escHtml(label)}</option>`;
-  }).join('');
-}
-
-// ═══════════════════════════════════════
-//  VERSE & LINE HTML
-// ═══════════════════════════════════════
-
-function buildVersesListHTML(verses){
-  if (!verses||verses.length===0) return '<div class="blocks-empty">No verses yet. Click \u201c+ Verse / \u1235\u1273\u1295\u12b3\u201d to start.</div>';
-  return verses.map((v,vi)=>buildVerseCardHTML(v,vi,vi+1)).join('');
-}
-
-function buildVerseCardHTML(verse,vi,num){
-  const linesHtml=(verse.lines||[]).map((line,li)=>buildLineRowHTML(line,vi,li)).join('');
-  return `
-    <div class="verse-card" data-vi="${vi}">
-      <div class="verse-card-header">
-        <div class="verse-label"><span class="drag-handle">\u2807</span>Verse ${num}</div>
-        <div class="verse-actions">
-          <button class="btn-icon verse-move-up" data-vi="${vi}">\u2191</button>
-          <button class="btn-icon verse-move-down" data-vi="${vi}">\u2193</button>
-          <button class="btn-icon verse-delete" data-vi="${vi}">\u2715</button>
+    <div class="form-section">
+      <div class="form-section-title">Hymn Info</div>
+      <div class="form-body">
+        <div class="form-row">
+          <label class="form-label">Zemari/t (Singer / Composer / Author)</label>
+          <input type="text" class="form-input" id="meta-zemari" value="${escHtml(h.zemari||'')} " placeholder="Name"/>
+        </div>
+        <div class="form-row">
+          <label class="form-label">Color (hex, optional)</label>
+          <input type="text" class="form-input" id="meta-color" value="${escHtml(h.color||'')} " placeholder="#DB2777"/>
         </div>
       </div>
-      <div class="verse-lines" data-vi="${vi}">${linesHtml}</div>
-      <button class="verse-add-line" data-vi="${vi}">+ Add line to this verse</button>
+    </div>
+    <div class="form-section">
+      <div class="form-section-title">Lyrics by Language</div>
+      <div class="lang-tabs" id="lang-tabs">${langTabs}</div>
+      ${langPanels}
     </div>`;
+
+  bindEditorEvents(area, h);
 }
 
-function buildLineRowHTML(line,vi,li){
-  const hasPrefix=!!(line.prefix||'').trim();
-  return `
-    <div class="line-row${hasPrefix?' has-prefix':''}" data-vi="${vi}" data-li="${li}">
-      <div class="line-prefix-wrap">
-        <span class="prefix-bracket" title="${hasPrefix?'Highlighted prefix':'No prefix — click to add'}">[[</span>
-        <input type="text" class="line-prefix-input" data-vi="${vi}" data-li="${li}"
-          value="${escHtml(line.prefix||'')}"
-          placeholder="${hasPrefix?'':'prefix\u2026'}"
-          title="Highlighted prefix text (leave empty for plain line)" />
-        <span class="prefix-bracket">]]</span>
+function buildVersesHTML(verses){
+  if(!verses||verses.length===0) return '<div style="padding:20px;text-align:center;color:rgba(255,255,255,.3);font-style:italic;font-size:15px">No verses yet</div>';
+  return verses.map((v,vi)=>buildVerseHTML(v,vi)).join('');
+}
+
+function buildVerseHTML(verse,vi){
+  const lines=(verse.lines||[]).map((line,li)=>{
+    const hasPfx=!!(line.prefix||'').trim();
+    return `<div class="line-row ${hasPfx?'highlighted':''}" data-vi="${vi}" data-li="${li}">
+      <input type="text" class="line-prefix" data-vi="${vi}" data-li="${li}" value="${escHtml(line.prefix||'')} " placeholder="prefix…" title="Highlighted prefix (leave empty for plain line)"/>
+      <textarea class="line-text" data-vi="${vi}" data-li="${li}" rows="1" placeholder="line…">${escHtml(line.text||'')} </textarea>
+      <button class="line-del" data-vi="${vi}" data-li="${li}">✕</button>
+    </div>`;
+  }).join('');
+  return `<div class="verse-card" data-vi="${vi}">
+    <div class="verse-header">
+      <span class="verse-title">Verse / ስታንዛ ${vi+1}</span>
+      <div class="verse-btns">
+        <button class="v-btn verse-up" data-vi="${vi}">↑</button>
+        <button class="v-btn verse-down" data-vi="${vi}">↓</button>
+        <button class="v-btn del verse-del" data-vi="${vi}">✕</button>
       </div>
-      <textarea class="line-main-input" data-vi="${vi}" data-li="${li}" rows="1"
-        placeholder="rest of line\u2026"
-      >${escHtml(line.text||'')}</textarea>
-      <button class="line-del-btn" data-vi="${vi}" data-li="${li}" title="Delete line">\u2715</button>
-    </div>`;
+    </div>
+    <div class="line-list" data-vi="${vi}">${lines}</div>
+    <button class="add-line-btn" data-vi="${vi}">+ Add line</button>
+  </div>`;
 }
 
-// ═══════════════════════════════════════
-//  EDITOR EVENT BINDING
-// ═══════════════════════════════════════
+function refreshVerseList(area, h, lang){
+  const container=area.querySelector(`#verse-list-${lang}`);
+  if(!container)return;
+  container.innerHTML=buildVersesHTML(h.langs[lang].verses||[]);
+  bindVerseListEvents(area,h,lang);
+  container.querySelectorAll('.line-text').forEach(autoResize);
+}
 
-function bindEditorEvents(wrapper,hymn){
-  // Lang tabs
-  wrapper.querySelectorAll('.lang-tab').forEach(tab=>{
-    tab.addEventListener('click',()=>{
-      const lang=tab.dataset.lang; setActiveLang(hymn.id,lang);
-      wrapper.querySelectorAll('.lang-tab').forEach(t=>t.classList.remove('active')); tab.classList.add('active');
-      wrapper.querySelectorAll('.lang-panel').forEach(p=>p.classList.toggle('active',p.dataset.lang===lang));
+function autoResize(el){ el.style.height='auto'; el.style.height=el.scrollHeight+'px'; }
+
+function bindEditorEvents(area,h){
+  // Status
+  area.querySelectorAll('.status-toggle').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      h.status=btn.dataset.status;
+      area.querySelectorAll('.status-toggle').forEach(b=>b.className='status-toggle');
+      btn.className=`status-toggle active-${h.status}`;
+      scheduleSave(); renderHymnList();
     });
   });
 
-  // Category toggle buttons
-  const catToggleContainer = wrapper.querySelector('#cat-toggles');
-  const subToggleContainer = wrapper.querySelector('#sub-toggles');
-
-  catToggleContainer?.addEventListener('click', e=>{
-    const btn = e.target.closest('.cat-toggle');
-    if (!btn) return;
-    const key = btn.dataset.cat;
-    hymn.groupKey = key;
-    hymn.subgroup = '';
-    // Update active states
-    catToggleContainer.querySelectorAll('.cat-toggle').forEach(b=>b.classList.toggle('active', b.dataset.cat===key));
-    // Rebuild sub-toggles
-    const ul = getActiveLang(hymn.id);
-    const subHtml = buildSubToggleButtons(key, '', ul);
-    subToggleContainer.innerHTML = subHtml;
-    subToggleContainer.style.display = subHtml ? '' : 'none';
+  // Categories
+  area.querySelector('#cat-wrap')?.addEventListener('click',e=>{
+    const btn=e.target.closest('.cat-toggle'); if(!btn)return;
+    h.groupKey=btn.dataset.cat; h.subgroup='';
+    area.querySelectorAll('.cat-toggle').forEach(b=>b.classList.toggle('active',b.dataset.cat===h.groupKey));
+    const subs=getSubgroupsForGroup(h.groupKey);
+    const subWrap=area.querySelector('#sub-wrap');
+    if(subWrap){
+      subWrap.innerHTML=subs.map(sub=>{
+        const key=getSubgroupKey(sub); const lbl=getSubgroupLabel(sub,'en');
+        return `<button class="sub-toggle" data-sub="${escHtml(key)}">${escHtml(lbl)}</button>`;
+      }).join('');
+      subWrap.style.display=subs.length?'':\'none\';
+      bindSubEvents(area,h);
+    }
     scheduleSave(); renderHymnList();
   });
+  bindSubEvents(area,h);
 
-  subToggleContainer?.addEventListener('click', e=>{
-    const btn = e.target.closest('.sub-toggle');
-    if (!btn) return;
-    const key = btn.dataset.sub;
-    // Allow toggling off
-    hymn.subgroup = hymn.subgroup===key ? '' : key;
-    subToggleContainer.querySelectorAll('.sub-toggle').forEach(b=>b.classList.toggle('active', b.dataset.sub===hymn.subgroup));
+  // Meta fields
+  area.querySelector('#meta-zemari')?.addEventListener('input',e=>{h.zemari=e.target.value;scheduleSave();});
+  area.querySelector('#meta-color')?.addEventListener('input',e=>{h.color=e.target.value;scheduleSave();});
+
+  // Lang tabs
+  area.querySelector('#lang-tabs')?.addEventListener('click',e=>{
+    const tab=e.target.closest('.lang-tab'); if(!tab)return;
+    const lang=tab.dataset.lang;
+    area.querySelectorAll('.lang-tab').forEach(t=>t.classList.toggle('active',t.dataset.lang===lang));
+    area.querySelectorAll('.lang-panel').forEach(p=>p.classList.toggle('active',p.dataset.lang===lang));
+  });
+
+  // Per-lang fields
+  area.querySelectorAll('.lang-title').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].title=el.value;scheduleSave();renderHymnList();}));
+  area.querySelectorAll('.lang-subtitle').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].subtitle=el.value;scheduleSave();}));
+  area.querySelectorAll('.lang-youtube').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].youtube=el.value;scheduleSave();}));
+  area.querySelectorAll('.lang-chorus').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].chorus=el.value;scheduleSave();}));
+
+  // Add verse
+  area.querySelectorAll('.add-verse-btn').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const lang=btn.dataset.lang;
+      h.langs[lang].verses.push(createVerse());
+      scheduleSave(); refreshVerseList(area,h,lang);
+    });
+  });
+  area.querySelectorAll('.dup-verse-btn').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      const lang=btn.dataset.lang; const vs=h.langs[lang].verses;
+      if(!vs.length){showToast('No verses to duplicate');return;}
+      vs.push(JSON.parse(JSON.stringify(vs[vs.length-1])));
+      scheduleSave(); refreshVerseList(area,h,lang);
+    });
+  });
+
+  // Verse list events per language
+  LANGS.forEach(lang=>bindVerseListEvents(area,h,lang));
+
+  // Auto-resize all textareas
+  area.querySelectorAll('.line-text').forEach(autoResize);
+}
+
+function bindSubEvents(area,h){
+  area.querySelector('#sub-wrap')?.addEventListener('click',e=>{
+    const btn=e.target.closest('.sub-toggle'); if(!btn)return;
+    h.subgroup=h.subgroup===btn.dataset.sub?'':\btn.dataset.sub;
+    area.querySelectorAll('.sub-toggle').forEach(b=>b.classList.toggle('active',b.dataset.sub===h.subgroup));
     scheduleSave(); renderHymnList();
   });
-
-  bindInputField(wrapper,'#meta-color',  v=>hymn.color=v);
-  bindInputField(wrapper,'#meta-zemari', v=>hymn.zemari=v);
-  bindInputField(wrapper,'#meta-status',   v=>{hymn.status=v;renderHymnList();});
-  bindInputField(wrapper,'#meta-status2',  v=>{hymn.status=v;renderHymnList();});
-
-
-
-  // Per-language fields
-  wrapper.querySelectorAll('.lang-groupname').forEach(el=>{
-    el.addEventListener('input',()=>{hymn.langs[el.dataset.lang].groupName=el.value;scheduleSave();});
-  });
-  wrapper.querySelectorAll('.lang-title').forEach(el=>{
-    el.addEventListener('input',()=>{hymn.langs[el.dataset.lang].title=el.value;scheduleSave();renderHymnList();updatePreview();});
-  });
-  wrapper.querySelectorAll('.lang-subtitle').forEach(el=>{
-    el.addEventListener('input',()=>{hymn.langs[el.dataset.lang].subtitle=el.value;scheduleSave();});
-  });
-  wrapper.querySelectorAll('.lang-youtube').forEach(el=>{
-    el.addEventListener('input',()=>{hymn.langs[el.dataset.lang].youtube=el.value;scheduleSave();});
-  });
-  wrapper.querySelectorAll('.lang-chorus').forEach(el=>{
-    el.addEventListener('input',()=>{hymn.langs[el.dataset.lang].chorus=el.value;scheduleSave();updatePreview();});
-  });
-
-  // Verse controls
-  LANGS.forEach(lang=>{
-    const panel=wrapper.querySelector(`.lang-panel[data-lang="${lang}"]`); if(!panel)return;
-    bindVerseControls(panel,hymn,lang,wrapper);
-  });
-
-  wrapper.querySelector('#btn-copy-json')?.addEventListener('click',()=>copyHymnJSON(hymn));
-  wrapper.querySelector('#btn-duplicate')?.addEventListener('click',()=>duplicateHymn(hymn.id));
-  wrapper.querySelector('#btn-regen-id')?.addEventListener('click',()=>regenId(hymn));
-  wrapper.querySelector('#btn-delete-hymn')?.addEventListener('click',()=>confirmDeleteHymn(hymn.id));
-  wrapper.querySelector('#btn-submit-hymn')?.addEventListener('click',()=>startSubmitFlow(hymn));
 }
 
-function bindInputField(wrapper,selector,setter){
-  const el=wrapper.querySelector(selector); if(!el) return;
-  const fn=()=>{setter(el.value);scheduleSave();}; el.addEventListener('input',fn); el.addEventListener('change',fn);
-}
+function bindVerseListEvents(area,h,lang){
+  const container=area.querySelector(`#verse-list-${lang}`); if(!container)return;
 
-// ─── VERSE CONTROLS ──────────────────
-
-function bindVerseControls(panel,hymn,lang,wrapper){
-  panel.querySelector('.add-verse-btn')?.addEventListener('click',()=>{
-    hymn.langs[lang].verses.push(createVerse()); scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview();
-  });
-  panel.querySelector('.dup-verse-btn')?.addEventListener('click',()=>{
-    const vs=hymn.langs[lang].verses;
-    if (!vs.length){showToast('No verses to duplicate.');return;}
-    vs.push(JSON.parse(JSON.stringify(vs[vs.length-1])));
-    scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview();
-  });
-  bindVersesListEvents(panel,hymn,lang,wrapper);
-}
-
-function bindVersesListEvents(panel,hymn,lang,wrapper){
-  const list=panel.querySelector(`#verses-list-${lang}`); if(!list)return;
-
-  // Prefix input changes
-  list.addEventListener('input',e=>{
-    const vi=parseInt(e.target.dataset.vi), li=parseInt(e.target.dataset.li);
-    if (e.target.classList.contains('line-prefix-input')){
-      hymn.langs[lang].verses[vi].lines[li].prefix=e.target.value;
-      // Toggle has-prefix class
-      const row=e.target.closest('.line-row');
-      row.classList.toggle('has-prefix',!!e.target.value.trim());
-      scheduleSave(); updatePreview();
-    }
-    if (e.target.classList.contains('line-main-input')){
-      hymn.langs[lang].verses[vi].lines[li].text=e.target.value;
-      autoResize(e.target); scheduleSave(); updatePreview();
-    }
-  });
-
-  list.addEventListener('click',e=>{
-    if (e.target.classList.contains('line-del-btn')){
+  container.addEventListener('input',e=>{
+    if(e.target.classList.contains('line-prefix')){
       const vi=parseInt(e.target.dataset.vi),li=parseInt(e.target.dataset.li);
-      const lines=hymn.langs[lang].verses[vi].lines;
-      if (lines.length<=1){showToast('A verse needs at least one line.');return;}
-      lines.splice(li,1); scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview(); return;
+      h.langs[lang].verses[vi].lines[li].prefix=e.target.value;
+      e.target.closest('.line-row').classList.toggle('highlighted',!!e.target.value.trim());
+      scheduleSave();
     }
-    if (e.target.classList.contains('verse-add-line')){
-      const vi=parseInt(e.target.dataset.vi);
-      hymn.langs[lang].verses[vi].lines.push(createLine()); scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview(); return;
+    if(e.target.classList.contains('line-text')){
+      const vi=parseInt(e.target.dataset.vi),li=parseInt(e.target.dataset.li);
+      h.langs[lang].verses[vi].lines[li].text=e.target.value;
+      autoResize(e.target); scheduleSave();
     }
-    if (e.target.classList.contains('verse-move-up')){
-      const vi=parseInt(e.target.dataset.vi),vs=hymn.langs[lang].verses;
-      if (vi>0){[vs[vi-1],vs[vi]]=[vs[vi],vs[vi-1]];scheduleSave();refreshVersesList(wrapper,hymn,lang);updatePreview();} return;
+  },true);
+
+  container.addEventListener('click',e=>{
+    const vi=e.target.dataset?.vi!==undefined?parseInt(e.target.dataset.vi):null;
+    const li=e.target.dataset?.li!==undefined?parseInt(e.target.dataset.li):null;
+    if(e.target.classList.contains('line-del')){
+      const lines=h.langs[lang].verses[vi].lines;
+      if(lines.length<=1){showToast('A verse needs at least one line');return;}
+      lines.splice(li,1); scheduleSave(); refreshVerseList(area,h,lang); return;
     }
-    if (e.target.classList.contains('verse-move-down')){
-      const vi=parseInt(e.target.dataset.vi),vs=hymn.langs[lang].verses;
-      if (vi<vs.length-1){[vs[vi],vs[vi+1]]=[vs[vi+1],vs[vi]];scheduleSave();refreshVersesList(wrapper,hymn,lang);updatePreview();} return;
+    if(e.target.classList.contains('add-line-btn')){
+      h.langs[lang].verses[vi].lines.push(createLine());
+      scheduleSave(); refreshVerseList(area,h,lang); return;
     }
-    if (e.target.classList.contains('verse-delete')){
-      const vi=parseInt(e.target.dataset.vi);
-      hymn.langs[lang].verses.splice(vi,1); scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview(); return;
+    if(e.target.classList.contains('verse-up')){
+      const vs=h.langs[lang].verses;
+      if(vi>0){[vs[vi-1],vs[vi]]=[vs[vi],vs[vi-1]];scheduleSave();refreshVerseList(area,h,lang);} return;
+    }
+    if(e.target.classList.contains('verse-down')){
+      const vs=h.langs[lang].verses;
+      if(vi<vs.length-1){[vs[vi],vs[vi+1]]=[vs[vi+1],vs[vi]];scheduleSave();refreshVerseList(area,h,lang);} return;
+    }
+    if(e.target.classList.contains('verse-del')){
+      h.langs[lang].verses.splice(vi,1); scheduleSave(); refreshVerseList(area,h,lang); return;
     }
   });
 
-  // Enter in main input → new line below
-  list.addEventListener('keydown',e=>{
-    if (e.key==='Enter'&&e.target.classList.contains('line-main-input')&&!e.shiftKey){
+  container.addEventListener('keydown',e=>{
+    if(e.key==='Enter'&&e.target.classList.contains('line-text')&&!e.shiftKey){
       e.preventDefault();
       const vi=parseInt(e.target.dataset.vi),li=parseInt(e.target.dataset.li);
-      hymn.langs[lang].verses[vi].lines.splice(li+1,0,createLine());
-      scheduleSave(); refreshVersesList(wrapper,hymn,lang); updatePreview();
-      setTimeout(()=>{ const n=list.querySelector(`.line-main-input[data-vi="${vi}"][data-li="${li+1}"]`); if(n)n.focus(); },30);
+      h.langs[lang].verses[vi].lines.splice(li+1,0,createLine());
+      scheduleSave(); refreshVerseList(area,h,lang);
+      setTimeout(()=>{
+        const n=container.querySelector(`.line-text[data-vi="${vi}"][data-li="${li+1}"]`);
+        if(n)n.focus();
+      },30);
     }
   });
-
-  list.querySelectorAll('.line-main-input').forEach(autoResize);
 }
 
-function refreshVersesList(wrapper,hymn,lang){
-  const list=wrapper.querySelector(`#verses-list-${lang}`); if(!list)return;
-  list.innerHTML=buildVersesListHTML(hymn.langs[lang].verses||[]);
-  const panel=wrapper.querySelector(`.lang-panel[data-lang="${lang}"]`);
-  bindVersesListEvents(panel,hymn,lang,wrapper);
-  list.querySelectorAll('.line-main-input').forEach(autoResize);
-}
-
-function autoResize(el){el.style.height='auto';el.style.height=el.scrollHeight+'px';}
-
-// ═══════════════════════════════════════
-//  LIVE PREVIEW
-// ═══════════════════════════════════════
-
-function updatePreview(){
-  const body=document.getElementById('preview-body');
-  const lang=document.getElementById('preview-lang-select')?.value||'en';
-  if (!activeHymn){body.innerHTML='<p class="preview-placeholder">Preview will appear here as you type.</p>';return;}
-  const ld=activeHymn.langs[lang]||{};
-  const title=ld.title||getHymnDisplayTitle(activeHymn);
-  const chorus=(ld.chorus||'').trim();
-  const verses=ld.verses||[];
-  let html=`<div class="preview-hymn-title">${escHtml(title)}</div>`;
-  if (ld.subtitle) html+=`<div class="preview-hymn-sub">${escHtml(ld.subtitle)}</div>`;
-  html+='<hr class="preview-divider">';
-  const chorusHtml=chorus?`<div class="preview-chorus"><div class="preview-chorus-label">Chorus / ኣዝ</div>${nl2br(escHtml(chorus))}</div>`:'';
-  const activeVerses=verses.filter(v=>v.lines&&v.lines.some(l=>(l.prefix||l.text||'').trim()));
-  if (!chorus&&activeVerses.length===0){html+='<p class="preview-placeholder" style="margin-top:0">Start typing to see preview\u2026</p>';body.innerHTML=html;return;}
-  if (chorusHtml) html+=chorusHtml;
-  activeVerses.forEach((verse,vi)=>{
-    const linesHtml=verse.lines.map(line=>{
-      const prefix=(line.prefix||'').trim();
-      const text=line.text||'';
-      if (!prefix&&!text.trim()) return '';
-      if (prefix) return `<span class="preview-line-prefix">${escHtml(prefix)}</span> ${escHtml(text)}`;
-      return escHtml(text);
-    }).filter(Boolean).join('<br>');
-    if (linesHtml){
-      html+=`<div class="preview-verse"><div class="preview-verse-label">Verse / ስታንዛ ${vi+1}</div>${linesHtml}</div>`;
-      if (chorusHtml) html+=chorusHtml;
-    }
-  });
-  body.innerHTML=html;
-}
-
-// ═══════════════════════════════════════
-//  HYMN OPERATIONS
-// ═══════════════════════════════════════
-
-function addNewHymn(){const h=createHymn();hymns.unshift(h);saveToStorage();renderHymnList();selectHymn(h.id);showToast('New hymn created \u2713','success');}
-
-function duplicateHymn(id){
-  const orig=hymns.find(h=>h.id===id); if(!orig)return;
-  const copy=JSON.parse(JSON.stringify(orig)); copy.id=generateId(); copy.status='draft';
-  LANGS.forEach(l=>{if(copy.langs[l]?.title)copy.langs[l].title+=' (Copy)';});
-  hymns.splice(hymns.findIndex(h=>h.id===id)+1,0,copy);
-  saveToStorage();renderHymnList();selectHymn(copy.id);showToast('Hymn duplicated \u2713','success');
-}
-
-function regenId(hymn){hymn.id=generateId();activeId=hymn.id;localStorage.setItem(ACTIVE_ID_KEY,hymn.id);saveToStorage();renderHymnList();renderEditor();showToast('New ID generated \u2713');}
-
-function confirmDeleteHymn(id){
-  const hymn=hymns.find(h=>h.id===id);
-  showDeleteModal(`Delete "${getHymnDisplayTitle(hymn)}"? This cannot be undone.`,()=>{hymns=hymns.filter(h=>h.id!==id);saveToStorage();deselectHymn();renderHymnList();showToast('Hymn deleted.','error');});
-}
-
-// ═══════════════════════════════════════
-//  MODALS
-// ═══════════════════════════════════════
-
-function showConflictModal(msg,onKeep,onReplace,onCopy){
-  const modal=document.getElementById('modal-conflict');
-  document.getElementById('conflict-msg').textContent=msg; modal.style.display='flex';
-  const close=()=>{modal.style.display='none';};
-  document.getElementById('conflict-keep').onclick   =()=>{close();onKeep();};
-  document.getElementById('conflict-replace').onclick=()=>{close();onReplace();};
-  document.getElementById('conflict-copy').onclick   =()=>{close();onCopy();};
-}
-function showDeleteModal(msg,onConfirm){
-  const modal=document.getElementById('modal-delete');
-  document.getElementById('delete-msg').textContent=msg; modal.style.display='flex';
-  const close=()=>{modal.style.display='none';};
-  document.getElementById('delete-cancel').onclick =close;
-  document.getElementById('delete-confirm').onclick=()=>{close();onConfirm();};
-}
-
-// TOAST
-let toastTimer;
-function showToast(msg,type=''){
-  const t=document.getElementById('toast');
-  t.textContent=msg; t.className='toast'+(type?` ${type}`:'')+' visible';
-  clearTimeout(toastTimer); toastTimer=setTimeout(()=>t.classList.remove('visible'),2800);
-}
-
-// UTILS
-function escHtml(str){if(!str)return '';return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');}
-function nl2br(str){return str.replace(/\n/g,'<br>');}
-
-
-
-
-// ═══════════════════════════════════════
-//  COPY JSON
-// ═══════════════════════════════════════
-
-function copyHymnJSON(hymn){
-  const exported = hymnToExport(hymn);
-  const jsonStr = JSON.stringify([exported], null, 2);
-  navigator.clipboard.writeText(jsonStr).then(()=>{
-    showToast('JSON copied to clipboard ✓','success');
-  }).catch(()=>{
-    // Fallback — show in a modal
-    showCopyFallback(jsonStr);
-  });
-}
-
-function showCopyFallback(text){
-  const modal=document.getElementById('modal-copy-json');
-  const ta=document.getElementById('copy-json-textarea');
-  ta.value=text;
-  modal.style.display='flex';
-  ta.select();
-}
-
-// ═══════════════════════════════════════
-//  VOLUNTEER TOKEN FLOW
-// ═══════════════════════════════════════
-
-function getVolToken(){
-  // Use volunteer's session token if set, else fall back to admin token
-  return sessionStorage.getItem(VOL_TOKEN_KEY) || getGHConfig().token || '';
-}
-
-function setVolToken(t){ sessionStorage.setItem(VOL_TOKEN_KEY, t); }
-
-let pendingTokenCallback = null;
-
-function promptVolunteerToken(onConfirm){
-  // If token already available this session, skip prompt
-  if (getVolToken()){
-    onConfirm(getVolToken());
-    return;
-  }
-  pendingTokenCallback = onConfirm;
-  document.getElementById('modal-token').style.display='flex';
-  setTimeout(()=>document.getElementById('volunteer-token').focus(),150);
-}
-
-function confirmVolunteerToken(){
-  const t = document.getElementById('volunteer-token').value.trim();
-  if (!t){ showToast('Please paste your token.','error'); return; }
-  setVolToken(t);
-  document.getElementById('modal-token').style.display='none';
-  document.getElementById('volunteer-token').value='';
-  if (pendingTokenCallback){ pendingTokenCallback(t); pendingTokenCallback=null; }
-}
-
-// ═══════════════════════════════════════
-//  GITHUB SETTINGS
-// ═══════════════════════════════════════
+// ═══════════ GITHUB + TOKEN ═══════════
 
 const GH_KEYS = {owner:'wz_gh_owner',repo:'wz_gh_repo',branch:'wz_gh_branch',token:'wz_gh_token',folder:'wz_gh_folder',volpass:'wz_vol_pass'};
 const SESSION_KEY = 'wz_session_ok';
@@ -1310,6 +994,8 @@ async function initializeGitHubFiles(){
 //  DUPLICATE CHECK & SUBMIT FLOW
 // ═══════════════════════════════════════
 
+
+// ═══════════ DUPLICATE CHECK + SUBMIT ═
 let pendingSubmitHymn = null;
 let pendingMergeTarget = null;  // existing hymn on GitHub to merge into
 
@@ -1627,183 +1313,390 @@ async function submitHymnToGitHub(){
   }
 }
 
-// Simple Levenshtein for duplicate fuzzy matching
-function levenshtein(a,b){
-  const m=a.length,n=b.length;
-  const dp=Array.from({length:m+1},(_,i)=>Array.from({length:n+1},(_,j)=>i===0?j:j===0?i:0));
-  for(let i=1;i<=m;i++) for(let j=1;j<=n;j++)
-    dp[i][j]=a[i-1]===b[j-1]?dp[i-1][j-1]:1+Math.min(dp[i-1][j],dp[i][j-1],dp[i-1][j-1]);
-  return dp[m][n];
+async function submitHymnToGitHub(){
+  const hymn = pendingSubmitHymn;
+  if (!hymn) return;
+  document.getElementById('modal-dupcheck').style.display='none';
+
+  const cfg     = getGHConfig();
+  const path    = ghFilePath(cfg, hymn.groupKey);
+  const exported= hymnToExport(hymn);
+  const title   = getHymnDisplayTitle(hymn);
+
+  showToast('Submitting to GitHub…');
+
+  try{
+    async function upsertInFile(filePath, hymnData){
+      const existing = await ghGetFile(cfg, filePath);
+      let arr=[], sha=null;
+      if (existing){
+        sha = existing.sha;
+        const decoded = decodeURIComponent(escape(atob(existing.content.replace(/\n/g,''))));
+        try{ arr = JSON.parse(decoded); }catch(e){ arr=[]; }
+      }
+      const idx = arr.findIndex(h=>h.id===hymnData.id);
+      if (idx>=0) arr[idx]=hymnData; else arr.push(hymnData);
+      const msg = idx>=0
+        ? `Update hymn: ${title} (${hymnData.id})`
+        : `Add hymn: ${title} (${hymnData.id})`;
+      await ghPutFile(cfg, filePath, JSON.stringify(arr,null,2), sha, msg);
+      return msg;
+    }
+
+    const commitMsg = await upsertInFile(path, exported);
+
+    if (hymn.subgroup==='Mera' && hymn.groupKey!=='Mera'){
+      await upsertInFile(ghFilePath(cfg,'Mera'), exported);
+    }
+
+    hymn.status = 'final';
+    saveToStorage(); renderHymnList();
+    if (activeHymn?.id===hymn.id) renderEditor();
+
+    document.getElementById('submitted-msg').innerHTML =
+      `<strong>${escHtml(title)}</strong> added to <code>${escHtml(path)}</code>.<br><br>
+       Commit: <em>${escHtml(commitMsg)}</em>`;
+    document.getElementById('modal-submitted').style.display='flex';
+
+  }catch(e){
+    if (e.message.includes('401')){
+      sessionStorage.removeItem(VOL_TOKEN_KEY);
+      localStorage.removeItem(GH_KEYS.token);
+      showToast('Token invalid (401) — cleared. Click Submit again to enter a new token.','error');
+    } else {
+      showToast(`Submit failed: ${e.message}`,'error');
+    }
+  }
 }
 
-// ═══════════════════════════════════════
-//  INIT
-// ═══════════════════════════════════════
 
+
+// ═══════════ COPY JSON ════════════════
+function copyHymnJSON(hymn){
+  const exported = hymnToExport(hymn);
+  const jsonStr = JSON.stringify([exported], null, 2);
+  navigator.clipboard.writeText(jsonStr).then(()=>{
+    showToast('JSON copied to clipboard ✓','success');
+  }).catch(()=>{
+    // Fallback — show in a modal
+    showCopyFallback(jsonStr);
+  });
+}
+
+function showCopyFallback(text){
+  const modal=document.getElementById('modal-copy-json');
+  const ta=document.getElementById('copy-json-textarea');
+  ta.value=text;
+  modal.style.display='flex';
+  ta.select();
+}
+
+
+// ═══════════ HYMN OPS ═════════════════
+function confirmDeleteHymn(h){
+  document.getElementById('delete-msg').textContent=`Delete "${getHymnDisplayTitle(h)}"? Cannot be undone.`;
+  openSheet('sheet-delete');
+}
+function duplicateHymn(id){
+  const orig=hymns.find(h=>h.id===id); if(!orig)return;
+  const copy=JSON.parse(JSON.stringify(orig));
+  copy.id=generateId(); copy.status='draft';
+  LANGS.forEach(l=>{if(copy.langs[l]?.title)copy.langs[l].title+=' (Copy)';});
+  hymns.splice(hymns.findIndex(h=>h.id===id)+1,0,copy);
+  saveToStorage(); renderHymnList();
+  selectHymn(copy.id);
+  showToast('Hymn duplicated','success');
+}
+
+// ═══════════ TOAST ════════════════════
+let toastTimer;
+function showToast(msg,type=''){
+  const t=document.getElementById('toast');
+  t.textContent=msg; t.className='toast'+(type?' '+type:'')+' visible';
+  clearTimeout(toastTimer); toastTimer=setTimeout(()=>t.classList.remove('visible'),2800);
+}
+
+// ═══════════ EXPORT SHEET ═════════════
+function buildExportSheet(){
+  const gl=document.getElementById('export-group-list'); if(!gl)return;
+  gl.innerHTML='';
+  const used=ALL_GROUP_KEYS.filter(k=>hymns.some(h=>h.groupKey===k));
+  if(!used.length){gl.innerHTML='<div style="color:rgba(255,255,255,.3);font-size:14px;padding:8px 0">No hymns yet</div>';return;}
+  used.forEach(k=>{
+    const count=hymns.filter(h=>h.groupKey===k).length;
+    const btn=document.createElement('button');
+    btn.className='export-group-item';
+    btn.innerHTML=`<span>${escHtml(getGroupLabel(k,'en'))}</span><span class="export-count">${count}</span>`;
+    btn.addEventListener('click',()=>{ downloadJSON(hymns.filter(h=>h.groupKey===k).map(hymnToExport),k+'.json'); closeSheet('sheet-export'); showToast('Exported '+k,'success'); });
+    gl.appendChild(btn);
+  });
+}
+document.getElementById('btn-export-all')?.addEventListener('click',()=>{ downloadJSON(hymns.map(hymnToExport),'hymns.json'); closeSheet('sheet-export'); showToast(`Exported ${hymns.length} hymns`,'success')); });
+
+// ═══════════ IMPORT ═══════════════════
+
+function importFromJSON(jsonStr){
+  let data; try{data=JSON.parse(jsonStr);}catch(e){showToast('Invalid JSON','error');return;}
+  if(!Array.isArray(data))data=[data];
+  importQueue=data; importStats={added:0,skipped:0,replaced:0}; importCurrent=0;
+  doNextImport();
+}
+let importQueue=[],importStats={},importCurrent=0;
+function doNextImport(){
+  if(importCurrent>=importQueue.length){
+    renderHymnList(); saveToStorage();
+    showToast(`Done: ${importStats.added} added, ${importStats.replaced} replaced, ${importStats.skipped} skipped`,'success');
+    return;
+  }
+  const raw=importQueue[importCurrent];
+  const hymn=importedToInternal(raw);
+  const exist=hymns.find(h=>h.id===hymn.id);
+  if(!exist){hymns.push(hymn);importStats.added++;importCurrent++;doNextImport();return;}
+  document.getElementById('conflict-msg').textContent=`"${getHymnDisplayTitle(exist)}" already exists.`;
+  openSheet('sheet-conflict');
+}
+function importedToInternal(raw){
+  const hymn=createHymn({id:raw.id||generateId()});
+  hymn.zemari=raw.singer||raw.composer||raw.author||'';
+  hymn.color=raw.color||'';
+  hymn.subgroup=raw.subgroup||'';
+  hymn.groupKey=raw.category||raw.groupKey||'';
+  LANGS.forEach(l=>{
+    const ld=hymn.langs[l];
+    ld.groupName=(raw.group&&raw.group[l])||'';
+    ld.title=(raw.title&&raw.title[l])||'';
+    ld.subtitle=(raw.subtitle&&raw.subtitle[l])||'';
+    if(raw.youtubeUrls&&typeof raw.youtubeUrls==='object'&&!Array.isArray(raw.youtubeUrls))ld.youtube=raw.youtubeUrls[l]||'';
+    const lyrics=(raw.lyrics&&raw.lyrics[l])||'';
+    if(lyrics){const p=parseLyricsToVerses(lyrics);ld.chorus=p.chorus;ld.verses=p.verses;}
+  });
+  return hymn;
+}
+
+// ═══════════ INIT ═════════════════════
 function init(){
   loadFromStorage();
-  document.getElementById('filter-group').addEventListener('change',()=>{document.getElementById('filter-subgroup').value='';renderHymnList();});
-  renderHymnList();
-  if (activeId&&hymns.find(h=>h.id===activeId)){activeHymn=hymns.find(h=>h.id===activeId);renderEditor();}
-  else updatePreview();
 
-  // Secret: tap logo 5 times fast to open admin
-  let logoTaps = 0, logoTimer = null;
-  document.getElementById('logo-secret')?.addEventListener('click', ()=>{
-    logoTaps++;
-    clearTimeout(logoTimer);
-    logoTimer = setTimeout(()=>{ logoTaps=0; }, 2000);
-    if (logoTaps >= 5){
-      logoTaps = 0;
-      openAdminPanel();
-    }
-  });
+  // Gate
+  document.getElementById('gate-submit')?.addEventListener('click',submitGate);
+  document.getElementById('gate-password')?.addEventListener('keydown',e=>{if(e.key==='Enter')submitGate();});
 
-  document.getElementById('btn-new-hymn').addEventListener('click',()=>{
-    addNewHymn();
-    if(isMobile()) mobileSwitchTab('editor');
-  });
-
-  document.getElementById('btn-export-toggle').addEventListener('click',(e)=>{
-    e.stopPropagation();
-    const menu=document.getElementById('export-menu');
-    const isOpen=menu.style.display!=='none';
-    if (!isOpen){ buildExportGroupList(); menu.style.display='block'; }
-    else menu.style.display='none';
-  });
-  document.getElementById('btn-export-all').addEventListener('click',exportAllHymns);
-  document.addEventListener('click',()=>closeExportMenu());
-  document.getElementById('export-menu')?.addEventListener('click',e=>e.stopPropagation());
-  document.getElementById('btn-import').addEventListener('click',()=>document.getElementById('file-import-input').click());
-  document.getElementById('file-import-input').addEventListener('change',function(){
+  // List page
+  document.getElementById('btn-new-top')?.addEventListener('click',addNewHymn);
+  document.getElementById('btn-import-top')?.addEventListener('click',()=>document.getElementById('file-import-input').click());
+  document.getElementById('btn-export-top')?.addEventListener('click',()=>{buildExportSheet();openSheet('sheet-export');});
+  document.getElementById('search-input')?.addEventListener('input',renderHymnList);
+  document.getElementById('filter-group')?.addEventListener('change',renderHymnList);
+  document.getElementById('filter-status')?.addEventListener('change',renderHymnList);
+  document.getElementById('file-import-input')?.addEventListener('change',function(){
     const file=this.files[0]; if(!file)return;
     const reader=new FileReader(); reader.onload=e=>{importFromJSON(e.target.result);this.value='';};
     reader.readAsText(file);
   });
 
-  document.getElementById('search-input').addEventListener('input',renderHymnList);
-  document.getElementById('filter-subgroup').addEventListener('change',renderHymnList);
-  document.getElementById('filter-status').addEventListener('change',renderHymnList);
-  document.getElementById('preview-lang-select').addEventListener('change',updatePreview);
+  // Editor page
+  document.getElementById('btn-back')?.addEventListener('click',()=>{saveToStorage();showPage('page-list');renderHymnList();});
+  document.getElementById('btn-submit-hymn')?.addEventListener('click',()=>{if(activeHymn)startSubmitFlow(activeHymn);});
+  document.getElementById('btn-copy-json')?.addEventListener('click',()=>{if(activeHymn)copyHymnJSON(activeHymn);});
+  document.getElementById('btn-delete-hymn')?.addEventListener('click',()=>{if(activeHymn)confirmDeleteHymn(activeHymn);});
 
-  // GitHub modal buttons
-  document.getElementById('gh-cancel').addEventListener('click',closeAdminPanel);
-  document.getElementById('token-cancel').addEventListener('click',()=>{document.getElementById('modal-token').style.display='none';pendingTokenCallback=null;});
-  document.getElementById('copy-json-close')?.addEventListener('click',()=>{document.getElementById('modal-copy-json').style.display='none';});
-  document.getElementById('modal-copy-json')?.addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
-  document.getElementById('copy-json-copy-btn')?.addEventListener('click',()=>{
-    const ta=document.getElementById('copy-json-textarea');
-    ta.select(); document.execCommand('copy');
-    showToast('Copied ✓','success');
+  // Sheets — close on overlay tap
+  document.querySelectorAll('.sheet-overlay').forEach(el=>{
+    el.addEventListener('click',e=>{if(e.target===el)el.style.display='none';});
   });
-  document.getElementById('token-confirm').addEventListener('click',confirmVolunteerToken);
+
+  // Export sheet
+  document.getElementById('sheet-export-close')?.addEventListener('click',()=>closeSheet('sheet-export'));
+  document.getElementById('btn-export-all')?.addEventListener('click',()=>{ downloadJSON(hymns.map(hymnToExport),'hymns.json'); closeSheet('sheet-export'); showToast(`Exported ${hymns.length} hymns`,'success'); });
+
+  // Admin sheet
+  document.getElementById('sheet-admin-close')?.addEventListener('click',()=>closeSheet('sheet-admin'));
+  document.getElementById('gh-save')?.addEventListener('click',()=>{
+    const token=document.getElementById('gh-token').value.trim();
+    if(!token){showToast('Paste your token first','error');return;}
+    saveGHConfig({token});closeSheet('sheet-admin');showToast('Token saved ✓','success');
+  });
+  document.getElementById('gh-test')?.addEventListener('click',testGHConnection);
+  document.getElementById('gh-init-files')?.addEventListener('click',initializeGitHubFiles);
+
+  // Token sheet
+  document.getElementById('token-cancel')?.addEventListener('click',()=>{closeSheet('sheet-token');pendingTokenCallback=null;});
+  document.getElementById('token-confirm')?.addEventListener('click',confirmVolunteerToken);
   document.getElementById('volunteer-token')?.addEventListener('keydown',e=>{if(e.key==='Enter')confirmVolunteerToken();});
-  document.getElementById('modal-token').addEventListener('click',function(e){if(e.target===this){this.style.display='none';pendingTokenCallback=null;}});
-  document.getElementById('gh-save').addEventListener('click',()=>{
-    const token   = document.getElementById('gh-token').value.trim();
-    const volpass = document.getElementById('gh-vol-password').value.trim();
-    if (!token){ showToast('Please paste your GitHub token.','error'); return; }
-    saveGHConfig({token, volpass});
-    closeAdminPanel();
-    showToast('Settings saved ✓','success');
-    updateGHStatusIndicator();
+
+  // Copy JSON sheet
+  document.getElementById('copy-json-close')?.addEventListener('click',()=>closeSheet('sheet-copy-json'));
+  document.getElementById('copy-json-copy-btn')?.addEventListener('click',()=>{
+    const ta=document.getElementById('copy-json-textarea'); ta.select(); document.execCommand('copy'); showToast('Copied ✓','success');
   });
-  document.getElementById('gh-test').addEventListener('click',testGHConnection);
-  document.getElementById('gh-init-files').addEventListener('click',initializeGitHubFiles);
-  document.getElementById('modal-admin')?.addEventListener('click',function(e){if(e.target===this)closeAdminPanel();});
 
-  // Dup check modal
-  document.getElementById('dupcheck-cancel').addEventListener('click',()=>{document.getElementById('modal-dupcheck').style.display='none';});
-  document.getElementById('dupcheck-merge').addEventListener('click', submitMergedHymn);
-  document.getElementById('dupcheck-submit').addEventListener('click',submitHymnToGitHub);
-  document.getElementById('modal-dupcheck').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+  // Dup check sheet
+  document.getElementById('dupcheck-cancel')?.addEventListener('click',()=>closeSheet('sheet-dupcheck'));
+  document.getElementById('dupcheck-merge')?.addEventListener('click',submitMergedHymn);
+  document.getElementById('dupcheck-submit')?.addEventListener('click',submitHymnToGitHub);
 
-  // Submitted modal
-  document.getElementById('submitted-ok').addEventListener('click',()=>{document.getElementById('modal-submitted').style.display='none';});
-  document.getElementById('modal-submitted').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+  // Success sheet
+  document.getElementById('submitted-ok')?.addEventListener('click',()=>closeSheet('sheet-submitted'));
 
-  document.getElementById('modal-conflict').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
-  document.getElementById('modal-delete').addEventListener('click',function(e){if(e.target===this)this.style.display='none';});
+  // Delete
+  document.getElementById('delete-cancel')?.addEventListener('click',()=>closeSheet('sheet-delete'));
+  document.getElementById('delete-confirm')?.addEventListener('click',()=>{
+    if(activeHymn){hymns=hymns.filter(h=>h.id!==activeHymn.id);saveToStorage();activeHymn=null;}
+    closeSheet('sheet-delete'); showPage('page-list'); renderHymnList();
+    showToast('Hymn deleted','error');
+  });
 
+  // Conflict
+  document.getElementById('conflict-keep')?.addEventListener('click',()=>{importStats.skipped++;importCurrent++;closeSheet('sheet-conflict');doNextImport();});
+  document.getElementById('conflict-replace')?.addEventListener('click',()=>{
+    const raw=importQueue[importCurrent]; const hymn=importedToInternal(raw);
+    hymns[hymns.findIndex(h=>h.id===hymn.id)]=hymn; importStats.replaced++;importCurrent++;
+    closeSheet('sheet-conflict'); doNextImport();
+  });
+  document.getElementById('conflict-copy')?.addEventListener('click',()=>{
+    const raw=importQueue[importCurrent]; const hymn=importedToInternal(raw);
+    hymn.id=generateId(); hymns.push(hymn); importStats.added++;importCurrent++;
+    closeSheet('sheet-conflict'); doNextImport();
+  });
+
+  // Logo secret tap → admin (5 quick taps)
+  let tapCount=0,tapTimer;
+  document.addEventListener('click',e=>{
+    if(e.target.closest('.top-title')||e.target.closest('.gate-cross')){
+      tapCount++; clearTimeout(tapTimer);
+      tapTimer=setTimeout(()=>{tapCount=0;},2000);
+      if(tapCount>=5){
+        tapCount=0;
+        const cfg=getGHConfig();
+        document.getElementById('gh-token').value=cfg.token||'';
+        openSheet('sheet-admin');
+      }
+    }
+  });
+
+  // Submit/merge modals use sheets now
+  // Override modal refs to use sheets
+  document.getElementById('modal-dupcheck') || Object.defineProperty(document,'getElementById',{
+    value: function(id){ return HTMLDocument.prototype.getElementById.call(this,id); }
+  });
+
+  // Keyboard save
   document.addEventListener('keydown',e=>{
-    if ((e.ctrlKey||e.metaKey)&&e.key==='s'){e.preventDefault();saveToStorage();showToast('Saved \u2713','success');}
-  });
-}
-function updateGHStatusIndicator(){
-  // Admin button removed — token status shown via toast only
-}
-
-
-// ═══════════════════════════════════════
-//  MOBILE SUPPORT
-// ═══════════════════════════════════════
-
-function isMobile(){ return window.innerWidth <= 680; }
-
-function initMobile(){
-  if (!isMobile()) return;
-
-  // Show mobile nav
-  const nav = document.getElementById('mobile-nav');
-  if (nav) nav.style.display = 'flex';
-
-  // New hymn button
-  const mobNew = document.getElementById('mob-new');
-  if (mobNew) mobNew.addEventListener('click', ()=>{
-    addNewHymn();
-    mobileSwitchTab('editor');
+    if((e.ctrlKey||e.metaKey)&&e.key==='s'){e.preventDefault();saveToStorage();showToast('Saved ✓','success');}
   });
 
-  // Hymns list button
-  const mobHymns = document.getElementById('mob-hymns');
-  if (mobHymns) mobHymns.addEventListener('click', ()=>{
-    mobileSwitchTab('hymns');
-  });
-
-  // Export button
-  const mobExport = document.getElementById('mob-export');
-  if (mobExport) mobExport.addEventListener('click', ()=>{
-    buildExportGroupList();
-    document.getElementById('export-menu').style.display='block';
-  });
+  checkAndShowGate();
 }
 
-function mobileSwitchTab(tab){
-  if (!isMobile()) return;
-  const sidebar   = document.querySelector('.sidebar');
-  const editor    = document.getElementById('editor-area');
-  const mobHymns  = document.getElementById('mob-hymns');
-  const mobNew    = document.getElementById('mob-new');
+// Fix: dup check + submit use sheet IDs now
+function getDupModal(){ return {
+  style:{display:'none'},
+  querySelector:(s)=>document.querySelector('#sheet-dupcheck '+s)
+};}
 
-  if (tab === 'hymns'){
-    if (sidebar){ sidebar.classList.add('mobile-open'); sidebar.style.display='flex'; }
-    if (editor)  editor.style.display = 'none';
-    if (mobHymns) mobHymns.classList.add('active');
-  } else if (tab === 'editor'){
-    if (sidebar){ sidebar.classList.remove('mobile-open'); sidebar.style.display='none'; }
-    if (editor)  editor.style.display = '';
-    if (mobHymns) mobHymns.classList.remove('active');
+// Patch modal refs for dup check to use sheet
+const _origStartSubmit = startSubmitFlow;
+async function startSubmitFlow(hymn){
+  // redirect modal IDs to sheet IDs
+  const oldGet = document.getElementById.bind(document);
+  const patchedGet = (id)=>{
+    if(id==='modal-dupcheck') return document.getElementById('sheet-dupcheck');
+    if(id==='dupcheck-results') return document.getElementById('dupcheck-results');
+    if(id==='dupcheck-submit') return document.getElementById('dupcheck-submit');
+    if(id==='dupcheck-merge') return document.getElementById('dupcheck-merge');
+    if(id==='modal-submitted') return document.getElementById('sheet-submitted');
+    if(id==='submitted-msg') return document.getElementById('submitted-msg');
+    if(id==='modal-token') return document.getElementById('sheet-token');
+    return oldGet(id);
+  };
+  // Temporarily patch getElementById
+  document.getElementById = patchedGet;
+  await _origStartSubmit(hymn);
+  document.getElementById = oldGet;
+}
+
+async function submitHymnToGitHub(){
+  const oldGet = document.getElementById.bind(document);
+  document.getElementById = (id)=>{
+    if(id==='modal-dupcheck') return document.getElementById('sheet-dupcheck')||oldGet(id);
+    if(id==='modal-submitted') return document.getElementById('sheet-submitted')||oldGet(id);
+    if(id==='submitted-msg') return oldGet('submitted-msg');
+    return oldGet(id);
+  };
+  // Call original logic inline
+  document.getElementById = oldGet;
+
+  const hymn=pendingSubmitHymn; if(!hymn)return;
+  closeSheet('sheet-dupcheck');
+  const cfg=getGHConfig(); const path=ghFilePath(cfg,hymn.groupKey);
+  const exported=hymnToExport(hymn); const title=getHymnDisplayTitle(hymn);
+  showToast('Submitting…');
+  try{
+    async function upsertInFile(filePath,hymnData){
+      const existing=await ghGetFile(cfg,filePath); let arr=[],sha=null;
+      if(existing){sha=existing.sha;const decoded=decodeURIComponent(escape(atob(existing.content.replace(/\n/g,''))));try{arr=JSON.parse(decoded);}catch(e){arr=[];}}
+      const idx=arr.findIndex(h=>h.id===hymnData.id);
+      if(idx>=0)arr[idx]=hymnData; else arr.push(hymnData);
+      const msg=idx>=0?`Update: ${title}`:`Add: ${title}`;
+      await ghPutFile(cfg,filePath,JSON.stringify(arr,null,2),sha,msg); return msg;
+    }
+    const commitMsg=await upsertInFile(path,exported);
+    if(hymn.subgroup==='Mera'&&hymn.groupKey!=='Mera') await upsertInFile(ghFilePath(cfg,'Mera'),exported);
+    hymn.status='final'; saveToStorage(); renderHymnList();
+    if(activeHymn?.id===hymn.id) renderEditor();
+    document.getElementById('submitted-msg').innerHTML=`<strong>${escHtml(title)}</strong> added to <code>${escHtml(path)}</code>`;
+    openSheet('sheet-submitted');
+  }catch(e){
+    if(e.message.includes('401')){sessionStorage.removeItem(VOL_TOKEN_KEY);localStorage.removeItem(GH_KEYS.token);showToast('Token invalid (401) — tap Submit again','error');}
+    else showToast(`Failed: ${e.message}`,'error');
   }
 }
 
-// When a hymn is selected on mobile, switch to editor view
-const _origSelectHymn = selectHymn;
-function selectHymn(id){
-  _origSelectHymn(id);
-  if (isMobile()) mobileSwitchTab('editor');
+async function submitMergedHymn(){
+  const hymn=pendingSubmitHymn; const target=pendingMergeTarget;
+  if(!hymn||!target)return;
+  closeSheet('sheet-dupcheck');
+  const cfg=getGHConfig(); const path=ghFilePath(cfg,hymn.groupKey);
+  const title=getHymnDisplayTitle(hymn);
+  showToast('Merging languages…');
+  try{
+    const merged=mergeHymns(target,hymn);
+    const fileData=await ghGetFile(cfg,path); let arr=[],sha=null;
+    if(fileData){sha=fileData.sha;try{arr=JSON.parse(decodeURIComponent(escape(atob(fileData.content.replace(/\n/g,'')))));}catch(e){arr=[];}}
+    const idx=arr.findIndex(h=>h.id===target.id);
+    if(idx>=0)arr[idx]=merged; else arr.push(merged);
+    const addedLangs=LANGS.filter(l=>!target.title?.[l]&&merged.title?.[l]);
+    await ghPutFile(cfg,path,JSON.stringify(arr,null,2),sha,`Merge (${addedLangs.join(',')}): ${title}`);
+    if(hymn.subgroup==='Mera'&&hymn.groupKey!=='Mera'){
+      const mf=await ghGetFile(cfg,ghFilePath(cfg,'Mera')); let ma=[],ms=null;
+      if(mf){ms=mf.sha;try{ma=JSON.parse(decodeURIComponent(escape(atob(mf.content.replace(/\n/g,'')))));}catch(e){}}
+      const mi=ma.findIndex(h=>h.id===target.id); if(mi>=0)ma[mi]=merged; else ma.push(merged);
+      await ghPutFile(cfg,ghFilePath(cfg,'Mera'),JSON.stringify(ma,null,2),ms,`Merge: ${title}`);
+    }
+    hymn.status='final'; saveToStorage(); renderHymnList();
+    if(activeHymn?.id===hymn.id)renderEditor();
+    const addedStr=addedLangs.length?addedLangs.join(', '):'languages';
+    document.getElementById('submitted-msg').innerHTML=`Merged <strong>${escHtml(addedStr)}</strong> into <strong>${escHtml(title)}</strong>`;
+    openSheet('sheet-submitted');
+  }catch(e){
+    if(e.message.includes('401')){sessionStorage.removeItem(VOL_TOKEN_KEY);localStorage.removeItem(GH_KEYS.token);showToast('Token invalid — tap Submit again','error');}
+    else showToast(`Merge failed: ${e.message}`,'error');
+  }
 }
 
-window.mobileSwitchTab = mobileSwitchTab;
+function promptVolunteerToken(onConfirm){
+  if(getVolToken()){onConfirm(getVolToken());return;}
+  pendingTokenCallback=onConfirm;
+  openSheet('sheet-token');
+  setTimeout(()=>document.getElementById('volunteer-token')?.focus(),200);
+}
 
-document.addEventListener('DOMContentLoaded',()=>{
-  init();
-  updateGHStatusIndicator();
-  checkPasswordGate();
-  initMobile();
+function copyHymnJSON(hymn){
+  const json=JSON.stringify([hymnToExport(hymn)],null,2);
+  navigator.clipboard?.writeText(json).then(()=>showToast('Copied ✓','success')).catch(()=>{
+    document.getElementById('copy-json-textarea').value=json;
+    openSheet('sheet-copy-json');
+  })||( ()=>{document.getElementById('copy-json-textarea').value=json;openSheet('sheet-copy-json');} )();
+}
 
-  // Password gate submit
-  document.getElementById('gate-submit').addEventListener('click', submitPasswordGate);
-  document.getElementById('gate-password').addEventListener('keydown', e=>{
-    if (e.key==='Enter') submitPasswordGate();
-  });
-});
+document.addEventListener('DOMContentLoaded',init);

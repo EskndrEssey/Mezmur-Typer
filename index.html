@@ -1,254 +1,192 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wazema · Hymn Entry Tool</title>
-  <link rel="stylesheet" href="styles.css" />
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
+  <title>Wazema · Hymn Entry</title>
+  <link rel="stylesheet" href="styles.css"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 </head>
 <body>
-  <header class="app-header" id="app-header-bar">
-    <div class="header-left">
-      <div class="logo-mark" id="logo-secret">✝</div>
-      <div class="header-titles">
-        <h1 class="app-title">Wazema Hymn Entry</h1>
-        <p class="app-sub">Volunteer Entry Tool · Offline-First</p>
-      </div>
-    </div>
-    <div class="header-actions">
-      <button class="btn btn-ghost" id="btn-import">⬆ Import JSON</button>
-      <div class="export-dropdown" id="export-dropdown">
-        <button class="btn btn-ghost" id="btn-export-toggle">⬇ Export ▾</button>
-        <div class="export-menu" id="export-menu" style="display:none">
-          <button class="export-menu-item" id="btn-export-all">📄 All hymns — hymns.json</button>
-          <div class="export-menu-divider"></div>
-          <div class="export-menu-label">Export by group:</div>
-          <div id="export-group-list"></div>
-        </div>
-      </div>
-      <button class="btn btn-primary" id="btn-new-hymn">+ New Hymn</button>
-    </div>
-  </header>
-  <input type="file" id="file-import-input" accept=".json" style="display:none" />
 
-  <div class="app-body">
-    <aside class="sidebar">
-      <div class="sidebar-search">
-        <input type="text" id="search-input" placeholder="🔍  Search hymns…" class="search-input" />
-      </div>
-      <div class="sidebar-filters">
-        <select id="filter-group" class="filter-select"><option value="">All Groups</option></select>
-        <select id="filter-subgroup" class="filter-select"><option value="">All Occasions</option></select>
-        <select id="filter-status" class="filter-select">
-          <option value="">All Statuses</option>
-          <option value="draft">Draft</option>
-          <option value="review">Needs Review</option>
-          <option value="final">Final</option>
-        </select>
-      </div>
-      <div class="sidebar-stats" id="sidebar-stats">0 hymns</div>
-      <div class="hymn-list" id="hymn-list"></div>
-    </aside>
-
-    <main class="editor-area" id="editor-area">
-      <div class="empty-state" id="empty-state">
-        <div class="empty-icon">♪</div>
-        <h2>No hymn selected</h2>
-        <p>Select a hymn from the list, or create a new one to begin.</p>
-        <button class="btn btn-primary" id="btn-new-hymn-empty">+ New Hymn</button>
-      </div>
-    </main>
-
-    <aside class="preview-panel">
-      <div class="preview-header">
-        <span>Live Preview</span>
-        <select id="preview-lang-select" class="filter-select preview-lang-select">
-          <option value="en">English</option>
-          <option value="ti">Tigrinya</option>
-          <option value="ti_ro">Tigrinya (Roman)</option>
-          <option value="am">Amharic</option>
-          <option value="am_ro">Amharic (Roman)</option>
-          <option value="om">Oromo</option>
-          <option value="ro">Romanian</option>
-        </select>
-      </div>
-      <div class="preview-body" id="preview-body">
-        <p class="preview-placeholder">Preview will appear here as you type.</p>
-      </div>
-    </aside>
-  </div>
-
-  <!-- MODALS -->
-  <div class="modal-overlay" id="modal-conflict" style="display:none">
-    <div class="modal">
-      <h3 class="modal-title">Import Conflict</h3>
-      <p class="modal-body" id="conflict-msg"></p>
-      <div class="modal-actions">
-        <button class="btn btn-ghost" id="conflict-keep">Keep Existing</button>
-        <button class="btn btn-warning" id="conflict-replace">Replace</button>
-        <button class="btn btn-primary" id="conflict-copy">Save as New Copy</button>
-      </div>
-    </div>
-  </div>
-  <div class="modal-overlay" id="modal-delete" style="display:none">
-    <div class="modal">
-      <h3 class="modal-title">Delete Hymn?</h3>
-      <p class="modal-body" id="delete-msg"></p>
-      <div class="modal-actions">
-        <button class="btn btn-ghost" id="delete-cancel">Cancel</button>
-        <button class="btn btn-danger" id="delete-confirm">Delete</button>
-      </div>
+  <!-- PASSWORD GATE -->
+  <div id="page-gate" class="page page-gate" style="display:none">
+    <div class="gate-card">
+      <div class="gate-cross">✝</div>
+      <h1 class="gate-title">ዋዜማ</h1>
+      <p class="gate-sub">St. George Eritrean Orthodox Church · Seattle</p>
+      <input type="password" id="gate-password" class="gate-input" placeholder="Enter password" autocomplete="current-password"/>
+      <div id="gate-error" class="gate-error" style="display:none">Incorrect password</div>
+      <button id="gate-submit" class="gate-btn">Enter ✝</button>
+      <p class="gate-footer">Contact Deacon Eskndr for access</p>
     </div>
   </div>
 
-  <!-- PASSWORD GATE — full screen landing page -->
-  <div class="password-landing" id="password-landing" style="display:none">
-    <div class="password-landing-card">
-      <div class="landing-cross">✝</div>
-      <h1 class="landing-title">ዋዜማ · Wazema</h1>
-      <p class="landing-sub">St. George Eritrean Orthodox Church<br>Seattle · Volunteers Only</p>
-      <div class="landing-form">
-        <label class="landing-label">Enter your access password</label>
-        <input type="password" class="landing-input" id="gate-password" placeholder="Password" autocomplete="current-password" />
-        <div id="gate-error" class="landing-error" style="display:none">✕ Incorrect password — contact Essey for access.</div>
-        <button class="landing-btn" id="gate-submit">✝ Enter</button>
+  <!-- PAGE: HYMN LIST -->
+  <div id="page-list" class="page page-list" style="display:none">
+    <header class="top-bar">
+      <h1 class="top-title">Wazema</h1>
+      <div class="top-actions">
+        <button class="icon-btn" id="btn-import-top" title="Import">⬆</button>
+        <button class="icon-btn" id="btn-export-top" title="Export">⬇</button>
+        <button class="primary-btn" id="btn-new-top">+ New</button>
       </div>
-      <p class="landing-footer">Contact Essey if you need the password.</p>
+    </header>
+    <div class="search-bar">
+      <input type="text" id="search-input" class="search-field" placeholder="🔍 Search hymns…"/>
+    </div>
+    <div class="list-filters">
+      <select id="filter-group" class="pill-select"><option value="">All Groups</option></select>
+      <select id="filter-status" class="pill-select">
+        <option value="">All</option>
+        <option value="draft">Draft</option>
+        <option value="review">Review</option>
+        <option value="final">Final</option>
+      </select>
+    </div>
+    <div class="hymn-count" id="sidebar-stats">0 hymns</div>
+    <div class="hymn-list" id="hymn-list"></div>
+  </div>
+
+  <!-- PAGE: EDITOR -->
+  <div id="page-editor" class="page page-editor" style="display:none">
+    <header class="top-bar">
+      <button class="back-btn" id="btn-back">← Back</button>
+      <div class="top-actions">
+        <button class="icon-btn danger-btn" id="btn-delete-hymn">🗑</button>
+        <button class="copy-btn" id="btn-copy-json">Copy</button>
+        <button class="submit-btn" id="btn-submit-hymn">✝ Submit</button>
+      </div>
+    </header>
+    <div id="editor-scroll" class="editor-scroll">
+      <div id="editor-area"></div>
     </div>
   </div>
 
-  <!-- ADMIN PANEL (only for you — accessed via secret) -->
-  <div class="modal-overlay" id="modal-admin" style="display:none">
-    <div class="modal modal-wide">
-      <div class="modal-cross-header">
-        <div class="modal-cross-icon">✝</div>
-        <h3 class="modal-title">Admin — GitHub Setup</h3>
+  <!-- INPUT: file import -->
+  <input type="file" id="file-import-input" accept=".json" style="display:none"/>
+
+  <!-- EXPORT SHEET -->
+  <div class="sheet-overlay" id="sheet-export" style="display:none">
+    <div class="sheet">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">Export Hymns</h3>
+      <button class="sheet-item" id="btn-export-all">📄 All hymns — hymns.json</button>
+      <div class="sheet-divider"></div>
+      <p class="sheet-label">By group:</p>
+      <div id="export-group-list"></div>
+      <button class="sheet-cancel" id="sheet-export-close">Cancel</button>
+    </div>
+  </div>
+
+  <!-- ADMIN SHEET -->
+  <div class="sheet-overlay" id="sheet-admin" style="display:none">
+    <div class="sheet sheet-tall">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">⚙ Admin Setup</h3>
+      <p class="sheet-desc">Set your GitHub token to enable hymn submissions.</p>
+      <label class="form-label">GitHub Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Mezmur-Typer" target="_blank" class="form-link">Get one ↗</a></label>
+      <input type="password" id="gh-token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
+      <p class="form-hint">✓ Repo: EskndrEssey/Mezmur-Typer · Branch: main · Folder: data</p>
+      <div class="sheet-actions">
+        <button class="sheet-cancel" id="sheet-admin-close">Close</button>
+        <button class="sheet-btn-secondary" id="gh-test">Test</button>
+        <button class="sheet-btn-primary" id="gh-save">Save</button>
       </div>
-      <p class="modal-body" style="font-size:12px">This panel is for the site admin only. Set the GitHub token, repo, and volunteer password here. Settings are saved in your browser.</p>
-      <div style="display:flex;flex-direction:column;gap:11px;margin-bottom:20px">
-        <div>
-          <label class="field-label">Volunteer Password <span style="color:var(--ink-faint);font-weight:400;text-transform:none;font-size:10px">(what you share with volunteers)</span></label>
-          <input type="text" class="field-input" id="gh-vol-password" placeholder="e.g. Wazema2025" />
-        </div>
-        <div class="admin-divider">GitHub Connection</div>
-        <div>
-          <label class="field-label">GitHub Username</label>
-          <input type="text" class="field-input" id="gh-owner" placeholder="EskndrEssey" />
-        </div>
-        <div>
-          <label class="field-label">Repository Name</label>
-          <input type="text" class="field-input" id="gh-repo" placeholder="Mezmur-Typer" />
-        </div>
-        <div>
-          <label class="field-label">Branch</label>
-          <input type="text" class="field-input" id="gh-branch" value="main" placeholder="main" />
-        </div>
-        <div>
-          <label class="field-label">Personal Access Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Wazema" target="_blank" style="font-size:11px;color:var(--gold);text-decoration:underline;font-weight:400;text-transform:none;letter-spacing:0">Get one ↗</a></label>
-          <input type="password" class="field-input" id="gh-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" />
-        </div>
-        <div>
-          <label class="field-label">JSON folder in repo</label>
-          <input type="text" class="field-input" id="gh-folder" placeholder="data" value="data" />
-        </div>
-      </div>
-      <div class="modal-actions">
-        <button class="btn btn-ghost" id="gh-cancel">Close</button>
-        <button class="btn btn-secondary" id="gh-test">Test Connection</button>
-        <button class="btn btn-primary" id="gh-save">Save Settings</button>
-      </div>
-      <div class="gh-init-section">
-        <div class="gh-init-title">✝ Initialize JSON files in repo</div>
-        <p class="gh-init-desc">Creates one empty <code>GroupName.json</code> per category. Run once. Safe to re-run — won't overwrite existing files.</p>
-        <button class="btn btn-submit" id="gh-init-files" style="width:100%;margin-bottom:10px">✝ Create All Group JSON Files on GitHub</button>
-        <div id="gh-init-status" class="gh-init-status"></div>
+      <div class="init-section">
+        <p class="init-label">First time setup — create JSON files in your repo:</p>
+        <button class="init-btn" id="gh-init-files">✝ Create All Group Files on GitHub</button>
+        <div id="gh-init-status" class="init-status"></div>
       </div>
     </div>
   </div>
 
-  <!-- DUPLICATE SEARCH MODAL -->
-  <div class="modal-overlay" id="modal-dupcheck" style="display:none">
-    <div class="modal modal-wide">
-      <div class="modal-cross-header">
-        <div class="modal-cross-icon">✝</div>
-        <h3 class="modal-title">Check for Duplicates</h3>
-      </div>
-      <p class="modal-body">Searching GitHub for hymns with a similar title before submitting…</p>
-      <div id="dupcheck-results" style="margin-bottom:16px"></div>
-      <div class="modal-actions">
-        <button class="btn btn-ghost" id="dupcheck-cancel">Cancel</button>
-        <button class="btn btn-primary" id="dupcheck-merge" style="display:none;background:var(--green);color:#000">⇄ Merge Languages</button>
-        <button class="btn btn-secondary" id="dupcheck-submit" style="display:none">+ New Hymn</button>
-      </div>
-    </div>
-  </div>
-
-  <!-- SUBMIT SUCCESS MODAL -->
-  <div class="modal-overlay" id="modal-submitted" style="display:none">
-    <div class="modal" style="text-align:center">
-      <div style="font-size:48px;margin-bottom:12px">✝</div>
-      <h3 class="modal-title" style="justify-content:center">Hymn Submitted!</h3>
-      <p class="modal-body" id="submitted-msg"></p>
-      <div class="modal-actions" style="justify-content:center">
-        <button class="btn btn-primary" id="submitted-ok">Glory to God ✓</button>
+  <!-- TOKEN SHEET -->
+  <div class="sheet-overlay" id="sheet-token" style="display:none">
+    <div class="sheet">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">Enter Access Token</h3>
+      <p class="sheet-desc">Paste the token given to you by Deacon Eskndr.</p>
+      <div class="token-warning">⚠ If you see a 401 error, your token is wrong or expired. Ask Deacon Eskndr for a new one.</div>
+      <label class="form-label">Token</label>
+      <input type="password" id="volunteer-token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
+      <div class="sheet-actions">
+        <button class="sheet-cancel" id="token-cancel">Cancel</button>
+        <button class="sheet-btn-primary" id="token-confirm">✝ Continue</button>
       </div>
     </div>
   </div>
 
-  <!-- TOKEN PROMPT (volunteers enter their token once per session) -->
-  <div class="modal-overlay" id="modal-token" style="display:none">
-    <div class="modal" style="max-width:420px">
-      <div class="modal-cross-header">
-        <div class="modal-cross-icon">✝</div>
-        <h3 class="modal-title">Enter Your Access Token</h3>
-      </div>
-      <p class="modal-body">Paste the GitHub token given to you by Deacon Eskndr. This is stored only in your browser for this session.</p>
-      <div style="font-size:12px;color:var(--t3);background:var(--bg3);border-radius:var(--r-sm);padding:10px 12px;margin-bottom:14px;line-height:1.6">
-        ⚠ If you get a <strong style="color:var(--red)">401 error</strong>, your token has expired or is wrong.<br>
-        Ask Deacon Eskndr for a new token.
-      </div>
-      <div style="margin-bottom:16px">
-        <label class="field-label">Access Token</label>
-        <input type="password" class="field-input" id="volunteer-token" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" style="font-size:15px;padding:10px 12px;letter-spacing:.04em" />
-        <div style="font-size:11px;color:var(--ink-faint);margin-top:6px">Your token is only stored in your browser for this session.</div>
-      </div>
-      <div class="modal-actions">
-        <button class="btn btn-ghost" id="token-cancel">Cancel</button>
-        <button class="btn btn-submit" id="token-confirm">✝ Continue</button>
+  <!-- COPY JSON SHEET -->
+  <div class="sheet-overlay" id="sheet-copy-json" style="display:none">
+    <div class="sheet sheet-tall">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">Copy JSON</h3>
+      <p class="sheet-desc">Copy this and send to Deacon Eskndr.</p>
+      <textarea id="copy-json-textarea" class="json-textarea" readonly></textarea>
+      <div class="sheet-actions">
+        <button class="sheet-cancel" id="copy-json-close">Close</button>
+        <button class="sheet-btn-primary" id="copy-json-copy-btn">⧉ Copy All</button>
       </div>
     </div>
   </div>
 
-  <!-- COPY JSON MODAL -->
-  <div class="modal-overlay" id="modal-copy-json" style="display:none">
-    <div class="modal modal-wide" style="max-width:600px">
-      <div class="modal-cross-header">
-        <div class="modal-cross-icon">✝</div>
-        <h3 class="modal-title">Copy Hymn JSON</h3>
-      </div>
-      <p class="modal-body" style="margin-bottom:10px">Select all and copy, then send this to Essey.</p>
-      <textarea id="copy-json-textarea" style="width:100%;height:300px;font-family:monospace;font-size:11px;padding:12px;border:1px solid var(--border);border-radius:var(--radius-sm);background:var(--parchment);color:var(--ink);resize:vertical;outline:none;line-height:1.5" readonly></textarea>
-      <div class="modal-actions" style="margin-top:14px">
-        <button class="btn btn-ghost" id="copy-json-close">Close</button>
-        <button class="btn btn-primary" id="copy-json-copy-btn">⧉ Copy All</button>
+  <!-- DUP CHECK SHEET -->
+  <div class="sheet-overlay" id="sheet-dupcheck" style="display:none">
+    <div class="sheet sheet-tall">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">✝ Check for Duplicates</h3>
+      <p class="sheet-desc">Searching GitHub before submitting…</p>
+      <div id="dupcheck-results"></div>
+      <div class="sheet-actions" style="margin-top:16px">
+        <button class="sheet-cancel" id="dupcheck-cancel">Cancel</button>
+        <button class="sheet-btn-primary" id="dupcheck-merge" style="display:none;background:#30d158;color:#000">⇄ Merge</button>
+        <button class="sheet-btn-secondary" id="dupcheck-submit" style="display:none">+ New Hymn</button>
       </div>
     </div>
   </div>
-  <!-- MOBILE BOTTOM NAV -->
-  <div class="mobile-nav" id="mobile-nav" style="display:none">
-    <button class="mobile-nav-btn" id="mob-hymns" onclick="mobileSwitchTab('hymns')">
-      <span class="mobile-nav-icon">♪</span>
-      <span>Hymns</span>
-    </button>
-    <button class="mobile-nav-btn" id="mob-new">
-      <span class="nav-new">+ New</span>
-    </button>
-    <button class="mobile-nav-btn" id="mob-list" onclick="mobileSwitchTab('hymns')">
-      <span class="mobile-nav-icon">☰</span>
-      <span>List</span>
-    </button>
+
+  <!-- SUCCESS SHEET -->
+  <div class="sheet-overlay" id="sheet-submitted" style="display:none">
+    <div class="sheet">
+      <div class="sheet-handle"></div>
+      <div style="text-align:center;padding:20px 0 8px">
+        <div style="font-size:52px;margin-bottom:12px">✝</div>
+        <h3 class="sheet-title">Submitted!</h3>
+        <p id="submitted-msg" class="sheet-desc"></p>
+      </div>
+      <button class="sheet-btn-primary" id="submitted-ok" style="width:100%">Glory to God ✓</button>
+    </div>
+  </div>
+
+  <!-- DELETE CONFIRM -->
+  <div class="sheet-overlay" id="sheet-delete" style="display:none">
+    <div class="sheet">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">Delete Hymn?</h3>
+      <p id="delete-msg" class="sheet-desc"></p>
+      <div class="sheet-actions">
+        <button class="sheet-cancel" id="delete-cancel">Cancel</button>
+        <button class="sheet-btn-danger" id="delete-confirm">Delete</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONFLICT -->
+  <div class="sheet-overlay" id="sheet-conflict" style="display:none">
+    <div class="sheet">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">Import Conflict</h3>
+      <p id="conflict-msg" class="sheet-desc"></p>
+      <div class="sheet-actions">
+        <button class="sheet-cancel" id="conflict-keep">Keep</button>
+        <button class="sheet-btn-secondary" id="conflict-replace">Replace</button>
+        <button class="sheet-btn-primary" id="conflict-copy">New Copy</button>
+      </div>
+    </div>
   </div>
 
   <div class="toast" id="toast"></div>
