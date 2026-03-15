@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8"/>
@@ -13,6 +14,7 @@
 <body>
 
   <!-- PASSWORD GATE -->
+
   <div id="page-gate" class="page page-gate">
     <div class="gate-card">
       <div class="gate-cross">✝</div>
@@ -26,6 +28,7 @@
   </div>
 
   <!-- PAGE: HYMN LIST -->
+
   <div id="page-list" class="page page-list" style="display:none">
     <header class="top-bar">
       <h1 class="top-title">Wazema</h1>
@@ -52,6 +55,7 @@
   </div>
 
   <!-- PAGE: EDITOR -->
+
   <div id="page-editor" class="page page-editor" style="display:none">
     <header class="top-bar">
       <button class="back-btn" id="btn-back">← Back</button>
@@ -67,9 +71,11 @@
   </div>
 
   <!-- INPUT: file import -->
+
   <input type="file" id="file-import-input" accept=".json" style="display:none"/>
 
   <!-- EXPORT SHEET -->
+
   <div class="sheet-overlay" id="sheet-export" style="display:none">
     <div class="sheet">
       <div class="sheet-handle"></div>
@@ -83,6 +89,7 @@
   </div>
 
   <!-- ADMIN SHEET -->
+
   <div class="sheet-overlay" id="sheet-admin" style="display:none">
     <div class="sheet sheet-tall">
       <div class="sheet-handle"></div>
@@ -91,6 +98,15 @@
       <label class="form-label">GitHub Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Mezmur-Typer" target="_blank" class="form-link">Get one ↗</a></label>
       <input type="password" id="gh-token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
       <p class="form-hint">✓ Repo: EskndrEssey/Mezmur-Typer · Branch: main · Folder: data</p>
+      <div style="margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,.08)">
+        <label class="form-label">Anthropic API Key <span style="font-weight:400;text-transform:none;color:rgba(255,255,255,.3);font-size:11px">(for Auto-Romanize)</span></label>
+        <input type="password" id="anthropic-key-input" class="form-input" placeholder="sk-ant-..."/>
+        <p class="form-hint">Saved in your browser only. <a href="https://console.anthropic.com" target="_blank" class="form-link">Get one free ↗</a></p>
+        <div style="display:flex;gap:8px;margin-top:8px">
+          <button class="sheet-btn-secondary" id="anthropic-key-save" style="flex:1">Save Key</button>
+          <button class="sheet-btn-secondary" id="anthropic-key-clear" style="flex:1;color:var(--red)">Clear Key</button>
+        </div>
+      </div>
       <div class="sheet-actions">
         <button class="sheet-cancel" id="sheet-admin-close">Close</button>
         <button class="sheet-btn-secondary" id="gh-test">Test</button>
@@ -105,6 +121,7 @@
   </div>
 
   <!-- TOKEN SHEET -->
+
   <div class="sheet-overlay" id="sheet-token" style="display:none">
     <div class="sheet">
       <div class="sheet-handle"></div>
@@ -121,6 +138,7 @@
   </div>
 
   <!-- COPY JSON SHEET -->
+
   <div class="sheet-overlay" id="sheet-copy-json" style="display:none">
     <div class="sheet sheet-tall">
       <div class="sheet-handle"></div>
@@ -135,6 +153,7 @@
   </div>
 
   <!-- DUP CHECK SHEET -->
+
   <div class="sheet-overlay" id="sheet-dupcheck" style="display:none">
     <div class="sheet sheet-tall">
       <div class="sheet-handle"></div>
@@ -150,6 +169,7 @@
   </div>
 
   <!-- SUCCESS SHEET -->
+
   <div class="sheet-overlay" id="sheet-submitted" style="display:none">
     <div class="sheet">
       <div class="sheet-handle"></div>
@@ -163,6 +183,7 @@
   </div>
 
   <!-- DELETE CONFIRM -->
+
   <div class="sheet-overlay" id="sheet-delete" style="display:none">
     <div class="sheet">
       <div class="sheet-handle"></div>
@@ -176,6 +197,7 @@
   </div>
 
   <!-- CONFLICT -->
+
   <div class="sheet-overlay" id="sheet-conflict" style="display:none">
     <div class="sheet">
       <div class="sheet-handle"></div>
