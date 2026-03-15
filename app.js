@@ -1140,15 +1140,25 @@ function closeAdminPanel(){
 
 // PASSWORD GATE
 function isSessionActive(){
+  // Use sessionStorage so password is required every new browser session
   return sessionStorage.getItem(SESSION_KEY)==='1';
 }
 
+// DEFAULT PASSWORD — hardcoded so volunteers always see the gate
+// Admin can override by setting a different password in the Admin panel
+const DEFAULT_VOL_PASSWORD = 'Mezmur2025';
+
+function getVolPassword(){
+  // Use admin-set password if available, else fall back to default
+  return localStorage.getItem(GH_KEYS.volpass) || DEFAULT_VOL_PASSWORD;
+}
+
 function checkPasswordGate(){
-  const cfg=getGHConfig();
-  if (!cfg.volpass || isSessionActive()){
+  if (isSessionActive()){
     hideLanding();
     return;
   }
+  // Always show gate — password is either admin-set or default hardcoded one
   showLanding();
 }
 
@@ -1166,10 +1176,10 @@ function hideLanding(){
 }
 
 function submitPasswordGate(){
-  const cfg=getGHConfig();
-  const entered=document.getElementById('gate-password').value;
-  const errEl=document.getElementById('gate-error');
-  if (!cfg.volpass || entered===cfg.volpass){
+  const entered = document.getElementById('gate-password').value;
+  const correct = getVolPassword();
+  const errEl   = document.getElementById('gate-error');
+  if (entered === correct){
     sessionStorage.setItem(SESSION_KEY,'1');
     hideLanding();
     errEl.style.display='none';
@@ -1178,7 +1188,6 @@ function submitPasswordGate(){
     errEl.style.display='block';
     document.getElementById('gate-password').value='';
     document.getElementById('gate-password').focus();
-    // Shake animation
     const input=document.getElementById('gate-password');
     input.classList.remove('shake'); void input.offsetWidth; input.classList.add('shake');
   }
