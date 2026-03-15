@@ -108,11 +108,13 @@ toastTimer = setTimeout(() => t.classList.remove(‘visible’), 2800);
 
 // ── PAGES & SHEETS ─────────────────────────────
 function showPage(id){
+// page-gate uses no display style (visible by default)
+// page-list and page-editor use display:none/flex
 document.querySelectorAll(’.page’).forEach(p => {
-p.classList.remove(‘active’);
+p.style.display = ‘none’;
 });
 const p = el(id);
-if (p) p.classList.add(‘active’);
+if (p) p.style.display = ‘flex’;
 }
 
 function openSheet(id)  { const s=el(id); if(s) s.style.display=‘flex’; }
@@ -123,8 +125,11 @@ function getPass()      { return localStorage.getItem(GH_PASS_KEY) || DEFAULT_PA
 function loggedIn()     { return sessionStorage.getItem(SESSION_KEY) === ‘1’; }
 
 function checkGate(){
-if (loggedIn()) { showPage(‘page-list’); renderList(); }
-// else gate is already showing via CSS
+if (loggedIn()){
+showPage(‘page-list’);
+renderList();
+}
+// else gate is already visible (no display:none on it)
 }
 
 function submitGate(){
