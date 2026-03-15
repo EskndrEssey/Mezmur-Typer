@@ -371,6 +371,17 @@ function renderEditor(){
     const ld=h.langs[l]||createLangData();
     const verses=(ld.verses||[]).map((v,vi)=>buildVerseHTML(v,vi)).join('');
     return `<div class="lang-panel ${l==='en'?'active':''}" data-lang="${l}">
+      ${(l==='ti_ro'||l==='am_ro') ? `
+      <div class="romanize-banner">
+        <div class="romanize-info">
+          <span class="romanize-icon">✨</span>
+          <div>
+            <div class="romanize-title">Auto-Romanize with AI</div>
+            <div class="romanize-desc">Fills this tab automatically from ${l==='ti_ro'?'Tigrinya':'Amharic'}</div>
+          </div>
+        </div>
+        <button class="romanize-btn" data-src="${l==='ti_ro'?'ti':'am'}" data-dst="${l}">✨ Romanize</button>
+      </div>` : ''}
       <div class="form-row"><label class="form-label">Title (${LANG_SHORT[l]})</label>
         <input class="form-input lang-title" data-lang="${l}" value="${esc(ld.title||'')}" placeholder="Hymn title in ${LANG_NAMES[l]}"/></div>
       <div class="form-row"><label class="form-label">Subtitle / Credits</label>
@@ -487,6 +498,13 @@ function bindEditor(area,h){
   area.querySelectorAll('.lang-subtitle').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].subtitle=el.value;scheduleSave();}) );
   area.querySelectorAll('.lang-youtube').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].youtube=el.value;scheduleSave();}) );
   area.querySelectorAll('.lang-chorus').forEach(el=>el.addEventListener('input',()=>{h.langs[el.dataset.lang].chorus=el.value;scheduleSave();}) );
+
+  // Auto-romanize buttons
+  area.querySelectorAll('.romanize-btn').forEach(btn=>{
+    btn.addEventListener('click',()=>{
+      autoRomanize(h, btn.dataset.src, btn.dataset.dst, area);
+    });
+  });
 
   // Add/dup verse
   area.querySelectorAll('.add-verse-btn').forEach(btn=>btn.addEventListener('click',()=>{
@@ -884,6 +902,107 @@ function parseLyricsToVerses(lyrics){
 function confirmDelete(h){
   document.getElementById('delete-msg').textContent=`Delete "${getTitle(h)}"?`;
   openSheet('sheet-delete');
+}
+
+
+// ═══ AUTO-ROMANIZE ═════════════════════════════
+async function autoRomanize(h, srcLang, dstLang, area) {
+  const srcLd = h.langs[srcLang];
+  const srcText = buildLyricsString(srcLd);
+  const srcTitle = srcLd.title || '';
+  const srcSubtitle = srcLd.subtitle || '';
+
+  if (!srcTitle && !srcText) {
+    showToast(`Type the ${LANG_NAMES[srcLang]} version first`, 'error');
+    return;
+  }
+
+  const btn = area.querySelector(`.romanize-btn[data-dst="${dstLang}"]`);
+  if (btn) { btn.disabled = true; btn.textContent = '⏳ Romanizing…'; }
+
+  const langName = srcLang === 'ti' ? 'Tigrinya (ትግርኛ)' : 'Amharic (አማርኛ)';
+
+  const prompt = `You are an expert in Ethiopian and Eritrean Orthodox Christian liturgical texts.
+Romanize the following ${langName} hymn into smooth, formal Latin script for a church hymn app.
+
+STRICT RULES:
+- DO NOT translate — only romanize (convert Ethiopic script to Latin letters)
+- Keep ALL tags exactly as they appear: [[chorus]], [[/chorus]], [[highlight]], [[/highlight]]
+- Keep ALL line breaks exactly as in the original
+- Use consistent spelling (same word = same romanization every time)
+- Use formal, smooth, readable romanization suitable for liturgical use
+- Conventions: q=ቀ, H=ሐ, ts=ጸ, T=ጠ, sh=ሽ, ch=ጨ, '=glottal stop, double vowels for long sounds
+
+TITLE: ${srcTitle}
+SUBTITLE: ${srcSubtitle}
+
+LYRICS:
+${srcText}
+
+Respond with ONLY a JSON object in this exact format, no extra text:
+{
+  "title": "romanized title here",
+  "subtitle": "romanized subtitle here",
+  "lyrics": "romanized lyrics here with all tags preserved"
+}`;
+
+  try {
+    const response = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        model: 'claude-sonnet-4-20250514',
+        max_tokens: 4000,
+        messages: [{ role: 'user', content: prompt }]
+      })
+    });
+
+    if (!response.ok) {
+      const err = await response.json();
+      throw new Error(err.error?.message || response.status);
+    }
+
+    const data = await response.json();
+    const raw = data.content?.[0]?.text || '';
+
+    // Parse JSON response
+    let parsed;
+    try {
+      const clean = raw.replace(/```json|```/g, '').trim();
+      parsed = JSON.parse(clean);
+    } catch(e) {
+      throw new Error('Could not parse AI response');
+    }
+
+    // Fill in the destination lang data
+    const dstLd = h.langs[dstLang];
+    if (parsed.title)    dstLd.title    = parsed.title;
+    if (parsed.subtitle) dstLd.subtitle = parsed.subtitle;
+
+    // Parse the romanized lyrics back into verses/chorus
+    if (parsed.lyrics) {
+      const p = parseLyricsToVerses(parsed.lyrics);
+      dstLd.chorus = p.chorus;
+      dstLd.verses = p.verses;
+    }
+
+    scheduleSave();
+
+    // Switch to the dst tab and re-render
+    renderEditor();
+    setTimeout(() => {
+      const area2 = document.getElementById('editor-area');
+      // Switch to dst lang tab
+      area2.querySelectorAll('.lang-tab').forEach(t => t.classList.toggle('active', t.dataset.lang === dstLang));
+      area2.querySelectorAll('.lang-panel').forEach(p => p.classList.toggle('active', p.dataset.lang === dstLang));
+    }, 50);
+
+    showToast('✨ Romanized successfully!', 'success');
+
+  } catch(e) {
+    showToast('Romanize failed: ' + e.message, 'error');
+    if (btn) { btn.disabled = false; btn.textContent = '✨ Romanize'; }
+  }
 }
 
 // ═══ INIT ══════════════════════════════════════
