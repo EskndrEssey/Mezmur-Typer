@@ -6,10 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-  <meta name="color-scheme" content="dark"/>
-  <style>body{background:#000;margin:0}.page.active{display:flex!important}</style>
   <title>Wazema · Hymn Entry</title>
-  <link rel="stylesheet" href="styles.css?v=1773564338"/>
+  <link rel="stylesheet" href="styles.css?v=1773564796"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 </head>
@@ -17,21 +15,21 @@
 
   <!-- PASSWORD GATE -->
 
-  <div id="page-gate" class="page page-gate active">
+  <div id="page-gate" class="page page-gate">
     <div class="gate-card">
       <div class="gate-cross">✝</div>
       <h1 class="gate-title">ዋዜማ</h1>
       <p class="gate-sub">St. George Eritrean Orthodox Church · Seattle</p>
-      <input type="password" id="gate-password" class="gate-input" placeholder="Enter password" autocomplete="current-password" onkeydown="if(event.key==='Enter')submitGate()"/>
+      <input type="password" id="gate-password" class="gate-input" placeholder="Enter password" autocomplete="current-password"/>
       <div id="gate-error" class="gate-error" style="display:none">Incorrect password</div>
-      <button id="gate-submit" class="gate-btn" onclick="submitGate()">Enter ✝</button>
+      <button id="gate-submit" class="gate-btn">Enter ✝</button>
       <p class="gate-footer">Contact Deacon Eskndr for access</p>
     </div>
   </div>
 
   <!-- PAGE: HYMN LIST -->
 
-  <div id="page-list" class="page page-list">
+  <div id="page-list" class="page page-list" style="display:none">
     <header class="top-bar">
       <h1 class="top-title">Wazema</h1>
       <div class="top-actions">
@@ -58,7 +56,7 @@
 
   <!-- PAGE: EDITOR -->
 
-  <div id="page-editor" class="page page-editor">
+  <div id="page-editor" class="page page-editor" style="display:none">
     <header class="top-bar">
       <button class="back-btn" id="btn-back">← Back</button>
       <div class="top-actions">
@@ -100,15 +98,6 @@
       <label class="form-label">GitHub Token <a href="https://github.com/settings/tokens/new?scopes=repo&description=Mezmur-Typer" target="_blank" class="form-link">Get one ↗</a></label>
       <input type="password" id="gh-token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx"/>
       <p class="form-hint">✓ Repo: EskndrEssey/Mezmur-Typer · Branch: main · Folder: data</p>
-      <div style="margin-top:20px;padding-top:16px;border-top:1px solid rgba(255,255,255,.08)">
-        <label class="form-label">Anthropic API Key <span style="font-weight:400;text-transform:none;color:rgba(255,255,255,.3);font-size:11px">(for Auto-Romanize)</span></label>
-        <input type="password" id="anthropic-key-input" class="form-input" placeholder="sk-ant-..."/>
-        <p class="form-hint">Saved in your browser only. <a href="https://console.anthropic.com" target="_blank" class="form-link">Get one free ↗</a></p>
-        <div style="display:flex;gap:8px;margin-top:8px">
-          <button class="sheet-btn-secondary" id="anthropic-key-save" style="flex:1">Save Key</button>
-          <button class="sheet-btn-secondary" id="anthropic-key-clear" style="flex:1;color:var(--red)">Clear Key</button>
-        </div>
-      </div>
       <div class="sheet-actions">
         <button class="sheet-cancel" id="sheet-admin-close">Close</button>
         <button class="sheet-btn-secondary" id="gh-test">Test</button>
@@ -215,6 +204,6 @@
 
   <div class="toast" id="toast"></div>
   <noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript to use this app.</div></noscript>
-  <script src="app.js?v=1773564338"></script>
+  <script src="app.js?v=1773564796"></script>
 </body>
 </html>
