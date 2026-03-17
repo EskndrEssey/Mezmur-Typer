@@ -121,7 +121,7 @@ function openSheet(id)  { const s=el(id); if(s) s.style.display='flex'; }
 function closeSheet(id) { const s=el(id); if(s) s.style.display='none'; }
 
 // ── PASSWORD ───────────────────────────────────
-function getPass()      { return localStorage.getItem(GH_PASS_KEY) || DEFAULT_PASS; }
+function getPass()      { return localStorage.getItem(GH_PASS_KEY) || DEFAULT_PASS; } // legacy — login now validates via GitHub API
 function loggedIn()     { return sessionStorage.getItem(SESSION_KEY) === '1'; }
 
 function checkGate(){
@@ -132,26 +132,53 @@ function checkGate(){
   // else gate is already visible (no display:none on it)
 }
 
-function submitGate(){
-  const input = el('gate-password');
-  const errEl = el('gate-error');
+async function submitGate(){
+  const input  = el('gate-password');
+  const errEl  = el('gate-error');
+  const btn    = el('gate-submit');
   if (!input) return;
-  const val = input.value;
-  if (val === getPass()){
-    sessionStorage.setItem(SESSION_KEY, '1');
-    // Password IS the GitHub token — save it automatically
-    setGHToken(val);
-    input.value = '';
-    if (errEl) errEl.style.display = 'none';
-    showPage('page-list');
-    renderList();
-  } else {
-    if (errEl) errEl.style.display = 'block';
-    input.value = '';
-    input.focus();
-    input.classList.remove('shake');
-    void input.offsetWidth;
-    input.classList.add('shake');
+  const val = input.value.trim();
+  if (!val) return;
+
+  // Show loading state
+  btn.disabled = true;
+  btn.textContent = 'Verifying…';
+  if (errEl) errEl.style.display = 'none';
+
+  try {
+    // Validate token against GitHub repo directly
+    const r = await fetch('https://api.github.com/repos/'+REPO.owner+'/'+REPO.repo, {
+      headers: { 'Authorization': 'Bearer ' + val, 'Accept': 'application/vnd.github+json' }
+    });
+
+    if (r.ok) {
+      // Valid token — log in and store as GitHub token
+      sessionStorage.setItem(SESSION_KEY, '1');
+      setGHToken(val);
+      localStorage.setItem(GH_PASS_KEY, val);
+      input.value = '';
+      showPage('page-list');
+      renderList();
+    } else {
+      // Invalid token
+      if (errEl) {
+        errEl.textContent = r.status === 401 ? 'Invalid token — contact Deacon Eskndr' : 'Access denied ('+r.status+')';
+        errEl.style.display = 'block';
+      }
+      input.value = '';
+      input.focus();
+      input.classList.remove('shake');
+      void input.offsetWidth;
+      input.classList.add('shake');
+    }
+  } catch(e) {
+    if (errEl) {
+      errEl.textContent = 'Network error — check your internet';
+      errEl.style.display = 'block';
+    }
+  } finally {
+    btn.disabled = false;
+    btn.textContent = 'Enter ✝';
   }
 }
 
@@ -1009,7 +1036,10 @@ function init(){
   el('sheet-admin-close')?.addEventListener('click',()=>closeSheet('sheet-admin'));
   el('gh-save')?.addEventListener('click',()=>{
     const t=el('gh-token')?.value.trim(); if(!t){toast('Paste token first','error');return;}
-    setGHToken(t); closeSheet('sheet-admin'); toast('Token saved ✓','success');
+    setGHToken(t);
+    // Also set as the login password so volunteers use token to log in
+    localStorage.setItem(GH_PASS_KEY, t);
+    closeSheet('sheet-admin'); toast('Token saved as password ✓','success');
   });
   el('gh-test')?.addEventListener('click', testGH);
   el('gh-init-files')?.addEventListener('click', initGHFiles);
