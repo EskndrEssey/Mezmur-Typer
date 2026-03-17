@@ -46,10 +46,12 @@
       "ro": ""
     },
     "title": {
-      "en": "another test"
+      "en": "another test",
+      "ti": "heefweewfef"
     },
     "lyrics": {
-      "en": "[[chorus]]\nanother test\n[[/chorus]]\n \n[[highlight]]another test [[/highlight]]another ties\n \n[[chorus]]\nanother test\n[[/chorus]]"
+      "en": "[[chorus]]\nanother test\n[[/chorus]]\n \n[[highlight]]another test [[/highlight]]another ties\n \n[[chorus]]\nanother test\n[[/chorus]]",
+      "ti": "[[chorus]]\nfwefwef\n[[/chorus]]\n \n[[highlight]]ewrfwe [[/highlight]]ewfwefewfweff\n \n[[chorus]]\nfwefwef\n[[/chorus]]"
     },
     "singer": "testing GitHub",
     "subcategory": "Hosanna",
@@ -57,7 +59,9 @@
       "Hosanna"
     ],
     "category": "Egziabher",
-    "subtitle": {},
+    "subtitle": {
+      "ti": "efwefwef"
+    },
     "youtubeUrls": {}
   }
 ]
