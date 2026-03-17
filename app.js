@@ -12,7 +12,7 @@ const TOK_KEY      = 'wz_vol_token';
 const ANT_KEY      = 'wz_ant_key';
 const GH_TOK_KEY   = 'wz_gh_token';
 const GH_PASS_KEY  = 'wz_vol_pass';
-const DEFAULT_PASS = 'Mezmur2025';
+const DEFAULT_PASS = 'Mezmur2025'; // Admin: change this to the GitHub token so login = access
 
 const REPO  = { owner:'EskndrEssey', repo:'Mezmur-Typer', branch:'main', folder:'data' };
 const LANGS = ['en','ti','ti_ro','am','am_ro','om','ro'];
@@ -139,6 +139,8 @@ function submitGate(){
   const val = input.value;
   if (val === getPass()){
     sessionStorage.setItem(SESSION_KEY, '1');
+    // Password IS the GitHub token — save it automatically
+    setGHToken(val);
     input.value = '';
     if (errEl) errEl.style.display = 'none';
     showPage('page-list');
@@ -564,7 +566,10 @@ async function initGHFiles(){
 
 // ── TOKEN PROMPT ───────────────────────────────
 function promptToken(cb){
-  if(getGHToken()){ cb(getGHToken()); return; }
+  // Token is always the login password — already set on login
+  const tok = getGHToken();
+  if(tok){ cb(tok); return; }
+  // Fallback: ask to re-login
   pendingTokenCb = cb;
   openSheet('sheet-token');
   setTimeout(()=>el('volunteer-token')?.focus(), 200);
