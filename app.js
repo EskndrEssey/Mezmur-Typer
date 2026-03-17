@@ -614,10 +614,18 @@ async function startSubmit(h){
       subBtn.style.display=''; subBtn.textContent='+ Submit as New Hymn';
     }
   }catch(e){
-    const is401=e.message.includes('401');
-    if(is401){sessionStorage.removeItem(TOK_KEY);localStorage.removeItem(GH_TOK_KEY);}
-    res.innerHTML='<div class="dc-error">✕ '+(is401?'Token invalid (401) — close and tap Submit again':esc(e.message))+'</div>';
-    subBtn.style.display=''; subBtn.textContent=is401?'Close':'✝ Submit Anyway';
+    const is401=e.message.includes('401')||e.message.includes('Bad credentials');
+    if(is401){
+      sessionStorage.removeItem(TOK_KEY);
+      localStorage.removeItem(GH_TOK_KEY);
+      closeSheet('sheet-dupcheck');
+      toast('Token expired — enter new token','error');
+      // Force re-prompt with new token
+      setTimeout(()=>{ promptToken(()=>startSubmit(h)); }, 400);
+      return;
+    }
+    res.innerHTML='<div class="dc-error">✕ '+esc(e.message)+'</div>';
+    subBtn.style.display=''; subBtn.textContent='✝ Submit Anyway';
   }
 }
 
@@ -641,8 +649,11 @@ async function doSubmit(){
     el('submitted-msg').innerHTML='<strong>'+esc(title(h))+'</strong> added to <code>'+esc(path)+'</code>';
     openSheet('sheet-submitted');
   }catch(e){
-    if(e.message.includes('401')){sessionStorage.removeItem(TOK_KEY);localStorage.removeItem(GH_TOK_KEY);toast('Token invalid — tap Submit again','error');}
-    else toast('Failed: '+e.message,'error');
+    if(e.message.includes('401')||e.message.includes('Bad credentials')){
+      sessionStorage.removeItem(TOK_KEY);localStorage.removeItem(GH_TOK_KEY);
+      toast('Token expired — re-entering…','error');
+      setTimeout(()=>{ promptToken(()=>startSubmit(h)); }, 400);
+    } else toast('Failed: '+e.message,'error');
   }
 }
 
@@ -831,6 +842,117 @@ function nextImport(){
   openSheet('sheet-conflict');
 }
 
+
+// ── GITHUB SEARCH & LOAD ──────────────────────────
+async function ghSearchHymns(query, groupKey){
+  const groups = groupKey ? [groupKey] : ALL_GROUPS;
+  const results = [];
+  const q = query.toLowerCase().trim();
+
+  for(const k of groups){
+    try{
+      const f = await ghGet(ghPath(k));
+      if(!f) continue;
+      let arr = [];
+      try{ arr = JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,''))))); }catch(e){ continue; }
+      arr.forEach(hymn => {
+        if(!hymn.title) return;
+        const titles = typeof hymn.title==='object' ? Object.values(hymn.title) : [hymn.title];
+        const match = !q || titles.some(t => t && t.toLowerCase().includes(q));
+        if(match) results.push({ ...hymn, _groupKey: k });
+      });
+    }catch(e){ /* skip group on error */ }
+  }
+  return results;
+}
+
+function ghHymnToLocal(raw){
+  // Load a GitHub hymn into local state for editing
+  const h = rawToHymn(raw);
+  h.groupKey = raw._groupKey || raw.category || '';
+  // Mark which languages already exist
+  h._fromGitHub = true;
+  h._existingLangs = LANGS.filter(l => (raw.title&&raw.title[l]) || (raw.lyrics&&raw.lyrics[l]));
+  return h;
+}
+
+function openGhSearch(){
+  // Populate group dropdown
+  const sel = el('gh-search-group');
+  if(sel && sel.options.length <= 1){
+    ALL_GROUPS.forEach(k => {
+      const o = document.createElement('option');
+      o.value = k; o.textContent = gLabel(k);
+      sel.appendChild(o);
+    });
+  }
+  el('gh-search-results').innerHTML = '';
+  el('gh-search-input').value = '';
+  openSheet('sheet-gh-search');
+  setTimeout(() => el('gh-search-input')?.focus(), 200);
+}
+
+async function runGhSearch(){
+  const query = el('gh-search-input')?.value.trim() || '';
+  const group = el('gh-search-group')?.value || '';
+  const resEl = el('gh-search-results');
+
+  if(!query && !group){ toast('Enter a title or pick a group','error'); return; }
+  if(!getGHToken()){ promptToken(()=>runGhSearch()); return; }
+
+  resEl.innerHTML = '<div class="dc-loading"><span class="pulse">✝</span> Searching GitHub…</div>';
+
+  try{
+    const results = await ghSearchHymns(query, group);
+    if(!results.length){
+      resEl.innerHTML = '<div class="dc-clear">No hymns found. Try a different search.</div>';
+      return;
+    }
+
+    resEl.innerHTML = '<div class="gh-result-count">'+results.length+' hymn'+(results.length!==1?'s':'')+' found:</div>';
+    results.slice(0,20).forEach(raw => {
+      const titles = typeof raw.title==='object' ? Object.values(raw.title).filter(Boolean) : [raw.title||''];
+      const hasLangs = typeof raw.title==='object' ? Object.keys(raw.title).filter(k=>raw.title[k]).join(', ') : '?';
+      const missingLangs = LANGS.filter(l => !raw.title?.[l] && !raw.lyrics?.[l]);
+
+      const card = document.createElement('div');
+      card.className = 'gh-result-card';
+      card.innerHTML =
+        '<div class="gh-result-title">'+esc(titles[0])+(titles[1]?' · '+esc(titles[1]):'')+'</div>'+
+        '<div class="gh-result-meta">'+
+          '<span class="chip chip-group">'+esc(raw._groupKey||'')+'</span>'+
+          '<span class="gh-has">Has: '+esc(hasLangs)+'</span>'+
+        '</div>'+
+        (missingLangs.length ? '<div class="gh-missing">Missing: '+missingLangs.map(l=>'<span class="chip chip-missing">'+LNAME[l]+'</span>').join('')+'</div>' : '<div class="gh-complete">✓ All languages present</div>')+
+        '<button class="sheet-btn-primary gh-load-btn" style="width:100%;margin-top:10px">Load & Fill Missing Languages →</button>';
+
+      card.querySelector('.gh-load-btn').addEventListener('click', () => {
+        const h = ghHymnToLocal(raw);
+        // Check if already in local hymns
+        const existing = hymns.find(x => x.id === h.id);
+        if(existing){
+          closeSheet('sheet-gh-search');
+          selectHymn(existing.id);
+          toast('Opened existing hymn — add missing languages then Submit to merge','success');
+        } else {
+          hymns.unshift(h);
+          save();
+          closeSheet('sheet-gh-search');
+          selectHymn(h.id);
+          toast('Loaded from GitHub — add missing languages then Submit','success');
+        }
+      });
+
+      resEl.appendChild(card);
+    });
+    if(results.length > 20){
+      resEl.innerHTML += '<div style="text-align:center;color:rgba(255,255,255,.4);font-size:13px;padding:8px">Showing first 20 — refine your search for more</div>';
+    }
+  }catch(e){
+    resEl.innerHTML = '<div class="dc-error">✕ '+esc(e.message)+'</div>';
+  }
+}
+
 // ── INIT ───────────────────────────────────────
 function init(){
   load();
@@ -841,6 +963,10 @@ function init(){
 
   // List
   el('btn-new-top')?.addEventListener('click', addNewHymn);
+  el('btn-github-search')?.addEventListener('click', openGhSearch);
+  el('gh-search-btn')?.addEventListener('click', runGhSearch);
+  el('gh-search-close')?.addEventListener('click', ()=>closeSheet('sheet-gh-search'));
+  el('gh-search-input')?.addEventListener('keydown', e=>{ if(e.key==='Enter') runGhSearch(); });
   el('btn-import-top')?.addEventListener('click', ()=>el('file-import-input').click());
   el('btn-export-top')?.addEventListener('click', ()=>{ buildExportSheet(); openSheet('sheet-export'); });
   el('btn-dl-all')?.addEventListener('click', ()=>{

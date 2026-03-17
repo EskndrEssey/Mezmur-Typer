@@ -377,3 +377,20 @@ html, body {
   .page { position: relative; min-height: 100vh; max-width: 480px; margin: 0 auto; border-left: 1px solid var(--sep); border-right: 1px solid var(--sep); }
   .sheet { max-width: 480px; margin: 0 auto; border-left: 1px solid var(--sep2); border-right: 1px solid var(--sep2); }
 }
+
+/* ── GITHUB SEARCH ───────────────────────────── */
+.gh-search-row { display:flex; gap:8px; margin-bottom:4px; }
+.gh-search-row .form-input { flex:1; }
+.gh-search-row .pill-select { flex-shrink:0; }
+.gh-result-count { font-size:13px; color:var(--t3); padding:8px 0 4px; }
+.gh-result-card {
+  background:var(--card); border-radius:var(--r);
+  padding:14px; margin-bottom:10px;
+  border:1px solid var(--sep);
+}
+.gh-result-title { font-size:15px; font-weight:600; color:var(--t0); margin-bottom:6px; }
+.gh-result-meta  { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:6px; }
+.gh-has   { font-size:12px; color:var(--t3); }
+.gh-missing { display:flex; flex-wrap:wrap; gap:4px; align-items:center; font-size:12px; color:var(--t3); }
+.gh-complete { font-size:12px; color:#30d158; }
+.chip-missing { background:rgba(255,159,10,0.15); color:#ff9f0a; border:1px solid rgba(255,159,10,0.3); border-radius:20px; padding:2px 8px; font-size:11px; }

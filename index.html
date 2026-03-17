@@ -30,6 +30,7 @@
     <header class="top-bar">
       <h1 class="top-title">Wazema</h1>
       <div class="top-actions">
+        <button class="icon-btn" id="btn-github-search" title="Search GitHub">🔍</button>
         <button class="icon-btn" id="btn-import-top" title="Import">⬆</button>
         <button class="icon-btn" id="btn-export-top" title="Export">⬇</button>
         <button class="icon-btn" id="btn-dl-all" title="Download All">💾</button>
@@ -187,6 +188,24 @@
         <button class="sheet-btn-secondary" id="conflict-replace">Replace</button>
         <button class="sheet-btn-primary" id="conflict-copy">New Copy</button>
       </div>
+    </div>
+  </div>
+
+  <!-- GITHUB SEARCH SHEET -->
+  <div class="sheet-overlay" id="sheet-gh-search" style="display:none">
+    <div class="sheet sheet-tall">
+      <div class="sheet-handle"></div>
+      <h3 class="sheet-title">🔍 Search GitHub Hymns</h3>
+      <p class="sheet-desc">Find an existing hymn and load it to add missing languages.</p>
+      <div class="gh-search-row">
+        <input type="text" id="gh-search-input" class="form-input" placeholder="Search by title…"/>
+        <select id="gh-search-group" class="pill-select">
+          <option value="">All Groups</option>
+        </select>
+      </div>
+      <button class="sheet-btn-primary" id="gh-search-btn" style="width:100%;margin:10px 0">🔍 Search</button>
+      <div id="gh-search-results"></div>
+      <button class="sheet-cancel" id="gh-search-close" style="margin-top:8px">Cancel</button>
     </div>
   </div>
 
