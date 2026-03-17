@@ -455,10 +455,10 @@ function bindEditor(area, h){
   });
 
   // Per-lang inputs
-  area.querySelectorAll('.lang-title').forEach(i   => i.addEventListener('input', () => { h.langs[i.dataset.lang].title=i.value;    schedSave(); renderList(); }));
+  area.querySelectorAll('.lang-title').forEach(i   => i.addEventListener('input', () => { h.langs[i.dataset.lang].title=i.value;    schedSave(); renderList(); refreshPreviewIfOpen(h); }));
   area.querySelectorAll('.lang-subtitle').forEach(i => i.addEventListener('input', () => { h.langs[i.dataset.lang].subtitle=i.value; schedSave(); }));
   area.querySelectorAll('.lang-youtube').forEach(i  => i.addEventListener('input', () => { h.langs[i.dataset.lang].youtube=i.value;  schedSave(); }));
-  area.querySelectorAll('.lang-chorus').forEach(i   => i.addEventListener('input', () => { h.langs[i.dataset.lang].chorus=i.value;   schedSave(); }));
+  area.querySelectorAll('.lang-chorus').forEach(i   => i.addEventListener('input', () => { h.langs[i.dataset.lang].chorus=i.value;   schedSave(); refreshPreviewIfOpen(h); }));
 
   // Add / dup verse
   area.querySelectorAll('.add-verse-btn').forEach(b => b.addEventListener('click', () => {
@@ -875,6 +875,117 @@ function nextImport(){
 }
 
 
+
+function refreshPreviewIfOpen(h){
+  const sheet = el('sheet-preview');
+  if(!sheet || sheet.style.display==='none') return;
+  const contentEl = el('preview-content');
+  const activeTab = el('preview-lang-tabs')?.querySelector('.preview-tab.active');
+  if(contentEl && activeTab) contentEl.innerHTML = buildPreview(h, activeTab.dataset.lang);
+}
+
+// ── LIVE PREVIEW ────────────────────────────────
+function buildPreview(h, lang){
+  const ld = h.langs[lang];
+  if(!ld) return '<div class="preview-empty">No content yet</div>';
+
+  const color = h.color || '#0a84ff';
+  let html = '';
+
+  // Header
+  html += '<div class="preview-header" style="border-color:'+color+'">';
+  if(ld.title) html += '<div class="preview-title">'+esc(ld.title)+'</div>';
+  if(ld.subtitle) html += '<div class="preview-subtitle">'+esc(ld.subtitle)+'</div>';
+  const grp = h.langs[lang]?.groupName || h.groupKey;
+  if(grp) html += '<div class="preview-group" style="color:'+color+'">'+esc(grp)+'</div>';
+  html += '</div>';
+
+  // Chorus
+  const chorus = (ld.chorus||'').trim();
+  const verses = (ld.verses||[]).filter(v=>v.lines&&v.lines.some(l=>(l.prefix||l.text||'').trim()));
+
+  if(!chorus && !verses.length){
+    html += '<div class="preview-empty">Type chorus or verses to see preview…</div>';
+    return html;
+  }
+
+  function renderChorus(){
+    if(!chorus) return '';
+    let c = '<div class="preview-chorus">';
+    chorus.split('\n').forEach(function(line){
+      c += '<div class="preview-chorus-line">'+esc(line)+'</div>';
+    });
+    c += '</div>';
+    return c;
+  }
+
+  function renderVerse(v, idx){
+    let vhtml = '<div class="preview-verse">';
+    vhtml += '<div class="preview-verse-num">'+LNAME[lang]+' · Verse '+(idx+1)+'</div>';
+    (v.lines||[]).forEach(ln => {
+      const prefix = (ln.prefix||'').trim();
+      const text   = (ln.text||'').trim();
+      if(!prefix && !text) return;
+      if(prefix){
+        vhtml += '<div class="preview-line"><span class="preview-highlight">'+esc(prefix)+'</span>';
+        if(text) vhtml += ' <span class="preview-line-text">'+esc(text)+'</span>';
+        vhtml += '</div>';
+      } else {
+        vhtml += '<div class="preview-line preview-plain">'+esc(text)+'</div>';
+      }
+    });
+    vhtml += '</div>';
+    return vhtml;
+  }
+
+  // Render: chorus first, then verse+chorus pattern
+  html += renderChorus();
+  verses.forEach((v,i) => {
+    html += renderVerse(v, i);
+    html += renderChorus(); // repeats after each verse
+  });
+
+  return html;
+}
+
+function openPreview(h){
+  const tabsEl   = el('preview-lang-tabs');
+  const contentEl = el('preview-content');
+  if(!tabsEl||!contentEl) return;
+
+  // Only show langs that have content
+  const activeLangs = LANGS.filter(l => {
+    const ld = h.langs[l];
+    return ld && (ld.title || ld.chorus || (ld.verses||[]).some(v=>v.lines&&v.lines.some(ln=>(ln.prefix||ln.text||'').trim())));
+  });
+
+  if(!activeLangs.length){
+    tabsEl.innerHTML = '';
+    contentEl.innerHTML = '<div class="preview-empty">Nothing to preview yet — type some lyrics first.</div>';
+    openSheet('sheet-preview');
+    return;
+  }
+
+  let currentLang = activeLangs[0];
+
+  function renderTabs(){
+    tabsEl.innerHTML = activeLangs.map(l =>
+      '<button class="preview-tab'+(l===currentLang?' active':'')+'" data-lang="'+l+'">'+LNAME[l]+'</button>'
+    ).join('');
+    tabsEl.querySelectorAll('.preview-tab').forEach(btn => {
+      btn.addEventListener('click', () => {
+        currentLang = btn.dataset.lang;
+        renderTabs();
+        contentEl.innerHTML = buildPreview(h, currentLang);
+      });
+    });
+  }
+
+  renderTabs();
+  contentEl.innerHTML = buildPreview(h, currentLang);
+  openSheet('sheet-preview');
+}
+
 // ── GITHUB SEARCH & LOAD ──────────────────────────
 async function ghSearchHymns(query, groupKey){
   const groups = groupKey ? [groupKey] : ALL_GROUPS;
@@ -1017,6 +1128,8 @@ function init(){
 
   // Editor
   el('btn-back')?.addEventListener('click', ()=>{ save(); showPage('page-list'); renderList(); });
+  el('btn-preview')?.addEventListener('click', ()=>{ if(activeHymn) openPreview(activeHymn); });
+  el('preview-close')?.addEventListener('click', ()=>closeSheet('sheet-preview'));
   el('btn-submit-hymn')?.addEventListener('click', ()=>{ if(activeHymn) startSubmit(activeHymn); });
   el('btn-copy-json')?.addEventListener('click', ()=>{ if(activeHymn) copyJSON(activeHymn); });
   el('btn-delete-hymn')?.addEventListener('click', ()=>{

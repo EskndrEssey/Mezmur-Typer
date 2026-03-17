@@ -48,12 +48,23 @@
       <button class="back-btn" id="btn-back">← Back</button>
       <div class="top-actions">
         <button class="icon-btn danger-btn" id="btn-delete-hymn">🗑</button>
+        <button class="copy-btn" id="btn-preview">👁 Preview</button>
         <button class="copy-btn" id="btn-copy-json">Copy</button>
         <button class="submit-btn" id="btn-submit-hymn">✝ Submit</button>
       </div>
     </header>
     <div id="editor-scroll" class="editor-scroll">
       <div id="editor-area"></div>
+    </div>
+  </div>
+
+  <!-- PREVIEW SHEET -->
+  <div class="sheet-overlay" id="sheet-preview" style="display:none">
+    <div class="sheet sheet-tall">
+      <div class="sheet-handle"></div>
+      <div class="preview-lang-tabs" id="preview-lang-tabs"></div>
+      <div id="preview-content" class="preview-content"></div>
+      <button class="sheet-cancel" id="preview-close">Close</button>
     </div>
   </div>
 
