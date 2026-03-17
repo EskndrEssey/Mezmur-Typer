@@ -33,5 +33,29 @@
     "singer": "test",
     "color": "test",
     "category": "Egziabher"
+  },
+  {
+    "id": "h_mmu58hdtjlp",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "en": "another test"
+    },
+    "lyrics": {
+      "en": "[[chorus]]\nanother test\n[[/chorus]]\n \n[[highlight]]another test [[/highlight]]another ties\n \n[[chorus]]\nanother test\n[[/chorus]]"
+    },
+    "singer": "testing GitHub",
+    "subcategory": "Hosanna",
+    "subcategories": [
+      "Hosanna"
+    ],
+    "category": "Egziabher"
   }
 ]
