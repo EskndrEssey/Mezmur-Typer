@@ -156,5 +156,32 @@
       "DebreTabor"
     ],
     "category": "Egziabher"
+  },
+  {
+    "id": "h_mn4pn202vlw",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "en": "Hosanna in Ariyam"
+    },
+    "lyrics": {
+      "en": "[[chorus]]\nHosanna in Ariyam\n\nHoly Jerusalem you are at peace today \nHe has entered your gates \nYour God leading the way \n\n                Hosanna in Ariyam \n                They sang unto their Lord\n                The children of Holy Jerusalem \n\nThe city of David O Bethlehem rejoice \nThe light of your people \nHas come hearing your voice \n\nWith their praises they sang \nHosanna to their King \nWithin Jerusalem\nTheir hearts poured offerings \n \nSuffering of Jesus \nThe pure of heart witnessed \nTheir eyes welling with tears \nThey all cried with sadness \n\n          ሆሳዕና በአርያም / Hosanna be ariyam \n          እያሉ ዘመሩ / Eyalu zemeru\n          ሕጻናት በኢየሩሣሌም /Hitsanat be Eyerusalem\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "en": "https://youtu.be/sE2m43ngxTc?si=AReRe6gmgH7Z0rEO"
+    },
+    "singer": "Rebekah Gordon",
+    "subcategory": "Hosanna",
+    "subcategories": [
+      "Hosanna"
+    ],
+    "category": "Egziabher"
   }
 ]
