@@ -151,5 +151,45 @@
       "KidaneMehret"
     ],
     "category": "Mariam"
+  },
+  {
+    "id": "h_mn4slwsd9pl",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ሰላም ለኪ ለኖህ ሓመሩ",
+      "am": "ሰላም ለኪ ለኖህ ሓመሩ"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]ናይ ኣሮን በትሩ\nናይ ቅዱስ ዳዊት መሰንቆ መዝሙሩ\nናይ ጌዴዎን ጸምሩ\nናይ ሰሎሞን መንበረ ኽብሩ\nናይ ፍሬ ስብሐት መፆሩ (2)\n[[highlight]]እመ እግዚአብሔር ፀባኦት ሰላም ለኪ /2/ [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]ሰረገላሁ ለኣሚናዳብ\nመና ዘለኪ ንጹሕ መኣዛ\nያዕቆብ ዝረኣያ ኣብ ሎዛ\nናይ ይስሓቅ መኣዛ (2)\n[[highlight]]እንዘ ንሴፈዎ ለበረከትኪ ዘምስለኣምሃ ንሰግድ ለኪ [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]ሕብስተ መና ዘእስራኤል\nናይ ሰማእታት ንጹሕ ኣኽሊል\nዕጸ ጳጦስ ዘሲና\nናይ ኤልያስ መና (2)\n[[highlight]]እንዘ ንሴፈዎ ለበረከትኪ ዘምስለኣምሃ ንሰግድ ለኪ [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]",
+      "am": "[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]የአሮን በትሩ \n[[highlight]]ሰላም ለኪ [[/highlight]]የቅዱስ ዳዊት መሰንቆ መዝሙሩ\n[[highlight]]ሰላም ለኪ [[/highlight]]የጌድዮን ጸምሩ \n[[highlight]]ሰላም ለኪ [[/highlight]] የሰሎሞን መንበር ክብሩ\n[[highlight]]ሰላም ለኪ [[/highlight]]የፍሬ ስብሐትመዝሙሩ (2)\n[[highlight]]እመ እግዚአብሔር ጸባኦትሰላም ለኪ (2) [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]ሰረገላው ለአሚናዳብ\n[[highlight]]ሰላም ለኪ [[/highlight]]መና ያለብሽ ንጹህ መሶብ\n[[highlight]]ሰላም ለኪ [[/highlight]]ያዕቆብ ያየሽ በሎዛ\n[[highlight]]ሰላም ለኪ [[/highlight]]የይስሐቅ መአዛ (2)\n[[highlight]]እንዘ ንሴብሆ ለበረከትኪ  ዘሰምስለ እምኃ እሰግድ ለኪ (2) [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]\n \n[[highlight]]ሰላም ለኪ [[/highlight]]ሕብስተ መና ዘእሥራኤል \n[[highlight]]ሰላም ለኪ [[/highlight]]የሰማዕታት ንጹህ አክሊል\n[[highlight]]ሰላም ለኪ [[/highlight]]እፀጳጦስ ዘሲና \n[[highlight]]ሰላም ለኪ [[/highlight]]የኤልያስ መና/2/\n[[highlight]]እንዘ ንሴብሆ ለበረከትኪ  ዘሰምስለ እምኃ እሰግድ ለኪ (2) [[/highlight]]\n \n[[chorus]]\nሰላም ለኪ (2) \nለኖህ ሓመሩ\n[[/chorus]]"
+    },
+    "subtitle": {
+      "ti": "መሪጌታ እንግዳወርቅ በቀለ",
+      "am": "መሪጌታ እንግዳወርቅ በቀለ"
+    },
+    "youtubeUrls": {
+      "am": "https://www.youtube.com/watch?v=7UC72A2PzOE&list=RD7UC72A2PzOE&start_radio=1",
+      "am_ro": "https://www.youtube.com/watch?v=7UC72A2PzOE&list=RD7UC72A2PzOE&start_radio=1"
+    },
+    "singer": "Kesis Zemari Engdawork Bekele",
+    "subcategory": "General,Filseta,SdetMariam,TsomeMariam,Lideta,KidaneMehret,Mera",
+    "subcategories": [
+      "General",
+      "Filseta",
+      "SdetMariam",
+      "TsomeMariam",
+      "Lideta",
+      "KidaneMehret",
+      "Mera"
+    ],
+    "category": "Mariam"
   }
 ]
