@@ -108,5 +108,34 @@
       "General"
     ],
     "category": "Mariam"
+  },
+  {
+    "id": "h_mn9a0gumsha",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ኣፈ ንህብ ማቱሳላ",
+      "ti_ro": "Afe n’hb Matusala"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nኣፈ ንህብ ማቱሳላ ወልደ ሄኖክ\nእምኣፈ ልምላሜ መርዓዊ ቡሩክ\nቀሰመ ጽጌ /2/ ወዳሴኪ መርዓት\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nAfe n’hb Matusala w’lde Henok\nEm’afe limlame mer’awi buruk\nQeseme ts’ge (2) w’daseki mer’at\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/0_tNvw4oVwI?t=1159",
+      "ti_ro": "https://youtu.be/0_tNvw4oVwI?t=1159"
+    },
+    "subcategory": "SdetMariam",
+    "subcategories": [
+      "SdetMariam"
+    ],
+    "category": "Mariam"
   }
 ]
