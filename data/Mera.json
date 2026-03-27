@@ -186,16 +186,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "መንክር ግርማ",
-      "ti_ro": "Menker girma"
+      "ti": "መጽአ ዘመጽአ እምላዕሉ",
+      "ti_ro": "Mets’a zemets’a emla'ulu"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMenker girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
-      "ti_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4"
+      "ti": "[[chorus]]\nመጽአ ዘመጽአ እምላዕሉ (2)\nመርዓዊ መጽአ (2) ተቀበሉ ጻኡ ተቀበሉ (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMets’a zemets’a emla’ulu (2)\nMer’awi mets’a (2) teqebelu ts’u’u teqebelu (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
