@@ -144,5 +144,30 @@
       "General"
     ],
     "category": "Mera"
+  },
+  {
+    "id": "h_mn9bp2xtpms",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ትበርህ ከመ ኮከበ ሰማይ",
+      "ti_ro": "T’berh keme kokeb semay"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nትበርህ ከመ ኮከበ ሰማይ (2)\nወታስተርኢ እም ኣርእስተ ኣድባር\nኣዳም ወሠናይት ጽዕዱት ወብርህት እኅትየ መርዓት (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nT’berh keme kokeb semay (2)\nWetaster’i em’ar’iste adbar\nAdam wesenayt ts’idut w’b’rhit ehtey mer’at (2)\n[[/chorus]]"
+    },
+    "subcategory": "General",
+    "subcategories": [
+      "General"
+    ],
+    "category": "Mera"
   }
 ]
