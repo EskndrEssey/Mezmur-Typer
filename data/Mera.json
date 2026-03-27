@@ -119,5 +119,30 @@
       "General"
     ],
     "category": "Mera"
+  },
+  {
+    "id": "h_mn9a0gumsha",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ለመርዓዊነ ውርዝው",
+      "ti_ro": "Lemer’awine wurzuw"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nለመርዓዊነ ውርዝው ጥዑመ ልሳን (2)\nትትኣዘዝ (2) በቃለ ኪዳን (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nLemer’awine wurzuw t’u’ume lisan (2)\nT’t’ezazez (2) b’qal kidan (2)\n[[/chorus]]"
+    },
+    "subcategory": "General",
+    "subcategories": [
+      "General"
+    ],
+    "category": "Mera"
   }
 ]
