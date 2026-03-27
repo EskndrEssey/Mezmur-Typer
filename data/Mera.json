@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ከብካብክሙ ይረሲ ለክሙ",
-      "ti_ro": "Kabkabkum yiresi lekum"
+      "ti": "ዘሕጉስ’ዩ",
+      "ti_ro": "Zehagusu’yu"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nከብካብክሙ ይረሲ ለክሙ (2)\nከብካበ ዶኪማስ ወልደ ዮሐንስ\nይረሲ ለክሙ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nKabkabkum yiresi lekum (2)\nKabkabe Dokimas w’lde Yohannes\nYiresi lekum (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nዘሕጉስ’ዩ /3/ ናትና መርዓና ናይ ኦርቶዶክስ\nተዋሕዶ ናይ መርዓና ስነ-ስርዓት\nተፈጺሙ /3/ ናትና መርዓና\nምስጋና ይኹን ነቲ ልዑል /2/ ንእግዚአብሔር ኣምላኽና\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nZehagusu’yu (3) natna mer’ana nay Orthodox\nTewahdo nay mer’ana s’ne-s’erat\nTefets’imu (3) natna mer’ana\nMisgana yikun neti L’ul (2) n’Egziabher Amlakna\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/uAkbIeUnrAw?si=JRYoPq4OeRkJoufZ",
+      "ti_ro": "https://youtu.be/uAkbIeUnrAw?si=JRYoPq4OeRkJoufZ"
     },
     "subcategory": "General",
     "subcategories": [
