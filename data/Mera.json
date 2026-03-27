@@ -157,12 +157,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ትበርህ ከመ ኮከበ ሰማይ",
-      "ti_ro": "T’berh keme kokeb semay"
+      "ti": "ይመስል",
+      "ti_ro": "Yimesl"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nትበርህ ከመ ኮከበ ሰማይ (2)\nወታስተርኢ እም ኣርእስተ ኣድባር\nኣዳም ወሠናይት ጽዕዱት ወብርህት እኅትየ መርዓት (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nT’berh keme kokeb semay (2)\nWetaster’i em’ar’iste adbar\nAdam wesenayt ts’idut w’b’rhit ehtey mer’at (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nይመስል (2) ኣንበሳ ገዳም ይመስል\nኣንበሳ ገዳም (3) ይመስል\nትበርህ (2) እም ኮከበ ሰማይ ትበርህ\nእም ኮከበ ሰማይ (3) ትበርህ\nይመስሉ (2) ኣብርሃም ወሳራ ይመስሉ\nኣብርሃም ወሳራ (3) ይመስሉ\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nYimesl (2) anbessa gedam yimesl\nAnbessa gedam (3) yimesl\nT’berh (2) em kokeb semay t’berh\nEm kokeb semay (3) t’berh\nYimeslu (2) Abraham wesara yimeslu\nAbraham wesara (3) yimeslu\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
