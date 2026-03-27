@@ -173,5 +173,30 @@
       "General"
     ],
     "category": "Mera"
+  },
+  {
+    "id": "h_mn9c6deegiw",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ወኣነሂ ዘልፈ",
+      "ti_ro": "W’anehi zel’fe"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nወኣነሂ ዘልፈ ምስሌሁ (2)\nእነብር በፍቅሩ ለወልድ እኁየ (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nW’anehi zel’fe mislehu (2)\nEnebr b’fik’ru leweld ihuye (2)\n[[/chorus]]"
+    },
+    "subcategory": "General",
+    "subcategories": [
+      "General"
+    ],
+    "category": "Mera"
   }
 ]
