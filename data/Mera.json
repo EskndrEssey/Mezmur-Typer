@@ -186,12 +186,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ኣልብኪ ነውር",
-      "ti_ro": "Albki newur"
+      "ti": "መንክር ግርማ",
+      "ti_ro": "Menker girma"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nኣልብኪ ነውር ወኢምንትኒ በላዕሌኪ (2)\nጻኢ እምሊባኖስ እኅትየ መርዓት (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nAlbki newur w’imintni b’la’eleki (2)\nTsa’i emLibanos ehteye mer’at (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMenker girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
+      "ti_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4"
     },
     "subcategory": "General",
     "subcategories": [
