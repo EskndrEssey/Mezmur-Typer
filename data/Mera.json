@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ተሓጕሱ ጐይታ ብመርዑት",
-      "ti_ro": "Tehagusu Goyta b’mer’ut"
+      "ti": "ካህናት ተንስኡ",
+      "ti_ro": "Kahnat tens’u"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nተሓጕሱ ጐይታ ብመርዑት ተሓጕሱ ጐይታ እህ /2/\nብቅዱስ ቁርባን ተወሲኖም ተሓጕሱ ጐይታ\nተሓጎሰት ድንግል ብመርዑት ተሓጎሰት ድንግል እህ /2/\nብቅዱስ ቁርባን ተወሲኖም ተሓጎሰት ድንግል\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nTehagusu Goyta b’mer’ut tehagusu Goyta ih (2)\nB’kidus qurban tewesinom tehagusu Goyta\nTehagoset Dingil b’mer’ut tehagoset Dingil ih (2)\nB’kidus qurban tewesinom tehagoset Dingil\n[[/chorus]]"
+      "ti": "[[chorus]]\nካህናት ተንስኡ /2/ ለተናብቦ\nእንዘይብሉ ንሴብሖ /2/ ሃሌሉያ\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nKahnat tens’u (2) letenabibo\nEnzeyblu n’sebho (2) halleluya\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/lbNkWrfyAIg?list=RDlbNkWrfyAIg",
+      "ti_ro": "https://youtu.be/lbNkWrfyAIg?list=RDlbNkWrfyAIg"
     },
     "subcategory": "General",
     "subcategories": [
