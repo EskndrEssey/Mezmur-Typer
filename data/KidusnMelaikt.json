@@ -11,12 +11,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "መርዓቱ ይእቲ",
-      "ti_ro": "Mer’atu y’eti"
+      "ti": "ኣማህኩኪ ቅድስት ቤተክርስቲያን",
+      "ti_ro": "Amahkuki kidist betekristiyan"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nመርዓቱ ይእቲ (2) መርዓተ ዝንቱ\nሙዳየ መና ግሩም ሙዳየ መና (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMer’atu y’eti (2) mer’ate zentu\nMudaye mena grum mudaye mena (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nኣማህኩኪ ቅድስት ቤተክርስቲያን (2)\nከብካብ ኮነ በቃና ዘገሊላ\nደምጸ እንዚራ ውስተ ቤተእግዚአብሔር\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nAmahkuki kidist betekristiyan (2)\nKabkab kone b’Kana zeGalila\nDemts’e enzira w’ste bete Egziabher\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/cE5c1IZQ6Eg?list=RDcE5c1IZQ6Eg",
+      "ti_ro": "https://youtu.be/cE5c1IZQ6Eg?list=RDcE5c1IZQ6Eg"
     },
     "subcategory": "General",
     "subcategories": [
