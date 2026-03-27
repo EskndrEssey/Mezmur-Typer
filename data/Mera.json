@@ -186,12 +186,15 @@
       "ro": ""
     },
     "title": {
-      "ti": "መጽአ ዘመጽአ እምላዕሉ",
-      "ti_ro": "Mets’a zemets’a emla'ulu"
+      "ti": "እንዘ ስውር እምኔነ",
+      "ti_ro": "Enze swur emnena"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nመጽአ ዘመጽአ እምላዕሉ (2)\nመርዓዊ መጽአ (2) ተቀበሉ ጻኡ ተቀበሉ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMets’a zemets’a emla’ulu (2)\nMer’awi mets’a (2) teqebelu ts’u’u teqebelu (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nእንዘ ስውር እምኔነ ይእዜሰ ክሱተ ኮነ\nተኣምረ ወመንክረ ገብረ መድኃኒነ\nበቃና እህ ዘገሊላ ከብካብ ኮነ (2)\nማየ ረሰየ ወይነ\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nEnze swur emnena y’ize se ksute kone\nTe’amre wemenkere gebre Medhanina\nB’Kana ih zeGalila kabkab kone (2)\nMaye reseye weyne\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/o8KK2UY8uQc?list=RDo8KK2UY8uQc"
     },
     "subcategory": "General",
     "subcategories": [
