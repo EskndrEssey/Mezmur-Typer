@@ -157,12 +157,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ከመ ይንስኡ",
-      "ti_ro": "Keme yins’u"
+      "ti": "ጽሕፍት ውስተ ወንጌል",
+      "ti_ro": "Ts’hift w’ste wengel"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nከመ ይንስኡ ዓስበ ስብሓቶሙ (2)\nኣክሊል ንጹሕ ዲበ ርእሶሙ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nKeme yins’u asbe s’bhhatom (2)\nAklil n’tsuh dibe r’esom (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nጽሕፍት ውስተ ወንጌል (2)\nወዲበ ርእሳኒ ኣክሊል በትእምርተ መስቀል (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nTs’hift w’ste wengel (2)\nW’dibe r’esani aklil b’te’mirte meskel (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/pV0pTp8DWl8?list=RDpV0pTp8DWl8",
+      "ti_ro": "https://youtu.be/pV0pTp8DWl8?list=RDpV0pTp8DWl8"
     },
     "subcategory": "General",
     "subcategories": [
