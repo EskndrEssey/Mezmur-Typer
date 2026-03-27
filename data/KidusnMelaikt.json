@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "h_mn9c6deegiw",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "መርዓቱ ይእቲ",
+      "ti_ro": "Mer’atu y’eti"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nመርዓቱ ይእቲ (2) መርዓተ ዝንቱ\nሙዳየ መና ግሩም ሙዳየ መና (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMer’atu y’eti (2) mer’ate zentu\nMudaye mena grum mudaye mena (2)\n[[/chorus]]"
+    },
+    "subcategory": "General",
+    "subcategories": [
+      "General"
+    ],
+    "category": "KidusnMelaikt"
+  }
+]
