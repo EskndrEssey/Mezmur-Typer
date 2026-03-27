@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "መርዓዊ ስቡሕ ዘለዓለም",
-      "ti_ro": "Mer’awi subuh zele’alem"
+      "ti": "ዘረሰዮ ለማይ ወይነ",
+      "ti_ro": "Zerese’yo lemay"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nመርዓዊ ስቡሕ ዘለዓለም /2/\nወእስከ ለዓለም ቅዱስ ውእቱ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMer’awi subuh zele’alem (2)\nW’eske le’alem kidus w’etu (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/U_lgYs24dDc?list=RDU_lgYs24dDc",
-      "ti_ro": "https://youtu.be/U_lgYs24dDc?list=RDU_lgYs24dDc"
+      "ti": "[[chorus]]\nዘረሰዮ ለማይ ወይነ (2)\nተኣምረ እንዘይገብር (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nZerese’yo lemay weyne (2)\nTe’amre enzeygebir (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
