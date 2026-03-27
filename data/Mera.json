@@ -107,16 +107,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "እንዘ ስዉር",
+      "ti": "Tehagosi bete kristiyanena",
       "ti_ro": "Enze swur emnena"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nእንዘ ስዉር እምኔነ ይእዜሰ ክሡተ ኮነ (2)\nተኣምረ ወመንክረ ገብረ መድኃኒነ በቃና ዘገሊላ\nከብካብ ኮነ ማየ ረሰየ ወይነ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nEnze swur emnena y’ize se ksute kone (2)\nTe’amre wemenkere gebre Medhanina b’Kana zeGalila\nKabkab kone maye reseye weyne (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/o8KK2UY8uQc?list=RDo8KK2UY8uQc",
-      "ti_ro": "https://youtu.be/o8KK2UY8uQc?list=RDo8KK2UY8uQc"
+      "ti": "[[chorus]]\nተሓጎሲ ቤተ ክርስቲያንና ብዙኅ ደስ ይበልኪ\nመርዓዊን መርዓትን ደቅኺ ብሥጋ ወደሙ ሓደ ኮይኖምልኪ\nመርዓዊን መርዓትን ደቅኺ ብተክሊል ብቁርባን ሓደ ኮይኖምልኪ\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nTehagosi bete kristiyanena b’zuh des y’belki\nMer’awin mer’aten dekki b’siga w’demu hade koynomlki\nMer’awin mer’aten dekki b’teklil b’qurban hade koynomlki\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
