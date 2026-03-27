@@ -107,12 +107,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ዓንቢብኩም ፍረዩ",
-      "ti_ro": "Anbibkum fereyu"
+      "ti": "ለመርዓዊ እህ ፍጹም",
+      "ti_ro": "Lemer’awi ih fetsum semayawi"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nዓንቢብኩም ፍረዩ ወሊድኩም ስዓሙ (2)\nሞት ከይፈለየኩም ዘልዓለም ንበሩ (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nAnbibkum fereyu welidkum s’amu (2)\nMot keyfeleyekum zel’alem n’beru (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nለመርዓዊ እህ ፍጹም ሰማያዊ /2/\nፍጹም ሰማያዊ /4/ ለመርዓዊ\nለመርዓት እህ ዘኣልባ ርስሓት /2/\nዘኣልባ ርስሓት /4/ ለመርዓት /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nLemer’awi ih fetsum semayawi (2)\nFetsum semayawi (4) lemer’awi\nLemer’at ih ze’alba r’shat (2)\nZe’alba r’shat (4) lemer’at (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
