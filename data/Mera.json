@@ -107,12 +107,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ትዌድሶ መርዓት",
-      "ti_ro": "Tiwedso mer’at"
+      "ti": "መጽአ መርዓዊ",
+      "ti_ro": "Mets’a mer’awi"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nትዌድሶ መርዓት ወትብሎ (2)\nወልድ እኁየ ቃልከ ኣዳም (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nTiwedso mer’at wetiblo (2)\nWeld ihuye qalka Adam (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nመጽአ መርዓዊ ፍሥሐ ለኵሉ /2/\nበሰላም /3/ ጻኡ ተቀበሉ /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMets’a mer’awi f’s’ha le’kulu (2)\nB’selam (3) ts’u’u teqebelu (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/LKtuu9i0xaw?list=RDLKtuu9i0xaw&t=207",
+      "ti_ro": "https://youtu.be/LKtuu9i0xaw?list=RDLKtuu9i0xaw&t=207"
     },
     "subcategory": "General",
     "subcategories": [
