@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ቃለ ወንጌል ፈጸምከ",
-      "ti_ro": "Qale wengel"
+      "ti": "መርዓዊ ስቡሕ ዘለዓለም",
+      "ti_ro": "Mer’awi subuh zele’alem"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nቃለ ወንጌል ፈጸምከ /2/\nኢታስትት ጸጋሁ ዘተውህበ ላዕሌከ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nQale wengel fetsemke (2)\nItastit ts’egahu zetewhbe la’eleke (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nመርዓዊ ስቡሕ ዘለዓለም /2/\nወእስከ ለዓለም ቅዱስ ውእቱ /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMer’awi subuh zele’alem (2)\nW’eske le’alem kidus w’etu (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/U_lgYs24dDc?list=RDU_lgYs24dDc",
+      "ti_ro": "https://youtu.be/U_lgYs24dDc?list=RDU_lgYs24dDc"
     },
     "subcategory": "General",
     "subcategories": [
