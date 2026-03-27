@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ትብሎ መርዓት",
-      "ti_ro": "Tiblo mer’at"
+      "ti": "ኣፈ ንህብ ማቱሳላ",
+      "ti_ro": "Afe n’hb Matusala"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nትብሎ መርዓት /2/ ለመርዓዊ ትቤ\nአፈቅሮ እስከ አመ ፈቀደ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nTiblo mer’at (2) lemer’awi t’be\nAfek’ro eske ame fek’ede (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nኣፈ ንህብ ማቱሳላ ወልደ ሄኖክ\nእምኣፈ ልምላሜ መርዓዊ ቡሩክ\nቀሰመ ጽጌ /2/ ወዳሴኪ መርዓት\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nAfe n’hb Matusala w’lde Henok\nEm’afe limlame mer’awi buruk\nQeseme ts’ge (2) w’daseki mer’at\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/0_tNvw4oVwI?t=1159",
+      "ti_ro": "https://youtu.be/0_tNvw4oVwI?t=1159"
     },
     "subcategory": "General",
     "subcategories": [
