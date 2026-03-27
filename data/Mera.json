@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ከብካብ ኮነ",
-      "ti_ro": "Kabkab kone"
+      "ti": "ይትባረክ እግዚአብሔር",
+      "ti_ro": "Yitbarek Egziabher"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nከብካብ ኮነ ወኮነ እሙነ /2/\nማየ /2/ ረሰየ ወይነ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nKabkab kone wekone emune (2)\nMaye (2) reseye weyne (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/_C2Tbq6tGcI?list=RD_C2Tbq6tGcI",
-      "ti_ro": "https://youtu.be/_C2Tbq6tGcI?list=RD_C2Tbq6tGcI"
+      "ti": "[[chorus]]\nይትባረክ እግዚአብሔር\nኣምላከ እስራኤል /2/\nዘገብረ ዓቢየ ወመንክረ\nባሕቲቱ እግዚአብሔር /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nYitbarek Egziabher\nAmlake Israel (2)\nZegbere abiye wemenkere\nBahtitu Egziabher (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
