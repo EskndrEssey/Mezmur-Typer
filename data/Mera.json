@@ -157,12 +157,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ይመስል",
-      "ti_ro": "Yimesl"
+      "ti": "ከመ ይንስኡ",
+      "ti_ro": "Keme yins’u"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nይመስል (2) ኣንበሳ ገዳም ይመስል\nኣንበሳ ገዳም (3) ይመስል\nትበርህ (2) እም ኮከበ ሰማይ ትበርህ\nእም ኮከበ ሰማይ (3) ትበርህ\nይመስሉ (2) ኣብርሃም ወሳራ ይመስሉ\nኣብርሃም ወሳራ (3) ይመስሉ\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nYimesl (2) anbessa gedam yimesl\nAnbessa gedam (3) yimesl\nT’berh (2) em kokeb semay t’berh\nEm kokeb semay (3) t’berh\nYimeslu (2) Abraham wesara yimeslu\nAbraham wesara (3) yimeslu\n[[/chorus]]"
+      "ti": "[[chorus]]\nከመ ይንስኡ ዓስበ ስብሓቶሙ (2)\nኣክሊል ንጹሕ ዲበ ርእሶሙ (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nKeme yins’u asbe s’bhhatom (2)\nAklil n’tsuh dibe r’esom (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
