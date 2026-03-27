@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "ዘረሰዮ ለማይ ወይነ",
-      "ti_ro": "Zerese’yo lemay"
+      "ti": "ከብካብ ኮነ",
+      "ti_ro": "Kabkab kone"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nዘረሰዮ ለማይ ወይነ (2)\nተኣምረ እንዘይገብር (2)\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nZerese’yo lemay weyne (2)\nTe’amre enzeygebir (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nከብካብ ኮነ ወኮነ እሙነ /2/\nማየ /2/ ረሰየ ወይነ /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nKabkab kone wekone emune (2)\nMaye (2) reseye weyne (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/_C2Tbq6tGcI?list=RD_C2Tbq6tGcI",
+      "ti_ro": "https://youtu.be/_C2Tbq6tGcI?list=RD_C2Tbq6tGcI"
     },
     "subcategory": "General",
     "subcategories": [
