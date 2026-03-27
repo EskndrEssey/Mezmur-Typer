@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ካህናት ተንስኡ",
-      "ti_ro": "Kahnat tens’u"
+      "ti": "በከመይቤ ዳዊት",
+      "ti_ro": "Bekemeybe Dawit"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nካህናት ተንስኡ /2/ ለተናብቦ\nእንዘይብሉ ንሴብሖ /2/ ሃሌሉያ\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nKahnat tens’u (2) letenabibo\nEnzeyblu n’sebho (2) halleluya\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/lbNkWrfyAIg?list=RDlbNkWrfyAIg",
-      "ti_ro": "https://youtu.be/lbNkWrfyAIg?list=RDlbNkWrfyAIg"
+      "ti": "[[chorus]]\nበከመይቤ ዳዊት በመዝሙር /2/\nኣንተ ካህኑ ለዓለም /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nBekemeybe Dawit b’mezmur (2)\nAnte kahnu le’alem (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
