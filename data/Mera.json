@@ -94,5 +94,30 @@
       "Timket"
     ],
     "category": "Egziabher"
+  },
+  {
+    "id": "h_mn99nhsepwl",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "ትዌድሶ መርዓት",
+      "ti_ro": "Tiwedso mer’at"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nትዌድሶ መርዓት ወትብሎ (2)\nወልድ እኁየ ቃልከ ኣዳም (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nTiwedso mer’at wetiblo (2)\nWeld ihuye qalka Adam (2)\n[[/chorus]]"
+    },
+    "subcategory": "General",
+    "subcategories": [
+      "General"
+    ],
+    "category": "Mera"
   }
 ]
