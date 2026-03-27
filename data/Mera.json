@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "መጽአ ዘመጽአ",
-      "ti_ro": "Mets’a zemets’a"
+      "ti": "ተሓጕሱ ጐይታ ብመርዑት",
+      "ti_ro": "Tehagusu Goyta b’mer’ut"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nመጽአ ዘመጽአ እምላዕሉ /2/\nመርዓዊ መጽአ /2/ ተቀበሉ ጻኡ ተቀበሉ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMets’a zemets’a emla’ulu (2)\nMer’awi mets’a (2) teqebelu ts’u’u teqebelu (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/2WMPDV6Kwug?si=TzfzKayFPGchnhxW",
-      "ti_ro": "https://youtu.be/2WMPDV6Kwug?si=TzfzKayFPGchnhxW"
+      "ti": "[[chorus]]\nተሓጕሱ ጐይታ ብመርዑት ተሓጕሱ ጐይታ እህ /2/\nብቅዱስ ቁርባን ተወሲኖም ተሓጕሱ ጐይታ\nተሓጎሰት ድንግል ብመርዑት ተሓጎሰት ድንግል እህ /2/\nብቅዱስ ቁርባን ተወሲኖም ተሓጎሰት ድንግል\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nTehagusu Goyta b’mer’ut tehagusu Goyta ih (2)\nB’kidus qurban tewesinom tehagusu Goyta\nTehagoset Dingil b’mer’ut tehagoset Dingil ih (2)\nB’kidus qurban tewesinom tehagoset Dingil\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
