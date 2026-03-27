@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ናሁ ሰናይ",
-      "ti_ro": "Nahu senay"
+      "ti": "ይትባረክ እግዚአብሔር",
+      "ti_ro": "Yitbarek Egziabher"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nናሁ ሰናይ ወናሁ ኣዳም /2/\nሶበ ይሄልዉ /2/ ኣኃው ኅቡረ /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nNahu senay wenahu Adam (2)\nSobe y’helwu (2) ahaw hibure (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/rvmyS4tJD54?list=RDrvmyS4tJD54",
-      "ti_ro": "https://youtu.be/rvmyS4tJD54?list=RDrvmyS4tJD54"
+      "ti": "[[chorus]]\nይትባረክ እግዚአብሔር (2)\nዘኣልዓላ ለጽዮን እም ኵሉ ዓለማት (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nYitbarek Egziabher (2)\nZe’al’ala leTs’iyon emkulu alemat (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
