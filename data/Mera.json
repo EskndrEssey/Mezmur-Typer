@@ -132,16 +132,12 @@
       "ro": ""
     },
     "title": {
-      "ti": "ማእዱ ዓብይ",
-      "ti_ro": "Ma’edu abiyi"
+      "ti": "ትብሎ መርዓት",
+      "ti_ro": "Tiblo mer’at"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nማእዱ ዓብይ /2/ ሕብስተ መና /2/\nወስቴሁኒ ከመ ወይነ ቃና /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nMa’edu abiyi (2) hibste mena (2)\nW’ste’huni keme weyne Kana (2)\n[[/chorus]]"
-    },
-    "youtubeUrls": {
-      "ti": "https://youtu.be/LKtuu9i0xaw?list=RDLKtuu9i0xaw&t=851",
-      "ti_ro": "https://youtu.be/LKtuu9i0xaw?list=RDLKtuu9i0xaw&t=851"
+      "ti": "[[chorus]]\nትብሎ መርዓት /2/ ለመርዓዊ ትቤ\nአፈቅሮ እስከ አመ ፈቀደ /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nTiblo mer’at (2) lemer’awi t’be\nAfek’ro eske ame fek’ede (2)\n[[/chorus]]"
     },
     "subcategory": "General",
     "subcategories": [
