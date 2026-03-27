@@ -137,5 +137,34 @@
       "SdetMariam"
     ],
     "category": "Mariam"
+  },
+  {
+    "id": "h_mn9c6deegiw",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "መንክር ግርማ",
+      "ti_ro": "Menker girma"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nMenker girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
+      "ti_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4"
+    },
+    "subcategory": "KidaneMehret",
+    "subcategories": [
+      "KidaneMehret"
+    ],
+    "category": "Mariam"
   }
 ]
