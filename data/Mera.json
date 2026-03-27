@@ -132,12 +132,16 @@
       "ro": ""
     },
     "title": {
-      "ti": "በከመይቤ ዳዊት",
-      "ti_ro": "Bekemeybe Dawit"
+      "ti": "ናሁ ሰናይ",
+      "ti_ro": "Nahu senay"
     },
     "lyrics": {
-      "ti": "[[chorus]]\nበከመይቤ ዳዊት በመዝሙር /2/\nኣንተ ካህኑ ለዓለም /2/\n[[/chorus]]",
-      "ti_ro": "[[chorus]]\nBekemeybe Dawit b’mezmur (2)\nAnte kahnu le’alem (2)\n[[/chorus]]"
+      "ti": "[[chorus]]\nናሁ ሰናይ ወናሁ ኣዳም /2/\nሶበ ይሄልዉ /2/ ኣኃው ኅቡረ /2/\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nNahu senay wenahu Adam (2)\nSobe y’helwu (2) ahaw hibure (2)\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/rvmyS4tJD54?list=RDrvmyS4tJD54",
+      "ti_ro": "https://youtu.be/rvmyS4tJD54?list=RDrvmyS4tJD54"
     },
     "subcategory": "General",
     "subcategories": [
