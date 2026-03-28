@@ -15,13 +15,13 @@ const GH_PASS_KEY  = 'wz_vol_pass';
 const DEFAULT_PASS = 'Mezmur2025'; // Admin: change this to the GitHub token so login = access
 
 const REPO  = { owner:'EskndrEssey', repo:'Mezmur-Typer', branch:'main', folder:'data' };
-const LANGS = ['en','ti','ti_ro','am','am_ro','om','ro'];
-const LNAME = { en:'English', ti:'Tigrinya', ti_ro:'Tigrinya (Rom.)', am:'Amharic', am_ro:'Amharic (Rom.)', om:'Oromo', ro:'Romanian' };
-const LSHORT= { en:'EN', ti:'TI', ti_ro:'TI-R', am:'AM', am_ro:'AM-R', om:'OM', ro:'RO' };
+const LANGS = ['en','ti','ti_ro','am','am_ro','om'];
+const LNAME = { en:'English', ti:'Tigrinya', ti_ro:'Tigrinya (Rom.)', am:'Amharic', am_ro:'Amharic (Rom.)', om:'Oromo' };
+const LSHORT= { en:'EN', ti:'TI', ti_ro:'TI-R', am:'AM', am_ro:'AM-R', om:'OM' };
 const STATUSES = { draft:'Draft', review:'Needs Review', final:'Final' };
 
 const GROUP_TAXONOMY = {
-  'Sillase':       { label:'ሥሳሴ · Holy Trinity',           file:'Sillase',       subgroups:[] },
+  'Sillase':       { label:'ሥሳሴ · Holy Trinity',           file:'Sillase',       subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
   'Egziabher':     { label:'እግዚኣብሔር · God',               file:'Egziabher',     subgroups:[
     {key:'Lidet',label:'Lidet / Christmas'},{key:'Timket',label:'Timket / Epiphany'},
     {key:'Hosanna',label:'Hosanna'},{key:'Siglet',label:'Siglet / Good Friday'},
@@ -29,23 +29,23 @@ const GROUP_TAXONOMY = {
     {key:'Pentecost',label:'Pentecost'},{key:'DebreTabor',label:'Debre Tabor'},
     {key:'KibreTabot',label:'Kibre Tabot'},{key:'MedhaneAlem',label:'Medhane Alem'},
     {key:'Pagumen',label:'Pagumen'},{key:'Meskel',label:'Meskel'},
-    {key:'Mera',label:'Mera / Wedding'},{key:'General',label:'General'}
+    {key:'Mera',label:'Mera / Wedding'},{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}
   ]},
   'Mariam':        { label:'ማርያም · St. Mary',              file:'Mariam',        subgroups:[
     {key:'Lideta',label:'Lideta'},{key:'KidaneMehret',label:'Kidane Mehret'},
     {key:'Filseta',label:'Filseta'},{key:'SdetMariam',label:'Sdet Mariam'},
     {key:'TsomeMariam',label:'Tsome Mariam'},{key:'Mera',label:'Mera / Wedding'},
-    {key:'General',label:'General'}
+    {key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}
   ]},
-  'Giorgis':       { label:'ቅዱስ ጊዮርጊስ · St. George',      file:'Giorgis',       subgroups:[{key:'Monthly',label:'Monthly Feast'},{key:'General',label:'General'}] },
-  'Michael':       { label:'ቅዱስ ሚካኤል · St. Michael',       file:'Michael',       subgroups:[{key:'Monthly',label:'Monthly Feast'},{key:'General',label:'General'}] },
-  'Gabriel':       { label:'ቅዱስ ገብርኤል · St. Gabriel',      file:'Gabriel',       subgroups:[{key:'Monthly',label:'Monthly Feast'},{key:'General',label:'General'}] },
-  'KidusnAbbot':   { label:'ቅዱሳን ኣቦት · Holy Fathers',      file:'KidusnAbbot',   subgroups:[{key:'TekleHaymanot',label:'Tekle Haymanot'},{key:'Yared',label:'St. Yared'},{key:'General',label:'General'}] },
-  'KidusnMelaikt': { label:'ቅዱሳን መላእኽት · Angels',          file:'KidusnMelaikt', subgroups:[{key:'General',label:'General'}] },
-  'Nissha':        { label:'ንስሓ · Repentance',              file:'Nissha',        subgroups:[] },
-  'Zewetr':        { label:'ዘወትር · Everyday',               file:'Zewetr',        subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'EverySunday',label:'Every Sunday'}] },
-  'Mera':          { label:'መርዓ · Wedding',                 file:'Mera',          subgroups:[{key:'Ceremony',label:'Ceremony'},{key:'Blessing',label:'Blessing'},{key:'General',label:'General'}] },
-  'Yohannes':      { label:'ቅዱስ ዮሓንስ · St. John',          file:'Yohannes',      subgroups:[{key:'General',label:'General'}] },
+  'Giorgis':       { label:'ቅዱስ ጊዮርጊስ · St. George',      file:'Giorgis',       subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'Michael':       { label:'ቅዱስ ሚካኤል · St. Michael',       file:'Michael',       subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'Gabriel':       { label:'ቅዱስ ገብርኤል · St. Gabriel',      file:'Gabriel',       subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'KidusnAbbot':   { label:'ቅዱሳን ኣቦት · Holy Fathers',      file:'KidusnAbbot',   subgroups:[{key:'TekleHaymanot',label:'Tekle Haymanot'},{key:'Yared',label:'St. Yared'},{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'KidusnMelaikt': { label:'ቅዱሳን መላእኽት · Angels',          file:'KidusnMelaikt', subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'Nissha':        { label:'ንስሓ · Repentance',              file:'Nissha',        subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'Zewetr':        { label:'ዘወትር · Everyday',               file:'Zewetr',        subgroups:[{key:'EverySunday',label:'Every Sunday'},{key:'General',label:'General'}] },
+  'Mera':          { label:'መርዓ · Wedding',                 file:'Mera',          subgroups:[{key:'Ceremony',label:'Ceremony'},{key:'Blessing',label:'Blessing'},{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
+  'Yohannes':      { label:'ቅዱስ ዮሓንስ · St. John',          file:'Yohannes',      subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
 };
 const ALL_GROUPS = Object.keys(GROUP_TAXONOMY);
 
@@ -667,8 +667,10 @@ async function doSubmit(){
   const path=ghPath(h.groupKey), exported=hymnToExport(h);
   toast('Submitting…');
   try{
+    // ALWAYS fetch from GitHub first — never rely on localStorage
     const f=await ghGet(path); let arr=[],sha=null;
-    if(f){sha=f.sha;try{arr=JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,'')))));}catch(e){}}
+    if(f){sha=f.sha;try{arr=JSON.parse(decodeURIComponent(escape(atob(f.content.replace(/\n/g,'')))));}catch(e){arr=[];}}
+    // Add or update hymn in the array from GitHub
     const i=arr.findIndex(x=>x.id===exported.id); if(i>=0) arr[i]=exported; else arr.push(exported);
     await ghPut(path,JSON.stringify(arr,null,2),sha,'Add: '+title(h));
     if((h.subgroups||[]).includes('Mera')&&h.groupKey!=='Mera'){
