@@ -43,7 +43,7 @@ const GROUP_TAXONOMY = {
   'KidusnAbbot':   { label:'ቅዱሳን ኣቦት · Holy Fathers',      file:'KidusnAbbot',   subgroups:[{key:'TekleHaymanot',label:'Tekle Haymanot'},{key:'Yared',label:'St. Yared'},{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
   'KidusnMelaikt': { label:'ቅዱሳን መላእኽት · Angels',          file:'KidusnMelaikt', subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
   'Nissha':        { label:'ንስሓ · Repentance',              file:'Nissha',        subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
-  'Zewetr':        { label:'ዘወትር · Everyday',               file:'Zewetr',        subgroups:[{key:'EverySunday',label:'Every Sunday'},{key:'General',label:'General'}] },
+  'Zewetr':        { label:'ዘወትር · Everyday',               file:'Zewetr',        subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'EverySunday',label:'Every Sunday'}] },
   'Mera':          { label:'መርዓ · Wedding',                 file:'Mera',          subgroups:[{key:'Ceremony',label:'Ceremony'},{key:'Blessing',label:'Blessing'},{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
   'Yohannes':      { label:'ቅዱስ ዮሓንስ · St. John',          file:'Yohannes',      subgroups:[{key:'Wereb',label:'Wereb / ወረብ'},{key:'General',label:'General'}] },
 };
