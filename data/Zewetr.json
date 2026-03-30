@@ -92,5 +92,28 @@
     },
     "singer": "enko tesfey",
     "category": "Zewetr"
+  },
+  {
+    "id": "h_mndepd5ar3k",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": "",
+      "ro": ""
+    },
+    "title": {
+      "ti": "nay tselmat zemen tewediu"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nናይ ጸልማት ዘመን ተወዲኡ\nብርሃን ኣብ ዓለም ተወሊዑ\nከምሓፍቲ ሙሴ ብከበሮ\nንዘምር ንበል ንሴብሖ /2/\n                                 ነጸብራቕ ብርሃን ፍሉይ ፋና\n                                ጸዳል ኣለዎ ድምቀት ባና\n                             ቀዲዱ ጸልማት መስቀል ጐይታ\n                              ብርሃን ወሊዑ ጎልጎታ\nየእዳውካ ዘርግሕ ኣመሳቕል\nባርኽ እስራኤል ባርያ ልዑል\nሙሴ በትርኻ ላዕሊ ግበር\nኣመሌቃዊ ሞት ክሰዓር\n                                           የለን ባርነት ተሳዒሩ\n                                          ዜና ናይ ሰላም ተበሲሩ\n                                            ዘምሩ ሕዝቢ ዕልል በሉ\n                                            ሓራ ወጺና ብመስቀሉ    \nሓይልና እዩ ትምክሕትና\nመድኃኒት ሕይወት ናይ ነፍስና\nጽንዓትና እንድዩ ትውክልትና\nመስቀል ናይ ጐይታ በጃ ናትና\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://youtu.be/cK412h6DEIs?si=wTg-1ibDgrNesqjR"
+    },
+    "singer": "!",
+    "category": "Zewetr"
   }
 ]
