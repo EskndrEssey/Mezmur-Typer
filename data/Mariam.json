@@ -233,5 +233,34 @@
     },
     "singer": "?",
     "category": "Mariam"
+  },
+  {
+    "id": "h_mpj174ngn2a",
+    "group": {
+      "en": "",
+      "ti": "",
+      "ti_ro": "",
+      "am": "",
+      "am_ro": "",
+      "om": ""
+    },
+    "title": {
+      "ti": "ኣደ ኣላትኒ",
+      "ti_ro": "Ade Alatni"
+    },
+    "lyrics": {
+      "ti": "[[chorus]]\nኣደ ኣላትኒ ንብዓት እትሕብስ\nይርእያ'የ ክትንስእ ክድቅስ\nኪዳነ ምህረት(3) ኣቁራሪተ መዓት\n[[/chorus]]\n \n ሄዋን ሂባ ካብ ናይ በለስ ፍረ\n     ብዘይ ልብሲ ሙኻነይ ሓፊረ\n     ልብሰይ ሒዝኪ ናባይ መጺኽለይ\n     ርህርህቲ ኣደ ቤተይ ኣድሚቅክለይ\n[[highlight]]ኪዳነ ምህረት (3) ኣቁራሪተ መዓት [[/highlight]]ንዘልኣለም ንጽህቲ ብምኻንኪ\n     ምሳይ ኢዩ ህያው ቃል ኪዳንኪ\n     ሕጉስ'የ ሓሊፉ ሓዘነይ\n     ውህብቶ መስቀል ኮንኪ መጽንዒተይ\n[[highlight]]ኪዳነ ምህረት(3) ኣቁራሪተ መዓት [[/highlight]] ካብቲ ጥፍኣት ኢኺ መጽለሊተይ\n     መርከብ ኢኺ ካብ ሞት መምለጢተይ\n     ኣደ ጎይታይ ክብረይ ልማኖኺ\n     ህይወት ሂብኪ ጸልማት ኣሳጊርኪ\n[[highlight]]ኪዳነ ምህረት(3) ኣቁራሪተ መዓት [[/highlight]] ብኣደነት ህይወተይ ደጊፍኪ\n     ናይ ዘልኣለም ተስፋ ብምውላድኪ\n     ተበቲኹ መቑሕ ሰንሰለተይ\n     ብወድኺ ኣብቂዑ መከራይ\n[[highlight]]ኪዳነ ምህረት(3) ኣቁራሪተ መዓት [[/highlight]]\n \n[[chorus]]\nኣደ ኣላትኒ ንብዓት እትሕብስ\nይርእያ'የ ክትንስእ ክድቅስ\nኪዳነ ምህረት(3) ኣቁራሪተ መዓት\n[[/chorus]]",
+      "ti_ro": "[[chorus]]\nAde alatni nbi’at itihbis\nYir’iya’ye kittinse’ kidiqis\nKidane Mihret (3) aqurarite me’at\n[[/chorus]]\n \nHewan hiba kab nay beles fre\nBezey libsi mukhaney hafire\nLibsey hizki nabay mets’ikhiley\nRihrihti ade betey admikikiley\n[[highlight]]Kidane Mihret (3) aqurarite me’at [[/highlight]]N’zelalem ntsihti bimkhanki\nMsay iyu hiyaw qal kidanki\nHigus’ye halifu hazeney\nWihibto mesqel konki mets’ni’tey\n[[highlight]]Kidane Mihret (3) aqurarite me’at [[/highlight]]Kabti tif’at ikhi mets’lelitey\nMerkeb ikhi kab mot memlegititey\nAde goytay kibrey limanokhi\nHiywet hibki tselmat asagirki\n[[highlight]]Kidane Mihret (3) aqurarite me’at [[/highlight]]B’adenet hiywetey degifki\nNay zelalem tesfa bimwaladki\nTebetikhu mequh senseletey\nBwodkhi abqiyu mekeray\n[[highlight]]Kidane Mihret (3) aqurarite me’at [[/highlight]]\n \n[[chorus]]\nAde alatni nbi’at itihbis\nYir’iya’ye kittinse’ kidiqis\nKidane Mihret (3) aqurarite me’at\n[[/chorus]]"
+    },
+    "youtubeUrls": {
+      "ti": "https://www.youtube.com/watch?v=rrqax3uoIJA&list=PLAeP8rL11EQcO5ICxXSQbcchECcl2DZaB&index=2",
+      "ti_ro": "https://www.youtube.com/watch?v=rrqax3uoIJA&list=PLAeP8rL11EQcO5ICxXSQbcchECcl2DZaB&index=2"
+    },
+    "singer": "ኣፍደገ ብርሃን",
+    "subcategory": "KidaneMehret",
+    "subcategories": [
+      "KidaneMehret"
+    ],
+    "category": "Mariam"
   }
 ]
