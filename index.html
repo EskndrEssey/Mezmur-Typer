@@ -6,24 +6,28 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
   <title>ዋዜማ · Wazema</title>
-  <link rel="stylesheet" href="styles.css?v=2"/>
+  <link rel="stylesheet" href="styles.css?v=3"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet">
 </head>
 <body>
 
-<!-- ═══ LOGIN ═══ -->
-<div id="page-login" class="page">
+<!-- ═══════════════════════════════════════
+     PAGE: LOGIN
+════════════════════════════════════════ -->
+<div id="page-login" class="page" style="display:flex">
   <div class="login-wrap">
-    <div class="login-cross">✝</div>
-    <h1 class="login-title" id="login-title-tap">ዋዜማ</h1>
+    <div class="login-cross" data-admin-tap>✝</div>
+    <h1 class="login-title" data-admin-tap>ዋዜማ</h1>
     <p class="login-sub">Eritrean Orthodox Tewahedo Church</p>
 
     <div class="login-card">
       <label class="lbl">Contributor Name</label>
       <input id="login-name" class="inp" type="text" placeholder="Your full name" autocomplete="name"/>
+
       <label class="lbl" style="margin-top:14px">GitHub Access Token</label>
       <input id="login-token" class="inp" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="current-password"/>
+
       <div id="login-err" class="login-err" style="display:none"></div>
       <button id="login-btn" class="login-submit">Enter ✝</button>
     </div>
@@ -31,125 +35,59 @@
   </div>
 </div>
 
-<!-- ═══ MAIN APP ═══ -->
-<div id="page-app" class="page" style="display:none">
+<!-- ═══════════════════════════════════════
+     PAGE: LIST  (hymn list + tabs)
+════════════════════════════════════════ -->
+<div id="page-list" class="page" style="display:none;flex-direction:column">
 
-  <!-- Nav bar -->
-  <nav class="nav-bar">
-    <button class="nav-btn active" data-tab="editor" id="nav-editor">✍ Entry</button>
-    <button class="nav-btn" data-tab="catalog" id="nav-catalog">📖 Catalog</button>
-    <button class="nav-btn" data-tab="proofwork" id="nav-proofwork">💼 My Work</button>
-  </nav>
-
-  <!-- ── TAB: EDITOR ── -->
-  <div id="tab-editor" class="tab-content active">
-    <div class="editor-topbar">
-      <div class="editor-topbar-left">
-        <button class="icon-btn" id="btn-hymn-list" title="All Hymns">☰</button>
-        <span id="editor-hymn-label" class="editor-hymn-label">New Mezmur</span>
-      </div>
-      <div class="editor-topbar-right">
-        <button class="icon-btn" id="btn-preview-toggle" title="Live Preview">👁</button>
-        <button class="tag-pill save-pill" id="btn-save-draft">Save Draft</button>
-        <button class="submit-btn" id="btn-submit">✝ Submit</button>
-      </div>
-    </div>
-
-    <div class="editor-body" id="editor-body">
-      <!-- LEFT: FORM -->
-      <div class="editor-form" id="editor-form">
-
-        <!-- Meta -->
-        <section class="form-section">
-          <div class="section-title">Mezmur Info</div>
-          <label class="lbl">Primary Title (Tigrinya or Amharic)</label>
-          <input id="f-title" class="inp" type="text" placeholder="ስም ናይ መዝሙር…" oninput="schedAutoSave()"/>
-          <label class="lbl" style="margin-top:10px">Zemari (Singer/Source)</label>
-          <input id="f-zemari" class="inp" type="text" placeholder="Optional" oninput="schedAutoSave()"/>
-          <label class="lbl" style="margin-top:10px">Source Type</label>
-          <select id="f-source" class="inp sel" onchange="schedAutoSave()">
-            <option value="Book">Book</option>
-            <option value="PDF">PDF</option>
-            <option value="Oral">Oral</option>
-            <option value="Other">Other</option>
-          </select>
-          <label class="lbl" style="margin-top:10px">Status</label>
-          <select id="f-status" class="inp sel" onchange="schedAutoSave()">
-            <option value="draft">Draft</option>
-            <option value="review">Needs Review</option>
-            <option value="final">Final</option>
-          </select>
-        </section>
-
-        <!-- Groups -->
-        <section class="form-section">
-          <div class="section-title">Liturgical Groups</div>
-          <p class="section-hint">Select all groups this mezmur belongs to.</p>
-          <div id="group-picker" class="group-picker"></div>
-        </section>
-
-        <!-- Ge'ez Toolbar -->
-        <div class="geez-toolbar">
-          <span class="geez-toolbar-label">Ge'ez</span>
-          <button class="geez-btn" onclick="insertGeez('፡')" title="word sep">፡</button>
-          <button class="geez-btn" onclick="insertGeez('፣')" title="comma">፣</button>
-          <button class="geez-btn" onclick="insertGeez('፤')" title="semicolon">፤</button>
-          <button class="geez-btn" onclick="insertGeez('፥')" title="colon">፥</button>
-          <button class="geez-btn" onclick="insertGeez('፦')" title="preface">፦</button>
-          <button class="geez-btn" onclick="insertGeez('፨')" title="paragraph">፨</button>
-        </div>
-
-        <!-- Language tabs -->
-        <section class="form-section lang-section">
-          <div class="lang-tabs" id="lang-tabs">
-            <button class="lang-tab active" data-lang="ti">TI</button>
-            <button class="lang-tab" data-lang="ti_ro">TI-Rom</button>
-            <button class="lang-tab" data-lang="en">EN</button>
-            <button class="lang-tab" data-lang="am">AM</button>
-            <button class="lang-tab" data-lang="am_ro">AM-Rom</button>
-            <button class="lang-tab" data-lang="om">OM</button>
-          </div>
-          <div id="lang-panels"></div>
-        </section>
-
-      </div>
-
-      <!-- RIGHT: PREVIEW -->
-      <div class="preview-panel" id="preview-panel" style="display:none">
-        <div class="preview-topbar">
-          <span class="preview-title">Live Preview</span>
-          <button class="icon-btn-sm" id="btn-preview-close">✕</button>
-        </div>
-        <div class="preview-phone">
-          <div id="preview-content" class="preview-content"></div>
-        </div>
-      </div>
+  <!-- Top bar -->
+  <div class="list-topbar">
+    <h1 class="list-logo" data-admin-tap>ዋዜማ</h1>
+    <div class="list-topbar-right">
+      <span id="sidebar-stats" class="list-stats"></span>
+      <button class="icon-btn" id="btn-refresh-gh" title="Refresh from GitHub">↻</button>
+      <button class="list-new-btn" id="btn-new-top">+ New</button>
     </div>
   </div>
 
+  <!-- Tab nav -->
+  <nav class="tab-nav">
+    <button class="nav-btn active" id="nav-editor"    onclick="switchTab('editor')">✍ Entry</button>
+    <button class="nav-btn"        id="nav-catalog"   onclick="switchTab('catalog')">📖 Catalog</button>
+    <button class="nav-btn"        id="nav-proofwork" onclick="switchTab('proofwork')">💼 My Work</button>
+  </nav>
+
+  <!-- ── TAB: ENTRY (hymn list) ── -->
+  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column;flex:1;overflow:hidden">
+
+    <!-- Search / filter bar -->
+    <div class="list-filterbar">
+      <input id="search-input" class="search-input" type="text" placeholder="🔍 Search hymns…"/>
+      <select id="filter-group"  class="filter-sel"><option value="">All Groups</option></select>
+      <select id="filter-status" class="filter-sel">
+        <option value="">All Status</option>
+        <option value="draft">Draft</option>
+        <option value="review">Needs Review</option>
+        <option value="final">Final</option>
+      </select>
+    </div>
+
+    <!-- Hymn list -->
+    <div id="hymn-list" class="hymn-list"></div>
+  </div>
+
   <!-- ── TAB: CATALOG ── -->
-  <div id="tab-catalog" class="tab-content" style="display:none">
-    <div class="catalog-topbar">
-      <input id="catalog-search" class="search-inp" type="text" placeholder="🔍 Search mezmurs…" oninput="renderCatalog()"/>
-      <div class="catalog-filters">
-        <select id="catalog-group" class="pill-sel" onchange="renderCatalog()"><option value="">All Groups</option></select>
-        <select id="catalog-status" class="pill-sel" onchange="renderCatalog()">
-          <option value="">All</option>
-          <option value="complete">Complete</option>
-          <option value="incomplete">Needs Work</option>
-        </select>
-        <select id="catalog-exist" class="pill-sel" onchange="renderCatalog()">
-          <option value="existing">Existing</option>
-          <option value="missing">Missing Langs</option>
-        </select>
-      </div>
+  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column;flex:1;overflow:hidden">
+    <div class="list-filterbar">
+      <input id="catalog-search" class="search-input" type="text" placeholder="🔍 Search catalog…"/>
+      <select id="catalog-group" class="filter-sel"><option value="">All Groups</option></select>
     </div>
     <div id="catalog-count" class="catalog-count">Loading…</div>
     <div id="catalog-list" class="catalog-list"></div>
   </div>
 
   <!-- ── TAB: PROOF OF WORK ── -->
-  <div id="tab-proofwork" class="tab-content" style="display:none">
+  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column;flex:1;overflow:hidden">
     <div class="pow-header">
       <div>
         <div class="pow-name" id="pow-name">—</div>
@@ -160,38 +98,48 @@
     <div id="pow-list" class="pow-list"></div>
   </div>
 
-</div><!-- /page-app -->
+</div><!-- /page-list -->
 
-<!-- ═══ SHEETS ═══ -->
+<!-- ═══════════════════════════════════════
+     PAGE: EDITOR
+════════════════════════════════════════ -->
+<div id="page-editor" class="page" style="display:none;flex-direction:column">
 
-<!-- Hymn list sheet -->
-<div class="sheet-overlay" id="sheet-hymn-list" style="display:none">
+  <!-- Editor top bar -->
+  <div class="editor-topbar">
+    <button class="icon-btn" id="btn-back" title="Back to list">‹</button>
+    <span class="editor-topbar-title">Mezmur Entry</span>
+    <div class="editor-topbar-right">
+      <button class="icon-btn" id="btn-preview" title="Preview">👁</button>
+      <button class="submit-btn" id="btn-submit-hymn">✝ Submit</button>
+    </div>
+  </div>
+
+  <!-- Unsaved banner -->
+  <div id="unsaved-banner" class="unsaved-banner" style="display:none">● Unsaved changes — Cmd/Ctrl+S to save</div>
+
+  <!-- Editor content (scrollable) -->
+  <div id="editor-area" class="editor-area"></div>
+
+</div><!-- /page-editor -->
+
+<!-- ═══════════════════════════════════════
+     SHEETS / MODALS
+════════════════════════════════════════ -->
+
+<!-- Preview -->
+<div class="sheet-overlay" id="sheet-preview" style="display:none">
   <div class="sheet sheet-tall">
     <div class="sheet-handle"></div>
     <div class="sheet-topbar">
-      <h3 class="sheet-title">My Drafts</h3>
-      <button class="icon-btn-sm" onclick="closeSheet('sheet-hymn-list')">✕</button>
+      <div id="preview-lang-tabs" class="preview-lang-tabs"></div>
+      <button class="icon-btn-sm" id="preview-close">✕</button>
     </div>
-    <button class="sheet-item-btn" id="btn-new-hymn">+ New Mezmur</button>
-    <div id="draft-list" class="draft-list"></div>
+    <div id="preview-content" class="preview-content"></div>
   </div>
 </div>
 
-<!-- Pending sync sheet -->
-<div class="sheet-overlay" id="sheet-pending" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">⚠ Pending Sync</h3>
-    <p class="sheet-desc">These submissions failed to reach GitHub and are saved locally. Tap Retry to submit.</p>
-    <div id="pending-list"></div>
-    <div class="sheet-actions">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-pending')">Close</button>
-      <button class="sheet-btn-primary" id="btn-retry-pending">↻ Retry All</button>
-    </div>
-  </div>
-</div>
-
-<!-- Submit confirm sheet -->
+<!-- Submit confirm -->
 <div class="sheet-overlay" id="sheet-submit-confirm" style="display:none">
   <div class="sheet">
     <div class="sheet-handle"></div>
@@ -204,20 +152,20 @@
   </div>
 </div>
 
-<!-- Success sheet -->
-<div class="sheet-overlay" id="sheet-success" style="display:none">
+<!-- Submitted success -->
+<div class="sheet-overlay" id="sheet-submitted" style="display:none">
   <div class="sheet">
     <div class="sheet-handle"></div>
-    <div style="text-align:center;padding:24px 0 8px">
+    <div style="text-align:center;padding:28px 0 8px">
       <div style="font-size:52px;margin-bottom:12px">✝</div>
       <h3 class="sheet-title">Submitted!</h3>
-      <p id="success-msg" class="sheet-desc"></p>
+      <p id="submitted-msg" class="sheet-desc"></p>
     </div>
-    <button class="sheet-btn-primary" id="success-ok" style="width:100%">Glory to God ✓</button>
+    <button class="sheet-btn-primary" id="submitted-ok" style="width:100%" onclick="onSubmitOk()">Glory to God ✓</button>
   </div>
 </div>
 
-<!-- Dup warning sheet -->
+<!-- Duplicate warning -->
 <div class="sheet-overlay" id="sheet-dup" style="display:none">
   <div class="sheet">
     <div class="sheet-handle"></div>
@@ -231,12 +179,26 @@
   </div>
 </div>
 
-<!-- Admin sheet -->
+<!-- Pending sync -->
+<div class="sheet-overlay" id="sheet-pending" style="display:none">
+  <div class="sheet">
+    <div class="sheet-handle"></div>
+    <h3 class="sheet-title">⚠ Pending Sync</h3>
+    <p class="sheet-desc">These submissions failed to reach GitHub and are saved locally.</p>
+    <div id="pending-list" class="pending-list"></div>
+    <div class="sheet-actions">
+      <button class="sheet-cancel" onclick="closeSheet('sheet-pending')">Close</button>
+      <button class="sheet-btn-primary" id="btn-retry-pending">↻ Retry All</button>
+    </div>
+  </div>
+</div>
+
+<!-- Admin -->
 <div class="sheet-overlay" id="sheet-admin" style="display:none">
   <div class="sheet sheet-tall">
     <div class="sheet-handle"></div>
     <h3 class="sheet-title">⚙ Admin</h3>
-    <p class="sheet-desc">Branch: main</p>
+    <p class="sheet-desc" style="font-family:monospace;font-size:12px">Branch: main</p>
     <button class="sheet-item-btn" id="btn-init-files">✝ Create All Group Files on GitHub</button>
     <div id="admin-init-log" class="admin-log"></div>
     <div class="sheet-actions" style="margin-top:16px">
@@ -246,9 +208,10 @@
   </div>
 </div>
 
+<!-- Toast -->
 <div class="toast" id="toast"></div>
-<div id="unsaved-banner" class="unsaved-banner" style="display:none">● Unsaved changes</div>
+
 <noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript.</div></noscript>
-<script src="app.js?v=2"></script>
+<script src="app.js?v=3"></script>
 </body>
 </html>
