@@ -6,7 +6,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
   <title>ዋዜማ · Wazema</title>
-  <link rel="stylesheet" href="styles.css?v=3"/>
+  <link rel="stylesheet" href="styles.css?v=4"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -50,6 +50,19 @@
     </div>
   </div>
 
+  <!-- Clock in/out bar -->
+  <div class="clock-bar" id="clock-bar">
+    <div class="clock-status" id="clock-status">
+      <span class="clock-dot" id="clock-dot"></span>
+      <span id="clock-label">Not clocked in</span>
+    </div>
+    <div class="clock-timer" id="clock-timer" style="display:none">
+      <span id="clock-elapsed">00:00:00</span>
+    </div>
+    <button class="clock-btn clock-in"  id="btn-clock-in">Clock In</button>
+    <button class="clock-btn clock-out" id="btn-clock-out" style="display:none">Clock Out</button>
+  </div>
+
   <!-- Tab nav -->
   <nav class="tab-nav">
     <button class="nav-btn active" id="nav-editor"    onclick="switchTab('editor')">✍ Entry</button>
@@ -58,9 +71,7 @@
   </nav>
 
   <!-- ── TAB: ENTRY (hymn list) ── -->
-  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column;flex:1;overflow:hidden">
-
-    <!-- Search / filter bar -->
+  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
     <div class="list-filterbar">
       <input id="search-input" class="search-input" type="text" placeholder="🔍 Search hymns…"/>
       <select id="filter-group"  class="filter-sel"><option value="">All Groups</option></select>
@@ -71,23 +82,28 @@
         <option value="final">Final</option>
       </select>
     </div>
-
-    <!-- Hymn list -->
     <div id="hymn-list" class="hymn-list"></div>
   </div>
 
   <!-- ── TAB: CATALOG ── -->
-  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column;flex:1;overflow:hidden">
+  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
     <div class="list-filterbar">
       <input id="catalog-search" class="search-input" type="text" placeholder="🔍 Search catalog…"/>
       <select id="catalog-group" class="filter-sel"><option value="">All Groups</option></select>
+      <select id="catalog-lang-filter" class="filter-sel">
+        <option value="">All Languages</option>
+        <option value="missing-en">Missing EN</option>
+        <option value="missing-ti">Missing TI</option>
+        <option value="missing-am">Missing AM</option>
+        <option value="missing-om">Missing OM</option>
+      </select>
     </div>
     <div id="catalog-count" class="catalog-count">Loading…</div>
     <div id="catalog-list" class="catalog-list"></div>
   </div>
 
   <!-- ── TAB: PROOF OF WORK ── -->
-  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column;flex:1;overflow:hidden">
+  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
     <div class="pow-header">
       <div>
         <div class="pow-name" id="pow-name">—</div>
@@ -118,10 +134,55 @@
   <!-- Unsaved banner -->
   <div id="unsaved-banner" class="unsaved-banner" style="display:none">● Unsaved changes — Cmd/Ctrl+S to save</div>
 
+  <!-- Draft auto-save indicator -->
+  <div id="draft-save-bar" class="draft-save-bar" style="display:none"></div>
+
   <!-- Editor content (scrollable) -->
   <div id="editor-area" class="editor-area"></div>
 
 </div><!-- /page-editor -->
+
+<!-- ═══════════════════════════════════════
+     PAGE: ADMIN
+════════════════════════════════════════ -->
+<div id="page-admin" class="page" style="display:none;flex-direction:column">
+
+  <div class="editor-topbar">
+    <button class="icon-btn" id="btn-admin-back" title="Back">‹</button>
+    <span class="editor-topbar-title">⚙ Admin Dashboard</span>
+    <div class="editor-topbar-right">
+      <button class="export-btn" id="btn-export-admin-csv">⬇ CSV</button>
+    </div>
+  </div>
+
+  <div class="admin-page-content">
+
+    <!-- Summary row -->
+    <div class="admin-summary-row" id="admin-summary-row"></div>
+
+    <!-- Filter bar -->
+    <div class="list-filterbar" style="flex-shrink:0">
+      <input id="admin-search" class="search-input" type="text" placeholder="🔍 Search contributor…"/>
+      <input id="admin-date-from" class="filter-date" type="date" title="From date"/>
+      <input id="admin-date-to"   class="filter-date" type="date" title="To date"/>
+      <button class="filter-btn" id="btn-admin-filter">Filter</button>
+    </div>
+
+    <!-- Per-day breakdown -->
+    <div class="admin-section-title">Daily Breakdown</div>
+    <div id="admin-daily" class="admin-daily"></div>
+
+    <!-- All sessions (clock in/out) -->
+    <div class="admin-section-title" style="margin-top:14px">Session Log (Clock In / Out)</div>
+    <div id="admin-sessions" class="admin-sessions"></div>
+
+    <!-- All submissions -->
+    <div class="admin-section-title" style="margin-top:14px">Submission Log</div>
+    <div id="admin-submissions" class="admin-submissions"></div>
+
+  </div>
+
+</div><!-- /page-admin -->
 
 <!-- ═══════════════════════════════════════
      SHEETS / MODALS
@@ -145,6 +206,8 @@
     <div class="sheet-handle"></div>
     <h3 class="sheet-title">✝ Submit Mezmur</h3>
     <div id="submit-summary" class="submit-summary"></div>
+    <!-- Quality checklist -->
+    <div class="quality-checklist" id="quality-checklist"></div>
     <div class="sheet-actions">
       <button class="sheet-cancel" onclick="closeSheet('sheet-submit-confirm')">Cancel</button>
       <button class="sheet-btn-primary" id="btn-confirm-submit">Submit to GitHub ✝</button>
@@ -193,7 +256,7 @@
   </div>
 </div>
 
-<!-- Admin -->
+<!-- Admin setup sheet (GitHub init) -->
 <div class="sheet-overlay" id="sheet-admin" style="display:none">
   <div class="sheet sheet-tall">
     <div class="sheet-handle"></div>
@@ -203,7 +266,41 @@
     <div id="admin-init-log" class="admin-log"></div>
     <div class="sheet-actions" style="margin-top:16px">
       <button class="sheet-cancel" onclick="closeSheet('sheet-admin')">Close</button>
+      <button class="sheet-btn-secondary" id="btn-open-admin-page">📊 Open Dashboard</button>
       <button class="sheet-btn-danger" id="btn-logout">Log Out</button>
+    </div>
+  </div>
+</div>
+
+<!-- Clock-out confirm -->
+<div class="sheet-overlay" id="sheet-clockout" style="display:none">
+  <div class="sheet">
+    <div class="sheet-handle"></div>
+    <h3 class="sheet-title">Clock Out</h3>
+    <p class="sheet-desc" id="clockout-summary"></p>
+    <div class="sheet-actions">
+      <button class="sheet-cancel" onclick="closeSheet('sheet-clockout')">Cancel</button>
+      <button class="sheet-btn-primary" id="btn-confirm-clockout">✓ Confirm Clock Out</button>
+    </div>
+  </div>
+</div>
+
+<!-- Preview reminder (first time before submitting) -->
+<div class="sheet-overlay" id="sheet-preview-remind" style="display:none">
+  <div class="sheet">
+    <div class="sheet-handle"></div>
+    <h3 class="sheet-title">👁 Check Your Work First</h3>
+    <p class="sheet-desc">Before submitting, please preview the hymn and verify:</p>
+    <ul class="remind-list">
+      <li>✓ Tigrinya title and singer name are filled in Ge'ez script</li>
+      <li>✓ Lyrics match the book exactly — check spelling and punctuation</li>
+      <li>✓ Correct verse order and chorus placement</li>
+      <li>✓ No missing lines or broken formatting</li>
+      <li>✓ Correct group and subgroup selected</li>
+    </ul>
+    <div class="sheet-actions">
+      <button class="sheet-cancel" id="remind-skip">Skip, Submit Anyway</button>
+      <button class="sheet-btn-primary" id="remind-preview">👁 Open Preview</button>
     </div>
   </div>
 </div>
@@ -212,6 +309,6 @@
 <div class="toast" id="toast"></div>
 
 <noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript.</div></noscript>
-<script src="app.js?v=3"></script>
+<script src="app.js?v=4"></script>
 </body>
 </html>
