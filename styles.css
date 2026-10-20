@@ -41,7 +41,12 @@ html, body {
 /* ══════════════ PAGES ══════════════ */
 .page {
   position: fixed; inset: 0; background: var(--bg);
-  display: flex; flex-direction: column; overflow: hidden;
+  display: none; flex-direction: column; overflow: hidden;
+  height: 100%; width: 100%;
+}
+/* shown pages always stack vertically */
+.page[style*="display:flex"], .page[style*="display: flex"] {
+  display: flex !important; flex-direction: column !important;
 }
 
 /* ══════════════ LOGIN ══════════════ */
