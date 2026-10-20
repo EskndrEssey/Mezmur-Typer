@@ -178,8 +178,12 @@ function toast(msg, type='') {
 
 // ── PAGES / SHEETS ─────────────────────────────────────────
 function showPage(id) {
-  document.querySelectorAll('.page').forEach(p => p.style.display = 'none');
-  const p = el(id); if (p) p.style.display = 'flex';
+  document.querySelectorAll('.page').forEach(p => {
+    p.style.display = 'none';
+    p.style.flexDirection = '';
+  });
+  const p = el(id);
+  if (p) { p.style.display = 'flex'; p.style.flexDirection = 'column'; }
 }
 function openSheet(id)  { const s = el(id); if (s) s.style.display = 'flex'; }
 function closeSheet(id) { const s = el(id); if (s) s.style.display = 'none'; }
