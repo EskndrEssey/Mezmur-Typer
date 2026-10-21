@@ -1,35 +1,63 @@
 {
   "id": "h_mmyb6i7hrvl",
-  "group": {
-    "en": "",
-    "ti": "",
-    "ti_ro": "",
-    "am": "",
-    "am_ro": "",
-    "om": ""
+  "groupKey": "Mariam",
+  "subgroups": [],
+  "zemari": "",
+  "color": "#4caf76",
+  "status": "draft",
+  "langs": {
+    "en": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "ti": {
+      "title": "ንስላሴ ኣምስግኑ",
+      "subtitle": "",
+      "chorus": "ንስላሴ ኣመስግኑ (2)\n ናይ ምድሪ ፍጥረታት ዘምሩ ዕልል በሉ\n                  በስመ ኣብ ወወልድ ወመንፈስ ቅዱስ\n                  ምስጋና ይግባእ ንስሉስ ቅዱስ\n                     ንዓለማት ኩሉ ዝፈጠረ ጎይታ \n                    ምስጋና ይኹኖ ክሳብ መወዳእታ\n\nኪሩቤል ሱራፌል ንዘመስጉኑካ\n መላእኽቲ ኣብ ሰማይ ንዝዝሙርልካ \nንሕና ደቂ ኣዳም ነመስግን ንዓኻ \nኣብ ሰማይ ኣብ ምድሪ ንጽውዕ ንስምካ\n\n                       ብስላሴ ይጸግብ ወላ እንተጠመኹ\n                         ብስላሴ ይረዊ ወላ እንተጸማእኩ\n                         ስላሴ እምባይ'ዮም ከቅርብ ምስጋና \n                          ንዓይ ይመርሑኒ ብጽድቂ ጎደና",
+      "verses": [],
+      "youtube": "https://youtu.be/e2Std_wPULo?si=R7U-Xr8-hr44XH8z",
+      "groupName": ""
+    },
+    "ti_ro": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "am": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "am_ro": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "om": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    }
   },
-  "title": {
-    "ti": "ንስላሴ ኣምስግኑ"
-  },
-  "lyrics": {
-    "ti": "[[chorus]]\nንስላሴ ኣመስግኑ (2)\n ናይ ምድሪ ፍጥረታት ዘምሩ ዕልል በሉ\n                  በስመ ኣብ ወወልድ ወመንፈስ ቅዱስ\n                  ምስጋና ይግባእ ንስሉስ ቅዱስ\n                     ንዓለማት ኩሉ ዝፈጠረ ጎይታ \n                    ምስጋና ይኹኖ ክሳብ መወዳእታ\n\nኪሩቤል ሱራፌል ንዘመስጉኑካ\n መላእኽቲ ኣብ ሰማይ ንዝዝሙርልካ \nንሕና ደቂ ኣዳም ነመስግን ንዓኻ \nኣብ ሰማይ ኣብ ምድሪ ንጽውዕ ንስምካ\n\n                       ብስላሴ ይጸግብ ወላ እንተጠመኹ\n                         ብስላሴ ይረዊ ወላ እንተጸማእኩ\n                         ስላሴ እምባይ'ዮም ከቅርብ ምስጋና \n                          ንዓይ ይመርሑኒ ብጽድቂ ጎደና\n[[/chorus]]"
-  },
-  "youtubeUrls": {
-    "ti": "https://youtu.be/e2Std_wPULo?si=R7U-Xr8-hr44XH8z"
-  },
-  "category": "Mariam",
-  "status": "final",
-  "metadata": {
-    "contributor_id": "ghp_nDPD",
-    "contributor_name": "TEst",
-    "created_at": "2026-10-21T02:39:45.816Z",
-    "updated_at": "2026-10-21T02:41:51.540Z",
-    "word_count": 60,
-    "character_count": 222,
-    "source_type": "Book",
-    "proof_commit_sha": "",
-    "session_clock_in": ""
-  },
-  "_draftSavedAt": "2026-10-21T02:41:51.541Z",
-  "_contributor": "TEst"
+  "createdAt": "2026-10-21T02:39:45.816Z",
+  "updatedAt": "2026-10-21T03:27:39.522Z",
+  "langsinger": {
+    "en": ""
+  }
 }
