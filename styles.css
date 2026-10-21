@@ -1375,6 +1375,18 @@ input, textarea, select { font: inherit; }
   margin-bottom: 10px;
 }
 
+/* ── SUBGROUP GROUP SECTIONS ─────────────────────────────── */
+/* Each selected primary group gets its own labeled subgroup block */
+.subgroup-group-section {
+  margin-top: 2px;
+  padding-top: 10px;
+  border-top: 1px solid var(--sep);
+}
+.subgroup-group-section:first-of-type {
+  border-top: none;
+  padding-top: 0;
+}
+
 /* ── UTILS ───────────────────────────────────────────────── */
 .hidden { display: none !important; }
 .text-danger  { color: var(--danger); }
