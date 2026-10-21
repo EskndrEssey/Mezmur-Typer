@@ -78,7 +78,7 @@ const GROUP_TAXONOMY = [
     ]
   },
   {
-    key: 'saints', label: 'Martyrs & Monastic Fathers', labelGeez: 'ሰማዕታት ወጻድቃን', file: 'saints.json',
+    key: 'saints', label: 'Martyrs & Saints', labelGeez: 'ሰማዕታት ወጻድቃን', file: 'saints.json',
     subgroups: [
       { id:'giyorgis',           name_geez:'ቅዱስ ጊዮርጊስ',           name_en:'Kidus Giyorgis / George' },
       { id:'arsema',             name_geez:'ቅድስት አርሴማ',           name_en:'Qidist Arsema / Hripsime' },
@@ -89,10 +89,10 @@ const GROUP_TAXONOMY = [
     ]
   },
   {
-    key: 'general', label: 'General & Sacraments', labelGeez: 'ሓፈሻዊ', file: 'general.json',
+    key: 'general', label: 'General, Sacraments & Assembly', labelGeez: 'ሓፈሻዊ', file: 'general.json',
     subgroups: [
       { id:'wedding',        name_geez:'ስርዓተ መርዓ',           name_en:'Wedding / Matrimony' },
-      { id:'burial',         name_geez:'ስርዓተ ቀብር',           name_en:'Burial / Hazen' },
+      { id:'burial',         name_geez:'ስርዓተ ቀብር / ሓዘን',     name_en:'Burial / Hazen' },
       { id:'nisha',          name_geez:'ስርዓተ ንስሓ',           name_en:'Nisha / Repentance' },
       { id:'infant_baptism', name_geez:'ስርዓተ ጥምቀት ሕጻናት',  name_en:'Infant Baptism' },
       { id:'holy_communion', name_geez:'ስርዓተ ቁርባን',         name_en:'Holy Communion' },
