@@ -6,7 +6,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
   <title>ዋዜማ · Wazema</title>
-  <link rel="stylesheet" href="styles.css?v=6"/>
+  <link rel="stylesheet" href="styles.css?v=7"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet">
 </head>
@@ -71,7 +71,7 @@
   </nav>
 
   <!-- ── TAB: ENTRY (hymn list) ── -->
-  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
+  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column">
     <div class="list-filterbar">
       <input id="search-input" class="search-input" type="text" placeholder="🔍 Search hymns…"/>
       <select id="filter-group"  class="filter-sel"><option value="">All Groups</option></select>
@@ -86,7 +86,7 @@
   </div>
 
   <!-- ── TAB: CATALOG ── -->
-  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
+  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column">
     <div class="list-filterbar">
       <input id="catalog-search" class="search-input" type="text" placeholder="🔍 Search catalog…"/>
       <select id="catalog-group" class="filter-sel"><option value="">All Groups</option></select>
@@ -103,7 +103,7 @@
   </div>
 
   <!-- ── TAB: PROOF OF WORK ── -->
-  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column;height:calc(100vh - 132px);overflow:hidden">
+  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column">
     <div class="pow-header">
       <div>
         <div class="pow-name" id="pow-name">—</div>
@@ -309,6 +309,6 @@
 <div class="toast" id="toast"></div>
 
 <noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript.</div></noscript>
-<script src="app.js?v=5"></script>
+<script src="app.js?v=6"></script>
 </body>
 </html>
