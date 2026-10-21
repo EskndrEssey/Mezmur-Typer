@@ -538,67 +538,139 @@ function renderLangPanel(h, l, isActive) {
   const isG = GEEZ_LANGS.has(l);
   const gc  = isG ? ' geez' : '';
   const singer = h.langsinger?.[l] || '';
-
   const chorus = ld.chorus || '';
-  const chorusLines = chorus ? chorus.split('\n') : [''];
 
   const verseBlocks = (ld.verses||[]).map((v,vi) =>
     '<div class="verse-block" id="vb-'+l+'-'+vi+'">'+
       '<div class="verse-header">'+
         '<span class="verse-label">Verse '+(vi+1)+'</span>'+
-        '<button class="verse-del-btn" onclick="deleteVerse(\''+l+'\','+vi+')" title="Delete verse">✕</button>'+
+        '<button class="verse-del-btn" onclick="deleteVerse(\''+l+'\','+vi+')" title="Remove verse">Remove</button>'+
       '</div>'+
       '<div class="verse-lines" id="vlines-'+l+'-'+vi+'">'+
         v.lines.map((ln,li) => renderLineRow(l, vi, li, ln, isG)).join('')+
       '</div>'+
-      '<button class="add-line-btn" onclick="addLine(\''+l+'\','+vi+')">+ Add line</button>'+
+      '<button class="add-line-btn" onclick="addLine(\''+l+'\','+vi+')">'+
+        '<span class="add-line-icon">+</span> Add line'+
+      '</button>'+
     '</div>'
   ).join('');
 
-  const toolbar = isG ? renderGeezToolbar(l) : '';
+  // Ge'ez toolbar is always rendered for Ge'ez langs but starts hidden;
+  // it appears when user focuses a Ge'ez input (wired in wireEditor)
+  const toolbar = isG
+    ? '<div class="geez-toolbar" id="geez-tb-'+l+'" style="display:none">'+
+        '<div class="geez-toolbar-label">Ge\'ez punctuation</div>'+
+        '<div class="geez-toolbar-btns">'+
+          GEEZ_PUNCT.map(p =>
+            '<button class="geez-btn" onclick="insertGeez(\''+esc(p)+'\',\''+l+'\')" title="'+esc(p)+'">'+esc(p)+'</button>'
+          ).join('')+
+        '</div>'+
+      '</div>'
+    : '';
 
   return '<div class="lang-panel'+(isActive?' active':'')+'" id="lpanel-'+l+'">'+
-    (toolbar)+
+
+    // Title
     '<div class="field-group">'+
-      '<label class="field-label">Title'+( isG?' (Ge\'ez script required)':'')+'</label>'+
-      '<input class="field-inp'+gc+'" id="ed-title-'+l+'" type="text" placeholder="'+esc(LNAME[l])+' title" value="'+esc(ld.title||'')+'"/>'+
+      '<label class="field-label">Title'+(isG ? ' — Ge\'ez script' : '')+'</label>'+
+      '<input class="field-inp'+gc+'" id="ed-title-'+l+'" type="text" autocomplete="off" '+
+        'placeholder="'+esc(LNAME[l])+' title" value="'+esc(ld.title||'')+'"/>'+
     '</div>'+
+
+    // Singer
     '<div class="field-group">'+
       '<label class="field-label">Singer / Zemari</label>'+
-      '<input class="field-inp'+gc+'" id="ed-singer-'+l+'" type="text" placeholder="Singer name" value="'+esc(singer)+'"/>'+
+      '<input class="field-inp'+gc+'" id="ed-singer-'+l+'" type="text" autocomplete="off" '+
+        'placeholder="Singer name (optional)" value="'+esc(singer)+'"/>'+
     '</div>'+
-    '<div class="field-group">'+
-      '<label class="field-label">Chorus (repeated refrain)</label>'+
-      '<textarea class="field-inp'+gc+'" id="ed-chorus-'+l+'" rows="3" placeholder="Enter chorus lines…">'+esc(chorus)+'</textarea>'+
+
+    // Chorus — with its own titled block
+    '<div class="chorus-block">'+
+      '<div class="verse-header">'+
+        '<span class="verse-label">Chorus</span>'+
+        '<span class="verse-sublabel">Repeated refrain</span>'+
+      '</div>'+
+      '<div style="padding:10px 14px 14px">'+
+        '<textarea class="field-inp'+gc+' chorus-ta" id="ed-chorus-'+l+'" '+
+          'rows="2" placeholder="Enter chorus lines…">'+esc(chorus)+'</textarea>'+
+      '</div>'+
     '</div>'+
+
     verseBlocks+
-    '<button class="add-verse-btn" onclick="addVerse(\''+l+'\')">+ Add verse</button>'+
+    '<button class="add-verse-btn" onclick="addVerse(\''+l+'\')">'+
+      '<span style="font-size:18px;line-height:1">+</span> Add verse'+
+    '</button>'+
+
+    // Ge'ez toolbar (sticky at bottom of panel when active)
+    toolbar+
+
   '</div>';
 }
+
 function renderLineRow(l, vi, li, ln, isG) {
   const gc = isG ? ' geez' : '';
+  const hasPrefix = !!(ln.prefix && ln.prefix.trim());
+  // Prefix toggle chip — shows the current prefix value or "Label" placeholder
+  const prefixChip =
+    '<button class="line-prefix-chip'+(hasPrefix?' has-value':'')+'" '+
+    'id="pfx-chip-'+l+'-'+vi+'-'+li+'" '+
+    'onclick="togglePrefix(\''+l+'\','+vi+','+li+')" '+
+    'title="Add a label to this line (optional)">'+
+      (hasPrefix ? esc(ln.prefix) : 'Label')+
+    '</button>';
+
+  // Prefix input: only shown if prefix has a value or was just toggled open
+  const prefixInp =
+    '<input class="line-prefix-inp'+(hasPrefix?'':' hidden')+'" '+
+    'id="pfx-'+l+'-'+vi+'-'+li+'" type="text" placeholder="e.g. V1" '+
+    'value="'+esc(ln.prefix||'')+'" maxlength="8"/>';
+
   return '<div class="line-row" id="lr-'+l+'-'+vi+'-'+li+'">'+
-    '<input class="line-prefix-inp" id="pfx-'+l+'-'+vi+'-'+li+'" type="text" placeholder="V1" value="'+esc(ln.prefix||'')+'"/>'+
-    '<textarea class="line-text-inp'+gc+'" id="ltxt-'+l+'-'+vi+'-'+li+'" rows="1" placeholder="Line text…">'+esc(ln.text||'')+'</textarea>'+
-    '<button class="line-del-btn" onclick="deleteLine(\''+l+'\','+vi+','+li+')" title="Delete line">✕</button>'+
+    '<div class="line-row-inner">'+
+      prefixChip+
+      prefixInp+
+      '<textarea class="line-text-inp'+gc+'" id="ltxt-'+l+'-'+vi+'-'+li+'" rows="1" '+
+        'placeholder="Line text…">'+esc(ln.text||'')+'</textarea>'+
+    '</div>'+
+    '<button class="line-del-btn" onclick="deleteLine(\''+l+'\','+vi+','+li+')" title="Delete line">'+
+      '<svg width="14" height="14" viewBox="0 0 14 14" fill="none">'+
+        '<path d="M2 2l10 10M12 2L2 12" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/>'+
+      '</svg>'+
+    '</button>'+
   '</div>';
 }
-function renderGeezToolbar(l) {
-  const btns = GEEZ_PUNCT.map(p =>
-    '<button class="geez-btn" onclick="insertGeez(\''+esc(p)+'\',\''+l+'\')" title="'+esc(p)+'">'+esc(p)+'</button>'
-  ).join('');
-  return '<div class="geez-toolbar" id="geez-tb-'+l+'">'+btns+'</div>';
+
+function togglePrefix(l, vi, li) {
+  const inp  = el('pfx-'+l+'-'+vi+'-'+li);
+  const chip = el('pfx-chip-'+l+'-'+vi+'-'+li);
+  if (!inp || !chip) return;
+  const isHidden = inp.classList.contains('hidden');
+  if (isHidden) {
+    inp.classList.remove('hidden');
+    inp.focus();
+    chip.textContent = inp.value || 'Label';
+  } else {
+    // Clear and collapse
+    const h = hymns.find(x => x.id === activeId);
+    if (h) { h.langs[l].verses[vi].lines[li].prefix = ''; save(); }
+    inp.value = '';
+    inp.classList.add('hidden');
+    chip.textContent = 'Label';
+    chip.classList.remove('has-value');
+  }
 }
 
 function insertGeez(char, l) {
-  // Insert into last focused Ge'ez input in that panel
   const panel = el('lpanel-'+l); if (!panel) return;
-  const focused = panel.querySelector(':focus');
-  if (focused && (focused.tagName==='INPUT'||focused.tagName==='TEXTAREA')) {
-    const start = focused.selectionStart, end = focused.selectionEnd;
-    focused.value = focused.value.slice(0,start) + char + focused.value.slice(end);
-    focused.selectionStart = focused.selectionEnd = start + char.length;
-    focused.dispatchEvent(new Event('input'));
+  // Try the currently focused element, or fall back to the last focused tracked element
+  let target = panel.querySelector(':focus');
+  if (!target) target = panel._lastGeezFocus;
+  if (target && (target.tagName==='INPUT'||target.tagName==='TEXTAREA')) {
+    const start = target.selectionStart, end = target.selectionEnd;
+    target.value = target.value.slice(0,start) + char + target.value.slice(end);
+    target.selectionStart = target.selectionEnd = start + char.length;
+    target.dispatchEvent(new Event('input'));
+    target.focus();
   }
 }
 
@@ -619,6 +691,27 @@ function wireEditor(h) {
   // Lang fields
   LANGS.forEach(l => {
     const ld = h.langs[l];
+    const isG = GEEZ_LANGS.has(l);
+    const panel = el('lpanel-'+l);
+    const toolbar = el('geez-tb-'+l);
+
+    // Show/hide Ge'ez toolbar on focus within this panel
+    if (isG && panel && toolbar) {
+      panel.addEventListener('focusin', e => {
+        const t = e.target;
+        if (t.tagName==='INPUT'||t.tagName==='TEXTAREA') {
+          panel._lastGeezFocus = t;
+          toolbar.style.display = '';
+        }
+      });
+      panel.addEventListener('focusout', e => {
+        // Hide toolbar only when focus leaves the panel entirely
+        setTimeout(() => {
+          if (!panel.contains(document.activeElement)) toolbar.style.display = 'none';
+        }, 150);
+      });
+    }
+
     const titleInp = el('ed-title-'+l);
     if (titleInp) titleInp.addEventListener('input', () => { ld.title = titleInp.value; h.updatedAt = new Date().toISOString(); save(); markUnsaved(); updateLangTab(l, h); });
     const singerInp = el('ed-singer-'+l);
@@ -632,8 +725,13 @@ function wireEditor(h) {
     (ld.verses||[]).forEach((v,vi) => {
       v.lines.forEach((ln,li) => {
         const pfxInp = el('pfx-'+l+'-'+vi+'-'+li);
+        const chip   = el('pfx-chip-'+l+'-'+vi+'-'+li);
         const txtInp = el('ltxt-'+l+'-'+vi+'-'+li);
-        if (pfxInp) pfxInp.addEventListener('input', () => { ln.prefix = pfxInp.value; save(); markUnsaved(); });
+        if (pfxInp) pfxInp.addEventListener('input', () => {
+          ln.prefix = pfxInp.value;
+          if (chip) { chip.textContent = pfxInp.value || 'Label'; chip.classList.toggle('has-value', !!pfxInp.value.trim()); }
+          save(); markUnsaved();
+        });
         if (txtInp) {
           autoResize(txtInp);
           txtInp.addEventListener('input', () => { ln.text = txtInp.value; h.updatedAt = new Date().toISOString(); save(); markUnsaved(); updateLangTab(l, h); autoResize(txtInp); });
