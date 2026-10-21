@@ -396,8 +396,6 @@ function deleteHymn(id) {
   renderList();
   renderStats();
 }
-function get activeHymn() { return hymns.find(h => h.id === activeId); }
-
 function renderList() {
   const list = el('hymn-list'); if (!list) return;
   const q     = (el('search-input')?.value||'').toLowerCase();
