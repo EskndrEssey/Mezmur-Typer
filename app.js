@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v11
+   WAZEMA · app.js v12
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
-   Multi-primary-group support · Wereb subgroup in all groups · per-group subgroup sections
+   7-group taxonomy · Egziabher group added · multi-primary-group support
    ═══════════════════════════════════════════════════════════ */
 'use strict';
 
@@ -105,7 +105,25 @@ const GROUP_TAXONOMY = [
       { id:'infant_baptism', name_geez:'ስርዓተ ጥምቀት ሕጻናት',  name_en:'Infant Baptism' },
       { id:'holy_communion', name_geez:'ስርዓተ ቁርባን',         name_en:'Holy Communion' },
       { id:'assembly',       name_geez:'ጉባኤና መክፈቲ',         name_en:'Assembly & Opening' },
+      { id:'zewetr',         name_geez:'ዘወትር',               name_en:'Zewetr / Everyday' },
       { id:'other_tracks',   name_geez:'ካልኦት መዛሙር',        name_en:'Other Tracks' },
+      WEREB_SUB,
+    ]
+  },
+  {
+    key: 'egziabher', label: 'Egziabher / God', labelGeez: 'እግዚኣብሔር', file: 'Egziabher.json',
+    subgroups: [
+      { id:'eg_mariam',         name_geez:'ማርያም',             name_en:'St. Mary' },
+      { id:'eg_michael',        name_geez:'ቅዱስ ሚካኤል',        name_en:'St. Michael' },
+      { id:'eg_gabriel',        name_geez:'ቅዱስ ገብርኤል',       name_en:'St. Gabriel' },
+      { id:'eg_giorgis',        name_geez:'ቅዱስ ጊዮርጊስ',       name_en:'St. George' },
+      { id:'eg_yohannes',       name_geez:'ቅዱስ ዮሓንስ',        name_en:'St. John' },
+      { id:'eg_sillase',        name_geez:'ሥሳሴ',              name_en:'Holy Trinity' },
+      { id:'eg_kidusn_abbot',   name_geez:'ቅዱሳን ኣቦት',        name_en:'Holy Fathers' },
+      { id:'eg_kidusn_melaikt', name_geez:'ቅዱሳን መላእኽት',     name_en:'Angels' },
+      { id:'eg_nissha',         name_geez:'ንስሓ',              name_en:'Repentance' },
+      { id:'eg_zewetr',         name_geez:'ዘወትር',             name_en:'Everyday' },
+      { id:'eg_mera',           name_geez:'መርዓ',              name_en:'Wedding' },
       WEREB_SUB,
     ]
   },
