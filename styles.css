@@ -962,22 +962,7 @@ input, textarea, select { font: inherit; }
   flex-wrap: wrap;
   padding: 4px 0;
 }
-.subgroup-chip {
-  padding: 6px 14px;
-  border-radius: 16px;
-  font-size: 13px;
-  font-weight: 600;
-  background: var(--bg-inset);
-  color: var(--t3);
-  border: 2px solid transparent;
-  cursor: pointer;
-  transition: all var(--tr);
-}
-.subgroup-chip.selected {
-  background: var(--accent-l);
-  color: var(--accent);
-  border-color: var(--accent);
-}
+/* .subgroup-chip styles live in GROUP CHIP PICKER section below */
 
 /* ── CATALOG & POW ───────────────────────────────────────── */
 .catalog-list,
@@ -1285,6 +1270,109 @@ input, textarea, select { font: inherit; }
   align-items: center;
   justify-content: center;
   padding: 40px;
+}
+
+/* ── GROUP CHIP PICKER ───────────────────────────────────── */
+.group-chips-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 2px 0;
+}
+.group-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 2px;
+  padding: 10px 14px;
+  border-radius: var(--r-md);
+  border: 2px solid var(--sep);
+  background: var(--bg-inset);
+  cursor: pointer;
+  transition: all var(--tr);
+  text-align: left;
+  width: 100%;
+}
+.group-chip:active { transform: scale(0.98); }
+.group-chip.selected {
+  background: var(--accent-l);
+  border-color: var(--accent);
+}
+.group-chip-en {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--t1);
+  line-height: 1.2;
+}
+.group-chip.selected .group-chip-en { color: var(--accent); }
+.group-chip-geez {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--t3);
+  font-family: 'Noto Serif Ethiopic', serif;
+  line-height: 1.3;
+}
+.group-chip.selected .group-chip-geez { color: var(--accent); opacity: 0.8; }
+
+/* ── SUBGROUP CHIPS (enhanced for new taxonomy) ──────────── */
+.subgroup-chip {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1px;
+  padding: 7px 12px;
+  border-radius: 12px;
+  border: 2px solid transparent;
+  background: var(--bg-inset);
+  cursor: pointer;
+  transition: all var(--tr);
+  text-align: left;
+}
+.subgroup-chip:active { transform: scale(0.97); }
+.subgroup-chip.selected {
+  background: var(--accent-l);
+  border-color: var(--accent);
+}
+.sg-geez {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--t1);
+  font-family: 'Noto Serif Ethiopic', serif;
+  line-height: 1.3;
+}
+.subgroup-chip.selected .sg-geez { color: var(--accent); }
+.sg-en {
+  font-size: 11px;
+  color: var(--t3);
+  line-height: 1.2;
+}
+.subgroup-chip.selected .sg-en { color: var(--accent); opacity: 0.75; }
+
+/* ── FIELD HINTS ─────────────────────────────────────────── */
+.field-hint {
+  font-size: 11px;
+  font-weight: 400;
+  color: var(--t3);
+  margin-left: 4px;
+}
+.field-hint-row {
+  font-size: 13px;
+  color: var(--t3);
+  padding: 6px 0;
+  font-style: italic;
+}
+
+/* ── ZEMARI COMBO (datalist input) ───────────────────────── */
+#lang-zemari {
+  /* inherits standard input styles; no extra needed */
+}
+
+/* ── PREVIEW ZEMARI ──────────────────────────────────────── */
+.preview-zemari {
+  font-size: 13px;
+  color: var(--t3);
+  font-style: italic;
+  margin-bottom: 10px;
 }
 
 /* ── UTILS ───────────────────────────────────────────────── */
