@@ -33,22 +33,26 @@
 }
 
 html {
-  height: 100%; height: 100dvh;
+  height: 100%;
   background: var(--bg);
   overflow: hidden;
 }
 body {
-  height: 100%; height: 100dvh;
+  height: 100%;
   background: var(--bg); color: var(--t1);
   font-family: var(--font); font-size: 14px; line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   overflow: hidden;
+  /* iOS Safari: prevent elastic scroll on body */
+  position: fixed; width: 100%;
 }
 
 /* ══════════════ PAGES ══════════════ */
 .page {
-  position: absolute;
+  position: fixed;
   top: 0; left: 0; right: 0; bottom: 0;
+  /* Use dvh so iOS address bar is accounted for */
+  height: 100dvh;
   background: var(--bg);
   display: none;
   flex-direction: column;
@@ -176,6 +180,7 @@ body {
   flex: 1 1 0; min-height: 0;
   overflow-y: scroll; -webkit-overflow-scrolling: touch;
   overscroll-behavior-y: contain;
+  touch-action: pan-y;
   padding: 10px; display: flex; flex-direction: column; gap: 6px;
 }
 .hymn-item {
@@ -220,6 +225,7 @@ body {
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch;
   overscroll-behavior-y: contain;
+  touch-action: pan-y;
   padding: 14px 14px 80px;
   display: flex; flex-direction: column; gap: 10px;
 }
@@ -455,7 +461,7 @@ body {
 
 /* ══════════════ CATALOG ══════════════ */
 .catalog-count { padding: 8px 14px; font-size: 12px; color: var(--t3); border-bottom: 1px solid var(--sep); flex-shrink: 0; }
-.catalog-list  { flex: 1 1 0; min-height: 0; overflow-y: scroll; -webkit-overflow-scrolling: touch; overscroll-behavior-y: contain; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
+.catalog-list  { flex: 1 1 0; min-height: 0; overflow-y: scroll; -webkit-overflow-scrolling: touch; overscroll-behavior-y: contain; touch-action: pan-y; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
 .catalog-card {
   background: var(--bg2); border: 1px solid var(--sep);
   border-radius: var(--r); padding: 12px 14px;
@@ -473,7 +479,7 @@ body {
 .pow-header { display: flex; align-items: center; justify-content: space-between; padding: 16px; background: var(--bg2); border-bottom: 1px solid var(--sep); flex-shrink: 0; }
 .pow-name   { font-size: 17px; font-weight: 700; color: var(--gold); }
 .pow-stats  { font-size: 12px; color: var(--t3); margin-top: 2px; }
-.pow-list   { flex: 1 1 0; min-height: 0; overflow-y: scroll; -webkit-overflow-scrolling: touch; overscroll-behavior-y: contain; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
+.pow-list   { flex: 1 1 0; min-height: 0; overflow-y: scroll; -webkit-overflow-scrolling: touch; overscroll-behavior-y: contain; touch-action: pan-y; padding: 10px; display: flex; flex-direction: column; gap: 6px; }
 .pow-card   { background: var(--bg2); border: 1px solid var(--sep); border-radius: var(--r); padding: 12px 14px; }
 .pow-card-title { font-size: 14px; font-weight: 600; color: var(--t0); margin-bottom: 4px; font-family: var(--geez); }
 .pow-card-meta  { font-size: 11px; color: var(--t3); margin-bottom: 6px; }
@@ -680,8 +686,8 @@ body {
 
 /* ══════════════ ADMIN PAGE ══════════════ */
 .admin-page-content {
-  flex: 1; min-height: 0; overflow-y: auto; -webkit-overflow-scrolling: touch;
-  overscroll-behavior: contain;
+  flex: 1 1 0; min-height: 0; overflow-y: scroll; -webkit-overflow-scrolling: touch;
+  overscroll-behavior: contain; touch-action: pan-y;
   padding: 14px 14px 80px; display: flex; flex-direction: column; gap: 0;
 }
 .admin-summary-row {
