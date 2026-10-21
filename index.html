@@ -4,311 +4,323 @@
   <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"/>
   <meta name="apple-mobile-web-app-capable" content="yes"/>
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
-  <title>ዋዜማ · Wazema</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=10"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="default"/>
+  <title>Wazema</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="styles.css?v=11"/>
 </head>
 <body>
 
-<!-- ═══════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      PAGE: LOGIN
-════════════════════════════════════════ -->
-<div id="page-login" class="page" style="display:flex;flex-direction:column">
-  <div class="login-wrap">
-    <div class="login-cross" data-admin-tap>✝</div>
-    <h1 class="login-title" data-admin-tap>ዋዜማ</h1>
-    <p class="login-sub">Eritrean Orthodox Tewahedo Church</p>
+     ═══════════════════════════════════════════════════════════ -->
+<div id="page-login" class="page" style="display:flex;flex-direction:column;">
+  <div class="login-page">
+    <div class="login-logo">
+      <div class="app-icon">✝</div>
+      <h1>Wazema</h1>
+      <p>Eritrean Orthodox Tewahedo<br>Hymn Entry System</p>
+    </div>
 
     <div class="login-card">
-      <label class="lbl">Contributor Name</label>
-      <input id="login-name" class="inp" type="text" placeholder="Your full name" autocomplete="name"/>
-
-      <label class="lbl" style="margin-top:14px">GitHub Access Token</label>
-      <input id="login-token" class="inp" type="password" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx" autocomplete="current-password"/>
-
-      <div id="login-err" class="login-err" style="display:none"></div>
-      <button id="login-btn" class="login-submit">Enter ✝</button>
+      <div class="login-field">
+        <label for="login-name">Your Name</label>
+        <input id="login-name" type="text" placeholder="e.g. Dawit Haile" autocomplete="name"/>
+      </div>
+      <div class="login-field">
+        <label for="login-token">GitHub Token</label>
+        <input id="login-token" type="password" placeholder="ghp_…" autocomplete="current-password"/>
+      </div>
     </div>
-    <p class="login-footer">Contact the administrator for access</p>
+
+    <div id="login-err" class="login-err"></div>
+
+    <button id="login-btn" class="btn-primary">Enter ✝</button>
   </div>
 </div>
 
-<!-- ═══════════════════════════════════════
-     PAGE: LIST  (hymn list + tabs)
-════════════════════════════════════════ -->
-<div id="page-list" class="page" style="display:none;flex-direction:column">
+<!-- ═══════════════════════════════════════════════════════════
+     PAGE: LIST  (Editor / Catalog / Proof of Work)
+     ═══════════════════════════════════════════════════════════ -->
+<div id="page-list" class="page">
 
-  <!-- Top bar -->
-  <div class="list-topbar">
-    <h1 class="list-logo" data-admin-tap>ዋዜማ</h1>
-    <div class="list-topbar-right">
-      <span id="sidebar-stats" class="list-stats"></span>
-      <button class="icon-btn" id="btn-refresh-gh" title="Refresh from GitHub">↻</button>
-      <button class="list-new-btn" id="btn-new-top">+ New</button>
-    </div>
-  </div>
-
-  <!-- Clock in/out bar -->
-  <div class="clock-bar" id="clock-bar">
-    <div class="clock-status" id="clock-status">
-      <span class="clock-dot" id="clock-dot"></span>
-      <span id="clock-label">Not clocked in</span>
-    </div>
-    <div class="clock-timer" id="clock-timer" style="display:none">
-      <span id="clock-elapsed">00:00:00</span>
-    </div>
-    <button class="clock-btn clock-in"  id="btn-clock-in">Clock In</button>
-    <button class="clock-btn clock-out" id="btn-clock-out" style="display:none">Clock Out</button>
-  </div>
-
-  <!-- Tab nav -->
-  <nav class="tab-nav">
-    <button class="nav-btn active" id="nav-editor"    onclick="switchTab('editor')">✍ Entry</button>
-    <button class="nav-btn"        id="nav-catalog"   onclick="switchTab('catalog')">📖 Catalog</button>
-    <button class="nav-btn"        id="nav-proofwork" onclick="switchTab('proofwork')">💼 My Work</button>
-  </nav>
-
-  <!-- ── TAB: ENTRY (hymn list) ── -->
-  <div id="tab-editor" class="tab-content" style="display:flex;flex-direction:column">
-    <div class="list-filterbar">
-      <input id="search-input" class="search-input" type="text" placeholder="🔍 Search hymns…"/>
-      <select id="filter-group"  class="filter-sel"><option value="">All Groups</option></select>
-      <select id="filter-status" class="filter-sel">
-        <option value="">All Status</option>
-        <option value="draft">Draft</option>
-        <option value="review">Needs Review</option>
-        <option value="final">Final</option>
-      </select>
-    </div>
-    <div id="hymn-list" class="hymn-list"></div>
-  </div>
-
-  <!-- ── TAB: CATALOG ── -->
-  <div id="tab-catalog" class="tab-content" style="display:none;flex-direction:column">
-    <div class="list-filterbar">
-      <input id="catalog-search" class="search-input" type="text" placeholder="🔍 Search catalog…"/>
-      <select id="catalog-group" class="filter-sel"><option value="">All Groups</option></select>
-      <select id="catalog-lang-filter" class="filter-sel">
-        <option value="">All Languages</option>
-        <option value="missing-en">Missing EN</option>
-        <option value="missing-ti">Missing TI</option>
-        <option value="missing-am">Missing AM</option>
-        <option value="missing-om">Missing OM</option>
-      </select>
-    </div>
-    <div id="catalog-count" class="catalog-count">Loading…</div>
-    <div id="catalog-list" class="catalog-list"></div>
-  </div>
-
-  <!-- ── TAB: PROOF OF WORK ── -->
-  <div id="tab-proofwork" class="tab-content" style="display:none;flex-direction:column">
-    <div class="pow-header">
-      <div>
-        <div class="pow-name" id="pow-name">—</div>
-        <div class="pow-stats" id="pow-stats">0 submissions</div>
+  <!-- Top nav -->
+  <div class="nav-bar">
+    <span class="nav-title">Wazema</span>
+    <div style="display:flex;align-items:center;gap:8px;">
+      <div id="clock-pill" class="clock-pill" onclick="clockAction()">
+        <span id="clock-dot" class="clock-dot"></span>
+        <span id="clock-label" class="clock-label">Clock In</span>
       </div>
-      <button class="export-btn" id="btn-export-pow">⬇ Export CSV</button>
+      <button class="nav-action" onclick="openSheet('sheet-admin')">⚙</button>
     </div>
+  </div>
+
+  <!-- Segment control -->
+  <div class="segment-wrap">
+    <div class="segment">
+      <button id="nav-editor"    class="seg-btn" onclick="switchTab('editor')">Editor</button>
+      <button id="nav-catalog"   class="seg-btn" onclick="switchTab('catalog')">Catalog</button>
+      <button id="nav-proofwork" class="seg-btn" onclick="switchTab('proofwork')">My Work</button>
+    </div>
+  </div>
+
+  <!-- ── TAB: EDITOR ──────────────────────────────────────── -->
+  <div id="tab-editor" class="tab-content">
+    <!-- Toolbar -->
+    <div class="list-toolbar">
+      <input id="search-inp" type="search" placeholder="Search hymns…" oninput="renderList()"/>
+      <select id="filter-group" onchange="renderList()">
+        <option value="">All Groups</option>
+      </select>
+    </div>
+    <div id="list-stats" class="list-stats"></div>
+
+    <!-- Hymn list -->
+    <div id="hymn-list" class="hymn-list"></div>
+
+    <!-- New hymn -->
+    <button class="new-hymn-btn" onclick="createHymn()">＋ New Hymn</button>
+  </div>
+
+  <!-- ── TAB: CATALOG ─────────────────────────────────────── -->
+  <div id="tab-catalog" class="tab-content">
+    <div class="catalog-toolbar">
+      <input id="catalog-search" type="search" placeholder="Search catalog…" oninput="renderCatalog()"/>
+      <select id="catalog-group" onchange="renderCatalog()">
+        <option value="">All Groups</option>
+      </select>
+    </div>
+    <div id="catalog-list" class="catalog-list">
+      <div class="loading-center"><div class="spinner"></div></div>
+    </div>
+  </div>
+
+  <!-- ── TAB: PROOF OF WORK ───────────────────────────────── -->
+  <div id="tab-proofwork" class="tab-content">
     <div id="pow-list" class="pow-list"></div>
   </div>
 
-</div><!-- /page-list -->
+</div>
 
-<!-- ═══════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      PAGE: EDITOR
-════════════════════════════════════════ -->
-<div id="page-editor" class="page" style="display:none;flex-direction:column">
+     ═══════════════════════════════════════════════════════════ -->
+<div id="page-editor" class="page">
 
-  <!-- Editor top bar -->
-  <div class="editor-topbar">
-    <button class="icon-btn" id="btn-back" title="Back to list">‹</button>
-    <span class="editor-topbar-title">Mezmur Entry</span>
-    <div class="editor-topbar-right">
-      <button class="icon-btn" id="btn-preview" title="Preview">👁</button>
-      <button class="submit-btn" id="btn-submit-hymn">✝ Submit</button>
+  <!-- Editor nav bar -->
+  <div class="editor-nav">
+    <button class="nav-back" onclick="goBack()">‹ Back</button>
+    <span id="editor-title-label" class="editor-title-label">New Hymn</span>
+    <button id="preview-btn" class="nav-action" onclick="openPreview()">Preview</button>
+    <button id="save-btn"    class="save-btn"   onclick="saveHymn()">Save</button>
+  </div>
+
+  <!-- Language tabs -->
+  <div class="lang-tabs-bar" id="lang-tabs-bar">
+    <!-- filled by JS -->
+  </div>
+
+  <!-- Editor scroll area (all lang panels share this; only one shown) -->
+  <div id="editor-area" class="editor-area">
+    <!-- Filled by JS per active language -->
+  </div>
+
+  <!-- Ge'ez toolbar (shown when Ge'ez field focused) -->
+  <div id="geez-toolbar" class="geez-toolbar">
+    <span class="geez-toolbar-label">Ge'ez Punctuation</span>
+    <div class="geez-punct-row" id="geez-punct-row">
+      <!-- filled by JS -->
     </div>
   </div>
 
-  <!-- Unsaved banner -->
-  <div id="unsaved-banner" class="unsaved-banner" style="display:none">● Unsaved changes — Cmd/Ctrl+S to save</div>
+</div>
 
-  <!-- Draft auto-save indicator -->
-  <div id="draft-save-bar" class="draft-save-bar" style="display:none"></div>
-
-  <!-- Editor content (scrollable) -->
-  <div id="editor-area" class="editor-area"></div>
-
-</div><!-- /page-editor -->
-
-<!-- ═══════════════════════════════════════
+<!-- ═══════════════════════════════════════════════════════════
      PAGE: ADMIN
-════════════════════════════════════════ -->
-<div id="page-admin" class="page" style="display:none;flex-direction:column">
-
-  <div class="editor-topbar">
-    <button class="icon-btn" id="btn-admin-back" title="Back">‹</button>
-    <span class="editor-topbar-title">⚙ Admin Dashboard</span>
-    <div class="editor-topbar-right">
-      <button class="export-btn" id="btn-export-admin-csv">⬇ CSV</button>
-    </div>
+     ═══════════════════════════════════════════════════════════ -->
+<div id="page-admin" class="page">
+  <div class="nav-bar">
+    <span class="nav-title">Settings</span>
+    <button class="nav-action" onclick="showPage('page-list')">Done</button>
   </div>
-
   <div class="admin-page-content">
 
-    <!-- Summary row -->
-    <div class="admin-summary-row" id="admin-summary-row"></div>
-
-    <!-- Filter bar -->
-    <div class="list-filterbar" style="flex-shrink:0">
-      <input id="admin-search" class="search-input" type="text" placeholder="🔍 Search contributor…"/>
-      <input id="admin-date-from" class="filter-date" type="date" title="From date"/>
-      <input id="admin-date-to"   class="filter-date" type="date" title="To date"/>
-      <button class="filter-btn" id="btn-admin-filter">Filter</button>
+    <div class="admin-section">
+      <div class="admin-section-title">Account</div>
+      <div class="admin-row">
+        <span class="admin-row-label">Contributor</span>
+        <span id="admin-name" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">Session</span>
+        <span id="admin-session" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">Token</span>
+        <span id="admin-token-hint" class="admin-row-value">—</span>
+      </div>
     </div>
 
-    <!-- Per-day breakdown -->
-    <div class="admin-section-title">Daily Breakdown</div>
-    <div id="admin-daily" class="admin-daily"></div>
+    <div class="admin-section">
+      <div class="admin-section-title">Statistics</div>
+      <div class="admin-row">
+        <span class="admin-row-label">Total Hymns</span>
+        <span id="stat-total" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">Published</span>
+        <span id="stat-pub" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">Drafts</span>
+        <span id="stat-draft" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">In Review</span>
+        <span id="stat-review" class="admin-row-value">—</span>
+      </div>
+    </div>
 
-    <!-- All sessions (clock in/out) -->
-    <div class="admin-section-title" style="margin-top:14px">Session Log (Clock In / Out)</div>
-    <div id="admin-sessions" class="admin-sessions"></div>
+    <div class="admin-section">
+      <div class="admin-section-title">GitHub Sync</div>
+      <div class="admin-row">
+        <span class="admin-row-label">Repository</span>
+        <span class="admin-row-value">EskndrEssey/Mezmur-Typer</span>
+      </div>
+      <div class="admin-row">
+        <span class="admin-row-label">Pending Sync</span>
+        <span id="stat-pending" class="admin-row-value">—</span>
+      </div>
+      <div class="admin-row">
+        <button class="nav-action" onclick="syncNow()" style="padding:8px 0;">Sync Now</button>
+        <span id="sync-status" class="admin-row-value"></span>
+      </div>
+    </div>
 
-    <!-- All submissions -->
-    <div class="admin-section-title" style="margin-top:14px">Submission Log</div>
-    <div id="admin-submissions" class="admin-submissions"></div>
+    <div class="admin-section">
+      <div class="admin-section-title">Sessions</div>
+      <div id="admin-sessions-list"></div>
+    </div>
+
+    <div class="admin-section">
+      <div class="admin-section-title">Actions</div>
+      <div class="admin-row">
+        <button class="nav-action danger" onclick="logout()">Sign Out</button>
+      </div>
+    </div>
 
   </div>
+</div>
 
-</div><!-- /page-admin -->
-
-<!-- ═══════════════════════════════════════
-     SHEETS / MODALS
-════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════
+     SHEETS
+     ═══════════════════════════════════════════════════════════ -->
 
 <!-- Preview -->
-<div class="sheet-overlay" id="sheet-preview" style="display:none">
-  <div class="sheet sheet-tall">
+<div id="sheet-preview" class="sheet-overlay bottom-sheet" onclick="closeSheet('sheet-preview')">
+  <div class="sheet-panel" onclick="event.stopPropagation()">
     <div class="sheet-handle"></div>
-    <div class="sheet-topbar">
-      <div id="preview-lang-tabs" class="preview-lang-tabs"></div>
-      <button class="icon-btn-sm" id="preview-close">✕</button>
+    <div class="sheet-title">Preview</div>
+    <div class="preview-lang-tabs" id="preview-lang-tabs"></div>
+    <div id="preview-body" class="preview-body"></div>
+    <div class="sheet-actions">
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-preview')">Close</button>
     </div>
-    <div id="preview-content" class="preview-content"></div>
   </div>
 </div>
 
 <!-- Submit confirm -->
-<div class="sheet-overlay" id="sheet-submit-confirm" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">✝ Submit Mezmur</h3>
-    <div id="submit-summary" class="submit-summary"></div>
-    <!-- Quality checklist -->
-    <div class="quality-checklist" id="quality-checklist"></div>
+<div id="sheet-submit-confirm" class="sheet-overlay center-modal" onclick="closeSheet('sheet-submit-confirm')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Submit to GitHub?</div>
+    <div class="sheet-subtitle" id="submit-confirm-msg">This will push the hymn to the repository.</div>
     <div class="sheet-actions">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-submit-confirm')">Cancel</button>
-      <button class="sheet-btn-primary" id="btn-confirm-submit">Submit to GitHub ✝</button>
+      <button class="sheet-btn primary" id="submit-confirm-btn">Submit</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-submit-confirm')">Cancel</button>
     </div>
   </div>
 </div>
 
-<!-- Submitted success -->
-<div class="sheet-overlay" id="sheet-submitted" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <div style="text-align:center;padding:28px 0 8px">
-      <div style="font-size:52px;margin-bottom:12px">✝</div>
-      <h3 class="sheet-title">Submitted!</h3>
-      <p id="submitted-msg" class="sheet-desc"></p>
+<!-- Submitted -->
+<div id="sheet-submitted" class="sheet-overlay center-modal" onclick="closeSheet('sheet-submitted')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">✓ Submitted</div>
+    <div class="sheet-subtitle" id="submitted-msg">Hymn saved to GitHub.</div>
+    <div class="sheet-actions">
+      <button class="sheet-btn primary" onclick="closeSheet('sheet-submitted')">Done</button>
     </div>
-    <button class="sheet-btn-primary" id="submitted-ok" style="width:100%">Glory to God ✓</button>
   </div>
 </div>
 
 <!-- Duplicate warning -->
-<div class="sheet-overlay" id="sheet-dup" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">⚠ Similar Mezmur Found</h3>
-    <p class="sheet-desc" id="dup-msg"></p>
+<div id="sheet-dup" class="sheet-overlay center-modal" onclick="closeSheet('sheet-dup')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Possible Duplicate</div>
+    <div class="sheet-subtitle" id="dup-msg">A similar hymn may already exist.</div>
     <div class="sheet-actions">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-dup')">Cancel</button>
-      <button class="sheet-btn-secondary" id="dup-open">Open Existing</button>
-      <button class="sheet-btn-primary" id="dup-new">Submit as New</button>
+      <button class="sheet-btn primary"   id="dup-continue-btn">Continue Anyway</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-dup')">Cancel</button>
     </div>
   </div>
 </div>
 
 <!-- Pending sync -->
-<div class="sheet-overlay" id="sheet-pending" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">⚠ Pending Sync</h3>
-    <p class="sheet-desc">These submissions failed to reach GitHub and are saved locally.</p>
-    <div id="pending-list" class="pending-list"></div>
+<div id="sheet-pending" class="sheet-overlay center-modal" onclick="closeSheet('sheet-pending')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Pending Sync</div>
+    <div id="pending-list" style="font-size:14px;color:var(--t3);max-height:200px;overflow-y:auto;"></div>
     <div class="sheet-actions">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-pending')">Close</button>
-      <button class="sheet-btn-primary" id="btn-retry-pending">↻ Retry All</button>
+      <button class="sheet-btn primary"   onclick="syncNow();closeSheet('sheet-pending')">Sync Now</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-pending')">Close</button>
     </div>
   </div>
 </div>
 
-<!-- Admin setup sheet (GitHub init) -->
-<div class="sheet-overlay" id="sheet-admin" style="display:none">
-  <div class="sheet sheet-tall">
+<!-- Admin quick sheet -->
+<div id="sheet-admin" class="sheet-overlay bottom-sheet" onclick="closeSheet('sheet-admin')">
+  <div class="sheet-panel" onclick="event.stopPropagation()">
     <div class="sheet-handle"></div>
-    <h3 class="sheet-title">⚙ Admin</h3>
-    <p class="sheet-desc" style="font-family:monospace;font-size:12px">Branch: main</p>
-    <button class="sheet-item-btn" id="btn-init-files">✝ Create All Group Files on GitHub</button>
-    <div id="admin-init-log" class="admin-log"></div>
-    <div class="sheet-actions" style="margin-top:16px">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-admin')">Close</button>
-      <button class="sheet-btn-secondary" id="btn-open-admin-page">📊 Open Dashboard</button>
-      <button class="sheet-btn-danger" id="btn-logout">Log Out</button>
-    </div>
-  </div>
-</div>
-
-<!-- Clock-out confirm -->
-<div class="sheet-overlay" id="sheet-clockout" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">Clock Out</h3>
-    <p class="sheet-desc" id="clockout-summary"></p>
+    <div class="sheet-title">Quick Menu</div>
     <div class="sheet-actions">
-      <button class="sheet-cancel" onclick="closeSheet('sheet-clockout')">Cancel</button>
-      <button class="sheet-btn-primary" id="btn-confirm-clockout">✓ Confirm Clock Out</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-admin');showPage('page-admin')">Settings & Stats</button>
+      <button class="sheet-btn secondary" onclick="exportLocal()">Export Local Data</button>
+      <button class="sheet-btn secondary" id="pending-btn" onclick="closeSheet('sheet-admin');openSheet('sheet-pending')">View Pending</button>
+      <button class="sheet-btn danger"    onclick="logout()">Sign Out</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-admin')">Cancel</button>
     </div>
   </div>
 </div>
 
-<!-- Preview reminder (first time before submitting) -->
-<div class="sheet-overlay" id="sheet-preview-remind" style="display:none">
-  <div class="sheet">
-    <div class="sheet-handle"></div>
-    <h3 class="sheet-title">👁 Check Your Work First</h3>
-    <p class="sheet-desc">Before submitting, please preview the hymn and verify:</p>
-    <ul class="remind-list">
-      <li>✓ Tigrinya title and singer name are filled in Ge'ez script</li>
-      <li>✓ Lyrics match the book exactly — check spelling and punctuation</li>
-      <li>✓ Correct verse order and chorus placement</li>
-      <li>✓ No missing lines or broken formatting</li>
-      <li>✓ Correct group and subgroup selected</li>
-    </ul>
+<!-- Clock out confirm -->
+<div id="sheet-clockout" class="sheet-overlay center-modal" onclick="closeSheet('sheet-clockout')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Clock Out</div>
+    <div class="sheet-subtitle" id="clockout-msg">End your session?</div>
     <div class="sheet-actions">
-      <button class="sheet-cancel" id="remind-skip">Skip, Submit Anyway</button>
-      <button class="sheet-btn-primary" id="remind-preview">👁 Open Preview</button>
+      <button class="sheet-btn primary"   onclick="confirmClockOut()">Clock Out</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-clockout')">Cancel</button>
     </div>
   </div>
 </div>
 
-<!-- Toast -->
-<div class="toast" id="toast"></div>
+<!-- Preview remind -->
+<div id="sheet-preview-remind" class="sheet-overlay center-modal" onclick="closeSheet('sheet-preview-remind')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Review Before Submit</div>
+    <div class="sheet-subtitle">Please preview the hymn to confirm it looks correct before submitting.</div>
+    <div class="sheet-actions">
+      <button class="sheet-btn primary"   onclick="closeSheet('sheet-preview-remind');openPreview()">Open Preview</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-preview-remind');forceSubmit()">Submit Anyway</button>
+    </div>
+  </div>
+</div>
 
-<noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript.</div></noscript>
-<script src="app.js?v=7"></script>
+<!-- ─── TOAST ──────────────────────────────────────────────── -->
+<div id="toast"></div>
+
+<script src="app.js?v=8"></script>
 </body>
 </html>
