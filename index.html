@@ -6,16 +6,16 @@
   <meta name="apple-mobile-web-app-capable" content="yes"/>
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"/>
   <title>ዋዜማ · Wazema</title>
-  <link rel="stylesheet" href="styles.css?v=8"/>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Serif+Ethiopic:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css?v=10"/>
 </head>
 <body>
 
 <!-- ═══════════════════════════════════════
      PAGE: LOGIN
 ════════════════════════════════════════ -->
-<div id="page-login" class="page" style="display:flex">
+<div id="page-login" class="page" style="display:flex;flex-direction:column">
   <div class="login-wrap">
     <div class="login-cross" data-admin-tap>✝</div>
     <h1 class="login-title" data-admin-tap>ዋዜማ</h1>
@@ -224,7 +224,7 @@
       <h3 class="sheet-title">Submitted!</h3>
       <p id="submitted-msg" class="sheet-desc"></p>
     </div>
-    <button class="sheet-btn-primary" id="submitted-ok" style="width:100%" onclick="onSubmitOk()">Glory to God ✓</button>
+    <button class="sheet-btn-primary" id="submitted-ok" style="width:100%">Glory to God ✓</button>
   </div>
 </div>
 
@@ -309,6 +309,6 @@
 <div class="toast" id="toast"></div>
 
 <noscript><div style="color:white;padding:40px;text-align:center;font-size:18px">Please enable JavaScript.</div></noscript>
-<script src="app.js?v=6"></script>
+<script src="app.js?v=7"></script>
 </body>
 </html>
