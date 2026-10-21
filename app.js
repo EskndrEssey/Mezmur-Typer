@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v9
+   WAZEMA · app.js v10
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
-   Paste-block verses · verse.prefix · single special lines
+   New 6-group taxonomy · per-lang zemari dropdown · multi-select subgroups
    ═══════════════════════════════════════════════════════════ */
 'use strict';
 
@@ -28,17 +28,78 @@ const COLORS = [
 ];
 
 const GROUP_TAXONOMY = [
-  { key:'mezmur',     label:'Mezmur',               file:'mezmur.json',     subgroups:['ፍቅሪ','ስብሓት','ምስጋና'] },
-  { key:'qidase',     label:'Qidase',               file:'qidase.json',     subgroups:['ቅዱስ ዮሃንስ','ቅዱስ ያዕቆብ'] },
-  { key:'mihlla',     label:'Mihlla',               file:'mihlla.json',     subgroups:[] },
-  { key:'mewasit',    label:'Mewasit',              file:'mewasit.json',    subgroups:[] },
-  { key:'atsme_saat', label:'Atsme Saat',           file:'atsme_saat.json', subgroups:[] },
-  { key:'deggua',     label:'Deggua',               file:'deggua.json',     subgroups:[] },
-  { key:'special',    label:'Special Occasions',    file:'special.json',    subgroups:['ልደት','ትንሳኤ','ጥምቀት'] },
-  { key:'marian',     label:'Marian Hymns',         file:'marian.json',     subgroups:[] },
-  { key:'saints',     label:'Saints',               file:'saints.json',     subgroups:[] },
-  { key:'youth',      label:'Youth / Sunday School',file:'youth.json',      subgroups:[] },
-  { key:'other',      label:'Other',                file:'other.json',      subgroups:[] },
+  {
+    key: 'feasts', label: 'Dominical Feasts', labelGeez: 'በዓላተ እግዚእ', file: 'feasts.json',
+    subgroups: [
+      { id:'timket',       name_geez:'ጥምቀት',            name_en:'Timket / Theophany' },
+      { id:'lidet',        name_geez:'ልደት',             name_en:'Lidet / Nativity' },
+      { id:'hosaena',      name_geez:'ሆሣዕና',            name_en:"Hosa'ena / Palm Sunday" },
+      { id:'tinsae',       name_geez:'ትንሣኤ',            name_en:'Tinsae / Easter' },
+      { id:'erget',        name_geez:'ዕርገት',            name_en:'Erget / Ascension' },
+      { id:'peraqlitos',   name_geez:'ጰራቅሊጦስ',         name_en:'Peraqlitos / Pentecost' },
+      { id:'debre_tabor',  name_geez:'ደብረ ታቦር',        name_en:'Debre Tabor / Buhe' },
+      { id:'meskel',       name_geez:'መስቀል',            name_en:'Meskel / Finding of Cross' },
+      { id:'qana_zegelila',name_geez:'ቃና ዘገሊላ',        name_en:'Qana ZeGelila / Cana' },
+      { id:'other_feasts', name_geez:'ካልኦት በዓላት',     name_en:'Other Feasts' },
+    ]
+  },
+  {
+    key: 'tsome', label: 'Tsome / Fasts', labelGeez: 'ጾም', file: 'tsome.json',
+    subgroups: [
+      { id:'abiy_tsom',       name_geez:'ዓቢይ ጾም',         name_en:'Abiy Tsom / Great Lent' },
+      { id:'semune_himamat',  name_geez:'ሰሙነ ሕማማት',      name_en:'Semune Himamat / Holy Week' },
+      { id:'siklet',          name_geez:'ዓርበ ስቅለት',       name_en:'Siqlet / Good Friday' },
+      { id:'nenewe',          name_geez:'ጾመ ነነዌ',         name_en:'Tsome Nenewe / Nineveh' },
+      { id:'hawaryat',        name_geez:'ጾመ ሐዋርያት',      name_en:'Tsome Hawaryat / Apostles' },
+      { id:'filseta_fast',    name_geez:'ጾመ ፍልሰታ',       name_en:'Tsome Filseta / Assumption' },
+      { id:'nebiyat',         name_geez:'ጾመ ነቢያት',       name_en:'Tsome Nebiyat / Advent' },
+      { id:'tsige',           name_geez:'ዘመነ ጽጌ',        name_en:'Zemene Tsige / Flowers' },
+      { id:'other_tsome',     name_geez:'ካልኦት ኣጽዋማት',   name_en:'Other Fasts' },
+    ]
+  },
+  {
+    key: 'st_mary', label: 'Holy Virgin Mary', labelGeez: 'ቅድስት ድንግል ማርያም', file: 'st_mary.json',
+    subgroups: [
+      { id:'kidane_mehret',  name_geez:'ኪዳነ ምሕረት',          name_en:'Kidane Mehret / Covenant' },
+      { id:'filseta_mary',   name_geez:'ፍልሰታ ለማርያም',       name_en:'Filseta / Assumption' },
+      { id:'lideta_mary',    name_geez:'ልደታ ለማርያም',        name_en:'Lideta / Nativity of Mary' },
+      { id:'baeta_mary',     name_geez:"ባዕታ ለማርያም",        name_en:"Ba'eta / Presentation" },
+      { id:'other_mary',     name_geez:'ካልኦት በዓላት ማርያም',  name_en:'Other Mary Feasts' },
+    ]
+  },
+  {
+    key: 'angels', label: 'Holy Angels & Archangels', labelGeez: 'ቅዱሳን መላእክት', file: 'angels.json',
+    subgroups: [
+      { id:'mikael',        name_geez:'ቅዱስ ሚካኤል',  name_en:'Kidus Mikael / Michael' },
+      { id:'gabriel',       name_geez:'ቅዱስ ገብርኤል', name_en:'Kidus Gabriel / Gabriel' },
+      { id:'rufael',        name_geez:'ቅዱስ ሩፋኤል',  name_en:'Kidus Rufael / Raphael' },
+      { id:'urael',         name_geez:'ቅዱስ ዑራኤል',  name_en:'Kidus Urael / Uriel' },
+      { id:'other_angels',  name_geez:'ካልኦት መላእክት',name_en:'Other Angels' },
+    ]
+  },
+  {
+    key: 'saints', label: 'Martyrs & Monastic Fathers', labelGeez: 'ሰማዕታት ወጻድቃን', file: 'saints.json',
+    subgroups: [
+      { id:'giyorgis',           name_geez:'ቅዱስ ጊዮርጊስ',           name_en:'Kidus Giyorgis / George' },
+      { id:'arsema',             name_geez:'ቅድስት አርሴማ',           name_en:'Qidist Arsema / Hripsime' },
+      { id:'tekle_haymanot',     name_geez:'አቡነ ተክለ ሃይማኖት',      name_en:'Tekle Haymanot' },
+      { id:'gebre_menfes_kidus', name_geez:'አቡነ ገብረ መንፈስ ቅዱስ',  name_en:'Gebre Menfes Kidus' },
+      { id:'yared',              name_geez:'ቅዱስ ያሬድ',             name_en:'Kidus Yared / St. Yared' },
+      { id:'other_saints',       name_geez:'ካልኦት ቅዱሳን',          name_en:'Other Saints' },
+    ]
+  },
+  {
+    key: 'general', label: 'General & Sacraments', labelGeez: 'ሓፈሻዊ', file: 'general.json',
+    subgroups: [
+      { id:'wedding',        name_geez:'ስርዓተ መርዓ',           name_en:'Wedding / Matrimony' },
+      { id:'burial',         name_geez:'ስርዓተ ቀብር',           name_en:'Burial / Hazen' },
+      { id:'nisha',          name_geez:'ስርዓተ ንስሓ',           name_en:'Nisha / Repentance' },
+      { id:'infant_baptism', name_geez:'ስርዓተ ጥምቀት ሕጻናት',  name_en:'Infant Baptism' },
+      { id:'holy_communion', name_geez:'ስርዓተ ቁርባን',         name_en:'Holy Communion' },
+      { id:'assembly',       name_geez:'ጉባኤና መክፈቲ',         name_en:'Assembly & Opening' },
+      { id:'other_tracks',   name_geez:'ካልኦት መዛሙር',        name_en:'Other Tracks' },
+    ]
+  },
 ];
 const ALL_GROUPS = GROUP_TAXONOMY.map(g => g.key);
 
@@ -76,7 +137,7 @@ function saveSessions(){ try { localStorage.setItem(SESSIONS_K,  JSON.stringify(
 
 // ── DATA MODEL ────────────────────────────────────────────
 function newLang() {
-  return { title:'', subtitle:'', chorus:'', verses:[], youtube:'', groupName:'' };
+  return { title:'', subtitle:'', chorus:'', verses:[], youtube:'', groupName:'', zemari:'' };
 }
 function newLine(t='') { return { text:t }; }
 
@@ -95,8 +156,8 @@ function newHymn(o={}) {
   const langs = {};
   LANGS.forEach(l => langs[l] = newLang());
   return {
-    id, groupKey:'', subgroups:[], zemari:'', color:'', status:'draft',
-    langs, langsinger:{},
+    id, groupKey:'', subgroups:[], color:'', status:'draft',
+    langs,
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
     ...o
@@ -105,10 +166,40 @@ function newHymn(o={}) {
 
 // Migrate older hymn data
 function migrateHymn(h) {
+  // Migrate old global zemari → per-lang zemari (copy to all langs that don't have one)
+  if (h.zemari) {
+    LANGS.forEach(l => {
+      if (h.langs[l] && !h.langs[l].zemari) h.langs[l].zemari = h.zemari;
+    });
+    delete h.zemari;
+  }
+  // Migrate old langsinger → per-lang zemari
+  if (h.langsinger) {
+    LANGS.forEach(l => {
+      const singer = h.langsinger[l];
+      if (singer && h.langs[l] && !h.langs[l].zemari) h.langs[l].zemari = singer;
+    });
+    delete h.langsinger;
+  }
+  // Migrate old string subgroups → id-based (attempt best-effort match by name_geez or name_en)
+  if (Array.isArray(h.subgroups)) {
+    h.subgroups = h.subgroups.map(s => {
+      if (typeof s === 'string') {
+        // try to find matching subgroup by Ge'ez name or English name
+        for (const g of GROUP_TAXONOMY) {
+          const match = g.subgroups.find(sg => sg.name_geez === s || sg.name_en === s || sg.id === s);
+          if (match) return match.id;
+        }
+        return null; // can't match, drop it
+      }
+      return s; // already an id string from new format
+    }).filter(Boolean);
+  }
   LANGS.forEach(l => {
     const ld = h.langs[l];
     if (!ld) return;
     if (!ld.verses) ld.verses = [];
+    if (ld.zemari === undefined) ld.zemari = '';
     ld.verses.forEach(v => {
       // flatten old array special lines to single string
       if (Array.isArray(v.specialBefore)) v.specialBefore = v.specialBefore.filter(Boolean).join(' ');
@@ -132,7 +223,6 @@ function migrateHymn(h) {
       });
     });
   });
-  if (!h.langsinger) h.langsinger = {};
   return h;
 }
 
@@ -160,8 +250,29 @@ function langHasBody(ld) {
   );
 }
 function gLabel(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.label || key || '—'; }
+function gLabelGeez(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.labelGeez || ''; }
 function gSubgroups(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.subgroups || []; }
 function gFile(key)  { return GROUP_TAXONOMY.find(g=>g.key===key)?.file || (key.toLowerCase()+'.json'); }
+// Get a subgroup object by id (across all groups)
+function gSubgroupById(id) {
+  for (const g of GROUP_TAXONOMY) {
+    const s = g.subgroups.find(sg => sg.id === id);
+    if (s) return s;
+  }
+  return null;
+}
+
+// Collect all unique zemari names across all hymns + all languages
+function getKnownZemari() {
+  const set = new Set();
+  hymns.forEach(h => {
+    LANGS.forEach(l => {
+      const z = h.langs[l]?.zemari?.trim();
+      if (z) set.add(z);
+    });
+  });
+  return Array.from(set).sort((a,b) => a.localeCompare(b));
+}
 
 // ── GITHUB PATHS ──────────────────────────────────────────
 function ghPath(groupKey) { return `${REPO.folder}/${gFile(groupKey)}`; }
@@ -272,7 +383,7 @@ function populateGroupFilters() {
   ['filter-group','catalog-group'].forEach(id => {
     const sel=el(id); if(!sel) return;
     sel.innerHTML = '<option value="">All Groups</option>' +
-      ALL_GROUPS.map(k=>`<option value="${k}">${esc(gLabel(k))}</option>`).join('');
+      GROUP_TAXONOMY.map(g=>`<option value="${g.key}">${esc(g.label)}</option>`).join('');
   });
 }
 
@@ -351,8 +462,8 @@ function renderList() {
     if (!q) return true;
     return LANGS.some(l=>{
       const ld=h.langs[l];
-      return (ld?.title||'').toLowerCase().includes(q)||(ld?.subtitle||'').toLowerCase().includes(q);
-    })||(h.zemari||'').toLowerCase().includes(q);
+      return (ld?.title||'').toLowerCase().includes(q)||(ld?.subtitle||'').toLowerCase().includes(q)||(ld?.zemari||'').toLowerCase().includes(q);
+    });
   });
   if (!filtered.length) {
     list.innerHTML=`<div class="list-empty"><strong>No hymns yet</strong>${q?'Try a different search.':'Tap "New Hymn" to get started.'}</div>`;
@@ -360,7 +471,9 @@ function renderList() {
   }
   list.innerHTML=filtered.map(h=>{
     const title=hymnTitle(h);
-    const sub=[h.groupKey?gLabel(h.groupKey):'',h.zemari||''].filter(Boolean).join(' · ');
+    // Show first available zemari name across languages
+    const firstZemari = LANGS.map(l=>h.langs[l]?.zemari?.trim()).find(Boolean) || '';
+    const sub=[h.groupKey?gLabel(h.groupKey):'',firstZemari].filter(Boolean).join(' · ');
     const dot=h.color?`background:${h.color}`:'';
     const badge=h.status==='published'?'published':'';
     const active=h.id===activeId?'active-hymn':'';
@@ -428,34 +541,43 @@ function renderEditor() {
   const area=el('editor-area'); if(!area) return;
 
   // ── META CARD ──
+  // Build group picker chips (single-select, 6 groups)
+  const groupChips = GROUP_TAXONOMY.map(g => {
+    const isActive = h.groupKey === g.key;
+    return `<button class="group-chip${isActive?' selected':''}" data-key="${g.key}" onclick="onGroupChipClick('${g.key}')">
+      <span class="group-chip-en">${esc(g.label)}</span>
+      <span class="group-chip-geez">${esc(g.labelGeez)}</span>
+    </button>`;
+  }).join('');
+
+  // Build subgroup chips (multi-select, for currently selected group)
+  const subs = gSubgroups(h.groupKey);
+  const subgroupSection = subs.length ? `
+    <div class="form-field">
+      <label>Subgroup <span class="field-hint">Select one or more</span></label>
+      <div class="subgroup-wrap" id="subgroup-wrap">
+        ${subs.map(s => {
+          const selected = h.subgroups?.includes(s.id) ? ' selected' : '';
+          return `<button class="subgroup-chip${selected}" data-id="${s.id}" onclick="toggleSubgroup('${s.id}')">
+            <span class="sg-geez">${esc(s.name_geez)}</span>
+            <span class="sg-en">${esc(s.name_en)}</span>
+          </button>`;
+        }).join('')}
+      </div>
+    </div>` : (h.groupKey ? '<div class="form-field"><label>Subgroup</label><div class="field-hint-row">No subgroups for this category.</div></div>' : '');
+
   let html=`
   <div class="section-card card-meta">
     <div class="section-card-header">
       <span class="section-card-title">Hymn Details</span>
     </div>
     <div class="form-field">
-      <label>Group</label>
-      <select id="meta-group" onchange="onGroupChange()">
-        <option value="">— Select Group —</option>
-        ${ALL_GROUPS.map(k=>`<option value="${k}"${h.groupKey===k?' selected':''}>${esc(gLabel(k))}</option>`).join('')}
-      </select>
-    </div>`;
-
-  const subs=gSubgroups(h.groupKey);
-  if (subs.length) {
-    html+=`<div class="form-field">
-      <label>Subgroup</label>
-      <div class="subgroup-wrap" id="subgroup-wrap">
-        ${subs.map(s=>`<button class="subgroup-chip${h.subgroups?.includes(s)?' selected':''}" onclick="toggleSubgroup('${s}')">${esc(s)}</button>`).join('')}
+      <label>Category <span class="field-hint">Pick one</span></label>
+      <div class="group-chips-wrap" id="group-chips-wrap">
+        ${groupChips}
       </div>
-    </div>`;
-  }
-
-  html+=`
-    <div class="form-field">
-      <label>Zemari (Cantor)</label>
-      <input id="meta-zemari" type="text" placeholder="Name of the singer" value="${esc(h.zemari||'')}"/>
     </div>
+    ${subgroupSection}
     <div class="form-field">
       <label>Status</label>
       <div class="status-row">
@@ -474,14 +596,22 @@ function renderEditor() {
   </div>`;
 
   // ── LANG CARD ──
+  // Build zemari datalist from all known names
+  const knownZemari = getKnownZemari();
+  const datalistId = `dl-zemari-${activeLang}`;
+  const zemariDatalist = `<datalist id="${datalistId}">${knownZemari.map(z=>`<option value="${esc(z)}">`).join('')}</datalist>`;
+
   html+=`
   <div class="section-card card-meta">
     <div class="section-card-header">
       <span class="section-card-title">${esc(LNAME[activeLang])}</span>
     </div>
     <div class="form-field">
-      <label>Singer (${esc(LSHORT[activeLang])})</label>
-      <input id="lang-singer" type="text" placeholder="Singer for this language" value="${esc(h.langsinger?.[activeLang]||'')}"/>
+      <label>Zemari — ${esc(LSHORT[activeLang])} <span class="field-hint">Select existing or type new name</span></label>
+      ${zemariDatalist}
+      <input id="lang-zemari" type="text" list="${datalistId}"
+        placeholder="e.g. Dawit Haile"
+        value="${esc(ld.zemari||'')}"/>
     </div>
     <div class="form-field">
       <label>Title</label>
@@ -646,25 +776,34 @@ function insertGeez(char) {
 }
 
 // ── FIELD CHANGE HANDLERS ─────────────────────────────────
-function onGroupChange() {
+function onGroupChipClick(key) {
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
-  h.groupKey=el('meta-group')?.value||'';
-  h.subgroups=[];
-  const wrap=el('subgroup-wrap');
-  if(wrap){
-    const subs=gSubgroups(h.groupKey);
-    wrap.innerHTML=subs.map(s=>
-      `<button class="subgroup-chip" onclick="toggleSubgroup('${s}')">${esc(s)}</button>`
-    ).join('');
+  if(h.groupKey===key){
+    // clicking the active group deselects it
+    h.groupKey=''; h.subgroups=[];
+  } else {
+    h.groupKey=key; h.subgroups=[];
   }
+  // Update group chip UI
+  document.querySelectorAll('.group-chip').forEach(c=>{
+    c.classList.toggle('selected', c.dataset.key===h.groupKey);
+  });
+  // Re-render subgroup section
+  const subs=gSubgroups(h.groupKey);
+  // Find subgroup form-field area (second form-field) and rebuild it
+  // Easiest to re-render the whole meta card area
+  const area=el('editor-area'); if(!area) return;
+  // Re-render only the subgroup wrap section without full re-render (avoid losing focus)
+  // We'll replace the subgroup section by re-rendering editor
+  renderEditor();
 }
-function toggleSubgroup(s) {
+function toggleSubgroup(id) {
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
   if(!h.subgroups) h.subgroups=[];
-  const i=h.subgroups.indexOf(s);
-  if(i>=0) h.subgroups.splice(i,1); else h.subgroups.push(s);
+  const i=h.subgroups.indexOf(id);
+  if(i>=0) h.subgroups.splice(i,1); else h.subgroups.push(id);
   document.querySelectorAll('.subgroup-chip').forEach(c=>{
-    c.classList.toggle('selected',h.subgroups.includes(c.textContent.trim()));
+    c.classList.toggle('selected', h.subgroups.includes(c.dataset.id));
   });
 }
 function setStatus(s) {
@@ -724,9 +863,7 @@ function saveActive() {
   if(get('lang-subtitle')!==null) ld.subtitle = get('lang-subtitle');
   if(get('lang-youtube')!==null)  ld.youtube  = get('lang-youtube');
   if(get('lang-chorus')!==null)   ld.chorus   = get('lang-chorus');
-  if(get('meta-zemari')!==null)   h.zemari    = get('meta-zemari');
-  if(get('meta-group')!==null)    h.groupKey  = get('meta-group');
-  if(get('lang-singer')!==null)   { if(!h.langsinger)h.langsinger={}; h.langsinger[activeLang]=get('lang-singer'); }
+  if(get('lang-zemari')!==null)   ld.zemari   = get('lang-zemari');
   // Commit paste blocks to lines
   (ld.verses||[]).forEach(v=>{ commitPasteBlock(v); });
   h.updatedAt=new Date().toISOString();
@@ -812,6 +949,7 @@ function previewLang(lang, tabEl) {
   let html='';
   if(ld.title)    html+=`<div class="preview-title">${esc(ld.title)}</div>`;
   if(ld.subtitle) html+=`<div class="preview-subtitle">${esc(ld.subtitle)}</div>`;
+  if(ld.zemari)   html+=`<div class="preview-zemari">⁂ ${esc(ld.zemari)}</div>`;
   if(ld.chorus)   html+=`<div class="preview-section-label">Chorus</div><div>${esc(ld.chorus).replace(/\n/g,'<br>')}</div>`;
   (ld.verses||[]).forEach((v,vi)=>{
     html+=`<div class="preview-section-label">Verse ${vi+1}</div>`;
