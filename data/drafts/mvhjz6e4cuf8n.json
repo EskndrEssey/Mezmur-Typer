@@ -1,0 +1,86 @@
+{
+  "id": "mvhjz6e4cuf8n",
+  "groupKey": "Gabriel",
+  "subgroups": [],
+  "zemari": "",
+  "color": "",
+  "status": "draft",
+  "langs": {
+    "en": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [
+        {
+          "lines": [
+            {
+              "prefix": "",
+              "text": ""
+            },
+            {
+              "prefix": "",
+              "text": ""
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "prefix": "",
+              "text": ""
+            },
+            {
+              "prefix": "",
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "youtube": "",
+      "groupName": ""
+    },
+    "ti": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "ti_ro": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "am": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "am_ro": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    },
+    "om": {
+      "title": "",
+      "subtitle": "",
+      "chorus": "",
+      "verses": [],
+      "youtube": "",
+      "groupName": ""
+    }
+  },
+  "langsinger": {},
+  "createdAt": "2026-10-21T03:29:01.468Z",
+  "updatedAt": "2026-10-21T03:29:01.468Z"
+}
