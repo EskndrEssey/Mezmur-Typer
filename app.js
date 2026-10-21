@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v10
+   WAZEMA · app.js v11
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
-   New 6-group taxonomy · per-lang zemari dropdown · multi-select subgroups
+   Multi-primary-group support · Wereb subgroup in all groups · per-group subgroup sections
    ═══════════════════════════════════════════════════════════ */
 'use strict';
 
@@ -27,6 +27,9 @@ const COLORS = [
   '#039be5','#3f51b5','#7986cb','#8e24aa','#e67c73'
 ];
 
+// Wereb subgroup appended to every group
+const WEREB_SUB = { id:'wereb', name_geez:'ወረብ', name_en:'Wereb' };
+
 const GROUP_TAXONOMY = [
   {
     key: 'feasts', label: 'Dominical Feasts', labelGeez: 'በዓላተ እግዚእ', file: 'feasts.json',
@@ -41,6 +44,7 @@ const GROUP_TAXONOMY = [
       { id:'meskel',       name_geez:'መስቀል',            name_en:'Meskel / Finding of Cross' },
       { id:'qana_zegelila',name_geez:'ቃና ዘገሊላ',        name_en:'Qana ZeGelila / Cana' },
       { id:'other_feasts', name_geez:'ካልኦት በዓላት',     name_en:'Other Feasts' },
+      WEREB_SUB,
     ]
   },
   {
@@ -55,6 +59,7 @@ const GROUP_TAXONOMY = [
       { id:'nebiyat',         name_geez:'ጾመ ነቢያት',       name_en:'Tsome Nebiyat / Advent' },
       { id:'tsige',           name_geez:'ዘመነ ጽጌ',        name_en:'Zemene Tsige / Flowers' },
       { id:'other_tsome',     name_geez:'ካልኦት ኣጽዋማት',   name_en:'Other Fasts' },
+      WEREB_SUB,
     ]
   },
   {
@@ -65,6 +70,7 @@ const GROUP_TAXONOMY = [
       { id:'lideta_mary',    name_geez:'ልደታ ለማርያም',        name_en:'Lideta / Nativity of Mary' },
       { id:'baeta_mary',     name_geez:"ባዕታ ለማርያም",        name_en:"Ba'eta / Presentation" },
       { id:'other_mary',     name_geez:'ካልኦት በዓላት ማርያም',  name_en:'Other Mary Feasts' },
+      WEREB_SUB,
     ]
   },
   {
@@ -75,6 +81,7 @@ const GROUP_TAXONOMY = [
       { id:'rufael',        name_geez:'ቅዱስ ሩፋኤል',  name_en:'Kidus Rufael / Raphael' },
       { id:'urael',         name_geez:'ቅዱስ ዑራኤል',  name_en:'Kidus Urael / Uriel' },
       { id:'other_angels',  name_geez:'ካልኦት መላእክት',name_en:'Other Angels' },
+      WEREB_SUB,
     ]
   },
   {
@@ -86,6 +93,7 @@ const GROUP_TAXONOMY = [
       { id:'gebre_menfes_kidus', name_geez:'አቡነ ገብረ መንፈስ ቅዱስ',  name_en:'Gebre Menfes Kidus' },
       { id:'yared',              name_geez:'ቅዱስ ያሬድ',             name_en:'Kidus Yared / St. Yared' },
       { id:'other_saints',       name_geez:'ካልኦት ቅዱሳን',          name_en:'Other Saints' },
+      WEREB_SUB,
     ]
   },
   {
@@ -98,6 +106,7 @@ const GROUP_TAXONOMY = [
       { id:'holy_communion', name_geez:'ስርዓተ ቁርባን',         name_en:'Holy Communion' },
       { id:'assembly',       name_geez:'ጉባኤና መክፈቲ',         name_en:'Assembly & Opening' },
       { id:'other_tracks',   name_geez:'ካልኦት መዛሙር',        name_en:'Other Tracks' },
+      WEREB_SUB,
     ]
   },
 ];
@@ -156,7 +165,7 @@ function newHymn(o={}) {
   const langs = {};
   LANGS.forEach(l => langs[l] = newLang());
   return {
-    id, groupKey:'', subgroups:[], color:'', status:'draft',
+    id, groupKeys:[], subgroups:[], color:'', status:'draft',
     langs,
     createdAt: new Date().toISOString(),
     updatedAt: new Date().toISOString(),
@@ -181,6 +190,13 @@ function migrateHymn(h) {
     });
     delete h.langsinger;
   }
+  // Migrate old single groupKey string → groupKeys array
+  if (h.groupKey && !h.groupKeys) {
+    h.groupKeys = [h.groupKey];
+    delete h.groupKey;
+  }
+  if (!Array.isArray(h.groupKeys)) h.groupKeys = [];
+
   // Migrate old string subgroups → id-based (attempt best-effort match by name_geez or name_en)
   if (Array.isArray(h.subgroups)) {
     h.subgroups = h.subgroups.map(s => {
@@ -458,7 +474,7 @@ function renderList() {
   const group=el('filter-group')?.value||'';
   const list =el('hymn-list'); if(!list) return;
   const filtered=hymns.filter(h=>{
-    if (group && h.groupKey!==group) return false;
+    if (group && !(h.groupKeys||[]).includes(group)) return false;
     if (!q) return true;
     return LANGS.some(l=>{
       const ld=h.langs[l];
@@ -473,7 +489,8 @@ function renderList() {
     const title=hymnTitle(h);
     // Show first available zemari name across languages
     const firstZemari = LANGS.map(l=>h.langs[l]?.zemari?.trim()).find(Boolean) || '';
-    const sub=[h.groupKey?gLabel(h.groupKey):'',firstZemari].filter(Boolean).join(' · ');
+    const groupLabels=(h.groupKeys||[]).map(k=>gLabel(k)).join(', ');
+    const sub=[groupLabels,firstZemari].filter(Boolean).join(' · ');
     const dot=h.color?`background:${h.color}`:'';
     const badge=h.status==='published'?'published':'';
     const active=h.id===activeId?'active-hymn':'';
@@ -541,21 +558,26 @@ function renderEditor() {
   const area=el('editor-area'); if(!area) return;
 
   // ── META CARD ──
-  // Build group picker chips (single-select, 6 groups)
+  // Build group picker chips (multi-select, 6 groups)
+  const selectedKeys = h.groupKeys || [];
   const groupChips = GROUP_TAXONOMY.map(g => {
-    const isActive = h.groupKey === g.key;
+    const isActive = selectedKeys.includes(g.key);
     return `<button class="group-chip${isActive?' selected':''}" data-key="${g.key}" onclick="onGroupChipClick('${g.key}')">
       <span class="group-chip-en">${esc(g.label)}</span>
       <span class="group-chip-geez">${esc(g.labelGeez)}</span>
     </button>`;
   }).join('');
 
-  // Build subgroup chips (multi-select, for currently selected group)
-  const subs = gSubgroups(h.groupKey);
-  const subgroupSection = subs.length ? `
-    <div class="form-field">
-      <label>Subgroup <span class="field-hint">Select one or more</span></label>
-      <div class="subgroup-wrap" id="subgroup-wrap">
+  // Build per-group subgroup sections for every selected group
+  const subgroupSections = selectedKeys.length ? selectedKeys.map(gk => {
+    const gDef = GROUP_TAXONOMY.find(g => g.key === gk);
+    if (!gDef) return '';
+    const subs = gDef.subgroups;
+    if (!subs.length) return '';
+    return `
+    <div class="form-field subgroup-group-section">
+      <label>${esc(gDef.label)} <span class="field-hint">Subgroups — select one or more</span></label>
+      <div class="subgroup-wrap" data-gkey="${gk}">
         ${subs.map(s => {
           const selected = h.subgroups?.includes(s.id) ? ' selected' : '';
           return `<button class="subgroup-chip${selected}" data-id="${s.id}" onclick="toggleSubgroup('${s.id}')">
@@ -564,7 +586,8 @@ function renderEditor() {
           </button>`;
         }).join('')}
       </div>
-    </div>` : (h.groupKey ? '<div class="form-field"><label>Subgroup</label><div class="field-hint-row">No subgroups for this category.</div></div>' : '');
+    </div>`;
+  }).join('') : '';
 
   let html=`
   <div class="section-card card-meta">
@@ -572,12 +595,12 @@ function renderEditor() {
       <span class="section-card-title">Hymn Details</span>
     </div>
     <div class="form-field">
-      <label>Category <span class="field-hint">Pick one</span></label>
+      <label>Category <span class="field-hint">Pick one or more</span></label>
       <div class="group-chips-wrap" id="group-chips-wrap">
         ${groupChips}
       </div>
     </div>
-    ${subgroupSection}
+    ${subgroupSections}
     <div class="form-field">
       <label>Status</label>
       <div class="status-row">
@@ -778,23 +801,17 @@ function insertGeez(char) {
 // ── FIELD CHANGE HANDLERS ─────────────────────────────────
 function onGroupChipClick(key) {
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
-  if(h.groupKey===key){
-    // clicking the active group deselects it
-    h.groupKey=''; h.subgroups=[];
+  if(!Array.isArray(h.groupKeys)) h.groupKeys=[];
+  const idx=h.groupKeys.indexOf(key);
+  if(idx>=0){
+    // deselect — remove this group; also remove any subgroups that only belong to this group
+    h.groupKeys.splice(idx,1);
+    const removedSubs=gSubgroups(key).map(s=>s.id);
+    h.subgroups=(h.subgroups||[]).filter(sid=>!removedSubs.includes(sid));
   } else {
-    h.groupKey=key; h.subgroups=[];
+    h.groupKeys.push(key);
   }
-  // Update group chip UI
-  document.querySelectorAll('.group-chip').forEach(c=>{
-    c.classList.toggle('selected', c.dataset.key===h.groupKey);
-  });
-  // Re-render subgroup section
-  const subs=gSubgroups(h.groupKey);
-  // Find subgroup form-field area (second form-field) and rebuild it
-  // Easiest to re-render the whole meta card area
-  const area=el('editor-area'); if(!area) return;
-  // Re-render only the subgroup wrap section without full re-render (avoid losing focus)
-  // We'll replace the subgroup section by re-rendering editor
+  // Re-render editor to show updated chips and subgroup sections
   renderEditor();
 }
 function toggleSubgroup(id) {
@@ -887,7 +904,7 @@ function forceSubmit() { doSubmit(); }
 function doSubmit() {
   saveActive();
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
-  if(!h.groupKey){ toast('Please set a group before submitting.','error'); return; }
+  if(!(h.groupKeys||[]).length){ toast('Please set at least one group before submitting.','error'); return; }
   el('submit-confirm-msg').textContent=`Submit "${hymnTitle(h)}" to the repository?`;
   el('submit-confirm-btn').onclick=confirmSubmit;
   openSheet('sheet-submit-confirm');
@@ -912,15 +929,19 @@ async function confirmSubmit() {
   }
 }
 async function pushHymnToGH(h) {
-  const path=ghPath(h.groupKey);
-  const f=await ghGet(path);
-  const sha=f?.sha;
-  const existing=f?decodeGH(f.content):[];
-  const arr=Array.isArray(existing)?existing:[];
-  const idx=arr.findIndex(x=>x.id===h.id);
-  if(idx>=0) arr[idx]=h; else arr.push(h);
+  const keys=(h.groupKeys||[]);
+  if(!keys.length) throw new Error('No group selected');
   const msg=`${h.status==='published'?'publish':'update'}: ${hymnTitle(h)} [${contributorName}]`;
-  await ghPut(path, arr, sha, msg);
+  for(const gk of keys){
+    const path=ghPath(gk);
+    const f=await ghGet(path);
+    const sha=f?.sha;
+    const existing=f?decodeGH(f.content):[];
+    const arr=Array.isArray(existing)?existing:[];
+    const idx=arr.findIndex(x=>x.id===h.id);
+    if(idx>=0) arr[idx]=h; else arr.push(h);
+    await ghPut(path, arr, sha, msg);
+  }
 }
 
 // ── PREVIEW ───────────────────────────────────────────────
@@ -988,7 +1009,7 @@ function renderCatalog() {
   const group=el('catalog-group')?.value||'';
   const list =el('catalog-list'); if(!list) return;
   const filtered=catalogHymns.filter(h=>{
-    if(group && h.groupKey!==group) return false;
+    if(group && !(h.groupKeys||[]).includes(group)) return false;
     if(!q) return true;
     return LANGS.some(l=>(h.langs[l]?.title||'').toLowerCase().includes(q));
   });
@@ -998,7 +1019,7 @@ function renderCatalog() {
   }
   list.innerHTML=filtered.map(h=>{
     const title=hymnTitle(h);
-    const sub=h.groupKey?gLabel(h.groupKey):'';
+    const sub=(h.groupKeys||[]).map(k=>gLabel(k)).join(', ');
     const dot=h.color?`background:${h.color}`:'';
     return `<div class="hymn-row" style="cursor:default;">
       <div class="hymn-color-dot" style="${dot}"></div>
