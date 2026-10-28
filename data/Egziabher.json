@@ -728,7 +728,7 @@
       "eg_sillase"
     ],
     "color": "#f4511e",
-    "status": "draft",
+    "status": "published",
     "langs": {
       "en": {
         "title": "Praise the Trinity",
@@ -866,7 +866,7 @@
             "specialAfter": ""
           }
         ],
-        "youtube": "",
+        "youtube": "https://www.youtube.com/watch?v=e2Std_wPULo&list=RDe2Std_wPULo&start_radio=1",
         "groupName": "",
         "zemari": "ቀሲስ ምንዳዬ ብርሃኑ"
       },
@@ -936,7 +936,7 @@
             "specialAfter": ""
           }
         ],
-        "youtube": "",
+        "youtube": "https://www.youtube.com/watch?v=e2Std_wPULo&list=RDe2Std_wPULo&start_radio=1",
         "groupName": "",
         "zemari": " Kesis Mindaye Birhanu"
       },
@@ -1011,7 +1011,7 @@
         "zemari": "ቀሲስ ምንዳዬ ብርሃኑ"
       },
       "am_ro": {
-        "title": "",
+        "title": "Silasen amesegnu",
         "subtitle": "",
         "chorus": "Silasen amesegnu (x2)\nYemidr fitretat zemru, elelu belu",
         "verses": [
@@ -1076,9 +1076,9 @@
             "specialAfter": ""
           }
         ],
-        "youtube": "",
+        "youtube": "https://youtu.be/00H3MJG5ImU",
         "groupName": "",
-        "zemari": ""
+        "zemari": "Kesis Mindaye Birhanu"
       },
       "om": {
         "title": "",
@@ -1091,6 +1091,6 @@
       }
     },
     "createdAt": "2026-10-28T23:11:37.062Z",
-    "updatedAt": "2026-10-28T23:37:36.186Z"
+    "updatedAt": "2026-10-28T23:45:07.415Z"
   }
 ]
