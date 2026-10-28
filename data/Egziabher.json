@@ -718,5 +718,379 @@
       "General"
     ],
     "category": "Egziabher"
+  },
+  {
+    "id": "mvsqayqtlh5no",
+    "groupKeys": [
+      "egziabher"
+    ],
+    "subgroups": [
+      "eg_sillase"
+    ],
+    "color": "#f4511e",
+    "status": "draft",
+    "langs": {
+      "en": {
+        "title": "Praise the Trinity",
+        "subtitle": "",
+        "chorus": "We will praise the Trinity (2)\nCreations of the world\nHonor God with hymnody",
+        "verses": [
+          {
+            "lines": [
+              {
+                "text": "To the Father the Son and the Holy Spirit"
+              },
+              {
+                "text": "We will give what is due worship for His merit"
+              },
+              {
+                "text": "The creator of all things a world that is sublime"
+              },
+              {
+                "text": "We shall praise night and day until the end of time"
+              }
+            ],
+            "pasteBlock": "To the Father the Son and the Holy Spirit\nWe will give what is due worship for His merit\nThe creator of all things a world that is sublime\nWe shall praise night and day until the end of time",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "Cherubim Seraphim offer worship to you"
+              },
+              {
+                "text": "Angels in the heavens sing to their God it's true"
+              },
+              {
+                "text": "The children of Adam singing to you since birth"
+              },
+              {
+                "text": "Calling upon Your name in the heavens and Earth"
+              }
+            ],
+            "pasteBlock": "Cherubim Seraphim offer worship to you\nAngels in the heavens sing to their God it's true\nThe children of Adam singing to you since birth\nCalling upon Your name in the heavens and Earth",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "If I hunger my Lord will feed me this I know"
+              },
+              {
+                "text": "My thirst will go away blessings He will bestow"
+              },
+              {
+                "text": "The Trinity is my protector and my grace"
+              },
+              {
+                "text": "Always guiding me through whatever I may face"
+              }
+            ],
+            "pasteBlock": "If I hunger my Lord will feed me this I know\nMy thirst will go away blessings He will bestow\nThe Trinity is my protector and my grace\nAlways guiding me through whatever I may face",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          }
+        ],
+        "youtube": "https://www.youtube.com/watch?v=JK6cvedeSJA&list=RDJK6cvedeSJA&start_radio=1",
+        "groupName": "",
+        "zemari": " Kesis Mindaye Birhanu"
+      },
+      "ti": {
+        "title": "ንሥላሴ ኣመስግኑ",
+        "subtitle": "",
+        "chorus": "ንሥላሴ ኣመስግኑ\nንሥላሴ ኣመስግኑ (2)\nናይ ምድሪ ፍጥረታት ዘምሩ ዕልል በሉ",
+        "verses": [
+          {
+            "lines": [
+              {
+                "text": "በስመ ኣብ ወወልድ ወመንፈስ ቅዱስ"
+              },
+              {
+                "text": "ምስጋና ይግባእ ንሥሉስ ቅዱስ"
+              },
+              {
+                "text": "ንዓለማት ኵሉ ዝፈጠረ ጐይታ"
+              },
+              {
+                "text": "ምስጋና ይግባእ ክሳብ መወዳእታ"
+              }
+            ],
+            "pasteBlock": "በስመ ኣብ ወወልድ ወመንፈስ ቅዱስ\nምስጋና ይግባእ ንሥሉስ ቅዱስ\nንዓለማት ኵሉ ዝፈጠረ ጐይታ\nምስጋና ይግባእ ክሳብ መወዳእታ",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "ሱራፌል ኪሩቤል ንዘመስግኑኻ"
+              },
+              {
+                "text": "መላእክት ኣብ ሰማይ ንዝውድሱኻ"
+              },
+              {
+                "text": "ንሕና ደቂ ኣዳም’ውን ንዝምረልካ"
+              },
+              {
+                "text": "ኣብ ሰማይ ኣብ ምድሪ ንጽውዕ ንስምካ"
+              }
+            ],
+            "pasteBlock": "ሱራፌል ኪሩቤል ንዘመስግኑኻ\nመላእክት ኣብ ሰማይ ንዝውድሱኻ\nንሕና ደቂ ኣዳም’ውን ንዝምረልካ\nኣብ ሰማይ ኣብ ምድሪ ንጽውዕ ንስምካ",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "እንተጠመኹ’ውን ብሥላሴ እጸግብ"
+              },
+              {
+                "text": "እንተ ጸማእኩ’ውን ብሥላሴ እረዊ"
+              },
+              {
+                "text": "ሥላሴ እምባ`ዩ መጸግዕየይ"
+              },
+              {
+                "text": "ንዓይ ይመርሓኒ ናይ እምነት ጎደና"
+              }
+            ],
+            "pasteBlock": "እንተጠመኹ’ውን ብሥላሴ እጸግብ\nእንተ ጸማእኩ’ውን ብሥላሴ እረዊ\nሥላሴ እምባ`ዩ መጸግዕየይ\nንዓይ ይመርሓኒ ናይ እምነት ጎደና",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          }
+        ],
+        "youtube": "",
+        "groupName": "",
+        "zemari": "ቀሲስ ምንዳዬ ብርሃኑ"
+      },
+      "ti_ro": {
+        "title": "Nəslase Amasgənu ",
+        "subtitle": "",
+        "chorus": "Neslase Amesegenu\nNeslase Amesegenu (x2)\nNay midri fitsratat zemru, ilil belu",
+        "verses": [
+          {
+            "lines": [
+              {
+                "text": "Besime Ab we Weld we Menfes Kidus"
+              },
+              {
+                "text": "Misgana yigiba ne Selus Kidus"
+              },
+              {
+                "text": "Ne alamati kulu zefetere Goyta"
+              },
+              {
+                "text": "Misgana yigiba kisab mewedaeta"
+              }
+            ],
+            "pasteBlock": "Besime Ab we Weld we Menfes Kidus\nMisgana yigiba ne Selus Kidus\nNe alamati kulu zefetere Goyta\nMisgana yigiba kisab mewedaeta",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "Surafel Kirubel nezi mesegneka"
+              },
+              {
+                "text": "Melaekt ab semayi nezi wedisuka"
+              },
+              {
+                "text": "Nihna deki Adam ewen nezimrelka"
+              },
+              {
+                "text": "Ab semayi ab midri netswe semka"
+              }
+            ],
+            "pasteBlock": "Surafel Kirubel nezi mesegneka\nMelaekt ab semayi nezi wedisuka\nNihna deki Adam ewen nezimrelka\nAb semayi ab midri netswe semka",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "Enta tsemeku'wun be Selase itsegib"
+              },
+              {
+                "text": "Enta tsemaeku ewen be Selase irewi"
+              },
+              {
+                "text": "Selase imba eyu metsegieyey"
+              },
+              {
+                "text": "Ney ay yimerhani nay imenet godena"
+              }
+            ],
+            "pasteBlock": "Enta tsemeku'wun be Selase itsegib\nEnta tsemaeku ewen be Selase irewi\nSelase imba eyu metsegieyey\nNey ay yimerhani nay imenet godena",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          }
+        ],
+        "youtube": "",
+        "groupName": "",
+        "zemari": " Kesis Mindaye Birhanu"
+      },
+      "am": {
+        "title": "ሥላሴን  አመስግኑ ",
+        "subtitle": "",
+        "chorus": "ሥላሴን  አመስግኑ (2)\nየምድር  ፍጥረታት  ዘምሩ  እልል በሉ",
+        "verses": [
+          {
+            "lines": [
+              {
+                "text": "በእስመ አብ  ወወልድ  ወመንፈስ  ቅዱስ"
+              },
+              {
+                "text": "ምሥጋና  ይገባል  ከምንም  በፊት"
+              },
+              {
+                "text": "ዓለማትን  ሁሉ  ለፈጠረው  ጌታ"
+              },
+              {
+                "text": "ምሥጋና  ይገባል  ከጥዋት  እስከ ማታ"
+              }
+            ],
+            "pasteBlock": "በእስመ አብ  ወወልድ  ወመንፈስ  ቅዱስ \nምሥጋና  ይገባል  ከምንም  በፊት \nዓለማትን  ሁሉ  ለፈጠረው  ጌታ \nምሥጋና  ይገባል  ከጥዋት  እስከ ማታ",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "ኪሩቤል  ሱራፌል  የሚያመሰግኑህ"
+              },
+              {
+                "text": "መላእክት  በሰማይ  ሚዘምሩልህ"
+              },
+              {
+                "text": "እኛም  የአዳም  ልጆች  እንዘምራለን"
+              },
+              {
+                "text": "በሰማይ  በምድር  እንጠራሀለን"
+              }
+            ],
+            "pasteBlock": "ኪሩቤል  ሱራፌል  የሚያመሰግኑህ \nመላእክት  በሰማይ  ሚዘምሩልህ\nእኛም  የአዳም  ልጆች  እንዘምራለን \nበሰማይ  በምድር  እንጠራሀለን",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "ብራብ  በሥላሴ  እጠግባለሁኝ"
+              },
+              {
+                "text": "ብጠማም  በአምላኬ  እረካለሁኝ"
+              },
+              {
+                "text": "ሥላሴ  አምባዬ  ክብሬም  ናቸውና"
+              },
+              {
+                "text": "ሁሌ  ይመሩኛል  በህይወት  ጎዳና"
+              }
+            ],
+            "pasteBlock": "ብራብ  በሥላሴ  እጠግባለሁኝ\nብጠማም  በአምላኬ  እረካለሁኝ \nሥላሴ  አምባዬ  ክብሬም  ናቸውና\nሁሌ  ይመሩኛል  በህይወት  ጎዳና",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          }
+        ],
+        "youtube": "",
+        "groupName": "",
+        "zemari": "ቀሲስ ምንዳዬ ብርሃኑ"
+      },
+      "am_ro": {
+        "title": "",
+        "subtitle": "",
+        "chorus": "Silasen amesegnu (x2)\nYemidr fitretat zemru, elelu belu",
+        "verses": [
+          {
+            "lines": [
+              {
+                "text": "Be’esme Ab weWeld weMenfes Kidus"
+              },
+              {
+                "text": "Misgana yibegal keminem befet"
+              },
+              {
+                "text": "Alematin hulu lefe’terew Geta"
+              },
+              {
+                "text": "Misgana yibegal ketewat eska mata"
+              }
+            ],
+            "pasteBlock": "Be’esme Ab weWeld weMenfes Kidus\nMisgana yibegal keminem befet\nAlematin hulu lefe’terew Geta\nMisgana yibegal ketewat eska mata",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "Kirubel, Serafel yemiyamesegeñih"
+              },
+              {
+                "text": "Mela’ekt besemay mizegmerulih"
+              },
+              {
+                "text": "Enyam yeAdam lijoch enzemralen"
+              },
+              {
+                "text": "Besemay bemedir enit’erañihalen"
+              }
+            ],
+            "pasteBlock": "Kirubel, Serafel yemiyamesegeñih\nMela’ekt besemay mizegmerulih\nEnyam yeAdam lijoch enzemralen\nBesemay bemedir enit’erañihalen",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          },
+          {
+            "lines": [
+              {
+                "text": "Birab beselasie eteg’eg’balhuñ"
+              },
+              {
+                "text": "Bit’etam bem’amlake erekalhuñ"
+              },
+              {
+                "text": "Selasie ambaye kibrem nachu-na"
+              },
+              {
+                "text": "Hule yimeruñal behiywot godana"
+              }
+            ],
+            "pasteBlock": "Birab beselasie eteg’eg’balhuñ\nBit’etam bem’amlake erekalhuñ\nSelasie ambaye kibrem nachu-na\nHule yimeruñal behiywot godana",
+            "prefix": "",
+            "specialBefore": "",
+            "specialAfter": ""
+          }
+        ],
+        "youtube": "",
+        "groupName": "",
+        "zemari": ""
+      },
+      "om": {
+        "title": "",
+        "subtitle": "",
+        "chorus": "",
+        "verses": [],
+        "youtube": "",
+        "groupName": "",
+        "zemari": ""
+      }
+    },
+    "createdAt": "2026-10-28T23:11:37.062Z",
+    "updatedAt": "2026-10-28T23:37:36.186Z"
   }
 ]
