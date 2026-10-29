@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v12
+   WAZEMA · app.js v14
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
    7-group taxonomy · Egziabher group added · multi-primary-group support
    ═══════════════════════════════════════════════════════════ */
@@ -113,17 +113,10 @@ const GROUP_TAXONOMY = [
   {
     key: 'egziabher', label: 'Egziabher / God', labelGeez: 'እግዚኣብሔር', file: 'Egziabher.json',
     subgroups: [
-      { id:'eg_mariam',         name_geez:'ማርያም',             name_en:'St. Mary' },
-      { id:'eg_michael',        name_geez:'ቅዱስ ሚካኤል',        name_en:'St. Michael' },
-      { id:'eg_gabriel',        name_geez:'ቅዱስ ገብርኤል',       name_en:'St. Gabriel' },
-      { id:'eg_giorgis',        name_geez:'ቅዱስ ጊዮርጊስ',       name_en:'St. George' },
-      { id:'eg_yohannes',       name_geez:'ቅዱስ ዮሓንስ',        name_en:'St. John' },
-      { id:'eg_sillase',        name_geez:'ሥሳሴ',              name_en:'Holy Trinity' },
-      { id:'eg_kidusn_abbot',   name_geez:'ቅዱሳን ኣቦት',        name_en:'Holy Fathers' },
-      { id:'eg_kidusn_melaikt', name_geez:'ቅዱሳን መላእኽት',     name_en:'Angels' },
-      { id:'eg_nissha',         name_geez:'ንስሓ',              name_en:'Repentance' },
-      { id:'eg_zewetr',         name_geez:'ዘወትር',             name_en:'Everyday' },
-      { id:'eg_mera',           name_geez:'መርዓ',              name_en:'Wedding' },
+      { id:'eg_medhanie_alem',  name_geez:'መድሃኔ ዓለም',        name_en:'Medhanie Alem / Savior' },
+      { id:'eg_sillase',        name_geez:'ስላሴ',              name_en:'Sillase / Holy Trinity' },
+      { id:'eg_ammanuel',       name_geez:'እማኑኤል',           name_en:'Ammanuel / Emmanuel' },
+      { id:'eg_general',        name_geez:'ሓፈሻዊ',             name_en:'General' },
       WEREB_SUB,
     ]
   },
@@ -310,6 +303,22 @@ function getKnownZemari() {
 
 // ── GITHUB PATHS ──────────────────────────────────────────
 function ghPath(groupKey) { return `${REPO.folder}/${gFile(groupKey)}`; }
+function hymnSlug(h) {
+  // Use romanized title (ti_ro or am_ro) to build a readable filename
+  const raw = h.langs?.ti_ro?.title || h.langs?.am_ro?.title || h.langs?.en?.title || h.id;
+  return raw
+    .toLowerCase()
+    .replace(/[''`]/g, '')          // strip apostrophes
+    .replace(/[^a-z0-9]+/g, '_')   // non-alphanumeric to underscore
+    .replace(/^_+|_+$/g, '')        // trim leading/trailing underscores
+    .slice(0, 60)                    // max 60 chars
+    || h.id;                         // fallback to id if empty
+}
+function ghHymnPath(h) {
+  // Accept either a hymn object or a plain id string (legacy calls)
+  if (typeof h === 'string') return `data/hymns/${h}.json`;
+  return `data/hymns/${hymnSlug(h)}.json`;
+}
 function ghSessionsPath() { return `${REPO.folder}/admin/sessions.json`; }
 function ghPowPath()      { return `${REPO.folder}/admin/pow.json`; }
 
@@ -572,6 +581,17 @@ function renderEditor() {
 
   const tl=el('editor-title-label');
   if(tl) tl.textContent=hymnTitle(h);
+
+  // Show hymn ID in editor nav so it's always visible
+  let idPill=el('editor-id-pill');
+  if(!idPill){
+    idPill=document.createElement('span');
+    idPill.id='editor-id-pill';
+    idPill.style.cssText='font-size:10px;font-family:monospace;color:var(--t3);background:var(--bg-inset);border-radius:4px;padding:2px 6px;max-width:120px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;flex-shrink:0;';
+    const nav=document.querySelector('.editor-nav');
+    if(nav) nav.insertBefore(idPill, nav.querySelector('#preview-btn'));
+  }
+  if(idPill) idPill.textContent=h.id;
 
   const area=el('editor-area'); if(!area) return;
 
@@ -919,11 +939,22 @@ function submitHymn() {
   doSubmit();
 }
 function forceSubmit() { doSubmit(); }
-function doSubmit() {
+async function doSubmit() {
   saveActive();
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
   if(!(h.groupKeys||[]).length){ toast('Please set at least one group before submitting.','error'); return; }
-  el('submit-confirm-msg').textContent=`Submit "${hymnTitle(h)}" to the repository?`;
+
+  // Check if this hymn ID already exists on GitHub — warn if so
+  let existsOnGH=false;
+  try {
+    const existing=await ghGet(ghHymnPath(h));
+    if(existing) existsOnGH=true;
+  } catch(_){}
+
+  const title=hymnTitle(h);
+  el('submit-confirm-msg').textContent=existsOnGH
+    ? `⚠️ "${title}" already exists on GitHub. Submitting will overwrite it. Are you sure?`
+    : `Submit "${title}" to the repository?`;
   el('submit-confirm-btn').onclick=confirmSubmit;
   openSheet('sheet-submit-confirm');
 }
@@ -938,8 +969,11 @@ async function confirmSubmit() {
     renderList(); renderStats();
     powLog.unshift({ contributor:contributorName, action:'submit', hymnId:h.id, title:hymnTitle(h), date:new Date().toISOString().slice(0,10) });
     savePOW();
-    el('submitted-msg').textContent=`"${hymnTitle(h)}" saved to GitHub ✓`;
+    const submittedTitle=hymnTitle(h);
+    el('submitted-msg').textContent=`"${submittedTitle}" saved to GitHub ✓`;
     openSheet('sheet-submitted');
+    // Auto-create a fresh hymn so the editor is never left on a submitted entry
+    setTimeout(()=>{ createHymn(); previewHadLook=false; }, 300);
   } catch(e) {
     toast('Submit failed: '+e.message,'error',4000);
     pendingSync.push({ id:h.id, title:hymnTitle(h), at:new Date().toISOString() });
@@ -947,19 +981,30 @@ async function confirmSubmit() {
   }
 }
 async function pushHymnToGH(h) {
-  const keys=(h.groupKeys||[]);
-  if(!keys.length) throw new Error('No group selected');
-  const msg=`${h.status==='published'?'publish':'update'}: ${hymnTitle(h)} [${contributorName}]`;
-  for(const gk of keys){
-    const path=ghPath(gk);
-    const f=await ghGet(path);
-    const sha=f?.sha;
-    const existing=f?decodeGH(f.content):[];
-    const arr=Array.isArray(existing)?existing:[];
-    const idx=arr.findIndex(x=>x.id===h.id);
-    if(idx>=0) arr[idx]=h; else arr.push(h);
-    await ghPut(path, arr, sha, msg);
-  }
+  if(!(h.groupKeys||[]).length) throw new Error('No group selected');
+  // Build clean data-2.0 payload — one file per hymn, flat path
+  const payload = {
+    id: h.id,
+    category:    (h.groupKeys||[])[0] || '',   // primary group key, lowercase
+    categories:  h.groupKeys || [],            // all group keys
+    subcategories: h.subgroups || [],          // subgroup IDs e.g. ["eg_medhanie_alem"]
+    title:       h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.title||''])) : {},
+    subtitle:    h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.subtitle||''])) : {},
+    lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.body||''])) : {},
+    youtubeUrls: h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.youtube||''])) : {},
+    singer:      h.langs?.ti?.zemari || h.langs?.am?.zemari || '',
+    status:      h.status || 'published',
+    metadata: {
+      contributor_name: contributorName,
+      created_at:  h.createdAt  || new Date().toISOString(),
+      updated_at:  h.updatedAt  || new Date().toISOString(),
+    }
+  };
+  const path = ghHymnPath(h);
+  const existing = await ghGet(path);
+  const sha = existing?.sha;
+  const msg = `${sha?'update':'publish'}: ${hymnTitle(h)} [${contributorName}]`;
+  await ghPut(path, payload, sha, msg);
 }
 
 // ── PREVIEW ───────────────────────────────────────────────
@@ -1016,9 +1061,23 @@ function deleteHymn() {
 // ── CATALOG ───────────────────────────────────────────────
 async function loadCatalogFromGH() {
   catalogHymns=[];
-  for(const g of ALL_GROUPS){
-    const data=await loadGHJson(ghPath(g));
-    if(Array.isArray(data)) catalogHymns.push(...data.map(migrateHymn));
+  // Data 2.0: read individual files from data/hymns/ directory listing
+  try {
+    const url=`https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/data/hymns?ref=${REPO.branch}`;
+    const r=await fetch(url,{headers:{Authorization:`token ${ghToken}`,Accept:'application/vnd.github+json'}});
+    if(r.ok){
+      const files=await r.json();
+      const jsonFiles=Array.isArray(files)?files.filter(f=>f.name.endsWith('.json')):[];
+      const results=await Promise.allSettled(jsonFiles.map(f=>loadGHJson(f.path)));
+      results.forEach(res=>{ if(res.status==='fulfilled'&&res.value) catalogHymns.push(migrateHymn(res.value)); });
+    }
+  } catch(_){}
+  // Fallback: also load legacy category array files if data/hymns/ is empty
+  if(!catalogHymns.length){
+    for(const g of ALL_GROUPS){
+      const data=await loadGHJson(ghPath(g));
+      if(Array.isArray(data)) catalogHymns.push(...data.map(migrateHymn));
+    }
   }
   if(document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
 }
