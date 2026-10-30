@@ -14,8 +14,8 @@
     "en": "",
     "ti": "መንክር ግርማ",
     "ti_ro": "Menker girma",
-    "am": "",
-    "am_ro": "",
+    "am":"መንክር ግርማ",
+    "am_ro": "Menker girma",
     "om": ""
   },
   "subtitle": {
@@ -28,18 +28,18 @@
   },
   "lyrics": {
     "en": "",
-    "ti": "",
-    "ti_ro": "",
-    "am": "",
-    "am_ro": "",
+    "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMenkere girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]",
+    "am": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
+    "am_ro": "[chorus]]\nMenkere girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]",
     "om": ""
   },
   "youtubeUrls": {
     "en": "",
     "ti": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
     "ti_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
-    "am": "",
-    "am_ro": "",
+    "am": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",,
+    "am_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",,
     "om": ""
   },
   "singer": "",
