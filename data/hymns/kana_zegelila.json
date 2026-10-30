@@ -1,0 +1,50 @@
+{
+  "id": "h_mmt6cyotqrk",
+  "category": "Mera",
+  "categories": [
+    "Mera",
+    "general"
+  ],
+  "subcategories": [
+    "wedding"
+  ],
+  "title": {
+    "en": "Cana of Galilee",
+    "ti": "ቃና ዘገሊላ",
+    "ti_ro": "Kana zegelila",
+    "am": "ቃና ዘገሊላ",
+    "am_ro": "Kana zegelila",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "https://youtu.be/hAoyUXx0mws?si=VqNmijHiLCI3cva6",
+    "ti": "https://www.youtube.com/watch?v=JVGw88y0Sgk",
+    "ti_ro": "https://www.youtube.com/watch?v=JVGw88y0Sgk",
+    "am": "https://www.youtube.com/watch?v=zGpX04ofBZg",
+    "am_ro": "https://www.youtube.com/watch?v=zGpX04ofBZg",
+    "om": ""
+  },
+  "singer": "ቀሲስ ምንዳዬ ብርሃኑ",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-10-21T02:39:48.955Z",
+    "updated_at": "2026-10-30T02:36:55.877Z"
+  }
+}
