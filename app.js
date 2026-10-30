@@ -404,9 +404,28 @@ function logout() {
 }
 
 // ── SHOW APP ──────────────────────────────────────────────
+function isHymnEmpty(h) {
+  if (!h) return true;
+  const hasTitle = LANGS.some(l => h.langs?.[l]?.title?.trim());
+  const hasBody  = LANGS.some(l => langHasBody(h.langs?.[l]));
+  return !hasTitle && !hasBody;
+}
+function purgeEmptyDrafts() {
+  // Keep at most one empty draft — remove all others
+  let kept = false;
+  hymns = hymns.filter(h => {
+    if (h.status === 'published') return true;
+    if (!isHymnEmpty(h)) return true;
+    if (!kept) { kept = true; return true; } // keep the first blank
+    return false; // drop extra blanks
+  });
+  save();
+}
+
 function showApp() {
   load();
   hymns = hymns.map(migrateHymn);
+  purgeEmptyDrafts();
   loadPOW(); loadPending(); loadSessions();
   try {
     const c = localStorage.getItem(CLOCK_KEY);
@@ -543,6 +562,9 @@ function renderStats() {
 
 // ── CREATE / OPEN ─────────────────────────────────────────
 function createHymn() {
+  // Reuse an existing blank draft instead of stacking up empty hymns
+  const existing = hymns.find(h => isHymnEmpty(h) && h.status !== 'published');
+  if (existing) { openEditor(existing.id); return; }
   const h=newHymn();
   hymns.unshift(h); save();
   renderList();
@@ -980,6 +1002,22 @@ async function confirmSubmit() {
     savePending();
   }
 }
+function serializeLyrics(ld) {
+  if (!ld) return '';
+  const parts = [];
+  if (ld.chorus?.trim()) parts.push('[[chorus]]\n' + ld.chorus.trim() + '\n[[/chorus]]');
+  (ld.verses || []).forEach(v => {
+    const text = v.pasteBlock?.trim()
+      ? v.pasteBlock.trim()
+      : (v.lines || []).map(ln => ln.text).filter(Boolean).join('\n');
+    if (!text) return;
+    if (v.specialBefore?.trim()) parts.push(v.specialBefore.trim());
+    parts.push(text);
+    if (v.specialAfter?.trim())  parts.push(v.specialAfter.trim());
+  });
+  return parts.join('\n\n');
+}
+
 async function pushHymnToGH(h) {
   if(!(h.groupKeys||[]).length) throw new Error('No group selected');
   // Build clean data-2.0 payload — one file per hymn, flat path
@@ -990,7 +1028,7 @@ async function pushHymnToGH(h) {
     subcategories: h.subgroups || [],          // subgroup IDs e.g. ["eg_medhanie_alem"]
     title:       h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.title||''])) : {},
     subtitle:    h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.subtitle||''])) : {},
-    lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.body||''])) : {},
+    lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, serializeLyrics(h.langs[l])])) : {},
     youtubeUrls: h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.youtube||''])) : {},
     singer:      h.langs?.ti?.zemari || h.langs?.am?.zemari || '',
     status:      h.status || 'published',
@@ -1000,6 +1038,9 @@ async function pushHymnToGH(h) {
       updated_at:  h.updatedAt  || new Date().toISOString(),
     }
   };
+  // Sanity check — if a language has content in the editor but serialized to empty, abort
+  const emptyLangs = LANGS.filter(l => h.langs?.[l] && langHasBody(h.langs[l]) && !payload.lyrics[l]);
+  if (emptyLangs.length) throw new Error(`Lyrics failed to serialize for: ${emptyLangs.join(', ')} — please report this bug`);
   const path = ghHymnPath(h);
   const existing = await ghGet(path);
   const sha = existing?.sha;
