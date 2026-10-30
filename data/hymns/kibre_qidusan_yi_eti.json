@@ -1,21 +1,20 @@
 {
-  "id": "h_mn9c6deegiw",
+  "id": "h_mn2sf9eavyy",
   "category": "Mariam",
   "categories": [
     "Mariam",
-    "general",
     "st_mary"
   ],
   "subcategories": [
-    "wedding",
-    "wereb"
+    "kidane_mehret",
+    "baeta_mary"
   ],
   "title": {
     "en": "",
-    "ti": "መንክር ግርማ",
-    "ti_ro": "Menker girma",
-    "am":"መንክር ግርማ",
-    "am_ro": "Menker girma",
+    "ti": "ክብረ ቅዱሳን ይእቲ",
+    "ti_ro": "Kibre qidusan yi-eti ",
+    "am": "ክብረ ቅዱሳን ይእቲ",
+    "am_ro": "Kibre qidusan yi-eti",
     "om": ""
   },
   "subtitle": {
@@ -28,25 +27,25 @@
   },
   "lyrics": {
     "en": "",
-    "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
-    "ti_ro": "[[chorus]]\nMenkere girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]",
-    "am": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ\nኣማን (2) መላእክት ይኬልልዋ (2)\n[[/chorus]]",
-    "am_ro": "[chorus]]\nMenkere girma hayle L’ul ts’elela\nAman (2) mela’ekt yikellilwa (2)\n[[/chorus]]",
+    "ti": "[[chorus]]\nክብረ ቅዱሳን ይእቲ (2)\nሙዳየ መና ግሩመ (2)\n[[/chorus]]\n\nሳኣሊ ለነ ሰላም ለኪ\nተማህፀነ በኪዳንኪ\nንዒ ርግብየ ምስለ ወልድኪ\nሰማይ ወምድር ያወድሱኪ\n\nክብረ ቅዱሳን ስለ ዝኮንኪ\nቅኔ ምስጋና ይግብኣኪ\nዝወለድክዮ ናይ ኂወት መና\nዝናም ዘለኪ ፈጣን ደመና\n\nትሕትና ፍቅሪ ፀጋ ዉህበትኪ\nጥንሲ ዘዝልል ሰላምታ ናትኪ\nእሳት ወሊድኪ እሳት ሓቂፍኪ\nኣይወግሕን ዩ ከይዘመርናልኪ\n\nናይ ጸሓይ ምብራቅ ስለ ዝኮነኪ\nርኢና ብርሃን ማርያም በኣኪ\nኣይጽልምትን ዩ ከቶ ሕይወትና\nወድኪ እንከሎ ብርሃን ጸሓይና\n\nሰኣሊ ለነ ሰላም ለኪ\nተማህፀነ በኪዳንኪ\nንዒ ርግብየ ምስለ ወልድኪ\nሰማይ ወምድር ያወድሱኪ",
+    "ti_ro": "[[chorus]]\nKibre qidusan yi-eti (2)\nMudaye mena grumme (2)\n[[/chorus]]\n\nSa’ali lene selam leki\nTemahtsene be-kidanki\nNei rigbiye mesle weldki\nSemay wemidr yawedsuki\n\nKibre qidusan sele zekonki\nQene misgana yigbaki\nZewelededkyo nay hiwet mena\nZenam zelleki fetan demena\n\nTihtina fqri tsega wihbetki\nTinsi zezelel selamta natki\nEsat welidki esat hakifki\nAyiwegehn yu keyzemernalki\n\nNay tsehay mibraq sele zekonki\nRieyna birhan Maryam bea’ki\nAyitsilmitn yu ketho hiywetna\nWedki enkelo birhan tsehayna\n\nSa’ali lene selam leki\nTemahtsene be-kidanki\nNei rigbiye mesle weldki\nSemay wemidr yawedsuki",
+    "am": "[[chorus]]\nክብረ ቅዱሳን ይእቲ (2)\nሙዳየ መና ግሩመ(2)\n[[/chorus]]\n\nየቅዱሳኑ ክብር ነሽና \nእንሰጥሻለን ክብር ምስጋና \nየወለድሽልን የሕይወት መና\nዝናብ ያለበት ታናሽ ደመና\n\nትትና ልብስሽ ፍቅር ውበትሽ \nፅንስ ያዘልላል ሰላምታ ድምፅሽ \nእሳቱን ወልደሽ እሳት አቅፈሻል \nስንዘምርልሽ መቼ ይመሻል\n\nየፀሀይ መውጫ ምስራቅ ሁነሽ \nታላቁን ብርሀን አየንብሽ \nአትጨልሚም ሕይወታችን \nልጅሽ ስላለ ፀሀያችን\n\nሰአሊለነ ሰላም እለኪ \nተማህፀነ ለኪ ዳነኪ \nንኢ ርግብየ ምስለ ወልድኪ \nሰማይ ወምድር ያውድ እስለኪ",
+    "am_ro": "[[chorus]]\nKibre qidusan yi-eti (2)\nMudaye mena grume (2)\n[[/chorus]]\n\nYe-qidusanu kibir neshna\nEnseteshalen qine misgana\nYeweledeshelen ye hiwot manna\nZinab yalebet tanash demena\n\nTihtina libsh fqr wibutshi\nTsenz yazelallal selamta dmtsh\nEsatun weldesh esat taqefeshal\nSanzemerelish meche yimeshal\n\nYetsehay mewecha misraq honesh\nTalaqun birehan ayenebishe\nAtichelemem hiwotachin\nLijish eskale tsehayachin\n\nSe’ali lene selam leki\nTemahetsena bekidaneki\nNe’ei regebeye misele weldeki\nSemaye wemedir yawedesuki",
     "om": ""
   },
   "youtubeUrls": {
     "en": "",
-    "ti": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
-    "ti_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",
-    "am": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",,
-    "am_ro": "https://youtu.be/pTNsUAWFxT4?list=RDpTNsUAWFxT4",,
+    "ti": "https://www.youtube.com/watch?v=m7tgke8uJG8",
+    "ti_ro": "https://www.youtube.com/watch?v=m7tgke8uJG8",
+    "am": "https://www.youtube.com/watch?v=et63HvVzpJ0",
+    "am_ro": "https://www.youtube.com/watch?v=et63HvVzpJ0",
     "om": ""
   },
-  "singer": "",
+  "singer": " ዘማሪ ፍስሀ ዘለቀ",
   "status": "published",
   "metadata": {
     "contributor_name": "eskndr",
-    "created_at": "2026-10-21T02:39:46.528Z",
-    "updated_at": "2026-10-30T01:23:08.609Z"
+    "created_at": "2026-10-21T02:39:48.955Z",
+    "updated_at": "2026-10-30T02:03:34.561Z"
   }
 }
