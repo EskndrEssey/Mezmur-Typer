@@ -289,12 +289,46 @@ function gSubgroupById(id) {
   return null;
 }
 
+// Canonical zemari name map — English/dirty variants → correct Tigrinya name.
+// Any value stored in a hymn that matches a key here gets normalized on read.
+const ZEMARI_CANONICAL = {
+  // junk
+  '!': null,
+  '?': null,
+  // English → Tigrinya
+  'Zemari Fisha Zeleke':               'ዘማሪ ፍስሀ ዘለቀ',
+  'Zemari Henok':                      'ዘማሪ ሄኖክ',
+  'Zemari Henok Fikadu':               'ዘማሪ ሄኖክ ፍቃዱ',
+  'Zemarit Bruktawit Gebremedhin':     'ዘማሪት ብሩኽታዊት ገብረመድህን',
+  'Zemarit Milka Bitew':               'ዘማሪት ሚልካ ቢተው',
+  'Deacon Nega Girmay':                'ዲያቆን ነጋ ግርማይ',
+  'Deacon Samson & Deacon Zeru':       'ዲ. ሳምሶን',   // keep one; Zeru can be added separately
+  'Kesis Mindaye Birhanu':             'ቀሲስ ምንዳዬ ብርሃኑ',
+  'Kesis Zemari Engdawork Bekele':     'ቀሲስ እንግዳወርቅ በቀለ',
+  'Original Singer: Kesis Mindaye Birhanu': 'ቀሲስ ምንዳዬ ብርሃኑ',
+  'Abrham mehari':                     'ዘማሪ አብርሃም ምሃሪ',
+  'Angosom Hadush':                    'ዘማሪ ኣንጎሶም ሃዱሽ',
+  'enko tesfey':                       'ዘማሪ እንኮ ተስፈይ',
+  'Ezra Hailemichael':                 'ዘማሪ እዝራ ሃይለሚካኤል',
+  'Rebekah Gordon':                    'ዘማሪት ሬቤካ ጎርዶን',
+  'Mirtnesh Tilahun ?':                null,   // incomplete — discard
+  'Z.Mael Tewelde':                    'ዘማሪ ዝማኤል ተወልደ',
+  'Zemari Dn. Abel Ybabe':             'ዘማሪ ዲ/ን ኣቤል ይባቤ',
+};
+
+function normalizeZemari(raw) {
+  if (!raw) return '';
+  const t = raw.trim();
+  if (t in ZEMARI_CANONICAL) return ZEMARI_CANONICAL[t] || '';
+  return t;
+}
+
 // Collect all unique zemari names across all hymns + all languages
 function getKnownZemari() {
   const set = new Set();
   hymns.forEach(h => {
     LANGS.forEach(l => {
-      const z = h.langs[l]?.zemari?.trim();
+      const z = normalizeZemari(h.langs[l]?.zemari);
       if (z) set.add(z);
     });
   });
@@ -534,7 +568,7 @@ function renderList() {
   list.innerHTML=filtered.map(h=>{
     const title=hymnTitle(h);
     // Show first available zemari name across languages
-    const firstZemari = LANGS.map(l=>h.langs[l]?.zemari?.trim()).find(Boolean) || '';
+    const firstZemari = LANGS.map(l=>normalizeZemari(h.langs[l]?.zemari)).find(Boolean) || '';
     const groupLabels=(h.groupKeys||[]).map(k=>gLabel(k)).join(', ');
     const sub=[groupLabels,firstZemari].filter(Boolean).join(' · ');
     const dot=h.color?`background:${h.color}`:'';
@@ -940,7 +974,7 @@ function saveActive() {
   if(get('lang-subtitle')!==null) ld.subtitle = get('lang-subtitle');
   if(get('lang-youtube')!==null)  ld.youtube  = get('lang-youtube');
   if(get('lang-chorus')!==null)   ld.chorus   = get('lang-chorus');
-  if(get('lang-zemari')!==null)   ld.zemari   = get('lang-zemari').trim();
+  if(get('lang-zemari')!==null)   ld.zemari   = normalizeZemari(get('lang-zemari'));
   // Commit paste blocks to lines
   (ld.verses||[]).forEach(v=>{ commitPasteBlock(v); });
   h.updatedAt=new Date().toISOString();
@@ -1030,7 +1064,7 @@ async function pushHymnToGH(h) {
     subtitle:    h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.subtitle||''])) : {},
     lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, serializeLyrics(h.langs[l])])) : {},
     youtubeUrls: h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.youtube||''])) : {},
-    singer:      (LANGS.map(l=>h.langs?.[l]?.zemari?.trim()).find(Boolean)) || '',
+    singer:      (LANGS.map(l=>normalizeZemari(h.langs?.[l]?.zemari)).find(Boolean)) || '',
     status:      h.status || 'published',
     metadata: {
       contributor_name: contributorName,
