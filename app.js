@@ -1,5 +1,5 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v14
+   WAZEMA · app.js v19
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
    7-group taxonomy · Egziabher group added · multi-primary-group support
    ═══════════════════════════════════════════════════════════ */
@@ -940,7 +940,7 @@ function saveActive() {
   if(get('lang-subtitle')!==null) ld.subtitle = get('lang-subtitle');
   if(get('lang-youtube')!==null)  ld.youtube  = get('lang-youtube');
   if(get('lang-chorus')!==null)   ld.chorus   = get('lang-chorus');
-  if(get('lang-zemari')!==null)   ld.zemari   = get('lang-zemari');
+  if(get('lang-zemari')!==null)   ld.zemari   = get('lang-zemari').trim();
   // Commit paste blocks to lines
   (ld.verses||[]).forEach(v=>{ commitPasteBlock(v); });
   h.updatedAt=new Date().toISOString();
@@ -1030,7 +1030,7 @@ async function pushHymnToGH(h) {
     subtitle:    h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.subtitle||''])) : {},
     lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, serializeLyrics(h.langs[l])])) : {},
     youtubeUrls: h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.youtube||''])) : {},
-    singer:      h.langs?.ti?.zemari || h.langs?.am?.zemari || '',
+    singer:      (LANGS.map(l=>h.langs?.[l]?.zemari?.trim()).find(Boolean)) || '',
     status:      h.status || 'published',
     metadata: {
       contributor_name: contributorName,
