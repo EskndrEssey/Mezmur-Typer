@@ -186,6 +186,12 @@ function newHymn(o={}) {
 
 // Migrate older hymn data
 function migrateHymn(h) {
+  // Migrate Data 2.0 top-level singer → per-lang zemari (if langs don't have one yet)
+  if (h.singer) {
+    LANGS.forEach(l => {
+      if (h.langs?.[l] && !h.langs[l].zemari) h.langs[l].zemari = h.singer;
+    });
+  }
   // Migrate old global zemari → per-lang zemari (copy to all langs that don't have one)
   if (h.zemari) {
     LANGS.forEach(l => {
@@ -334,6 +340,20 @@ function getKnownZemari() {
     });
   });
   return Array.from(set).sort((a,b) => a.localeCompare(b));
+}
+
+// Keep a single <datalist id="dl-zemari-global"> in document.body so it
+// survives innerHTML re-renders of the editor area and is always up to date.
+function refreshZemariDatalist() {
+  const id = 'dl-zemari-global';
+  let dl = document.getElementById(id);
+  if (!dl) {
+    dl = document.createElement('datalist');
+    dl.id = id;
+    document.body.appendChild(dl);
+  }
+  const names = getKnownZemari();
+  dl.innerHTML = names.map(z => `<option value="${esc(z)}">`).join('');
 }
 
 // ── GITHUB PATHS ──────────────────────────────────────────
@@ -714,10 +734,9 @@ function renderEditor() {
   </div>`;
 
   // ── LANG CARD ──
-  // Build zemari datalist from all known names
-  const knownZemari = getKnownZemari();
-  const datalistId = `dl-zemari-${activeLang}`;
-  const zemariDatalist = `<datalist id="${datalistId}">${knownZemari.map(z=>`<option value="${esc(z)}">`).join('')}</datalist>`;
+  // Zemari datalist — written directly to DOM so it survives innerHTML re-renders
+  const datalistId = 'dl-zemari-global';
+  refreshZemariDatalist();
 
   html+=`
   <div class="section-card card-meta">
@@ -726,7 +745,6 @@ function renderEditor() {
     </div>
     <div class="form-field">
       <label>Zemari — ${esc(LSHORT[activeLang])} <span class="field-hint">Select existing or type new name</span></label>
-      ${zemariDatalist}
       <input id="lang-zemari" type="text" list="${datalistId}"
         placeholder="e.g. Dawit Haile"
         value="${esc(ld.zemari||'')}"/>
@@ -1156,8 +1174,8 @@ async function loadCatalogFromGH() {
     }
   }
   if(document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
-  // Refresh editor so zemari datalist picks up catalog names
-  renderEditor();
+  // Update zemari datalist with catalog names without disrupting the editor
+  refreshZemariDatalist();
 }
 function renderCatalog() {
   const q    =(el('catalog-search')?.value||'').trim().toLowerCase();
