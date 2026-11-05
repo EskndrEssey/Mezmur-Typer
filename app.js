@@ -326,7 +326,8 @@ function normalizeZemari(raw) {
 // Collect all unique zemari names across all hymns + all languages
 function getKnownZemari() {
   const set = new Set();
-  hymns.forEach(h => {
+  // Pull from both local drafts AND the GitHub catalog
+  [...hymns, ...catalogHymns].forEach(h => {
     LANGS.forEach(l => {
       const z = normalizeZemari(h.langs[l]?.zemari);
       if (z) set.add(z);
@@ -1155,6 +1156,8 @@ async function loadCatalogFromGH() {
     }
   }
   if(document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
+  // Refresh editor so zemari datalist picks up catalog names
+  renderEditor();
 }
 function renderCatalog() {
   const q    =(el('catalog-search')?.value||'').trim().toLowerCase();
