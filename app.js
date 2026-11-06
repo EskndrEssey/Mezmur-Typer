@@ -1238,13 +1238,33 @@ async function syncNow() {
   renderStats();
 }
 function exportLocal() {
-  const data={ hymns, powLog, exportedAt:new Date().toISOString(), contributor:contributorName };
+  const exportedAt = new Date().toISOString();
+  const data={ hymns, powLog, exportedAt, contributor:contributorName };
   const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'});
   const a=document.createElement('a');
   a.href=URL.createObjectURL(blob);
-  a.download=`wazema_export_${new Date().toISOString().slice(0,10)}.json`;
+  a.download=`wazema_export_${exportedAt.slice(0,10)}.json`;
   a.click();
   closeSheet('sheet-admin');
+  // Log export to GitHub so all exports are tracked
+  logExportToGH(exportedAt);
+}
+
+async function logExportToGH(exportedAt) {
+  const path = `${REPO.folder}/admin/exports.json`;
+  const entry = {
+    contributor: contributorName,
+    exportedAt,
+    hymnCount: hymns.length,
+    userAgent: navigator.userAgent.slice(0,120)
+  };
+  try {
+    const f = await ghGet(path).catch(() => null);
+    const existing = f ? JSON.parse(atob(f.content.replace(/\n/g,''))) : [];
+    if (!Array.isArray(existing)) return;
+    existing.push(entry);
+    await ghPut(path, existing, f?.sha, `Export log: ${contributorName} ${exportedAt.slice(0,10)}`);
+  } catch(e) { console.warn('Export log failed', e); }
 }
 
 // ── ADMIN ─────────────────────────────────────────────────
