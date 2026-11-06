@@ -1,5 +1,19 @@
 [
   {
+    "contributor": "Training1",
+    "start": "2026-10-30T00:58:13.515Z",
+    "end": "2026-11-06T17:56:38.701Z",
+    "minutes": 11098,
+    "date": "2026-11-06"
+  },
+  {
+    "contributor": "Training1",
+    "action": "submit",
+    "hymnId": "mw5947aqirvy2",
+    "title": "ንሥላሴ ኣመስግኑ",
+    "date": "2026-11-06"
+  },
+  {
     "contributor": "eskndr",
     "start": "2026-10-30T02:45:28.496Z",
     "end": "2026-10-30T02:45:33.578Z",
@@ -11,48 +25,6 @@
     "start": "2026-10-30T00:59:31.520Z",
     "end": "2026-10-30T02:38:18.910Z",
     "minutes": 99,
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mmt6cyotqrk",
-    "title": "ቃና ዘገሊላ",
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mmvdl9wq6uk",
-    "title": "አግዚኣቢሄር ሓላዊና'ዩ",
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mn2sf9eavyy",
-    "title": "ክብረ ቅዱሳን ይእቲ",
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mn96j3l5a9d",
-    "title": "ከመስግኖ ስምካ ደጋጊመ",
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mn9c6deegiw",
-    "title": "መንክር ግርማ",
-    "date": "2026-10-30"
-  },
-  {
-    "contributor": "eskndr",
-    "action": "submit",
-    "hymnId": "h_mn4slwsd9pl",
-    "title": "ሰላም ለኪ ለኖህ ሓመሩ",
     "date": "2026-10-30"
   },
   {
