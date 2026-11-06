@@ -1,16 +1,30 @@
 [
   {
-    "contributor": "Training1",
-    "start": "2026-10-30T00:58:13.515Z",
-    "end": "2026-11-06T17:56:38.701Z",
-    "minutes": 11098,
+    "contributor": "Desta Mehari",
+    "start": "2026-11-06T21:03:22.105Z",
+    "end": "2026-11-06T21:03:37.942Z",
+    "minutes": 0,
+    "date": "2026-11-06"
+  },
+  {
+    "contributor": "Desta Mehari",
+    "action": "submit",
+    "hymnId": "mw5avup14y7k9",
+    "title": "ኣብ ልዕሊ ደመና",
+    "date": "2026-11-06"
+  },
+  {
+    "contributor": "Desta Mehari",
+    "action": "submit",
+    "hymnId": "mw5avup14y7k9",
+    "title": "ኣብ ልዕሊ ደመና",
     "date": "2026-11-06"
   },
   {
     "contributor": "Training1",
-    "action": "submit",
-    "hymnId": "mw5947aqirvy2",
-    "title": "ንሥላሴ ኣመስግኑ",
+    "start": "2026-10-30T00:58:13.515Z",
+    "end": "2026-11-06T17:56:38.701Z",
+    "minutes": 11098,
     "date": "2026-11-06"
   },
   {
