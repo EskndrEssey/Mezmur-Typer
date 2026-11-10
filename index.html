@@ -69,8 +69,8 @@
 
   <!-- ── TAB: EDITOR ──────────────────────────────────────── -->
   <div id="tab-editor" class="tab-content">
-    <!-- Toolbar -->
-    <div class="list-toolbar">
+    <!-- Toolbar — id="list-toolbar" lets app.js inject the sort control -->
+    <div id="list-toolbar" class="list-toolbar">
       <input id="search-inp" type="search" placeholder="Search hymns…" oninput="renderList()"/>
       <select id="filter-group" onchange="renderList()">
         <option value="">All Groups</option>
@@ -321,6 +321,6 @@
 <!-- ─── TOAST ──────────────────────────────────────────────── -->
 <div id="toast"></div>
 
-<script src="app.js?v=16"></script>
+<script src="app.js?v=20"></script>
 </body>
 </html>
