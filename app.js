@@ -257,34 +257,50 @@ function parseFlatLyricsToEditor(flatLyrics) {
   let chorus = '';
   let remaining = flatLyrics;
 
-  // Pull out [[chorus]]...[[/chorus]] block
+  // Pull out the FIRST [[chorus]]...[[/chorus]] block as the chorus field
   const chorusMatch = remaining.match(/\[\[chorus\]\]([\s\S]*?)\[\[\/chorus\]\]/i);
   if (chorusMatch) {
     chorus = chorusMatch[1].trim();
-    remaining = remaining.replace(chorusMatch[0], '').trim();
   }
 
-  // Strip [[highlight]] tags but keep content
+  // Remove ALL [[chorus]]...[[/chorus]] blocks from the verse text
+  remaining = remaining.replace(/\[\[chorus\]\][\s\S]*?\[\[\/chorus\]\]/gi, '').trim();
+
+  // Strip [[highlight]] tags but keep their content
   remaining = remaining.replace(/\[\[highlight\]\]([\s\S]*?)\[\[\/highlight\]\]/gi, '$1');
 
-  // Split on double newlines first; if that gives only 1 block try verse markers
+  // Split on double (or more) newlines into verse blocks
   let blocks = remaining.split(/\n{2,}/).map(b => b.trim()).filter(Boolean);
 
-  // If everything came back as one block, try splitting on "Verse N" / "ቅጽ N" markers
+  // If we still got just one block, try single newline groups separated by blank chorus-removed gaps
   if (blocks.length <= 1 && remaining.trim()) {
-    const verseMarker = remaining.split(/(?=\b(?:Verse|verse|ቅጽ|ሀ|ለ|ሐ|መ|ሰ)\s*\d*)/);
-    if (verseMarker.length > 1) blocks = verseMarker.map(b => b.trim()).filter(Boolean);
+    blocks = remaining.split(/\n/).map(b => b.trim()).filter(Boolean);
+    // Re-group consecutive lines into verse blocks (a verse = consecutive non-empty lines)
+    const regrouped = [];
+    let current = [];
+    for (const line of blocks) {
+      if (line) {
+        current.push(line);
+      } else if (current.length) {
+        regrouped.push(current.join('\n'));
+        current = [];
+      }
+    }
+    if (current.length) regrouped.push(current.join('\n'));
+    if (regrouped.length > 1) blocks = regrouped;
+    else blocks = [remaining.trim()];
   }
 
-  // Still one block — keep it as a single verse (all lyrics visible in textarea)
-  if (!blocks.length && remaining.trim()) blocks = [remaining.trim()];
-
-  const verses = blocks.map(block => {
+  const verses = blocks.filter(Boolean).map(block => {
     const v = newVerse();
-    v.pasteBlock = block;
+    // Commit the block immediately into individual lines — no raw blob left in pasteBlock
+    const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+    v.lines = lines.map(t => newLine(t));
+    v.pasteBlock = block; // keep for the textarea fallback display
     return v;
   });
-  return { chorus, verses };
+
+  return { chorus, verses: verses.length ? verses : [newVerse()] };
 }
 
 function draftToEditorHymn(catalogH) {
@@ -1013,7 +1029,11 @@ function renderVerseBlock(v, vi, gc) {
       <textarea class="paste-block-inp ${gc}"
         placeholder="Paste or type all lines here. Each line break becomes a separate line."
         data-vi="${vi}"
-        oninput="onPasteBlockChange(this,${vi})">${esc(v.pasteBlock||'')}</textarea>
+        oninput="onPasteBlockChange(this,${vi})">${esc(
+          (v.lines && v.lines.some(ln=>ln.text?.trim()))
+            ? v.lines.map(ln=>ln.text).filter(Boolean).join('\n')
+            : (v.pasteBlock||'')
+        )}</textarea>
     </div>
     <div class="special-lines-zone bottom-zone">
       <div class="special-zone-label">★ Closing Special Line</div>
@@ -1236,9 +1256,9 @@ function serializeLyrics(ld) {
   const parts = [];
   if (ld.chorus?.trim()) parts.push('[[chorus]]\n' + ld.chorus.trim() + '\n[[/chorus]]');
   (ld.verses || []).forEach(v => {
-    const text = v.pasteBlock?.trim()
-      ? v.pasteBlock.trim()
-      : (v.lines || []).map(ln => ln.text).filter(Boolean).join('\n');
+    // Prefer committed lines over raw pasteBlock — lines are always clean individual entries
+    const fromLines = (v.lines || []).map(ln => ln.text).filter(Boolean).join('\n');
+    const text = fromLines || v.pasteBlock?.trim() || '';
     if (!text) return;
     if (v.specialBefore?.trim()) parts.push(v.specialBefore.trim());
     parts.push(text);
