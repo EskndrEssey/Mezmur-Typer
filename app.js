@@ -1,13 +1,13 @@
 /* ═══════════════════════════════════════════════════════════
-   WAZEMA · app.js v20
+   WAZEMA · app.js v21
    Eritrean Orthodox Tewahedo Church Hymn Entry Tool
-   7-group taxonomy · dual-source catalog (hymns + drafts)
-   needs_review badges · sort-by-artist · draft auto-fill
+   PUBLIC MODE: catalog loads without login (public GitHub API)
+   CONTRIBUTOR MODE: unlocked by GitHub token for editing + submit
    ═══════════════════════════════════════════════════════════ */
 'use strict';
 
 // ── CONSTANTS ─────────────────────────────────────────────
-const REPO = { owner:'EskndrEssey', repo:'Mezmur-Typer', branch:'main', folder:'data' };
+const REPO = { owner:'EskndrEssey', repo:'Mezmur-Typer', branch:'main' };
 
 const LANGS   = ['en','ti','ti_ro','am','am_ro','om'];
 const LNAME   = { en:'English', ti:'Tigrinya', ti_ro:'Tigrinya (Rom.)', am:'Amharic', am_ro:'Amharic (Rom.)', om:'Afaan Oromo' };
@@ -28,7 +28,6 @@ const COLORS = [
   '#039be5','#3f51b5','#7986cb','#8e24aa','#e67c73'
 ];
 
-// Wereb subgroup appended to every group
 const WEREB_SUB = { id:'wereb', name_geez:'ወረብ', name_en:'Wereb' };
 
 const GROUP_TAXONOMY = [
@@ -132,14 +131,15 @@ let sessions        = [];
 let activeId        = null;
 let activeLang      = 'ti';
 let contributorName = '';
-let ghToken         = '';
+let ghToken         = '';           // empty = browse-only mode
 let clockedInAt     = null;
 let clockTimer      = null;
 let catalogHymns    = [];
 let geezFocusEl     = null;
 let draftTimer      = null;
 let previewHadLook  = false;
-let listSortBy      = 'recent'; // 'recent' | 'title' | 'artist'
+let listSortBy      = 'recent';     // 'recent' | 'title' | 'artist'
+let isContributor   = false;        // true once logged in with a token
 
 // ── UTILS ─────────────────────────────────────────────────
 function el(id) { return document.getElementById(id); }
@@ -166,10 +166,10 @@ function newLine(t='') { return { text:t }; }
 function newVerse() {
   return {
     lines:         [newLine()],
-    pasteBlock:    '',          // raw paste text — split into lines on save/preview
-    prefix:        '',          // repeats before every line (e.g. ሃሌሉያ)
-    specialBefore: '',          // single optional line before the verse
-    specialAfter:  '',          // single optional line after the verse
+    pasteBlock:    '',
+    prefix:        '',
+    specialBefore: '',
+    specialAfter:  '',
   };
 }
 
@@ -186,22 +186,18 @@ function newHymn(o={}) {
   };
 }
 
-// Migrate older hymn data
 function migrateHymn(h) {
-  // Migrate Data 2.0 top-level singer → per-lang zemari (if langs don't have one yet)
   if (h.singer) {
     LANGS.forEach(l => {
       if (h.langs?.[l] && !h.langs[l].zemari) h.langs[l].zemari = h.singer;
     });
   }
-  // Migrate old global zemari → per-lang zemari (copy to all langs that don't have one)
   if (h.zemari) {
     LANGS.forEach(l => {
       if (h.langs[l] && !h.langs[l].zemari) h.langs[l].zemari = h.zemari;
     });
     delete h.zemari;
   }
-  // Migrate old langsinger → per-lang zemari
   if (h.langsinger) {
     LANGS.forEach(l => {
       const singer = h.langsinger[l];
@@ -209,25 +205,21 @@ function migrateHymn(h) {
     });
     delete h.langsinger;
   }
-  // Migrate old single groupKey string → groupKeys array
   if (h.groupKey && !h.groupKeys) {
     h.groupKeys = [h.groupKey];
     delete h.groupKey;
   }
   if (!Array.isArray(h.groupKeys)) h.groupKeys = [];
-
-  // Migrate old string subgroups → id-based (attempt best-effort match by name_geez or name_en)
   if (Array.isArray(h.subgroups)) {
     h.subgroups = h.subgroups.map(s => {
       if (typeof s === 'string') {
-        // try to find matching subgroup by Ge'ez name or English name
         for (const g of GROUP_TAXONOMY) {
           const match = g.subgroups.find(sg => sg.name_geez === s || sg.name_en === s || sg.id === s);
           if (match) return match.id;
         }
-        return null; // can't match, drop it
+        return null;
       }
-      return s; // already an id string from new format
+      return s;
     }).filter(Boolean);
   }
   LANGS.forEach(l => {
@@ -236,14 +228,12 @@ function migrateHymn(h) {
     if (!ld.verses) ld.verses = [];
     if (ld.zemari === undefined) ld.zemari = '';
     ld.verses.forEach(v => {
-      // flatten old array special lines to single string
       if (Array.isArray(v.specialBefore)) v.specialBefore = v.specialBefore.filter(Boolean).join(' ');
       if (Array.isArray(v.specialAfter))  v.specialAfter  = v.specialAfter.filter(Boolean).join(' ');
       if (v.specialBefore === undefined) v.specialBefore = '';
       if (v.specialAfter  === undefined) v.specialAfter  = '';
       if (v.prefix        === undefined) v.prefix        = '';
       if (v.pasteBlock    === undefined) {
-        // build pasteBlock from existing lines so old data still shows up
         v.pasteBlock = (v.lines||[]).map(ln => {
           if (typeof ln === 'string') return ln;
           const parts = [ln.prefix, ln.text].filter(Boolean);
@@ -261,79 +251,48 @@ function migrateHymn(h) {
   return h;
 }
 
-// ── DRAFT FLAT-LYRICS → EDITOR MODEL ─────────────────────
-// Parses a flat lyrics string (with [[chorus]]...[[/chorus]] tags) into
-// the editor's chorus + verses[] structure so a draft hymn auto-fills.
+// ── DRAFT FLAT-LYRICS → EDITOR ────────────────────────────
 function parseFlatLyricsToEditor(flatLyrics) {
   if (!flatLyrics) return { chorus: '', verses: [] };
-
   let chorus = '';
   let remaining = flatLyrics;
-
-  // Extract [[chorus]]...[[/chorus]] block
   const chorusMatch = remaining.match(/\[\[chorus\]\]([\s\S]*?)\[\[\/chorus\]\]/i);
   if (chorusMatch) {
     chorus = chorusMatch[1].trim();
     remaining = remaining.replace(chorusMatch[0], '').trim();
   }
-
-  // Strip [[highlight]] tags (keep content)
   remaining = remaining.replace(/\[\[highlight\]\]([\s\S]*?)\[\[\/highlight\]\]/gi, '$1');
-
-  // Split remaining into verse blocks (double newline separators)
   const blocks = remaining.split(/\n{2,}/).map(b => b.trim()).filter(Boolean);
   const verses = blocks.map(block => {
     const v = newVerse();
     v.pasteBlock = block;
     return v;
   });
-
   return { chorus, verses };
 }
 
-// Convert a draft catalog hymn (flat Data 2.0 format) into the editor's
-// internal hymn model so all fields are pre-filled when opened.
 function draftToEditorHymn(catalogH) {
   const h = newHymn({ id: catalogH.id || uid() });
-
-  // Status
   h.status = 'draft';
-  h._fromDraft = true;  // marker so submit goes to data/hymns/ not data/drafts/
-
-  // Groups / subgroups — draft hymns may not have these yet, that's OK
+  h._fromDraft = true;
   h.groupKeys  = catalogH.groupKeys  || (catalogH.categories  ? [...catalogH.categories]  : []);
   h.subgroups  = catalogH.subgroups  || (catalogH.subcategories ? [...catalogH.subcategories] : []);
-
-  // Per-language fields
   LANGS.forEach(l => {
     const ld = h.langs[l];
-
-    // Title — drafts store titles in langs[l].title
-    ld.title = catalogH.langs?.[l]?.title || '';
-
-    // Zemari — drafts store it in langs[l].zemari; fallback to top-level singer
+    ld.title  = catalogH.langs?.[l]?.title  || catalogH.title?.[l]  || '';
     ld.zemari = normalizeZemari(catalogH.langs?.[l]?.zemari || catalogH.singer || '');
-
-    // YouTube — may be pre-filled or blank
-    ld.youtube = catalogH.langs?.[l]?.youtube || '';
-
-    // Lyrics — parse flat format into editor model
-    const flatLyrics = catalogH.langs?.[l]?.lyrics || '';
+    ld.youtube = catalogH.langs?.[l]?.youtube || catalogH.youtubeUrls?.[l] || '';
+    const flatLyrics = catalogH.langs?.[l]?.lyrics || catalogH.lyrics?.[l] || '';
     const { chorus, verses } = parseFlatLyricsToEditor(flatLyrics);
     ld.chorus = chorus;
     ld.verses = verses;
   });
-
-  h.createdAt = catalogH.createdAt || new Date().toISOString();
-  h.updatedAt = catalogH.updatedAt || new Date().toISOString();
-
-  // Carry needs_review flag for display
+  h.createdAt = catalogH.createdAt || catalogH.metadata?.created_at || new Date().toISOString();
+  h.updatedAt = catalogH.updatedAt || catalogH.metadata?.updated_at || new Date().toISOString();
   if (catalogH.needs_review) h.needs_review = catalogH.needs_review;
-
   return h;
 }
 
-// Split pasteBlock into lines array
 function commitPasteBlock(v) {
   if (!v.pasteBlock && v.pasteBlock !== 0) return;
   const raw = v.pasteBlock;
@@ -356,11 +315,10 @@ function langHasBody(ld) {
     v.specialBefore?.trim() || v.specialAfter?.trim()
   );
 }
-function gLabel(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.label || key || '—'; }
-function gLabelGeez(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.labelGeez || ''; }
-function gSubgroups(key) { return GROUP_TAXONOMY.find(g=>g.key===key)?.subgroups || []; }
-function gFile(key)  { return GROUP_TAXONOMY.find(g=>g.key===key)?.file || (key.toLowerCase()+'.json'); }
-// Get a subgroup object by id (across all groups)
+function gLabel(key)      { return GROUP_TAXONOMY.find(g=>g.key===key)?.label || key || '—'; }
+function gLabelGeez(key)  { return GROUP_TAXONOMY.find(g=>g.key===key)?.labelGeez || ''; }
+function gSubgroups(key)  { return GROUP_TAXONOMY.find(g=>g.key===key)?.subgroups || []; }
+function gFile(key)       { return GROUP_TAXONOMY.find(g=>g.key===key)?.file || (key.toLowerCase()+'.json'); }
 function gSubgroupById(id) {
   for (const g of GROUP_TAXONOMY) {
     const s = g.subgroups.find(sg => sg.id === id);
@@ -369,20 +327,15 @@ function gSubgroupById(id) {
   return null;
 }
 
-// Canonical zemari name map — English/dirty variants → correct Tigrinya name.
-// Any value stored in a hymn that matches a key here gets normalized on read.
 const ZEMARI_CANONICAL = {
-  // junk
-  '!': null,
-  '?': null,
-  // English → Tigrinya
+  '!': null, '?': null,
   'Zemari Fisha Zeleke':               'ዘማሪ ፍስሀ ዘለቀ',
   'Zemari Henok':                      'ዘማሪ ሄኖክ',
   'Zemari Henok Fikadu':               'ዘማሪ ሄኖክ ፍቃዱ',
   'Zemarit Bruktawit Gebremedhin':     'ዘማሪት ብሩኽታዊት ገብረመድህን',
   'Zemarit Milka Bitew':               'ዘማሪት ሚልካ ቢተው',
   'Deacon Nega Girmay':                'ዲያቆን ነጋ ግርማይ',
-  'Deacon Samson & Deacon Zeru':       'ዲ. ሳምሶን',   // keep one; Zeru can be added separately
+  'Deacon Samson & Deacon Zeru':       'ዲ. ሳምሶን',
   'Kesis Mindaye Birhanu':             'ቀሲስ ምንዳዬ ብርሃኑ',
   'Kesis Zemari Engdawork Bekele':     'ቀሲስ እንግዳወርቅ በቀለ',
   'Original Singer: Kesis Mindaye Birhanu': 'ቀሲስ ምንዳዬ ብርሃኑ',
@@ -391,7 +344,7 @@ const ZEMARI_CANONICAL = {
   'enko tesfey':                       'ዘማሪ እንኮ ተስፈይ',
   'Ezra Hailemichael':                 'ዘማሪ እዝራ ሃይለሚካኤል',
   'Rebekah Gordon':                    'ዘማሪት ሬቤካ ጎርዶን',
-  'Mirtnesh Tilahun ?':                null,   // incomplete — discard
+  'Mirtnesh Tilahun ?':                null,
   'Z.Mael Tewelde':                    'ዘማሪ ዝማኤል ተወልደ',
   'Zemari Dn. Abel Ybabe':             'ዘማሪ ዲ/ን ኣቤል ይባቤ',
 };
@@ -403,21 +356,17 @@ function normalizeZemari(raw) {
   return t;
 }
 
-// Collect all unique zemari names across all hymns + all languages
 function getKnownZemari() {
   const set = new Set();
-  // Pull from both local drafts AND the GitHub catalog
   [...hymns, ...catalogHymns].forEach(h => {
     LANGS.forEach(l => {
-      const z = normalizeZemari(h.langs[l]?.zemari);
+      const z = normalizeZemari(h.langs?.[l]?.zemari || h.singer || '');
       if (z) set.add(z);
     });
   });
   return Array.from(set).sort((a,b) => a.localeCompare(b));
 }
 
-// Keep a single <datalist id="dl-zemari-global"> in document.body so it
-// survives innerHTML re-renders of the editor area and is always up to date.
 function refreshZemariDatalist() {
   const id = 'dl-zemari-global';
   let dl = document.getElementById(id);
@@ -431,35 +380,44 @@ function refreshZemariDatalist() {
 }
 
 // ── GITHUB PATHS ──────────────────────────────────────────
-function ghPath(groupKey) { return `${REPO.folder}/${gFile(groupKey)}`; }
+function ghPath(groupKey) { return `data/${gFile(groupKey)}`; }
 function hymnSlug(h) {
-  // Use romanized title (ti_ro or am_ro) to build a readable filename
   const raw = h.langs?.ti_ro?.title || h.langs?.am_ro?.title || h.langs?.en?.title || h.id;
   return raw
     .toLowerCase()
-    .replace(/[''`]/g, '')          // strip apostrophes
-    .replace(/[^a-z0-9]+/g, '_')   // non-alphanumeric to underscore
-    .replace(/^_+|_+$/g, '')        // trim leading/trailing underscores
-    .slice(0, 60)                    // max 60 chars
-    || h.id;                         // fallback to id if empty
+    .replace(/[''`]/g, '')
+    .replace(/[^a-z0-9]+/g, '_')
+    .replace(/^_+|_+$/g, '')
+    .slice(0, 60)
+    || h.id;
 }
 function ghHymnPath(h) {
-  // Accept either a hymn object or a plain id string (legacy calls)
   if (typeof h === 'string') return `data/hymns/${h}.json`;
   return `data/hymns/${hymnSlug(h)}.json`;
 }
-function ghSessionsPath() { return `${REPO.folder}/admin/sessions.json`; }
-function ghPowPath()      { return `${REPO.folder}/admin/pow.json`; }
+function ghPowPath()      { return `data/admin/pow.json`; }
 
 // ── GITHUB API ────────────────────────────────────────────
-async function ghGet(path) {
+// Public read — no auth needed for public repos
+async function ghGetPublic(path) {
   const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/${path}?ref=${REPO.branch}`;
-  const r = await fetch(url, { headers:{ Authorization:`token ${ghToken}`, Accept:'application/vnd.github+json' }});
-  if (r.status===404) return null;
+  const headers = { Accept: 'application/vnd.github+json' };
+  if (ghToken) headers.Authorization = `token ${ghToken}`;
+  const r = await fetch(url, { headers });
+  if (r.status === 404) return null;
+  if (r.status === 403 || r.status === 429) {
+    // Rate limited — try without token
+    const r2 = await fetch(url, { headers: { Accept: 'application/vnd.github+json' } });
+    if (!r2.ok) throw new Error(`GitHub GET ${path}: ${r2.status}`);
+    return r2.json();
+  }
   if (!r.ok) throw new Error(`GitHub GET ${path}: ${r.status}`);
   return r.json();
 }
+
+// Authenticated write — requires token
 async function ghPut(path, contentObj, sha, msg) {
+  if (!ghToken) throw new Error('GitHub token required to write. Please log in.');
   const json = JSON.stringify(contentObj, null, 2);
   const b64  = btoa(unescape(encodeURIComponent(json)));
   const body = { message:msg, content:b64, branch:REPO.branch };
@@ -473,11 +431,17 @@ async function ghPut(path, contentObj, sha, msg) {
   if (!r.ok) { const e = await r.json().catch(()=>({})); throw new Error(e.message || `GitHub PUT ${path}: ${r.status}`); }
   return r.json();
 }
+
+// Alias for authenticated read (submit flow needs sha for existing files)
+async function ghGet(path) {
+  return ghGetPublic(path);
+}
+
 function decodeGH(b64) {
   return JSON.parse(decodeURIComponent(escape(atob(b64.replace(/\n/g,'')))));
 }
 async function loadGHJson(path) {
-  try { const f = await ghGet(path); return f ? decodeGH(f.content) : null; } catch(e) { return null; }
+  try { const f = await ghGetPublic(path); return f ? decodeGH(f.content) : null; } catch(e) { return null; }
 }
 
 // ── PAGE / TAB CONTROL ────────────────────────────────────
@@ -498,7 +462,7 @@ function switchTab(name) {
 function openSheet(id) { const s=el(id); if(s) s.style.display='flex'; }
 function closeSheet(id){ const s=el(id); if(s) s.style.display='none'; }
 
-// ── LOGIN ─────────────────────────────────────────────────
+// ── LOGIN (contributor mode) ──────────────────────────────
 async function submitLogin() {
   const nameEl=el('login-name'), tokEl=el('login-token'), errEl=el('login-err');
   const name=nameEl?.value.trim(), token=tokEl?.value.trim();
@@ -511,15 +475,22 @@ async function submitLogin() {
       headers:{ Authorization:`token ${token}`, Accept:'application/vnd.github+json' }
     });
     if (!r.ok) throw new Error('Invalid token or no repository access.');
-    contributorName=name; ghToken=token;
+    contributorName=name; ghToken=token; isContributor=true;
     try { localStorage.setItem(AUTH_KEY, JSON.stringify({name,token})); } catch(e){}
     sessionStorage.setItem(SESSION_K,'1');
-    showApp();
+    showApp(true);
   } catch(e) {
     showErr(errEl, e.message||'Login failed.');
     if (btn) { btn.disabled=false; btn.textContent='Enter ✝'; }
   }
 }
+
+// Browse without logging in
+function browseWithoutLogin() {
+  isContributor = false;
+  showApp(false);
+}
+
 function showErr(elRef, msg) {
   if (!elRef) return;
   elRef.textContent=msg; elRef.style.display='block';
@@ -527,7 +498,7 @@ function showErr(elRef, msg) {
 function logout() {
   try { localStorage.removeItem(AUTH_KEY); } catch(e){}
   sessionStorage.removeItem(SESSION_K);
-  contributorName=''; ghToken='';
+  contributorName=''; ghToken=''; isContributor=false;
   closeSheet('sheet-admin');
   showPage('page-login');
 }
@@ -540,18 +511,18 @@ function isHymnEmpty(h) {
   return !hasTitle && !hasBody;
 }
 function purgeEmptyDrafts() {
-  // Keep at most one empty draft — remove all others
   let kept = false;
   hymns = hymns.filter(h => {
     if (h.status === 'published') return true;
     if (!isHymnEmpty(h)) return true;
-    if (!kept) { kept = true; return true; } // keep the first blank
-    return false; // drop extra blanks
+    if (!kept) { kept = true; return true; }
+    return false;
   });
   save();
 }
 
-function showApp() {
+function showApp(contributor) {
+  isContributor = !!contributor;
   load();
   hymns = hymns.map(migrateHymn);
   purgeEmptyDrafts();
@@ -561,15 +532,38 @@ function showApp() {
     if (c) { const d=JSON.parse(c); clockedInAt=new Date(d.at); updateClockUI(); startClockTick(); }
   } catch(e){}
   showPage('page-list');
-  switchTab('editor');
+  switchTab('catalog');     // Start on Catalog so data is immediately visible
   renderList();
   renderStats();
   renderPOW();
-  loadCatalogFromGH();
+  updateContributorUI();
+  loadCatalogFromGH();      // Load catalog immediately — no token needed
   startDraftAutoSave();
   populateGroupFilters();
   renderAdminPage();
 }
+
+function updateContributorUI() {
+  // Show/hide contributor-only elements
+  const clockPill = el('clock-pill');
+  const newHymnBtn = document.querySelector('.new-hymn-btn');
+  const editorTab = el('nav-editor');
+  const loginBadge = el('login-badge');
+
+  if (isContributor) {
+    if (clockPill) clockPill.style.display = 'flex';
+    if (newHymnBtn) newHymnBtn.style.display = 'block';
+    if (editorTab) editorTab.style.display = '';
+    if (loginBadge) loginBadge.style.display = 'none';
+  } else {
+    // Browse mode — hide clock, editor tab, new hymn button
+    if (clockPill) clockPill.style.display = 'none';
+    if (newHymnBtn) newHymnBtn.style.display = 'none';
+    if (editorTab) editorTab.style.display = 'none';
+    if (loginBadge) loginBadge.style.display = 'flex';
+  }
+}
+
 function populateGroupFilters() {
   ['filter-group','catalog-group'].forEach(id => {
     const sel=el(id); if(!sel) return;
@@ -579,7 +573,10 @@ function populateGroupFilters() {
 }
 
 // ── CLOCK ─────────────────────────────────────────────────
-function clockAction() { if (!clockedInAt) clockIn(); else openClockOut(); }
+function clockAction() {
+  if (!isContributor) { promptLogin(); return; }
+  if (!clockedInAt) clockIn(); else openClockOut();
+}
 function clockIn() {
   if (clockedInAt) return;
   clockedInAt = new Date();
@@ -626,6 +623,7 @@ function updateClockUI() {
   }
 }
 async function uploadPOW() {
+  if (!ghToken) return;
   const f=await ghGet(ghPowPath()).catch(()=>null);
   const sha=f?.sha;
   const existing=f?decodeGH(f.content):[];
@@ -643,13 +641,23 @@ function toast(msg, type='', dur=2400) {
   t._t=setTimeout(()=>{ t.className=''; }, dur);
 }
 
+// ── PROMPT LOGIN ──────────────────────────────────────────
+function promptLogin() {
+  openSheet('sheet-login-prompt');
+}
+function goToLogin() {
+  closeSheet('sheet-login-prompt');
+  // If already on login page do nothing; else logout to get back there
+  showPage('page-login');
+}
+
 // ── LIST ──────────────────────────────────────────────────
 function renderList() {
   const q    =(el('search-inp')?.value||'').trim().toLowerCase();
   const group=el('filter-group')?.value||'';
   const list =el('hymn-list'); if(!list) return;
 
-  // Inject sort control if not already present
+  // Inject sort control
   const toolbar = el('list-toolbar');
   if (toolbar && !el('sort-by')) {
     const sortWrap = document.createElement('div');
@@ -675,7 +683,6 @@ function renderList() {
     });
   });
 
-  // Sort
   if (listSortBy === 'title') {
     filtered = [...filtered].sort((a,b) => hymnTitle(a).localeCompare(hymnTitle(b)));
   } else if (listSortBy === 'artist') {
@@ -688,15 +695,13 @@ function renderList() {
       return az.localeCompare(bz);
     });
   }
-  // 'recent' keeps natural insertion order (most recently created/edited first)
 
   if (!filtered.length) {
-    list.innerHTML=`<div class="list-empty"><strong>No hymns yet</strong>${q?'Try a different search.':'Tap "New Hymn" to get started.'}</div>`;
+    list.innerHTML=`<div class="list-empty"><strong>No hymns yet</strong>${q?'Try a different search.':'Tap "+ New Hymn" to get started.'}</div>`;
     return;
   }
   list.innerHTML=filtered.map(h=>{
     const title=hymnTitle(h);
-    // Show first available zemari name across languages
     const firstZemari = LANGS.map(l=>normalizeZemari(h.langs[l]?.zemari)).find(Boolean) || '';
     const groupLabels=(h.groupKeys||[]).map(k=>gLabel(k)).join(', ');
     const sub=[groupLabels,firstZemari].filter(Boolean).join(' · ');
@@ -731,7 +736,7 @@ function renderStats() {
 
 // ── CREATE / OPEN ─────────────────────────────────────────
 function createHymn() {
-  // Reuse an existing blank draft instead of stacking up empty hymns
+  if (!isContributor) { promptLogin(); return; }
   const existing = hymns.find(h => isHymnEmpty(h) && h.status !== 'published');
   if (existing) { openEditor(existing.id); return; }
   const h=newHymn();
@@ -740,6 +745,7 @@ function createHymn() {
   openEditor(h.id);
 }
 function openEditor(id) {
+  if (!isContributor) { promptLogin(); return; }
   activeId=id; activeLang='ti'; previewHadLook=false;
   showPage('page-editor');
   renderLangTabs();
@@ -752,20 +758,12 @@ function goBack() {
 }
 
 // ── IMPORT DRAFT FROM CATALOG ─────────────────────────────
-// Called from the catalog "Open in Editor" button on draft-source hymns.
-// Converts the flat catalog hymn into the editor model, adds to local hymns[],
-// then opens the editor.
 function importDraftToEditor(catalogId) {
-  // Check if already imported (avoid duplicates)
+  if (!isContributor) { promptLogin(); return; }
   const existing = hymns.find(h => h.id === catalogId);
-  if (existing) {
-    openEditor(existing.id);
-    return;
-  }
-
+  if (existing) { openEditor(existing.id); return; }
   const catalogH = catalogHymns.find(h => h.id === catalogId);
   if (!catalogH) { toast('Draft hymn not found', 'error'); return; }
-
   const h = draftToEditorHymn(catalogH);
   hymns.unshift(h);
   save();
@@ -796,7 +794,6 @@ function renderEditor() {
   const tl=el('editor-title-label');
   if(tl) tl.textContent=hymnTitle(h);
 
-  // Show hymn ID in editor nav so it's always visible
   let idPill=el('editor-id-pill');
   if(!idPill){
     idPill=document.createElement('span');
@@ -809,7 +806,6 @@ function renderEditor() {
 
   const area=el('editor-area'); if(!area) return;
 
-  // ── needs_review banner ──
   let reviewBanner = '';
   if (h.needs_review && h.needs_review.length) {
     const reasons = h.needs_review.join(', ');
@@ -820,8 +816,6 @@ function renderEditor() {
     </div>`;
   }
 
-  // ── META CARD ──
-  // Build group picker chips (multi-select, 6 groups)
   const selectedKeys = h.groupKeys || [];
   const groupChips = GROUP_TAXONOMY.map(g => {
     const isActive = selectedKeys.includes(g.key);
@@ -831,7 +825,6 @@ function renderEditor() {
     </button>`;
   }).join('');
 
-  // Build per-group subgroup sections for every selected group
   const subgroupSections = selectedKeys.length ? selectedKeys.map(gk => {
     const gDef = GROUP_TAXONOMY.find(g => g.key === gk);
     if (!gDef) return '';
@@ -851,6 +844,9 @@ function renderEditor() {
       </div>
     </div>`;
   }).join('') : '';
+
+  const datalistId = 'dl-zemari-global';
+  refreshZemariDatalist();
 
   let html = reviewBanner + `
   <div class="section-card card-meta">
@@ -881,11 +877,6 @@ function renderEditor() {
     </div>
   </div>`;
 
-  // ── LANG CARD ──
-  // Zemari datalist — written directly to DOM so it survives innerHTML re-renders
-  const datalistId = 'dl-zemari-global';
-  refreshZemariDatalist();
-
   html+=`
   <div class="section-card card-meta">
     <div class="section-card-header">
@@ -894,7 +885,7 @@ function renderEditor() {
     <div class="form-field">
       <label>Zemari — ${esc(LSHORT[activeLang])} <span class="field-hint">Select existing or type new name</span></label>
       <input id="lang-zemari" type="text" list="${datalistId}"
-        placeholder="e.g. Dawit Haile"
+        placeholder="e.g. ዘማሪ ዳዊት ሃይሌ"
         value="${esc(ld.zemari||'')}"/>
     </div>
     <div class="form-field">
@@ -911,7 +902,6 @@ function renderEditor() {
     </div>
   </div>`;
 
-  // ── CHORUS CARD ──
   html+=`
   <div class="section-card card-chorus ${gc}">
     <div class="section-card-header">
@@ -922,13 +912,11 @@ function renderEditor() {
     </div>
   </div>`;
 
-  // ── VERSES ──
   html+='<div id="verses-wrap">';
   (ld.verses||[]).forEach((v,vi)=>{ html+=renderVerseBlock(v,vi,gc); });
   html+='</div>';
   html+=`<button class="add-verse-btn" onclick="addVerse()">＋ Add Verse</button>`;
 
-  // ── PUBLISH ──
   html+=`
   <div class="section-card card-meta" style="margin-bottom:8px;">
     <div class="section-card-header"><span class="section-card-title">Publish</span></div>
@@ -946,13 +934,10 @@ function renderEditor() {
 function renderVerseBlock(v, vi, gc) {
   return `
   <div class="verse-block" id="verse-${vi}">
-
     <div class="verse-header">
       <span class="verse-number">Verse ${vi+1}</span>
       <button class="verse-del-btn" onclick="delVerse(${vi})">×</button>
     </div>
-
-    <!-- Opening special line -->
     <div class="special-lines-zone top-zone">
       <div class="special-zone-label">★ Opening Special Line</div>
       <input class="special-line-inp ${gc}" type="text"
@@ -960,8 +945,6 @@ function renderVerseBlock(v, vi, gc) {
         value="${esc(v.specialBefore||'')}"
         oninput="onSpecialChange(this,${vi},'before')"/>
     </div>
-
-    <!-- Verse prefix (repeats before every line) -->
     <div class="prefix-zone">
       <div class="prefix-zone-label">⟳ Line Prefix</div>
       <input class="prefix-inp ${gc}" type="text"
@@ -969,8 +952,6 @@ function renderVerseBlock(v, vi, gc) {
         value="${esc(v.prefix||'')}"
         oninput="onPrefixChange(this,${vi})"/>
     </div>
-
-    <!-- Paste block -->
     <div class="paste-zone ${gc}">
       <div class="paste-zone-label">Verse Lines — paste the full verse here</div>
       <textarea class="paste-block-inp ${gc}"
@@ -978,8 +959,6 @@ function renderVerseBlock(v, vi, gc) {
         data-vi="${vi}"
         oninput="onPasteBlockChange(this,${vi})">${esc(v.pasteBlock||'')}</textarea>
     </div>
-
-    <!-- Closing special line -->
     <div class="special-lines-zone bottom-zone">
       <div class="special-zone-label">★ Closing Special Line</div>
       <input class="special-line-inp ${gc}" type="text"
@@ -987,7 +966,6 @@ function renderVerseBlock(v, vi, gc) {
         value="${esc(v.specialAfter||'')}"
         oninput="onSpecialChange(this,${vi},'after')"/>
     </div>
-
   </div>`;
 }
 
@@ -998,7 +976,6 @@ function wireEditor() {
   const ld=h.langs[activeLang];
   const isGeez=GEEZ_LANGS.has(activeLang);
 
-  // Lang fields live sync
   const titleInp=el('lang-title');
   if(titleInp) titleInp.addEventListener('input',()=>{
     ld.title=titleInp.value;
@@ -1009,7 +986,6 @@ function wireEditor() {
   const ytInp=el('lang-youtube');
   if(ytInp) ytInp.addEventListener('input',()=>{ ld.youtube=ytInp.value; });
 
-  // Chorus
   const chorusTA=el('lang-chorus');
   if(chorusTA){
     autoResize(chorusTA);
@@ -1017,14 +993,12 @@ function wireEditor() {
     if(isGeez){ chorusTA.addEventListener('focus',()=>showGeezToolbar(chorusTA)); chorusTA.addEventListener('blur',hideGeezToolbarDelayed); }
   }
 
-  // Paste blocks
   area.querySelectorAll('textarea.paste-block-inp').forEach(ta=>{
     autoResize(ta);
     ta.addEventListener('input',()=>autoResize(ta));
     if(isGeez){ ta.addEventListener('focus',()=>showGeezToolbar(ta)); ta.addEventListener('blur',hideGeezToolbarDelayed); }
   });
 
-  // Special line inputs + prefix inputs
   area.querySelectorAll('input.special-line-inp, input.prefix-inp').forEach(inp=>{
     if(isGeez){ inp.addEventListener('focus',()=>showGeezToolbar(inp)); inp.addEventListener('blur',hideGeezToolbarDelayed); }
   });
@@ -1059,20 +1033,18 @@ function insertGeez(char) {
   el_.focus();
 }
 
-// ── FIELD CHANGE HANDLERS ─────────────────────────────────
+// ── FIELD HANDLERS ────────────────────────────────────────
 function onGroupChipClick(key) {
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
   if(!Array.isArray(h.groupKeys)) h.groupKeys=[];
   const idx=h.groupKeys.indexOf(key);
   if(idx>=0){
-    // deselect — remove this group; also remove any subgroups that only belong to this group
     h.groupKeys.splice(idx,1);
     const removedSubs=gSubgroups(key).map(s=>s.id);
     h.subgroups=(h.subgroups||[]).filter(sid=>!removedSubs.includes(sid));
   } else {
     h.groupKeys.push(key);
   }
-  // Re-render editor to show updated chips and subgroup sections
   renderEditor();
 }
 function toggleSubgroup(id) {
@@ -1142,7 +1114,6 @@ function saveActive() {
   if(get('lang-youtube')!==null)  ld.youtube  = get('lang-youtube');
   if(get('lang-chorus')!==null)   ld.chorus   = get('lang-chorus');
   if(get('lang-zemari')!==null)   ld.zemari   = normalizeZemari(get('lang-zemari'));
-  // Commit paste blocks to lines
   (ld.verses||[]).forEach(v=>{ commitPasteBlock(v); });
   h.updatedAt=new Date().toISOString();
 }
@@ -1158,16 +1129,17 @@ function startDraftAutoSave() {
 
 // ── SUBMIT ────────────────────────────────────────────────
 function submitHymn() {
+  if (!isContributor) { promptLogin(); return; }
   if(!previewHadLook){ openSheet('sheet-preview-remind'); return; }
   doSubmit();
 }
 function forceSubmit() { doSubmit(); }
 async function doSubmit() {
+  if (!ghToken) { promptLogin(); return; }
   saveActive();
   const h=hymns.find(hh=>hh.id===activeId); if(!h) return;
   if(!(h.groupKeys||[]).length){ toast('Please set at least one group before submitting.','error'); return; }
 
-  // Check if this hymn ID already exists on GitHub — warn if so
   let existsOnGH=false;
   try {
     const existing=await ghGet(ghHymnPath(h));
@@ -1195,7 +1167,6 @@ async function confirmSubmit() {
     const submittedTitle=hymnTitle(h);
     el('submitted-msg').textContent=`"${submittedTitle}" saved to GitHub ✓`;
     openSheet('sheet-submitted');
-    // Auto-create a fresh hymn so the editor is never left on a submitted entry
     setTimeout(()=>{ createHymn(); previewHadLook=false; }, 300);
   } catch(e) {
     toast('Submit failed: '+e.message,'error',4000);
@@ -1203,6 +1174,7 @@ async function confirmSubmit() {
     savePending();
   }
 }
+
 function serializeLyrics(ld) {
   if (!ld) return '';
   const parts = [];
@@ -1221,12 +1193,11 @@ function serializeLyrics(ld) {
 
 async function pushHymnToGH(h) {
   if(!(h.groupKeys||[]).length) throw new Error('No group selected');
-  // Build clean data-2.0 payload — one file per hymn, flat path
   const payload = {
     id: h.id,
-    category:    (h.groupKeys||[])[0] || '',   // primary group key, lowercase
-    categories:  h.groupKeys || [],            // all group keys
-    subcategories: h.subgroups || [],          // subgroup IDs e.g. ["eg_medhanie_alem"]
+    category:    (h.groupKeys||[])[0] || '',
+    categories:  h.groupKeys || [],
+    subcategories: h.subgroups || [],
     title:       h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.title||''])) : {},
     subtitle:    h.langs ? Object.fromEntries(LANGS.map(l=>[l, h.langs[l]?.subtitle||''])) : {},
     lyrics:      h.langs ? Object.fromEntries(LANGS.map(l=>[l, serializeLyrics(h.langs[l])])) : {},
@@ -1239,9 +1210,8 @@ async function pushHymnToGH(h) {
       updated_at:  h.updatedAt  || new Date().toISOString(),
     }
   };
-  // Sanity check — if a language has content in the editor but serialized to empty, abort
   const emptyLangs = LANGS.filter(l => h.langs?.[l] && langHasBody(h.langs[l]) && !payload.lyrics[l]);
-  if (emptyLangs.length) throw new Error(`Lyrics failed to serialize for: ${emptyLangs.join(', ')} — please report this bug`);
+  if (emptyLangs.length) throw new Error(`Lyrics failed to serialize for: ${emptyLangs.join(', ')}`);
   const path = ghHymnPath(h);
   const existing = await ghGet(path);
   const sha = existing?.sha;
@@ -1280,7 +1250,6 @@ function previewLang(lang, tabEl) {
   (ld.verses||[]).forEach((v,vi)=>{
     html+=`<div class="preview-section-label">Verse ${vi+1}</div>`;
     if(v.specialBefore?.trim()) html+=`<div class="preview-special">★ ${esc(v.specialBefore)}</div>`;
-    // Get lines from pasteBlock if not yet committed
     const lines = v.pasteBlock?.trim()
       ? v.pasteBlock.split('\n').map(l=>l.trim()).filter(Boolean)
       : v.lines.map(ln=>ln.text).filter(Boolean);
@@ -1304,32 +1273,57 @@ function deleteHymn() {
 async function loadCatalogFromGH() {
   catalogHymns = [];
 
-  // ── 1. Load published hymns from data/hymns/ ──
+  // Show loading state
+  const list = el('catalog-list');
+  if (list && list.innerHTML.trim() === '') {
+    list.innerHTML = '<div class="loading-center"><div class="spinner"></div><p style="margin-top:12px;color:var(--t3);font-size:14px;">Loading hymns from GitHub…</p></div>';
+  }
+
+  let loadedAny = false;
+
+  // ── 1. Published hymns: data/hymns/ ──
   try {
     const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/data/hymns?ref=${REPO.branch}`;
-    const r = await fetch(url, { headers:{ Authorization:`token ${ghToken}`, Accept:'application/vnd.github+json' }});
+    const headers = { Accept: 'application/vnd.github+json' };
+    if (ghToken) headers.Authorization = `token ${ghToken}`;
+    const r = await fetch(url, { headers });
     if (r.ok) {
       const files = await r.json();
       const jsonFiles = Array.isArray(files) ? files.filter(f => f.name.endsWith('.json')) : [];
-      const results = await Promise.allSettled(jsonFiles.map(f => loadGHJson(f.path)));
-      results.forEach(res => {
-        if (res.status === 'fulfilled' && res.value) {
-          const h = migrateHymn(res.value);
-          h._source = 'published';
-          catalogHymns.push(h);
+      if (jsonFiles.length) {
+        // Load in parallel batches of 10
+        const batchSize = 10;
+        for (let i = 0; i < jsonFiles.length; i += batchSize) {
+          const batch = jsonFiles.slice(i, i + batchSize);
+          const results = await Promise.allSettled(batch.map(f => loadGHJson(f.path)));
+          results.forEach(res => {
+            if (res.status === 'fulfilled' && res.value) {
+              const h = migrateHymn(res.value);
+              h._source = 'published';
+              catalogHymns.push(h);
+              loadedAny = true;
+            }
+          });
+          // Update UI progressively
+          if (document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
         }
-      });
+      }
+    } else if (r.status === 404) {
+      console.log('data/hymns/ folder not found on GitHub yet');
     }
-  } catch(_) {}
+  } catch(e) {
+    console.warn('Failed to load data/hymns/:', e.message);
+  }
 
-  // ── 2. Load draft hymns from data/drafts/ ──
+  // ── 2. Draft hymns: data/drafts/ ──
   try {
     const url = `https://api.github.com/repos/${REPO.owner}/${REPO.repo}/contents/data/drafts?ref=${REPO.branch}`;
-    const r = await fetch(url, { headers:{ Authorization:`token ${ghToken}`, Accept:'application/vnd.github+json' }});
+    const headers = { Accept: 'application/vnd.github+json' };
+    if (ghToken) headers.Authorization = `token ${ghToken}`;
+    const r = await fetch(url, { headers });
     if (r.ok) {
       const files = await r.json();
       const jsonFiles = Array.isArray(files) ? files.filter(f => f.name.endsWith('.json')) : [];
-      // Load in batches of 20 to avoid overwhelming the API
       const batchSize = 20;
       for (let i = 0; i < jsonFiles.length; i += batchSize) {
         const batch = jsonFiles.slice(i, i + batchSize);
@@ -1338,33 +1332,51 @@ async function loadCatalogFromGH() {
           if (res.status === 'fulfilled' && res.value) {
             const h = res.value;
             h._source = 'draft';
-            // Normalize langs structure for draft hymns (they store langs as flat objects)
             if (!h.langs) h.langs = {};
             LANGS.forEach(l => {
               if (!h.langs[l]) h.langs[l] = { title:'', zemari:'', lyrics:'' };
             });
             catalogHymns.push(h);
+            loadedAny = true;
           }
         });
+        if (document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
       }
     }
-  } catch(_) {}
+  } catch(e) {
+    console.warn('Failed to load data/drafts/:', e.message);
+  }
 
-  // ── 3. Fallback: load legacy category array files if data/hymns/ is empty ──
-  if (!catalogHymns.length) {
-    for (const g of ALL_GROUPS) {
-      const data = await loadGHJson(ghPath(g));
-      if (Array.isArray(data)) {
-        data.map(migrateHymn).forEach(h => {
-          h._source = 'published';
-          catalogHymns.push(h);
-        });
+  // ── 3. Fallback: legacy category array files ──
+  if (!loadedAny) {
+    try {
+      for (const g of ALL_GROUPS) {
+        const data = await loadGHJson(ghPath(g));
+        if (Array.isArray(data)) {
+          data.map(migrateHymn).forEach(h => {
+            h._source = 'published';
+            catalogHymns.push(h);
+            loadedAny = true;
+          });
+        }
       }
+    } catch(e) {
+      console.warn('Legacy load failed:', e.message);
     }
   }
 
+  if (!loadedAny && list) {
+    list.innerHTML = `<div class="list-empty">
+      <strong>No hymns found on GitHub</strong>
+      <span style="font-size:13px;color:var(--t3);display:block;margin-top:4px;">
+        The <code>data/hymns/</code> folder may be empty or not yet created.<br>
+        Upload your draft JSON files to <code>data/drafts/</code> to see them here.
+      </span>
+    </div>`;
+    return;
+  }
+
   if (document.querySelector('#tab-catalog[style*="flex"]')) renderCatalog();
-  // Update zemari datalist with catalog names without disrupting the editor
   refreshZemariDatalist();
 }
 
@@ -1373,19 +1385,15 @@ function renderCatalog() {
   const group=el('catalog-group')?.value||'';
   const list =el('catalog-list'); if(!list) return;
 
-  // Split into published vs drafts for separate sections
   const published = catalogHymns.filter(h => h._source !== 'draft');
   const drafts    = catalogHymns.filter(h => h._source === 'draft');
 
-  // Helper to filter a subset
   const applyFilter = (arr) => arr.filter(h => {
-    // group filter — drafts may not have groupKeys yet
     if (group) {
       const hGroups = h.groupKeys || h.categories || [];
       if (!hGroups.includes(group)) return false;
     }
     if (!q) return true;
-    // search titles across all langs
     return LANGS.some(l => {
       const title = h.langs?.[l]?.title || h.title?.[l] || '';
       return title.toLowerCase().includes(q);
@@ -1396,11 +1404,14 @@ function renderCatalog() {
   const filteredDraft = applyFilter(drafts);
 
   if (!filteredPub.length && !filteredDraft.length) {
-    list.innerHTML = '<div class="list-empty"><strong>Nothing found</strong>No hymns match.</div>';
+    if (catalogHymns.length > 0) {
+      list.innerHTML = '<div class="list-empty"><strong>Nothing matches</strong>Try a different search or group.</div>';
+    } else {
+      list.innerHTML = '<div class="loading-center"><div class="spinner"></div></div>';
+    }
     return;
   }
 
-  // Helper to get display title for a catalog hymn (supports both schemas)
   const catTitle = (h) => {
     for (const l of ['ti','en','am','om','ti_ro','am_ro']) {
       const t = h.langs?.[l]?.title || h.title?.[l] || '';
@@ -1409,7 +1420,6 @@ function renderCatalog() {
     return '(Untitled)';
   };
 
-  // Helper to get zemari for catalog hymn
   const catZemari = (h) => {
     for (const l of LANGS) {
       const z = normalizeZemari(h.langs?.[l]?.zemari || h.singer || '');
@@ -1420,7 +1430,6 @@ function renderCatalog() {
 
   let html = '';
 
-  // ── Published section ──
   if (filteredPub.length) {
     html += `<div class="catalog-section-header" style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--t3);padding:10px 0 4px;">Published (${filteredPub.length})</div>`;
     html += filteredPub.map(h => {
@@ -1438,30 +1447,35 @@ function renderCatalog() {
     }).join('');
   }
 
-  // ── Drafts section ──
   if (filteredDraft.length) {
+    const draftAction = isContributor
+      ? `onclick="importDraftToEditor(this.dataset.id)"`
+      : `onclick="promptLogin()"`;
     html += `<div class="catalog-section-header" style="font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--t3);padding:16px 0 4px;">Drafts — awaiting review (${filteredDraft.length})</div>`;
     html += filteredDraft.map(h => {
       const title  = catTitle(h);
       const zemari = catZemari(h);
-      const sub    = zemari || '';
       const needsReview = h.needs_review && h.needs_review.length;
       const reviewTag = needsReview
         ? `<span style="font-size:10px;background:#fff3cd;color:#856404;border:1px solid #ffc107;border-radius:4px;padding:1px 5px;white-space:nowrap;">⚠ Review</span>`
         : '';
-      return `<div class="hymn-row" style="cursor:pointer;" onclick="importDraftToEditor('${esc(h.id)}')">
+      return `<div class="hymn-row" style="cursor:pointer;" data-id="${esc(h.id)}" ${draftAction}>
         <div class="hymn-color-dot" style="background:#aaa;"></div>
         <div class="hymn-row-body" style="flex:1;min-width:0;">
           <div class="hymn-row-title" style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
             ${esc(title)}
             ${reviewTag}
           </div>
-          ${sub ? `<div class="hymn-row-sub">${esc(sub)}</div>` : ''}
+          ${zemari ? `<div class="hymn-row-sub">${esc(zemari)}</div>` : ''}
         </div>
         <span class="hymn-row-badge" style="background:var(--bg-inset);color:var(--t2);border:1px solid var(--border);">draft</span>
       </div>`;
     }).join('');
-    html += `<div style="font-size:12px;color:var(--t3);padding:8px 0 4px;text-align:center;">Tap a draft to open it in the editor — add YouTube link, group &amp; submit ✓</div>`;
+    if (isContributor) {
+      html += `<div style="font-size:12px;color:var(--t3);padding:8px 0 4px;text-align:center;">Tap a draft to open it in the editor — add YouTube link, group &amp; submit ✓</div>`;
+    } else {
+      html += `<div style="font-size:12px;color:var(--t3);padding:8px 0 4px;text-align:center;">Log in as a contributor to edit drafts</div>`;
+    }
   }
 
   list.innerHTML = html;
@@ -1470,6 +1484,10 @@ function renderCatalog() {
 // ── PROOF OF WORK ─────────────────────────────────────────
 function renderPOW() {
   const list=el('pow-list'); if(!list) return;
+  if (!isContributor) {
+    list.innerHTML='<div class="list-empty"><strong>Log in to track your work</strong></div>';
+    return;
+  }
   const mine=powLog.filter(r=>r.contributor===contributorName);
   if(!mine.length){
     list.innerHTML='<div class="list-empty"><strong>No sessions yet</strong>Clock in to start tracking your work.</div>';
@@ -1485,8 +1503,9 @@ function renderPOW() {
   }).join('');
 }
 
-// ── SYNC ──────────────────────────────────────────────────
+// ── SYNC & EXPORT ─────────────────────────────────────────
 async function syncNow() {
+  if (!isContributor) { promptLogin(); return; }
   if(!pendingSync.length){ toast('Nothing to sync.'); return; }
   toast('Syncing…');
   const failed=[];
@@ -1499,6 +1518,7 @@ async function syncNow() {
   toast(failed.length?`${failed.length} failed`:'Sync complete ✓',failed.length?'error':'success');
   renderStats();
 }
+
 function exportLocal() {
   const exportedAt = new Date().toISOString();
   const data={ hymns, powLog, exportedAt, contributor:contributorName };
@@ -1508,12 +1528,11 @@ function exportLocal() {
   a.download=`wazema_export_${exportedAt.slice(0,10)}.json`;
   a.click();
   closeSheet('sheet-admin');
-  // Log export to GitHub so all exports are tracked
-  logExportToGH(exportedAt);
+  if (ghToken) logExportToGH(exportedAt);
 }
 
 async function logExportToGH(exportedAt) {
-  const path = `${REPO.folder}/admin/exports.json`;
+  const path = `data/admin/exports.json`;
   const entry = {
     contributor: contributorName,
     exportedAt,
@@ -1555,19 +1574,26 @@ document.addEventListener('DOMContentLoaded', () => {
   });
   const loginBtn=el('login-btn');
   if(loginBtn) loginBtn.addEventListener('click', submitLogin);
+  const browseBtn=el('browse-btn');
+  if(browseBtn) browseBtn.addEventListener('click', browseWithoutLogin);
   buildGeezToolbar();
-  // Auto-login
+
+  // Auto-login from stored credentials
   try {
     const stored=localStorage.getItem(AUTH_KEY);
     if(stored && sessionStorage.getItem(SESSION_K)){
       const d=JSON.parse(stored);
       if(d.name && d.token){
-        contributorName=d.name; ghToken=d.token;
+        contributorName=d.name; ghToken=d.token; isContributor=true;
         const ni=el('login-name'), ti=el('login-token');
         if(ni) ni.value=d.name;
         if(ti) ti.value=d.token;
-        showApp(); return;
+        showApp(true); return;
       }
     }
   } catch(e){}
+
+  // No stored session — go straight to browse mode
+  // (catalog loads from public GitHub API, no login needed)
+  browseWithoutLogin();
 });
