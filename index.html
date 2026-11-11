@@ -16,7 +16,7 @@
 <!-- ═══════════════════════════════════════════════════════════
      PAGE: LOGIN
      ═══════════════════════════════════════════════════════════ -->
-<div id="page-login" class="page" style="display:flex;flex-direction:column;">
+<div id="page-login" class="page" style="display:none;flex-direction:column;">
   <div class="login-page">
     <div class="login-logo">
       <div class="app-icon">✝</div>
@@ -37,12 +37,13 @@
 
     <div id="login-err" class="login-err"></div>
 
-    <button id="login-btn" class="btn-primary">Enter ✝</button>
+    <button id="login-btn" class="btn-primary">Enter as Contributor ✝</button>
+    <button id="browse-btn" style="margin-top:10px;width:100%;padding:14px;background:transparent;border:1px solid var(--border);border-radius:var(--r-md);font-size:15px;color:var(--t2);cursor:pointer;">Browse Catalog (no login)</button>
   </div>
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════
-     PAGE: LIST  (Editor / Catalog / Proof of Work)
+     PAGE: LIST  (Catalog / Editor / Proof of Work)
      ═══════════════════════════════════════════════════════════ -->
 <div id="page-list" class="page">
 
@@ -50,7 +51,12 @@
   <div class="nav-bar">
     <span class="nav-title">Wazema</span>
     <div style="display:flex;align-items:center;gap:8px;">
-      <div id="clock-pill" class="clock-pill" onclick="clockAction()">
+      <!-- Login badge — shown in browse mode -->
+      <button id="login-badge" onclick="showPage('page-login')"
+        style="display:none;font-size:12px;padding:4px 10px;background:var(--accent);color:#fff;border-radius:20px;border:none;cursor:pointer;font-weight:600;">
+        Log In
+      </button>
+      <div id="clock-pill" class="clock-pill" onclick="clockAction()" style="display:none;">
         <span id="clock-dot" class="clock-dot"></span>
         <span id="clock-label" class="clock-label">Clock In</span>
       </div>
@@ -61,9 +67,25 @@
   <!-- Segment control -->
   <div class="segment-wrap">
     <div class="segment">
-      <button id="nav-editor"    class="seg-btn" onclick="switchTab('editor')">Editor</button>
       <button id="nav-catalog"   class="seg-btn" onclick="switchTab('catalog')">Catalog</button>
+      <button id="nav-editor"    class="seg-btn" onclick="switchTab('editor')" style="display:none;">Editor</button>
       <button id="nav-proofwork" class="seg-btn" onclick="switchTab('proofwork')">My Work</button>
+    </div>
+  </div>
+
+  <!-- ── TAB: CATALOG ─────────────────────────────────────── -->
+  <div id="tab-catalog" class="tab-content">
+    <div class="catalog-toolbar">
+      <input id="catalog-search" type="search" placeholder="Search catalog…" oninput="renderCatalog()"/>
+      <select id="catalog-group" onchange="renderCatalog()">
+        <option value="">All Groups</option>
+      </select>
+    </div>
+    <div id="catalog-list" class="catalog-list">
+      <div class="loading-center">
+        <div class="spinner"></div>
+        <p style="margin-top:12px;color:var(--t3);font-size:14px;">Loading hymns…</p>
+      </div>
     </div>
   </div>
 
@@ -82,20 +104,7 @@
     <div id="hymn-list" class="hymn-list"></div>
 
     <!-- New hymn -->
-    <button class="new-hymn-btn" onclick="createHymn()">＋ New Hymn</button>
-  </div>
-
-  <!-- ── TAB: CATALOG ─────────────────────────────────────── -->
-  <div id="tab-catalog" class="tab-content">
-    <div class="catalog-toolbar">
-      <input id="catalog-search" type="search" placeholder="Search catalog…" oninput="renderCatalog()"/>
-      <select id="catalog-group" onchange="renderCatalog()">
-        <option value="">All Groups</option>
-      </select>
-    </div>
-    <div id="catalog-list" class="catalog-list">
-      <div class="loading-center"><div class="spinner"></div></div>
-    </div>
+    <button class="new-hymn-btn" onclick="createHymn()" style="display:none;">＋ New Hymn</button>
   </div>
 
   <!-- ── TAB: PROOF OF WORK ───────────────────────────────── -->
@@ -123,12 +132,12 @@
     <!-- filled by JS -->
   </div>
 
-  <!-- Editor scroll area (all lang panels share this; only one shown) -->
+  <!-- Editor scroll area -->
   <div id="editor-area" class="editor-area">
     <!-- Filled by JS per active language -->
   </div>
 
-  <!-- Ge'ez toolbar (shown when Ge'ez field focused) -->
+  <!-- Ge'ez toolbar -->
   <div id="geez-toolbar" class="geez-toolbar">
     <span class="geez-toolbar-label">Ge'ez Punctuation</span>
     <div class="geez-punct-row" id="geez-punct-row">
@@ -219,6 +228,18 @@
      SHEETS
      ═══════════════════════════════════════════════════════════ -->
 
+<!-- Login prompt (for browse-mode users who try to edit) -->
+<div id="sheet-login-prompt" class="sheet-overlay center-modal" onclick="closeSheet('sheet-login-prompt')">
+  <div class="sheet-panel center-panel" onclick="event.stopPropagation()">
+    <div class="sheet-title">Contributor Login Required</div>
+    <div class="sheet-subtitle">Log in with your GitHub token to edit hymns, submit changes, and track your work.</div>
+    <div class="sheet-actions">
+      <button class="sheet-btn primary" onclick="goToLogin()">Log In</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-login-prompt')">Cancel</button>
+    </div>
+  </div>
+</div>
+
 <!-- Preview -->
 <div id="sheet-preview" class="sheet-overlay bottom-sheet" onclick="closeSheet('sheet-preview')">
   <div class="sheet-panel" onclick="event.stopPropagation()">
@@ -285,7 +306,7 @@
     <div class="sheet-handle"></div>
     <div class="sheet-title">Quick Menu</div>
     <div class="sheet-actions">
-      <button class="sheet-btn secondary" onclick="closeSheet('sheet-admin');showPage('page-admin')">Settings & Stats</button>
+      <button class="sheet-btn secondary" onclick="closeSheet('sheet-admin');showPage('page-admin')">Settings &amp; Stats</button>
       <button class="sheet-btn secondary" onclick="exportLocal()">Export Local Data</button>
       <button class="sheet-btn secondary" id="pending-btn" onclick="closeSheet('sheet-admin');openSheet('sheet-pending')">View Pending</button>
       <button class="sheet-btn danger"    onclick="logout()">Sign Out</button>
@@ -321,6 +342,6 @@
 <!-- ─── TOAST ──────────────────────────────────────────────── -->
 <div id="toast"></div>
 
-<script src="app.js?v=20"></script>
+<script src="app.js?v=21"></script>
 </body>
 </html>
