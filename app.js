@@ -256,13 +256,29 @@ function parseFlatLyricsToEditor(flatLyrics) {
   if (!flatLyrics) return { chorus: '', verses: [] };
   let chorus = '';
   let remaining = flatLyrics;
+
+  // Pull out [[chorus]]...[[/chorus]] block
   const chorusMatch = remaining.match(/\[\[chorus\]\]([\s\S]*?)\[\[\/chorus\]\]/i);
   if (chorusMatch) {
     chorus = chorusMatch[1].trim();
     remaining = remaining.replace(chorusMatch[0], '').trim();
   }
+
+  // Strip [[highlight]] tags but keep content
   remaining = remaining.replace(/\[\[highlight\]\]([\s\S]*?)\[\[\/highlight\]\]/gi, '$1');
-  const blocks = remaining.split(/\n{2,}/).map(b => b.trim()).filter(Boolean);
+
+  // Split on double newlines first; if that gives only 1 block try verse markers
+  let blocks = remaining.split(/\n{2,}/).map(b => b.trim()).filter(Boolean);
+
+  // If everything came back as one block, try splitting on "Verse N" / "ቅጽ N" markers
+  if (blocks.length <= 1 && remaining.trim()) {
+    const verseMarker = remaining.split(/(?=\b(?:Verse|verse|ቅጽ|ሀ|ለ|ሐ|መ|ሰ)\s*\d*)/);
+    if (verseMarker.length > 1) blocks = verseMarker.map(b => b.trim()).filter(Boolean);
+  }
+
+  // Still one block — keep it as a single verse (all lyrics visible in textarea)
+  if (!blocks.length && remaining.trim()) blocks = [remaining.trim()];
+
   const verses = blocks.map(block => {
     const v = newVerse();
     v.pasteBlock = block;
@@ -275,18 +291,58 @@ function draftToEditorHymn(catalogH) {
   const h = newHymn({ id: catalogH.id || uid() });
   h.status = 'draft';
   h._fromDraft = true;
-  h.groupKeys  = catalogH.groupKeys  || (catalogH.categories  ? [...catalogH.categories]  : []);
-  h.subgroups  = catalogH.subgroups  || (catalogH.subcategories ? [...catalogH.subcategories] : []);
+
+  // Group keys — try every known field name
+  h.groupKeys = catalogH.groupKeys
+    || (catalogH.categories    ? [...catalogH.categories]    : null)
+    || (catalogH.category      ? [catalogH.category]         : null)
+    || [];
+
+  // Subgroups — try every known field name
+  h.subgroups = catalogH.subgroups
+    || (catalogH.subcategories ? [...catalogH.subcategories] : null)
+    || [];
+
   LANGS.forEach(l => {
     const ld = h.langs[l];
-    ld.title  = catalogH.langs?.[l]?.title  || catalogH.title?.[l]  || '';
-    ld.zemari = normalizeZemari(catalogH.langs?.[l]?.zemari || catalogH.singer || '');
-    ld.youtube = catalogH.langs?.[l]?.youtube || catalogH.youtubeUrls?.[l] || '';
-    const flatLyrics = catalogH.langs?.[l]?.lyrics || catalogH.lyrics?.[l] || '';
+
+    // Title — try langs.l.title, then title.l, then root title if string
+    ld.title = catalogH.langs?.[l]?.title
+      || catalogH.title?.[l]
+      || (typeof catalogH.title === 'string' ? catalogH.title : '')
+      || '';
+
+    // Subtitle
+    ld.subtitle = catalogH.langs?.[l]?.subtitle
+      || catalogH.subtitle?.[l]
+      || '';
+
+    // Zemari / singer — try every known path
+    const rawZemari = catalogH.langs?.[l]?.zemari
+      || catalogH.zemari?.[l]
+      || catalogH.singer
+      || (typeof catalogH.zemari === 'string' ? catalogH.zemari : '')
+      || '';
+    ld.zemari = normalizeZemari(rawZemari);
+
+    // YouTube
+    ld.youtube = catalogH.langs?.[l]?.youtube
+      || catalogH.youtubeUrls?.[l]
+      || catalogH.youtube?.[l]
+      || '';
+
+    // Lyrics — try every known path
+    const flatLyrics = catalogH.langs?.[l]?.lyrics
+      || catalogH.lyrics?.[l]
+      || catalogH.langs?.[l]?.text
+      || catalogH.text?.[l]
+      || '';
+
     const { chorus, verses } = parseFlatLyricsToEditor(flatLyrics);
     ld.chorus = chorus;
-    ld.verses = verses;
+    ld.verses = verses.length ? verses : [newVerse()];
   });
+
   h.createdAt = catalogH.createdAt || catalogH.metadata?.created_at || new Date().toISOString();
   h.updatedAt = catalogH.updatedAt || catalogH.metadata?.updated_at || new Date().toISOString();
   if (catalogH.needs_review) h.needs_review = catalogH.needs_review;
@@ -1578,22 +1634,25 @@ document.addEventListener('DOMContentLoaded', () => {
   if(browseBtn) browseBtn.addEventListener('click', browseWithoutLogin);
   buildGeezToolbar();
 
-  // Auto-login from stored credentials
+  // Auto-fill and auto-login from stored credentials
   try {
     const stored=localStorage.getItem(AUTH_KEY);
-    if(stored && sessionStorage.getItem(SESSION_K)){
+    if(stored){
       const d=JSON.parse(stored);
       if(d.name && d.token){
-        contributorName=d.name; ghToken=d.token; isContributor=true;
+        // Always pre-fill the login form fields
         const ni=el('login-name'), ti=el('login-token');
         if(ni) ni.value=d.name;
         if(ti) ti.value=d.token;
+        // Auto-login directly — the GitHub token check in submitLogin() is the real auth gate
+        contributorName=d.name; ghToken=d.token; isContributor=true;
+        sessionStorage.setItem(SESSION_K,'1');
         showApp(true); return;
       }
     }
   } catch(e){}
 
-  // No stored session — go straight to browse mode
+  // No stored credentials — go straight to browse mode
   // (catalog loads from public GitHub API, no login needed)
   browseWithoutLogin();
 });
