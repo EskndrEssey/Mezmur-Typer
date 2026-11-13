@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_5e34f49f9b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብደመናት ግሩም’ዩ"
+  "id": 156,
+  "title": "ብደመናት ግሩም’ዩ",
+  "ti": {
+    "chorus": [
+      "ብደመናት ግሩም’ዩ ብሰማያት ምስጉን’ዩ",
+      "ብመላእክት ስቡሕ’ዩ ብቅዱሳን ድንቂ’ዩ",
+      "ብእሳት ስሩሕ ዝፋኑ በረድ ጌሩ መካኑ",
+      "ማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ",
+      "መልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ",
+      "ይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምድሪ ይርኢ ካብ ላዕሊ ይሰፍር ቀላይ",
+          "ማዕበላት’ውን ይግሰጽ ብስልጣኑ እንኪወጽእ",
+          "መባርቕቱ እንኪወጹ ንሰማያት ኪገልጹ",
+          "ይግለጽ ብግርማ ቤቱ ኣርያም ስማ",
+          "ሰማይ ናቱ መንበር መርገጺቱ’ውን ምድር",
+          "ካብ ላዕሊ የብርህ ብእሳት መንደቕ ይሰርሕ",
+          "ዘይደክም ገባሪ ንዘልዓለም ነባሪ",
+          "ብዘይንፍገት ወሃቢ ንግፉዓት ሓብሓቢ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብእሳት ስሩሕ ዙፋኑ በረድ ጌሩ መካኑ",
+          "ማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ",
+          "መልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ",
+          "ይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ቅድስት ምትኩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብደመናት ግሩም’ዩ",
-      "zemari": "ዘማሪት ቅድስት ምትኩ",
-      "lyrics": "[[chorus]]\nብእሳት ስሩሕ ዝፋኑ በረድ ጌሩ መካኑ\nማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ\nመልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ\nይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ\n[[/chorus]]\n\nብደመናት ግሩም’ዩ ብሰማያት ምስጉን’ዩ\nብመላእክት ስቡሕ’ዩ ብቅዱሳን ድንቂ’ዩ\n\nምድሪ ይርኢ ካብ ላዕሊ ይሰፍር ቀላይ\nማዕበላት’ውን ይግሰጽ ብስልጣኑ እንኪወጽእ\nመባርቕቱ እንኪወጹ ንሰማያት ኪገልጹ\nይግለጽ ብግርማ ቤቱ ኣርያም ስማ\n\nብእሳት ስሩሕ ዙፋኑ በረድ ጌሩ መካኑ\nማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ\nመልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ\nይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
-    },
-    "ti_ro": {
-      "title": "Bdemenat grum’yu",
-      "zemari": "zemarit qdst mtku",
-      "lyrics": "[[chorus]]\nMay sat tesemamu tbebenya’yu brtu\nMelak kirub zfanu surafi’yu kahnu\nYsegdu’yom ab fitu zelalem’yu mengstu\n[[/chorus]]\n\nBdemenat grum’yu bsemayat msgun’yu\nBmelakt sbuh’yu bqdusan dnqi’yu\nBsat sruh zfanu bered geru mekanu\n\nMdri yri kab lali ysefr qelay\nMabelat’wn ygsets bsltanu nkiwets\nMebarqtu nkiwetsu nsemayat kigeltsu\nYglets bgrma betu aryam sma\nSemay natu menber mergetsitu’wn mdr\nKab lali yebrh bsat mendeq yserh\nZeydekm gebari nzelalem nebari\nBzeynfget wehabi ngfuat habhabi\nBsat sruh zufanu bered geru mekanu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bdemenat grum’yu bsemayat msgun’yu",
+      "Bmelakt sbuh’yu bqdusan dnqi’yu",
+      "Bsat sruh zfanu bered geru mekanu",
+      "May sat tesemam'u t'bebenya’yu brtu'",
+      "Melak kirub zfanu surafi’yu kahnu",
+      "Ysegdu’yom ab fitu zel'alem’yu mengstu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mdri yri kab la'li ysefr qelay",
+          "Ma'belat’wn ygsets' bslt'anu nkiwets'",
+          "Mebarqtu nkiwets'u nsemayat kigelts'u",
+          "Yglets' bgrma betu aryam sma",
+          "Semay natu menber mergets'itu’wn mdr",
+          "Kab la'li yebrh bsat mendeq yserh",
+          "Zeydekm gebari nzel'alem nebari",
+          "Bzeynfget wehabi ngfu'at habhabi"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsat sruh zufanu bered geru mekanu",
+          "May sat tesemam'u t'bebenya’yu brtu'",
+          "Melak kirub zfanu surafi’yu kahnu",
+          "Ysegdu’yom ab fitu zel'alem’yu mengstu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

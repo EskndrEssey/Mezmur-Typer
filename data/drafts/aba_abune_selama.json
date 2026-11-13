@@ -1,41 +1,115 @@
 {
-  "id": "h_efr_3ec136c22a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣባ ኣቡነ ሰላማ"
+  "id": 431,
+  "title": "ኣባ ኣቡነ ሰላማ",
+  "ti": {
+    "chorus": [
+      "ሰባኺ ወንጌል ብርሃን ኢትዮጵያ",
+      "ኣባ ኣቡነ ሰላማ ክቡር ቅዱስ ግብሩ",
+      ">>     >>       ኣነስ ኣምሂሩኒ",
+      ">>     >>      ስበኽ ስበኽ ኢሉ",
+      ">>     >>      ፍቕሩ ቀስቂሱኒ",
+      "ኣባ ኣቡነ ሰላማ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላከ ሰላማ ዘልዓለም ይወደስ",
+          "ብነፍሲ ብስጋይ ፈጺመ ክፍወስ",
+          "ኣባ ኣቡነ ሰላማ ዝኽርኻ ዝዘከረ",
+          ">>     >>      ስምካ ዝጸውዐ",
+          ">>     >>      ገድልኻ እንትንበብ",
+          ">>     >>      ብልቢ ዝሰምዐ",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ምድራዊ ሕይወት ይስዕር ፈተና",
+          "ምስኡ ስለዘሎ ኣምላከሰላማ",
+          "ኣባ ኣቡነ ሰላማ  ይርዕዱ  ኣጋንንቲ",
+          ">>     >>      እንክጽዋዕ ስምካ",
+          ">>     >>       ተኣምር ይፍጸም",
+          ">>     >>      ብሕያው ገድልኻ",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ሰላማ ምስጢሩ ንዝገለጸልካ",
+          "እግዚኣብሔር ይመስገን እንቋዕ ደስ በለካ",
+          "ኣባ ኣቡነ ሰላማ ገዳምካ ዝመጸ",
+          ">>     >>      ብፍጽምት እምነት",
+          ">>     >>      ብኽብሪ ይነብር",
+          ">>     >>      ዘልዓለም ሕይወት",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ሓዘን ዝኸበቦ ተስፋ ዝቖረጸ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣባ ኣቡነ ሰላማ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣባ ኣቡነ ሰላማ\n[[/chorus]]\n\nኣባ ኣቡነ ሰላማ ትጉህ ሓዋርያ(2)\nሰባኺ ወንጌል ብርሃን ኢትዮጵያ\nኣባ ኣቡነ ሰላማ ክቡር ቅዱስ ግብሩ\nኣነስ ኣምሂሩኒ\nስበኽ ስበኽ ኢሉ\nፍቕሩ ቀስቂሱኒ\n\nኣምላከ ሰላማ ዘልዓለም ይወደስ\nብነፍሲ ብስጋይ ፈጺመ ክፍወስ\nኣባ ኣቡነ ሰላማ ዝኽርኻ ዝዘከረ\nስምካ ዝጸውዐ\nገድልኻ እንትንበብ\nብልቢ ዝሰምዐ\nኣባ ኣቡነ ሰላማ\nኣብ ምድራዊ ሕይወት ይስዕር ፈተና\nምስኡ ስለዘሎ ኣምላከሰላማ\nኣባ ኣቡነ ሰላማ ይርዕዱ ኣጋንንቲ\nእንክጽዋዕ ስምካ\nተኣምር ይፍጸም\nብሕያው ገድልኻ\n\nሰላማ ምስጢሩ ንዝገለጸልካ\nእግዚኣብሔር ይመስገን እንቋዕ ደስ በለካ\nኣባ ኣቡነ ሰላማ ገዳምካ ዝመጸ\nብፍጽምት እምነት\nብኽብሪ ይነብር\nዘልዓለም ሕይወት\nኣባ ኣቡነ ሰላማ\nሓዘን ዝኸበቦ ተስፋ ዝቖረጸ\nብምምጻእ ‘ቲ ብርሃን ሕይወቱ መኣዘ"
-    },
-    "ti_ro": {
-      "title": "Aba abune selama",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAba abune selama tguh hawarya(2)\n[[/chorus]]\n\nSebakhi wengel brhan ityopya\nAba abune selama kbur qdus gbru\nAnes amhiruni\nSbekh sbekh ilu\nFqru qesqisuni\nAba abune selama\nAmlake selama zelalem ywedes\nBnefsi bsgay fetsime kfwes\nAba abune selama zkhrkha zzekere\nSmka ztsewa\nGedlkha ntnbeb\nBlbi zsema\nAba abune selama\nAb mdrawi hywet ysr fetena\nMsu slezelo amlakeselama\nAba abune selama yrdu agannti\nNktswa smka\nTeamr yftsem\nBhyaw gedlkha\nAba abune selama\nSelama mstiru nzgeletselka\nGziabher ymesgen nqwa des beleka\nAba abune selama gedamka zmetse\nBftsmt mnet\nBkhbri ynebr\nZelalem hywet\nAba abune selama\nHazen zkhebebo tesfa zqoretse\nBmmtsa ‘ti brhan hywetu meaze"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sebakhi wengel brhan ityop'ya",
+      "Aba abune selama kbur qdus gbru",
+      ">>     >>       Anes amhiruni",
+      ">>     >>      Sbekh sbekh ilu",
+      ">>     >>      Fqru qesqisuni",
+      "Aba abune selama"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlake selama zel'alem ywedes",
+          "Bnefsi bsgay fets'ime kfwes",
+          "Aba abune selama zkhrkha zzekere",
+          ">>     >>      Smka zts'ew'e",
+          ">>     >>      Gedlkha ntnbeb",
+          ">>     >>      Blbi zsem'e",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab mdrawi hywet ys'r fetena",
+          "Msu slezelo amlakeselama",
+          "Aba abune selama  yr'du  agannti",
+          ">>     >>      Nkts'wa' smka",
+          ">>     >>       Teamr yfts'em",
+          ">>     >>      Bhyaw gedlkha",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Selama mst'iru nzgelets'elka",
+          "Gziabher ymesgen nqwa' des beleka",
+          "Aba abune selama gedamka zmets'e",
+          ">>     >>      Bfts'mt mnet",
+          ">>     >>      Bkhbri ynebr",
+          ">>     >>      Zel'alem hywet",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Hazen zkhebebo tesfa zqorets'e"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

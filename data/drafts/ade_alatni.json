@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_c231153364",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣደ ኣላትኒ"
+  "id": 489,
+  "title": "ኣደ ኣላትኒ",
+  "ti": {
+    "chorus": [
+      "ኣደ ኣላትኒ ኣነስ ኣደ ኣላትኒ",
+      "ኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበኒ /2/",
+      "ኣደ ኣላትና ንሕናስ ኣደ ኣላትና",
+      "ኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበና",
+      "ድንግል ማርያም ብጽእቲ ኣዴና",
+      "ናይ ሓደራ ቃልኪዳን ኣዴና’ያ ደቃ ኢና",
+      "ንሕና’ስ ኣደ ኣላትና ኣይኮናን ዘኽታማት",
+      "መልዕልተ ፍጡራን ኪዳነ ምሕረት /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ጊዜ ጭንቀትና እትናዝዘና",
+          "ኣብ ጊዜ መከራ እትሕልወና",
+          "ኣብ ጎድንና ኮይና እትረድኣና",
+          "ክንበኪ ከለና ኣብ እግራ ወዲቕና",
+          "ኣብ ሕቑፎኣ ሓቚፋ እትእብደና",
+          "ንብዓትና ሓንሲሳ ተረስርስ ልብና",
+          "ዓሳ ብዘይ ማይ ዝኽሕድ ንዓኺ",
+          "ክቃጸል ይነብር ኣብ ዘይጠፍእ ሓዊ /2/",
+          "ኣተዓርቕና ምስ ፍቑር ወድኺ",
+          "መልዕልተ ፍጡራን ኪዳነ ምሕረት /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣደ ኣላትኒ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nድንግል ማርያም ብጽእቲ ኣዴና\nናይ ሓደራ ቃልኪዳን ኣዴና’ያ ደቃ ኢና\nንሕና’ስ ኣደ ኣላትና ኣይኮናን ዘኽታማት\nመልዕልተ ፍጡራን ኪዳነ ምሕረት (2)\n[[/chorus]]\n\nኣደ ኣላትኒ ኣነስ ኣደ ኣላትኒ\nኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበኒ (2)\nኣደ ኣላትና ንሕናስ ኣደ ኣላትና\nኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበና\n\nኣብ ጊዜ ጭንቀትና እትናዝዘና\nኣብ ጊዜ መከራ እትሕልወና\nኣብ ጎድንና ኮይና እትረድኣና\nክንበኪ ከለና ኣብ እግራ ወዲቕና\nኣብ ሕቑፎኣ ሓቚፋ እትእብደና\nንብዓትና ሓንሲሳ ተረስርስ ልብና\n\nንዝኣመናኪ ድንግል ሓደራኺ\nካብ ገሃነም እሳት ኣድሕንና ኢኺ\nኣተዓርቕና ምስ ፍቑር ወድኺ\nመልዕልተ ፍጡራን ኪዳነ ምሕረት (2)"
-    },
-    "ti_ro": {
-      "title": "Ade alatni",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAb mesqelu koynu goyta zhabeni (2)\n[[/chorus]]\n\nAde alatni anes ade alatni\nAde alatna nhnas ade alatna\nAb mesqelu koynu goyta zhabena\nDngl maryam btsti adena\nNay hadera qalkidan adena’ya deqa ina\nNhna’s ade alatna aykonan zekhtamat\nMellte fturan kidane mhret (2)\nAb gize chnqetna tnazzena\nAb gize mekera thlwena\nAb godnna koyna tredana\nKnbeki kelena ab gra wediqna\nAb hqufoa haqwafa tbdena\nNbatna hansisa teresrs lbna\nAsa bzey may zkhhd nakhi\nKqatsel ynebr ab zeytef hawi (2)\nNatey dkhmet ryu seytan nteagura\nAyqortsn tesfa dngl maryam hize (2)\nNzamenaki dngl haderakhi\nKab gehanem sat adhnna ikhi\nAtearqna ms fqur wedkhi\nMellte fturan kidane mhret (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ade alatni anes ade alatni",
+      "Ab mesqelu koynu gwayta zhabeni /2/",
+      "Ade alatna nhnas ade alatna",
+      "Ab mesqelu koynu gwayta zhabena",
+      "Dngl maryam bts'ti adena",
+      "Nay hadera qalkidan adena’ya deqa ina",
+      "Nhna’s ade alatna aykonan zekhtamat",
+      "Mel'lte ft'uran kidane mhret /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab gize ch'nqetna tnazzena",
+          "Ab gize mekera thlwena",
+          "Ab godnna koyna tredana",
+          "Knbeki kelena ab gra wediqna",
+          "Ab hqufoa haqwifa tbdena",
+          "Nb'atna hansisa teresrs lbna",
+          "'Asa bzey may zkhhd n'akhi",
+          "Kqats'el ynebr ab zeyt'ef hawi /2/",
+          "Ate'arqna ms fqur wedkhi",
+          "Mel'lte ft'uran kidane mhret /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

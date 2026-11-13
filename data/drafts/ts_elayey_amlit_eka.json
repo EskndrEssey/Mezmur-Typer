@@ -1,0 +1,58 @@
+{
+  "id": 116,
+  "title": "ጸላእየይ ኣምሊጠካ",
+  "ti": {
+    "chorus": [
+      "ጸላእየይ ኣምሊጠካ /2/ብተኣምር",
+      "ቀታልየይ ኣምሊጠካ/2/ ብተእምር",
+      "ኣቤት ስራሕ እግዚአብሔር",
+      "ኣቤት ናቱ ተኣምር",
+      "ፍጹም ኣይሓሰብኩን ክሰግሮ’ኢየ ኢለ",
+      "ለካስ ጎነይ ኣሎ ጐይታ እናጽለለ",
+      "ሳኦል ኵናት እንከልዕል እናበልኩ ድንን",
+      "ክንደይ ሓሊፈዮ ዘይሕለፍ የለን",
+      "ብስሙ ኣሚነ ጀሚረ እየ ቅልስ",
+      "ፍጹም ክብርትዕ’የ ብመስቀሉ ቅዱስ",
+      "ካብ ዋልታ ጎልያድ መዚኑ ጸጸረይ",
+      "ሕቡእ ስም ኣምላኸይ ኣሎ ኣብ ግንባረይ",
+      "ኣንታ እንባ ኣብ ቅድመይ ዘለኻ እንታይ’ኻ",
+      "ወዲ ድንግል ማርያም እዩ ሰዓሪኻ",
+      "ተረፈ ጭንቀተይ ቀሰነ ት’ልበይ",
+      "ዳኛ ፈረደለይ ተዓጽወ መዝገበይ",
+      "ዝተሰንደወልና ፍላጻ ተዓጽፈ",
+      "ከምዘይሓልፍ የለን ቲ’ዘመን ተሓልፈ",
+      "ካብ ሕቕፉ ኣውጺኡ መን’ዩ ዝቐትለና",
+      "ማንም ዘይደፍረና ደቂ ንጉሥ ኢና"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ts'elayey amlit'eka /2/bteamr",
+      "Qetalyey amlit'eka/2/ btemr",
+      "Abet srah gziebher",
+      "Abet natu teamr",
+      "Fts'um ayhasebkun ksegro’iye ile",
+      "Lekas goney alo gwayta nats'lele",
+      "Saol kwnat nkel'l nabelku dnn",
+      "Kndey halifeyo zeyhlef yelen",
+      "Bsmu amine jemire ye qls",
+      "Fts'um kbrt'’ye bmesqelu qdus",
+      "Kab walta golyad mezinu ts'ets'erey",
+      "Hbu sm amlakhey alo ab gnbarey",
+      "Anta nba ab qdmey zelekha ntay’kha",
+      "Wedi dngl maryam yu se'arikha",
+      "Terefe ch'nqetey qesene t’lbey",
+      "Danya feredeley te'ats'we mezgebey",
+      "Ztesendewelna flats'a te'ats'fe",
+      "Kemzeyhalf yelen ti’zemen tehalfe",
+      "Kab hqfu awts'iu men’yu zqetlena",
+      "Manm zeydefrena deqi nguss ina"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

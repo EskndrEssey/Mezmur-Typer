@@ -1,0 +1,55 @@
+{
+  "id": 360,
+  "title": "ዘበጸኣዕ ይትነከር",
+  "ti": {
+    "chorus": [
+      "ዘበጸኣዕ ይትነከር ወእመባረቅት ይትኣኰት /2/",
+      "ወይትናበብ በእሳት ድምጸ ነጎድጓዱ በሰረገላት /2/",
+      "መላእክት ሰማይ ይሰግዱ ብፍርሓት",
+      "ማዕጠንቲ ይሕዙ የቕርቡልካ ስብሓት",
+      "ኣኽናፎም ዘርጊሖም ክሰግዱ ኣብ ቅድሜኻ",
+      "ቅዱስ ምስጉን ንጹህ ይብሉኻ ንዓኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሉእ ሰፊሕ ረቂቕ ብባህሪኡ ምስጉን",
+          "ንስሙ ምስጋና ንዘልዓለም ይኹን",
+          "ዘፍቀረና ኣቦ ምስጢር ናይ ምንባርና",
+          "ንዕኡ ዝገልጽ እንታይ ቃላት ኣሎና",
+          "እንታይ ዘይሓለፍና እንታይ ዘይሰገርና",
+          "ከም ወርቂ ብሓዊ ኢና ተፈቲና",
+          "ከም ምግባርና ኣይኮነን በቲ ዘፍቀረና",
+          "ምሕረቱ ብዙሕ'ዩ ይመስገን ኣምላኽና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Zebets'ea' ytneker wemebareqt ytakwat /2/",
+      "Weytnabeb besat dmts'e negodgwadu beseregelat /2/",
+      "Melakt semay ysegdu bfrhat",
+      "Ma't'enti yhzu yeqrbulka sbhat",
+      "Akhnafom zergihom ksegdu ab qdmekha",
+      "Qdus msgun nts'uh yblukha n'akha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mlu sefih reqiq bbahriu msgun",
+          "Nsmu msgana nzel'alem ykhun",
+          "Zefqerena abo mst'ir nay mnbarna",
+          "N'u zgelts' ntay qalat alona",
+          "Ntay zeyhalefna ntay zeysegerna",
+          "Kem werqi bhawi ina tefetina",
+          "Kem mgbarna aykonen beti zefqerena",
+          "Mhretu bzuh'yu ymesgen amlakhna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

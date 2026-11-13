@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_1a7efe62dc",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንዓኻ ዘቐድም"
+  "id": 851,
+  "title": "ንዓኻ ዘቐድም",
+  "ti": {
+    "chorus": [
+      "ንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር",
+      "ልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ",
+      "ሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ",
+      "ልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን",
+      "ይሰብከካ ደምካ ንምድሪ ዝሽፍን",
+      "ንብዝሒ ክብርኻ መግለጺ የብለይን",
+      "ፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ",
+          "ኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ",
+          "ከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ",
+          "ብድሕሪት እጎዪ ኣሚነ ኢየሱስ",
+          "ብድሕሪት እጉዪ ኣሚነ ክርስቶስ",
+          "ጉድጓደይ ብተንኮል ኣጽራር ተተፋሕረ",
+          "ልዕሊ ሞት ደው በልኩ ሓያል ስምካ ጸይረ",
+          "እናሰዓብኩኻ ገይረካ ብቕድሚት",
+          "እናባረኽኩኻ ይቑጸር ዘመናት /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንዓኻ ዘቐድም",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን\nይሰብከካ ደምካ ንምድሪ ዝሽፍን\nንብዝሒ ክብርኻ መግለጺ የብለይን\nፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን (2)\n[[/chorus]]\n\nንዓኻ ዘቐድም ከመይ’ሉ ይሰዓር\nንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር\nልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ\nሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ\n\nኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ\nኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ\nከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ\nብድሕሪት እጎዪ ኣሚነ ኢየሱስ\nብድሕሪት እጉዪ ኣሚነ ክርስቶስ"
-    },
-    "ti_ro": {
-      "title": "N'akha zeqedm",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nFqrkha meghadi iyu natey lsan (2)\n[[/chorus]]\n\nNakha zeqedm kemey’lu ysear\nNbrtu mabel bqltsmka ysegr\nLli bahri qoymka ryatka ayney\nMotey regitska ikha iyesus medhney\nLli qwanqwa iyu natkas ayznton\nYsebkeka demka nmdri zshfn\nNbzhi kbrkha megletsi yebleyn\nAb dahreway zemen bakha tezaribu\nAbokha nnefsey nabakha aqribu\nKemey ile sq bl ndmtsu semias\nBdhrit goyi amine iyesus\nBdhrit guyi amine krstos\nGudgwadey btenkol atsrar tetefahre\nLli mot dew belku hayal smka tseyre\nNaseabkukha geyreka bqdmit\nNabarekhkukha yqutser zemenat (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nbrtu' ma'bel bqlts'mka ysegr",
+      "L'li bahri qoymka ryatka 'ayney",
+      "Motey regits'ka ikha iyesus medhney",
+      "L'li qwanqwa iyu natkas ayznton",
+      "Ysebkeka demka nmdri zshfn",
+      "Nbzhi kbrkha meglets'i yebleyn",
+      "Fqrkha meghadi iyu natey lsan /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab dahreway zemen bakha tezaribu",
+          "Abokha nnefsey nabakha aqribu",
+          "Kemey ile sq bl ndmts'u semi'es",
+          "Bdhrit goyi amine iyesus",
+          "Bdhrit guyi amine krstos",
+          "Gudgwadey btenkol ats'rar tetefahre",
+          "L'li mot dew belku hayal smka ts'eyre",
+          "Nase'abkukha geyreka bqdmit",
+          "Nabarekhkukha yquts'er zemenat /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

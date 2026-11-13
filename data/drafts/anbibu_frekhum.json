@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_5beb341f4e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዓንቢቡ ፍሬኹም"
+  "id": 445,
+  "title": "ዓንቢቡ ፍሬኹም",
+  "ti": {
+    "chorus": [
+      "መርዓውቲ ዓንቢቡ ፍሬኹም /2/",
+      "እዚ ንምርኣይ እንቋዕ ኣብቅዓኩም /2/",
+      "ኣብ ኣምላኽ ኣዚኹም ከቢርኩም /2/",
+      "ብምሕረት ናይ ኣምላኽ ብሰናይ ፍቓዱ",
+      "ብቅዱስ ቁርባኑ ሎሚ ተዋሃሃዱ /2/",
+      "ብስርዓት ናይ ተኽሊል ብሥጋኡን ደሙን",
+      "ብመድኃኒ ዓለም ቃል ኪዳን ፈጸሙ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብጸጋ ናይ ድንግል ብጸጋ ሓዋርያት",
+          "ኣብ ቅድሚ ቅዱሳን ብናይ ተኽሊል ስርዓት /2/",
+          "ብሥጋኡን ደሙን ክልቲኦም ሓደ ኮኑ",
+          "ናይ ሕብረት ቃል ኪዳን ብሓባር ፈጸሙ /2/",
+          "ኣብ ቤተ ክርስቲያን ኣብዛ ቅድስቲ ዕለት",
+          "ኣብ ቅድሚ ፈጣሪ ተዓደሉ ውህበት /2/",
+          "ኣብ ጊዜ መርዓኦም ወንጌል ተነቢቡ",
+          "ብመስቀል ናይ ካህን በረኸት ረኸቡ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣምላኽ የጽንዓዮም ኣምላኽ ይሓልዎም",
+          "ክቡር ቃል ኪዳን ‘ዩ ሎሚ ዓዲልዎም /2/",
+          "ክሳብ መወዳእታ ሓደ ኣካል ኮይኖም",
+          "ሥጋ ኣማኑኤል ተመጊቦም እዮም /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዓንቢቡ ፍሬኹም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nብምሕረት ናይ ኣምላኽ ብሰናይ ፍቓዱ\nብቅዱስ ቁርባኑ ሎሚ ተዋሃሃዱ (2)\nብስርዓት ናይ ተኽሊል ብሥጋኡን ደሙን\nብመድኃኒ ዓለም ቃል ኪዳን ፈጸሙ (2)\n[[/chorus]]\n\nመርዓውቲ ዓንቢቡ ፍሬኹም (2)\nእዚ ንምርኣይ እንቋዕ ኣብቅዓኩም (2)\nኣብ ኣምላኽ ኣዚኹም ከቢርኩም (2)\n\nብጸጋ ናይ ድንግል ብጸጋ ሓዋርያት\nኣብ ቅድሚ ቅዱሳን ብናይ ተኽሊል ስርዓት (2)\nብሥጋኡን ደሙን ክልቲኦም ሓደ ኮኑ\nናይ ሕብረት ቃል ኪዳን ብሓባር ፈጸሙ (2)\n\nኣምላኽ የጽንዓዮም ኣምላኽ ይሓልዎም\nክቡር ቃል ኪዳን ‘ዩ ሎሚ ዓዲልዎም (2)\nክሳብ መወዳእታ ሓደ ኣካል ኮይኖም\nሥጋ ኣማኑኤል ተመጊቦም እዮም (2)"
-    },
-    "ti_ro": {
-      "title": "'Anbibu frekhum",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nMerawti anbibu frekhum (2)\n[[/chorus]]\n\nZi nmray nqwa abqakum (2)\nAb amlakh azikhum kebirkum (2)\nBmhret nay amlakh bsenay fqadu\nBqdus qurbanu lomi tewahahadu (2)\nBsrat nay tekhlil bssgaun demun\nBmedhani alem qal kidan fetsemu (2)\nBtsega nay dngl btsega hawaryat\nAb qdmi qdusan bnay tekhlil srat (2)\nBssgaun demun kltiom hade konu\nNay hbret qal kidan bhabar fetsemu (2)\nAb bete krstiyan abza qdsti let\nAb qdmi fetari teadelu whbet (2)\nAb gize meraom wengel tenebibu\nBmesqel nay kahn berekhet rekhebu (2)\nAmlakh yetsnayom amlakh yhalwom\nKbur qal kidan ‘yu lomi adilwom (2)\nKsab mewedata hade akal koynom\nSsga amanuel temegibom yom (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mer'awti 'anbibu frekhum /2/",
+      "Zi nmray nqwa' abq'akum /2/",
+      "Ab amlakh azikhum kebirkum /2/",
+      "Bmhret nay amlakh bsenay fqadu",
+      "Bqdus qurbanu lomi tewahahadu /2/",
+      "Bsr'at nay tekhlil bssgaun demun",
+      "Bmedhani 'alem qal kidan fets'emu /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bts'ega nay dngl bts'ega hawaryat",
+          "Ab qdmi qdusan bnay tekhlil sr'at /2/",
+          "Bssgaun demun kltiom hade konu",
+          "Nay hbret qal kidan bhabar fets'emu /2/",
+          "Ab bete krstiyan abza qdsti 'let",
+          "Ab qdmi fet'ari te'adelu whbet /2/",
+          "Ab gize mer'aom wengel tenebibu",
+          "Bmesqel nay kahn berekhet rekhebu /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Amlakh yets'n'ayom amlakh yhalwom",
+          "Kbur qal kidan ‘yu lomi 'adilwom /2/",
+          "Ksab mewedata hade akal koynom",
+          "Ssga amanuel temegibom yom /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

@@ -1,41 +1,10 @@
 {
-  "id": "h_efr_d95abb1791",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እንድርያስ ኣቦይ"
-  },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እንድርያስ ኣቦይ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nብምሉእ እምነት ክትበጽሓ በሃግካ\nሩባ ዮርዳኖስ ክትርእያ ሃረር በልካ\nኣምላኽና ፈሊጡ ድሌት ናይ ልብኻ\nኢየሩሳሌም ኢሉ ሰመያ ንቤትካ\n[[/chorus]]\n\nብገመድ ፍቕርኻ ሰሓበኒ ብምርኩስ ጸሎትካ ደግፈኒ\nእንድርያስ ኣቦይ ባርኸኒ ምሳኻ ክነብር ድሌት ኣሎኒ (2)\n\nሰሓበኒ……. ነታ መንገድኻ ብእምነት ክፍልማ\nደግፈኒ…….. ሕይወት እተውህብ ግብሪ ክፍጽማ\nሰሓበኒ………. መሃረኒ ኣቦይ ‘ቲ ናትካ ዕላማ\n\nደግፈኒ…….. ብሕያው ጸሎትካ ንዓይ ሓልወኒ\nሰሓበኒ……. ዓለም ብኽፍኣታ ንኸይትውሕጠኒ\nደግፈኒ…….. እንድርያስ ኣቦይ ነዓ ኣይትግደፈኒ\n\nሰሓበኒ……… ከይጠፍኣካ ኣነ ኣብ ጐደና ጸልማት\nደግፈኒ……… ንኽረክብ’ውን ዓስቢ ናይ ሰማያት\nሰሓበኒ……….. ኣርእየኒ ኣቦይ መገዲ ናይ ሕይወት"
-    },
-    "ti_ro": {
-      "title": "'Ndryas aboy",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Bgemed fqrkha sehabeni bmrkus tselotka degfeni\nNdryas aboy barkheni msakha knebr dlet aloni (2)\nBmlu mnet ktbetsha behagka\nRuba yordanos ktrya harer belka\nAmlakhna felitu dlet nay lbkha\nIyerusalem ilu semeya nbetka\nSehabeni……. neta mengedkha bmnet kflma\nDegfeni…….. hywet tewhb gbri kftsma\nSehabeni………. mehareni aboy ‘ti natka lama\nBfluy tbat ngobo zegazka\nMena nardtka awridka megibka\nKab dewe zentsh qdus’yu tsebelka\nDnqi mestenkr yu aboy teamratka\nDegfeni…….. bhyaw tselotka nay halweni\nSehabeni……. alem bkhfata nkheytwhteni\nDegfeni…….. ndryas aboy nea aytgdefeni\nQal wengel bmzra nalem megebka\nBtghat gusnet wludka gwasikha\nFtsum qdsna hywetka merihka\nNlul amlakhna ngziabher assmirka\nSehabeni……… keytefaka ane ab godena tselmat\nDegfeni……… nkhrekb’wn asbi nay semayat\nSehabeni……….. aryeni aboy megedi nay hywet"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "id": 171,
+  "title": "እንድርያስ ኣቦይ",
+  "is_xref": true,
+  "ti": null,
+  "ti_ro": null,
+  "needs_review": [
+    "xref"
+  ]
 }

@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_43a522a760",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፍረድንግል ማርያም"
+  "id": 426,
+  "title": "ፍረድንግል ማርያም",
+  "ti": {
+    "chorus": [
+      "ፍረ ድንግል ማርያም ኢየሱስ ክርስቶስ/2/",
+      "ክብርኻ ክወርስ ፍፁም መንግስትኻ",
+      "መስቀልካ ክስከም ከመስግን ንዓኻ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትእዛዝካ ኣፍሪሰ ኣነስ በዲለካ",
+          "ሕያዋይ ሳምራዊ ንዓይ ምሕረት ሂብካ",
+          "ክብርኻ ወሪሰ ሞተይ ሓሊፍካዮ",
+          "ናይ ዕዳ መጽሓፈይ ጎይታ ቀዲድካዮ/2/",
+          "ሕይወት ናትካ እዩ ድሕነት ዘለዓለም",
+          "በደለይ ደምስሶ ክነብር ብሰላም",
+          "ኃጢኣተይ ኣሚነ ናባኻ ክምለስ",
+          "ንኸመስግነካ ኢለ ክበር ቅዱስ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ ብዝሒ ኃጢኣተይ በቃ መልሰኒ",
+          "ብቅዱስ መስቀልካ ነዓ ባርኸኒ",
+          "ቅዱስ ስጋ ደምካ ብፍቕሪ ክወስዶ",
+          "ፍቓድካ ኮይንለይ ቀራንዮ ክኸዶ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፍረድንግል ማርያም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣማኑኤል ኣምላኽ ቤዛ ናይ ሕይወተይ\nከስተውዕል ፍቕርኻ ልበይ ክፈተለይ\nክብርኻ ክወርስ ፍፁም መንግስትኻ\nመስቀልካ ክስከም ከመስግን ንዓኻ(2)\n[[/chorus]]\n\nፍረ ድንግል ማርያም ኢየሱስ ክርስቶስ(2)\nኣቦ ፍቕሪ ኣብ ልበይ ንገስ(2)\nኣብ ልበይ ንገስ\n\nትእዛዝካ ኣፍሪሰ ኣነስ በዲለካ\nሕያዋይ ሳምራዊ ንዓይ ምሕረት ሂብካ\nክብርኻ ወሪሰ ሞተይ ሓሊፍካዮ\nናይ ዕዳ መጽሓፈይ ጎይታ ቀዲድካዮ(2)\n\nካብ ብዝሒ ኃጢኣተይ በቃ መልሰኒ\nብቅዱስ መስቀልካ ነዓ ባርኸኒ\nቅዱስ ስጋ ደምካ ብፍቕሪ ክወስዶ\nፍቓድካ ኮይንለይ ቀራንዮ ክኸዶ(2)"
-    },
-    "ti_ro": {
-      "title": "Fredngl maryam",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nFre dngl maryam iyesus krstos(2)\n[[/chorus]]\n\nAbo fqri ab lbey nges(2)\nAb lbey nges\nAmanuel amlakh beza nay hywetey\nKestewl fqrkha lbey kfeteley\nKbrkha kwers ftsum mengstkha\nMesqelka kskem kemesgn nakha(2)\nTzazka afrise anes bedileka\nHyaway samrawi nay mhret hibka\nKbrkha werise motey halifkayo\nNay da metshafey goyta qedidkayo(2)\nHywet natka yu dhnet zelealem\nBedeley demsso knebr bselam\nHatiatey amine nabakha kmles\nNkhemesgneka ile kber qdus(2)\nKab bzhi hatiatey beqa melseni\nBqdus mesqelka nea barkheni\nQdus sga demka bfqri kwesdo\nFqadka koynley qeranyo kkhedo(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Fre dngl maryam iyesus krstos/2/",
+      "Kbrkha kwers fts'um mengstkha",
+      "Mesqelka kskem kemesgn n'akha/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tzazka afrise anes bedileka",
+          "Hyaway samrawi n'ay mhret hibka",
+          "Kbrkha werise motey halifkayo",
+          "Nay 'da mets'hafey goyta qedidkayo/2/",
+          "Hywet natka yu dhnet zele'alem",
+          "Bedeley demsso knebr bselam",
+          "Hat'iatey amine nabakha kmles",
+          "Nkhemesgneka ile kber qdus/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab bzhi hat'iatey beqa melseni",
+          "Bqdus mesqelka ne'a barkheni",
+          "Qdus sga demka bfqri kwesdo",
+          "Fqadka koynley qeranyo kkhedo/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

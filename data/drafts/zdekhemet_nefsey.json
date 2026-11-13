@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_4fdb887ebd",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዝደኸመት ነፍሰይ"
+  "id": 86,
+  "title": "ዝደኸመት ነፍሰይ",
+  "ti": {
+    "chorus": [
+      "ዝደኸመት ነፍሰይ ዕረፍቲ ረኺባ",
+      "ብመድኃኔ ዓለም ሰላም ተዋሂባ",
+      "ኣምላኽ ምስ ፈቐደ ቤተይ ሰላም መልኣ",
+      "ሕይወተይ ንምድሓን ክርስቶስ ሞተላ",
+      "ኣብ ልማድ ናይ ኣህዛብ እምነተይ ኣርዒመ",
+      "ዘይርኢ ዘይሰምዕ ጣኦት ተሰኪመ",
+      "ካብ ወርሕን ንፋስን ተስፋ ምስ ስኣንኩ",
+      "ፈጣሪ ናይ ጸሓይ ብኣኻ ረጋእኩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብስምካ ዝግበር ተኣምር ሰሚዐ",
+          "ንገጽካ ክርኢ ኣብ ሳግላ ሓኹረ",
+          "ብናይ ጐይታ ምሕረት ካብ ለምጺ ነጺህኩም",
+          "መስክሩ ንዓለም ግሩም'ዩ እናበልኩም"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብስርቂ ብቕትለት ዘሕለፍኩ ዘመነይ",
+          "ኣብ መስቀል ኣብቅዐ ገበታ ሓጢኣተይ",
+          "ኣበሳይ ደምሲሱ ብፍቕሪ ጠሚቱ",
+          "ገነት ፈቐደለይ ምስኡ ንኽኣቱ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ዳግማዊ ደርቤ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዝደኸመት ነፍሰይ",
-      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
-      "lyrics": "[[chorus]]\nኣብ ልማድ ናይ ኣህዛብ እምነተይ ኣርዒመ\nዘይርኢ ዘይሰምዕ ጣኦት ተሰኪመ\nካብ ወርሕን ንፋስን ተስፋ ምስ ስኣንኩ\nፈጣሪ ናይ ጸሓይ ብኣኻ ረጋእኩ\n[[/chorus]]\n\nዝደኸመት ነፍሰይ ዕረፍቲ ረኺባ\nብመድኃኔ ዓለም ሰላም ተዋሂባ\nኣምላኽ ምስ ፈቐደ ቤተይ ሰላም መልኣ\nሕይወተይ ንምድሓን ክርስቶስ ሞተላ\n\nብስምካ ዝግበር ተኣምር ሰሚዐ\nንገጽካ ክርኢ ኣብ ሳግላ ሓኹረ\nናይ ልበይ ፈሊጥካ ብስመይ ጸዊዕካ\nምድሓን'ውን ኮነለይ ብቕዱስ ፍቓድካ\n\nብስርቂ ብቕትለት ዘሕለፍኩ ዘመነይ\nኣብ መስቀል ኣብቅዐ ገበታ ሓጢኣተይ\nኣበሳይ ደምሲሱ ብፍቕሪ ጠሚቱ\nገነት ፈቐደለይ ምስኡ ንኽኣቱ"
-    },
-    "ti_ro": {
-      "title": "Zdekhemet nefsey",
-      "zemari": "zemari dagmawi derbe",
-      "lyrics": "Zdekhemet nefsey refti rekhiba\nBmedhane alem selam tewahiba\nAmlakh ms feqede betey selam mela\nHywetey nmdhan krstos motela\nAb lmad nay ahzab mnetey arime\nZeyri zeysem taot tesekime\nKab werhn nfasn tesfa ms sanku\nFetari nay tsehay bakha regaku\nBsmka zgber teamr semia\nNgetska kri ab sagla hakhure\nNay lbey felitka bsmey tsewika\nMdhan'wn koneley bqdus fqadka\nKab mot ztensaki ni amesgni\nTabita tensi nadonay zemri\nBnay goyta mhret kab lemtsi netsihkum\nMeskru nalem grum'yu nabelkum\nBsrqi bqtlet zehlefku zemeney\nAb mesqel abqa gebeta hatiatey\nAbesay demsisu bfqri temitu\nGenet feqedeley msu nkhatu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Zdekhemet nefsey 'refti rekhiba",
+      "Bmedhane 'alem selam tewahiba",
+      "Amlakh ms feqede betey selam mela",
+      "Hywetey nmdhan krstos motela",
+      "Ab lmad nay ahzab mnetey ar'ime",
+      "Zeyri zeysem' t'aot tesekime",
+      "Kab werhn nfasn tesfa ms sanku",
+      "Fet'ari nay ts'ehay bakha regaku"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bsmka zgber teamr semi'e",
+          "Ngets'ka kri ab sagla hakhure",
+          "Bnay gwayta mhret kab lemts'i nets'ihkum",
+          "Meskru n'alem grum'yu nabelkum"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsrqi bqtlet zehlefku zemeney",
+          "Ab mesqel abq'e gebeta hat'iatey",
+          "Abesay demsisu bfqri t'emitu",
+          "Genet feqedeley msu nkhatu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

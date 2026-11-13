@@ -1,0 +1,47 @@
+{
+  "id": 845,
+  "title": "ተፍሪ’ያ ጾም",
+  "ti": {
+    "chorus": [
+      "ፍቕርን ሰላምን ተፍሪ’ያ ጾም /2/",
+      "ፍጻሜ ዘይብሉ ክሳብ ዘልዓለም /2/",
+      "ናይ ጾም ፍረ ኩላትና ፈሊጥና /2/",
+      "ንጸሎት ንትጋህ ፍረ ከይሓልፈና /2/",
+      "ኣምላኽ ተፈተነ ብርጉም ጸላኢና /2/",
+      "ጾም ንኽምስርት ንድኅነት ሕይወትና /2/",
+      "ኣምላኽ ተሰከመ ሕማም ናትና /2/",
+      "ናይ ሕይወት ማይ ካብ ጎድኑ ሂቡና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕዝብኻ ሓሉ ካብ ክፉእ ፈተና /2/",
+          "ቅዱስ ኣምላኽና ሓይልና ኢኻ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Fqrn selamn tefri’ya ts'om /2/",
+      "Fts'ame zeyblu ksab zel'alem /2/",
+      "Nay ts'om fre kulatna felit'na /2/",
+      "Nts'elot ntgah fre keyhalfena /2/",
+      "Amlakh tefetene brgum ts'elaina /2/",
+      "Ts'om nkhmsrt ndhnet hywetna /2/",
+      "Amlakh tesekeme hmam natna /2/",
+      "Nay hywet may kab godnu hibuna /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hzbkha halu kab kfu fetena /2/",
+          "Qdus amlakhna haylna ikha /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

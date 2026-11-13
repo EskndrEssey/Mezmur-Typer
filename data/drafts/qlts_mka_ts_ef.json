@@ -1,0 +1,81 @@
+{
+  "id": 22,
+  "title": "ቅልጽምካ ዕጸፍ",
+  "ti": {
+    "chorus": [
+      "ቅልጽምካ ዕጸፍ ዝብለካ መን’ዩ",
+      "ምድሓንካ ግደፍ ዝብለካ መን’ዩ",
+      "እንተኸፍኣኩም’ቶም ኣሳደድተይ",
+      "ጸኒዐ ኣለኹ ብኣኻ ጐይታይ",
+      "ሕይወት ክመልእ ተሪፉ ሞተይ",
+      "እቲ ጸላም ድነ ክእለ ካባይ",
+      "እንታይ ኣሕዘኖም እቶም ሰዱቓውያን",
+      "ንዘይዕንቀፍ ናይ ጐይታ ምድሓን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ቤተ ሳይዳ ሕማመይ ደርብየ",
+          "እንተ ተንሳእኩ ሓይሊ ደሪበ",
+          "ብሰንበት ንዓይ ፈዊሱኒ ኢልኩም",
+          "ንምንታይ ንዕኡ ንሞት ፈረድኩም",
+          "ስምኦን ተኣለ ይከፈት ቤቱ",
+          "ይኣክል ቅንእኻ ኣብቲ ምሕረቱ",
+          "ሓጢኣተይ ጐይታ ተሓደገለይ",
+          "እንታይ ትጉዳእ በቲ ንብዓተይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዓይኒ ፈጢሩ እንተርኣየኒ",
+          "ምስቶም ዝርእዩ እንተጸምበረኒ",
+          "ንምንታይ ገጽኩም ብሓዘን ጠቀረ",
+          "ኤልሻዳይ ጐይታ ስለዘፍቀረ",
+          "ይከፈት ቤቱ ክንመላለስ",
+          "እቲ ፈቃር ጐይታ ኣባና ይንገስ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Qlts'mka 'ts'ef zbleka men’yu",
+      "Mdhanka gdef zbleka men’yu",
+      "Ntekhefakum’tom asadedtey",
+      "Ts'eni'e alekhu bakha gwaytay",
+      "Hywet kmel terifu motey",
+      "Ti ts'elam dne kle kabay",
+      "Ntay ahzenom tom seduqawyan",
+      "Nzey'nqef nay gwayta mdhan"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab bete sayda hmamey derbye",
+          "Nte tensaku hayli deribe",
+          "Bsenbet n'ay fewisuni ilkum",
+          "Nmntay n'u nmot feredkum",
+          "Smon teale ykefet betu",
+          "Yakl qnkha abti mhretu",
+          "Hat'iatey gwayta tehadegeley",
+          "Ntay tguda beti nb'atey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "'Ayni fet'iru nterayeni",
+          "Mstom zryu ntets'embereni",
+          "Nmntay gets'kum bhazen t'eqere",
+          "Elshaday gwayta slezefqere",
+          "Ykefet betu knmelales",
+          "Ti feqar gwayta abana ynges"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

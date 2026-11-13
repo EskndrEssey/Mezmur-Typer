@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_6975e2bdcb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ካባኻ እሞ ናበይ"
+  "id": 233,
+  "title": "ካባኻ እሞ ናበይ",
+  "ti": {
+    "chorus": [
+      "ካባኻ እሞ ናበይ ጐይታይ ካብ ጽኑዕ ፍቕርኻ",
+      "ፈልፋሊ ዛራ ሕይወተይ ዕረፍቲ ነፍሰይ ኢኻ",
+      "ሃልየ ምሳኻ ምሳኻ’ውን ሞተይ መጸናንዕየይ ካባኻ’ሞ ናበይ",
+      "ካብ ጉድጓድ ናይ ጥፍኣት  ዘስጥም ታኼላ",
+      "ብጥበብ ተውጽኣኒ ካብቲ ጽዩፍ ናብራ",
+      "ንመዓሙቕ ልበይ ባዕልኻ ትምርምሮ",
+      "ቃል ከየተንባህኩ ሓሳበይ ትፈልጦ",
+      "ሰማይ እንተደየብኩ ኣብኡ ትጸንሓኒ",
+      "ኣብ መንጸፍ  ናይ ሲኦል ኢድካ ትረኽበኒ",
+      "ካባኻ ፈጺመ ክኽወል ኣይክእልን",
+      "ምሳኻ መሪጸ ሕይወት ከስተማቕር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዓኻ ስዒበ ፈጺመ ኣይሓፍርን",
+          "ሕይወተይ ካባኻ ክፈልያ ኣይክእልን",
+          "ኢድካ ትጓስየኒ በጊዕካ’የ ኣነ",
+          "ኣብ ደምበ ጉስነትካ ማሚቐ ሓዲረ",
+          "ተስፋይ ኢኻ ንዓይ ጉልበተይ ብርተዐይ",
+          "ሓይሊ ትኾነኒ ልዕል ዘብል ከውሐይ",
+          "ብርሃን ንመንገደይ መብራህቲ ንኣእጋረይ",
+          "ኣምላኸይ ንስኻ ደራዚ ንብዓተይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ካባኻ እሞ ናበይ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nካብ ጉድጓድ ናይ ጥፍኣት ዘስጥም ታኼላ\nብጥበብ ተውጽኣኒ ካብቲ ጽዩፍ ናብራ\nኣምላኸይ ጸጋኻ ነዓይ ዓቢይ እዩ\nክገልጾ ዘይክእል ተኣምር ስራሕ’ዩ\n[[/chorus]]\n\nካባኻ እሞ ናበይ ጐይታይ ካብ ጽኑዕ ፍቕርኻ\nፈልፋሊ ዛራ ሕይወተይ ዕረፍቲ ነፍሰይ ኢኻ\nሃልየ ምሳኻ ምሳኻ’ውን ሞተይ መጸናንዕየይ ካባኻ’ሞ ናበይ\n\nጐይታይ ካብ መንፈስካ ናበየ ክሃድም\nካብቲ ብርሃን ገጽካ ክኽወል ኣይክእልን\nንመዓሙቕ ልበይ ባዕልኻ ትምርምሮ\nቃል ከየተንባህኩ ሓሳበይ ትፈልጦ\n\nንዓኻ ስዒበ ፈጺመ ኣይሓፍርን\nሕይወተይ ካባኻ ክፈልያ ኣይክእልን\nኢድካ ትጓስየኒ በጊዕካ’የ ኣነ\nኣብ ደምበ ጉስነትካ ማሚቐ ሓዲረ"
-    },
-    "ti_ro": {
-      "title": "Kabakha 'mo nabey",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Kabakha mo nabey goytay kab tsnu fqrkha\nFelfali zara hywetey refti nefsey ikha\nHalye msakha msakha’wn motey metsenanyey kabakha’mo nabey\nKab gudgwad nay tfat zestm takhela\nBtbeb tewtsani kabti tsyuf nabra\nAmlakhey tsegakha neay abiy yu\nKgeltso zeykl teamr srah’yu\nGoytay kab menfeska nabeye khadm\nKabti brhan getska kkhwel aykln\nNmeamuq lbey balkha tmrmro\nQal keyetenbahku hasabey tfelto\nSemay ntedeyebku abu ttsenhani\nAb mentsef nay siol idka trekhbeni\nKabakha fetsime kkhwel aykln\nMsakha meritse hywet kestemaqr\nNakha sibe fetsime ayhafrn\nHywetey kabakha kfelya aykln\nIdka tgwasyeni begika’ye ane\nAb dembe gusnetka mamiqe hadire\nTesfay ikha nay gulbetey brteay\nHayli tkhoneni ll zebl kewhay\nBrhan nmengedey mebrahti nagarey\nAmlakhey nskha derazi nbatey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kabakha mo nabey gwaytay kab ts'nu' fqrkha",
+      "Felfali zara hywetey 'refti nefsey ikha",
+      "Halye msakha msakha’wn motey mets'enan'yey kabakha’mo nabey",
+      "Kab gudgwad nay t'fat  zest'm takhela",
+      "Bt'beb tewts'ani kabti ts'yuf nabra",
+      "Nme'amuq lbey ba'lkha tmrmro",
+      "Qal keyetenbahku hasabey tfelt'o",
+      "Semay ntedeyebku abu tts'enhani",
+      "Ab ments'ef  nay siol idka trekhbeni",
+      "Kabakha fets'ime kkhwel aykln",
+      "Msakha merits'e hywet kestemaqr"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'akha s'ibe fets'ime ayhafrn",
+          "Hywetey kabakha kfelya aykln",
+          "Idka tgwasyeni begi'ka’ye ane",
+          "Ab dembe gusnetka mamiqe hadire",
+          "Tesfay ikha n'ay gulbetey brte'ey",
+          "Hayli tkhoneni l'l zebl kewhey",
+          "Brhan nmengedey mebrahti nagarey",
+          "Amlakhey nskha derazi nb'atey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

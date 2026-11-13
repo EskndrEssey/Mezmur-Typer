@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_961fd57348",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ምሕረትካ"
+  "id": 859,
+  "title": "ከም ምሕረትካ",
+  "ti": {
+    "chorus": [
+      "ከም ሳህልኻ ጐይታየ ከም ኣበሳይ ኣይኹን",
+      "በከመ ምሕረትከ አምላክነ",
+      "ወኣኮ በከመ ኣበሳነ",
+      "ፍትወት ዓለም ተድላ ልበይ'ዩ",
+      "ድሌት ስጋይ ገዛኢየይ'ዩ",
+      "ዕሽነት ከብቅዕ ነፍሰይ ክትድሕን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፈውስ ጐይታ ንቑስለይ ዘንን",
+          "ሸንኮለል ናብራ ዕረፍቲ ዘይብሉ",
+          "እከይ ግብረይ ውሽጠይ የቃጽሎ",
+          "ሰንፈላል ኮይኑ ሕይወት ዚዓለም",
+          "ሰላም ሃበኒ ናተይ መስፍን ሰላም",
+          "በምሳል ተጋዊ ርእሰይ ከድንን",
+          "ትዕቢት ስዒረ ምሕረት ክልምን",
+          "ንዓይ ንኃጥእ ኣንጽህ ኣምላኸይ",
+          "ቤትካ ክኣቱ ክትፍሳህ ነፍሰይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብዓቢይ ራዕዲ ኣበሳይ ይናዘዝ",
+          "ብምሕረትካ ሕይወት ክድበስ",
+          "ሞት ጥዒምካ ስለ ገበነይ",
+          "ፍቕሪ ኢኻ'ወ ዕቑባ ህላወይ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ምሕረትካ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nፍትወት ዓለም ተድላ ልበይ'ዩ\nድሌት ስጋይ ገዛኢየይ'ዩ\nዕሽነት ከብቅዕ ነፍሰይ ክትድሕን\nፈውስ ጐይታ ንቑስለይ ዘንን\n[[/chorus]]\n\nከም ምሕረትካ ደኣ ‘ምበር ከም በደለይ ኣይኹን\nከም ሳህልኻ ጐይታየ ከም ኣበሳይ ኣይኹን\nበከመ ምሕረትከ አምላክነ\nወኣኮ በከመ ኣበሳነ\n\nሸንኮለል ናብራ ዕረፍቲ ዘይብሉ\nእከይ ግብረይ ውሽጠይ የቃጽሎ\nሰንፈላል ኮይኑ ሕይወት ዚዓለም\nሰላም ሃበኒ ናተይ መስፍን ሰላም\n\nብዓቢይ ራዕዲ ኣበሳይ ይናዘዝ\nብምሕረትካ ሕይወት ክድበስ\nሞት ጥዒምካ ስለ ገበነይ\nፍቕሪ ኢኻ'ወ ዕቑባ ህላወይ"
-    },
-    "ti_ro": {
-      "title": "Kem mhretka",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "Kem mhretka dea ‘mber kem bedeley aykhun\nKem sahlkha goytaye kem abesay aykhun\nBekeme mhretke amlakne\nWeako bekeme abesane\nFtwet alem tedla lbey'yu\nDlet sgay gezaiyey'yu\nShnet kebq nefsey ktdhn\nFews goyta nqusley zenn\nShenkolel nabra refti zeyblu\nKey gbrey wshtey yeqatslo\nSenfelal koynu hywet zialem\nSelam habeni natey mesfn selam\nBemsal tegawi rsey kednn\nTbit sire mhret klmn\nNay nhat antsh amlakhey\nBetka katu ktfsah nefsey\nBabiy radi abesay ynazez\nBmhretka hywet kdbes\nMot timka sle gebeney\nFqri ikha'we quba hlawey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kem sahlkha gwaytaye kem abesay aykhun",
+      "Bekeme mhretke emlakne",
+      "Weako bekeme abesane",
+      "Ftwet 'alem tedla lbey'yu",
+      "Dlet sgay gezaiyey'yu",
+      "'Shnet kebq' nefsey ktdhn"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Fews gwayta nqusley zenn",
+          "Shenkolel nabra 'refti zeyblu",
+          "Key gbrey wsht'ey yeqats'lo",
+          "Senfelal koynu hywet zi'alem",
+          "Selam habeni natey mesfn selam",
+          "Bemsal tegawi rsey kednn",
+          "T'bit s'ire mhret klmn",
+          "N'ay nhat' ants'h amlakhey",
+          "Betka katu ktfsah nefsey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "B'abiy ra'di abesay ynazez",
+          "Bmhretka hywet kdbes",
+          "Mot t''imka sle gebeney",
+          "Fqri ikha'we 'quba hlawey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,57 @@
 {
-  "id": "h_efr_d4a6dbbc2c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሶበ ሰማዕነ ዜናከ"
+  "id": 462,
+  "title": "ሶበ ሰማዕነ ዜናከ",
+  "ti": {
+    "chorus": [
+      "ሶበ ሰማዕነ ዜናከ",
+      "መጻእነ ሃቤከ /2/ መጻእነ /2/",
+      "ኣንቲ ቤተልሔም ከተማ ናይ ዳዊት",
+      "ኣባኺ ተሰምዐ እቲ ቃል ናይ ብስራት",
+      "ምስጋና ኣብ ሰማይ ንእግዚአብሔር ይኩኖ",
+      "ሰላም ደቂ ሰባት ኣብ ምድሪ ሰፊኑ",
+      "ኣደ ምስ ውላዳ ተራእዮም ደሚቖም",
+      "መላእክት እግዚአብሔር ኣብ ቅድሚኦም ወዲቖም",
+      "ኣብ ደምበ ናይ ከብቲ ኣምላኽ ተወሊዱ",
+      "ናይ ነገስታት ንጉሥ ንሞት ኣወጊዱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ሰማይ ሓለቓ መካር ሓያል ኢኻ",
+          "እቲ መግዛእቲ ኣብቂዑ ኦ ጐይታ ብስምካ",
+          "ንሰላም ዝዕድል ኣልፋ ወኦሜጋ",
+          "ናይ እስራኤል ኣምላኽ ተገሊጹ ብስጋ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሶበ ሰማዕነ ዜናከ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣንቲ ቤተልሔም ከተማ ናይ ዳዊት\nኣባኺ ተሰምዐ እቲ ቃል ናይ ብስራት\nወዲ ተዋህበና ተወሊዱ ህፃን\nብእኡ ተኣልየ እቲ ዘጨንቕ ዘመን\n[[/chorus]]\n\nሶበ ሰማዕነ ዜናከ\nመጻእነ ሃቤከ (2) መጻእነ (2)\n\nሰብን መላእክትን ብሓባር ዘመሩ\nንኽብሪ እግዚአብሔር ኣብ ዓለም መስከሩ\nምስጋና ኣብ ሰማይ ንእግዚአብሔር ይኩኖ\nሰላም ደቂ ሰባት ኣብ ምድሪ ሰፊኑ\n\nናይ ሰማይ ሓለቓ መካር ሓያል ኢኻ\nእቲ መግዛእቲ ኣብቂዑ ኦ ጐይታ ብስምካ\nንሰላም ዝዕድል ኣልፋ ወኦሜጋ\nናይ እስራኤል ኣምላኽ ተገሊጹ ብስጋ"
-    },
-    "ti_ro": {
-      "title": "Sobe sema'ne zenake",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Sobe semane zenake\nMetsane habeke (2) metsane (2)\nAnti betelhem ketema nay dawit\nAbakhi tesema ti qal nay bsrat\nWedi tewahbena tewelidu htsan\nBu tealye ti zechenq zemen\nSebn melaktn bhabar zemeru\nNkhbri gziabher ab alem meskeru\nMsgana ab semay ngziabher ykuno\nSelam deqi sebat ab mdri sefinu\nAde ms wlada terayom demiqom\nMelakt gziabher ab qdmiom wediqom\nAb dembe nay kebti amlakh tewelidu\nNay negestat nguss nmot awegidu\nNay semay haleqa mekar hayal ikha\nTi megzati abqiu o goyta bsmka\nNselam zdl alfa weomega\nNay srael amlakh tegelitsu bsga"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sobe sema'ne zenake",
+      "Mets'ane habeke /2/ mets'ane /2/",
+      "Anti betelhem ketema nay dawit",
+      "Abakhi tesem'e ti qal nay bsrat",
+      "Msgana ab semay ngziebher ykuno",
+      "Selam deqi sebat ab mdri sefinu",
+      "Ade ms wlada terayom demiqom",
+      "Melakt gziebher ab qdmiom wediqom",
+      "Ab dembe nay kebti amlakh tewelidu",
+      "Nay negestat nguss nmot awegidu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay semay haleqa mekar hayal ikha",
+          "Ti megzati abqi'u o gwayta bsmka",
+          "Nselam z'dl alfa weomega",
+          "Nay srael amlakh tegelits'u bsga"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

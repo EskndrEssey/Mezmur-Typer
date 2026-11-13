@@ -1,0 +1,123 @@
+{
+  "id": 244,
+  "title": "ቅዱስ ሚካኤል",
+  "ti": {
+    "chorus": [
+      "ኣምላኽ ዝሓረዮ ካብ ኣእላፍ መላእክት",
+      "ኣኽሊል ናይ ቅዱሳን መዕረጊ ጸሎት",
+      "ኣድሕነና ነዓ ካብቲ ጸልማት ሲኦል",
+      "ሰዳዴ ሳጥናኤል ቅዱስ ሚካኤል /2/",
+      "ቅዱስ ሚካኤል ንህዝቢ እስራኤል",
+      "ቅዱስ ሚካኤል ካብ ጭንቅን መከራን",
+      "ቅዱስ ሚካኤል ካብ ግብጺ መራሕካ",
+      "ቅዱስ ሚካኤል ካብ ባርነት ፈርኦን",
+      "ብባሕሪ ኤርትራ ኣስገርካ ናብ ከንኣን",
+      "ንዓና’ውን ኣድሕን ካብ ውዲት ናይ ሰይጣን ቅዱስ ሚካኤል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅዱስ ሚካኤል ፍቓድካ ምሕረት’ዩ",
+          "ቅዱስ ሚካኤል ምሕረት ለምነልና",
+          "ቅዱስ ሚካኤል ብእምነት ክንጸንዕ",
+          "ቅዱስ ሚካኤልኣብ ጊዜ ፈተና",
+          "ቅዱስ ሚካኤል ናብ ሓጎስ ለወጥካ",
+          "ቅዱስ ሚካኤል ካብ ክፉእ ሞት መፍርሕ",
+          "ናትና’ውን ለውጦ ንኃጢኣትና ብዙሕ",
+          "ኣብ ብርሃን ክንነብር ኣብ ቤት ጐይታ ስፉሕ ቅዱስ ሚካኤል"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅዱስ ሚካኤል ካብቲ ማዕሙቕ ጉድጓድ",
+          "ቅዱስ ሚካኤል ንነቢይ ዳንኤል",
+          "ቅዱስ ሚካኤል ብፍጹም ኣድሓንካ",
+          "ቅዱስ ሚካኤል ካብ ኣፍ ናይ ኣናብስ",
+          "ንዓና’ውን ኣድሕን ካብ ርጉም ዲያብሎስ",
+          "ብሓባር ክነብር ምስ ጐይታ ኢየሱስ ቅዱስ ሚካኤል",
+          "ቅዱስ ሚካኤል ንልምን ኣሎና",
+          "ቅዱስ ሚካኤል ኣብቲ ቅዱስ ቤትካ",
+          "ቅዱስ ሚካኤል ንብዓትና ይውሕዝ",
+          "ቅዱስ ሚካኤል ኣብ ቅድሚ ስእልኻ",
+          "ሓንሳብ እባ ነዓ ተስፋ ድኅነት ሒዝካ",
+          "ካብ ልዑል ፈጣሪ ካብ ቅዱስ ኣምላኽና ቅዱስ ሚካኤል"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ቅዱስ ሚካኤል ዘክረና ኢኻ",
+          "ቅዱስ ሚካኤል ኣብቲ ጊዜ ምጽኣት",
+          "ቅዱስ ሚካኤል መታን ከይንሓፍር",
+          "ቅዱስ ሚካኤል ብግብሪ ኃጢኣት",
+          "ይቕረ እንክብለልና እቲ ጐይታ ሰራዊት",
+          "ብሓጎስ ክንኣቱ መንግስተ ሰማያት ቅዱስ ሚካኤል"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Amlakh zhareyo kab alaf melakt",
+      "Akhlil nay qdusan me'regi ts'elot",
+      "Adhnena ne'a kabti ts'elmat siol",
+      "Sedade sat'nael qdus mikael /2/",
+      "Qdus mikael nhzbi srael",
+      "Qdus mikael kab ch'nqn mekeran",
+      "Qdus mikael kab gbts'i merahka",
+      "Qdus mikael kab barnet feron",
+      "Bbahri ertra asgerka nab kenan",
+      "N'ana’wn adhn kab wdit nay seyt'an qdus mikael"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdus mikael fqadka mhret’yu",
+          "Qdus mikael mhret lemnelna",
+          "Qdus mikael bmnet knts'en'",
+          "Qdus mikaelab gize fetena",
+          "Qdus mikael nab hagos lewet'ka",
+          "Qdus mikael kab kfu mot mefrh",
+          "Natna’wn lewt'o nhat'iatna bzuh",
+          "Ab brhan knnebr ab bet gwayta sfuh qdus mikael"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qdus mikael kabti ma'muq gudgwad",
+          "Qdus mikael nnebiy danel",
+          "Qdus mikael bfts'um adhanka",
+          "Qdus mikael kab af nay anabs",
+          "N'ana’wn adhn kab rgum diyablos",
+          "Bhabar knebr ms gwayta iyesus qdus mikael",
+          "Qdus mikael nlmn alona",
+          "Qdus mikael abti qdus betka",
+          "Qdus mikael nb'atna ywhz",
+          "Qdus mikael ab qdmi slkha",
+          "Hansab ba ne'a tesfa dhnet hizka",
+          "Kab l'ul fet'ari kab qdus amlakhna qdus mikael"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Qdus mikael zekrena ikha",
+          "Qdus mikael abti gize mts'at",
+          "Qdus mikael metan keynhafr",
+          "Qdus mikael bgbri hat'iat",
+          "Yqre nkblelna ti gwayta serawit",
+          "Bhagos knatu mengste semayat qdus mikael"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

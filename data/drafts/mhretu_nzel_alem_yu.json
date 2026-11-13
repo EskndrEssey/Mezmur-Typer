@@ -1,44 +1,101 @@
 {
-  "id": "h_efr_997938d9fb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምሕረቱ ንዘልዓለም’ዩ"
+  "id": 252,
+  "title": "ምሕረቱ ንዘልዓለም’ዩ",
+  "ti": {
+    "chorus": [
+      "እግዚአብሔር ምሳና እንተዘይነብር",
+      "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌ ሉያ",
+      "ሰባት ክትንስኡ ኣብ ልዕሌና",
+      "ምሕረቱ ንዘልዓለም’ዩ /2/",
+      "ኣሕዛብ ብሕይወትና ምወሓጡና",
+      "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ",
+      "ቀንዲ ቁጥዓኦም ኣብ ልዕሌና",
+      "ኣህዛብ ብሕይወትና ምወሓጡና",
+      "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ",
+      "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሽዑ ማያት ዓለም መጥሓለና",
+          "ምሕረቱ ንዘልዓለም’ዩ /2/",
+          "ታኼላ ኃጢኣት ደው መበለና",
+          "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ",
+          "ጋሻ ውሕጅ ምኸደ ሒዙና",
+          "ኣብ ርኽሰት ናይ ዓለም ፍጹም ምሰጠምና",
+          "ምሕረቱ ንዘልዓለም’ዩ",
+          "ከም ዑፍ ካብ መፈንጠራ መለቝና",
+          "ምሕረቱ ንዘልዓለም’ዩ /2/",
+          "መፈንጠራ ተበትከ ንሕና’ውን ደሓና",
+          "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ",
+          "ጐይታ እንተዘይነብር ምሳና",
+          "ዕድሜና ኣሕጺሮም ብሞት ምቐጽዑና",
+          "ንምንጫቶ ኣስናኖም ዘይወፈየና",
+          "ምሕረቱ ንዘልዓለም’ዩ /2/ ሃሌሉያ",
+          "ሕጂ እውን ኤቨን ኤዘር ኢልና",
+          "ስሙ ብዕልልታ ንውድስ ኣሎና",
+          "ምሕረቱ ንዘልዓለም’ዩ",
+          "ረድኤትና ካብ እግዚአብሔር",
+          "ድንቂ ግብሩ ፍጹም መስተንክር",
+          "ሰማይን ምድርን ዝገበረ",
+          "ብኣጻብዑ ዝሰደረ",
+          "ኣምላኽ ናይ ምድሪ ናይ ሰማያት",
+          "ኣምላኽ ናይ ባሕሪ ናይ ቀላያት",
+          "ኣምላኽ ናይ ኵሉ ፍጥረት"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምሕረቱ ንዘልዓለም’ዩ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nሰባት ክትንስኡ ኣብ ልዕሌና\nምሕረቱ ንዘልዓለም’ዩ (2)\nኣሕዛብ ብሕይወትና ምወሓጡና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nቀንዲ ቁጥዓኦም ኣብ ልዕሌና\nኣህዛብ ብሕይወትና ምወሓጡና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\n[[/chorus]]\n\nእግዚአብሔር ምሳና እንተዘይነብር\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌ ሉያ\n\nሽዑ ማያት ዓለም መጥሓለና\nምሕረቱ ንዘልዓለም’ዩ (2)\nታኼላ ኃጢኣት ደው መበለና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nጋሻ ውሕጅ ምኸደ ሒዙና\nኣብ ርኽሰት ናይ ዓለም ፍጹም ምሰጠምና\nምሕረቱ ንዘልዓለም’ዩ\n\nካብ ኢድ ጸላእትና ዘድሓነና\nምሕረቱ ንዘልዓለም’ዩ (2)\nንምንጫቶ ኣስናኖም ዘይወፈየና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nሕጂ እውን ኤቨን ኤዘር ኢልና\nስሙ ብዕልልታ ንውድስ ኣሎና\nምሕረቱ ንዘልዓለም’ዩ"
-    },
-    "ti_ro": {
-      "title": "Mhretu nzel'alem’yu",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "[[chorus]]\nMhretu nzelalem’yu (2) hale luya\n[[/chorus]]\n\nGziabher msana ntezeynebr\nSebat ktnsu ab llena\nMhretu nzelalem’yu (2)\nAhzab bhywetna mwehatuna\nMhretu nzelalem’yu (2) haleluya\nQendi qutaom ab llena\nAhzab bhywetna mwehatuna\nMhretu nzelalem’yu (2) haleluya\nMhretu nzelalem’yu (2) haleluya\nShu mayat alem methalena\nMhretu nzelalem’yu (2)\nTakhela hatiat dew mebelena\nMhretu nzelalem’yu (2) haleluya\nGasha whj mkhede hizuna\nAb rkhset nay alem ftsum msetemna\nMhretu nzelalem’yu\nKem uf kab mefentera meleqwina\nMhretu nzelalem’yu (2)\nMefentera tebetke nhna’wn dehana\nMhretu nzelalem’yu (2) haleluya\nGoyta ntezeynebr msana\nDmena ahtsirom bmot mqetsuna\nMhretu nzelalem’yu\nMhretu nzelalem’yu (2) haleluya\nKab id tselatna zedhanena\nMhretu nzelalem’yu (2)\nNmnchato asnanom zeywefeyena\nMhretu nzelalem’yu (2) haleluya\nHji wn even ezer ilna\nSmu bllta nwds alona\nMhretu nzelalem’yu\nRedetna kab gziabher\nDnqi gbru ftsum mestenkr\nSemayn mdrn zgebere\nBatsabu zsedere\nAmlakh nay mdri nay semayat\nAmlakh nay bahri nay qelayat\nAmlakh nay kwilu ftret"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Gziebher msana ntezeynebr",
+      "Mhretu nzel'alem’yu /2/ hale luya",
+      "Sebat ktnsu ab l'lena",
+      "Mhretu nzel'alem’yu /2/",
+      "Ahzab bhywetna mwehat'una",
+      "Mhretu nzel'alem’yu /2/ haleluya",
+      "Qendi qut''aom ab l'lena",
+      "Ahzab bhywetna mwehat'una",
+      "Mhretu nzel'alem’yu /2/ haleluya",
+      "Mhretu nzel'alem’yu /2/ haleluya"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Sh'u mayat 'alem met'halena",
+          "Mhretu nzel'alem’yu /2/",
+          "Takhela hat'iat dew mebelena",
+          "Mhretu nzel'alem’yu /2/ haleluya",
+          "Gasha whj mkhede hizuna",
+          "Ab rkhset nay 'alem fts'um mset'emna",
+          "Mhretu nzel'alem’yu",
+          "Kem 'uf kab mefent'era meleqwna",
+          "Mhretu nzel'alem’yu /2/",
+          "Mefent'era tebetke nhna’wn dehana",
+          "Mhretu nzel'alem’yu /2/ haleluya",
+          "Gwayta ntezeynebr msana",
+          "'Dmena ahts'irom bmot mqets''una",
+          "Nmnch'ato asnanom zeywefeyena",
+          "Mhretu nzel'alem’yu /2/ haleluya",
+          "Hji wn even ezer ilna",
+          "Smu b'llta nwds alona",
+          "Mhretu nzel'alem’yu",
+          "Redetna kab gziebher",
+          "Dnqi gbru fts'um mestenkr",
+          "Semayn mdrn zgebere",
+          "Bats'ab'u zsedere",
+          "Amlakh nay mdri nay semayat",
+          "Amlakh nay bahri nay qelayat",
+          "Amlakh nay kwlu ft'ret"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
   "needs_review": [
-    "repeat_markers"
+    "verse_1_possible_page_split"
   ]
 }

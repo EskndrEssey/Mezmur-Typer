@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_12f427e5de",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፍቕሪ’ዩ ማዕዶትና"
+  "id": 184,
+  "title": "ፍቕሪ’ዩ ማዕዶትና",
+  "ti": {
+    "chorus": [
+      "ጕዕዞ መዋዕል ክርስትና ብፍቕሪ ክንዛዝሞ",
+      "ብጥበብ ፍቕሩ ንመላለስ ልቢ እግዚአብሔር ክንረትዖ",
+      "ፍቕሪ ‘ንድዩ ማዕዶትና ናብቲ ሰማያዊ እምባ ንጽግዖ",
+      "ህርፋን ትጽቢት ልበይ ምንፋቑ መርዓዊ ’ንተመጸ",
+      "ምስ ጽቡቕ ቀንዴለይ ኣብ ኣፍደገ እግረይ እንተረገጸ",
+      "‘ቲ ዘይተይ ዘይቲ ፍቕሪ ጽድቁ ካብ ኣንቀጽኩ",
+      "መን ደንጊጹ’ሞ  ይኽፈተኒ ብጻየይ ከየፍቀርኩ",
+      "ብግብርን በሓቅን’ምበር",
+      "ብቓልን ልሳንን ኣይንፋቐር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከም መጠን ነፍቅሮ  እንተኾይኑ ኢድና  ዝኽፈሎ",
+          "ከም መጠን ንትሕቶ‘ውን ‘ተኾይኑ ብጸጋ ንልዕሎ",
+          "ብልቃጥ ዕፍረት  ልብና  ናርዶሳዊ ጨና",
+          "ኣብ ትሕቲ እግሪ ጐይታና ንስበሮ ብትሕትና",
+          "ቀለም ብርዒ ኣእምሮይ ኣንጀርቢባ ዝርንዛሕ ክትነብዕ",
+          "‘ታይኮን ምጸሓፈት ስለ ፍቕሪ ብጥበብ ክትነዝዕ",
+          "ትብሎ ግን’ባ’ለዋ ብድሩት ክእለታ",
+          "ዘይከም ዛ’ግብዝቲ ልሳን ንፋቐር'ዩ መልእኽታ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅናት ኵሉ ሕጊ ንውኅደተን ልክዕ ከም ሽሕ ፈልጺ",
+          "ፍቕሪ’ንድዩ ጥምረተን ከም እንዳእቲ ሥምረተን ኣብ ልሕጺ",
+          "ማእሰር ኵሉ ፍጻሜ ከዳኒት ኃጢአትና",
+          "ዋላ’ንተበዝሐ ሕብርና ፍቕሪ‘ንድያ ‘ታ ውኅደትና"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፍቕሪ’ዩ ማዕዶትና",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nብግብርን በሓቅን’ምበር\nብቓልን ልሳንን ኣይንፋቐር\n[[/chorus]]\n\nናይ ፈለማ ጥበብ ፍርሐት እግአዚአብሔር’ዩ’ሞ\nጕዕዞ መዋዕል ክርስትና ብፍቕሪ ክንዛዝሞ\nብጥበብ ፍቕሩ ንመላለስ ልቢ እግዚአብሔር ክንረትዖ\nፍቕሪ ‘ንድዩ ማዕዶትና ናብቲ ሰማያዊ እምባ ንጽግዖ\nህርፋን ትጽቢት ልበይ ምንፋቑ መርዓዊ ’ንተመጸ\nምስ ጽቡቕ ቀንዴለይ ኣብ ኣፍደገ እግረይ እንተረገጸ\n‘ቲ ዘይተይ ዘይቲ ፍቕሪ ጽድቁ ካብ ኣንቀጽኩ\nመን ደንጊጹ’ሞ ይኽፈተኒ ብጻየይ ከየፍቀርኩ\n\nከም መጠን ነፍቅሮ እንተኾይኑ ኢድና ዝኽፈሎ\nከም መጠን ንትሕቶ‘ውን ‘ተኾይኑ ብጸጋ ንልዕሎ\nብልቃጥ ዕፍረት ልብና ናርዶሳዊ ጨና\nኣብ ትሕቲ እግሪ ጐይታና ንስበሮ ብትሕትና\nቀለም ብርዒ ኣእምሮይ ኣንጀርቢባ ዝርንዛሕ ክትነብዕ\n‘ታይኮን ምጸሓፈት ስለ ፍቕሪ ብጥበብ ክትነዝዕ\nትብሎ ግን’ባ’ለዋ ብድሩት ክእለታ\nዘይከም ዛ’ግብዝቲ ልሳን ንፋቐር'ዩ መልእኽታ\nቅናት ኵሉ ሕጊ ንውኅደተን ልክዕ ከም ሽሕ ፈልጺ\nፍቕሪ’ንድዩ ጥምረተን ከም እንዳእቲ ሥምረተን ኣብ ልሕጺ\nማእሰር ኵሉ ፍጻሜ ከዳኒት ኃጢአትና\nዋላ’ንተበዝሐ ሕብርና ፍቕሪ‘ንድያ ‘ታ ውኅደትና"
-    },
-    "ti_ro": {
-      "title": "Fqri’yu ma'dotna",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Nay felema tbeb frhat gaziabher’yu’mo\nGwizo mewal krstna bfqri knzazmo\nBtbeb fqru nmelales lbi gziabher knreto\nFqri ‘ndyu madotna nabti semayawi mba ntsgo\nHrfan ttsbit lbey mnfaqu merawi ’ntemetse\nMs tsbuq qendeley ab afdege grey nteregetse\n‘Ti zeytey zeyti fqri tsdqu kab anqetsku\nMen dengitsu’mo ykhfeteni btsayey keyefqerku\nBgbrn behaqn’mber\nBqaln lsann aynfaqer\nKem meten nefqro ntekhoynu idna zkhfelo\nKem meten nthto‘wn ‘tekhoynu btsega nllo\nBlqat fret lbna nardosawi chena\nAb thti gri goytana nsbero bthtna\nQelem bri amroy anjerbiba zrnzah ktneb\n‘Taykon mtsehafet sle fqri btbeb ktnez\nTblo gn’ba’lewa bdrut kleta\nZeykem za’gbzti lsan nfaqer'yu melkhta\nQnat kwilu hgi nwhdeten lk kem shh feltsi\nFqri’ndyu tmreten kem ndati ssmreten ab lhtsi\nMaser kwilu ftsame kedanit hatiatna\nWala’ntebezha hbrna fqri‘ndya ‘ta whdetna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gw'zo mewa'l krstna bfqri knzazmo",
+      "Bt'beb fqru nmelales lbi gziebher knret'o",
+      "Fqri ‘ndyu ma'dotna nabti semayawi mba nts'g'o",
+      "Hrfan tts'bit lbey mnfaqu mer'awi ’ntemets'e",
+      "Ms ts'buq qendeley ab afdege grey nteregets'e",
+      "‘Ti zeytey zeyti fqri ts'dqu kab anqets'ku",
+      "Men dengits'u’mo  ykhfeteni bts'ayey keyefqerku",
+      "Bgbrn behaqn’mber",
+      "Bqaln lsann aynfaqer"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kem met'en nefqro  ntekhoynu idna  zkhfelo",
+          "Kem met'en nthto‘wn ‘tekhoynu bts'ega nl'lo",
+          "Blqat' 'fret  lbna  nardosawi ch'ena",
+          "Ab thti gri gwaytana nsbero bthtna",
+          "Qelem br'i amroy anjerbiba zrnzah ktneb'",
+          "‘Taykon mts'ehafet sle fqri bt'beb ktnez'",
+          "Tblo gn’ba’lewa bdrut kleta",
+          "Zeykem za’gbzti lsan nfaqer'yu melkhta"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qnat kwlu hgi nwhdeten lk' kem shh felts'i",
+          "Fqri’ndyu t'mreten kem ndati Ssmreten ab lhts'i",
+          "Maser kwlu fts'ame kedanit hat'ietna",
+          "Wala’ntebezhe hbrna fqri‘ndya ‘ta whdetna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

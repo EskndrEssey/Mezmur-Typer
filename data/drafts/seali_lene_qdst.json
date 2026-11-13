@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_cf62afd277",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰኣሊ ለነ ቅድስት"
+  "id": 366,
+  "title": "ሰኣሊ ለነ ቅድስት",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም",
+      "ሰኣሊ ኣብ መከራ ጊዜ",
+      "ሰኣሊ ኣጸናንዕኒ",
+      "ሰኣሊ ኣፈይ ንምስጋና",
+      "ሰኣሊ ኣነቓቕሕኒ",
+      "ሰኣሊ ከምቶም ኣቦታተይ",
+      "ሰኣሊ ብጸጋ ምልእኒ ኣደ ብዙሓት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰኣሊ ፍቕርኺ ኣብ ልበይ",
+          "ሰኣሊ ዕረፍቲ ኮይኑኒ",
+          "ሰኣሊ ካብቲ ጽኑዕ ጸልማት",
+          "ሰኣሊ ጐይታ ከውጽኣኒ",
+          "ሰኣሊ ዝቖሰለ ልበይ",
+          "ሰኣሊ ፈውሰይ ክኾነኒ ናተይ መድኃኒት",
+          "ሰኣሊ መደገፊ ምርኩስ",
+          "ሰኣሊ ኩንኒ ጉልበተይ",
+          "ሰኣሊ ጣዕሚ ናይ ፍቕርኺ",
+          "ሰኣሊ ክነግሮም ነሕዋተይ",
+          "ሰኣሊ ንዓኺ ምስ ሓዝኩ",
+          "ሰኣሊ በሪሁ'ሎ ገጸይ ብርሃን ናይ ገዛይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰኣሊ ኣደይ ምስ በልኩኺ",
+          "ሰኣሊ ዝወደይ በልኒ",
+          "ሰኣሊ መብራህተይ ከይጠፍእ",
+          "ሰኣሊ ናብ ጐይታ ለምኒ",
+          "ሰኣሊ ኣደ ነፍሰይ ኢኺ",
+          "ሰኣሊ ደገፍ ትኾንኒ ማርያም ድንግል"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰኣሊ ለነ ቅድስት",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nሰኣሊ ኣብ መከራ ጊዜ\nሰኣሊ ኣጸናንዕኒ\nሰኣሊ ኣፈይ ንምስጋና\nሰኣሊ ኣነቓቕሕኒ\nሰኣሊ ከምቶም ኣቦታተይ\nሰኣሊ ብጸጋ ምልእኒ ኣደ ብዙሓት\n[[/chorus]]\n\nሰኣሊ ለነ ቅድስት (2)\nድንግል ማርያም\n\nሰኣሊ ፍቕርኺ ኣብ ልበይ\nሰኣሊ ዕረፍቲ ኮይኑኒ\nሰኣሊ ካብቲ ጽኑዕ ጸልማት\nሰኣሊ ጐይታ ከውጽኣኒ\nሰኣሊ ዝቖሰለ ልበይ\nሰኣሊ ፈውሰይ ክኾነኒ ናተይ መድኃኒት\n\nሰኣሊ ኣደይ ምስ በልኩኺ\nሰኣሊ ዝወደይ በልኒ\nሰኣሊ መብራህተይ ከይጠፍእ\nሰኣሊ ናብ ጐይታ ለምኒ\nሰኣሊ ኣደ ነፍሰይ ኢኺ\nሰኣሊ ደገፍ ትኾንኒ ማርያም ድንግል"
-    },
-    "ti_ro": {
-      "title": "Seali lene qdst",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nSeali lene qdst (2)\n[[/chorus]]\n\nDngl maryam\nSeali ab mekera gize\nSeali atsenanni\nSeali afey nmsgana\nSeali aneqaqhni\nSeali kemtom abotatey\nSeali btsega mlni ade bzuhat\nSeali fqrkhi ab lbey\nSeali refti koynuni\nSeali kabti tsnu tselmat\nSeali goyta kewtsani\nSeali zqosele lbey\nSeali fewsey kkhoneni natey medhanit\nSeali medegefi mrkus\nSeali kunni gulbetey\nSeali tami nay fqrkhi\nSeali knegrom nehwatey\nSeali nakhi ms hazku\nSeali berihu'lo getsey brhan nay gezay\nSeali adey ms belkukhi\nSeali zwedey belni\nSeali mebrahtey keytef\nSeali nab goyta lemni\nSeali ade nefsey ikhi\nSeali degef tkhonni maryam dngl"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam",
+      "Seali ab mekera gize",
+      "Seali ats'enan'ni",
+      "Seali afey nmsgana",
+      "Seali aneqaqhni",
+      "Seali kemtom abotatey",
+      "Seali bts'ega mlni ade bzuhat"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Seali fqrkhi ab lbey",
+          "Seali 'refti koynuni",
+          "Seali kabti ts'nu' ts'elmat",
+          "Seali gwayta kewts'ani",
+          "Seali zqosele lbey",
+          "Seali fewsey kkhoneni natey medhanit",
+          "Seali medegefi mrkus",
+          "Seali kunni gulbetey",
+          "Seali t'a'mi nay fqrkhi",
+          "Seali knegrom nehwatey",
+          "Seali n'akhi ms hazku",
+          "Seali berihu'lo gets'ey brhan nay gezay"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seali adey ms belkukhi",
+          "Seali zwedey belni",
+          "Seali mebrahtey keyt'ef",
+          "Seali nab gwayta lemni",
+          "Seali ade nefsey ikhi",
+          "Seali degef tkhonni maryam dngl"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_3145b8a003",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናይ ወልድ ከተማ"
+  "id": 226,
+  "title": "ናይ ወልድ ከተማ",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም ንግስትና",
+      "ድንቂ ፍጥረት ናይ ወልድ ከተማ",
+      "ጥፍኣት ዓለም መዐገሢት",
+      "ሰላማዊት ናይ ቅዱሳን ግርማ",
+      "ሃብቲ ናይ ሰማያት ኵሉ ተዓዲልኪ",
+      "ጸግዒ ናይ ኵልና ብፅዕቲ ንብለኪ",
+      "ብርኽትን ቅድስትን ንጽህት ኣደ ኢኺ",
+      "ከምታ ናይ ኖህ መርከብ መድኃኒትና ኢኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰላም ለኪ ኢልና ክንጽውዕ ንስምኪ",
+          "ብቓላትኪ ጌርኪ ኣብድና ኢኺ",
+          "ንዓና’ውን ተስፋ ነዞም ዝደኸምና",
+          "ናይ ስምኪ መቐረት ያም’ዩ ንነፍስና"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዓኺ ዘይኣምኑ ዋላ እንተተንስኡ",
+          "ቅዱስ ቃል ጠዋውዮም ንነፍሶም የጥፍኡ",
+          "ክብርኺ ምስ ረኣዩ ጸጋኺ መሊኡ",
+          "ሰምቢዶም ርዒዶም ቅድሜኺ ይድፍኡ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናይ ወልድ ከተማ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nሃብቲ ናይ ሰማያት ኵሉ ተዓዲልኪ\nጸግዒ ናይ ኵልና ብፅዕቲ ንብለኪ\nብርኽትን ቅድስትን ንጽህት ኣደ ኢኺ\nከምታ ናይ ኖህ መርከብ መድኃኒትና ኢኺ\n[[/chorus]]\n\nድንግል ማርያም ንግስትና\nድንቂ ፍጥረት ናይ ወልድ ከተማ\nጥፍኣት ዓለም መዐገሢት\nሰላማዊት ናይ ቅዱሳን ግርማ\n\nሰላም ለኪ ኢልና ክንጽውዕ ንስምኪ\nብቓላትኪ ጌርኪ ኣብድና ኢኺ\nንወድኺ ለምኒ ደው በሊ ስሌና\nመድኃኒ ናይ ዓለም ምሕረት ክህበና\n\nንዓኺ ዘይኣምኑ ዋላ እንተተንስኡ\nቅዱስ ቃል ጠዋውዮም ንነፍሶም የጥፍኡ\nክብርኺ ምስ ረኣዩ ጸጋኺ መሊኡ\nሰምቢዶም ርዒዶም ቅድሜኺ ይድፍኡ"
-    },
-    "ti_ro": {
-      "title": "Nay weld ketema",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Dngl maryam ngstna\nDnqi ftret nay weld ketema\nTfat alem meagesit\nSelamawit nay qdusan grma\nHabti nay semayat kwilu teadilki\nTsegi nay kwilna btsti nbleki\nBrkhtn qdstn ntsht ade ikhi\nKemta nay noh merkeb medhanitna ikhi\nSelam leki ilna kntsw nsmki\nBqalatki gerki abdna ikhi\nNwedkhi lemni dew beli slena\nMedhani nay alem mhret khbena\nNay abel lewhat nay sem hyawnet\nNay yshaq meaza nay muse tslat\nNana’wn tesfa nezom zdekhemna\nNay smki meqeret yam’yu nnefsna\nNakhi zeyamnu wala ntetensu\nQdus qal tewawyom nnefsom yetfu\nKbrkhi ms reayu tsegakhi meliu\nSembidom ridom qdmekhi ydfu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam ngstna",
+      "Dnqi ft'ret nay weld ketema",
+      "T'fat 'alem me'egessit",
+      "Selamawit nay qdusan grma",
+      "Habti nay semayat kwlu te'adilki",
+      "Ts'eg'i nay kwlna bts''ti nbleki",
+      "Brkhtn qdstn nts'ht ade ikhi",
+      "Kemta nay noh merkeb medhanitna ikhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selam leki ilna knts'w' nsmki",
+          "Bqalatki gerki abdna ikhi",
+          "N'ana’wn tesfa nezom zdekhemna",
+          "Nay smki meqeret yam’yu nnefsna"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'akhi zeyamnu wala ntetensu",
+          "Qdus qal t'ewawyom nnefsom yet'fu",
+          "Kbrkhi ms reayu ts'egakhi meliu",
+          "Sembidom r'idom qdmekhi ydfu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

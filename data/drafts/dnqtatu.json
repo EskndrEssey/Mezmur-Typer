@@ -1,41 +1,99 @@
 {
-  "id": "h_efr_a0384a4a68",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ድንቅታቱ"
+  "id": 238,
+  "title": "ድንቅታቱ",
+  "ti": {
+    "chorus": [
+      "ድንቅታቱ ፍሉይ’ዩ ውህበቱ",
+      "ጐይታ ናተይ ናይ ሊባኖስ ሽቱ",
+      "ጐይታይ ግን ኣኽቢሩ መሊኡ ብጥበብ",
+      "ሸይሙኒ ብጸጋ ጌሩ በዓል ማዕረግ",
+      "ኣማን ብኣማን ተገሊጹ ሎሚ",
+      "ኣማን ብኣማን ተወሊዓ ሓቂ",
+      "ኣማን ብኣማን ንጉሰይ ፈሪዱ",
+      "ኣማን ብኣማን ዓለም ተደነቒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምንቅጥቃጥ ናይ ከንፈር ወልደፍደፍ ምባሉ",
+          "ወይኒ ሰትዩ እዩ ኢሎም እንተበሉ",
+          "ናይ ልበይ ረዳኢ ኣልቢሱ ምስጋና",
+          "ሓጎስ መሊኡኒ ረኣዪ ፍናና",
+          "ኣማን ብኣማን ዕብየቱ ላዕሊ’ዩ",
+          "ኣማን ብኣማን ዝመስሎ’ውን የለን",
+          "ኣማን ብኣማን ተቐቢኡ ድኻ",
+          "ኣማን ብኣማን ወሊዳ’ውን መኻን",
+          "ፈሪሳዊ ግደፍ ንላዕሊ ኣይትድነን",
+          "ሱር ጨቢጥካ እዩ ጽጌረዳ ምዃን",
+          "ጸጋ ናይ ትሕትና ዕብየት መንፈስ ቅዱስ",
+          "ኣብ ርእሲ ነዳይ ‘ዩ መሊኡ ዝፈስስ",
+          "ኣማን ብኣማን ኣልዒልዎ እዩ",
+          "ኣማን ብኣማን ንድኻ ካብ ሓመድ",
+          "ኣማን ብኣማን ልዑል እግዚአብሔር",
+          "ኣማን ብኣማን ናይ ግፉዓት ዘመድ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሕሬት ካብ ላዕሊ’ዩ ደቂ ቆሬ ስምዑ",
+          "ዝተናዕቀ እምኒ ርእሲ ማእዝን ኮይኑ",
+          "ምስጋና ጥራይ’ዩ ዘረባና ኵሉ",
+          "ንድንቂ ስርሑ ዕልል ዕልል በሉ",
+          "ኣማን ብኣማን ኣይውዳእን ከቶ",
+          "ኣማን ብኣማን ብዙሕ’ዩ ነገሩ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ድንቅታቱ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nመልክዕ ዝረኣየት ዓለም ጓና ነዳይ\nብጎደሎ ፍርዳ ፈልያትኒ ነዓይ\nጐይታይ ግን ኣኽቢሩ መሊኡ ብጥበብ\nሸይሙኒ ብጸጋ ጌሩ በዓል ማዕረግ\nኣማን ብኣማን ተገሊጹ ሎሚ\nኣማን ብኣማን ተወሊዓ ሓቂ\nኣማን ብኣማን ንጉሰይ ፈሪዱ\nኣማን ብኣማን ዓለም ተደነቒ\n[[/chorus]]\n\nድንቅታቱ ፍሉይ’ዩ ውህበቱ\nጐይታ ናተይ ናይ ሊባኖስ ሽቱ\nዝተናዕቀ ትሕትናይ ኣልዒሉ\nጸዊዑኒ ብፍቕሩ ከሊሉ (2)\n\nምንቅጥቃጥ ናይ ከንፈር ወልደፍደፍ ምባሉ\nወይኒ ሰትዩ እዩ ኢሎም እንተበሉ\nናይ ልበይ ረዳኢ ኣልቢሱ ምስጋና\nሓጎስ መሊኡኒ ረኣዪ ፍናና\nኣማን ብኣማን ዕብየቱ ላዕሊ’ዩ\nኣማን ብኣማን ዝመስሎ’ውን የለን\nኣማን ብኣማን ተቐቢኡ ድኻ\nኣማን ብኣማን ወሊዳ’ውን መኻን\n\nሕሬት ካብ ላዕሊ’ዩ ደቂ ቆሬ ስምዑ\nዝተናዕቀ እምኒ ርእሲ ማእዝን ኮይኑ\nምስጋና ጥራይ’ዩ ዘረባና ኵሉ\nንድንቂ ስርሑ ዕልል ዕልል በሉ\nኣማን ብኣማን ኣይውዳእን ከቶ\nኣማን ብኣማን ብዙሕ’ዩ ነገሩ\nኣማን ብኣማን ተመስገን ንበሎ\nኣማን ብኣማን ኣድኒቕና ንግብሩ"
-    },
-    "ti_ro": {
-      "title": "Dnqtatu",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nTsewiuni bfqru kelilu (2)\n[[/chorus]]\n\nDnqtatu fluy’yu whbetu\nGoyta natey nay libanos shtu\nZtenaqe thtnay alilu\nMelk zreayet alem gwana neday\nBgodelo frda felyatni neay\nGoytay gn akhbiru meliu btbeb\nSheymuni btsega geru beal mareg\nAman baman tegelitsu lomi\nAman baman tewelia haqi\nAman baman ngusey feridu\nAman baman alem tedeneqi\nMnqtqat nay kenfer weldefdef mbalu\nWeyni setyu yu ilom ntebelu\nNay lbey redai albisu msgana\nHagos meliuni reayi fnana\nAman baman byetu lali’yu\nAman baman zmeslo’wn yelen\nAman baman teqebiu dkha\nAman baman welida’wn mekhan\nFerisawi gdef nlali aytdnen\nSur chebitka yu tsgereda mkwan\nTsega nay thtna byet menfes qdus\nAb rsi neday ‘yu meliu zfess\nAman baman alilwo yu\nAman baman ndkha kab hamed\nAman baman lul gziabher\nAman baman nay gfuat zemed\nHret kab lali’yu deqi qore smu\nZtenaqe mni rsi mazn koynu\nMsgana tray’yu zerebana kwilu\nNdnqi srhu ll ll belu\nAman baman aywdan keto\nAman baman bzuh’yu negeru\nAman baman temesgen nbelo\nAman baman adniqna ngbru"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dnqtatu fluy’yu whbetu",
+      "Gwayta natey nay libanos shtu",
+      "Gwaytay gn akhbiru meliu bt'beb",
+      "Sheymuni bts'ega geru be'al ma'reg",
+      "Aman baman tegelits'u lomi",
+      "Aman baman teweli'a haqi",
+      "Aman baman ngusey feridu",
+      "Aman baman 'alem tedeneqi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mnqt'qat' nay kenfer weldefdef mbalu",
+          "Weyni setyu yu ilom ntebelu",
+          "Nay lbey redai albisu msgana",
+          "Hagos meliuni reayi fnana",
+          "Aman baman 'byetu la'li’yu",
+          "Aman baman zmeslo’wn yelen",
+          "Aman baman teqebiu dkha",
+          "Aman baman welida’wn mekhan",
+          "Ferisawi gdef nla'li aytdnen",
+          "Sur ch'ebit'ka yu ts'gereda mkhwan",
+          "Ts'ega nay thtna 'byet menfes qdus",
+          "Ab rsi neday ‘yu meliu zfess",
+          "Aman baman al'ilwo yu",
+          "Aman baman ndkha kab hamed",
+          "Aman baman l'ul gziebher",
+          "Aman baman nay gfu'at zemed"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hret kab la'li’yu deqi qore sm'u",
+          "Ztena'qe mni rsi mazn koynu",
+          "Msgana t'ray’yu zerebana kwlu",
+          "Ndnqi srhu 'll 'll belu",
+          "Aman baman aywdan keto",
+          "Aman baman bzuh’yu negeru"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_94e0ea0165",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዕልል በሉ"
+  "id": 166,
+  "title": "ዕልል በሉ",
+  "ti": {
+    "chorus": [
+      "ዕልል በሉ ንስሙ ዘምሩ",
+      "ኣመስግኑ ዕቤቱ ንገሩ",
+      "እግዚአብሔር ጻድቕ’ዩ ብግብሩ",
+      "እናበልኩም ወትሩ ኣበሥሩ",
+      "ዕልል በሉ ንስእነት ሰላምና",
+      "‘’     ‘’  ሎሚ ተኻሒስና",
+      "‘’     ‘’  ብርሃን’ውን ረኣና",
+      "‘’     ‘’  ብሓያል ኣምላኽና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዕልል በሉ ከም ሓፍቱ ንሙሴ",
+          "‘’     ‘’  ንጀምር ውዳሴ",
+          "‘’     ‘’  ብማህሌት ቅዳሴ",
+          "‘’     ‘’  ነመስግን ስላሴ",
+          "ዕልል በሉ ንልዑል ኣምላኽና",
+          "‘’     ‘’  ሰላም ዘንገሠልና",
+          "‘’     ‘’  ኣርሒቑ ጥፍኣትና",
+          "‘’     ‘’  ምሕረት ዘልበሰና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዕልል በሉ ብጓሳ ነፍስና",
+          "‘’     ‘’  ደጊም ሓራ ኢና",
+          "‘’     ‘’  ሓይሉ ይተኣመን",
+          "‘’     ‘’  ንዘልኣለም ኣሜን"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዕልል በሉ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nዕልል በሉ ንስእነት ሰላምና\n‘’ ‘’ ሎሚ ተኻሒስና\n‘’ ‘’ ብርሃን’ውን ረኣና\n‘’ ‘’ ብሓያል ኣምላኽና\n[[/chorus]]\n\nዕልል በሉ ንስሙ ዘምሩ\nኣመስግኑ ዕቤቱ ንገሩ\nእግዚአብሔር ጻድቕ’ዩ ብግብሩ\nእናበልኩም ወትሩ ኣበሥሩ\n\nዕልል በሉ ከም ሓፍቱ ንሙሴ\n‘’ ‘’ ንጀምር ውዳሴ\n‘’ ‘’ ብማህሌት ቅዳሴ\n‘’ ‘’ ነመስግን ስላሴ\n\nዕልል በሉ ብጓሳ ነፍስና\n‘’ ‘’ ደጊም ሓራ ኢና\n‘’ ‘’ ብደሙ ነጺህና\n‘’ ‘’ ብሞቱ ድሒና"
-    },
-    "ti_ro": {
-      "title": "'Ll belu",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\n‘’ ‘’ Nzelalem amen\n[[/chorus]]\n\nLl belu nsmu zemru\nAmesgnu betu ngeru\nGziabher tsadq’yu bgbru\nNabelkum wetru abessru\nLl belu nsnet selamna\n‘’ ‘’ Lomi tekhahisna\n‘’ ‘’ Brhan’wn reana\n‘’ ‘’ Bhayal amlakhna\nLl belu kem haftu nmuse\n‘’ ‘’ Njemr wdase\n‘’ ‘’ Bmahlet qdase\n‘’ ‘’ Nemesgn slase\nLl belu nlul amlakhna\n‘’ ‘’ Selam zengeselna\n‘’ ‘’ Arhiqu tfatna\n‘’ ‘’ Mhret zelbesena\nLl belu bgwasa nefsna\n‘’ ‘’ Degim hara ina\n‘’ ‘’ Bdemu netsihna\n‘’ ‘’ Bmotu dhina\nLl belu nkhulu zmelkh\n‘’ ‘’ Gziabher ybarekh\n‘’ ‘’ Haylu yteamen"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "'Ll belu nsmu zemru",
+      "Amesgnu 'betu ngeru",
+      "Gziebher ts'adq’yu bgbru",
+      "Nabelkum wetru abessru",
+      "'Ll belu nsnet selamna",
+      "‘’     ‘’  Lomi tekhahisna",
+      "‘’     ‘’  Brhan’wn reana",
+      "‘’     ‘’  Bhayal amlakhna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Ll belu kem haftu nmuse",
+          "‘’     ‘’  Njemr wdase",
+          "‘’     ‘’  Bmahlet qdase",
+          "‘’     ‘’  Nemesgn slase",
+          "'Ll belu nl'ul amlakhna",
+          "‘’     ‘’  Selam zengesselna",
+          "‘’     ‘’  Arhiqu t'fatna",
+          "‘’     ‘’  Mhret zelbesena"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "'Ll belu bgwasa nefsna",
+          "‘’     ‘’  Degim hara ina",
+          "‘’     ‘’  Haylu yteamen",
+          "‘’     ‘’  Nzelalem amen"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

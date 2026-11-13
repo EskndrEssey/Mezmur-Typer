@@ -1,44 +1,21 @@
 {
-  "id": "h_efr_cebf89a4da",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘይሴባሕ"
+  "id": 282,
+  "title": "ዘይሴባሕ",
+  "ti": {
+    "chorus": [
+      "ዘይሴባሕ በትሑታን ወየዓርፍ ዲበ ቅዱሳን /2/",
+      "ሰዳዴ ጽልመት ወሃቤ ብርሃን ብርሃን ኢየሱስ ክርስቶስ /2/"
+    ],
+    "verses": []
   },
-  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘይሴባሕ",
-      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-      "lyrics": "[[chorus]]\nዘይሴባሕ በትሑታን ወየዓርፍ ዲበ ቅዱሳን (2)\n[[/chorus]]\n\nሰዳዴ ጽልመት ወሃቤ ብርሃን ብርሃን ኢየሱስ ክርስቶስ (2)"
-    },
-    "ti_ro": {
-      "title": "Zeysebah",
-      "zemari": "liqe mela'kt ab qdmit menberka",
-      "lyrics": "[[chorus]]\nZeysebah bethutan weyearf dibe qdusan (2)\n[[/chorus]]\n\nSedade tslmet wehabe brhan brhan iyesus krstos (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Zeysebah bethutan weye'arf dibe qdusan /2/",
+      "Sedade ts'lmet wehabe brhan brhan iyesus krstos /2/"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

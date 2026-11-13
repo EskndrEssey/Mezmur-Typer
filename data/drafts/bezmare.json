@@ -1,44 +1,23 @@
 {
-  "id": "h_efr_60379d8d8a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በዝማሬ"
+  "id": 374,
+  "title": "በዝማሬ",
+  "ti": {
+    "chorus": [
+      "በዝማሬ ወበመሰንቆ ግነዩ ለእግዚአብሔር",
+      "እስመ ባሕቱ ኣድኃነነ በብዝኃ ምሕረቱ /2/",
+      "አምላክነ ኣምላከ ክብር"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በዝማሬ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nእስመ ባሕቱ ኣድኃነነ በብዝኃ ምሕረቱ (2)\n[[/chorus]]\n\nበዝማሬ ወበመሰንቆ ግነዩ ለእግዚአብሔር\nአምላክነ ኣምላከ ክብር"
-    },
-    "ti_ro": {
-      "title": "Bezmare",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nSme bahtu adhanene bebzha mhretu (2)\n[[/chorus]]\n\nBezmare webemesenqo gneyu legziabher\nAmlakne amlake kbr"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Bezmare webemesenqo gneyu legziebher",
+      "Sme bahtu adhanene bebzha mhretu /2/",
+      "Emlakne amlake kbr"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

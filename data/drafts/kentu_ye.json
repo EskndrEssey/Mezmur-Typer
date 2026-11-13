@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_2e7fdae773",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከንቱ’የ"
+  "id": 853,
+  "title": "ከንቱ’የ",
+  "ti": {
+    "chorus": [
+      "ከንቱ’የ ናይ ከንቱ ከንቱ’የ",
+      "ዋሕስን ጠበቓን ኣምላኽ ተዘይጌረ",
+      "ተስፋ ዝኾነኒ ሕይወት ዝህበኒ",
+      "እግዚአብሔር ጥራይ’ዩ ዘጸናንዓኒ",
+      "ኣምላኸይ ጥራይ’ዩ ዘጸናንዓኒ",
+      "ኣነስ ንጉሥ ነይረ ብኽብሪ ዘጌጽኩ",
+      "ኵሉ ኣብዚ ምድሪ ብጥበብ ፈጸምኩ",
+      "ደስታ እዛ ዓለም ዋላ ኣየዋጽኣንን",
+      "መዓልተይ ኣኺሉ ሞት`ውን ወሲዱኒ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ትሕቲ እዛ ጸሓይ ሓድሽ ነገር የለን",
+          "ሰባት ግን ይደኽሙ ካብ ዘመን ናብ ዘመን",
+          "ንጥበብ ክደሊ ደኺመየ ምሒር",
+          "ኵሉ ከንቱ ኮይኑ ተሪፉ ኣብ መቓብር /2/",
+          "ቅድመይ ዝነብሩ ክቡራት ናይ ዓለም",
+          "ኣለዉ ኣብ መቓብር ሓመድ ተደፊኖም",
+          "ጥበብ ብምብዝሐይ እነሆ ተኪዘ",
+          "ኣነስ ኣብዛ ዓለም ዘይጠቅም ፍጥረት’የ/2/",
+          "ብብዙሕ ታሕጓስ ልበይ ፈቲነዮ",
+          "ናይዚ ዓለም ለውጢ ኣስተማቒረዮ",
+          "ሰሓቕ’ውን ኣብ ውሽጠይ ይሰራሰር ነይሩ",
+          "ኣብ ሓመድ ተሪፉ ኵሉ ከንቱ ኮይኑ/2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከንቱ’የ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nኣነስ ንጉሥ ነይረ ብኽብሪ ዘጌጽኩ\nኵሉ ኣብዚ ምድሪ ብጥበብ ፈጸምኩ\nደስታ እዛ ዓለም ዋላ ኣየዋጽኣንን\nመዓልተይ ኣኺሉ ሞት`ውን ወሲዱኒ(2)\n[[/chorus]]\n\nከንቱ’የ ናይ ከንቱ ከንቱ’የ\nዋሕስን ጠበቓን ኣምላኽ ተዘይጌረ\nተስፋ ዝኾነኒ ሕይወት ዝህበኒ\nእግዚአብሔር ጥራይ’ዩ ዘጸናንዓኒ\nኣምላኸይ ጥራይ’ዩ ዘጸናንዓኒ\n\nኣብ ትሕቲ እዛ ጸሓይ ሓድሽ ነገር የለን\nሰባት ግን ይደኽሙ ካብ ዘመን ናብ ዘመን\nንጥበብ ክደሊ ደኺመየ ምሒር\nኵሉ ከንቱ ኮይኑ ተሪፉ ኣብ መቓብር (2)\n\nልበይ ዝሃብክዎ ተስፋ ዘንበርኩሉ\nምጭባጥ ኣብዩኒ ክሕዞ ኣይከኣልኩን\nጥበብ ብምብዝሐይ እነሆ ተኪዘ\nኣነስ ኣብዛ ዓለም ዘይጠቅም ፍጥረት’የ(2)"
-    },
-    "ti_ro": {
-      "title": "Kentu’ye",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nKwilom kentu yom qewemti aykonun (2)\n[[/chorus]]\n\nKentu’ye nay kentu kentu’ye\nWahsn tebeqan amlakh tezeygere\nTesfa zkhoneni hywet zhbeni\nGziabher tray’yu zetsenanani\nAmlakhey tray’yu zetsenanani\nAnes nguss neyre bkhbri zegetsku\nKwilu abzi mdri btbeb fetsemku\nDesta za alem wala ayewatsann\nMealtey akhilu mot`wn wesiduni(2)\nAb thti za tsehay hadsh neger yelen\nSebat gn ydekhmu kab zemen nab zemen\nNtbeb kdeli dekhimeye mhir\nKwilu kentu koynu terifu ab meqabr (2)\nQdmey znebru kburat nay alem\nAlewu ab meqabr hamed tedefinom\nFltetn bdann kwilen feliteyen\nLbey zhabkwo tesfa zenberkulu\nMchbat abyuni khzo aykealkun\nTbeb bmbzhay neho tekize\nAnes abza alem zeyteqm ftret’ye(2)\nBbzuh tahgwas lbey fetineyo\nNayzi alem lewti astemaqireyo\nSehaq’wn ab wshtey yseraser neyru\nAb hamed terifu kwilu kentu koynu(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kentu’ye nay kentu kentu’ye",
+      "Wahsn t'ebeqan amlakh tezeygere",
+      "Tesfa zkhoneni hywet zhbeni",
+      "Gziebher t'ray’yu zets'enan'ani",
+      "Amlakhey t'ray’yu zets'enan'ani",
+      "Anes nguss neyre bkhbri zegets'ku",
+      "Kwlu abzi mdri bt'beb fets'emku",
+      "Desta za 'alem wala ayewats'ann",
+      "Me'altey akhilu mot`wn wesiduni/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab thti za ts'ehay hadsh neger yelen",
+          "Sebat gn ydekhmu kab zemen nab zemen",
+          "Nt'beb kdeli dekhimeye mhir",
+          "Kwlu kentu koynu terifu ab meqabr /2/",
+          "Qdmey znebru kburat nay 'alem",
+          "Alewu ab meqabr hamed tedefinom",
+          "T'beb bmbzhey neho tekize",
+          "Anes abza 'alem zeyt'eqm ft'ret’ye/2/",
+          "Bbzuh tahgwas lbey fetineyo",
+          "Nayzi 'alem lewt'i astemaqireyo",
+          "Sehaq’wn ab wsht'ey yseraser neyru",
+          "Ab hamed terifu kwlu kentu koynu/2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

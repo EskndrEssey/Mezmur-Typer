@@ -1,0 +1,69 @@
+{
+  "id": 163,
+  "title": "ፀምረ ጌዴዎን",
+  "ti": {
+    "chorus": [
+      "ፀምረ ጌዴዎን ጠለለት ብብሥራት ገብርኤል/2/",
+      "ወላዲቱ ኮነት ንእግዚአብሔር ቃል",
+      "ትስመ ዘለዓለም እመ ኣማኑኤል",
+      "ጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ",
+      "ኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ",
+      "የለን ዝሰኣኖ በለ ቅዱስ ገብርኤል",
+      "ባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል",
+      "ከም ምርኣይ ከም ዓይኒ ከም ምስማዕ ከም እዝኒ",
+      "ኣብ ድንግል ኃደረ ናይ ኲሉ ፈጣሪ",
+      "ንበይና ጠለለት ልክዕ ከምቲ ጸምሪ",
+      "ዕፀ ጳጦስ ሙሴ ዝረኣያ ኣብ ሲና",
+      "ሓዊ እናነደደት ምንም ዘይምዃና",
+      "ድንግል ንመለኮት መሕደሪቱ ኮነት",
+      "ዳዊት ከም ዝበሎ ስለ ዝተባህገት",
+      "ከተማ እግዚአብሔር ጽዮን’ውን ተሰምየት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ",
+          "ኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ",
+          "የለን ዝሰኣኖ በለ ቅዱስ ገብርኤል",
+          "ባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል",
+          "ከመስግን ጀመረ ኣዳም’ውን ኪዕልል"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ts'emre gedewon t'elelet bbssrat gebrel/2/",
+      "Weladitu konet ngziebher qal",
+      "Tsme zele'alem me amanuel",
+      "Gizeu akhele tnbite isayyas",
+      "Ab dngl hadere welde gziebher qdus",
+      "Yelen zseano bele qdus gebrel",
+      "Barnet abq'e maserti nay siol",
+      "Kem mray kem 'ayni kem msma' kem zni",
+      "Ab dngl hadere nay kwilu fet'ari",
+      "Nbeyna t'elelet lk' kemti ts'emri",
+      "'Ts'e p'at'os muse zreaya ab sina",
+      "Hawi nanededet mnm zeymkhwana",
+      "Dngl nmelekot mehderitu konet",
+      "Dawit kem zbelo sle ztebahget",
+      "Ketema gziebher ts'yon’wn tesemyet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Gizeu akhele tnbite isayyas",
+          "Ab dngl hadere welde gziebher qdus",
+          "Yelen zseano bele qdus gebrel",
+          "Barnet abq'e maserti nay siol",
+          "Kemesgn jemere adam’wn ki'll"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

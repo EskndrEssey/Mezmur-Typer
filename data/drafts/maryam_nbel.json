@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_1a81024335",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ማርያም ንበል"
+  "id": 265,
+  "title": "ማርያም ንበል",
+  "ti": {
+    "chorus": [
+      "ዓይኒ ማይ ገነት ኢኺ ድንግል",
+      "ተኽሊ ሕይወተይ ንዘጥልል",
+      "መትንታት ልበይ ተመጊቡ",
+      "እስትንፋስ ድኅነት ተዋሂቡ",
+      "ተቐቢለየ በረኸት ጽጌኺ",
+      "ማርያም ኢለ ንኽውድሰኪ",
+      "መድኃኒተ ናሆም ንቑስለይ ፈዋሲት",
+      "ዒላ ቅድስና ጽድቂ ኣፈልፋሊት",
+      "ውቅያኖስ ኃጢኣት ዝሰግረላ መርከብ",
+      "ብኣኺ እበጽሖ ዘዕርፈሉ ወደብ",
+      "ዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል",
+      "መሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ራእየ ሕዝቅኤል ዘይትርሖ ማዕጾ",
+          "ንድንግልናኺ ብምንታይ ክገልጾ",
+          "ብራና ፍሒቖም ድርሳናት ክደርሱ",
+          "ምሳሌ ስኢኖም ኣበዉ ክውድሱ",
+          "እኔኹ ኣብ ቅድሜኺ ሃሴት ተመሊኤ",
+          "ክዝምር ከም ዳዊት መሰንቆይ ኣልዒለ",
+          "ዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል",
+          "መሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ማርያም ንበል",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nመድኃኒተ ናሆም ንቑስለይ ፈዋሲት\nዒላ ቅድስና ጽድቂ ኣፈልፋሊት\nውቅያኖስ ኃጢኣት ዝሰግረላ መርከብ\nብኣኺ እበጽሖ ዘዕርፈሉ ወደብ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል\n[[/chorus]]\n\nዓይኒ ማይ ገነት ኢኺ ድንግል\nተኽሊ ሕይወተይ ንዘጥልል\nመትንታት ልበይ ተመጊቡ\nእስትንፋስ ድኅነት ተዋሂቡ\nተቐቢለየ በረኸት ጽጌኺ\nማርያም ኢለ ንኽውድሰኪ\n\nራእየ ሕዝቅኤል ዘይትርሖ ማዕጾ\nንድንግልናኺ ብምንታይ ክገልጾ\nብራና ፍሒቖም ድርሳናት ክደርሱ\nምሳሌ ስኢኖም ኣበዉ ክውድሱ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል"
-    },
-    "ti_ro": {
-      "title": "Maryam nbel",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "[[chorus]]\nBet kbra nmeskr sq aynbel nzemr ll nbel\nMesenqona qanina keberona alilna maryam nbel\n[[/chorus]]\n\nAyni may genet ikhi dngl\nTekhli hywetey nzetll\nMetntat lbey temegibu\nStnfas dhnet tewahibu\nTeqebileye berekhet tsgekhi\nMaryam ile nkhwdseki\nMedhanite nahom nqusley fewasit\nIla qdsna tsdqi afelfalit\nWqyanos hatiat zsegrela merkeb\nBakhi betsho zerfelu wedeb\n\nRaye hzqel zeytrho matso\nNdnglnakhi bmntay kgeltso\nBrana fhiqom drsanat kdersu\nMsale sinom abewu kwdsu\n\nFtsum aytemyn’ye smki koynu snqey\nKeto aydekmn kidanki’yu hayley\nNekhu ab qdmekhi haset temelie\nKzmr kem dawit mesenqoy alile"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "'Ayni may genet ikhi dngl",
+      "Tekhli hywetey nzet'll",
+      "Metntat lbey temegibu",
+      "Stnfas dhnet tewahibu",
+      "Teqebileye berekhet ts'gekhi",
+      "Maryam ile nkhwdseki",
+      "Medhanite nahom nqusley fewasit",
+      "'Ila qdsna ts'dqi afelfalit",
+      "Wqyanos hat'iat zsegrela merkeb",
+      "Bakhi bets'ho ze'rfelu wedeb",
+      "'Bet kbra nmeskr sq aynbel nzemr 'll nbel",
+      "Mesenqona qanina keberona al'ilna maryam nbel"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Raye hzqel zeytrho ma'ts'o",
+          "Ndnglnakhi bmntay kgelts'o",
+          "Brana fhiqom drsanat kdersu",
+          "Msale sinom abewu kwdsu",
+          "Nekhu ab qdmekhi haset temelie",
+          "Kzmr kem dawit mesenqoy al'ile",
+          "'Bet kbra nmeskr sq aynbel nzemr 'll nbel",
+          "Mesenqona qanina keberona al'ilna maryam nbel"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

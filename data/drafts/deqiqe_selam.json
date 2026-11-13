@@ -1,41 +1,41 @@
 {
-  "id": "h_efr_6801630081",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ደቂቀ ሰላም"
+  "id": 356,
+  "title": "ደቂቀ ሰላም",
+  "ti": {
+    "chorus": [
+      "ትግሁ እስከ ይትፌጸም ተስፋሁ /2/",
+      "ሃሌ ሃሌ ሉያ ይሠርቅ ኮከብ እምያዕቆብ",
+      "ወአነሂ በኩርየ እሬስዮ ወአነሂ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልዑል ውእቱ እም ነገስተ ምድር ወኣነሂ",
+          "ወኣነሂ በኩርየ እሬስዮ ወኣነሂ",
+          "ዲ/ን ሙሉእ ሓጎስ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ደቂቀ ሰላም",
-      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-      "lyrics": "[[chorus]]\nሃሌ ሃሌ ሉያ ይሠርቅ ኮከብ እምያዕቆብ\nወአነሂ በኩርየ እሬስዮ ወአነሂ\n[[/chorus]]\n\nደቂቀ ሰላም ወፍቅር ወኣርድእተ ክርስቶስ ኣንትሙ\nትግሁ እስከ ይትፌጸም ተስፋሁ (2)\n\nልዑል ውእቱ እም ነገስተ ምድር ወኣነሂ\nወኣነሂ በኩርየ እሬስዮ ወኣነሂ\nዲ/ን ሙሉእ ሓጎስ"
-    },
-    "ti_ro": {
-      "title": "Deqiqe selam",
-      "zemari": "liqe mela'kt agelgali goytay",
-      "lyrics": "[[chorus]]\nTghu ske ytfetsem tesfahu (2)\n[[/chorus]]\n\nDeqiqe selam wefqr weardte krstos antmu\nHale hale luya yserq kokeb myaqob\nWeanehi bekurye resyo weanehi\nLul wtu m negeste mdr weanehi\nWeanehi bekurye resyo weanehi"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tghu ske ytfets'em tesfahu /2/",
+      "Hale hale luya ysserq kokeb mya'qob",
+      "Weenehi bekurye resyo weenehi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "L'ul wtu m negeste mdr weanehi",
+          "Weanehi bekurye resyo weanehi",
+          "Di/n mulu hagos"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

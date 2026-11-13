@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_9b203d9be2",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እንታይ ይሰኣነካ"
+  "id": 75,
+  "title": "እንታይ ይሰኣነካ",
+  "ti": {
+    "chorus": [
+      "እንታይ ይሰኣነካ ኣምላኽ",
+      "እንታይ ይሰኣነካ ጐይታ /2/",
+      "ኵሉ ዝጸውዓካ ተናጊፉ ብኣኻ",
+      "የለን ዝሰኣነካ",
+      "ፍትሒ ዘይብሉ ሚዛን ተኸልኣና'ኳ ዕድል",
+      "ንናይ ክሳድና ገመድ ንናይ ሞትና'ውን ውዲት",
+      "ኵሉ ከንቱ ጌርካዮ ንቐስቲ ሰቢርካዮ",
+      "ጸብለል ኢልካ ካብ ተጻይ ረዲእካና ኤልሻዳይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዝነበረና ተስፋ ምስ ኮነ ከንቱ ሃፋ",
+          "ብዙርያና ከሰስቲ ንብዓትና 'ውን ክረምቲ",
+          "ኣብ ፍርዲ ተቖሙና ኮይኑ'ዩ ንሰናይና",
+          "እናረትዐ ፍቕርኻ ብዓወት ወጺእና ኢና",
+          "እንተ ተገዛእና'ውን ተዘይኮነልና ዝፋን",
+          "ተኸፍኣና እዚ ጊዜ ተመልኣና ትካዜ",
+          "ሰንሰለት'ውን ይጠምጠም ኣይሕይልን ካብ ማዕተብ",
+          "ሃገርና እዩ ሰማይ ዓወት'ውን ካብ ኣዶናይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እንተ ተገዛእና'ውን ተዘይኮነልና ዝፋን",
+          "ተኸፍኣና እዚ ጊዜ ተመልኣና ትካዜ",
+          "ሰንሰለት'ውን ይጠምጠም ኣይሕይልን ካብ ማዕተብ",
+          "ሃገርና እዩ ሰማይ ዓወት'ውን ካብ ኣዶናይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ሃብታሙ ሽብሩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እንታይ ይሰኣነካ",
-      "zemari": "ዘማሪ ሃብታሙ ሽብሩ",
-      "lyrics": "[[chorus]]\nፍትሒ ዘይብሉ ሚዛን ተኸልኣና'ኳ ዕድል\nንናይ ክሳድና ገመድ ንናይ ሞትና'ውን ውዲት\nኵሉ ከንቱ ጌርካዮ ንቐስቲ ሰቢርካዮ\nጸብለል ኢልካ ካብ ተጻይ ረዲእካና ኤልሻዳይ\n[[/chorus]]\n\nእንታይ ይሰኣነካ ኣምላኽ\nእንታይ ይሰኣነካ ጐይታ (2)\nኵሉ ዝጸውዓካ ተናጊፉ ብኣኻ\nየለን ዝሰኣነካ\n\nዝነበረና ተስፋ ምስ ኮነ ከንቱ ሃፋ\nብዙርያና ከሰስቲ ንብዓትና 'ውን ክረምቲ\nኣብ ፍርዲ ተቖሙና ኮይኑ'ዩ ንሰናይና\nእናረትዐ ፍቕርኻ ብዓወት ወጺእና ኢና\n\nእንተ ተገዛእና'ውን ተዘይኮነልና ዝፋን\nተኸፍኣና እዚ ጊዜ ተመልኣና ትካዜ\nሰንሰለት'ውን ይጠምጠም ኣይሕይልን ካብ ማዕተብ\nሃገርና እዩ ሰማይ ዓወት'ውን ካብ ኣዶናይ"
-    },
-    "ti_ro": {
-      "title": "'Ntay yseaneka",
-      "zemari": "zemari habtamu shbru",
-      "lyrics": "[[chorus]]\nNtay yseaneka goyta (2)\n[[/chorus]]\n\nNtay yseaneka amlakh\nKwilu ztsewaka tenagifu bakha\nYelen zseaneka\nFthi zeyblu mizan tekhelana'kwa dl\nNnay ksadna gemed nnay motna'wn wdit\nKwilu kentu gerkayo nqesti sebirkayo\nTseblel ilka kab tetsay redikana elshaday\nZneberena tesfa ms kone kentu hafa\nBzuryana kesesti nbatna 'wn kremti\nAb frdi teqomuna koynu'yu nsenayna\nNareta fqrkha bawet wetsina ina"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ntay yseaneka amlakh",
+      "Ntay yseaneka gwayta /2/",
+      "Kwlu zts'ew'aka tenagifu bakha",
+      "Yelen zseaneka",
+      "Fthi zeyblu mizan tekhelana'kwa 'dl",
+      "Nnay ksadna gemed nnay motna'wn wdit",
+      "Kwlu kentu gerkayo nqesti sebirkayo",
+      "Ts'eblel ilka kab tets'ay redikana elshaday"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zneberena tesfa ms kone kentu hafa",
+          "Bzuryana kesesti nb'atna 'wn kremti",
+          "Ab frdi teqomuna koynu'yu nsenayna",
+          "Naret'e fqrkha b'awet wets'ina ina",
+          "Nte tegezana'wn tezeykonelna zfan",
+          "Tekhefana zi gize temelana tkaze",
+          "Senselet'wn yt'emt'em ayhyln kab ma'teb",
+          "Hagerna yu semay 'awet'wn kab adonay"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nte tegezana'wn tezeykonelna zfan",
+          "Tekhefana zi gize temelana tkaze",
+          "Senselet'wn yt'emt'em ayhyln kab ma'teb",
+          "Hagerna yu semay 'awet'wn kab adonay"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

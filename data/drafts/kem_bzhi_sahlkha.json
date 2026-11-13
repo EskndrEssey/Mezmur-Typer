@@ -1,44 +1,57 @@
 {
-  "id": "h_efr_e791857468",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ብዝሒ ሳህልኻ"
+  "id": 837,
+  "title": "ከም ብዝሒ ሳህልኻ",
+  "ti": {
+    "chorus": [
+      "ከም ብዝሒ ሳህልኻ ኣምላኽ መሓረና/2/",
+      "ከምቲ ምሕረትካ’ውን ይቕሬታ ሃበና/2/",
+      "ኣንጽሃና ጐይታ ካብ እከይ በደልና/2/",
+      "ነዛ ጸልማት ዓለም ከይከውን ዕድልና/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሕናስ ፈለጥናዮ ኣበሳ በደልና/2/",
+          "ፍጹም ኣንጽሃና ምሕረት ግበረልና/2/",
+          "ኣምላኽ ኣሕዘናካ እከይ’ውን ገበርና/2/",
+          "ይቕረ ክትብለና ቅድሜኻ ወደቕና/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅድሜኻ ወዲቕና ክንልምን ነዓኻ/2/",
+          "ጐይታ መሓረና ምውዳቕና ርኢኻ/2"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ብዝሒ ሳህልኻ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nኣንጽሃና ጐይታ ካብ እከይ በደልና(2)\nነዛ ጸልማት ዓለም ከይከውን ዕድልና(2)\n[[/chorus]]\n\nከም ብዝሒ ሳህልኻ ኣምላኽ መሓረና(2)\nከምቲ ምሕረትካ’ውን ይቕሬታ ሃበና(2)\n\nንሕናስ ፈለጥናዮ ኣበሳ በደልና(2)\nፍጹም ኣንጽሃና ምሕረት ግበረልና(2)\n\nቅድሜኻ ወዲቕና ክንልምን ነዓኻ(2)\nጐይታ መሓረና ምውዳቕና ርኢኻ/2"
-    },
-    "ti_ro": {
-      "title": "Kem bzhi sahlkha",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nKem bzhi sahlkha amlakh meharena(2)\n[[/chorus]]\n\nKemti mhretka’wn yqreta habena(2)\nAntshana goyta kab key bedelna(2)\nNeza tselmat alem keykewn dlna(2)\nNhnas feletnayo abesa bedelna(2)\nFtsum antshana mhret gberelna(2)\nAmlakh ahzenaka key’wn geberna(2)\nYqre ktblena qdmekha wedeqna(2)\nQdmekha wediqna knlmn neakha(2)\nGoyta meharena mwdaqna rikha/2"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Kem bzhi sahlkha amlakh meharena/2/",
+      "Kemti mhretka’wn yqreta habena/2/",
+      "Ants'hana gwayta kab key bedelna/2/",
+      "Neza ts'elmat 'alem keykewn 'dlna/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nhnas felet'nayo abesa bedelna/2/",
+          "Fts'um ants'hana mhret gberelna/2/",
+          "Amlakh ahzenaka key’wn geberna/2/",
+          "Yqre ktblena qdmekha wedeqna/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qdmekha wediqna knlmn ne'akha/2/",
+          "Gwayta meharena mwdaqna rikha/2"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "short_fragment"
-  ]
+  "needs_review": []
 }

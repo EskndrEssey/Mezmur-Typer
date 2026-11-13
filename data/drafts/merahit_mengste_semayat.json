@@ -1,41 +1,21 @@
 {
-  "id": "h_efr_694b6d590a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መራሒት መንግስተ ሰማያት"
+  "id": 341,
+  "title": "መራሒት መንግስተ ሰማያት",
+  "ti": {
+    "chorus": [
+      "መራሒት መንግስተ ሰማያት ድንግል ማርያም /2/",
+      "ኣድሕንና ንዓና ደቅኺ ካብ ገሃነም /2/"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መራሒት መንግስተ ሰማያት",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nመራሒት መንግስተ ሰማያት ድንግል ማርያም (2)\n[[/chorus]]\n\nኣድሕንና ንዓና ደቅኺ ካብ ገሃነም (2)"
-    },
-    "ti_ro": {
-      "title": "Merahit mengste semayat",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nMerahit mengste semayat dngl maryam (2)\n[[/chorus]]\n\nAdhnna nana deqkhi kab gehanem (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Merahit mengste semayat dngl maryam /2/",
+      "Adhnna n'ana deqkhi kab gehanem /2/"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

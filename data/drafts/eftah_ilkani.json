@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_8f6f45919e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኤፍታሕ ኢልካኒ"
+  "id": 263,
+  "title": "ኤፍታሕ ኢልካኒ",
+  "ti": {
+    "chorus": [
+      "ኤፍታሕ ኢልካኒ ጐይታይ መን ይኣስረኒ",
+      "ንስኻ ትምሕረኒ ንስኻ ይቕረ ትብለኒ",
+      "ንስኻ ትረድኣኒ ባዕልኻ ትድግፈኒ",
+      "ኣብ መገዲ ኢያሪኮ ዘይገደፍካኒ",
+      "ዑረት ልበይ ርኢኻ ዝረዳእካኒ",
+      "ኤልሻዳይ ጐይታ ንዓይ ኤፍታሕ ኢልካኒ",
+      "ብርሃን ቅድስናኻ ቤትካ ኣርእዩኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቁመተይ ሓጺሩኒ ኣብ ሳግላ ኮይነ",
+          "ነቲ ግሩም መልክዕኻ ምርኣይ ስኢነ",
+          "ድሌተይ ፈሊጥካዮ ቤተይ ኣቲኻ",
+          "ባሪኽዋ ንቤተይ ቅዱስ መንፈስካ",
+          "ሰኸመይ ተሰኪምካ ቅንዕ ከይበልካ",
+          "ክሳብ ቀራንዮ ጐይታ ኃጢኣተይ ጼርካ",
+          "ምእንታይ ተገሪፍካ በጃይ ዝሞትካ",
+          "ከም ግብረይ ከይፈረድካ ሰላመይ ኣዊጅካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ድኹም ኃጥእ’ዩ ኢልካ ዘይነዓቕካኒ",
+          "ብናይ ምሕረት ዓይንኻ ዝጠመትካኒ",
+          "ብምንታ’የ ዝመልሶ ናትካ ውሬታ",
+          "ልበይ ሓጎስ መሊኡ ልሳነይ ዕልልታ"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኤፍታሕ ኢልካኒ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nኣብ መገዲ ኢያሪኮ ዘይገደፍካኒ\nዑረት ልበይ ርኢኻ ዝረዳእካኒ\nኤልሻዳይ ጐይታ ንዓይ ኤፍታሕ ኢልካኒ\nብርሃን ቅድስናኻ ቤትካ ኣርእዩኒ\n[[/chorus]]\n\nኤፍታሕ ኢልካኒ ኣምላኽ መን ይዓጽወኒ\nኤፍታሕ ኢልካኒ ጐይታይ መን ይኣስረኒ\nንስኻ ትምሕረኒ ንስኻ ይቕረ ትብለኒ\nንስኻ ትረድኣኒ ባዕልኻ ትድግፈኒ\n\nቁመተይ ሓጺሩኒ ኣብ ሳግላ ኮይነ\nነቲ ግሩም መልክዕኻ ምርኣይ ስኢነ\nድሌተይ ፈሊጥካዮ ቤተይ ኣቲኻ\nባሪኽዋ ንቤተይ ቅዱስ መንፈስካ\n\nድኹም ኃጥእ’ዩ ኢልካ ዘይነዓቕካኒ\nብናይ ምሕረት ዓይንኻ ዝጠመትካኒ\nብምንታ’የ ዝመልሶ ናትካ ውሬታ\nልበይ ሓጎስ መሊኡ ልሳነይ ዕልልታ"
-    },
-    "ti_ro": {
-      "title": "Eftah ilkani",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Eftah ilkani amlakh men yatsweni\nEftah ilkani goytay men yasreni\nNskha tmhreni nskha yqre tbleni\nNskha tredani balkha tdgfeni\nAb megedi iyariko zeygedefkani\nUret lbey rikha zredakani\nElshaday goyta nay eftah ilkani\nBrhan qdsnakha betka aryuni\nQumetey hatsiruni ab sagla koyne\nNeti grum melkkha mray sine\nDletey felitkayo betey atikha\nBarikhwa nbetey qdus menfeska\nSekhemey tesekimka qn keybelka\nKsab qeranyo goyta hatiatey tserka\nMntay tegerifka bejay zmotka\nKem gbrey keyferedka selamey awijka\nDkhum hat’yu ilka zeyneaqkani\nBnay mhret aynkha ztemetkani\nBmnta’ye zmelso natka wreta\nLbey hagos meliu lsaney llta"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Eftah ilkani gwaytay men yasreni",
+      "Nskha tmhreni nskha yqre tbleni",
+      "Nskha tredani ba'lkha tdgfeni",
+      "Ab megedi iyariko zeygedefkani",
+      "'Uret lbey rikha zredakani",
+      "Elshaday gwayta n'ay eftah ilkani",
+      "Brhan qdsnakha betka aryuni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qumetey hats'iruni ab sagla koyne",
+          "Neti grum melk'kha mray sine",
+          "Dletey felit'kayo betey atikha",
+          "Barikhwa nbetey qdus menfeska",
+          "Sekhemey tesekimka qn' keybelka",
+          "Ksab qeranyo gwayta hat'iatey ts'erka",
+          "Mntay tegerifka bejay zmotka",
+          "Kem gbrey keyferedka selamey awijka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Dkhum hat'’yu ilka zeyne'aqkani",
+          "Bnay mhret 'aynkha zt'emetkani",
+          "Bmnta’ye zmelso natka wreta",
+          "Lbey hagos meliu lsaney 'llta"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

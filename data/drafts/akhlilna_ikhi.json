@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_66daaed056",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣኽሊልና ኢኺ"
+  "id": 129,
+  "title": "ኣኽሊልና ኢኺ",
+  "ti": {
+    "chorus": [
+      "ኣኽሊልና ኢኺ ውህበትና ኢኺ",
+      "ትምክሕቲ ናትና ጸግዕና ኢኺ",
+      "ስምኪ ጸዊዕና ካብ ሞት ድኂና",
+      "ብልማኖኺ ቅንዕ’ውን ኢልና",
+      "ፍረ መሊእኪ ጽብቕቲ ተኽሊ",
+      "መፈወሲትና ናይ ሕይወት ጥበብ",
+      "ብጸዳል ድንግል ጸልማት በሪሁ",
+      "ክብርኺ ርኢና ብርሃን ደሚቑ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዕትሮ ናይ ኤልሳዕ ጨው ዝመልኣኪ",
+          "ዓለም ድኂና ማርያም በኣኺ",
+          "ተለዊጥና ኢና ሓደስቲ ኮይና",
+          "ንኽብሪ ድንግል ኣእዳውና ኣልዒልና",
+          "መሰረታትኪ ዝተቐደሱ",
+          "ክብሪ ምስ ግርማ ጽድቂ ለበሱ",
+          "ሕፍቲ ዘይብልኪ ጽዮን ኣዴና",
+          "ብወድኺ ጸዳል ዓለም በሪሃ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ውዳሴ ማርያም ኣፍና መሊኡ",
+          "ፍቕርኺ ድንግል ኣብ ልብና’ዩ",
+          "ማርያም/2/ እዩ ሓድሽ ምስጋና",
+          "ንኣደ ንጉሥ ወትሩ ይግብኣ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ጸዳል ጎበዜ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣኽሊልና ኢኺ",
-      "zemari": "ዘማሪት ጸዳል ጎበዜ",
-      "lyrics": "[[chorus]]\nፍረ መሊእኪ ጽብቕቲ ተኽሊ\nመፈወሲትና ናይ ሕይወት ጥበብ\nብጸዳል ድንግል ጸልማት በሪሁ\nክብርኺ ርኢና ብርሃን ደሚቑ\n[[/chorus]]\n\nኣኽሊልና ኢኺ ውህበትና ኢኺ\nትምክሕቲ ናትና ጸግዕና ኢኺ\nስምኪ ጸዊዕና ካብ ሞት ድኂና\nብልማኖኺ ቅንዕ’ውን ኢልና\n\nዕትሮ ናይ ኤልሳዕ ጨው ዝመልኣኪ\nዓለም ድኂና ማርያም በኣኺ\nተለዊጥና ኢና ሓደስቲ ኮይና\nንኽብሪ ድንግል ኣእዳውና ኣልዒልና\n\nውዳሴ ማርያም ኣፍና መሊኡ\nፍቕርኺ ድንግል ኣብ ልብና’ዩ\nማርያም(2) እዩ ሓድሽ ምስጋና\nንኣደ ንጉሥ ወትሩ ይግብኣ"
-    },
-    "ti_ro": {
-      "title": "Akhlilna ikhi",
-      "zemari": "zemarit Tsedal gobeze",
-      "lyrics": "Akhlilna ikhi whbetna ikhi\nTmkhti natna tsegna ikhi\nSmki tsewina kab mot dhina\nBlmanokhi qn’wn ilna\nFre meliki tsbqti tekhli\nMefewesitna nay hywet tbeb\nBtsedal dngl tselmat berihu\nKbrkhi rina brhan demiqu\nTro nay elsa chew zmelaki\nAlem dhina maryam beakhi\nTelewitna ina hadesti koyna\nNkhbri dngl adawna alilna\nMeseretatki zteqedesu\nKbri ms grma tsdqi lebesu\nHfti zeyblki tsyon adena\nBwedkhi tsedal alem beriha\nWdase maryam afna meliu\nFqrkhi dngl ab lbna’yu\nMaryam(2) yu hadsh msgana\nNade nguss wetru ygba"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Akhlilna ikhi whbetna ikhi",
+      "Tmkhti natna ts'eg'na ikhi",
+      "Smki ts'ewi'na kab mot dhina",
+      "Blmanokhi qn'’wn ilna",
+      "Fre meliki ts'bqti tekhli",
+      "Mefewesitna nay hywet t'beb",
+      "Bts'edal dngl ts'elmat berihu",
+      "Kbrkhi rina brhan demiqu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Tro nay elsa' ch'ew zmelaki",
+          "'Alem dhina maryam beakhi",
+          "Telewit'na ina hadesti koyna",
+          "Nkhbri dngl adawna al'ilna",
+          "Meseretatki zteqedesu",
+          "Kbri ms grma ts'dqi lebesu",
+          "Hfti zeyblki ts'yon adena",
+          "Bwedkhi ts'edal 'alem beriha"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Wdase maryam afna meliu",
+          "Fqrkhi dngl ab lbna’yu",
+          "Maryam/2/ yu hadsh msgana",
+          "Nade nguss wetru ygba"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_a16395ff14",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከነመስግኖ"
+  "id": 470,
+  "title": "ከነመስግኖ",
+  "ti": {
+    "chorus": [
+      "ሰናይ ተግባር’ዩ ኣምላኽ ፈጺሙልና",
+      "ከነመስግኖ ከነመስግኖ/2/",
+      "እንታይ ኣሎ ኣምላኽ ዝሰኣኖ",
+      "ኣብ ገማግም ባሕሪ ንጥፍኣት ቀሪብና",
+      "ሰራዊተ ፈርኦን ንሞት ከቢቡና",
+      "ብማእከል ባሕሪ ብንቑጽ ሰጊርና",
+      "ዕልል ንበል …"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕይወትና ካብ ጥፍኣት ዝተበጀወና",
+          "ብሳህሉን ምሕረቱን ዝተዓገሰና",
+          "ግብርታቱ ሰናይ ርህሩህ ኣምላኽና",
+          "ዕልል ንበል …",
+          "ከም ብዝሒ ኃጢአት ኣይፈደየናን",
+          "ከምቲ ኣበሳና ኣይቅየምን’ዩ",
+          "ንኹራ ደንጓይ ብሳህሉ ምሉእ’ዩ",
+          "ዕልል ንበል …"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከነመስግኖ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣብ ገማግም ባሕሪ ንጥፍኣት ቀሪብና\nሰራዊተ ፈርኦን ንሞት ከቢቡና\nብማእከል ባሕሪ ብንቑጽ ሰጊርና\nዕልል ንበል …\n[[/chorus]]\n\nዕልል ንበል ደስ ይበለና\nሰናይ ተግባር’ዩ ኣምላኽ ፈጺሙልና\nከነመስግኖ ከነመስግኖ(2)\nእንታይ ኣሎ ኣምላኽ ዝሰኣኖ\n\nሕይወትና ካብ ጥፍኣት ዝተበጀወና\nብሳህሉን ምሕረቱን ዝተዓገሰና\nግብርታቱ ሰናይ ርህሩህ ኣምላኽና\nዕልል ንበል …"
-    },
-    "ti_ro": {
-      "title": "Kenemesgno",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nKenemesgno kenemesgno(2)\n[[/chorus]]\n\nLl nbel des ybelena\nSenay tegbar’yu amlakh fetsimulna\nNtay alo amlakh zseano\nAb gemagm bahri ntfat qeribna\nSerawite feron nmot kebibuna\nBmakel bahri bnquts segirna\nLl nbel …\nHywetna kab tfat ztebejewena\nBsahlun mhretun zteagesena\nGbrtatu senay rhruh amlakhna\nLl nbel …\nKem bzhi hatiat ayfedeyenan\nKemti abesana ayqyemn’yu\nNkhura dengway bsahlu mlu’yu\nLl nbel …"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Senay tegbar’yu amlakh fets'imulna",
+      "Kenemesgno kenemesgno/2/",
+      "Ntay alo amlakh zseano",
+      "Ab gemagm bahri nt'fat qeribna",
+      "Serawite feron nmot kebibuna",
+      "Bmakel bahri bnquts' segirna",
+      "'Ll nbel …"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hywetna kab t'fat ztebejewena",
+          "Bsahlun mhretun zte'agesena",
+          "Gbrtatu senay rhruh amlakhna",
+          "'Ll nbel …",
+          "Kem bzhi hat'iet ayfedeyenan",
+          "Kemti abesana ayqyemn’yu",
+          "Nkhura dengway bsahlu mlu’yu",
+          "'Ll nbel …"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

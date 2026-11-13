@@ -1,41 +1,131 @@
 {
-  "id": "h_efr_113a75e1ba",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኢየሩሳሌም ከመይ ኣላ"
+  "id": 394,
+  "title": "ኢየሩሳሌም ከመይ ኣላ",
+  "ti": {
+    "chorus": [
+      "ኣንታ ነህምያ ናይ እግዚአብሔር ዓቢ",
+      "እስከ ክነግረካ ብዝተሰብረ ልቢ",
+      "ደሃይ ቤት ኣምላኽና ናይ ኢየሩሳሌም",
+      "ደኃን ከይመስለካ የለን ከም ቀደም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሃንቀውታ ኣሎኒ ደሃያ ክፈልጥ",
+          "ንገረኒ ግዳ እኔኹ የዳምፅ",
+          "ዝያዳ ከይሻቐል ሃየ ንገረኒ",
+          "ሓሚቑ ጸቢቑስ ኵሉ ኣስመዓኒ",
+          "ኢየሩሳሌም ከመይ ኣላ",
+          "ቤት ኣቦየ ከመይ ኣላ /2/",
+          "ሓጹር ዝኸለላ ልቢ ዝተምሳላ",
+          "ዝተባረኸት ቤት ጐይታ ዝኃድረላ",
+          "ጽኑዓት ሓልውታ ድልዱል መሰረታ",
+          "እንታይ ኮን ይኸውን ምኽንያት ዕንወታ",
+          "ኢየሩሳሌም ከመይ ኣላ፧",
+          "ቤት ኣቦየ ከመይ ኣላ፧ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደቃ ይነብሩ ’ለዉ ብመከራን ጸርፍን",
+          "ክልላ ፈሪሱ ዝዕረ ኣይመስልን",
+          "ብቀትሪ ብለይቲ ጸለኹ ነባዕኹ",
+          "ባሮትካ መሓሮም ጐይታየ ‘ናበልኩ",
+          "ኢየሩሳሌም ከመይ ኣላ",
+          "ቤት ኣቦየ ከመይ ኣላ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ሓጹር ዝኸለላ . . .",
+          "ምሕናፃ ኣይፈተዉን እቶም ተጻረርቲ",
+          "እንተጓዘሙ’ውን  ኵሎም በብሓንቲ",
+          "ክንኅግዘካ ኢና ንሕነፃ ካብ በልካ",
+          "ሰሚዕናዮ ኢና ንጉሥ ዘፍቀደልካ /2/"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ኣሕዛብ ይርኣዩ ‘ቲ ናይ ኣምላኽ ግብሪ",
+          "ብኡ ተፈጺሙ ንዕኡ ይኹኖ ክብሪ",
+          "ኣምላኽ ዝፈቐዶ መን’ዩ ዝኽልክሎ",
+          "ዝሓለፈ ይኣክል ሕጂ ባህ ነብሎ",
+          "ኢየሩሳሌም ከመይ ኣላ",
+          "ቤት ኣቦየ ከመይ ኣላ /2/",
+          "ሓጹር ዝኸለላ . . .",
+          "(መጽ. ነህ. 2፡20)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኢየሩሳሌም ከመይ ኣላ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣንታ ነህምያ ናይ እግዚአብሔር ዓቢ\nእስከ ክነግረካ ብዝተሰብረ ልቢ\nደሃይ ቤት ኣምላኽና ናይ ኢየሩሳሌም\nደኃን ከይመስለካ የለን ከም ቀደም (2)\n[[/chorus]]\n\nሃንቀውታ ኣሎኒ ደሃያ ክፈልጥ\nንገረኒ ግዳ እኔኹ የዳምፅ\nዝያዳ ከይሻቐል ሃየ ንገረኒ\nሓሚቑ ጸቢቑስ ኵሉ ኣስመዓኒ\nኢየሩሳሌም ከመይ ኣላ\nቤት ኣቦየ ከመይ ኣላ (2)\n\nደቃ ይነብሩ ’ለዉ ብመከራን ጸርፍን\nክልላ ፈሪሱ ዝዕረ ኣይመስልን\nደጌታታ እውን ብሓዊ ማሲኑ\n‘ቲ ውቁብ ግርማኣ ነበረ ኾይኑ (2)\n\nሓጹር ዝኸለላ . . .\n\nኣሕዛብ ይርኣዩ ‘ቲ ናይ ኣምላኽ ግብሪ\nብኡ ተፈጺሙ ንዕኡ ይኹኖ ክብሪ\nኣምላኽ ዝፈቐዶ መን’ዩ ዝኽልክሎ\nዝሓለፈ ይኣክል ሕጂ ባህ ነብሎ\nኢየሩሳሌም ከመይ ኣላ\nቤት ኣቦየ ከመይ ኣላ (2)\nሓጹር ዝኸለላ . . .\n(መጽ. ነህ. 2፡20)"
-    },
-    "ti_ro": {
-      "title": "Iyerusalem kemey ala",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nDehan keymesleka yelen kem qedem (2)\n[[/chorus]]\n\nAnta nehmya nay gziabher abi\nSke knegreka bztesebre lbi\nDehay bet amlakhna nay iyerusalem\nHanqewta aloni dehaya kfelt\nNgereni gda nekhu yedamts\nZyada keyshaqel haye ngereni\nHamiqu tsebiqus kwilu asmeani\nIyerusalem kemey ala\nBet aboye kemey ala (2)\nHatsur zkhelela lbi ztemsala\nZtebarekhet bet goyta zhadrela\nTsnuat halwta dldul mesereta\nNtay kon ykhewn mkhnyat nweta\nIyerusalem kemey ala?\nBet aboye kemey ala? (2)\nDeqa ynebru ’lewu bmekeran tserfn\nKlla ferisu zre aymesln\nDegetata wn bhawi masinu\n‘Ti wqub grmaa nebere khoynu (2)\nAmlakh goyta mdri amlakh goyta semay\nTom bet aboy’wn bedilom ’yom kemay\nBqetri bleyti tselekhu nebakhu\nBarotka meharom goytaye ‘nabelku\n\nMhnatsa ayfetewun tom tetsarerti\nNtegwazemu’wn kwilom bebhanti\nKnhgzeka ina nhnetsa kab belka\nSeminayo ina nguss zefqedelka (2)\nAhzab yrayu ‘ti nay amlakh gbri\nBu tefetsimu nu ykhuno kbri\nAmlakh zfeqedo men’yu zkhlklo\nZhalefe yakl hji bah neblo\n\n(Mets. neh. 220)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Anta nehmya nay gziebher 'abi",
+      "Ske knegreka bztesebre lbi",
+      "Dehay bet amlakhna nay iyerusalem",
+      "Dehan keymesleka yelen kem qedem /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hanqewta aloni dehaya kfelt'",
+          "Ngereni gda nekhu yedamts'",
+          "Zyada keyshaqel haye ngereni",
+          "Hamiqu ts'ebiqus kwlu asme'ani",
+          "Iyerusalem kemey ala",
+          "Bet aboye kemey ala /2/",
+          "Hats'ur zkhelela lbi ztemsala",
+          "Ztebarekhet bet gwayta zhadrela",
+          "Ts'nu'at halwta dldul mesereta",
+          "Ntay kon ykhewn mkhnyat 'nweta",
+          "Iyerusalem kemey ala?",
+          "Bet aboye kemey ala? /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Deqa ynebru ’lewu bmekeran ts'erfn",
+          "Klla ferisu z're aymesln",
+          "Bqetri bleyti ts'elekhu neba'khu",
+          "Barotka meharom gwaytaye ‘nabelku",
+          "Iyerusalem kemey ala",
+          "Bet aboye kemey ala /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Hats'ur zkhelela . . .",
+          "Mhnats'a ayfetewun tom tets'arerti",
+          "Ntegwazemu’wn  kwlom bebhanti",
+          "Knhgzeka ina nhnets'a kab belka",
+          "Semi'nayo ina nguss zefqedelka /2/"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Ahzab yrayu ‘ti nay amlakh gbri",
+          "Bu tefets'imu n'u ykhuno kbri",
+          "Amlakh zfeqedo men’yu zkhlklo",
+          "Zhalefe yakl hji bah neblo",
+          "Iyerusalem kemey ala",
+          "Bet aboye kemey ala /2/",
+          "Hats'ur zkhelela . . .",
+          "(Mets'. neh. 2፡20)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

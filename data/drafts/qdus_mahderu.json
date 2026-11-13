@@ -1,41 +1,104 @@
 {
-  "id": "h_efr_9033b52641",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቅዱስ ማሕደሩ"
+  "id": 118,
+  "title": "ቅዱስ ማሕደሩ",
+  "ti": {
+    "chorus": [
+      "ጐይታ ንደቁ ኣዝዩ ኣብዚሑ",
+      "ዝበጽሓኩም  ብግሩም ግብሩ",
+      "ደስ ደስ ይበልኩም ታሪኽ ተሰሪሑ /2/",
+      "ጸጋን ምሕረትን ፍቕሩ ኣባና",
+      "ጥንቲ  ኣትሒዙ መሊኡ ተሪፉ",
+      "ሞት ኣይሕዘናን ሓሊና ጐይታ",
+      "ቀዛፊ መልኣክ ከይዱ ሓሊፉ",
+      "ፒራሚዳትን ቀጽርን ሓሊፉ",
+      "እቲ ሕሱም ክፉእ መዓልቲ",
+      "ቅዱስ እስራኤል ዋልታና ኮይኑ",
+      "ዓቂብና’ዩ መዓልቲ ለይቲ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ድኽነት’ውን እንተሃሊና",
+          "ሃብታማት ኢና ዘይጎደለና",
+          "ኣይነማርርን ምስኡ እንተኾይና",
+          "ካብዚ ዝበልጽ ክብሪ ኣለና",
+          "መጸግዒና መመክሒና እዩ",
+          "ንጉሥ ናይ ክብሪ ግኑን ጐይታ",
+          "ተራእዩ ኣብ መስቀል ኢዱ ዘርጊሑ",
+          "እሙን ኣምላኽ’ዩ በዓል ውዕለታት",
+          "ቤተመቕደሱ ጽድቁ ይነግር",
+          "ይእውጅ ሎሚ ዓቢይ ብስራት",
+          "ፍጹም ትም ኢልካ ምምራኽ የለን",
+          "ጐይታ ንደቁ ኣይህብን ንሞት",
+          "ሰዓርቲ ኢና ሰራዊት እምነት",
+          "ታህዲድ ጸላኢ ዘየፍርሓና",
+          "ምስ ጌዴዎን ፍጹም ሰሚርና",
+          "ሽግ እንክውላዕ ተዓዊትና ኢና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እቲ መድረኽ ክመልእ እዩ",
+          "ተጎናጺፍና ብለጋስ ጐይታ",
+          "ዕጽፊ በዚሕና ካብ ማዕሙቕ",
+          "ወጺእና  ኢና ሰይጣን ክርታዕ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቅዱስ ማሕደሩ",
-      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
-      "lyrics": "[[chorus]]\nጸጋን ምሕረትን ፍቕሩ ኣባና\nጥንቲ ኣትሒዙ መሊኡ ተሪፉ\nሞት ኣይሕዘናን ሓሊና ጐይታ\nቀዛፊ መልኣክ ከይዱ ሓሊፉ\nፒራሚዳትን ቀጽርን ሓሊፉ\nእቲ ሕሱም ክፉእ መዓልቲ\nቅዱስ እስራኤል ዋልታና ኮይኑ\nዓቂብና’ዩ መዓልቲ ለይቲ\n[[/chorus]]\n\nቅዱስ ማሕደሩ ምእመናን መሊኡ\nጐይታ ንደቁ ኣዝዩ ኣብዚሑ\nዝበጽሓኩም ብግሩም ግብሩ\nደስ ደስ ይበልኩም ታሪኽ ተሰሪሑ (2)\n\nኣብ ድኽነት’ውን እንተሃሊና\nሃብታማት ኢና ዘይጎደለና\nኣይነማርርን ምስኡ እንተኾይና\nካብዚ ዝበልጽ ክብሪ ኣለና\nመጸግዒና መመክሒና እዩ\nንጉሥ ናይ ክብሪ ግኑን ጐይታ\nተራእዩ ኣብ መስቀል ኢዱ ዘርጊሑ\nእሙን ኣምላኽ’ዩ በዓል ውዕለታት\n\nእቲ መድረኽ ክመልእ እዩ\nሓድሽ ዝማሬ ሓድሽ ምስጋና\nበገና ሓዙ ውጹ ብዕልልታ\nዘሐጉስ ቅኔ ጌና’ዩ ጌና\nዘይነጽፍ ሃብቲ ዘይውዳእ ጸጋ\nተጎናጺፍና ብለጋስ ጐይታ\nዕጽፊ በዚሕና ካብ ማዕሙቕ\nወጺእና ኢና ሰይጣን ክርታዕ"
-    },
-    "ti_ro": {
-      "title": "Qdus mahderu",
-      "zemari": "zemarit werqnesh haylu",
-      "lyrics": "[[chorus]]\nDes des ybelkum tarikh teserihu (2)\n[[/chorus]]\n\nQdus mahderu mmenan meliu\nGoyta ndequ azyu abzihu\nZbetshakum bgrum gbru\nTsegan mhretn fqru abana\nTnti athizu meliu terifu\nMot ayhzenan halina goyta\nQezafi melak keydu halifu\nPiramidatn qetsrn halifu\nTi hsum kfu mealti\nQdus srael waltana koynu\nAqibna’yu mealti leyti\nAb dkhnet’wn ntehalina\nHabtamat ina zeygodelena\nAynemarrn msu ntekhoyna\nKabzi zbelts kbri alena\nMetsegina memekhina yu\nNguss nay kbri gnun goyta\nTerayu ab mesqel idu zergihu\nMun amlakh’yu beal wletat\nBetemeqdesu tsdqu ynegr\nYwj lomi abiy bsrat\nFtsum tm ilka mmrakh yelen\nGoyta ndequ ayhbn nmot\nSearti ina serawit mnet\nTahdid tselai zeyefrhana\nMs gedewon ftsum semirna\nShg nkwla teawitna ina\nTi medrekh kmel yu\nHadsh zmare hadsh msgana\nBegena hazu wtsu bllta\nZehagus qne gena’yu gena\nZeynetsf habti zeywda tsega\nTegonatsifna blegas goyta\nTsfi bezihna kab mamuq\nWetsina ina seytan krta"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gwayta ndequ azyu abzihu",
+      "Zbets'hakum  bgrum gbru",
+      "Des des ybelkum tarikh teserihu /2/",
+      "Ts'egan mhretn fqru abana",
+      "T'nti  athizu meliu terifu",
+      "Mot ayhzenan halina gwayta",
+      "Qezafi melak keydu halifu",
+      "Piramidatn qets'rn halifu",
+      "Ti hsum kfu me'alti",
+      "Qdus srael waltana koynu",
+      "'Aqibna’yu me'alti leyti"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab dkhnet’wn ntehalina",
+          "Habtamat ina zeygodelena",
+          "Aynemarrn msu ntekhoyna",
+          "Kabzi zbelts' kbri alena",
+          "Mets'eg'ina memekhina yu",
+          "Nguss nay kbri gnun gwayta",
+          "Terayu ab mesqel idu zergihu",
+          "Mun amlakh’yu be'al w'letat",
+          "Betemeqdesu ts'dqu ynegr",
+          "Ywj lomi 'abiy bsrat",
+          "Fts'um tm ilka mmrakh yelen",
+          "Gwayta ndequ ayhbn nmot",
+          "Se'arti ina serawit mnet",
+          "Tahdid ts'elai zeyefrhana",
+          "Ms gedewon fts'um semirna",
+          "Shg nkwla' te'awitna ina"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ti medrekh kmel yu",
+          "Tegonats'ifna blegas gwayta",
+          "'Ts'fi bezihna kab ma'muq",
+          "Wets'ina  ina seyt'an krta'"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_2_possible_page_split"
+  ]
 }

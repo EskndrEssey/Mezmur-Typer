@@ -1,0 +1,35 @@
+{
+  "id": 346,
+  "title": "ስብሐት ለእግዚአብሔር",
+  "ti": {
+    "chorus": [
+      "ስብሐት ለእግዚአብሔር ኪያነ ዘፈጠረ ከመ ናምልኮ",
+      "ስብሐት ለማርያም እመ አምላክ እግዝእትነ ወመድኃኒትነ",
+      "ስብሐት ለመስቀለ ክርስቶስ ዕፀ መድኃኒት ኃይልነ ወጸወንነ።"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ማሕበር ኣርድእት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Sbhet legziebher kiyane zefet'ere keme namlko",
+      "Sbhet lemaryam me emlak gztne wemedhanitne",
+      "Sbhet lemesqele krstos 'ts'e medhanit haylne wets'ewenne."
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mahber ardt"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

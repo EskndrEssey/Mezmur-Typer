@@ -1,41 +1,63 @@
 {
-  "id": "h_efr_214e3f0ff9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንድንግል ክውድስ"
+  "id": 269,
+  "title": "ንድንግል ክውድስ",
+  "ti": {
+    "chorus": [
+      "ንድንግል ክውድስ ስማ ደጋጊመ",
+      "ብዘመናት ፍጹም ዘይውሰን ብዕድመ",
+      "ደጋጊሙ ይሕጎስ ልበይ ከመስግና",
+      "ክዝምረላ’የ ጽባሕ ከሎ ጌና",
+      "ሓይሊ ልዑል ኣምላኽ ዘጽለለ ኣብ ልዕሌኣ",
+      "ቅድስቲ ድንግል’ያ ርኅሩኅ ዝባህሪኣ",
+      "ከዋኽብቲ ሰማይ ኩኑ ቃል ምስጋና",
+      "ነፍሰይ ከይትትክዝ እትብሎ ስኢና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣትን ኣዕዋፍ ሰማይ ዘይማለይ ዜማ",
+          "ዘመነይ ከሕልፎ እናወደስኩ ስማ",
+          "ካብ ሥጋኣ ሥጋ ካብ ነፍሳ’ውን ነፍሲ",
+          "ዝወሰደ ኣምላኽ ኮይኑልና’ዩ ፈውሲ/2/",
+          "ማዕበል ባሕሪ ሃርህር ከም ድምፂ በገና",
+          "መጺኣ ናብ ቤተይ ብተምሳል ደመና",
+          "ኣግራብ ስየ ጽሕዲ ኃዙለይ ጸናጽል",
+          "ህያብ ፍቕሪ ኣሎኒ ዝብርከት ንድንግል /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንድንግል ክውድስ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nሓይሊ ልዑል ኣምላኽ ዘጽለለ ኣብ ልዕሌኣ\nቅድስቲ ድንግል’ያ ርኅሩኅ ዝባህሪኣ\nከዋኽብቲ ሰማይ ኩኑ ቃል ምስጋና\nነፍሰይ ከይትትክዝ እትብሎ ስኢና (2)\n[[/chorus]]\n\nንድንግል ክውድስ ስማ ደጋጊመ\nብዘመናት ፍጹም ዘይውሰን ብዕድመ\nደጋጊሙ ይሕጎስ ልበይ ከመስግና\nክዝምረላ’የ ጽባሕ ከሎ ጌና\n\nኣትን ኣዕዋፍ ሰማይ ዘይማለይ ዜማ\nዘመነይ ከሕልፎ እናወደስኩ ስማ\nካብ ሥጋኣ ሥጋ ካብ ነፍሳ’ውን ነፍሲ\nዝወሰደ ኣምላኽ ኮይኑልና’ዩ ፈውሲ(2)\n\nድኅነት ወዲ ኣዳም ባህታኡ መንፈሳ\nመሣልል ሕይወት’ያ ኣምላኽ ዝቐደሳ\nኣግራብ ስየ ጽሕዲ ኃዙለይ ጸናጽል\nህያብ ፍቕሪ ኣሎኒ ዝብርከት ንድንግል (2)"
-    },
-    "ti_ro": {
-      "title": "Ndngl kwds",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "[[chorus]]\nNefsey keyttkz tblo sina (2)\n[[/chorus]]\n\nNdngl kwds sma degagime\nBzemenat ftsum zeywsen bdme\nDegagimu yhgos lbey kemesgna\nKzmrela’ye tsbah kelo gena\nHayli lul amlakh zetslele ab llea\nQdsti dngl’ya rhruh zbahria\nKewakhbti semay kunu qal msgana\nAtn awaf semay zeymaley zema\nZemeney kehlfo nawedesku sma\nKab ssgaa ssga kab nefsa’wn nefsi\nZwesede amlakh koynulna’yu fewsi(2)\nMabel bahri harhr kem dmtsi begena\nMetsia nab betey btemsal demena\nNfasat’za mdri nfhuley mblta\nKwds nmaryam asenye llta (2)\nDhnet wedi adam bahtau menfesa\nMesall hywet’ya amlakh zqedesa\nAgrab sye tshdi hazuley tsenatsl\nHyab fqri aloni zbrket ndngl (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ndngl kwds sma degagime",
+      "Bzemenat fts'um zeywsen b'dme",
+      "Degagimu yhgos lbey kemesgna",
+      "Kzmrela’ye ts'bah kelo gena",
+      "Hayli l'ul amlakh zets'lele ab l'lea",
+      "Qdsti dngl’ya rhruh zbahria",
+      "Kewakhbti semay kunu qal msgana",
+      "Nefsey keyttkz tblo sina /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Atn a'waf semay zeymaley zema",
+          "Zemeney kehlfo nawedesku sma",
+          "Kab Ssgaa Ssga kab nefsa’wn nefsi",
+          "Zwesede amlakh koynulna’yu fewsi/2/",
+          "Ma'bel bahri harhr kem dmts'i begena",
+          "Mets'ia nab betey btemsal demena",
+          "Agrab sye ts'hdi hazuley ts'enats'l",
+          "Hyab fqri aloni zbrket ndngl /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_39ce695d58",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብ ቤትካ ምንባር"
+  "id": 279,
+  "title": "ኣብ ቤትካ ምንባር",
+  "ti": {
+    "chorus": [
+      "ቅዱስ መቕደስካ እናሓሎና",
+      "ሳህልኻ ጐይታ ክንጽበ ኢና",
+      "ብዘይካኻ’ሞ መን ኣሎና",
+      "መና ሰማያት መጊቡና’ዩ",
+      "ከውሒ ጨዲዱ ማይ ሂቡና’ዩ",
+      "ስለቲ መልክዕ ሰናይ ግብሩ",
+      "ኣብ ቤቱ ንንበር ንሓዋሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑ ብኣምላኽ ደስ ይበለና",
+          "ዘይጸባጸብ በደል ኃጢኣትና",
+          "ንኹራ ደንጓይ ርሕሩሕ’ዩ ፍጹም",
+          "ስሙ ይመስገን ኣብ ላዕሊ ኣርያም",
+          "መከራ ስቓይ እንተበዝሓና",
+          "ኣብ ቤትካ ጐይታ ክንእከብ ኢና",
+          "ንቕዱስ ስምካ ክንውድስ ኢና",
+          "ስለዝኾነ ስንቂ ሕይወትና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጉሥ ነገስታት ልዑል ፈጣሪ",
+          "ጥዑም ዜማታት ልብና ይዛሪ",
+          "ዕልል ንብለልካ ኣብ ሰማይ ምድሪ",
+          "ኣምላኽ ኣማልኽት ክበር ብኽብሪ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብ ቤትካ ምንባር",
-      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-      "lyrics": "[[chorus]]\nመና ሰማያት መጊቡና’ዩ\nከውሒ ጨዲዱ ማይ ሂቡና’ዩ\nስለቲ መልክዕ ሰናይ ግብሩ\nኣብ ቤቱ ንንበር ንሓዋሩ\n[[/chorus]]\n\nኣብ ቤትካ ምንባር ይሕሸና\nቅዱስ መቕደስካ እናሓሎና\nሳህልኻ ጐይታ ክንጽበ ኢና\nብዘይካኻ’ሞ መን ኣሎና\n\nንዑ ብኣምላኽ ደስ ይበለና\nዘይጸባጸብ በደል ኃጢኣትና\nንኹራ ደንጓይ ርሕሩሕ’ዩ ፍጹም\nስሙ ይመስገን ኣብ ላዕሊ ኣርያም\n\nንጉሥ ነገስታት ልዑል ፈጣሪ\nጥዑም ዜማታት ልብና ይዛሪ\nዕልል ንብለልካ ኣብ ሰማይ ምድሪ\nኣምላኽ ኣማልኽት ክበር ብኽብሪ"
-    },
-    "ti_ro": {
-      "title": "Ab betka mnbar",
-      "zemari": "liqe mela'kt ab qdmit menberka",
-      "lyrics": "Ab betka mnbar yhshena\nQdus meqdeska nahalona\nSahlkha goyta kntsbe ina\nBzeykakha’mo men alona\nMena semayat megibuna’yu\nKewhi chedidu may hibuna’yu\nSleti melk senay gbru\nAb betu nnber nhawaru\nNu bamlakh des ybelena\nZeytsebatseb bedel hatiatna\nNkhura dengway rhruh’yu ftsum\nSmu ymesgen ab lali aryam\nMekera sqay ntebezhana\nAb betka goyta knkeb ina\nNqdus smka knwds ina\nSlezkhone snqi hywetna\nNguss negestat lul fetari\nTum zematat lbna yzari\nLl nblelka ab semay mdri\nAmlakh amalkht kber bkhbri"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Qdus meqdeska nahalona",
+      "Sahlkha gwayta knts'be ina",
+      "Bzeykakha’mo men alona",
+      "Mena semayat megibuna’yu",
+      "Kewhi ch'edidu may hibuna’yu",
+      "Sleti melk' senay gbru",
+      "Ab betu nnber nhawaru"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'u bamlakh des ybelena",
+          "Zeyts'ebats'eb bedel hat'iatna",
+          "Nkhura dengway rhruh’yu fts'um",
+          "Smu ymesgen ab la'li aryam",
+          "Mekera sqay ntebezhana",
+          "Ab betka gwayta knkeb ina",
+          "Nqdus smka knwds ina",
+          "Slezkhone snqi hywetna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nguss negestat l'ul fet'ari",
+          "T''um zematat lbna yzari",
+          "'Ll nblelka ab semay mdri",
+          "Amlakh amalkht kber bkhbri"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

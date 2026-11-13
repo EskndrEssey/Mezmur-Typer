@@ -1,41 +1,55 @@
 {
-  "id": "h_efr_5ff2aebfa5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣህዛብን ህዝብን"
+  "id": 505,
+  "title": "ኣህዛብን ህዝብን",
+  "ti": {
+    "chorus": [
+      "ኣህዛብን ህዝብን ዝተራኸቡልኪ",
+      "መና ካብ ሰማያት ኣምላኽ ዘውረደልኪ",
+      "ሰብን መላእክትን ስብሐት ዘብጽሑልኪ",
+      "ናይ ቅዱሳን ሕይወት ድንግል ማርያም ኢኺ",
+      "ንቆጽሊ በሊዓ ሔዋን ኣምጸአት ሞት",
+      "ብፍረ ማሕጸንኪ ተረኺቡ ሕይወት",
+      "ሰኣሊ ለነ ቅድስት ምሕረት ለምንልና",
+      "ካብ ፍቑር ወድኺ ካብ ልዑል ኣምላኽና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ያዕቆብ  ኣብ ሎዛ ብሕልሚ ርእዩኪ",
+          "ሰብን መላእክትን ዝተራኸቡልኪ",
+          "መቕረቢት ናብ ኣምላኽ ጽዮን ማርያም ኢኺ",
+          "ኣማናዊት ጽዮን ኪዳን ምሕረት ኢኺ",
+          "ውዳሴ ናይ ኤፍሬም ዜማ ቅዱስ ያሬድ",
+          "ምልእተ ጸጋ ልዕሊ ኵሉ ፍጥረት"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣህዛብን ህዝብን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nንቆጽሊ በሊዓ ሔዋን ኣምጸአት ሞት\nብፍረ ማሕጸንኪ ተረኺቡ ሕይወት\nሰኣሊ ለነ ቅድስት ምሕረት ለምንልና\nካብ ፍቑር ወድኺ ካብ ልዑል ኣምላኽና\n[[/chorus]]\n\nኣህዛብን ህዝብን ዝተራኸቡልኪ\nመና ካብ ሰማያት ኣምላኽ ዘውረደልኪ\nሰብን መላእክትን ስብሐት ዘብጽሑልኪ\nናይ ቅዱሳን ሕይወት ድንግል ማርያም ኢኺ\n\nያዕቆብ ኣብ ሎዛ ብሕልሚ ርእዩኪ\nሰብን መላእክትን ዝተራኸቡልኪ\nመቕረቢት ናብ ኣምላኽ ጽዮን ማርያም ኢኺ\nኣማናዊት ጽዮን ኪዳን ምሕረት ኢኺ"
-    },
-    "ti_ro": {
-      "title": "Ahzabn hzbn",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Ahzabn hzbn zterakhebulki\nMena kab semayat amlakh zewredelki\nSebn melaktn sbhat zebtshulki\nNay qdusan hywet dngl maryam ikhi\nNqotsli belia hewan amtseat mot\nBfre mahtsenki terekhibu hywet\nSeali lene qdst mhret lemnlna\nKab fqur wedkhi kab lul amlakhna\nYaqob ab loza bhlmi ryuki\nSebn melaktn zterakhebulki\nMeqrebit nab amlakh tsyon maryam ikhi\nAmanawit tsyon kidan mhret ikhi\nWdase nay efrem zema qdus yared\nMlte tsega lli kwilu ftret\nBbsrat gebrel amlakh zweledki\nNgst maryam msgana ybtsahki"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ahzabn hzbn zterakhebulki",
+      "Mena kab semayat amlakh zewredelki",
+      "Sebn melaktn sbhet zebts'hulki",
+      "Nay qdusan hywet dngl maryam ikhi",
+      "Nqots'li beli'a hewan amts'eet mot",
+      "Bfre mahts'enki terekhibu hywet",
+      "Seali lene qdst mhret lemnlna",
+      "Kab fqur wedkhi kab l'ul amlakhna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ya'qob  ab loza bhlmi ryuki",
+          "Sebn melaktn zterakhebulki",
+          "Meqrebit nab amlakh ts'yon maryam ikhi",
+          "Amanawit ts'yon kidan mhret ikhi",
+          "Wdase nay efrem zema qdus yared",
+          "Mlte ts'ega l'li kwlu ft'ret"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

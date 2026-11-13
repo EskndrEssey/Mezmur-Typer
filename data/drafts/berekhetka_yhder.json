@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_f93090666d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በረኸትካ ይሕደር"
+  "id": 42,
+  "title": "በረኸትካ ይሕደር",
+  "ti": {
+    "chorus": [
+      "በረኸትካ ይሕደር /2/ ኣብ ኩላትና /2/",
+      "ናይ ዝማሬ ጸጋ ዳዊት ኣቦና",
+      "ምስጋና ክንስውእ ንሕና’ውን ንኣምላኽና",
+      "በገና ዝሓዛ ኣእዳዉ በርቲዐን",
+      "ንጎልያድ ቀተላ ኣእማን ሰንድየን",
+      "ከበሮ ዝሃርማ ኣእዳዉ ጠንኪረን",
+      "ነባጊዕ ብምድሓን ኣንበሳ ቀቲለን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ክፉእ መንፈስ ካብ ሰብ እተርሕቐሉ",
+          "‘ቲ ናይ ሳኦል መንፈስ እትፍውሰሉ",
+          "ናይ በገና ምስጢር ናይ ዝማሬ ቃና",
+          "ደቅኻ ኢና’ሞ ይሕደር ኣብ ኩላትና",
+          "ዕልል ዕልል በሉ  መታን ክትስዕሩ",
+          "ድምጽኹም ኣስምዑ ክትሓልፉ ንቐጽሩ",
+          "ናይ መዝሙር ነጎድጓድ ሰንሰለት ይሰብር",
+          "ብርሃናዊ መልኣኽ ካብ ሰማይ ይጽውዕ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲ/ን ልዑልሰገድ ጌታቸው"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ትዝታው ሳሙኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በረኸትካ ይሕደር",
-      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
-      "lyrics": "[[chorus]]\nበገና ዝሓዛ ኣእዳዉ በርቲዐን\nንጎልያድ ቀተላ ኣእማን ሰንድየን\nከበሮ ዝሃርማ ኣእዳዉ ጠንኪረን\nነባጊዕ ብምድሓን ኣንበሳ ቀቲለን\n[[/chorus]]\n\nበረኸትካ ይሕደር (2) ኣብ ኩላትና (2)\nናይ ዝማሬ ጸጋ ዳዊት ኣቦና\nምስጋና ክንስውእ ንሕና’ውን ንኣምላኽና\n\nክፉእ መንፈስ ካብ ሰብ እተርሕቐሉ\n‘ቲ ናይ ሳኦል መንፈስ እትፍውሰሉ\nናይ በገና ምስጢር ናይ ዝማሬ ቃና\nደቅኻ ኢና’ሞ ይሕደር ኣብ ኩላትና\n\nዲ/ን ልዑልሰገድ ጌታቸው"
-    },
-    "ti_ro": {
-      "title": "Berekhetka yhder",
-      "zemari": "di/n tztaw samuel",
-      "lyrics": "Berekhetka yhder (2) ab kulatna (2)\nNay zmare tsega dawit abona\nMsgana knsw nhna’wn namlakhna\nBegena zhaza adawu bertian\nNgolyad qetela aman sendyen\nKebero zharma adawu tenkiren\nNebagi bmdhan anbesa qetilen\nKfu menfes kab seb terhqelu\n‘Ti nay saol menfes tfwselu\nNay begena mstir nay zmare qana\nDeqkha ina’mo yhder ab kulatna\nLl ll belu metan ktsru\nDmtskhum asmu kthalfu nqetsru\nNay mezmur negodgwad senselet ysebr\nBrhanawi melakh kab semay ytsw"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Berekhetka yhder /2/ ab kulatna /2/",
+      "Nay zmare ts'ega dawit abona",
+      "Msgana knsw nhna’wn namlakhna",
+      "Begena zhaza adawu berti'en",
+      "Ngolyad qetela aman sendyen",
+      "Kebero zharma adawu t'enkiren",
+      "Nebagi' bmdhan anbesa qetilen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kfu menfes kab seb terhqelu",
+          "‘Ti nay saol menfes tfwselu",
+          "Nay begena mst'ir nay zmare qana",
+          "Deqkha ina’mo yhder ab kulatna",
+          "'Ll 'll belu  metan kts'ru",
+          "Dmts'khum asm'u kthalfu nqets'ru",
+          "Nay mezmur negodgwad senselet ysebr",
+          "Brhanawi melakh kab semay yts'w'"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Di/n l'ulseged getachew"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

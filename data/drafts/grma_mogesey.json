@@ -1,41 +1,65 @@
 {
-  "id": "h_efr_5defb9efb6",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ግርማ ሞገሰይ"
+  "id": 170,
+  "title": "ግርማ ሞገሰይ",
+  "ti": {
+    "chorus": [
+      "ግርማ ሞገሰይ ኢኺ ኣደ ጐይታይ",
+      "ሰረት እምነት መትከል ተዋሕዶይ",
+      "ኣማላድነትኪ ንዓይ ረዲኡኒ",
+      "ፍቕርኺ ከመስግን ገዲዱኒ/2/",
+      "ልበይ ህዱእ ኣይርበሽን",
+      "ኣይፈራረቕን ኣይጐድልን",
+      "ኢድኪ ኣንቢርክለይ ኢድኪ ሰላም",
+      "ኣይጭነቕን ኣነ ንዘለዓለም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንኸሰስተይ እናረታዕኺ",
+          "ነቲ ዓማጺ’ውን እናሞገትኪ",
+          "ደጊፍክኒ ኢኺ ኣብ ዘመነይ",
+          "ውዕለትኪ ድንግለይ በዚኁለይ",
+          "ውዕለትኪማርያመይ በዚኁለይ",
+          "ንምስጢረይ እትፈልጢ",
+          "ውሽጣዊ ኃዘነይ እትልውጢ",
+          "ዓወት ብምርካበይ ተሸበሩ",
+          "እቶም ጸላእተይ ፍጹም ተሰዓሩ /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ግርማ ሞገሰይ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nልበይ ህዱእ ኣይርበሽን\nኣይፈራረቕን ኣይጐድልን\nኢድኪ ኣንቢርክለይ ኢድኪ ሰላም\nኣይጭነቕን ኣነ ንዘለዓለም (2)\n[[/chorus]]\n\nግርማ ሞገሰይ ኢኺ ኣደ ጐይታይ\nሰረት እምነት መትከል ተዋሕዶይ\nኣማላድነትኪ ንዓይ ረዲኡኒ\nፍቕርኺ ከመስግን ገዲዱኒ(2)\n\nንኸሰስተይ እናረታዕኺ\nነቲ ዓማጺ’ውን እናሞገትኪ\nደጊፍክኒ ኢኺ ኣብ ዘመነይ\nውዕለትኪ ድንግለይ በዚኁለይ\nውዕለትኪማርያመይ በዚኁለይ\n\nሰላም ለኪ እናበልኩ\nብጫካ ሞት ድነ ተሳገርኩ\nዓወት ብምርካበይ ተሸበሩ\nእቶም ጸላእተይ ፍጹም ተሰዓሩ (2)"
-    },
-    "ti_ro": {
-      "title": "Grma mogesey",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\nFqrkhi kemesgn gediduni(2)\n[[/chorus]]\n\nGrma mogesey ikhi ade goytay\nSeret mnet metkel tewahdoy\nAmaladnetki nay rediuni\nLbey hdu ayrbeshn\nAyferareqn aygodln\nIdki anbirkley idki selam\nAychneqn ane nzelealem (2)\nNkhesestey naretakhi\nNeti amatsi’wn namogetki\nDegifkni ikhi ab zemeney\nWletki dngley bezihuley\nWletkimaryamey bezihuley\nNmstirey tfelti\nWshtawi hazeney tlwti\nWdqet yelen sret dhri degim\nKelekhi ab godney dngl maryam (2)\nSelam leki nabelku\nBchaka mot dne tesagerku\nAwet bmrkabey tesheberu\nTom tselatey ftsum tesearu (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Grma mogesey ikhi ade gwaytay",
+      "Seret mnet metkel tewahdoy",
+      "Amaladnetki n'ay rediuni",
+      "Fqrkhi kemesgn gediduni/2/",
+      "Lbey hdu ayrbeshn",
+      "Ayferareqn aygwadln",
+      "Idki anbirkley idki selam",
+      "Aych'neqn ane nzele'alem /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nkhesestey nareta'khi",
+          "Neti 'amats'i’wn namogetki",
+          "Degifkni ikhi ab zemeney",
+          "W'letki dngley bezihuley",
+          "W'letkimaryamey bezihuley",
+          "Nmst'irey tfelt'i",
+          "Wsht'awi hazeney tlwt'i",
+          "'Awet bmrkabey tesheberu",
+          "Tom ts'elatey fts'um tese'aru /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

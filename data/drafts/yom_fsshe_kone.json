@@ -1,0 +1,87 @@
+{
+  "id": 90,
+  "title": "ዮም ፍሥሐ ኮነ",
+  "ti": {
+    "chorus": [
+      "ዮም ፍሥሐ ኮነ /2/",
+      "በእንተ ልደታ ለማርያም",
+      "ኣብ ትሕቲ መግዛእቲ       ፍሥሐ ኮነ",
+      "ኣብ ኃጢኣት ከለና           >>  >>",
+      "ብናይ ድንግል ምውላድ      >>  >>",
+      "በደልና ተሓድገልና            >>  >>",
+      "እግዚአብሔር ሓርዩኪ        >>  >>",
+      "ክትኮኒ ወላዲት                 >>  >>",
+      "ሕጂ ተፈጸመ                    >>  >>",
+      "ናይ ዳዊት ትንቢት             >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ሔዋን ተስፋኣ               ፍሥሐ ኮነ",
+          "ናይ ኣዳም ሕይወት                 >>  >>",
+          "ናይ ኢያቄም ናይ ሃና             >>  >>",
+          "ፍረ በረኸት                       >>  >>",
+          "ምኽንያት ናይ ድኅነትና          >>  >>",
+          "ኪዳነ ምሕረት                    >>  >>",
+          "ሎሚ ረኺብናዮ               >>  >>",
+          "ብድንግል ማርያም             >>  >>",
+          "ነቲ ብስራት ንንገር             >>  >>",
+          "ሓዘና ገዲፍና                   >>  >>",
+          "ተወሊዳ’ያሞ                   >>  >>",
+          "ተስፋ ናይ ዓለምና             >>  >>"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘማሪ ቸርነት ሰናይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Yom fsshe kone /2/",
+      "Bente ldeta lemaryam",
+      "Ab thti megzati       fsshe kone",
+      "Ab hat'iat kelena           >>  >>",
+      "Bnay dngl mwlad      >>  >>",
+      "Bedelna tehadgelna            >>  >>",
+      "Gziebher haryuki        >>  >>",
+      "Ktkoni weladit                 >>  >>",
+      "Hji tefets'eme                    >>  >>",
+      "Nay dawit tnbit             >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay hewan tesfaa               fsshe kone",
+          "Nay adam hywet                 >>  >>",
+          "Nay iyaqem nay hana             >>  >>",
+          "Fre berekhet                       >>  >>",
+          "Mkhnyat nay dhnetna          >>  >>",
+          "Kidane mhret                    >>  >>",
+          "Lomi rekhibnayo               >>  >>",
+          "Bdngl maryam             >>  >>",
+          "Neti bsrat nnger             >>  >>",
+          "Hazena gedifna                   >>  >>",
+          "Tewelida’yamo                   >>  >>",
+          "Tesfa nay 'alemna             >>  >>"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zemari chernet senay"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

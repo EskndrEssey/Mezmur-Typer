@@ -1,0 +1,95 @@
+{
+  "id": 305,
+  "title": "መጥምቀ መለኮት",
+  "ti": {
+    "chorus": [
+      "መጥምቀ መለኮት ዓርኩ ንመርዓዊ",
+      "መትረብ ብሉይ ሓዲስ ነፍስና ዘሕዊ /2/",
+      "ናይቲ ልዑል ነቢይ ዝስመ መኣዲ",
+      "መጥምቀ መለኮት ንቃሉ ኣዋዲ",
+      "መርሓ ሰማያዊ ዝምግብ መኣዛ",
+      "ብመንፈስ ናይ ኤልያስ ዘዝንም ኣኸዛ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰርወ ቅድስና ሰባኺ ናይ ጥምቀት",
+          "ዝመርሕ ናብ ጸጋ ብንስሓ ሕይወት",
+          "ንጥዑም ነፊጉ ሕሰም’ዩ መሪጹ",
+          "ኣዲሙ ንበፍታ ብቖርበት ኣጊጹ",
+          "ራጉኤል ብትግሃት ኢዮብ ብለውሃቱ",
+          "ጐይታ ኣየጥመቑን ብትርኢት ስምረቱ",
+          "ንሱ ግን ቀደሶ ነቲ ማይ ዮርዳኖስ",
+          "ሓይሊ መንፈስ ቅዱስ ክፈስስ ከም ናርዶስ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክታም ኣንቢርዎ ነጺሁልና ደዌ",
+          "ረሲኣን ይመስሎም ዘይውገዝ’ቲ ኣርዌ",
+          "ሄሮድስ ባኸነ ክሳዱ መቲሩ",
+          "ንኽብረቱ ቤዛ ኣበሳ ሰቲሩ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዝባደመ ተስፋ ክግለጽ ጸጋኡ",
+          "ክኽፈል’ዩ ጻማ እግዚአብሔር ስዒቡ",
+          "ሓዋርያ ትንቢት ክዝየም ወለንሳ",
+          "ንነፍሲ ኃጥኣን ዝሕረ ዋሕሳ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Met'mqe melekot 'arku nmer'awi",
+      "Metreb bluy hadis nefsna zehwi /2/",
+      "Nayti l'ul nebiy zsme meadi",
+      "Met'mqe melekot nqalu awadi",
+      "Merha semayawi zmgb meaza",
+      "Bmenfes nay elyas zeznm akheza"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Serwe qdsna sebakhi nay t'mqet",
+          "Zmerh nab ts'ega bnsha hywet",
+          "Nt''um nefigu hsem’yu merits'u",
+          "Adimu nbefta bqorbet agits'u",
+          "Raguel btghat iyob blewhatu",
+          "Gwayta ayet'mequn btrit smretu",
+          "Nsu gn qedeso neti may yordanos",
+          "Hayli menfes qdus kfess kem nardos"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ktam anbirwo nets'ihulna dewe",
+          "Resian ymeslom zeywgez’ti arwe",
+          "Herods bakhene ksadu metiru",
+          "Nkhbretu beza abesa setiru"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zbademe tesfa kglets' ts'egau",
+          "Kkhfel’yu ts'ama gziebher s'ibu",
+          "Hawarya tnbit kzyem welensa",
+          "Nnefsi hat'an zhre wahsa"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
+}

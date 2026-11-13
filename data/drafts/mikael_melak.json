@@ -1,44 +1,23 @@
 {
-  "id": "h_efr_153758819e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሚካኤል መልኣክ"
+  "id": 306,
+  "title": "ሚካኤል መልኣክ",
+  "ti": {
+    "chorus": [
+      "ሚካኤል መልኣክ እመላእክት መኑ ከማከ ልዑል",
+      "ሐመልማለ ወርቅ ልብሱ ዘመብረቅ ሊቀ መላእክት",
+      "ዲ/ን ኤፍሬም"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሚካኤል መልኣክ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nሚካኤል መልኣክ እመላእክት መኑ ከማከ ልዑል\nሐመልማለ ወርቅ ልብሱ ዘመብረቅ ሊቀ መላእክት\n[[/chorus]]\n\nዲ/ን ኤፍሬም"
-    },
-    "ti_ro": {
-      "title": "Mikael melak",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "Mikael melak melakt menu kemake lul\nHamelmale werq lbsu zemebreq liqe melakt"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Mikael melak melakt menu kemake l'ul",
+      "Hemelmale werq lbsu zemebreq liqe melakt",
+      "Di/n efrem"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

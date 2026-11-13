@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_7392366d6c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ነዚ ዝገበረ"
+  "id": 432,
+  "title": "ነዚ ዝገበረ",
+  "ti": {
+    "chorus": [
+      "ነዚ ዝገበረ ሃሌ ሉያ በሉ",
+      "እግዚአብሔር እሙን’ዩ ኵሉ ጊዜ ብቓሉ",
+      "መርዓውን መርዓትን እንቋዕ ደስ በለኩም",
+      "ናይ ያዕቆብ ኣምላኽ ሞገስ ዝኾነልኩም",
+      "ክንደይ መከራ ተሳጊርና ኣብ ቤተመቕደሱ ኣቚምና",
+      "እስኪ ንዘምር ብደስታ እሙን ጓሳ’ዩ ናትና ጐይታ",
+      "ካባና ዝኾነ ምንም የለን ተመስገን ጐይታ ንዘልዓለም",
+      "ብርሃንካ ኣብሪሁ ብምስጋና ኣብ መርዓውትና እንደገና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፍጹም ዘይከኣል ዝበልናዮ ብእግዚአብሔር ኮይኑ ርኢናዮ",
+          "ከም ደቂ ኣሳፍ ተኣኪብና ስሙ ብቕኔ ኣመስጊንና",
+          "ዝተባረኸ ብኣእዳዉ ዘወትር የፍስስ ቅኔ ኣፉ",
+          "ምስ መላእክቱ ሓደ ኮይናስራሕ እግዚአብሔር መሲጡና",
+          "ገንእና ወይኒ ጎዲሉና ኣምላኽና ባዕሉ መሊኡልና",
+          "ኣረጊት ይውጻእ ካብ ገዛና ሓድሽ‘ውን ይእቶ ናብዚ ቤትና",
+          "ኤቨን ኤዘር’ዩ ምስጋናና ይረድኣና ‘ሎ ፈጣሪና",
+          "ገጽና በሪሁ ብደስታግርማ ኮይኑና ናትና ጐይታ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ነዚ ዝገበረ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nክንደይ መከራ ተሳጊርና ኣብ ቤተመቕደሱ ኣቚምና\nእስኪ ንዘምር ብደስታ እሙን ጓሳ’ዩ ናትና ጐይታ\nካባና ዝኾነ ምንም የለን ተመስገን ጐይታ ንዘልዓለም\nብርሃንካ ኣብሪሁ ብምስጋና ኣብ መርዓውትና እንደገና\n[[/chorus]]\n\nነዚ ዝገበረ ሃሌ ሉያ በሉ\nእግዚአብሔር እሙን’ዩ ኵሉ ጊዜ ብቓሉ\nመርዓውን መርዓትን እንቋዕ ደስ በለኩም\nናይ ያዕቆብ ኣምላኽ ሞገስ ዝኾነልኩም\n\nፍጹም ዘይከኣል ዝበልናዮ ብእግዚአብሔር ኮይኑ ርኢናዮ\nከም ደቂ ኣሳፍ ተኣኪብና ስሙ ብቕኔ ኣመስጊንና\nዝተባረኸ ብኣእዳዉ ዘወትር የፍስስ ቅኔ ኣፉ\nምስ መላእክቱ ሓደ ኮይናስራሕ እግዚአብሔር መሲጡና"
-    },
-    "ti_ro": {
-      "title": "Nezi zgebere",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNezi zgebere hale luya belu\n[[/chorus]]\n\nGziabher mun’yu kwilu gize bqalu\nMerawn meratn nqwa des belekum\nNay yaqob amlakh moges zkhonelkum\nKndey mekera tesagirna ab betemeqdesu aqwamna\nSki nzemr bdesta mun gwasa’yu natna goyta\nKabana zkhone mnm yelen temesgen goyta nzelalem\nBrhanka abrihu bmsgana ab merawtna ndegena\nFtsum zeykeal zbelnayo bgziabher koynu rinayo\nKem deqi asaf teakibna smu bqne amesginna\nZtebarekhe badawu zewetr yefss qne afu\nMs melaktu hade koynasrah gziabher mesituna\nGenna weyni godiluna amlakhna balu meliulna\nAregit ywtsa kab gezana hadsh‘wn yto nabzi betna\nEven ezer’yu msganana yredana ‘lo fetarina\nGetsna berihu bdestagrma koynuna natna goyta"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nezi zgebere hale luya belu",
+      "Gziebher mun’yu kwlu gize bqalu",
+      "Mer'awn mer'atn nqwa' des belekum",
+      "Nay ya'qob amlakh moges zkhonelkum",
+      "Kndey mekera tesagirna ab betemeqdesu aqwimna",
+      "Ski nzemr bdesta mun gwasa’yu natna gwayta",
+      "Kabana zkhone mnm yelen temesgen gwayta nzel'alem",
+      "Brhanka abrihu bmsgana ab mer'awtna ndegena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Fts'um zeykeal zbelnayo bgziebher koynu rinayo",
+          "Kem deqi asaf teakibna smu bqne amesginna",
+          "Ztebarekhe badawu zewetr yefss qne afu",
+          "Ms melaktu hade koynasrah gziebher mesit'una",
+          "Genna weyni godiluna amlakhna ba'lu meliulna",
+          "Aregit ywts'a kab gezana hadsh‘wn yto nabzi betna",
+          "Even ezer’yu msganana yredana ‘lo fet'arina",
+          "Gets'na berihu bdestagrma koynuna natna gwayta"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

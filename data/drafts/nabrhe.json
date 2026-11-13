@@ -1,0 +1,77 @@
+{
+  "id": 125,
+  "title": "እናብርሀ",
+  "ti": {
+    "chorus": [
+      "እናኣብርሀ እቲ ጻዕዳ ልብሱ",
+      "ጊዮርጊስ መጸ ብፈረሱ",
+      "ዋልታን ኵናትን ክኾነኒ",
+      "ካብ ኣፍ ድራጎን ከድሕነኒ",
+      "ዓለም ንምስዓር ተጋዲሉ",
+      "ክሳብ ጊዜ ሞት እሙን ኮይኑ",
+      "ናይ ክብሪ ኣኽሊል ተሸሊሙ",
+      "ጊዮርጊስ ብኣምላኽ ከቢሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ኢድ ጸላእየይ ወዲቐ",
+          "ተስፋ ቆሪጸ ሞት ክጽበ",
+          "ጊዮርጊስ መጺኡ ክረድኣኒ",
+          "ብስም ኣምላኹ ከድሕነኒ",
+          "ሓይሉ ደኺሙ ጸላእየይ",
+          "ብሓይሊ ጸሎት ረዳኢየይ",
+          "ጊዮርጊስ ብዙሕ'ዩ ትሩፋቱ",
+          "ቤተይ መሊኡ በረኸቱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ርጉም ኣራዊት ተቐቲሉ",
+          "ሰላምኩም ይብዛሕ ዕልል በሉ",
+          "ኣውጁ ሓርነት ብሓጎስ",
+          "ኣኽብሩ ንኣምላኽ ጊዮርጊስ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Naabrhe ti ts'a'da lbsu",
+      "Giyorgis mets'e bferesu",
+      "Waltan kwnatn kkhoneni",
+      "Kab af dragon kedhneni",
+      "'Alem nms'ar tegadilu",
+      "Ksab gize mot mun koynu",
+      "Nay kbri akhlil teshelimu",
+      "Giyorgis bamlakh kebiru"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab id ts'elayey wediqe",
+          "Tesfa qorits'e mot kts'be",
+          "Giyorgis mets'iu kredani",
+          "Bsm amlakhu kedhneni",
+          "Haylu dekhimu ts'elayey",
+          "Bhayli ts'elot redaiyey",
+          "Giyorgis bzuh'yu trufatu",
+          "Betey meliu berekhetu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Rgum arawit teqetilu",
+          "Selamkum ybzah 'll belu",
+          "Awju harnet bhagos",
+          "Akhbru namlakh giyorgis"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

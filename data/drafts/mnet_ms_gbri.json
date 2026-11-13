@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_3ba075c9af",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እምነት ምስ ግብሪ"
+  "id": 481,
+  "title": "እምነት ምስ ግብሪ",
+  "ti": {
+    "chorus": [
+      "እምነት ምስ ግብሪ ጽድቂ ነጣምር ብውህደት",
+      "ንቃለስ ሓቦ ንበል ንጉየ ብሓድነት",
+      "ቦታ ዘይውስኖ’ዩ ጉዕዞ ክርስትና",
+      "ምስጢሩ ንፍለጦ መሰል ውሉድነትና",
+      "ኣዳም ምስ ተፈጥረ ብኽብሪ ኣብ ገነት",
+      "ምስ ሕያው ኣምላኹ ክነብር ብሕይወት",
+      "ዘልዓለም ክነቅሕ ክውድስ ንኽብሩ",
+      "ኣእጋር ተዓደሎ ዘወትር ዝቖመሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕጉ ተኸቲሉ ሕይወቱ ክኣሊ",
+          "ከይርስዕ ከይዝንግዕ ህላወ ፈጣሪ",
+          "ቃሉ ተመጊቡ ህይወቱ ክዕንግል",
+          "ኣእዛን ተዋህቦ ጽምኡ ንኸጥልል",
+          "ኣብ ማእከል ቅዱሳን ብሕብረት ክዝምር",
+          "ከመስግን ኣምላኹ ብሓጎስ ክዕልል",
+          "ሰማያዊ ዜማ ክኸውን ዕላሉ",
+          "ቃላት ክሰርዓሉ ልሳን ፈጠረሉ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣሕዋት ንቑም ንጽናዕ ኣብ ቅዱስ ዕላማ",
+          "ቃሉ ንስመዓዮ ነሐድስ መንፈስና",
+          "ብምስጋና ሕይወት ንቑም ዘንትእለት"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እምነት ምስ ግብሪ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣዳም ምስ ተፈጥረ ብኽብሪ ኣብ ገነት\nምስ ሕያው ኣምላኹ ክነብር ብሕይወት\nዘልዓለም ክነቅሕ ክውድስ ንኽብሩ\nኣእጋር ተዓደሎ ዘወትር ዝቖመሉ\n[[/chorus]]\n\nእምነት ምስ ግብሪ ጽድቂ ነጣምር ብውህደት\nንቃለስ ሓቦ ንበል ንጉየ ብሓድነት\nቦታ ዘይውስኖ’ዩ ጉዕዞ ክርስትና\nምስጢሩ ንፍለጦ መሰል ውሉድነትና\n\nሕጉ ተኸቲሉ ሕይወቱ ክኣሊ\nከይርስዕ ከይዝንግዕ ህላወ ፈጣሪ\nቃሉ ተመጊቡ ህይወቱ ክዕንግል\nኣእዛን ተዋህቦ ጽምኡ ንኸጥልል\n\nኣሕዋት ንቑም ንጽናዕ ኣብ ቅዱስ ዕላማ\nቃሉ ንስመዓዮ ነሐድስ መንፈስና\nብምስጋና ሕይወት ንቑም ዘንትእለት\nእሙን ባርያ ኣምላኽ ጳውሎስ ንመልከት"
-    },
-    "ti_ro": {
-      "title": "'Mnet ms gbri",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Mnet ms gbri tsdqi netamr bwhdet\nNqales habo nbel nguye bhadnet\nBota zeywsno’yu guzo krstna\nMstiru nfleto mesel wludnetna\nAdam ms tefetre bkhbri ab genet\nMs hyaw amlakhu knebr bhywet\nZelalem kneqh kwds nkhbru\nAgar teadelo zewetr zqomelu\nHgu tekhetilu hywetu kali\nKeyrs keyzng hlawe fetari\nQalu temegibu hywetu kngl\nAzan tewahbo tsmu nkhetll\nAb makel qdusan bhbret kzmr\nKemesgn amlakhu bhagos kll\nSemayawi zema kkhewn lalu\nQalat kseralu lsan feterelu\nAhwat nqum ntsna ab qdus lama\nQalu nsmeayo nehads menfesna\nBmsgana hywet nqum zentlet\nMun barya amlakh pawlos nmelket"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mnet ms gbri ts'dqi net'amr bwhdet",
+      "Nqales habo nbel nguye bhadnet",
+      "Bota zeywsno’yu gu'zo krstna",
+      "Mst'iru nflet'o mesel wludnetna",
+      "Adam ms tefet're bkhbri ab genet",
+      "Ms hyaw amlakhu knebr bhywet",
+      "Zel'alem kneqh kwds nkhbru",
+      "Agar te'adelo zewetr zqomelu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hgu tekhetilu hywetu kali",
+          "Keyrs' keyzng' hlawe fet'ari",
+          "Qalu temegibu hywetu k'ngl",
+          "Azan tewahbo ts'mu nkhet'll",
+          "Ab makel qdusan bhbret kzmr",
+          "Kemesgn amlakhu bhagos k'll",
+          "Semayawi zema kkhewn 'lalu",
+          "Qalat kser'alu lsan fet'erelu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ahwat nqum nts'na' ab qdus 'lama",
+          "Qalu nsme'ayo neheds menfesna",
+          "Bmsgana hywet nqum zentlet"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

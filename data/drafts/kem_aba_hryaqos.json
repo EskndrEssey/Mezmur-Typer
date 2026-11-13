@@ -1,41 +1,68 @@
 {
-  "id": "h_efr_e0a73859c0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ኣባ ሕርያቆስ"
+  "id": 253,
+  "title": "ከም ኣባ ሕርያቆስ",
+  "ti": {
+    "chorus": [
+      "ከም ኣባ ሕርያቆስ ልሳን ዓድልኒ",
+      "ስምኪ ንኽውድስ ጸጋኺ ሃብኒ",
+      "ጎስዐ ልብየ ኢለ ክጅምር ምስጋና",
+      "ንውዳሴኺ ክቓኒ በገና",
+      "ንውዳሴኺ ድንግል ክቓኒ በገና",
+      "ስምኪ ምስ ጸዋዕኩ ኣብ ጊዜ ጸበባይ",
+      "ተኻፋሊት ምስጢር ናተይ ናይ ብሕተይ",
+      "ንዅሉ ፈጸምኪ ተስፋ ናይ ሕይወተይ",
+      "ቃላት ይሓጽረኒ ክገልጾ ብኣፈይ",
+      "ኣብ ማእሰርቲ ኃጢኣት ኣብ ዝረኣኽኒ",
+      "ንዓይ ንውሉድኪ ኃጢኣት ዝበዝሓኒ",
+      "ሓይሊ ናይ ስምኦን’ውን ምስ ኣናወጾም",
+      "ከም ዳታን ኣቤሮን መሬት ወሓጠቶም",
+      "ብምንታይ ክገልጾ ነቲ ርህራሄኺ",
+      "ኣባይ ዝተፈጸመ ‘ቲ ሓያል ፍቕርኺ",
+      "ከም ዘይተሕፍርዮም ነቶም ወገናትኪ",
+      "ብዓይነይ ርእየዮ ‘ቲ ፍሉይ ፍቕርኺ",
+      "ከመይ ‘ሉ ኮነለይ እዚ ክቡር ዕጫ",
+      "ብኣኺ ኣደ ጐይታ ነፍሰይ ተመሪጻ",
+      "እንታይ ኣሎ እዩ’ሞ ካብዚ ዝበለጸ",
+      "ኣብ ሕቑፎኺ ይነብር ብኣኺ ዝተመርጸ",
+      "ንዅሉ ውዕለትኪ ብኣፈይ ክነግር",
+      "ከምቶም ኣቦታተይ ብትብዓት ክምስክር",
+      "ኣማናዊት ጽዮን ድንግል ማርያም",
+      "ልሳን ዓድልኒ ክነግራ ንዓለም"
+    ],
+    "verses": []
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ኣባ ሕርያቆስ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nስምኪ ምስ ጸዋዕኩ ኣብ ጊዜ ጸበባይ\nተኻፋሊት ምስጢር ናተይ ናይ ብሕተይ\nንዅሉ ፈጸምኪ ተስፋ ናይ ሕይወተይ\nቃላት ይሓጽረኒ ክገልጾ ብኣፈይ\nኣብ ማእሰርቲ ኃጢኣት ኣብ ዝረኣኽኒ\nንዓይ ንውሉድኪ ኃጢኣት ዝበዝሓኒ\nካብ ሰማይ መጺእኪ ከም ቅጽበት ናይ ዓይኒ\nካብ ኣፍ ጸላኢየይ መንዚዕኪ ኣውጻኽኒ\n[[/chorus]]\n\nከም ኣባ ሕርያቆስ ልሳን ዓድልኒ\nስምኪ ንኽውድስ ጸጋኺ ሃብኒ\nጎስዐ ልብየ ኢለ ክጅምር ምስጋና\nንውዳሴኺ ክቓኒ በገና\nንውዳሴኺ ድንግል ክቓኒ በገና\n\nእቲ ጸላእየይ ብዙሕ ዝፈከረ\nሰንሰለት ሓጢኣተይ ምስተሰባበረ\nሓይሊ ናይ ስምኦን’ውን ምስ ኣናወጾም\nከም ዳታን ኣቤሮን መሬት ወሓጠቶም\nብምንታይ ክገልጾ ነቲ ርህራሄኺ\nኣባይ ዝተፈጸመ ‘ቲ ሓያል ፍቕርኺ\nከም ዘይተሕፍርዮም ነቶም ወገናትኪ\nብዓይነይ ርእየዮ ‘ቲ ፍሉይ ፍቕርኺ"
-    },
-    "ti_ro": {
-      "title": "Kem aba hryaqos",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Kem aba hryaqos lsan adlni\nSmki nkhwds tsegakhi habni\nGosa lbye ile kjmr msgana\nNwdasekhi kqani begena\nNwdasekhi dngl kqani begena\nSmki ms tsewaku ab gize tsebebay\nTekhafalit mstir natey nay bhtey\nNkwilu fetsemki tesfa nay hywetey\nQalat yhatsreni kgeltso bafey\nAb maserti hatiat ab zreakhni\nNay nwludki hatiat zbezhani\nKab semay metsiki kem qtsbet nay ayni\nKab af tselaiyey menziki awtsakhni\nTi tselayey bzuh zfekere\nSenselet hatiatey mstesebabere\nHayli nay smon’wn ms anawetsom\nKem datan aberon meret wehatetom\nBmntay kgeltso neti rhrahekhi\nAbay ztefetseme ‘ti hayal fqrkhi\nKem zeytehfryom netom wegenatki\nBayney ryeyo ‘ti fluy fqrkhi\nKemey ‘lu koneley zi kbur cha\nBakhi ade goyta nefsey temeritsa\nNtay alo yu’mo kabzi zbeletse\nAb hqufokhi ynebr bakhi ztemertse\nNkwilu wletki bafey knegr\nKemtom abotatey btbat kmskr\nAmanawit tsyon dngl maryam\nLsan adlni knegra nalem"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kem aba hryaqos lsan 'adlni",
+      "Smki nkhwds ts'egakhi habni",
+      "Gos'e lbye ile kjmr msgana",
+      "Nwdasekhi kqani begena",
+      "Nwdasekhi dngl kqani begena",
+      "Smki ms ts'ewa'ku ab gize ts'ebebay",
+      "Tekhafalit mst'ir natey nay bhtey",
+      "Nkhwlu fets'emki tesfa nay hywetey",
+      "Qalat yhats'reni kgelts'o bafey",
+      "Ab maserti hat'iat ab zreakhni",
+      "N'ay nwludki hat'iat zbezhani",
+      "Hayli nay smon’wn ms anawets'om",
+      "Kem datan aberon meret wehat'etom",
+      "Bmntay kgelts'o neti rhrahekhi",
+      "Abay ztefets'eme ‘ti hayal fqrkhi",
+      "Kem zeytehfryom netom wegenatki",
+      "B'ayney ryeyo ‘ti fluy fqrkhi",
+      "Kemey ‘lu koneley zi kbur 'ch'a",
+      "Bakhi ade gwayta nefsey temerits'a",
+      "Ntay alo yu’mo kabzi zbelets'e",
+      "Ab hqufokhi ynebr bakhi ztemerts'e",
+      "Nkhwlu w'letki bafey knegr",
+      "Kemtom abotatey btb'at kmskr",
+      "Amanawit ts'yon dngl maryam",
+      "Lsan 'adlni knegra n'alem"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

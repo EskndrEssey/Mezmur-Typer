@@ -1,0 +1,53 @@
+{
+  "id": 857,
+  "title": "ጸጋኻ ሃበኒ",
+  "ti": {
+    "chorus": [
+      "ጸጋኻ ሃበኒ ሕደጎ በደለይ",
+      "ከም ብዝሒ ምሕረትካ",
+      "ቀድሳ ንነፍሰይ",
+      "ክርስቶስ ኣምላኸይ ናይ ሕይወተይ ቤዛ",
+      "ክርዳእ ፍቕርኻ ናይ ስቕለትካ ቃንዛ",
+      "ኣብ ጽላት ናይ ልበይ ፍቕርኻ ክሕተም",
+      "ዳህስሳ ንልበይ ብመንፈስ ክልብም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካባኻ ርሒቐ ኮብሊለ ብበደል",
+          "ፍጹም ኣይፈተኻን ኣብ ሰልሚ ክትከል",
+          "ክብሪ ምስ ውዳሴ ከምኡ’ውን ምስጋና",
+          "ተቐበል ንስምካ ሰማያዊ ዳኛ /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ts'egakha habeni hdego bedeley",
+      "Kem bzhi mhretka",
+      "Qedsa nnefsey",
+      "Krstos amlakhey nay hywetey beza",
+      "Krda fqrkha nay sqletka qanza",
+      "Ab ts'lat nay lbey fqrkha khtem",
+      "Dahssa nlbey bmenfes klbm /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kabakha rhiqe koblile bbedel",
+          "Fts'um ayfetekhan ab selmi ktkel",
+          "Kbri ms wdase kemu’wn msgana",
+          "Teqebel nsmka semayawi danya /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

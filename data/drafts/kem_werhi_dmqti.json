@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_348e298a80",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ወርሒ ድምቕቲ"
+  "id": 385,
+  "title": "ከም ወርሒ ድምቕቲ",
+  "ti": {
+    "chorus": [
+      "ከም ወርሒ ድምቕቲ ከም ጸሓይ ብርህቲ",
+      "እነግረኪ ናይ ልበይ ድንግለይ ርህርህቲ",
+      "ካብ ቴክታን በጥሪቃን ሻውዓይ ወለዶ",
+      "ካብ ብሩኻት ዘርኢ ድንግል መጺእኪ'ዶ",
+      "ደጊም ሰላም'ዩ እንሕጐሰሉ",
+      "ዘመኑ ምሕረት'ዩ ዕልል ዕልል በሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ቃና ገሊላ ቅዱስ ልማኖኺ",
+          "ቅልጡፍ መልሲ ሒዙ መጺኡ ካብ ወድኺ",
+          "ዝሰኣነ የለን ለሚኑ ንዓኺ",
+          "ኣብ የማንኪ ይነብር ዝተማሕጸነኪ",
+          "ኩርዓት ሓበን ኢኺ ንክርስቲያን ወገን",
+          "እምባ ጽዮን ኢኺ ንዓና ንኣምን",
+          "ብተስፋ ንነብር ዘሎና ኣብ ጽላልኪ",
+          "ዘይበርስ ኪዳን'ዩ ኣምላኽ ዓዲሉኪ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተኽሊ ናይ ሊባኖስ ጥዑም ሽታ ናርዶስ",
+          "ጸጋኺ ብዚኁ ንዓና ክቕድስ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ወርሒ ድምቕቲ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nካብ ቴክታን በጥሪቃን ሻውዓይ ወለዶ\nካብ ብሩኻት ዘርኢ ድንግል መጺእኪ'ዶ\nደጊም ሰላም'ዩ እንሕጐሰሉ\nዘመኑ ምሕረት'ዩ ዕልል ዕልል በሉ\n[[/chorus]]\n\nከም ወርሒ ድምቕቲ ከም ጸሓይ ብርህቲ\nእነግረኪ ናይ ልበይ ድንግለይ ርህርህቲ\n\nናይ ቃና ገሊላ ቅዱስ ልማኖኺ\nቅልጡፍ መልሲ ሒዙ መጺኡ ካብ ወድኺ\nዝሰኣነ የለን ለሚኑ ንዓኺ\nኣብ የማንኪ ይነብር ዝተማሕጸነኪ\n\nተኽሊ ናይ ሊባኖስ ጥዑም ሽታ ናርዶስ\nጸጋኺ ብዚኁ ንዓና ክቕድስ\nባርኺ ደቅኺ ድንግል ሓደራኺ\nብዝማሬን ዕልልታን ንጽዉዕ ንስምኪ"
-    },
-    "ti_ro": {
-      "title": "Kem werhi dmqti",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Kem werhi dmqti kem tsehay brhti\nNegreki nay lbey dngley rhrhti\nKab tektan betriqan shaway weledo\nKab brukhat zeri dngl metsiki'do\nDegim selam'yu nhgoselu\nZemenu mhret'yu ll ll belu\nNay qana gelila qdus lmanokhi\nQltuf melsi hizu metsiu kab wedkhi\nZseane yelen leminu nakhi\nAb yemanki ynebr ztemahtseneki\nKurat haben ikhi nkrstiyan wegen\nMba tsyon ikhi nana namn\nBtesfa nnebr zelona ab tslalki\nZeybers kidan'yu amlakh adiluki\nTekhli nay libanos tum shta nardos\nTsegakhi bzihu nana kqds\nBarkhi deqkhi dngl haderakhi\nBzmaren lltan ntswu nsmki"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kem werhi dmqti kem ts'ehay brhti",
+      "Negreki nay lbey dngley rhrhti",
+      "Kab tektan bet'riqan shaw'ay weledo",
+      "Kab brukhat zeri dngl mets'iki'do",
+      "Degim selam'yu nhgwaselu",
+      "Zemenu mhret'yu 'll 'll belu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay qana gelila qdus lmanokhi",
+          "Qlt'uf melsi hizu mets'iu kab wedkhi",
+          "Zseane yelen leminu n'akhi",
+          "Ab yemanki ynebr ztemahts'eneki",
+          "Kur'at haben ikhi nkrstiyan wegen",
+          "Mba ts'yon ikhi n'ana namn",
+          "Btesfa nnebr zelona ab ts'lalki",
+          "Zeybers kidan'yu amlakh 'adiluki"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tekhli nay libanos t''um shta nardos",
+          "Ts'egakhi bzihu n'ana kqds"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

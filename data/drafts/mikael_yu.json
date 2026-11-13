@@ -1,41 +1,53 @@
 {
-  "id": "h_efr_7143301065",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሚካኤል’ዩ"
+  "id": 522,
+  "title": "ሚካኤል’ዩ",
+  "ti": {
+    "chorus": [
+      "ሚካኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፍየይ",
+      "ካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ",
+      "ቅድስቲ ኣፎምያ ስምካ ዝጸውዐት",
+      "ተገለጽካላ ምሕረት ረኸበት",
+      "ንዓይ ክትረድእ ዝተሸየምካ",
+      "ናይ ምሕረት መልኣኽ ሚካኤል ኢኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ መከራ ውሕጅ ንኸድኅነኒ",
+          "ሚካኤል መጺኡ ክንፉ ኣርኣየኒ",
+          "ዝምክሓሉ ዝኣምኖ ኣነ",
+          "ሚካኤል’ዩ ምሳይ ዝቖመ",
+          "ብሕማም ደዌ ዝተጨነቕኩ",
+          "ሰላም ዘይብለይ ከርተት ዝበልኩ",
+          "ብሚካኤል’የ ዝተፈወስኩ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሚካኤል’ዩ",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nቅድስቲ ኣፎምያ ስምካ ዝጸውዐት\nተገለጽካላ ምሕረት ረኸበት\nንዓይ ክትረድእ ዝተሸየምካ\nናይ ምሕረት መልኣኽ ሚካኤል ኢኻ\n[[/chorus]]\n\nሚካኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፍየይ\nካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ\n\nካብ መከራ ውሕጅ ንኸድኅነኒ\nሚካኤል መጺኡ ክንፉ ኣርኣየኒ\nዝምክሓሉ ዝኣምኖ ኣነ\nሚካኤል’ዩ ምሳይ ዝቖመ"
-    },
-    "ti_ro": {
-      "title": "Mikael’yu",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "Mikael’yu walta nay hywetey degafyey\nKab mekera qeltifu zewtsa nhywetey\nQdsti afomya smka ztsewat\nTegeletskala mhret rekhebet\nNay ktred ztesheyemka\nNay mhret melakh mikael ikha\nKab mekera whj nkhedhneni\nMikael metsiu knfu arayeni\nZmkhalu zamno ane\nMikael’yu msay zqome\nBhmam dewe ztecheneqku\nSelam zeybley kertet zbelku\nBmikael’ye ztefewesku\nAmesgnuley ll nabelkum"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mikael’yu walta nay hywetey degafyey",
+      "Kab mekera qelt'ifu zewts'a nhywetey",
+      "Qdsti afomya smka zts'ew'et",
+      "Tegelets'kala mhret rekhebet",
+      "N'ay ktred ztesheyemka",
+      "Nay mhret melakh mikael ikha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab mekera whj nkhedhneni",
+          "Mikael mets'iu knfu arayeni",
+          "Zmkhalu zamno ane",
+          "Mikael’yu msay zqome",
+          "Bhmam dewe ztech'eneqku",
+          "Selam zeybley kertet zbelku",
+          "Bmikael’ye ztefewesku"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

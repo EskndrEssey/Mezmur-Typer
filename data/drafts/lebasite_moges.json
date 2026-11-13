@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_9a5eadfb31",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ለባሲተ ሞገስ"
+  "id": 47,
+  "title": "ለባሲተ ሞገስ",
+  "ti": {
+    "chorus": [
+      "ወግርማ ለባሲተ ሞገስ /2/",
+      "ወግርማ ለባሲተ ሞገስ ወግርማ /2/",
+      "ኢየሩሳሌም /2/ ሃገረ ሰላም",
+      "ጸጋ ሞገስ ግርማ እተልብስና'ኺ",
+      "ኣደ ኣዶናይ ካባና ኣይትርሓቒ",
+      "ፍቕርን ትሕትናን ቀሲምና ካባኺ",
+      "ናይ ጸጋ ግምጃ ቤት ማሕደሩ ኢኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልብና እንክውጋእ ብናይ ሓዘን ኵናት",
+          "ናባኺንጽጋዕ እናፍሰስና ንብዓት",
+          "ብድምጽኺ ምኡዝ እንክትድብስና",
+          "ሽዑ ኢና ንናገፍ ካብ መሪር ሓዘና",
+          "ናይ ጽድቂ ጸሓይ ብርሃን በሪቑልና",
+          "ካብ ዘፍርሕ ጸልማት ካብ ማዕሙቕ ወጻእና",
+          "ኣይንዓርቅን ዳግማይ እንደገና",
+          "ወድኺ ክርስቶስ ለቢስናዮ ኢና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲ/ን ታዴዎስ ግርማ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ልዑልሰገድ ጌታቸው",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ለባሲተ ሞገስ",
-      "zemari": "ዲ/ን ልዑልሰገድ ጌታቸው",
-      "lyrics": "[[chorus]]\nጸጋ ሞገስ ግርማ እተልብስና'ኺ\nኣደ ኣዶናይ ካባና ኣይትርሓቒ\nፍቕርን ትሕትናን ቀሲምና ካባኺ\nናይ ጸጋ ግምጃ ቤት ማሕደሩ ኢኺ\n[[/chorus]]\n\nማርያም ድንግል ለባሲተ ሞገስ ወግርማ (2)\nወግርማ ለባሲተ ሞገስ (2)\nወግርማ ለባሲተ ሞገስ ወግርማ (2)\nኢየሩሳሌም (2) ሃገረ ሰላም\n\nልብና እንክውጋእ ብናይ ሓዘን ኵናት\nናባኺንጽጋዕ እናፍሰስና ንብዓት\nብድምጽኺ ምኡዝ እንክትድብስና\nሽዑ ኢና ንናገፍ ካብ መሪር ሓዘና\n\nዲ/ን ታዴዎስ ግርማ"
-    },
-    "ti_ro": {
-      "title": "Lebasite moges",
-      "zemari": "di/n l'ulseged getachew",
-      "lyrics": "[[chorus]]\nMaryam dngl lebasite moges wegrma (2)\n[[/chorus]]\n\nWegrma lebasite moges (2)\nWegrma lebasite moges wegrma (2)\nIyerusalem (2) hagere selam\nTsega moges grma telbsna'khi\nAde adonay kabana aytrhaqi\nFqrn thtnan qesimna kabakhi\nNay tsega gmja bet mahderu ikhi\nLbna nkwga bnay hazen kwinat\nNabakhintsga nafsesna nbat\nBdmtskhi muz nktdbsna\nShu ina nnagef kab merir hazena\nNay tsdqi tsehay brhan beriqulna\nKab zefrh tselmat kab mamuq wetsana\nAynarqn dagmay ndegena\nWedkhi krstos lebisnayo ina"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Wegrma lebasite moges /2/",
+      "Wegrma lebasite moges wegrma /2/",
+      "Iyerusalem /2/ hagere selam",
+      "Ts'ega moges grma telbsna'khi",
+      "Ade adonay kabana aytrhaqi",
+      "Fqrn thtnan qesimna kabakhi",
+      "Nay ts'ega gmja bet mahderu ikhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Lbna nkwga bnay hazen kwnat",
+          "Nabakhints'ga' nafsesna nb'at",
+          "Bdmts'khi muz nktdbsna",
+          "Sh'u ina nnagef kab merir hazena",
+          "Nay ts'dqi ts'ehay brhan beriqulna",
+          "Kab zefrh ts'elmat kab ma'muq wets'ana",
+          "Ayn'arqn dagmay ndegena",
+          "Wedkhi krstos lebisnayo ina"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Di/n tadewos grma"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

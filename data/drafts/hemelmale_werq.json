@@ -1,0 +1,57 @@
+{
+  "id": 443,
+  "title": "ሐመልማለ ወርቅ",
+  "ti": {
+    "chorus": [
+      "ሐመልማል /፪/ ሐመልማለ ወርቅ",
+      "እዞም ናትና መርዓውቲ ሐመልማለ ወርቅ /፪/",
+      "ብኽብሪ ማዕሪጎም በቲ ቅዱስ ጐይታ",
+      "ኣብ ቤተ መቅደሱ ክለብሱ ርኢና",
+      "ንካባ ናይ ክብሮም ጸጋ ተወሰኾም",
+      "መሊኡ ፈሲሱ በዚሑ ሓጎሶም",
+      "መርዓውን መርዓትን ብርሃን ኮይኑ ገጾም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ መርዓውቲ ጨና ከም ስሂን ምዒዙ",
+          "ብቅብኣ ሜሮን ገጾም ተኾሊዑ",
+          "የንጸባርቕ ኣሎ ከም ኣልማዝ ደሚቑ",
+          "መርዓውን መርዓትን እንቋዕ ደስ በለኩም",
+          "ብናይ ዓለም ጓይላ ኣይመረጹን ደስታ",
+          "ብጾም ብጸሎት ከገልግሉ ንጐይታ",
+          "ቤቶም ብበረኸት ክኽዕብት ብጸጋ",
+          "ካብ ኣቦ ሰማያት ክረኽቡሉ ዋጋ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hemelmal /2/ hemelmale werq",
+      "Zom natna mer'awti hemelmale werq /2/",
+      "Bkhbri ma'rigom beti qdus gwayta",
+      "Ab bete meqdesu klebsu rina",
+      "Nkaba nay kbrom ts'ega tewesekhom",
+      "Meliu fesisu bezihu hagosom",
+      "Mer'awn mer'atn brhan koynu gets'om"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay mer'awti ch'ena kem shin m'izu",
+          "Bqba meron gets'om tekholi'u",
+          "Yents'ebarq alo kem almaz demiqu",
+          "Mer'awn mer'atn nqwa' des belekum",
+          "Bnay 'alem gwayla aymerets'un desta",
+          "Bts'om bts'elot kegelglu ngwayta",
+          "Betom bberekhet kkh'bt bts'ega",
+          "Kab abo semayat krekhbulu waga"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,41 +1,63 @@
 {
-  "id": "h_efr_be7e959989",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣይረሳዕካንን"
+  "id": 283,
+  "title": "ኣይረሳዕካንን",
+  "ti": {
+    "chorus": [
+      "ገዲፈካ ኣይገደፍካንን",
+      "ረሲዐካስ ኣይረሳዕካንን",
+      "ምሳይ ኔርካ ሕያው ኣምላኸይ",
+      "ሎሚ ረኺበካ ኣፍሲሰ ንብዓተይ",
+      "ምልኣት መሲሉኒ እቲ ባዶነተይ",
+      "ኣብ ሓይለይ ጌረዮ ንዅሉ ትውክልተይ",
+      "ዘይምንባር ምሳኻ ሓጢኣት በዚሑኒ",
+      "ንኸንቱ’የ ጎየ ገለ ዘይጠቕመኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰላመይ ጠፊኡ ጭንቀተይ ዓዚዙ",
+          "ናብራ መሪሩኒ ብርሃነይ ደብዚዙ",
+          "ኣብ ዘይፈለጥኩኻ ምሕረትካ ውሒዙ",
+          "መሪሑኒ ቤትካ በኣእዳወይ ሒዙ",
+          "ምስጢርካ ክፈልጥ ነቲ ዘይብጻሕ",
+          "ተመራሚረ’የ ገናጺለ ብዙሕ",
+          "ንበይነይ ዛዊነ ንስኻ ዘይብሉ",
+          "ሕይወተይ ምዃንካ መዓስ ኣቕሊበሉ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣይረሳዕካንን",
-      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-      "lyrics": "[[chorus]]\nምልኣት መሲሉኒ እቲ ባዶነተይ\nኣብ ሓይለይ ጌረዮ ንዅሉ ትውክልተይ\nዘይምንባር ምሳኻ ሓጢኣት በዚሑኒ\nንኸንቱ’የ ጎየ ገለ ዘይጠቕመኒ\n[[/chorus]]\n\nገዲፈካ ኣይገደፍካንን\nረሲዐካስ ኣይረሳዕካንን\nምሳይ ኔርካ ሕያው ኣምላኸይ\nሎሚ ረኺበካ ኣፍሲሰ ንብዓተይ\n\nሰላመይ ጠፊኡ ጭንቀተይ ዓዚዙ\nናብራ መሪሩኒ ብርሃነይ ደብዚዙ\nኣብ ዘይፈለጥኩኻ ምሕረትካ ውሒዙ\nመሪሑኒ ቤትካ በኣእዳወይ ሒዙ\n\nብዘይ ብኣኻ ኣነ ጨንፈር ብዘይ ጉንዲ\nማእገር መቖምየይ ንጸላእተይ ዕርዲ\nንበይነይ ዛዊነ ንስኻ ዘይብሉ\nሕይወተይ ምዃንካ መዓስ ኣቕሊበሉ"
-    },
-    "ti_ro": {
-      "title": "Ayresa'kann",
-      "zemari": "liqe mela'kt ab qdmit menberka",
-      "lyrics": "Gedifeka aygedefkann\nResiakas ayresakann\nMsay nerka hyaw amlakhey\nLomi rekhibeka afsise nbatey\nMlat mesiluni ti badonetey\nAb hayley gereyo nkwilu twkltey\nZeymnbar msakha hatiat bezihuni\nNkhentu’ye goye gele zeyteqmeni\nSelamey tefiu chnqetey azizu\nNabra meriruni brhaney debzizu\nAb zeyfeletkukha mhretka whizu\nMerihuni betka beadawey hizu\nMstirka kfelt neti zeybtsah\nTemeramire’ye genatsile bzuh\nFeliteyo lomi mnet kemzserh\nKinyo kwilu fltet nab hywet zmerh\nBzey bakha ane chenfer bzey gundi\nMager meqomyey ntselatey rdi\nNbeyney zawine nskha zeyblu\nHywetey mkwanka meas aqlibelu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gedifeka aygedefkann",
+      "Resi'ekas ayresa'kann",
+      "Msay nerka hyaw amlakhey",
+      "Lomi rekhibeka afsise nb'atey",
+      "Mlat mesiluni ti badonetey",
+      "Ab hayley gereyo nkhwlu twkltey",
+      "Zeymnbar msakha hat'iat bezihuni",
+      "Nkhentu’ye goye gele zeyt'eqmeni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selamey t'efiu ch'nqetey 'azizu",
+          "Nabra meriruni brhaney debzizu",
+          "Ab zeyfelet'kukha mhretka whizu",
+          "Merihuni betka beadawey hizu",
+          "Mst'irka kfelt' neti zeybts'ah",
+          "Temeramire’ye genats'ile bzuh",
+          "Nbeyney zawine nskha zeyblu",
+          "Hywetey mkhwanka me'as aqlibelu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

@@ -1,41 +1,95 @@
 {
-  "id": "h_efr_d9f135811a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ድምር ክልተ ኣካል"
+  "id": 183,
+  "title": "ድምር ክልተ ኣካል",
+  "ti": {
+    "chorus": [
+      "ነቲ እግዚአብሔር ሓደ ዚገበሮ ሰብ ኣይፍለዮ።” (ማቴ.19፡6)",
+      "ንዑ ረኣዩ ተኣምሩ ንዑ መስክሩ",
+      "ድምር 2ተ ኣካል ሓደ ቍጽሩ ሓደ ምስጢሩ",
+      "ካበይ ኮን ኮነሎም ብመንፈሱ በዚ ኺጣመሩ",
+      "ልግሲ እግዚኣቢሔር’ዩ’ሞ ኣመስግኑ ንዑ ዘምሩ፡",
+      "ንዑ ዘምሩ  ከም ቤት ዶኪማስ ሽሻይኩም ክዛሪ",
+      ">>  >>     ወይኒ ሕይወትኩም ዓምቢባ ክትፈሪ",
+      ">>  >>     ጐይታን ድንግልን ዓዲምኩም ብኽብሪ",
+      ">>  >>     ቅናት ኪዳንኩም ዘለዓለም ነባሪ",
+      "‘ዚ ጸሎት ቅዱስ ተክሊል ሰማይኩም መሳገሪ",
+      "ብንጹሕ ክቡር ኣኽሊል ገሊጽኩሞ ክብሪ።"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑ ዘምሩ  ብርሃን ፀዳሉ ጸላምኩም ኬሰስል",
+          ">>  >>     ሻቡ’ዛ ሕይወት በሪሁላ ቐንዴል",
+          ">>  >>     ስለዛ ጐጆ ምስ ተኸፍለ ገንሸል",
+          ">>  >>     ክርስቶስን ቤቱን ኮይኖም ሓደ ኣካል፡",
+          "‘ዚ ርእሱን ‘ዚኣካሉን መርዓውቲ እንኪምሰል",
+          "ለካ’ዛ ፍቕሪስ’ባ ክንዲ ሞት’ያ ኃያል።",
+          "ንዑ ዘምሩ  ኪንዮ’ዚ ምድሪ ናይ ሰማይ ጠሚትኩም",
+          ">>  >>     ኣብ ማሕላ ኪዳን ንጥምረት ምምሓልኩም",
+          ">>  >>     ኲሎም ቅዱሳን ምስ ኮኑ ዋሕስኩም",
+          ">>  >>     መርዓውቲ ጐይታ እንቋዕ ደስ በለኩም",
+          "ካህናት ብመስቀል ባርኽዎም ወለዲ መርቕዎም",
+          "ከም ኪዳን ኣብርሃምን ሳራን እግዚአብሔር ከጽንዖም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዑ ዘምሩ  ቃለ ወንጌሉ ኣብ ልብኹም ክነብር",
+          ">>  >>     ገና ዓንተቦ ወሲንኩም ንተግባር",
+          ">>  >>     ዓንዲ ኪዳንኩም ናይ ክርስቶስ ማህደር",
+          ">>  >>     ‘ዛ ጽላል ቤትኩም ኮይና ዘይትድፈር",
+          "ንዋዜማ ሓጐስ ሰማዩ ክብሩ ንዘይንገር"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ድምር ክልተ ኣካል",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nንዑ ዘምሩ ከም ቤት ዶኪማስ ሽሻይኩም ክዛሪ\nወይኒ ሕይወትኩም ዓምቢባ ክትፈሪ\nጐይታን ድንግልን ዓዲምኩም ብኽብሪ\nቅናት ኪዳንኩም ዘለዓለም ነባሪ\n‘ዚ ጸሎት ቅዱስ ተክሊል ሰማይኩም መሳገሪ\nብንጹሕ ክቡር ኣኽሊል ገሊጽኩሞ ክብሪ።\n[[/chorus]]\n\n“ደጊም ሓደ ኣካል እምበር ክልተ ኣይኰኑን፡\nነቲ እግዚአብሔር ሓደ ዚገበሮ ሰብ ኣይፍለዮ።” (ማቴ.19፡6)\nንዑ ረኣዩ ተኣምሩ ንዑ መስክሩ\nድምር 2ተ ኣካል ሓደ ቍጽሩ ሓደ ምስጢሩ\nካበይ ኮን ኮነሎም ብመንፈሱ በዚ ኺጣመሩ\nልግሲ እግዚኣቢሔር’ዩ’ሞ ኣመስግኑ ንዑ ዘምሩ፡\n\nንዑ ዘምሩ ብርሃን ፀዳሉ ጸላምኩም ኬሰስል\nሻቡ’ዛ ሕይወት በሪሁላ ቐንዴል\nስለዛ ጐጆ ምስ ተኸፍለ ገንሸል\nክርስቶስን ቤቱን ኮይኖም ሓደ ኣካል፡\n‘ዚ ርእሱን ‘ዚኣካሉን መርዓውቲ እንኪምሰል\nለካ’ዛ ፍቕሪስ’ባ ክንዲ ሞት’ያ ኃያል።\n\nንዑ ዘምሩ ቃለ ወንጌሉ ኣብ ልብኹም ክነብር\nገና ዓንተቦ ወሲንኩም ንተግባር\nዓንዲ ኪዳንኩም ናይ ክርስቶስ ማህደር\n‘ዛ ጽላል ቤትኩም ኮይና ዘይትድፈር\nንዋዜማ ሓጐስ ሰማዩ ክብሩ ንዘይንገር\n‘ታ ኽንደይ ተዓዲልኩም ሓርይኩም እግዚአብሔር\nዓልሉ ነዚ ኽብሪ ልሳንኩም ይዘምር"
-    },
-    "ti_ro": {
-      "title": "Dmr klte akal",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "“Degim hade akal mber klte aykonun\nNeti gziabher hade zigebero seb ayfleyo.” (mate.196)\nNu reayu teamru nu meskru\nDmr 2te akal hade qwitsru hade mstiru\nKabey kon konelom bmenfesu bezi khitameru\nLgsi gziabiher’yu’mo amesgnu nu zemru\nNu zemru kem bet dokimas shshaykum kzari\nWeyni hywetkum ambiba ktferi\nGoytan dngln adimkum bkhbri\nQnat kidankum zelealem nebari\n‘Zi tselot qdus teklil semaykum mesageri\nBntsuh kbur akhlil gelitskumo kbri.\nNu zemru brhan tsedalu tselamkum kesesl\nShabu’za hywet berihula qendel\nSleza gojo ms tekhefle genshel\nKrstosn betun koynom hade akal\n‘Zi rsun ‘ziakalun merawti nkimsel\nLeka’za fqris’ba kndi mot’ya hayal.\nNu zemru kinyo’zi mdri nay semay temitkum\nAb mahla kidan ntmret mmhalkum\nKulom qdusan ms konu wahskum\nMerawti goyta nqwa des belekum\nKahnat bmesqel barkhwom weledi merqwom\nKem kidan abrhamn saran gziabher ketsnom\nNu zemru qale wengelu ab lbkhum knebr\nGena antebo wesinkum ntegbar\nAndi kidankum nay krstos mahder\n‘Za tslal betkum koyna zeytdfer\n‘Ta khndey teadilkum harykum gziabher\nAllu nezi khbri lsankum yzemr"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Neti gziebher hade zigebero seb ayfleyo.” (mate.19፡6)",
+      "N'u reayu teamru n'u meskru",
+      "Dmr 2te akal hade qwts'ru hade mst'iru",
+      "Kabey kon konelom bmenfesu bezi khit'ameru",
+      "Lgsi gziabiher’yu’mo amesgnu n'u zemru፡",
+      "N'u zemru  kem bet dokimas shshaykum kzari",
+      ">>  >>     Weyni hywetkum 'ambiba ktferi",
+      ">>  >>     Gwaytan dngln 'adimkum bkhbri",
+      ">>  >>     Qnat kidankum zele'alem nebari",
+      "‘Zi ts'elot qdus teklil semaykum mesageri",
+      "Bnts'uh kbur akhlil gelits'kumo kbri."
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'u zemru  brhan ts'edalu ts'elamkum kesesl",
+          ">>  >>     Shabu’za hywet berihula qendel",
+          ">>  >>     Sleza gwajo ms tekhefle genshel",
+          ">>  >>     Krstosn betun koynom hade akal፡",
+          "‘Zi rsun ‘ziakalun mer'awti nkimsel",
+          "Leka’za fqris’ba kndi mot’ya hayal.",
+          "N'u zemru  kinyo’zi mdri nay semay t'emitkum",
+          ">>  >>     Ab mahla kidan nt'mret mmhalkum",
+          ">>  >>     Kwilom qdusan ms konu wahskum",
+          ">>  >>     Mer'awti gwayta nqwa' des belekum",
+          "Kahnat bmesqel barkhwom weledi merqwom",
+          "Kem kidan abrhamn saran gziebher kets'n'om"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'u zemru  qale wengelu ab lbkhum knebr",
+          ">>  >>     Gena 'antebo wesinkum ntegbar",
+          ">>  >>     'Andi kidankum nay krstos mahder",
+          ">>  >>     ‘Za ts'lal betkum koyna zeytdfer",
+          "Nwazema hagwas semayu kbru nzeynger"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_dd60d3e62a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እቲ ንምክሖ"
+  "id": 264,
+  "title": "እቲ ንምክሖ",
+  "ti": {
+    "chorus": [
+      "እቲ ንምክሖ ብእግዚአብሔር ይኹን ብኃይሉ ንመካሕ",
+      "ንኽንድሕን’ውን ኣብ ኢየሩሳሌም ኣብ መቕደሱ ንጽናሕ",
+      "ናብ ቤትና ክኣቱ ይዅሕኩሕ እዩ ዘሎ ንሰምዕ እንተለና",
+      "ናይ ልብና ማዕጾ ሕጂ ንኽፈተሉ ክነብር ምሳና",
+      "ፍጻሜ ሓሳብና ምስጢር ናይ ዓወትና",
+      "ስራሕ ኣምላኽና’ዩ ኣይኮነን ካባና",
+      "እፎይታ ክትረክብ ናብኡ ነማዕቁባ",
+      "ሓደ ኢልና ንህነጻ ብቓሉ ንንደቃ /2/",
+      "ልዕሊ’ቲ ንሓስቦ ዘፍቀረና ጐይታ",
+      "ንጾርና ዝጾረ ክሳብ ጎልጎታ",
+      "ሕጂ’ውን እንተኾነ ከራገፍ ሸኸምና",
+      "ድሉው እዩ ዘሎ ክሓድግ ኃጢኣትና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንክርስቶስ ዝገብሮ ምንጪ ናይ ትምክሕቱ",
+          "ብትሕትና ይስዕሮ ንውዲት ጸላእቱ",
+          "ብሰላም ይንደቕ መንፈሱ ይረግእ",
+          "ንጭንቀት’ዛ ዓለም ሓግሒጉ የውጽእ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እቲ ንምክሖ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nፍጻሜ ሓሳብና ምስጢር ናይ ዓወትና\nስራሕ ኣምላኽና’ዩ ኣይኮነን ካባና\nእሞ ኣይንመካሕ ኣብ ሓይልና ኣይንእመን\nስለ ሰናይ ግብሩ ንዑዑ ነመስግን (2)\n[[/chorus]]\n\nእቲ ንምክሖ ብእግዚአብሔር ይኹን ብኃይሉ ንመካሕ\nንኽንድሕን’ውን ኣብ ኢየሩሳሌም ኣብ መቕደሱ ንጽናሕ\nናብ ቤትና ክኣቱ ይዅሕኩሕ እዩ ዘሎ ንሰምዕ እንተለና\nናይ ልብና ማዕጾ ሕጂ ንኽፈተሉ ክነብር ምሳና\n\nሓላፊት ሕይወትና ናትና ትመስለና\nዋናኣ ይደልያ’ሎ ነረክቦ ኢና\nእፎይታ ክትረክብ ናብኡ ነማዕቁባ\nሓደ ኢልና ንህነጻ ብቓሉ ንንደቃ (2)\n\nንክርስቶስ ዝገብሮ ምንጪ ናይ ትምክሕቱ\nብትሕትና ይስዕሮ ንውዲት ጸላእቱ\nብሰላም ይንደቕ መንፈሱ ይረግእ\nንጭንቀት’ዛ ዓለም ሓግሒጉ የውጽእ (2)"
-    },
-    "ti_ro": {
-      "title": "'Ti nmkho",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "[[chorus]]\nSle senay gbru nuu nemesgn (2)\n[[/chorus]]\n\nTi nmkho bgziabher ykhun bhaylu nmekah\nNkhndhn’wn ab iyerusalem ab meqdesu ntsnah\nNab betna katu ykwihkuh yu zelo nsem ntelena\nNay lbna matso hji nkhfetelu knebr msana\nFtsame hasabna mstir nay awetna\nSrah amlakhna’yu aykonen kabana\nMo aynmekah ab haylna aynmen\nHalafit hywetna natna tmeslena\nWanaa ydelya’lo nerekbo ina\nFoyta ktrekb nabu nemaquba\nHade ilna nhnetsa bqalu nndeqa (2)\nLli’ti nhasbo zefqerena goyta\nNtsorna ztsore ksab golgota\nHji’wn ntekhone keragef shekhemna\nDluw yu zelo khadg hatiatna (2)\nNkrstos zgebro mnchi nay tmkhtu\nBthtna ysro nwdit tselatu\nBselam yndeq menfesu yreg\nNchnqet’za alem haghigu yewts (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ti nmkho bgziebher ykhun bhaylu nmekah",
+      "Nkhndhn’wn ab iyerusalem ab meqdesu nts'nah",
+      "Nab betna katu ykhwhkuh yu zelo nsem' ntelena",
+      "Nay lbna ma'ts'o hji nkhfetelu knebr msana",
+      "Fts'ame hasabna mst'ir nay 'awetna",
+      "Srah amlakhna’yu aykonen kabana",
+      "Foyta ktrekb nabu nema'quba",
+      "Hade ilna nhnets'a bqalu nndeqa /2/",
+      "L'li’ti nhasbo zefqerena gwayta",
+      "Nts'orna zts'ore ksab golgota",
+      "Hji’wn ntekhone keragef shekhemna",
+      "Dluw yu zelo khadg hat'iatna /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nkrstos zgebro mnch'i nay tmkhtu",
+          "Bthtna ys'ro nwdit ts'elatu",
+          "Bselam yndeq menfesu yreg",
+          "Nch'nqet’za 'alem haghigu yewts' /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

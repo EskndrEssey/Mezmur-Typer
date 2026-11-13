@@ -1,41 +1,114 @@
 {
-  "id": "h_efr_978fd45aec",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምሉእ ደስታ ጌረ"
+  "id": 78,
+  "title": "ምሉእ ደስታ ጌረ",
+  "ti": {
+    "chorus": [
+      "ሓላፊ መከራይ ክስዕሮ",
+      "ሓይሊ ብዝህበኒ ብጐይታ",
+      "ንልበይ ከበርትዖ ኮታ /2/",
+      "",
+      "ምስ ደርበየኒ ዝፋን ዓለም",
+      "ጐይታ መንኮብካ ንዓይ ይስከም",
+      "ኣየማርርን ብዝኾነ",
+      "ስራሕካ ስለዘይቀነነ",
+      "ናይ ሓዘን ኣይኮነን ንብዓተይ",
+      "በርቲዑኒ እምበር ሓጎሰይ",
+      "ምሳኻ በረኻ ለምለም’ዩ",
+      "ምንባር’ውን ንበይኑ እኹል’ዩ",
+      "ትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ",
+      "ትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብጸባብ ደገ ዝሰጎሙ",
+          "ንጊዚኡ’ኳ ተተጸገሙ",
+          "ፈለማ ተበዝሐ ስቓይ",
+          "ፍጻሜ ሓጎስ’ዩ ኣብ ሰማይ",
+          "ወንጌል ምጽዋዕ’ዩ ምፍላይ",
+          "ካብ ሓሶት ንሓቂ ምሕራይ",
+          "ካብ ቤት ፍርዲ ምውጻእ ብሓጎስ",
+          "እናዕበኻ ንስም ክርስቶስ",
+          "ትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ",
+          "ትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰረገላ እሳት ዝቕመጥ",
+          "ንዓለም ብኢዱ ዝጭብጥ",
+          "ስቓይ ተጸመመ ብፍቕሪ",
+          "ከይበለ ተመንጢለ ክብሪ",
+          "ትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ",
+          "ትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዘማሪ ዳግማዊ ደርቤ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ሃብታሙ ሽብሩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምሉእ ደስታ ጌረ",
-      "zemari": "ዘማሪ ሃብታሙ ሽብሩ",
-      "lyrics": "[[chorus]]\n\n[[/chorus]]\n\nምሉእ ደስታ ጌረ ክቖጽሮ\nሓላፊ መከራይ ክስዕሮ\nሓይሊ ብዝህበኒ ብጐይታ\nንልበይ ከበርትዖ ኮታ (2)\n\nምስ ደርበየኒ ዝፋን ዓለም\nጐይታ መንኮብካ ንዓይ ይስከም\nኣየማርርን ብዝኾነ\nስራሕካ ስለዘይቀነነ\n\nብጸባብ ደገ ዝሰጎሙ\nንጊዚኡ’ኳ ተተጸገሙ\nፈለማ ተበዝሐ ስቓይ\nፍጻሜ ሓጎስ’ዩ ኣብ ሰማይ\n\nሰረገላ እሳት ዝቕመጥ\nንዓለም ብኢዱ ዝጭብጥ\nስቓይ ተጸመመ ብፍቕሪ\nከይበለ ተመንጢለ ክብሪ\n\nዘማሪ ዳግማዊ ደርቤ"
-    },
-    "ti_ro": {
-      "title": "Mlu' desta gere",
-      "zemari": "zemari habtamu shbru",
-      "lyrics": "[[chorus]]\nNlbey keberto kota (2)\n[[/chorus]]\n\nMlu desta gere kqotsro\nHalafi mekeray ksro\nHayli bzhbeni bgoyta\n\nMs derbeyeni zfan alem\nGoyta menkobka nay yskem\nAyemarrn bzkhone\nSrahka slezeyqenene\nNay hazen aykonen nbatey\nBertiuni mber hagosey\nMsakha berekha lemlem’yu\nMnbar’wn nbeynu khul’yu\n\nBtsebab dege zsegomu\nNgiziu’kwa tetetsegemu\nFelema tebezha sqay\nFtsame hagos’yu ab semay\nWengel mtswa’yu mflay\nKab hasot nhaqi mhray\nKab bet frdi mwtsa bhagos\nNabekha nsm krstos\n\nSeregela sat zqmet\nNalem bidu zchbt\nSqay tetsememe bfqri\nKeybele tementile kbri\nBkhemzi motey kab ahlefo\nKemzi koyne ile aygedfo\nAb lli mabel zsma\nFtwey’yu nay ztsawa"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Halafi mekeray ks'ro",
+      "Hayli bzhbeni bgwayta",
+      "Nlbey kebert'o kota /2/",
+      "",
+      "Ms derbeyeni zfan 'alem",
+      "Gwayta menkobka n'ay yskem",
+      "Ayemarrn bzkhone",
+      "Srahka slezeyqenene",
+      "Nay hazen aykonen nb'atey",
+      "Berti'uni mber hagosey",
+      "Msakha berekha lemlem’yu",
+      "Mnbar’wn nbeynu khul’yu",
+      "Tmal halifu’yu lomi’wn khalf’yu",
+      "Tmal halifu’yu gwayta ks'r’yu  /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bts'ebab dege zsegomu",
+          "Ngiziu’kwa tetets'egemu",
+          "Felema tebezhe sqay",
+          "Fts'ame hagos’yu ab semay",
+          "Wengel mts'wa'’yu mflay",
+          "Kab hasot nhaqi mhray",
+          "Kab bet frdi mwts'a bhagos",
+          "Na'bekha nsm krstos",
+          "Tmal halifu’yu lomi’wn khalf’yu",
+          "Tmal halifu’yu gwayta ks'r’yu  /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seregela sat zqmet'",
+          "N'alem bidu zch'bt'",
+          "Sqay tets'ememe bfqri",
+          "Keybele tement'ile kbri",
+          "Tmal halifu’yu lomi’wn khalf’yu",
+          "Tmal halifu’yu gwayta ks'r’yu  /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zemari dagmawi derbe"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_2_possible_page_split"
+  ]
 }

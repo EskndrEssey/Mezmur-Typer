@@ -1,0 +1,69 @@
+{
+  "id": 850,
+  "title": "ንጸሎት ተንሲእና",
+  "ti": {
+    "chorus": [
+      "ንጸሎት ተንሲእና ጐይታ መሓረና",
+      "ሰላም ምስ ኩላትኩም ይኹን በለና /2/",
+      "ቅድሜኻ ወዲቕና ብፍርሓት ሰጊድና",
+      "መታን ክትሰምዖ ጸሎት ምህለላና",
+      "ተስፋና ንስኻ መድኅን ናይ ሕይወትና",
+      "የእዳውካ ዘርጊሕካ ምሕረት ግበረልና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናብ ምብራቕ ጠመትና ብምስትውዓል",
+          "ብቃላት ተሰጥዎ ቅዱስ ክንብል",
+          "ነፍስና ጸሚኣ ንቓልካ ደልያ",
+          "ፈውሲ ኣብ ኢድካ’ዩ ድምጽኻ ኣስምዓያ",
+          "ነቲ ጥዑም ቃልካ የእዛነይ ሰሚዐን",
+          "ነቲ ምድሓንካ’ውን የዒንተይ ርእየን",
+          "ካህናት ስሌና የእዳውኩም ዘርግሑ",
+          "ነጺሕና ክነብር ኣብ ቤተ መቕደሱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብዚ ቤትካ ምንባር ክንደይ ሰናይ ኣለዎ",
+          "ግርማ መለኮትካ ጐይታ ንኽንርእዮ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nts'elot tensina gwayta meharena",
+      "Selam ms kulatkum ykhun belena /2/",
+      "Qdmekha wediqna bfrhat segidna",
+      "Metan ktsem'o ts'elot mhlelana",
+      "Tesfana nskha medhn nay hywetna",
+      "Yedawka zergihka mhret gberelna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nab mbraq t'emetna bmstw'al",
+          "Bqalat teset'wo qdus knbl",
+          "Nefsna ts'emia nqalka delya",
+          "Fewsi ab idka’yu dmts'kha asm'aya",
+          "Neti t''um qalka yezaney semi'en",
+          "Neti mdhanka’wn ye'intey ryen",
+          "Kahnat slena yedawkum zerghu",
+          "Nets'ihna knebr ab bete meqdesu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abzi betka mnbar kndey senay alewo",
+          "Grma melekotka gwayta nkhnryo"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

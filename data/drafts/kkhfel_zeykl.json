@@ -1,0 +1,75 @@
+{
+  "id": 91,
+  "title": "ክኽፈል ዘይክእል",
+  "ti": {
+    "chorus": [
+      "ክኽፈል ዘይክእል ኣሎኒ ውዕለትካ /2/",
+      "ክንገር ዘይክእል ኣሎኒ ውዕለትካ  /2/",
+      "ኣምላኽ ተመስገን ናተይ ጐይታ",
+      "እዚ እዩ ዓቕመይ ንውዕለትካ",
+      "ኣብ ዘመነይ ኵሉ ደጊፍካኒ ብኣእዳውካ",
+      "ዘርዚረ ኣይውደኦን ጐይታ ንውዕለትካ",
+      "ምስኪናይ ባርያኻ የብለይን ዝኸፍለካ",
+      "ዝህቦ የብለይን በቲ ዓቕመይ የመስግን ንዓኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑቕ ዝነበርኩ ኣነ ብሰብ ተፈንፊነ",
+          "ካብ ውድቀተይ ኵሉ ኣልዒልካኒ ኣመስጊነ",
+          "ነፍሰይ ንውዕለትካ ብምስጋና ትኸፍለካ",
+          "ንግሆ ምሸት ስምካ እናልዓለት ተመስግን ንዓኻ",
+          "መሕብኢ ስኢና ነፍሰይ ጐይታ ርኢኻያ",
+          "ኣብቲ ልሙዕ ሸኻ ወሲድካ ኣዕሪፍካያ",
+          "ዝኸበዳ ሸኸም ተሰኪምካ ኣውሪድካላ",
+          "እነሆ ኣብ ቅድሚ ሰብ ንመድኅና ተመስግን ንዓኻ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣይድንጉይን’ዩ ኣምላኽ ንዅሉ ጊዜ ኣለዎ",
+          "ኣብ ጊዜ ሽግርና ንመልኣኹ ይፍንዎ",
+          "ናይ ጽድቂ መገዲ ኣናርኣየ ይመርሓና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kkhfel zeykl aloni w'letka /2/",
+      "Knger zeykl aloni w'letka  /2/",
+      "Amlakh temesgen natey gwayta",
+      "Zi yu 'aqmey nw'letka",
+      "Ab zemeney kwlu degifkani badawka",
+      "Zerzire aywdeon gwayta nw'letka",
+      "Mskinay baryakha yebleyn zkhefleka",
+      "Zhbo yebleyn beti 'aqmey yemesgn n'akha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'uq zneberku ane bseb tefenfine",
+          "Kab wdqetey kwlu al'ilkani amesgine",
+          "Nefsey nw'letka bmsgana tkhefleka",
+          "Ngho mshet smka nal'alet temesgn n'akha",
+          "Mehbi sina nefsey gwayta rikhaya",
+          "Abti lmu' shekha wesidka a'rifkaya",
+          "Zkhebeda shekhem tesekimka awridkala",
+          "Neho ab qdmi seb nmedhna temesgn n'akha"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Aydnguyn’yu amlakh nkhwlu gize alewo",
+          "Ab gize shgrna nmelakhu yfnwo",
+          "Nay ts'dqi megedi anaraye ymerhana"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

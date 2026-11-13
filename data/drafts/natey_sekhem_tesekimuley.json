@@ -1,41 +1,83 @@
 {
-  "id": "h_efr_5419bbed1f",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናተይ ሰኸም ተሰኪሙለይ"
+  "id": 365,
+  "title": "ናተይ ሰኸም ተሰኪሙለይ",
+  "ti": {
+    "chorus": [
+      "ጾረይ ብዅሉ ኣልዒሉለይ",
+      "ከመስግኖ'የ ኣብ ዘመነይ",
+      "ንጐይታ ጎይቶት ንኣምላኸይ",
+      "ኣነ ከምልኾ ጸዊዑኒ",
+      "ብጽኑዕ ፍቕሩ ፈዊሱኒ",
+      "ኣብ ቤተይ ኣትዩ ኣብሪሁለይ",
+      "ኣመቂሩኒ ኣብ ሕይወተይ",
+      "ኣነ ዝህቦ እንታይ ኣሎኒ",
+      "ስለ ‘ቲ ዅሉ ዝገበረለይ",
+      "እሾኽ ኣብ ርእሱ ተሸኪሙ",
+      "መርገም ካብ ነፍሰይ ኣልዒሉለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደሙ ኣፍሲሱ ኣፍቂሩኒ",
+          "መስቀል ሓዚሉ ደኺሙለይ",
+          "ጥፍጣፍ ናይ ሰባት ተቐቢሉ",
+          "ንመግረፍተይ ተገሪፉለይ",
+          "ንዓይ ዝግባእ መከራ ሞት",
+          "ተቐቢሉለይ ጐይታ ጎይቶት",
+          "ከይቀረብክዎ ቀሪቡኒ",
+          "ናብ ብርሃን ሕይወት ስሒቡኒ",
+          "ተታሒዘየ ተኣሲረ",
+          "ብለውሃት ፍቕሩ ተሰቢረ",
+          "ቀይርዎ'ዩ ንታሪኸይ",
+          "ምሉእ ሰብ ገይሩኒ ኣምላኸይ",
+          "ኣፈይ ዝማሬ መሊእዎ",
+          "መንፈሳውነት ኣምሂሩኒ",
+          "ኣቦ ናይ ጥበብ ናይ ትሕትና",
+          "ምስኡ ምንባር ይሕሸኒ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናተይ ሰኸም ተሰኪሙለይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣነ ከምልኾ ጸዊዑኒ\nብጽኑዕ ፍቕሩ ፈዊሱኒ\nኣብ ቤተይ ኣትዩ ኣብሪሁለይ\nኣመቂሩኒ ኣብ ሕይወተይ\nኣነ ዝህቦ እንታይ ኣሎኒ\nስለ ‘ቲ ዅሉ ዝገበረለይ\nእሾኽ ኣብ ርእሱ ተሸኪሙ\nመርገም ካብ ነፍሰይ ኣልዒሉለይ\n[[/chorus]]\n\nናተይ ሰኸም ተሰኪሙለይ\nጾረይ ብዅሉ ኣልዒሉለይ\nከመስግኖ'የ ኣብ ዘመነይ\nንጐይታ ጎይቶት ንኣምላኸይ\n\nደሙ ኣፍሲሱ ኣፍቂሩኒ\nመስቀል ሓዚሉ ደኺሙለይ\nጥፍጣፍ ናይ ሰባት ተቐቢሉ\nንመግረፍተይ ተገሪፉለይ\nንዓይ ዝግባእ መከራ ሞት\nተቐቢሉለይ ጐይታ ጎይቶት\nከይቀረብክዎ ቀሪቡኒ\nናብ ብርሃን ሕይወት ስሒቡኒ"
-    },
-    "ti_ro": {
-      "title": "Natey sekhem tesekimuley",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Natey sekhem tesekimuley\nTsorey bkwilu aliluley\nKemesgno'ye ab zemeney\nNgoyta goytot namlakhey\nAne kemlkho tsewiuni\nBtsnu fqru fewisuni\nAb betey atyu abrihuley\nAmeqiruni ab hywetey\nAne zhbo ntay aloni\nSle ‘ti kwilu zgebereley\nShokh ab rsu teshekimu\nMergem kab nefsey aliluley\nDemu afsisu afqiruni\nMesqel hazilu dekhimuley\nTftaf nay sebat teqebilu\nNmegreftey tegerifuley\nNay zgba mekera mot\nTeqebiluley goyta goytot\nKeyqerebkwo qeribuni\nNab brhan hywet shibuni\nTetahizeye teasire\nBlewhat fqru tesebire\nQeyrwo'yu ntarikhey\nMlu seb geyruni amlakhey\nAfey zmare meliwo\nMenfesawnet amhiruni\nAbo nay tbeb nay thtna\nMsu mnbar yhsheni"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ts'orey bkhwlu al'iluley",
+      "Kemesgno'ye ab zemeney",
+      "Ngwayta goytot namlakhey",
+      "Ane kemlkho ts'ewi'uni",
+      "Bts'nu' fqru fewisuni",
+      "Ab betey atyu abrihuley",
+      "Ameqiruni ab hywetey",
+      "Ane zhbo ntay aloni",
+      "Sle ‘ti khwlu zgebereley",
+      "Shokh ab rsu teshekimu",
+      "Mergem kab nefsey al'iluley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Demu afsisu afqiruni",
+          "Mesqel hazilu dekhimuley",
+          "T'ft'af nay sebat teqebilu",
+          "Nmegreftey tegerifuley",
+          "N'ay zgba mekera mot",
+          "Teqebiluley gwayta goytot",
+          "Keyqerebkwo qeribuni",
+          "Nab brhan hywet shibuni",
+          "Tetahizeye teasire",
+          "Blewhat fqru tesebire",
+          "Qeyrwo'yu ntarikhey",
+          "Mlu seb geyruni amlakhey",
+          "Afey zmare meliwo",
+          "Menfesawnet amhiruni",
+          "Abo nay t'beb nay thtna",
+          "Msu mnbar yhsheni"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

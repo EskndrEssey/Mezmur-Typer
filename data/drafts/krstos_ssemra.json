@@ -1,0 +1,81 @@
+{
+  "id": 168,
+  "title": "ክርስቶስ ሠምራ",
+  "ti": {
+    "chorus": [
+      "ብቃል ኪዳንኪ ተማሕጺነ",
+      "ስምኪ ጸዊዐ ካብ ሞት ድኂነ",
+      "ካብ ሕጂ የለን ሽግር መከራ",
+      "ንዓኺ ሒዘ ክርስቶስ ሠምራ",
+      "ብሓያል ኪዳንኪ ካብ ሞት ተናግፊ",
+      "ንኃጥእ ደጊፍኪ ካብ ሲኦል ተትርፊ",
+      "“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ",
+      "ምሕረት ለምኒ ካብ ኣምላኸይ”`",
+      "ናይ ምሕረት ልማኖ መሊኡ ልብኺ",
+      "ምሕረት ንጸላኢ ካብ ጐይታ ለመንኪ",
+      "ከምዚ ዝለመነ ኣብ መላእ ዘመና",
+      "ከቶ ኣይሰማዕናን ኦ ቅድስት ኣዴና",
+      "“በትረ ማርያም ረዳኢተይ ኣማላዲተይ",
+      "ምሕረት ለምኒ ካብ ኣምላኸይ”"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፍጹም ደምሲስክዮ ናይ ጸላኢ ውዲት",
+          "ብጽኑዕ ትሕትና ብስግደት ብጸሎት",
+          "ዳግም ምስ ሚካኤል ንሰይጣን ስዒርኪ",
+          "ካብ ልዑል ፈጣሪ ኣኽሊል ተቐበልኪ",
+          "“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ",
+          "ምሕረት ለምኒ ካብ ኣምላኸይ”",
+          "መንፈሳዊት ኣደ ኲሉ እተሥምሪ",
+          "መታን ከይተርፈክስ ንጐይታ ኣዘክሪ",
+          "ከምቶም ኣቦታተይ ናባኺ ኣንቃዕሪረ",
+          "ምሕረትኪ እጽበ ኪዳንኪ ዘኪረ",
+          "“በትረ ማርያም ረዳኢተይ ኣማላዲተይ",
+          "ምሕረት ለምኒ ካብ ኣምላኸይ”"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bqal kidanki temahts'ine",
+      "Smki ts'ewi'e kab mot dhine",
+      "Kab hji yelen shgr mekera",
+      "N'akhi hize krstos Ssemra",
+      "Bhayal kidanki kab mot tenagfi",
+      "Nhat' degifki kab siol tetrfi",
+      "“Krstos Ssemra redaitey amaladitey",
+      "Mhret lemni kab amlakhey”`",
+      "Nay mhret lmano meliu lbkhi",
+      "Mhret nts'elai kab gwayta lemenki",
+      "Kemzi zlemene ab mela zemena",
+      "Keto aysema'nan o qdst adena",
+      "“Betre maryam redaitey amaladitey",
+      "Mhret lemni kab amlakhey”"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Fts'um demsiskyo nay ts'elai wdit",
+          "Bts'nu' thtna bsgdet bts'elot",
+          "Dagm ms mikael nseyt'an s'irki",
+          "Kab l'ul fet'ari akhlil teqebelki",
+          "“Krstos Ssemra redaitey amaladitey",
+          "Mhret lemni kab amlakhey”",
+          "Menfesawit ade kwilu tessmri",
+          "Metan keyterfeks ngwayta azekri",
+          "Kemtom abotatey nabakhi anqa'rire",
+          "Mhretki ts'be kidanki zekire",
+          "“Betre maryam redaitey amaladitey",
+          "Mhret lemni kab amlakhey”"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_d4bc5bf766",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምስጋና ይኹን ንሥላሴ"
+  "id": 43,
+  "title": "ምስጋና ይኹን ንሥላሴ",
+  "ti": {
+    "chorus": [
+      "ምስጋና ይኹን ንሥላሴ /2/",
+      "ካብ ፍጥረታት ኣኽቢርካኒ",
+      "ብምስልኻ ፈጢርካኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንፈጣሪ ንሥላሴ",
+          "ከየሰልከየት ትዘምር ነፍሰይ",
+          "ስሙ ጸዊዐ ረዊየየ",
+          "ከም ጽቡቕ ኦም ለምሊመ’የ (2)",
+          "ዝወፍርም ዝኣትውን",
+          "ኵሉ ነገር ዝዓምም",
+          "ጀሚረ’ውን ዝፍጽም",
+          "ጸዊዐየ ናቱ ስም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሥላሴ ይፈልጡ እዮም",
+          "ዘለዓለም ሕያዋን `ዮም",
+          "ብሥላሴ ከቢረየ",
+          "ውሉድነት ረኺበ’የ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ልዑልሰገድ ጌታቸው",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምስጋና ይኹን ንሥላሴ",
-      "zemari": "ዲ/ን ልዑልሰገድ ጌታቸው",
-      "lyrics": "[[chorus]]\nካብዘይ ምንባር ናብ ምንባር\nዘምጻእካኒ እግዚአብሔር\nካብ ፍጥረታት ኣኽቢርካኒ\nብምስልኻ ፈጢርካኒ\n[[/chorus]]\n\nምስጋና ይኹን ንሥላሴ (2)\nብበረኸት ኢዱ ተባረኸት ነፍሰይ\nምስጋና ይኹን ንሥላሴ\n\nንፈጣሪ ንሥላሴ\nከየሰልከየት ትዘምር ነፍሰይ\nስሙ ጸዊዐ ረዊየየ\nከም ጽቡቕ ኦም ለምሊመ’የ (2)\n\nሥላሴ ይፈልጡ እዮም\nዘለዓለም ሕያዋን `ዮም\nብሥላሴ ከቢረየ\nውሉድነት ረኺበ’የ"
-    },
-    "ti_ro": {
-      "title": "Msgana ykhun nSslase",
-      "zemari": "di/n l'ulseged getachew",
-      "lyrics": "[[chorus]]\nMsgana ykhun nsslase (2)\n[[/chorus]]\n\nBberekhet idu tebarekhet nefsey\nMsgana ykhun nsslase\nKabzey mnbar nab mnbar\nZemtsakani gziabher\nKab ftretat akhbirkani\nBmslkha fetirkani\nNfetari nsslase\nKeyeselkeyet tzemr nefsey\nSmu tsewia rewiyeye\nKem tsbuq om lemlime’ye (2)\nZwefrm zatwn\nKwilu neger zamm\nJemire’wn zftsm\nTsewiaye natu sm\nSslase yfeltu yom\nZelealem hyawan `yom\nBsslase kebireye\nWludnet rekhibe’ye"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Msgana ykhun nsslase /2/",
+      "Kab ft'retat akhbirkani",
+      "Bmslkha fet'irkani"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nfet'ari nsslase",
+          "Keyeselkeyet tzemr nefsey",
+          "Smu ts'ewi'e rewiyeye",
+          "Kem ts'buq om lemlime’ye (2)",
+          "Zwefrm zatwn",
+          "Kwlu neger z'amm",
+          "Jemire’wn zfts'm",
+          "Ts'ewi'eye natu sm"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Sslase yfelt'u yom",
+          "Zele'alem hyawan `yom",
+          "Bsslase kebireye",
+          "Wludnet rekhibe’ye"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

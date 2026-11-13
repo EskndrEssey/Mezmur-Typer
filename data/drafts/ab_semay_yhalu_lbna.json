@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_3bcffd8f2f",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብ ሰማይ ይሃሉ ልብና"
+  "id": 222,
+  "title": "ኣብ ሰማይ ይሃሉ ልብና",
+  "ti": {
+    "chorus": [
+      "ኣብ ሰማይ ይሃሉ ልብና",
+      "ምስ’ቲ ፈቃር ለዋህ ኣቦና",
+      "ምሕረቱን ሰላሙን ክውርደልና /2/",
+      "ወልደ ነጎድጓድ ዮሐንስ",
+      "ክብሪ ዝሃቦ መንፈስቅዱስ",
+      "መስኮት ናይ ሰማይ ተኸፊቱ",
+      "ምሥጢር እግዚአብሔር ተመልኪቱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናብ ሣልሳይ ሰማይ ተመሲጡ",
+          "ናይ ሰማይ ምስጢር’ውን ፈሊጡ",
+          "ቅዱስ ጳውሎስ ብርሃን ዓለም",
+          "ክብሩ ዝነብር ንዘልዓለም",
+          "ዜማ መላእክት ተመሊኡ",
+          "ያሬድ ክዝምር ተቐቢኡ",
+          "ሽዱሽተ ኣኽናፍ ተዓዲሉ",
+          "ክብሪ ሱራፌል ተቐቢሉ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብ ሰማይ ይሃሉ ልብና",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nወልደ ነጎድጓድ ዮሐንስ\nክብሪ ዝሃቦ መንፈስቅዱስ\nመስኮት ናይ ሰማይ ተኸፊቱ\nምሥጢር እግዚአብሔር ተመልኪቱ\n[[/chorus]]\n\nኣብ ሰማይ ይሃሉ ልብና\nምስ’ቲ ፈቃር ለዋህ ኣቦና\nምሕረቱን ሰላሙን ክውርደልና (2)\n\nናብ ሣልሳይ ሰማይ ተመሲጡ\nናይ ሰማይ ምስጢር’ውን ፈሊጡ\nቅዱስ ጳውሎስ ብርሃን ዓለም\nክብሩ ዝነብር ንዘልዓለም\n\nመናኔ ዓለም ተክለ ሃይማኖት\nምሕረት ለማኒ በዓል ጸሎት\nሽዱሽተ ኣኽናፍ ተዓዲሉ\nክብሪ ሱራፌል ተቐቢሉ"
-    },
-    "ti_ro": {
-      "title": "Ab semay yhalu lbna",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nMhretun selamun kwrdelna (2)\n[[/chorus]]\n\nAb semay yhalu lbna\nMs’ti feqar lewah abona\nWelde negodgwad yohans\nKbri zhabo menfesqdus\nMeskot nay semay tekhefitu\nMsstir gziabher temelkitu\nNab salsay semay temesitu\nNay semay mstir’wn felitu\nQdus pawlos brhan alem\nKbru znebr nzelalem\nZema melakt temeliu\nYared kzmr teqebiu\nGru bkunat ms teregze\nDemu fesisu wehaze\nMenane alem tekle haymanot\nMhret lemani beal tselot\nShdushte akhnaf teadilu\nKbri surafel teqebilu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab semay yhalu lbna",
+      "Ms’ti feqar lewah abona",
+      "Mhretun selamun kwrdelna /2/",
+      "Welde negodgwad yohens",
+      "Kbri zhabo menfesqdus",
+      "Meskot nay semay tekhefitu",
+      "Msst'ir gziebher temelkitu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nab Ssalsay semay temesit'u",
+          "Nay semay mst'ir’wn felit'u",
+          "Qdus p'awlos brhan 'alem",
+          "Kbru znebr nzel'alem",
+          "Zema melakt temeliu",
+          "Yared kzmr teqebiu",
+          "Shdushte akhnaf te'adilu",
+          "Kbri surafel teqebilu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

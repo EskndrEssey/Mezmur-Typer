@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_93fe3128bc",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እቲ ሓቀኛ ሰላም"
+  "id": 136,
+  "title": "እቲ ሓቀኛ ሰላም",
+  "ti": {
+    "chorus": [
+      "ርዳእ ከይናወጽ ልበይ ይልምን ኣሎ /2/",
+      "ኃጢአተይ እንክዝክር ይጭነቕ እቲ ልበይ",
+      "ኣድኪምዋ ነፍሰይ ካባኻ ምፍላየይ",
+      "ናባኻ ኣብለኒ ልበይ ይብለካ ኣሎ",
+      "እቲ ሓቀኛ ሰላም ኣብ ቤትካ’ዩ ዘሎ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጸሎት ቅዳሴ ከይተግህ ዘወትር",
+          "ኣብ ኣደባባይ ስምካ ንኸይምስክር",
+          "ወዲቐ ኣለኹ’ሞ በዚሑ ድኻመይ",
+          "ርዳእ ኣማኑኤል ከጽንዕ እምነተይ",
+          "ስለ ኃጢአተይ ይፍልፍል ንብዓተይ",
+          "ናይ ንስሓ ይኹን መጻኢ ሕይወተይ",
+          "በዛ ሎሚ ዕለት መዓልቲ ምድሓነይ",
+          "ፍቕርኻ ሓሲበ መጻእኩ ኣምላኸይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጐይታ ንጣዕሳይ ንብዓተይ ተቐበል",
+          "ኣቦኻ’የ  በለኒ ውሉድካ’የ ክብል",
+          "ዘይቲ ከይቀረብኩ ሃንደበት መጺኻ",
+          "ደገ ኣይተቑመኒ ማዕጾኻ ዓጺኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ለምለም ከበደ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እቲ ሓቀኛ ሰላም",
-      "zemari": "ዘማሪት ለምለም ከበደ",
-      "lyrics": "[[chorus]]\nኃጢአተይ እንክዝክር ይጭነቕ እቲ ልበይ\nኣድኪምዋ ነፍሰይ ካባኻ ምፍላየይ\nናባኻ ኣብለኒ ልበይ ይብለካ ኣሎ\nእቲ ሓቀኛ ሰላም ኣብ ቤትካ’ዩ ዘሎ\n[[/chorus]]\n\nእቲ ሓቀኛ ሰላም ኣብ ቤትካ’ዩ ዘሎ (2)\nርዳእ ከይናወጽ ልበይ ይልምን ኣሎ (2)\n\nንጸሎት ቅዳሴ ከይተግህ ዘወትር\nኣብ ኣደባባይ ስምካ ንኸይምስክር\nወዲቐ ኣለኹ’ሞ በዚሑ ድኻመይ\nርዳእ ኣማኑኤል ከጽንዕ እምነተይ\n\nጐይታ ንጣዕሳይ ንብዓተይ ተቐበል\nኣቦኻ’የ በለኒ ውሉድካ’የ ክብል\nዘይቲ ከይቀረብኩ ሃንደበት መጺኻ\nደገ ኣይተቑመኒ ማዕጾኻ ዓጺኻ"
-    },
-    "ti_ro": {
-      "title": "'Ti haqenya selam",
-      "zemari": "zemarit lemlem kebede",
-      "lyrics": "[[chorus]]\nRda keynawets lbey ylmn alo (2)\n[[/chorus]]\n\nTi haqenya selam ab betka’yu zelo (2)\nHatiatey nkzkr ychneq ti lbey\nAdkimwa nefsey kabakha mflayey\nNabakha ableni lbey ybleka alo\nTi haqenya selam ab betka’yu zelo\nNtselot qdase keytegh zewetr\nAb adebabay smka nkheymskr\nWediqe alekhu’mo bezihu dkhamey\nRda amanuel ketsn mnetey\nSle hatiatey yflfl nbatey\nNay nsha ykhun metsai hywetey\nBeza lomi let mealti mdhaney\nFqrkha hasibe metsaku amlakhey\nGoyta ntasay nbatey teqebel\nAbokha’ye beleni wludka’ye kbl\nZeyti keyqerebku handebet metsikha\nDege aytequmeni matsokha atsikha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Rda keynawets' lbey ylmn alo /2/",
+      "Hat'ietey nkzkr ych'neq ti lbey",
+      "Adkimwa nefsey kabakha mflayey",
+      "Nabakha ableni lbey ybleka alo",
+      "Ti haqenya selam ab betka’yu zelo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nts'elot qdase keytegh zewetr",
+          "Ab adebabay smka nkheymskr",
+          "Wediqe alekhu’mo bezihu dkhamey",
+          "Rda amanuel kets'n' mnetey",
+          "Sle hat'ietey yflfl nb'atey",
+          "Nay nsha ykhun mets'ai hywetey",
+          "Beza lomi 'let me'alti mdhaney",
+          "Fqrkha hasibe mets'aku amlakhey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gwayta nt'a'say nb'atey teqebel",
+          "Abokha’ye  beleni wludka’ye kbl",
+          "Zeyti keyqerebku handebet mets'ikha",
+          "Dege aytequmeni ma'ts'okha 'ats'ikha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

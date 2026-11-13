@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_1175fc906d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምስጋናይ"
+  "id": 19,
+  "title": "ምስጋናይ",
+  "ti": {
+    "chorus": [
+      "ምስጋናይ ንኣምላኽ ከቕርብ’የ",
+      "ኣብ መሕደሪኡ ኣትየ ክሰግደሉ እየ",
+      "ዝኽእል’ዩ ጐይታይ ኤልሻዳይ",
+      "ክፍጸምዩ ይኣምን ሓሳብ ናይ ልበይ",
+      "ስየ ሒዘ ኣነ ከምቶም ህጻናቱ",
+      "ሆሣዕና ክብል’የ ኣትየ ኣብ ቤቱ",
+      "ዋላ እንተዘይፈልጥ እንተጎደለኒ",
+      "ንስሙ ክዝምር የለን ዝኸልኣኒ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቃል ኣለኒ ኣነ ቅድሜኻ ኣምላኸይ",
+          "ቋንቋይ መዝሙር’ዩ ናትካ ብምዃነይ",
+          "ኣፍደገ ኣሚናዳብ ኣብ ቅድሚ ታቦትካ",
+          "ቲ’ናይ ክብሪ ዑደት ጸዊዑኒ ቃልካ /2/",
+          "ትርጉም ናይ ሕይወተይ ደስታይ ንስኻ ኢኻ",
+          "ክብረ’ዩ ስርሐይ ምውዳስ ንዓኻ",
+          "ነቲ እሙን ጐይታ ምስክር ዝኾኑ",
+          "ከቢሮም ተመልሱ ንበረኸት ኮኑ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መበገስየይ ኢኻ ሓይለይን ክብረይን",
+          "መፈጸምታ ቀጽረይ መደምደምታይ እውን",
+          "ኣብ ናይ ጽዮን ጎቦ ክትግለጽ ዳግማይ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምስጋናይ",
-      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-      "lyrics": "[[chorus]]\nስየ ሒዘ ኣነ ከምቶም ህጻናቱ\nሆሣዕና ክብል’የ ኣትየ ኣብ ቤቱ\nዋላ እንተዘይፈልጥ እንተጎደለኒ\nንስሙ ክዝምር የለን ዝኸልኣኒ (2)\n[[/chorus]]\n\nምስጋናይ ንኣምላኽ ከቕርብ’የ\nኣብ መሕደሪኡ ኣትየ ክሰግደሉ እየ\nዝኽእል’ዩ ጐይታይ ኤልሻዳይ\nክፍጸምዩ ይኣምን ሓሳብ ናይ ልበይ\n\nቃል ኣለኒ ኣነ ቅድሜኻ ኣምላኸይ\nቋንቋይ መዝሙር’ዩ ናትካ ብምዃነይ\nኣፍደገ ኣሚናዳብ ኣብ ቅድሚ ታቦትካ\nቲ’ናይ ክብሪ ዑደት ጸዊዑኒ ቃልካ (2)\n\nመበገስየይ ኢኻ ሓይለይን ክብረይን\nመፈጸምታ ቀጽረይ መደምደምታይ እውን\nኣብ ናይ ጽዮን ጎቦ ክትግለጽ ዳግማይ\nጻዕዳ ከዲንካ ኣተንሳእኒ ጐይታይ (2)"
-    },
-    "ti_ro": {
-      "title": "Msganay",
-      "zemari": "liqe mezemran tedros yosef",
-      "lyrics": "[[chorus]]\nNsmu kzmr yelen zkhelani (2)\n[[/chorus]]\n\nMsganay namlakh keqrb’ye\nAb mehderiu atye ksegdelu ye\nZkhl’yu goytay elshaday\nKftsemyu yamn hasab nay lbey\nSye hize ane kemtom htsanatu\nHosana kbl’ye atye ab betu\nWala ntezeyfelt ntegodeleni\nQal aleni ane qdmekha amlakhey\nQwanqway mezmur’yu natka bmkwaney\nAfdege aminadab ab qdmi tabotka\nTi’nay kbri udet tsewiuni qalka (2)\nTrgum nay hywetey destay nskha ikha\nKbre’yu srhay mwdas nakha\nNeti mun goyta mskr zkhonu\nKebirom temelsu nberekhet konu (2)\nMebegesyey ikha hayleyn kbreyn\nMefetsemta qetsrey medemdemtay wn\nAb nay tsyon gobo ktglets dagmay\nTsada kedinka atensani goytay (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Msganay namlakh keqrb’ye",
+      "Ab mehderiu atye ksegdelu ye",
+      "Zkhl’yu gwaytay elshaday",
+      "Kfts'emyu yamn hasab nay lbey",
+      "Sye hize ane kemtom hts'anatu",
+      "Hossa'na kbl’ye atye ab betu",
+      "Wala ntezeyfelt' ntegodeleni",
+      "Nsmu kzmr yelen zkhelani /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qal aleni ane qdmekha amlakhey",
+          "Qwanqway mezmur’yu natka bmkhwaney",
+          "Afdege aminadab ab qdmi tabotka",
+          "Ti’nay kbri 'udet ts'ewi'uni qalka /2/",
+          "Trgum nay hywetey destay nskha ikha",
+          "Kbre’yu srhey mwdas n'akha",
+          "Neti mun gwayta mskr zkhonu",
+          "Kebirom temelsu nberekhet konu /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mebegesyey ikha hayleyn kbreyn",
+          "Mefets'emta qets'rey medemdemtay wn",
+          "Ab nay ts'yon gobo ktglets' dagmay"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

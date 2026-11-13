@@ -1,41 +1,10 @@
 {
-  "id": "h_efr_d62f215dae",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እንታይ’የ ክመልስ"
-  },
-  "singer": "ዲ/ን ታዴዎስ ግርማ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እንታይ’የ ክመልስ",
-      "zemari": "ዲ/ን ታዴዎስ ግርማ",
-      "lyrics": "[[chorus]]\nውዕለቱ ብዙሕ'ዩ ዝገበሮ ንዓይ\nእንክዝንግዓኒ ዘመደይ ወገነይ\nከመይ ኢለ ክገልጾ ንናይ ኣምላኽ ስራሕ\nኣውጺኡኒ'ዩሞ ካብ ጭንቂ መከራ\n[[/chorus]]\n\nእንታይ’የ ክመልስ ኣነ\nንእግዚአብሔር ንዝገበረለይ (2)\nቅድሚኡ እቐውም ንምቅራብ ምስጋናይ\nእዝምር ንዕኡ ደራዚ ንብዓተይ\n\nዘይገበረለይ እንታይ ኣሎ ጐይታይ\nተመስገን ክብሎ'የ በዓል ውዕለተይ\nወዲቐ ከይተርፍ ኣተንሲእካኒ'ኻ\nተመስገን እግዚአብሔር እንታይ ይሰኣነካ\n\nሓሳበይ ሰመረ ናይ ልበይ ትምኒት\nንብዓተይ ተደርዘ ቤተይ መልኣ ሃሴት\nንዕኡ ክዝምር ክቓንየሉ'የ\nጐይታ ስለ ፍቕሩ እንታይ ክኸፍሎ'የ\nዲ/ን ምንዳየ ብርሃኑ"
-    },
-    "ti_ro": {
-      "title": "'Ntay’ye kmels",
-      "zemari": "di/n tadewos grma",
-      "lyrics": "[[chorus]]\nNgziabher nzgebereley (2)\n[[/chorus]]\n\nNtay’ye kmels ane\nQdmiu qewm nmqrab msganay\nZmr nu derazi nbatey\nWletu bzuh'yu zgebero nay\nNkzngani zemedey wegeney\nKemey ile kgeltso nnay amlakh srah\nAwtsiuni'yumo kab chnqi mekera\nZeygebereley ntay alo goytay\nTemesgen kblo'ye beal wletey\nWediqe keyterf atensikani'kha\nTemesgen gziabher ntay yseaneka\nMdhan nay amlakhey bayney rye'ye\nBhayal qltsmu kab mot terife'ye\nBkhyatey bdesta nzleweteley\nMsgana ykhuno gziabher amlakhey\nHasabey semere nay lbey tmnit\nNbatey tederze betey mela haset\nNu kzmr kqanyelu'ye\nGoyta sle fqru ntay kkheflo'ye"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "id": 49,
+  "title": "እንታይ’የ ክመልስ",
+  "is_xref": true,
+  "ti": null,
+  "ti_ro": null,
+  "needs_review": [
+    "xref"
+  ]
 }

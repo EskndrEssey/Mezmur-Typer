@@ -1,41 +1,57 @@
 {
-  "id": "h_efr_1cde45ff18",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣማኑኤል ተመስገን"
+  "id": 469,
+  "title": "ኣማኑኤል ተመስገን",
+  "ti": {
+    "chorus": [
+      "ኣማን ብኣማን ኣማን ብኣማን",
+      "ኣማኑኤል ተመስገን",
+      "መድኃኔ ዓለም ተመስገን /2/",
+      "ስጋዊ ትምኒት እናፈጸምኩ",
+      "ካብ ሕጊ ኣምላኽ ፍጹም ረሓቕኩ",
+      "ኃጢአተይ ርእዩ ከይንዓቐኒ",
+      "ንኽንሳሕ ዕድመ ሂቡኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕደጊ ዓለም ኣይተታልልኒ",
+          "ካብ ሕጂ ንንየው ሕደግኒ’ኺ",
+          "ብንእስነተይ ናብ እግዚአብሔር",
+          "ምቕራብ መረጽኩ ካብ ኵሉ ነገር",
+          "ኣብ ሓጢኣት ዓለም ዝተጸመድኩም",
+          "ብርሃን ዕድሜኹም ዝጸልመተኩም",
+          "ነውሪ ሓጢኣት ዓለም ኣብኡ ገዲፍኩም",
+          "ንዑ ኣገልግሉ ንሃይማኖትኩም"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣማኑኤል ተመስገን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nስጋዊ ትምኒት እናፈጸምኩ\nካብ ሕጊ ኣምላኽ ፍጹም ረሓቕኩ\nኃጢአተይ ርእዩ ከይንዓቐኒ\nንኽንሳሕ ዕድመ ሂቡኒ\n[[/chorus]]\n\nኣማን ብኣማን ኣማን ብኣማን\nኣማኑኤል ተመስገን\nመድኃኔ ዓለም ተመስገን (2)\n\nሕደጊ ዓለም ኣይተታልልኒ\nካብ ሕጂ ንንየው ሕደግኒ’ኺ\nብንእስነተይ ናብ እግዚአብሔር\nምቕራብ መረጽኩ ካብ ኵሉ ነገር"
-    },
-    "ti_ro": {
-      "title": "Amanuel temesgen",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nMedhane alem temesgen (2)\n[[/chorus]]\n\nAman baman aman baman\nAmanuel temesgen\nSgawi tmnit nafetsemku\nKab hgi amlakh ftsum rehaqku\nHatiatey ryu keynaqeni\nNkhnsah dme hibuni\nHdegi alem aytetallni\nKab hji nnyew hdegni’khi\nBnsnetey nab gziabher\nMqrab meretsku kab kwilu neger\nAb hatiat alem ztetsemedkum\nBrhan dmekhum ztselmetekum\nNewri hatiat alem abu gedifkum\nNu agelglu nhaymanotkum"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Aman baman aman baman",
+      "Amanuel temesgen",
+      "Medhane 'alem temesgen /2/",
+      "Sgawi tmnit nafets'emku",
+      "Kab hgi amlakh fts'um rehaqku",
+      "Hat'ietey ryu keyn'aqeni",
+      "Nkhnsah 'dme hibuni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hdegi 'alem aytetallni",
+          "Kab hji nnyew hdegni’khi",
+          "Bnsnetey nab gziebher",
+          "Mqrab merets'ku kab kwlu neger",
+          "Ab hat'iat 'alem ztets'emedkum",
+          "Brhan 'dmekhum zts'elmetekum",
+          "Newri hat'iat 'alem abu gedifkum",
+          "N'u agelglu nhaymanotkum"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

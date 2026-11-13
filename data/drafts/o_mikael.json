@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_b5b443b3bb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኦ ሚካኤል"
+  "id": 523,
+  "title": "ኦ ሚካኤል",
+  "ti": {
+    "chorus": [
+      "ኣብ ኃጢአት ኣቲና ከይንመውት",
+      "ተራድኣና ኣጽንዓና ብእምነት",
+      "ነጸብራቓዊ        ሚካኤል",
+      "ዓይኑ ዘብርህ        >>",
+      "ሃመልማላዊ         >>",
+      "ልብሱ ዘብረቕርቕ   >>",
+      "ሃበና ድኅነት ምሕረት",
+      "ቅዱስ ሚካኤል ሊቀ መላእክት/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅዱስ          ሚካኤል",
+          "ተራድኣና ኢኻ   >>",
+          "ንዝቐረበካ        >>",
+          "ተድሕኖ ኢኻ    >>",
+          "ከም ዘድሓንካዮም ካብ ኢድ ፈርኦን",
+          "ንዓና ኣድኅነና ከይንኹነን/2/",
+          "ንሕና ደቅኻ   ሚካኤል",
+          "ስምካ ንኣምን    >>",
+          "ንቃል ኪዳንካ    >>",
+          "ተስፋ ንገብር     >>",
+          "ፍጡን ረዳኢ ሓያል መልኣኽ",
+          "ተራድኣና ከይንጸንት/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኦ ሚካኤል",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nነጸብራቓዊ      ሚካኤል\nዓይኑ ዘብርህ      >>\nሃመልማላዊ       >>\nልብሱ ዘብረቕርቕ >>\nሃበና ድኅነት ምሕረት\nቅዱስ ሚካኤል ሊቀ መላእክት(2)\n[[/chorus]]\n\nኦ ሚካኤል (2) ሊቀ መላእክት\nኣብ ኃጢአት ኣቲና ከይንመውት\nተራድኣና ኣጽንዓና ብእምነት\n\nቅዱስ       ሚካኤል\nተራድኣና ኢኻ >>\nንዝቐረበካ      >>\nተድሕኖ ኢኻ >>\nከም ዘድሓንካዮም ካብ ኢድ ፈርኦን\nንዓና ኣድኅነና ከይንኹነን(2)"
-    },
-    "ti_ro": {
-      "title": "O mikael",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "[[chorus]]\nQdus mikael liqe melakt(2)\n[[/chorus]]\nO mikael (2) liqe melakt\nAb hatiat atina keynmewt\nTeradana atsnana bmnet\nNetsebraqawi mikael\nAynu zebrh\nHamelmalawi\nLbsu zebreqrq\nHabena dhnet mhret\nQdus mikael\nTeradana ikha\nNzqerebeka\nTedhno ikha\nKem zedhankayom kab id feron\nNana adhnena keynkhunen(2)\nNhna deqkha mikael\nSmka namn\nNqal kidanka\nTesfa ngebr\nFtun redai hayal melakh\nTeradana keyntsent(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab hat'iet atina keynmewt",
+      "Teradana ats'n'ana bmnet",
+      "Nets'ebraqawi        mikael",
+      "'Aynu zebrh        >>",
+      "Hamelmalawi         >>",
+      "Lbsu zebreqrq   >>",
+      "Habena dhnet mhret",
+      "Qdus mikael liqe melakt/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdus          mikael",
+          "Teradana ikha   >>",
+          "Nzqerebeka        >>",
+          "Tedhno ikha    >>",
+          "Kem zedhankayom kab id feron",
+          "N'ana adhnena keynkhunen/2/",
+          "Nhna deqkha   mikael",
+          "Smka namn    >>",
+          "Nqal kidanka    >>",
+          "Tesfa ngebr     >>",
+          "Ft'un redai hayal melakh",
+          "Teradana keynts'ent/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

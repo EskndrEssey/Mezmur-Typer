@@ -1,44 +1,73 @@
 {
-  "id": "h_efr_b9b8ca20ab",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣረጋዊ"
+  "id": 218,
+  "title": "ኣረጋዊ",
+  "ti": {
+    "chorus": [
+      "ኣረጋዊ ሃይማኖት ተዓፅፈ /2/",
+      "ኃበ /3/ ዓምደወርቅ ስሙ ተጽሕፈ /2/",
+      "ብጊዜ ንእስነቱ ንፈጣሪ ዝዘከረ",
+      "ሰሎሞን ዝበሎ ኣብ መክብብ ዝተግበረ",
+      "እሙን ኣገልጋሊ ንኣምላኽ ዘስመረ",
+      "ዘሚካኤል /3/ ንጐይታ ዘፍቀረ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብሕቑፎ ናይ ገበል ዳሞ ዝደየብካ",
+          "መና ናይ ሰማያት ዝተመገብካ",
+          "ጸሎትን ስግደትን መስዋእቲ ዘቕረብካ",
+          "ባሕታዊ /3/ ኣረጋዊ ኢኻ",
+          "ሱባኤ ገድልኻ ንዓለም ዘቖመ",
+          "ይፍወስ ይድሕን ቤትካ ዝሰዓመ",
+          "ኣረጋዊ ለዋህ ሰባኺ ናይ ጽድቂ",
+          "ስምካ ጽሑፍ /3/ ኣብ መዝገበ ወርቅ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ መምህራን መምህር ኣረጋዊ ቅዱስ",
+          "ፍረ ጻዕርታትካ ምልክቱ ሓጎስ",
+          "ውሉድካ ሕሩያት ከም ተኽለሃይማኖት",
+          "ዝለበሱ /3/ ኣኽሊል ናይ መላእኽት"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣረጋዊ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nብጊዜ ንእስነቱ ንፈጣሪ ዝዘከረ\nሰሎሞን ዝበሎ ኣብ መክብብ ዝተግበረ\nእሙን ኣገልጋሊ ንኣምላኽ ዘስመረ\nዘሚካኤል (3) ንጐይታ ዘፍቀረ\n[[/chorus]]\n\nኣረጋዊ ሃይማኖት ተዓፅፈ (2)\nኃበ (3) ዓምደወርቅ ስሙ ተጽሕፈ (2)\n\nብሕቑፎ ናይ ገበል ዳሞ ዝደየብካ\nመና ናይ ሰማያት ዝተመገብካ\nጸሎትን ስግደትን መስዋእቲ ዘቕረብካ\nባሕታዊ (3) ኣረጋዊ ኢኻ\n\nናይ መምህራን መምህር ኣረጋዊ ቅዱስ\nፍረ ጻዕርታትካ ምልክቱ ሓጎስ\nውሉድካ ሕሩያት ከም ተኽለሃይማኖት\nዝለበሱ (3) ኣኽሊል ናይ መላእኽት"
-    },
-    "ti_ro": {
-      "title": "Aregawi",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nAregawi haymanot teatsfe (2)\n[[/chorus]]\n\nHabe (3) amdewerq smu tetshfe (2)\nBgize nsnetu nfetari zzekere\nSelomon zbelo ab mekbb ztegbere\nMun agelgali namlakh zesmere\nZemikael (3) ngoyta zefqere\nBhqufo nay gebel damo zdeyebka\nMena nay semayat ztemegebka\nTselotn sgdetn meswati zeqrebka\nBahtawi (3) aregawi ikha\nSubae gedlkha nalem zeqome\nYfwes ydhn betka zseame\nAregawi lewah sebakhi nay tsdqi\nSmka tshuf (3) ab mezgebe werq\nNay memhran memhr aregawi qdus\nFre tsartatka mlktu hagos\nWludka hruyat kem tekhlehaymanot\nZlebesu (3) akhlil nay melakht"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Aregawi haymanot te'ats'fe /2/",
+      "Habe /3/ 'amdewerq smu tets'hfe /2/",
+      "Bgize nsnetu nfet'ari zzekere",
+      "Selomon zbelo ab mekbb ztegbere",
+      "Mun agelgali namlakh zesmere",
+      "Zemikael /3/ ngwayta zefqere"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bhqufo nay gebel damo zdeyebka",
+          "Mena nay semayat ztemegebka",
+          "Ts'elotn sgdetn meswati zeqrebka",
+          "Bahtawi /3/ aregawi ikha",
+          "Subae gedlkha n'alem zeqome",
+          "Yfwes ydhn betka zse'ame",
+          "Aregawi lewah sebakhi nay ts'dqi",
+          "Smka ts'huf /3/ ab mezgebe werq"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay memhran memhr aregawi qdus",
+          "Fre ts'a'rtatka mlktu hagos",
+          "Wludka hruyat kem tekhlehaymanot",
+          "Zlebesu /3/ akhlil nay melakht"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "repeat_markers"
-  ]
+  "needs_review": []
 }

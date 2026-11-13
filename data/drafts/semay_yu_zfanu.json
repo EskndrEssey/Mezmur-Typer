@@ -1,41 +1,87 @@
 {
-  "id": "h_efr_ff45700456",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰማይ’ዩ ዝፋኑ"
+  "id": 318,
+  "title": "ሰማይ’ዩ ዝፋኑ",
+  "ti": {
+    "chorus": [
+      "ሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ",
+      "ይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ",
+      "ካህናት ናይ ሰማይ ኩሎም ብሓድነት",
+      "ይዓጥኑ ኣለዉ መንበረ ጸባኦት",
+      "ኣኽሊሎም ኣውሪዶም ሰጊዶም ብፍርሓት",
+      "ሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ",
+      "ይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅዱስ /3/ ክብሉ ኣብ ኣርያም",
+          "ንገንሸል ፋሲካ ዝተዋሕሰ ብደም",
+          "ቅዱሳን መላእክት ኣኽናፎም ዘርጊሖም",
+          "ሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ",
+          "ይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ",
+          "ከም ደሃይ ብዙሕ ማያት ከም ብርቱዕ ነጎድጓድ",
+          "ህጻናት ቤተልሔም ኮይኖም ሓደ ነገድ",
+          "የቕርቡ ኣለዉ ማህሌት ብመረግድ",
+          "ሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ",
+          "ይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰረገላ እሳት እዩ መንኮርኮሩ",
+          "ይሕምበብ ኣብ ንፋሳት ኣብ ማያት ጠፈሩ",
+          "መንክር’ዩ ኣምላኽና ዕጹብ’ዩ ነገሩ",
+          "ንኤልሻዳይ ኣምላኽ ቅዱስ እናበልኩም",
+          "ሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ",
+          "ይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰማይ’ዩ ዝፋኑ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nካህናት ናይ ሰማይ ኩሎም ብሓድነት\nይዓጥኑ ኣለዉ መንበረ ጸባኦት\nኣኽሊሎም ኣውሪዶም ሰጊዶም ብፍርሓት\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n[[/chorus]]\n\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n\nቅዱስ (3) ክብሉ ኣብ ኣርያም\nንገንሸል ፋሲካ ዝተዋሕሰ ብደም\nቅዱሳን መላእክት ኣኽናፎም ዘርጊሖም\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n\nሰረገላ እሳት እዩ መንኮርኮሩ\nይሕምበብ ኣብ ንፋሳት ኣብ ማያት ጠፈሩ\nመንክር’ዩ ኣምላኽና ዕጹብ’ዩ ነገሩ\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ"
-    },
-    "ti_ro": {
-      "title": "Semay’yu zfanu",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nSemay’yu zfanu mdri mergets gru\nYmsgen nzelalem lul ab menberu\n[[/chorus]]\n\nKahnat nay semay kulom bhadnet\nYatnu alewu menbere tsebaot\nAkhlilom awridom segidom bfrhat\n\nQdus (3) kblu ab aryam\nNgenshel fasika ztewahse bdem\nQdusan melakt akhnafom zergihom\n\nKem dehay bzuh mayat kem brtu negodgwad\nHtsanat betelhem koynom hade neged\nYeqrbu alewu mahlet bmeregd\n\nSeregela sat yu menkorkoru\nYhmbeb ab nfasat ab mayat teferu\nMenkr’yu amlakhna tsub’yu negeru\n\nNmengstu hlfet zeyblu zelalem\nSgedu bfrhat zelekhum ab alem\nNelshaday amlakh qdus nabelkum"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Semay’yu zfanu mdri mergets' gru",
+      "Ymsgen nzel'alem l'ul ab menberu",
+      "Kahnat nay semay kulom bhadnet",
+      "Y'at'nu alewu menbere ts'ebaot",
+      "Akhlilom awridom segidom bfrhat",
+      "Semay’yu zfanu mdri mergets' gru",
+      "Ymsgen nzel'alem l'ul ab menberu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdus /3/ kblu ab aryam",
+          "Ngenshel fasika ztewahse bdem",
+          "Qdusan melakt akhnafom zergihom",
+          "Semay’yu zfanu mdri mergets' gru",
+          "Ymsgen nzel'alem l'ul ab menberu",
+          "Kem dehay bzuh mayat kem brtu' negodgwad",
+          "Hts'anat betelhem koynom hade neged",
+          "Yeqrbu alewu mahlet bmeregd",
+          "Semay’yu zfanu mdri mergets' gru",
+          "Ymsgen nzel'alem l'ul ab menberu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seregela sat yu menkorkoru",
+          "Yhmbeb ab nfasat ab mayat t'eferu",
+          "Menkr’yu amlakhna 'ts'ub’yu negeru",
+          "Nelshaday amlakh qdus nabelkum",
+          "Semay’yu zfanu mdri mergets' gru",
+          "Ymsgen nzel'alem l'ul ab menberu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

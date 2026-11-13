@@ -1,41 +1,182 @@
 {
-  "id": "h_efr_2d43e69d59",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንሥላሴ ኣመስግኑ"
+  "id": 50,
+  "title": "ንሥላሴ ኣመስግኑ",
+  "ti": {
+    "chorus": [
+      "ወግርማ ለባሲተ ሞገስ ወግርማ /2/",
+      "ኢየሩሳሌም /2/ ሃገረ ሰላም",
+      "ጸጋ ሞገስ ግርማ እተልብስና'ኺ",
+      "ኣደ ኣዶናይ ካባና ኣይትርሓቒ",
+      "ፍቕርን ትሕትናን ቀሲምና ካባኺ",
+      "ናይ ጸጋ ግምጃ ቤት ማሕደሩ ኢኺ",
+      "ልብና እንክውጋእ ብናይ ሓዘን ኵናት",
+      "ናባኺንጽጋዕ እናፍሰስና ንብዓት",
+      "ብድምጽኺ ምኡዝ እንክትድብስና",
+      "ሽዑ ኢና ንናገፍ ካብ መሪር ሓዘና",
+      "ናይ ጽድቂ ጸሓይ ብርሃን በሪቑልና",
+      "ካብ ዘፍርሕ ጸልማት ካብ ማዕሙቕ ወጻእና",
+      "ኣይንዓርቅን ዳግማይ እንደገና",
+      "ወድኺ ክርስቶስ ለቢስናዮ ኢና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዲ/ን ታዴዎስ ግርማ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተመስገን /3/ ጐይታየ ተመስገን ጐይታየ",
+          "ምኽኣል ስኢነዮ በዚሑ ገበነይ",
+          "ብኣኻ ኣምላኸይ ተሸፊኑ ጉደይ",
+          "ናብራ መሪሩኒ ፈተና ምስ ኮነ",
+          "ሕይወት ከቢዱኒ ምኽኣሉ ስኢነ",
+          "ኵሉ ግን ጐይታየ ንጽቡቕ ጌርካዮ",
+          "ኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ",
+          "ከምቲ ናተይ ሓሳብ እንተዘይሰለጠ",
+          "ተመስገን’የ ዝብል ውዕለትካ ፈሊጠ",
+          "ምስጢር ውሽጢ ቤተይ ንሱ’ዩ ዝፈልጦ",
+          "ገበነይ ሸፊኑ ሕይወተይ ለወጦ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "49. እንታይ’የ ክመልስ",
+          "እንታይ’የ ክመልስ ኣነ",
+          "ንእግዚአብሔር ንዝገበረለይ /2/",
+          "ቅድሚኡ እቐውም ንምቅራብ ምስጋናይ",
+          "እዝምር ንዕኡ ደራዚ ንብዓተይ",
+          "ውዕለቱ ብዙሕ'ዩ ዝገበሮ ንዓይ",
+          "እንክዝንግዓኒ ዘመደይ ወገነይ",
+          "ከመይ ኢለ ክገልጾ ንናይ ኣምላኽ ስራሕ",
+          "ኣውጺኡኒ'ዩሞ ካብ ጭንቂ መከራ",
+          "ዘይገበረለይ እንታይ ኣሎ ጐይታይ",
+          "ተመስገን ክብሎ'የ በዓል ውዕለተይ",
+          "ወዲቐ ከይተርፍ ኣተንሲእካኒ'ኻ",
+          "ተመስገን እግዚአብሔር እንታይ ይሰኣነካ",
+          "ምድሓን ናይ ኣምላኸይ ብዓይነይ ርእየ'የ",
+          "ብሓያል ቅልጽሙ ካብ ሞት ተሪፈ'የ",
+          "ብኽያተይ ብደስታ ንዝለወጠለይ",
+          "ምስጋና ይኹኖ እግዚአብሔር ኣምላኸይ",
+          "ሓሳበይ ሰመረ ናይ ልበይ ትምኒት",
+          "ንብዓተይ ተደርዘ ቤተይ መልኣ ሃሴት",
+          "ንዕኡ ክዝምር ክቓንየሉ'የ",
+          "ጐይታ ስለ ፍቕሩ እንታይ ክኸፍሎ'የ"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ዲ/ን ምንዳየ ብርሃኑ",
+          "50. ንሥላሴ ኣመስግኑ",
+          "ንዓለማት ኵሉ ዝፈጠረ ጐይታ",
+          "ምስጋና ይግባእ ክሳብ መወዳእታ",
+          "ሱራፌል ኪሩቤል ንዘመስግኑኻ",
+          "መላእክት ኣብ ሰማይ ንዝውድሱኻ",
+          "ንሕና ደቂ ኣዳም’ውን ንዝምረልካ",
+          "ኣብ ሰማይ ኣብ ምድሪ ንጽውዕ ንስምካ",
+          "እንተጠመኹ’ውን ብሥላሴ እጸግብ",
+          "እንተ ጸማእኩ’ውን ብሥላሴ እረዊ",
+          "ሥላሴ እምባ`ዩ መጸግዕየይ",
+          "ንዓይ ይመርሓኒ ናይ እምነት ጎደና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንሥላሴ ኣመስግኑ",
-      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
-      "lyrics": "[[chorus]]\nንሥላሴ ኣመስግኑ (2)\nናይ ምድሪ ፍጥረታት ዘምሩ ዕልል በሉ\n[[/chorus]]\n\nበስመ ኣብ ወወልድ ወመንፈስ ቅዱስ\nምስጋና ይግባእ ንሥሉስ ቅዱስ\nንዓለማት ኵሉ ዝፈጠረ ጐይታ\nምስጋና ይግባእ ክሳብ መወዳእታ\n\nእንተጠመኹ’ውን ብሥላሴ እጸግብ\nእንተ ጸማእኩ’ውን ብሥላሴ እረዊ\nሥላሴ እምባ`ዩ መጸግዕየይ\nንዓይ ይመርሓኒ ናይ እምነት ጎደና"
-    },
-    "ti_ro": {
-      "title": "NSslase amesgnu",
-      "zemari": "di/n mndaye brhanu",
-      "lyrics": "[[chorus]]\nNsslase amesgnu (2)\n[[/chorus]]\n\nNay mdri ftretat zemru ll belu\nBesme ab weweld wemenfes qdus\nMsgana ygba nsslus qdus\nNalemat kwilu zfetere goyta\nMsgana ygba ksab mewedata\nSurafel kirubel nzemesgnukha\nMelakt ab semay nzwdsukha\nNhna deqi adam’wn nzmrelka\nAb semay ab mdri ntsw nsmka\nNtetemekhu’wn bsslase tsegb\nNte tsemaku’wn bsslase rewi\nSslase mba`yu metsegyey\nNay ymerhani nay mnet godena"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Wegrma lebasite moges wegrma /2/",
+      "Iyerusalem /2/ hagere selam",
+      "Ts'ega moges grma telbsna'khi",
+      "Ade adonay kabana aytrhaqi",
+      "Fqrn thtnan qesimna kabakhi",
+      "Nay ts'ega gmja bet mahderu ikhi",
+      "Lbna nkwga bnay hazen kwnat",
+      "Nabakhints'ga' nafsesna nb'at",
+      "Bdmts'khi muz nktdbsna",
+      "Sh'u ina nnagef kab merir hazena",
+      "Nay ts'dqi ts'ehay brhan beriqulna",
+      "Kab zefrh ts'elmat kab ma'muq wets'ana",
+      "Ayn'arqn dagmay ndegena",
+      "Wedkhi krstos lebisnayo ina"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Di/n tadewos grma"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Temesgen /3/ gwaytaye temesgen gwaytaye",
+          "Mkhal sineyo bezihu gebeney",
+          "Bakha amlakhey teshefinu gudey",
+          "Nabra meriruni fetena ms kone",
+          "Hywet kebiduni mkhalu sine",
+          "Kwlu gn gwaytaye nts'buq gerkayo",
+          "Amlakh nw'letka bmntay kfedyo",
+          "Kemti natey hasab ntezeyselet'e",
+          "Temesgen’ye zbl w'letka felit'e",
+          "Mst'ir wsht'i betey nsu’yu zfelt'o",
+          "Gebeney shefinu hywetey lewet'o"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "49. Ntay’ye kmels",
+          "Ntay’ye kmels ane",
+          "Ngziebher nzgebereley /2/",
+          "Qdmiu qewm nmqrab msganay",
+          "Zmr n'u derazi nb'atey",
+          "W'letu bzuh'yu zgebero n'ay",
+          "Nkzng'ani zemedey wegeney",
+          "Kemey ile kgelts'o nnay amlakh srah",
+          "Awts'iuni'yumo kab ch'nqi mekera",
+          "Zeygebereley ntay alo gwaytay",
+          "Temesgen kblo'ye be'al w'letey",
+          "Wediqe keyterf atensikani'kha",
+          "Temesgen gziebher ntay yseaneka",
+          "Mdhan nay amlakhey b'ayney rye'ye",
+          "Bhayal qlts'mu kab mot terife'ye",
+          "Bkhyatey bdesta nzlewet'eley",
+          "Msgana ykhuno gziebher amlakhey",
+          "Hasabey semere nay lbey tmnit",
+          "Nb'atey tederze betey mela haset",
+          "N'u kzmr kqanyelu'ye",
+          "Gwayta sle fqru ntay kkheflo'ye"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Di/n mndaye brhanu",
+          "50. Nsslase amesgnu",
+          "N'alemat kwlu zfet'ere gwayta",
+          "Msgana ygba ksab mewedata",
+          "Surafel kirubel nzemesgnukha",
+          "Melakt ab semay nzwdsukha",
+          "Nhna deqi adam’wn nzmrelka",
+          "Ab semay ab mdri nts'w' nsmka",
+          "Ntet'emekhu’wn bsslase ts'egb",
+          "Nte ts'emaku’wn bsslase rewi",
+          "Sslase mba`yu mets'eg'yey",
+          "N'ay ymerhani nay mnet godena"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split",
+    "verse_4_possible_page_split"
+  ]
 }

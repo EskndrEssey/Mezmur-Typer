@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_749ac45578",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣደ ሩፍታይ"
+  "id": 180,
+  "title": "ኣደ ሩፍታይ",
+  "ti": {
+    "chorus": [
+      "እንታይ’ሞ ክብል’የ ስለዚ ልግሲ ወትሩ ዚምስገኖ",
+      "ካብዚ ፍቕሩ ፍቕርኺ ትርፊ ምስ ሃበ ነዓኺ ፈቃር እኖ(2)",
+      "‘ታዝኽእላ ግን ክብል ስለኺ ድንግል ኣደ ሩፍታይ ምስጋናይ እንሆ",
+      "ተምሳል ዑፍ ንደቃ ክንፋ ዘይትበቆ",
+      "‘ናበልኩ ከስተንክር ሓልዮትኪ ከድንቖ",
+      "መዓስ’ሞ’ለዮ ንቦቕቧቕ ከርሥኺ",
+      "ሕልፊ’ለዎ ናትክስ ኣብ ትሕቲ ወድኺ",
+      "ቅኒተይ እንዲኺ ወስታ ጸናጽለይ",
+      "ጥበብ ወስኽኒ ከመስግን ኣኽሊለይ(2)",
+      "ሳርማ ጠሊ ሄርሞን ከርሡ ዘፈልፈሎ",
+      "ኣይበቐቕክን ምቕሉ ዝባንኪ እንክሓዝሎ",
+      "ኣይኮነን ሰብ ዝኣነ ንጽምአይ ሓታቲ",
+      "እንስሳ’ኳ ኣጥሊልክስ ኮይኑ’ሎ ትምህርቲ",
+      "ሸንሃት ኵልንትናይ ምስጢር መቐረተይ",
+      "ልመናይ እንሆ ኣሥምሪ ጸሎተይ (2)",
+      "‘ዛ ውጽዕቲ ነፍሰይ ትብሎ’ኳ ዘይብላ",
+      "ሥጋይ ናብ ተብሎ ዶ’ይኮነን ምዓላ",
+      "ቤቱ እንተምረጽኩዋ ከንብራ ኣብ ሰላሙ",
+      "ዘይብደገፍኪ’ያ  እትሕሉ  ስጕሙ",
+      "ኢድ’ናነሳእኩ ሰላም ለኪ ክብል",
+      "ኣዘክሪ እመብርሃን ስብሐተይ ናብ ልዑል (2)",
+      "ሕሰም ስደት ግብፂ ገና ከይረስዐ",
+      "ብሴፍ ስቓይ ጐይታ ልብኺ ተበስዐ",
+      "ስቕለቱን እንክብል ለውሃትክን ሂቡኒ",
+      "ሽፋን ድርብ ፍቕሪ ከም ንመርዓት ዓይኒ"
+    ],
+    "verses": []
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣደ ሩፍታይ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nተምሳል ዑፍ ንደቃ ክንፋ ዘይትበቆ\n‘ናበልኩ ከስተንክር ሓልዮትኪ ከድንቖ\nመዓስ’ሞ’ለዮ ንቦቕቧቕ ከርሥኺ\nሕልፊ’ለዎ ናትክስ ኣብ ትሕቲ ወድኺ\nቅኒተይ እንዲኺ ወስታ ጸናጽለይ\nጥበብ ወስኽኒ ከመስግን ኣኽሊለይ(2)\n[[/chorus]]\n\nእንታይ’ሞ ክብል’የ ስለዚ ልግሲ ወትሩ ዚምስገኖ\nካብዚ ፍቕሩ ፍቕርኺ ትርፊ ምስ ሃበ ነዓኺ ፈቃር እኖ(2)\n‘ታዝኽእላ ግን ክብል ስለኺ ድንግል ኣደ ሩፍታይ ምስጋናይ እንሆ\n\nሳርማ ጠሊ ሄርሞን ከርሡ ዘፈልፈሎ\nኣይበቐቕክን ምቕሉ ዝባንኪ እንክሓዝሎ\nኣይኮነን ሰብ ዝኣነ ንጽምአይ ሓታቲ\nእንስሳ’ኳ ኣጥሊልክስ ኮይኑ’ሎ ትምህርቲ\nሸንሃት ኵልንትናይ ምስጢር መቐረተይ\nልመናይ እንሆ ኣሥምሪ ጸሎተይ (2)\n\nሕሰም ስደት ግብፂ ገና ከይረስዐ\nብሴፍ ስቓይ ጐይታ ልብኺ ተበስዐ\nስቕለቱን እንክብል ለውሃትክን ሂቡኒ\nሽፋን ድርብ ፍቕሪ ከም ንመርዓት ዓይኒ\nኣሎኒ ውዕለቱ ልበይ ዘዋህለሎ\nባርኽኒ ማርያመይ ‘ቲ ናይ ውሽጠይ ክብሎ (2)"
-    },
-    "ti_ro": {
-      "title": "Ade ruftay",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Ntay’mo kbl’ye slezi lgsi wetru zimsgeno\nKabzi fqru fqrkhi trfi ms habe neakhi feqar no(2)\n‘Tazkhla gn kbl slekhi dngl ade ruftay msganay nho\nTemsal uf ndeqa knfa zeytbeqo\n‘Nabelku kestenkr halyotki kednqo\nMeas’mo’leyo nboqbwaq kersskhi\nHlfi’lewo natks ab thti wedkhi\nQnitey ndikhi westa tsenatsley\nTbeb weskhni kemesgn akhliley(2)\nSarma teli hermon kersu zefelfelo\nAybeqeqkn mqlu zbanki nkhazlo\nAykonen seb zane ntsmay hatati\nNssa’kwa atlilks koynu’lo tmhrti\nShenhat kwilntnay mstir meqeretey\nLmenay nho assmri tselotey (2)\n‘Za wtsti nefsey tblo’kwa zeybla\nSsgay nab teblo do’ykonen mala\nBetu ntemretskuwa kenbra ab selamu\nZeybdegefki’ya thlu sgwimu\nId’nanesaku selam leki kbl\nAzekri mebrhan sbhatey nab lul (2)\nHsem sdet gbtsi gena keyresa\nBsef sqay goyta lbkhi tebesa\nSqletun nkbl lewhatkn hibuni\nShfan drb fqri kem nmerat ayni\nAloni wletu lbey zewahlelo\nBarkhni maryamey ‘ti nay wshtey kblo (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ntay’mo kbl’ye slezi lgsi wetru zimsgeno",
+      "Kabzi fqru fqrkhi trfi ms habe ne'akhi feqar no(2)",
+      "‘Tazkhla gn kbl slekhi dngl ade ruftay msganay nho",
+      "Temsal 'uf ndeqa knfa zeytbeqo",
+      "‘Nabelku kestenkr halyotki kednqo",
+      "Me'as’mo’leyo nboqቧq kersskhi",
+      "Hlfi’lewo natks ab thti wedkhi",
+      "Qnitey ndikhi westa ts'enats'ley",
+      "T'beb weskhni kemesgn akhliley(2)",
+      "Sarma t'eli hermon kerssu zefelfelo",
+      "Aybeqeqkn mqlu zbanki nkhazlo",
+      "Aykonen seb zane nts'mey hatati",
+      "Nssa’kwa at'lilks koynu’lo tmhrti",
+      "Shenhat kwlntnay mst'ir meqeretey",
+      "Lmenay nho assmri ts'elotey (2)",
+      "‘Za wts''ti nefsey tblo’kwa zeybla",
+      "Ssgay nab teblo do’ykonen m'ala",
+      "Betu ntemrets'kuwa kenbra ab selamu",
+      "Zeybdegefki’ya  thlu  sgwmu",
+      "Id’nanesaku selam leki kbl",
+      "Azekri mebrhan sbhetey nab l'ul (2)",
+      "Hsem sdet gbts'i gena keyres'e",
+      "Bsef sqay gwayta lbkhi tebes'e",
+      "Sqletun nkbl lewhatkn hibuni",
+      "Shfan drb fqri kem nmer'at 'ayni"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

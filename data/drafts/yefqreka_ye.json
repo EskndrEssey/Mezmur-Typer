@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_1cd9ed4e8a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "የፍቅረካ’የ"
+  "id": 389,
+  "title": "የፍቅረካ’የ",
+  "ti": {
+    "chorus": [
+      "የፍቅረካ’የ ንስኻ ትፈልጥ ‘ምበር",
+      "ይኣምነካ ‘የ ሰልከልከል በዚኁኒ ‘ምበር",
+      "ክስዕበካ’የ ምሉእ ፍቕሪ ዓድለኒ",
+      "ጉድለት እምነተይ ኣርሒቕካስ ተቐበለኒ",
+      "ኣሚነን ወሲነን ወገን ናትካ ኮይነ ተሰሊፈ እንድየ ጐይታይ",
+      "እንታይ ደኣ ኮይኑ ጸጋይ ተገፊፉ ካልእ ኮይኑ ዕላማይ",
+      "የፍቅረካ ክብል ፍረ ይስእነሉ ተግባረይ ይጎድለኒ",
+      "ውሑድ’ዩ እምነተይ በርቲዐ ክትንስእ ባዕልኻ ወስኸኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዓስቢ ዓለም ደልየ ፍቓዳ መሊኤ ዓጊበ’ኳ ኣይፈልጥን",
+          "መሊአ ጎዲለ ተፈራሪቐ ’ምበር ሓሳበይ ኣየዕረፈን",
+          "ምሳኻ ግን ኣሎ ፍጹም ጣዕሚ ሕይወት ጀሚሩ ዘየቋርጽ",
+          "ፍቓድካ ክመልእ ፍቓድካ ይኹነለይ ተለዊጠ ክሕደስ",
+          "ክድምድም’የ ገና ፍጻሜ ኣይረኸብኩን ክሳብ ቦታ ዕረፍተይ",
+          "ክትንስእ ’የ ጌና ክጋደል ድማ ’የ  ክቕጽሎ መንገደይ",
+          "ሳህልኻን ምሕረትካን ደገፍ ክኾናኒ ክስዕባኒ ’የን ጐይታይ",
+          "ብተስፋ ክነጽህ ጽውአይ ከንጀርብብ ኣብ ሰማያዊት ቤተይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "የፍቅረካ’የ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣሚነን ወሲነን ወገን ናትካ ኮይነ ተሰሊፈ እንድየ ጐይታይ\nእንታይ ደኣ ኮይኑ ጸጋይ ተገፊፉ ካልእ ኮይኑ ዕላማይ\nየፍቅረካ ክብል ፍረ ይስእነሉ ተግባረይ ይጎድለኒ\nውሑድ’ዩ እምነተይ በርቲዐ ክትንስእ ባዕልኻ ወስኸኒ\n[[/chorus]]\n\nየፍቅረካ’የ ንስኻ ትፈልጥ ‘ምበር\nይኣምነካ ‘የ ሰልከልከል በዚኁኒ ‘ምበር\nክስዕበካ’የ ምሉእ ፍቕሪ ዓድለኒ\nጉድለት እምነተይ ኣርሒቕካስ ተቐበለኒ\n\nዓስቢ ዓለም ደልየ ፍቓዳ መሊኤ ዓጊበ’ኳ ኣይፈልጥን\nመሊአ ጎዲለ ተፈራሪቐ ’ምበር ሓሳበይ ኣየዕረፈን\nምሳኻ ግን ኣሎ ፍጹም ጣዕሚ ሕይወት ጀሚሩ ዘየቋርጽ\nፍቓድካ ክመልእ ፍቓድካ ይኹነለይ ተለዊጠ ክሕደስ"
-    },
-    "ti_ro": {
-      "title": "Yefqreka’ye",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Yefqreka’ye nskha tfelt ‘mber\nYamneka ‘ye selkelkel bezihuni ‘mber\nKsbeka’ye mlu fqri adleni\nGudlet mnetey arhiqkas teqebeleni\nAminen wesinen wegen natka koyne teselife ndye goytay\nNtay dea koynu tsegay tegefifu kal koynu lamay\nYefqreka kbl fre ysnelu tegbarey ygodleni\nWhud’yu mnetey bertia ktns balkha weskheni\nAsbi alem delye fqada melie agibe’kwa ayfeltn\nMelia godile teferariqe ’mber hasabey ayerefen\nMsakha gn alo ftsum tami hywet jemiru zeyeqwarts\nFqadka kmel fqadka ykhuneley telewite khdes\nKdmdm’ye gena ftsame ayrekhebkun ksab bota reftey\nKtns ’ye gena kgadel dma ’ye kqtslo mengedey\nSahlkhan mhretkan degef kkhonani ksbani ’yen goytay\nBtesfa knetsh tsway kenjerbb ab semayawit betey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Yefqreka’ye nskha tfelt' ‘mber",
+      "Yamneka ‘ye selkelkel bezihuni ‘mber",
+      "Ks'beka’ye mlu fqri 'adleni",
+      "Gudlet mnetey arhiqkas teqebeleni",
+      "Aminen wesinen wegen natka koyne teselife ndye gwaytay",
+      "Ntay dea koynu ts'egay tegefifu kal koynu 'lamay",
+      "Yefqreka kbl fre ysnelu tegbarey ygodleni",
+      "Whud’yu mnetey berti'e ktns ba'lkha weskheni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Asbi 'alem delye fqada melie 'agibe’kwa ayfelt'n",
+          "Melie godile teferariqe ’mber hasabey aye'refen",
+          "Msakha gn alo fts'um t'a'mi hywet jemiru zeyeqwarts'",
+          "Fqadka kmel fqadka ykhuneley telewit'e khdes",
+          "Kdmdm’ye gena fts'ame ayrekhebkun ksab bota 'reftey",
+          "Ktns ’ye gena kgadel dma ’ye  kqts'lo mengedey",
+          "Sahlkhan mhretkan degef kkhonani ks'bani ’yen gwaytay",
+          "Btesfa knets'h ts'wey kenjerbb ab semayawit betey"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

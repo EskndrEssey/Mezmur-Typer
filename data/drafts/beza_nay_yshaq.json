@@ -1,44 +1,61 @@
 {
-  "id": "h_efr_0396d3efbd",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቤዛ ናይ ይስሓቅ"
+  "id": 839,
+  "title": "ቤዛ ናይ ይስሓቅ",
+  "ti": {
+    "chorus": [
+      "ቤዛ ናይ ይስሓቅ ኣምላከ ኣብርሃም /2/",
+      "ንኹሎም ወገኑ ዓደጎም ብደም /2/",
+      "ብሓሶት ምስክር ከሰሱ ንጐይታ /2/",
+      "ብሞት ንኽቕጻዕ ጨርሑ ብዓውታ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጲላጦስ ገረፎ ሰንሰለት ብምእሳር /2/",
+          "ምስ መንግስተ ሮማ ብሓሳብ ብምስማር /2/",
+          "ድንግል ኣይከኣለትን ከተቋርጽ ንብዓት /2/",
+          "እናረኣየት ወዳ ክሳቐ ስቅያት /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ዝፋን ናይ ብርሃን ዝቖማ ኣእጋር /2/",
+          "ከመይ ተዓገሳ ንናይ መስቀል ሽንካር /2/",
+          "ኣኽሊል ናይ ብርሃን ኣብ ሰማይ ዝዕድል /2/",
+          "ደፊኡ ወዓለ ንናይ እሾኽ ኣኽሊል /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቤዛ ናይ ይስሓቅ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nብሓሶት ምስክር ከሰሱ ንጐይታ (2)\nብሞት ንኽቕጻዕ ጨርሑ ብዓውታ (2)\n[[/chorus]]\n\nቤዛ ናይ ይስሓቅ ኣምላከ ኣብርሃም (2)\nንኹሎም ወገኑ ዓደጎም ብደም (2)\n\nጲላጦስ ገረፎ ሰንሰለት ብምእሳር (2)\nምስ መንግስተ ሮማ ብሓሳብ ብምስማር (2)\n\nኣብ ዝፋን ናይ ብርሃን ዝቖማ ኣእጋር (2)\nከመይ ተዓገሳ ንናይ መስቀል ሽንካር (2)"
-    },
-    "ti_ro": {
-      "title": "Beza nay yshaq",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nBeza nay yshaq amlake abrham (2)\n[[/chorus]]\n\nNkhulom wegenu adegom bdem (2)\nBhasot mskr kesesu ngoyta (2)\nBmot nkhqtsa cherhu bawta (2)\nPilatos gerefo senselet bmsar (2)\nMs mengste roma bhasab bmsmar (2)\nDngl aykealetn keteqwarts nbat (2)\nNareayet weda ksaqe sqyat (2)\nAb zfan nay brhan zqoma agar (2)\nKemey teagesa nnay mesqel shnkar (2)\nAkhlil nay brhan ab semay zdl (2)\nDefiu weale nnay shokh akhlil (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Beza nay yshaq amlake abrham /2/",
+      "Nkhulom wegenu 'adegom bdem /2/",
+      "Bhasot mskr kesesu ngwayta /2/",
+      "Bmot nkhqts'a' ch'erhu b'awta /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "P'ilat'os gerefo senselet bmsar /2/",
+          "Ms mengste roma bhasab bmsmar /2/",
+          "Dngl aykealetn keteqwarts' nb'at /2/",
+          "Nareayet weda ksaqe sqyat /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab zfan nay brhan zqoma agar /2/",
+          "Kemey te'agesa nnay mesqel shnkar /2/",
+          "Akhlil nay brhan ab semay z'dl /2/",
+          "Defiu we'ale nnay shokh akhlil /2/"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "short_fragment"
-  ]
+  "needs_review": []
 }

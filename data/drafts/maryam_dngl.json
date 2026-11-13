@@ -1,41 +1,83 @@
 {
-  "id": "h_efr_1044f4ad51",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ማርያም ድንግል"
+  "id": 446,
+  "title": "ማርያም ድንግል",
+  "ti": {
+    "chorus": [
+      "አረ ነዓ /3/ ሊቀ መላእክት       >>  >>",
+      "ኣቦ ናይ ኵልና ቅዱስ ሚካኤል    >>  >>",
+      "አረ ነዓ /3/ ኣብሳሬ ትፍስሕት    >>  >>",
+      "ኣቦ ናይ ኵልና ቅዱስ ገብርኤል   >>  >>",
+      "አረ ነዓ /3/ ከፋቴ ማህጸን       >>  >>",
+      "ኣቦ ናይ ኵልና ቅዱስ ሩፋኤል   >>  >>",
+      "ኣበይ ደኣ ኣሎ አቲ ዕልልታኹም",
+      "ንሱዶ ኣይኮነን መግለጺ ሓጎስኩም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "አረ ነዓ /3/ በሰላም         ማርያም ድንግል",
+          "ኣቦ ናይ ኵልና ቅዱስ ዑራኤል   >>    >>",
+          "አረ ነዓ /3/ ፈዋሴ ዱያን        >>    >>",
+          "ኣቦ ናይ ኵልና አቡነ እንድርያስ >>   >>",
+          "አረ ነዓ /3/ከፋሌ ባሕር         >>   >>",
+          "ኣቦ ናይ ኵልና ኤዎስጣቴዎስ   >>    >>",
+          "አረ ነዓ /3/ ሊቀ ሰማዕት       >>    >>",
+          "ኣቦ ናይ ኵልና ቅዱስ ጊዮርጊስ >>    >>",
+          "አረ ንዒ /3/ በትረ ማርያም     >>   >>",
+          "ኣደ ናይ ኵልና ክርስቶስ ሰምራ >>   >>",
+          "ኣበይ ደኣ ኣሎ አቲ ጣቕዒትኩም",
+          "ንሱዶ ኣይኮነን መግለጺ ሓጎስኩም",
+          "ዘይውዳእ ምሕረት ምስ ወድኺ ኣሎ    ማርያም ድንግል",
+          "ነቲ ዝኣምነኪ ሰላምኪ ሃብዮ                   >>   >>",
+          "ነቲ ባሕሪ ሓዊ ብዓይነይ ከይርእዮ            >>   >>",
+          "ንቅዱስ ሚካኤል ኣሕልፎ በልዮ                >>   >>",
+          "ኣበይ ደኣ ኣሎ አቲ ዕልልታኹም                >>   >>",
+          "ንሱዶ ኣይኮነን መግለጺ ሓጎስኩም             >>   >>",
+          "ኣበይ ደኣ ኣሎ አቲ ጣቕዒትኩም",
+          "ንሱዶ ኣይኮነን መግለጺ ሓጎስኩም"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ማርያም ድንግል",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nአረ ንዒ (3) በደመና      ማርያም ድንግል\nኣደ ናይ ኵልና ርህርህተ ሕሊና\nአረ ነዓ (3) ሊቀ መላእክት\nኣቦ ናይ ኵልና ቅዱስ ሚካኤል\nአረ ነዓ (3) ኣብሳሬ ትፍስሕት\nኣቦ ናይ ኵልና ቅዱስ ገብርኤል\nአረ ነዓ (3) ከፋቴ ማህጸን\nኣቦ ናይ ኵልና ቅዱስ ሩፋኤል\nኣበይ ደኣ ኣሎ አቲ ዕልልታኹም\nንሱዶ ኣይኮነን መግለጺ ሓጎስኩም\n[[/chorus]]\n\nማርያም ድንግል (5)\nወላዲተ ቃል\n\nአረ ነዓ (3) በሰላም      ማርያም ድንግል\nኣቦ ናይ ኵልና ቅዱስ ዑራኤል\nአረ ነዓ (3) ፈዋሴ ዱያን\nኣቦ ናይ ኵልና አቡነ እንድርያስ\nአረ ነዓ (3)ከፋሌ ባሕር\nኣቦ ናይ ኵልና ኤዎስጣቴዎስ\nአረ ነዓ (3) ሊቀ ሰማዕት\nኣቦ ናይ ኵልና ቅዱስ ጊዮርጊስ\nአረ ንዒ (3) በትረ ማርያም\nኣደ ናይ ኵልና ክርስቶስ ሰምራ\nኣበይ ደኣ ኣሎ አቲ ጣቕዒትኩም\nንሱዶ ኣይኮነን መግለጺ ሓጎስኩም"
-    },
-    "ti_ro": {
-      "title": "Maryam dngl",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nMaryam dngl (5)\n[[/chorus]]\n\nWeladite qal\nAre ni (3) bedemena maryam dngl\nAde nay kwilna rhrhte hlina\nAre nea (3) liqe melakt\nAbo nay kwilna qdus mikael\nAre nea (3) absare tfsht\nAbo nay kwilna qdus gebrel\nAre nea (3) kefate mahtsen\nAbo nay kwilna qdus rufael\n\nAre nea (3) beselam maryam dngl\nAbo nay kwilna qdus urael\nAre nea (3) fewase duyan\nAbo nay kwilna abune ndryas\nAre nea (3)kefale bahr\nAbo nay kwilna ewostatewos\nAre nea (3) liqe semat\nAbo nay kwilna qdus giyorgis\nAre ni (3) betre maryam\nAde nay kwilna krstos semra\nAbey dea alo ati taqitkum\nNsudo aykonen megletsi hagoskum\nZeywda mhret ms wedkhi alo maryam dngl\nNeti zamneki selamki habyo\nNeti bahri hawi bayney keyryo\nNqdus mikael ahlfo belyo\n\nAbey dea alo ati taqitkum\nNsudo aykonen megletsi hagoskum"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ere ne'a /3/ liqe melakt       >>  >>",
+      "Abo nay kwlna qdus mikael    >>  >>",
+      "Ere ne'a /3/ absare tfsht    >>  >>",
+      "Abo nay kwlna qdus gebrel   >>  >>",
+      "Ere ne'a /3/ kefate mahts'en       >>  >>",
+      "Abo nay kwlna qdus rufael   >>  >>",
+      "Abey dea alo eti 'lltakhum",
+      "Nsudo aykonen meglets'i hagoskum"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ere ne'a /3/ beselam         maryam dngl",
+          "Abo nay kwlna qdus 'urael   >>    >>",
+          "Ere ne'a /3/ fewase duyan        >>    >>",
+          "Abo nay kwlna ebune ndryas >>   >>",
+          "Ere ne'a /3/kefale bahr         >>   >>",
+          "Abo nay kwlna ewost'atewos   >>    >>",
+          "Ere ne'a /3/ liqe sema't       >>    >>",
+          "Abo nay kwlna qdus giyorgis >>    >>",
+          "Ere n'i /3/ betre maryam     >>   >>",
+          "Ade nay kwlna krstos semra >>   >>",
+          "Abey dea alo eti t'aq'itkum",
+          "Nsudo aykonen meglets'i hagoskum",
+          "Zeywda mhret ms wedkhi alo    maryam dngl",
+          "Neti zamneki selamki habyo                   >>   >>",
+          "Neti bahri hawi b'ayney keyryo            >>   >>",
+          "Nqdus mikael ahlfo belyo                >>   >>",
+          "Abey dea alo eti 'lltakhum                >>   >>",
+          "Nsudo aykonen meglets'i hagoskum             >>   >>",
+          "Abey dea alo eti t'aq'itkum",
+          "Nsudo aykonen meglets'i hagoskum"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

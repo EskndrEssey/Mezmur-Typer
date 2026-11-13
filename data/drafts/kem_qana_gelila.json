@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_9a9fa68aab",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ቃና ገሊላ"
+  "id": 302,
+  "title": "ከም ቃና ገሊላ",
+  "ti": {
+    "chorus": [
+      "ከም ቃና ገሊላ ከብካብ ዝኾነሉ",
+      "ተኣምራት ጐይታ ኣብዚ ቤት ዓሲሉ /2/",
+      "ሽሻይ ሃሊቕዎ ውራዩ ከይነውር",
+      "ወይኒ ነጺፍዎ ቅድሚ ሰብ ከይሓፍር",
+      "ስእለት ድንግል ማርያም ኣብኡ ምስ ተሰምዐ",
+      "ሕንከት ናይ ዶኪማስ ንእለት ተረትዐ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሃለዋት እምባ ጽዮን ኣብቲ ዕርቃን ጭንቂ",
+          "ብህሞት ምንዳቤ ኮይንናዩ ስንቂ",
+          "ውህበት ጸጋ ትማል ረኺብናሉ ፍረ",
+          "ጸላኢ ሰናያት ብፍጹም ተሳዕረ",
+          "ከምቲ ማዕከን ግርሁ ዝተሓፍሶ እቶት",
+          "መርሓ ቅድስና ንልቦና ፍኖት",
+          "ደብተራ ፍጽምት ርህርህተ ሕሊና",
+          "ትውክልቲ ፍጡራት ኣርያም ጐይታና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣደ ነፍሰ ሥጋ እያ ማርያም ድንግል",
+          "ንላባ ረሲኣን ብሓልዮት ትኽልክል",
+          "ኣውጊሓቶ ጸላም ንዘመን ኩነኔ",
+          "ስብህቲ በልዋ ኣውርዩላ ቅኔ",
+          "ሎሚ ክትባርኾ ነዚ ቅዱስ ዕለት",
+          "በትሪ ኣሮን ትምጻእ ክትህበና ሕይወት",
+          "ጽላል ተውድቐሉ ነዚ ቅዱስ መርዓ",
+          "ብጽድቂ ክነብሩ ሓዲሶም መብጽዓ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ቃና ገሊላ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nሽሻይ ሃሊቕዎ ውራዩ ከይነውር\nወይኒ ነጺፍዎ ቅድሚ ሰብ ከይሓፍር\nስእለት ድንግል ማርያም ኣብኡ ምስ ተሰምዐ\nሕንከት ናይ ዶኪማስ ንእለት ተረትዐ\n[[/chorus]]\n\nከም ቃና ገሊላ ከብካብ ዝኾነሉ\nተኣምራት ጐይታ ኣብዚ ቤት ዓሲሉ (2)\n\nሃለዋት እምባ ጽዮን ኣብቲ ዕርቃን ጭንቂ\nብህሞት ምንዳቤ ኮይንናዩ ስንቂ\nውህበት ጸጋ ትማል ረኺብናሉ ፍረ\nጸላኢ ሰናያት ብፍጹም ተሳዕረ\n\nኣደ ነፍሰ ሥጋ እያ ማርያም ድንግል\nንላባ ረሲኣን ብሓልዮት ትኽልክል\nኣውጊሓቶ ጸላም ንዘመን ኩነኔ\nስብህቲ በልዋ ኣውርዩላ ቅኔ"
-    },
-    "ti_ro": {
-      "title": "Kem qana gelila",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "[[chorus]]\nTeamrat goyta abzi bet asilu (2)\n[[/chorus]]\n\nKem qana gelila kebkab zkhonelu\nShshay haliqwo wrayu keynewr\nWeyni netsifwo qdmi seb keyhafr\nSlet dngl maryam abu ms tesema\nHnket nay dokimas nlet tereta\nHalewat mba tsyon abti rqan chnqi\nBhmot mndabe koynnayu snqi\nWhbet tsega tmal rekhibnalu fre\nTselai senayat bftsum tesare\nKemti maken grhu ztehafso tot\nMerha qdsna nlbona fnot\nDebtera ftsmt rhrhte hlina\nTwklti fturat aryam goytana\nAde nefse ssga ya maryam dngl\nNlaba resian bhalyot tkhlkl\nAwgihato tselam nzemen kunene\nSbhti belwa awryula qne\nLomi ktbarkho nezi qdus let\nBetri aron tmtsa kthbena hywet\nTslal tewdqelu nezi qdus mera\nBtsdqi knebru hadisom mebtsa"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kem qana gelila kebkab zkhonelu",
+      "Teamrat gwayta abzi bet 'asilu /2/",
+      "Shshay haliqwo wrayu keynewr",
+      "Weyni nets'ifwo qdmi seb keyhafr",
+      "Slet dngl maryam abu ms tesem'e",
+      "Hnket nay dokimas nlet teret'e"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Halewat mba ts'yon abti 'rqan ch'nqi",
+          "Bhmot mndabe koynnayu snqi",
+          "Whbet ts'ega tmal rekhibnalu fre",
+          "Ts'elai senayat bfts'um tesa're",
+          "Kemti ma'ken grhu ztehafso tot",
+          "Merha qdsna nlbona fnot",
+          "Debtera fts'mt rhrhte hlina",
+          "Twklti ft'urat aryam gwaytana"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ade nefse Ssga ya maryam dngl",
+          "Nlaba resian bhalyot tkhlkl",
+          "Awgihato ts'elam nzemen kunene",
+          "Sbhti belwa awryula qne",
+          "Lomi ktbarkho nezi qdus 'let",
+          "Betri aron tmts'a kthbena hywet",
+          "Ts'lal tewdqelu nezi qdus mer'a",
+          "Bts'dqi knebru hadisom mebts''a"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

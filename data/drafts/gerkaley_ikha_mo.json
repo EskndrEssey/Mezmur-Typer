@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_dbefd12274",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ጌርካለይ ኢኻ’ሞ"
+  "id": 450,
+  "title": "ጌርካለይ ኢኻ’ሞ",
+  "ti": {
+    "chorus": [
+      "ጌርካለይ ኢኻ’ሞ ነዓይ ብምሕረትካ",
+      "የመስግነካ’ለኹ ዕልል ዕልል",
+      "ለዓለመ ዓለም ኣማኑኤል",
+      "ክግዝኣካየ መድኃኔ ዓለም",
+      "ቀትሪ ጸልሚቱኒ ጸድፊ ከቢቡኒ",
+      "ሽግርን መከራን ንዓይ ከቢዱኒ",
+      "ከምዘይትገድፈኒ ሎሚ ፈሊጠ’የ",
+      "ካብ ኵሉ ንላዕሊ ብኣኻ ኣሚነ’የ",
+      "ንውሑድ ኣብዚሕካ እትምግብ ጐይታ",
+      "እንታይ`ሞ ኣሎኒ ንዓኻ ዝህበካ",
+      "ለይቲ ምስ መዓልቲ ኵሉ ሳዕ ተብርህ",
+      "መንክር ብባህሪኻ ብስራሕካ ዕጹብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኦ ኣምላኽ ምስጋና ይግባእ ንዓኻ",
+          "ነዛ ምስኪን ገዛ በረኸት ዝሃብካ",
+          "ድኻ’የ ኣይብልን ሽሻየይ ንስኻ",
+          "ዕትሮይ መሊእካዮ ኣይተጉድሎን ኢኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ጌርካለይ ኢኻ’ሞ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nቀትሪ ጸልሚቱኒ ጸድፊ ከቢቡኒ\nሽግርን መከራን ንዓይ ከቢዱኒ\nመሲሉኒ ነይሩ ሓጋዚ ዘይብለይ\nንናይ ልበይ ሓዘን ፍጹም ኣርሒቕካለይ\n[[/chorus]]\n\nጌርካለይ ኢኻ’ሞ ነዓይ ብምሕረትካ\nየመስግነካ’ለኹ ዕልል ዕልል\nለዓለመ ዓለም ኣማኑኤል\nክግዝኣካየ መድኃኔ ዓለም\n\nኣምላኸይ ጉልበተይ ሓይለይ’ውን ከም ልበይ\nጸላኢ መሕፈሪ ዋልታ ናይ እምነተይ\nከምዘይትገድፈኒ ሎሚ ፈሊጠ’የ\nካብ ኵሉ ንላዕሊ ብኣኻ ኣሚነ’የ\n\nኦ ኣምላኽ ምስጋና ይግባእ ንዓኻ\nነዛ ምስኪን ገዛ በረኸት ዝሃብካ\nድኻ’የ ኣይብልን ሽሻየይ ንስኻ\nዕትሮይ መሊእካዮ ኣይተጉድሎን ኢኻ"
-    },
-    "ti_ro": {
-      "title": "Gerkaley ikha’mo",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Gerkaley ikha’mo neay bmhretka\nYemesgneka’lekhu ll ll\nLealeme alem amanuel\nKgzakaye medhane alem\nQetri tselmituni tsedfi kebibuni\nShgrn mekeran nay kebiduni\nMesiluni neyru hagazi zeybley\nNnay lbey hazen ftsum arhiqkaley\nAmlakhey gulbetey hayley’wn kem lbey\nTselai mehferi walta nay mnetey\nKemzeytgedfeni lomi felite’ye\nKab kwilu nlali bakha amine’ye\nNwhud abzihka tmgb goyta\nNtay`mo aloni nakha zhbeka\nLeyti ms mealti kwilu sa tebrh\nMenkr bbahrikha bsrahka tsub\nO amlakh msgana ygba nakha\nNeza mskin geza berekhet zhabka\nDkha’ye aybln shshayey nskha\nTroy melikayo aytegudlon ikha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gerkaley ikha’mo ne'ay bmhretka",
+      "Yemesgneka’lekhu 'll 'll",
+      "Le'aleme 'alem amanuel",
+      "Kgzakaye medhane 'alem",
+      "Qetri ts'elmituni ts'edfi kebibuni",
+      "Shgrn mekeran n'ay kebiduni",
+      "Kemzeytgedfeni lomi felit'e’ye",
+      "Kab kwlu nla'li bakha amine’ye",
+      "Nwhud abzihka tmgb gwayta",
+      "Ntay`mo aloni n'akha zhbeka",
+      "Leyti ms me'alti kwlu sa' tebrh",
+      "Menkr bbahrikha bsrahka 'ts'ub"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "O amlakh msgana ygba n'akha",
+          "Neza mskin geza berekhet zhabka",
+          "Dkha’ye aybln shshayey nskha",
+          "'Troy melikayo aytegudlon ikha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

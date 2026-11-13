@@ -1,41 +1,63 @@
 {
-  "id": "h_efr_3e732058e9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘፍቀረና"
+  "id": 325,
+  "title": "ዘፍቀረና",
+  "ti": {
+    "chorus": [
+      "ዝያዳ ኵሉ ፍጥረቱ ኣብሊጹ ንዘፍቀረና",
+      "ውሬታ ንምለሰሉ ብመዝሙር ምስጋና",
+      "ንምንጪ ሕይወት አምላክ ናይ ኣቦታትና",
+      "ብግብሪ ዓቢና ኣብ ቅድስት እምነትና /2/",
+      "ዘኽቲምና ክነብር ዘይሓደገና ኣቦ",
+      "ብርሃን’ዩ መርሓዊ ንኵሉ ዝጸበቦ",
+      "ብፍቕርን ሰላምን ንሕይወትና ዘጽለሎ",
+      "ንቕዱስ ኣምላኽና የብሉን ዝመስሎ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኽ ኣማልክት’ዩ ፍጹም ምሉእ ለዋህ",
+          "መስፈር ኣልቦ ፍቕሩ ብሓሳብ ዘይብጻሕ",
+          "ብበረኸት ወንጌል ብቅዱስ ምስጢሩ",
+          "ሕይወትና ዘድሓነ ጸላኢ ኣሲሩ /2/",
+          "ቁስልና ዝዝንን ሕያዋይ ሳምራዊ",
+          "ንሱ’ዩ አምላክና ክርስቶስ ኖላዊ",
+          "ኣሰሩ ንርገጾ ንስዓቦ ሓቢርና",
+          "ትንሳኤ ክንረክብ ንዕኡ መሲልና /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘፍቀረና",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nዘኽቲምና ክነብር ዘይሓደገና ኣቦ\nብርሃን’ዩ መርሓዊ ንኵሉ ዝጸበቦ\nብፍቕርን ሰላምን ንሕይወትና ዘጽለሎ\nንቕዱስ ኣምላኽና የብሉን ዝመስሎ (2)\n[[/chorus]]\n\nዝያዳ ኵሉ ፍጥረቱ ኣብሊጹ ንዘፍቀረና\nውሬታ ንምለሰሉ ብመዝሙር ምስጋና\nንምንጪ ሕይወት አምላክ ናይ ኣቦታትና\nብግብሪ ዓቢና ኣብ ቅድስት እምነትና (2)\n\nኣምላኽ ኣማልክት’ዩ ፍጹም ምሉእ ለዋህ\nመስፈር ኣልቦ ፍቕሩ ብሓሳብ ዘይብጻሕ\nብበረኸት ወንጌል ብቅዱስ ምስጢሩ\nሕይወትና ዘድሓነ ጸላኢ ኣሲሩ (2)\n\nመከራ ዝጾረ ከርሕቕ ኃጢኣትና\nብሥጋኡን ደሙን ሕይወት ዝሃበና\nኣሰሩ ንርገጾ ንስዓቦ ሓቢርና\nትንሳኤ ክንረክብ ንዕኡ መሲልና (2)"
-    },
-    "ti_ro": {
-      "title": "Zefqerena",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nBgbri abina ab qdst mnetna (2)\n[[/chorus]]\n\nZyada kwilu ftretu ablitsu nzefqerena\nWreta nmleselu bmezmur msgana\nNmnchi hywet amlak nay abotatna\nZekhtimna knebr zeyhadegena abo\nBrhan’yu merhawi nkwilu ztsebebo\nBfqrn selamn nhywetna zetslelo\nNqdus amlakhna yeblun zmeslo (2)\nAmlakh amalkt’yu ftsum mlu lewah\nMesfer albo fqru bhasab zeybtsah\nBberekhet wengel bqdus mstiru\nHywetna zedhane tselai asiru (2)\nQuslna zznn hyaway samrawi\nNsu’yu amlakna krstos nolawi\nKab tmal nab lomi zeyqyer nebari\nNzemr bhbret neti natu kbri (2)\nMekera ztsore kerhq hatiatna\nBssgaun demun hywet zhabena\nAseru nrgetso nsabo habirna\nTnsae knrekb nu mesilna (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Zyada kwlu ft'retu ablits'u nzefqerena",
+      "Wreta nmleselu bmezmur msgana",
+      "Nmnch'i hywet emlak nay abotatna",
+      "Bgbri 'abina ab qdst mnetna /2/",
+      "Zekhtimna knebr zeyhadegena abo",
+      "Brhan’yu merhawi nkwlu zts'ebebo",
+      "Bfqrn selamn nhywetna zets'lelo",
+      "Nqdus amlakhna yeblun zmeslo /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakh amalkt’yu fts'um mlu lewah",
+          "Mesfer albo fqru bhasab zeybts'ah",
+          "Bberekhet wengel bqdus mst'iru",
+          "Hywetna zedhane ts'elai asiru /2/",
+          "Quslna zznn hyaway samrawi",
+          "Nsu’yu emlakna krstos nolawi",
+          "Aseru nrgets'o ns'abo habirna",
+          "Tnsae knrekb n'u mesilna /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

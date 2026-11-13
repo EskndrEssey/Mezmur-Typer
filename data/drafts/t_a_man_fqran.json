@@ -1,0 +1,93 @@
+{
+  "id": 511,
+  "title": "ጣዕማን ፍቕራን",
+  "ti": {
+    "chorus": [
+      "ውሽጠይ እናገንፈለ ምስጋና ፈልፈለ ብምስጋና",
+      "ነታ ኣደ ፍቕሪ ጸዋር ኣምላኽ ከርሳ",
+      "ንድንግል ማርያም እግዚአብሔር ዘንገሳ",
+      "ሓርዩኪ ልዑል ክትኮንዮ ኣደ",
+      "ብርሃነይ ደሚቑ መድኅን ምስ ተወልደ",
+      "ይሰራሰር ልበይ ሓጎሱ ሰወደ",
+      "ብጽዕቲ ካብ ዝብሉ ኮይነ’ለኹ ሓደ",
+      "መንፈስ ቅዱስ ወሪድዋ ወዲሳትኪ ኤልሳቤት",
+      "ጸጋ መንፈስቅዱስ ዝመልኦ የዕብየኪ ኵሉ ፍጥረት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትሕትና ንጽሕና ኣባኺ ዓዚዙ",
+          "ዓይኒ ማይ ከርስኺ ማይ ሕይወት ኣውሒዙ",
+          "ረሖቦት ናይ ኣዳም ንስኺ ሞገሱ",
+          "ረውየ ብወድኺ ነፍሰይ ተሓዲሱ",
+          "መንፈስ ቅዱስ ወሪድዋ ወዲሳትኪ ኤልሳቤት",
+          "ጸጋ መንፈስቅዱስ ዝመልኦ የዕብየኪ ኵሉ ፍጥረት",
+          "እንጌራ ናይ ሕይወት ጽጋብ ንስጋን ነፍስን",
+          "ወሊድክልና ወዲ ፈዋሲን መድኅንን",
+          "ጣዕሚ ምድርን ሰማይን ትርጉም ስምኪ ማርያም",
+          "እናሻዕ ክሰምዖ ይህበኒ ሰላም",
+          "መንፈስ ቅዱስ ወሪድዋ ወዲሳትኪ ኤልሳቤት",
+          "ጸጋ መንፈስቅዱስ ዝመልኦ የዕብየኪ ኵሉ ፍጥረት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ርኅርኅተ ሕሊና ፍቕሪ ዝድባባ",
+          "ዘይትቕየር ጸሓይ ዘይትጽምሉ ዕምባባ",
+          "ርግቢት ናይ ሰላም ማርያም ሩፍታ ህዝባ",
+          "ምሕረት ክወርደንስ ለምንለይ እባ",
+          "መንፈስ ቅዱስ ወሪድዋ ወዲሳትኪ ኤልሳቤት",
+          "ጸጋ መንፈስቅዱስ ዝመልኦ የዕብየኪ ኵሉ ፍጥረት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Wsht'ey nagenfele msgana felfele bmsgana",
+      "Neta ade fqri ts'ewar amlakh kersa",
+      "Ndngl maryam gziebher zengesa",
+      "Haryuki l'ul ktkonyo ade",
+      "Brhaney demiqu medhn ms tewelde",
+      "Yseraser lbey hagosu sewede",
+      "Bts''ti kab zblu koyne’lekhu hade",
+      "Menfes qdus weridwa wedisatki elsabet",
+      "Ts'ega menfesqdus zmelo ye'byeki kwlu ft'ret"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Thtna nts'hna abakhi 'azizu",
+          "'Ayni may kerskhi may hywet awhizu",
+          "Rehobot nay adam nskhi mogesu",
+          "Rewye bwedkhi nefsey tehadisu",
+          "Menfes qdus weridwa wedisatki elsabet",
+          "Ts'ega menfesqdus zmelo ye'byeki kwlu ft'ret",
+          "Ngera nay hywet ts'gab nsgan nefsn",
+          "Welidklna wedi fewasin medhnn",
+          "T'a'mi mdrn semayn trgum smki maryam",
+          "Nasha' ksem'o yhbeni selam",
+          "Menfes qdus weridwa wedisatki elsabet",
+          "Ts'ega menfesqdus zmelo ye'byeki kwlu ft'ret"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Rhrhte hlina fqri zdbaba",
+          "Zeytqyer ts'ehay zeytts'mlu 'mbaba",
+          "Rgbit nay selam maryam rufta hzba",
+          "Mhret kwerdens lemnley ba",
+          "Menfes qdus weridwa wedisatki elsabet",
+          "Ts'ega menfesqdus zmelo ye'byeki kwlu ft'ret"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

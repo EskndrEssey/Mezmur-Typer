@@ -1,0 +1,77 @@
+{
+  "id": 364,
+  "title": "ኣባ ኣባ ብጹእአምላክ",
+  "ti": {
+    "chorus": [
+      "ኣባ ኣባ ብጹእአምላክ ገዳማዊ",
+      "ኣገልጋሊ ኣምላኽ ሰማያዊ",
+      "መምህር ምእመናን ናይ ትሕትና",
+      "ምሕረት ለምን ካብ ኣምላኽና",
+      "ብጹእ አምላክ ሓረስታይ እምነት ዘይጸዓድ",
+      "ብጹእ አምላክ ወንጌል ትዘርእ ብዘይስግኣት",
+      "ብጹእ አምላክ መገዲ እምነት መሪሕካና",
+      "ኣብ ቅድስና ተሰሪትና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብጹእ አምላክ ተኣምረኛ ኣቦ ገዳም",
+          "ብጹእ አምላክ  ኣብ በረኸትካ የለን ሕማም",
+          "ብጹእ አምላክ  ገዳምካ ኣትየ ተፈዊሰ",
+          "ብቃልኪዳንካ ተቐዲሰ",
+          "ብጹእ አምላክ  ብግርማ ለይቲ ናብ ጸሎት",
+          "ብጹእ አምላክ  ተብጽሕ ኔርካ ሰዓታት",
+          "ብጹእ አምላክ  ፍቕሪ ክርስቶስ በርቲዑካ",
+          "ምስ እንስሳ ገዳም ሓዲርካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብጹእ አምላክ ገጽ ኃጢኣት ትጸልእ ባሕታዊ",
+          "ብጹእ አምላክ  ምድራዊ መልኣኽ ሰማያዊ",
+          "ብጹእ አምላክ ብቓል ኪዳንካ ሓልወና",
+          "ብጹእ ብጹእ ንብል ኣሎና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Aba aba bts'uemlak gedamawi",
+      "Agelgali amlakh semayawi",
+      "Memhr mmenan nay thtna",
+      "Mhret lemn kab amlakhna",
+      "Bts'u emlak harestay mnet zeyts'e'ad",
+      "Bts'u emlak wengel tzer bzeysgat",
+      "Bts'u emlak megedi mnet merihkana",
+      "Ab qdsna teseritna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bts'u emlak teamrenya abo gedam",
+          "Bts'u emlak  ab berekhetka yelen hmam",
+          "Bts'u emlak  gedamka atye tefewise",
+          "Bqalkidanka teqedise",
+          "Bts'u emlak  bgrma leyti nab ts'elot",
+          "Bts'u emlak  tebts'h nerka se'atat",
+          "Bts'u emlak  fqri krstos berti'uka",
+          "Ms nssa gedam hadirka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bts'u emlak gets' hat'iat tts'el bahtawi",
+          "Bts'u emlak  mdrawi melakh semayawi",
+          "Bts'u emlak bqal kidanka halwena",
+          "Bts'u bts'u nbl alona"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

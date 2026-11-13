@@ -1,41 +1,83 @@
 {
-  "id": "h_efr_f1aeb68a13",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተመስገን"
+  "id": 285,
+  "title": "ተመስገን",
+  "ti": {
+    "chorus": [
+      "ተመስገን ምስጋናኻ ይብዛሕ",
+      "ተመስገን ከምዛራ ማይ ይውሓዝ",
+      "ጸገመይ ኵሉ ቀሊል’ዩ ኣብ ቅድሜኻ",
+      "እንሆ እንዶ ሎሚ ቀይርካዮ ራህዋ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነቲ ምስኪን ድኻ ክብሪ ኣልቢስካዮ",
+          "ነቲ ሕሙም ውዱቕ ካብ ምድሪ ኣልዒልካዮ",
+          "ልበይ ኣይከኣለን ክሰግሮ ብስቕታ",
+          "ኣመስግን ይብለኒ’ሎ ዘምር ብዓውታ",
+          "መን ይኽልክለኒ ክነግር ክብርኻ",
+          "ውሽጠይ እናገንፈለ ሰናይ ምስጋናኻ",
+          "ኣነስ ከቢረ’የ ብኣኻ ኣማኑኤል",
+          "እዝምር ኣለኹ እናበልኩ ዕልል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣቤት ቲ’ፍቕርኻ ጐይታ እቲ ውዕለትካ",
+          "ደረት ኣልቦ ምሕረት መን’ዩ ዝመስለካ",
+          "ቃላት ኣይረኸብኩን ዘዘንቱ ክብርኻ",
+          "ጌና ክዝምር’የ ዘልዓለም ኣብ ቤትካ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዲ/ን ኣብርሃም መሓሪ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተመስገን",
-      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
-      "lyrics": "[[chorus]]\nደረቕ ምድረበዳ ዓይኒ ማይ ጌርካለይ\nካዕበት ሽሻይ ኮይኑ ሰላም ምድሪ ቤተይ\nጸገመይ ኵሉ ቀሊል’ዩ ኣብ ቅድሜኻ\nእንሆ እንዶ ሎሚ ቀይርካዮ ራህዋ\n[[/chorus]]\n\nተመስገን ምስጋናኻ ይብዛሕ\nተመስገን ከምዛራ ማይ ይውሓዝ\nተመስገን ክበር ንዘልዓለም\nተመስገን ይበሉ ኩሎም ፍጥረት ዓለም\n\nነቲ ምስኪን ድኻ ክብሪ ኣልቢስካዮ\nነቲ ሕሙም ውዱቕ ካብ ምድሪ ኣልዒልካዮ\nልበይ ኣይከኣለን ክሰግሮ ብስቕታ\nኣመስግን ይብለኒ’ሎ ዘምር ብዓውታ\n\nኣቤት ቲ’ፍቕርኻ ጐይታ እቲ ውዕለትካ\nደረት ኣልቦ ምሕረት መን’ዩ ዝመስለካ\nቃላት ኣይረኸብኩን ዘዘንቱ ክብርኻ\nጌና ክዝምር’የ ዘልዓለም ኣብ ቤትካ\nዲ/ን ኣብርሃም መሓሪ"
-    },
-    "ti_ro": {
-      "title": "Temesgen",
-      "zemari": "liqe mela'kt ab qdmit menberka",
-      "lyrics": "Temesgen msganakha ybzah\nTemesgen kemzara may ywhaz\nTemesgen kber nzelalem\nTemesgen ybelu kulom ftret alem\nDereq mdrebeda ayni may gerkaley\nKabet shshay koynu selam mdri betey\nTsegemey kwilu qelil’yu ab qdmekha\nNho ndo lomi qeyrkayo rahwa\nNeti mskin dkha kbri albiskayo\nNeti hmum wduq kab mdri alilkayo\nLbey aykealen ksegro bsqta\nAmesgn ybleni’lo zemr bawta\nMen ykhlkleni knegr kbrkha\nWshtey nagenfele senay msganakha\nAnes kebire’ye bakha amanuel\nZmr alekhu nabelku ll\nAbet ti’fqrkha goyta ti wletka\nDeret albo mhret men’yu zmesleka\nQalat ayrekhebkun zezentu kbrkha\nGena kzmr’ye zelalem ab betka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Temesgen msganakha ybzah",
+      "Temesgen kemzara may ywhaz",
+      "Ts'egemey kwlu qelil’yu ab qdmekha",
+      "Nho ndo lomi qeyrkayo rahwa"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Neti mskin dkha kbri albiskayo",
+          "Neti hmum wduq kab mdri al'ilkayo",
+          "Lbey aykealen ksegro bsqta",
+          "Amesgn ybleni’lo zemr b'awta",
+          "Men ykhlkleni knegr kbrkha",
+          "Wsht'ey nagenfele senay msganakha",
+          "Anes kebire’ye bakha amanuel",
+          "Zmr alekhu nabelku 'll"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abet ti’fqrkha gwayta ti w'letka",
+          "Deret albo mhret men’yu zmesleka",
+          "Qalat ayrekhebkun zezentu kbrkha",
+          "Gena kzmr’ye zel'alem ab betka"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Di/n abrham mehari"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

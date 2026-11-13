@@ -1,0 +1,88 @@
+{
+  "id": 68,
+  "title": "ኣማናዊት ጽዮን",
+  "ti": {
+    "chorus": [
+      "ድምጺ ሰላምታኺ ኣደየ ኣእዛነይ ሰምዓ",
+      "እንምሕጸነልኪ ከተማ ድኻታት",
+      "ተሓሊኺ ኔርኪ ብግርማ መለኮት",
+      "ከጽልል ክመጽእ ድንግል ፍቐድለይ",
+      "ጸላእየይ ሰይጣን ከይጻወተለይ (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣይጠፍእን ኪዳንኪ ዘይዓኑ ማሕላ",
+          "ፈጺማ ኣይትወድቕ ወድኺ ዝበላ",
+          "እግስግስ ኣለኩ ናብ ኣፍደጌታትኪ",
+          "ከጸናንዓኒ መሓሪ ወድኺ (2)",
+          "ኲናት ጸላእየይ ፈጺሙ ተሰብረ",
+          "ደብዳቤ ናይ ሞተይ ብመስቀል ተሳዕረ",
+          "ሕይወተይ ዘፍረኺ ኢኺ’ሞ ምኽንያተይ",
+          "ፈጺመ ኣይሓፈርኩን ኣብ ቅድሚ ከሰስተይ (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣይስልችወንን’ዩ ቅድሜኺ እቐውም",
+          "እጸግብ እረዊ እንኪጽውዕ ናትኪ ስም",
+          "ድኻመይ ቀሊሉ እንክኣቱ ቤተይ",
+          "ክዝክረኪ’የ ድንግል ኣደ ጐይታይ (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዘማሪ ይልማ ሃይሉ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dmts'i selamtakhi adeye azaney sem'a",
+      "Nmhts'enelki ketema dkhatat",
+      "Tehalikhi nerki bgrma melekot",
+      "Kets'll kmets' dngl fqedley",
+      "Ts'elayey seyt'an keyts'aweteley (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ayt'efn kidanki zey'anu mahla",
+          "Fets'ima aytwedq wedkhi zbela",
+          "Gsgs aleku nab afdegetatki",
+          "Kets'enan'ani mehari wedkhi (2)",
+          "Kwinat ts'elayey fets'imu tesebre",
+          "Debdabe nay motey bmesqel tesa're",
+          "Hywetey zefrekhi ikhi’mo mkhnyatey",
+          "Fets'ime ayhaferkun ab qdmi kesestey (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ayslchwenn’yu qdmekhi qewm",
+          "Ts'egb rewi nkits'w' natki sm",
+          "Dkhamey qelilu nkatu betey",
+          "Kzkreki’ye dngl ade gwaytay (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zemari ylma haylu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_3_possible_page_split"
+  ]
+}

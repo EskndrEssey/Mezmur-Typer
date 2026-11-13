@@ -1,41 +1,114 @@
 {
-  "id": "h_efr_de325cbc7e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተሰባቢሩ ሰንሰለቱ"
+  "id": 149,
+  "title": "ተሰባቢሩ ሰንሰለቱ",
+  "ti": {
+    "chorus": [
+      "ተሰባቢሩ ‘ቲ ሰንሰለት",
+      "ተናዊጹ’ውን ቤት እሱራት",
+      "ናይ ጐይታ ምድሓን ተገሊጹ",
+      "‘ቲ እሱር ጴጥሮስ ከይዱ ኣምሊጡ",
+      "ኣቱም ሓዋርያት ሎሚ ደስ ይበልኩም",
+      "ማእሰርቱ ተፈቲሑ ቲ’ቅዱስ ሓውኹም",
+      "ምንዋጽ ናይ ማዕበል ፈተና ርኢኹም",
+      "ትዕግስቲ ይሃብኩም ንሰናይ’ዩ በሉ",
+      "ንሰናይ’ዩ  ንሰናይ’ዩ  በሉ",
+      "ኵሉ ነገር ንሰናይዩ ንሰናይ’ዩ",
+      "መከራ ኮነ ንሰናይ’ዩ",
+      "ማእሰርቲ ኮነ ንሰናይ’ዩ",
+      "ንሰናይ’ዩ  ንሰናይ’ዩ  መከራ ኮነ ንሰናይ’ዩ",
+      "ማእሰርቲ ኮነ ንሰናይ’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብኣቶም ይብርትዕ ’ቲ ዘሎ ምሳና",
+          "ማእሰርቲ ኣቲና መጺኡ ደጊፉና",
+          "ጎነይ ምስ ተንከፈ ብብርሃን መስቀሉ",
+          "መሪሑኒ ንቕድሚት ካብ ድቃስ ኣንቂሑ",
+          "ንሰብ ካብ ምእዛዝ ንእግዚአብሔር ይሓይሽ",
+          "ብሕሊና ምንባር ካብ ኵሉ ይበልጽ",
+          "ማእሰርቲ ሰንሰለት ቅትለት ከይፈራሕና",
+          "ክንምስክር ኢና ስራሕ ሓቅነትካ",
+          "ኵሉ ነገር …………………..",
+          "ጸላእቲ ክርስቶስ ኢዶም ምስ ዘልዕሉ",
+          "ንድሕሪት ኣይንብልን ጨቢጥና መስቀሉ",
+          "ኣብ ሞት ሕይወት ኣሎ ፈሊጥናዮ ኢና",
+          "ሓቂ ንምምስካር ክንጓየ ኢና",
+          "ኵሉ ብኡ ኮይኑ ንሕና’ውን ናቱ ኢና",
+          "ምስጋና ንምቕራብ ንተግህ ኣሚንና",
+          "ምድሪ ተናዊጻ ብዜማ ዝማሬ",
+          "ሰንሰለት ወዲቑ ምስ ተሰምዐ ቅኔ",
+          "ኵሉ ነገር…………"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጴጥሮስ’ዩ ኳሕኩሑ ክፈትዮ ሮዳ",
+          "ሚካኤል ልኢኹ ፈቲሕዎ ጐይታ",
+          "ብልመና ጸሎት ከምኡ’ውን ምስጋና",
+          "ክሳዕ መወዳእታ ክንጸንዕ ኢና ጌና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ኣዜብ ከበደ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተሰባቢሩ ሰንሰለቱ",
-      "zemari": "ዘማሪት ኣዜብ ከበደ",
-      "lyrics": "[[chorus]]\nኣቱም ሓዋርያት ሎሚ ደስ ይበልኩም\nማእሰርቱ ተፈቲሑ ቲ’ቅዱስ ሓውኹም\nናይ ብስራት ወንጌል ስበኹ ተጊህኩም\nንሞት ዝሰዓረ ኣሎ ኣብ ጎንኹም\nሑሩ ወመሃሩ ተባሂልኩም ኢኹም\nከይትደናገሩ ብፈተና ዓለም\nምንዋጽ ናይ ማዕበል ፈተና ርኢኹም\nትዕግስቲ ይሃብኩም ንሰናይ’ዩ በሉ\nንሰናይ’ዩ ንሰናይ’ዩ በሉ\nኵሉ ነገር ንሰናይዩ ንሰናይ’ዩ\nመከራ ኮነ ንሰናይ’ዩ\nማእሰርቲ ኮነ ንሰናይ’ዩ\nንሰናይ’ዩ ንሰናይ’ዩ መከራ ኮነ ንሰናይ’ዩ\nማእሰርቲ ኮነ ንሰናይ’ዩ\n[[/chorus]]\n\nተሰባቢሩ ‘ቲ ሰንሰለት\nተናዊጹ’ውን ቤት እሱራት\nናይ ጐይታ ምድሓን ተገሊጹ\n‘ቲ እሱር ጴጥሮስ ከይዱ ኣምሊጡ\n\nካብኣቶም ይብርትዕ ’ቲ ዘሎ ምሳና\nማእሰርቲ ኣቲና መጺኡ ደጊፉና\nጎነይ ምስ ተንከፈ ብብርሃን መስቀሉ\nመሪሑኒ ንቕድሚት ካብ ድቃስ ኣንቂሑ\nንሰብ ካብ ምእዛዝ ንእግዚአብሔር ይሓይሽ\nብሕሊና ምንባር ካብ ኵሉ ይበልጽ\nማእሰርቲ ሰንሰለት ቅትለት ከይፈራሕና\nክንምስክር ኢና ስራሕ ሓቅነትካ\nኵሉ ነገር …………………..\n\nጴጥሮስ’ዩ ኳሕኩሑ ክፈትዮ ሮዳ\nሚካኤል ልኢኹ ፈቲሕዎ ጐይታ\nማዕጾ ክፈትዮ ናበይ’ኺ ትኸዲ\nሓጐስኪ ንምግላጽ ተርክብሉ ኢኺ\nናይ ሓዋርያት ጸሎት ብዙሕ’ዩ ዝጠቅም\nካብ መቑሕ ሰንሰለት ብሓቂ የድሕን\nብልመና ጸሎት ከምኡ’ውን ምስጋና\nክሳዕ መወዳእታ ክንጸንዕ ኢና ጌና"
-    },
-    "ti_ro": {
-      "title": "Tesebabiru senseletu",
-      "zemari": "zemarit azeb kebede",
-      "lyrics": "Tesebabiru ‘ti senselet\nTenawitsu’wn bet surat\nNay goyta mdhan tegelitsu\n‘Ti sur petros keydu amlitu\nAtum hawaryat lomi des ybelkum\nMasertu tefetihu ti’qdus hawkhum\nNay bsrat wengel sbekhu tegihkum\nNmot zseare alo ab gonkhum\nHuru wemeharu tebahilkum ikhum\nKeytdenageru bfetena alem\nMnwats nay mabel fetena rikhum\nTgsti yhabkum nsenay’yu belu\nNsenay’yu nsenay’yu belu\nKwilu neger nsenayyu nsenay’yu\nMekera kone nsenay’yu\nMaserti kone nsenay’yu\nNsenay’yu nsenay’yu mekera kone nsenay’yu\nMaserti kone nsenay’yu\nKabatom ybrt ’ti zelo msana\nMaserti atina metsiu degifuna\nGoney ms tenkefe bbrhan mesqelu\nMerihuni nqdmit kab dqas anqihu\nNseb kab mzaz ngziabher yhaysh\nBhlina mnbar kab kwilu ybelts\nMaserti senselet qtlet keyferahna\nKnmskr ina srah haqnetka\nKwilu neger …………………..\nTselati krstos idom ms zellu\nNdhrit aynbln chebitna mesqelu\nAb mot hywet alo felitnayo ina\nHaqi nmmskar kngwaye ina\nKwilu bu koynu nhna’wn natu ina\nMsgana nmqrab ntegh aminna\nMdri tenawitsa bzema zmare\nSenselet wediqu ms tesema qne\nKwilu neger…………\nPetros’yu kwahkuhu kfetyo roda\nMikael likhu fetihwo goyta\nMatso kfetyo nabey’khi tkhedi\nHagoski nmglats terkblu ikhi\nNay hawaryat tselot bzuh’yu zteqm\nKab mequh senselet bhaqi yedhn\nBlmena tselot kemu’wn msgana\nKsa mewedata kntsen ina gena"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tesebabiru ‘ti senselet",
+      "Tenawits'u’wn bet surat",
+      "Nay gwayta mdhan tegelits'u",
+      "‘Ti sur p'et'ros keydu amlit'u",
+      "Atum hawaryat lomi des ybelkum",
+      "Masertu tefetihu ti’qdus hawkhum",
+      "Mnwats' nay ma'bel fetena rikhum",
+      "T'gsti yhabkum nsenay’yu belu",
+      "Nsenay’yu  nsenay’yu  belu",
+      "Kwlu neger nsenayyu nsenay’yu",
+      "Mekera kone nsenay’yu",
+      "Maserti kone nsenay’yu",
+      "Nsenay’yu  nsenay’yu  mekera kone nsenay’yu",
+      "Maserti kone nsenay’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kabatom ybrt' ’ti zelo msana",
+          "Maserti atina mets'iu degifuna",
+          "Goney ms tenkefe bbrhan mesqelu",
+          "Merihuni nqdmit kab dqas anqihu",
+          "Nseb kab mzaz ngziebher yhaysh",
+          "Bhlina mnbar kab kwlu ybelts'",
+          "Maserti senselet qtlet keyferahna",
+          "Knmskr ina srah haqnetka",
+          "Kwlu neger …………………..",
+          "Ts'elati krstos idom ms zel'lu",
+          "Ndhrit aynbln ch'ebit'na mesqelu",
+          "Ab mot hywet alo felit'nayo ina",
+          "Haqi nmmskar kngwaye ina",
+          "Kwlu bu koynu nhna’wn natu ina",
+          "Msgana nmqrab ntegh aminna",
+          "Mdri tenawits'a bzema zmare",
+          "Senselet wediqu ms tesem'e qne",
+          "Kwlu neger…………"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "P'et'ros’yu kwahkuhu kfetyo roda",
+          "Mikael likhu fetihwo gwayta",
+          "Blmena ts'elot kemu’wn msgana",
+          "Ksa' mewedata knts'en' ina gena"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "verse_2_possible_page_split"
+  ]
 }

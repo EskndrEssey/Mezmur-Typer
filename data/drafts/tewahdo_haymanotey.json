@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_f12d24cb7a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተዋሕዶ ሃይማኖተይ"
+  "id": 150,
+  "title": "ተዋሕዶ ሃይማኖተይ",
+  "ti": {
+    "chorus": [
+      "ተዋሕዶ ሃይማኖተይ",
+      "ናይ ጥንቲ ኢኺ ናይቶም ኣቦታተይ",
+      "ማዕተበይ ኣይበትኽን",
+      "ክትነብር'ያ ንዘልዓለም",
+      "ከተማታት ግብጺ ብደምና ሃኒጽና",
+      "ብምቕታል ጽድቂ የለን ሞይትና ግን ነቢርና",
+      "ማዕተብኩም ፍትሑ ብተኹ ኢሎምና",
+      "ንሕናስ ምስ ክሳድና ውሰድዋ በልና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጴጥሮስ ተሰቒሉ ጳውሎስ ተሰይፉ",
+          "ተዋህዶ እናበሉ ብዙሕ'ዩ ሓሊፉ",
+          "ብእሳት ብመጋዝ ብስቓይ ሓሊፎም",
+          "ዘመን ዘይቅይሮ ታሪኽ ግን ጽሒፎም",
+          "ቀዳሞት እናበልና ዳሕሮት ከይንኸውን",
+          "ንዑ ንበራበር ንንቃሕ ኣይንደቅስ",
+          "ዝብኢ ምስ ኣተወ ትርጉም ኣልቦ ኣውያት",
+          "ደቂ ተዋህዶ ሕጂ ኢዩ እቲ ሰዓት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከምዘይረኣና ብስቕታ ሓሊፍና",
+          "መክሊትና ከይረብሕ ክንቀብሮ መሪጽና",
+          "ሕጂ ግን ይኣክል ስቕታና ይሰበር",
+          "ናይ ተዋህዶ ምስጢር ይገለጽ ይነገር"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ኣዜብ ከበደ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተዋሕዶ ሃይማኖተይ",
-      "zemari": "ዘማሪት ኣዜብ ከበደ",
-      "lyrics": "[[chorus]]\nከተማታት ግብጺ ብደምና ሃኒጽና\nብምቕታል ጽድቂ የለን ሞይትና ግን ነቢርና\nማዕተብኩም ፍትሑ ብተኹ ኢሎምና\nንሕናስ ምስ ክሳድና ውሰድዋ በልና\n[[/chorus]]\n\nተዋሕዶ ሃይማኖተይ\nናይ ጥንቲ ኢኺ ናይቶም ኣቦታተይ\nማዕተበይ ኣይበትኽን\nክትነብር'ያ ንዘልዓለም\n\nጴጥሮስ ተሰቒሉ ጳውሎስ ተሰይፉ\nተዋህዶ እናበሉ ብዙሕ'ዩ ሓሊፉ\nብእሳት ብመጋዝ ብስቓይ ሓሊፎም\nዘመን ዘይቅይሮ ታሪኽ ግን ጽሒፎም\n\nከምዘይረኣና ብስቕታ ሓሊፍና\nመክሊትና ከይረብሕ ክንቀብሮ መሪጽና\nሕጂ ግን ይኣክል ስቕታና ይሰበር\nናይ ተዋህዶ ምስጢር ይገለጽ ይነገር"
-    },
-    "ti_ro": {
-      "title": "Tewahdo haymanotey",
-      "zemari": "zemarit azeb kebede",
-      "lyrics": "Tewahdo haymanotey\nNay tnti ikhi naytom abotatey\nMatebey aybetkhn\nKtnebr'ya nzelalem\nKetematat gbtsi bdemna hanitsna\nBmqtal tsdqi yelen moytna gn nebirna\nMatebkum fthu btekhu ilomna\nNhnas ms ksadna wsedwa belna\nPetros teseqilu pawlos teseyfu\nTewahdo nabelu bzuh'yu halifu\nBsat bmegaz bsqay halifom\nZemen zeyqyro tarikh gn tshifom\nQedamot nabelna dahrot keynkhewn\nNu nberaber nnqah ayndeqs\nZbi ms atewe trgum albo awyat\nDeqi tewahdo hji iyu ti seat\nKemzeyreana bsqta halifna\nMeklitna keyrebh knqebro meritsna\nHji gn yakl sqtana yseber\nNay tewahdo mstir ygelets yneger"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tewahdo haymanotey",
+      "Nay t'nti ikhi naytom abotatey",
+      "Ma'tebey aybetkhn",
+      "Ktnebr'ya nzel'alem",
+      "Ketematat gbts'i bdemna hanits'na",
+      "Bmqtal ts'dqi yelen moytna gn nebirna",
+      "Ma'tebkum fthu btekhu ilomna",
+      "Nhnas ms ksadna wsedwa belna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "P'et'ros teseqilu p'awlos teseyfu",
+          "Tewahdo nabelu bzuh'yu halifu",
+          "Bsat bmegaz bsqay halifom",
+          "Zemen zeyqyro tarikh gn ts'hifom",
+          "Qedamot nabelna dahrot keynkhewn",
+          "N'u nberaber nnqah ayndeqs",
+          "Zbi ms atewe trgum albo awyat",
+          "Deqi tewahdo hji iyu ti se'at"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kemzeyreana bsqta halifna",
+          "Meklitna keyrebh knqebro merits'na",
+          "Hji gn yakl sqtana yseber",
+          "Nay tewahdo mst'ir ygelets' yneger"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

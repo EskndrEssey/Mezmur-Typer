@@ -1,41 +1,105 @@
 {
-  "id": "h_efr_12bc7c4862",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰላም ሰላም ለኪ"
+  "id": 493,
+  "title": "ሰላም ሰላም ለኪ",
+  "ti": {
+    "chorus": [
+      "ማርያም ሰላም ለኪ",
+      "ማርያም ቅድስቲ ሰላም ለኪ",
+      "ማርያም ውድስቲ ሰላም ለኪ",
+      "ማርያም ንጽህቲ ሰላም ለኪ",
+      "ማርያም ልዕልቲ ሰላም ለኪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብርኽቲ ንስኺ ሰላም ለኪ",
+          "ዝመልኣኪ ጸጋ ሰላም ለኪ",
+          "ድንግል ብሕሊና ሰላም ለኪ",
+          "ድንግል’ውን ብሥጋ ሰላም ለኪ",
+          "መርዓተ ኣብ ኢኺ ሰላም ለኪ",
+          "ማሕደሩ ንወልድ ሰላም ለኪ",
+          "ጽርሐ መንፈስ ቅዱስ ሰላም ለኪ",
+          "ሕርይቶም ንሥሉስ ሰላም ለኪ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መን ኣሎ ከማኺ ሰላም ለኪ",
+          "መለኮት ዝጾረ ሰላም ለኪ",
+          "መን ኣሎ ከማኺ ሰላም ለኪ",
+          "ንኣምላኽ ዘሕደረ ሰላም ለኪ",
+          "ይምሰጥ ሕሊናይ ሰላም ለኪ",
+          "ክብርኺ እንክሓስብ ሰላም ለኪ",
+          "ዕጹብ’ዩ መስተንክር ሰላም ለኪ",
+          "ናይ ጥንስኺ ነገር ሰላም ለኪ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዓባይ ክነስኺ ሰላም ለኪ",
+          "ብዙሕ ትሕትናኺ ሰላም ለኪ",
+          "ከለኺ ጓል ሰባት ሰላም ለኪ",
+          "ሓፍቶም ንመላእክት ሰላም ለኪ",
+          "እግዚአብሔር ኣምላኽ ሰላም ለኪ",
+          "ውርደትኪ ረኣየ ሰላም ለኪ",
+          "ካብ ሰማይ ወሪዱ ሰላም ለኪ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰላም ሰላም ለኪ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nማርያም ቅድስቲ ሰላም ለኪ\nማርያም ውድስቲ ሰላም ለኪ\nማርያም ንጽህቲ ሰላም ለኪ\nማርያም ልዕልቲ ሰላም ለኪ\n[[/chorus]]\n\nሰላም ሰላም ለኪ\nማርያም ሰላም ለኪ\n\nብርኽቲ ንስኺ ሰላም ለኪ\nዝመልኣኪ ጸጋ ሰላም ለኪ\nድንግል ብሕሊና ሰላም ለኪ\nድንግል’ውን ብሥጋ ሰላም ለኪ\n\nመን ኣሎ ከማኺ ሰላም ለኪ\nመለኮት ዝጾረ ሰላም ለኪ\nመን ኣሎ ከማኺ ሰላም ለኪ\nንኣምላኽ ዘሕደረ ሰላም ለኪ\n\nዓባይ ክነስኺ ሰላም ለኪ\nብዙሕ ትሕትናኺ ሰላም ለኪ\nከለኺ ጓል ሰባት ሰላም ለኪ\nሓፍቶም ንመላእክት ሰላም ለኪ"
-    },
-    "ti_ro": {
-      "title": "Selam selam leki",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Selam selam leki\nMaryam selam leki\nMaryam qdsti selam leki\nMaryam wdsti selam leki\nMaryam ntshti selam leki\nMaryam llti selam leki\nBrkhti nskhi selam leki\nZmelaki tsega selam leki\nDngl bhlina selam leki\nDngl’wn bssga selam leki\nMerate ab ikhi selam leki\nMahderu nweld selam leki\nTsrha menfes qdus selam leki\nHrytom nsslus selam leki\nMen alo kemakhi selam leki\nMelekot ztsore selam leki\nMen alo kemakhi selam leki\nNamlakh zehdere selam leki\nYmset hlinay selam leki\nKbrkhi nkhasb selam leki\nTsub’yu mestenkr selam leki\nNay tnskhi neger selam leki\nAbay kneskhi selam leki\nBzuh thtnakhi selam leki\nKelekhi gwal sebat selam leki\nHaftom nmelakt selam leki\nGziabher amlakh selam leki\nWrdetki reaye selam leki\nKab semay weridu selam leki\nMsakhi teraye selam leki"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Maryam selam leki",
+      "Maryam qdsti selam leki",
+      "Maryam wdsti selam leki",
+      "Maryam nts'hti selam leki",
+      "Maryam l'lti selam leki"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Brkhti nskhi selam leki",
+          "Zmelaki ts'ega selam leki",
+          "Dngl bhlina selam leki",
+          "Dngl’wn bssga selam leki",
+          "Mer'ate ab ikhi selam leki",
+          "Mahderu nweld selam leki",
+          "Ts'rhe menfes qdus selam leki",
+          "Hrytom nsslus selam leki"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Men alo kemakhi selam leki",
+          "Melekot zts'ore selam leki",
+          "Men alo kemakhi selam leki",
+          "Namlakh zehdere selam leki",
+          "Ymset' hlinay selam leki",
+          "Kbrkhi nkhasb selam leki",
+          "'Ts'ub’yu mestenkr selam leki",
+          "Nay t'nskhi neger selam leki"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "'Abay kneskhi selam leki",
+          "Bzuh thtnakhi selam leki",
+          "Kelekhi gwal sebat selam leki",
+          "Haftom nmelakt selam leki",
+          "Gziebher amlakh selam leki",
+          "Wrdetki reaye selam leki",
+          "Kab semay weridu selam leki"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_6306c06e97",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናበይ ክኸይድ’የ"
+  "id": 100,
+  "title": "ናበይ ክኸይድ’የ",
+  "ti": {
+    "chorus": [
+      "ናበይ ክኸይድ’የ ናበይ /2/",
+      "ኣምላኸይ ካባኻ`ስ ህድማ ናበይ",
+      "ከም ንስሪ’ውን ላዕሊ ተነፈርኩ",
+      "ኣብኡ ኣለኻ ዋላ ተጎየኹ",
+      "ተኾብለልኩ ተሃደምኩ'ኳ ካብ ቅድሜኻ",
+      "መዓስ ተፍልዩኒ’ቲ  ዓቢይ ምሕረትካ",
+      "ኣውጺካኒ ብርህራሄኻ ካብ ዓዘቕቲ",
+      "ሰላመይ’ኻ እረዊ ፍቕርኻ ክሰቲ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ወሰን ደረት የብሉን ጐይታ ንዶባትካ",
+          "መርገጺት’ያ እዚኣ ምድሪ ንእግርኻ",
+          "ማንም ሃዲሙ ኣይክእልን ከምልጠካ",
+          "ነዛ ዓለም ዝሓዝካ እንዲኻ ዝጨበጥካ",
+          "ኣፍቂርካኒ ብፍጹም ፍቕሪ ንዘልዓለም",
+          "ብዘይካኻ በረኸት ሰላም ከቶ የለን",
+          "ኣዕሪፉሎ ወድኻ ሎሚ ኣብ ጽላልካ",
+          "ይኣኽለኒ ዝነበርክዎ ብዘይ በኣኻ",
+          "ፍጹም ጸላም ንዓኻ ግና ኣይጽልምትን",
+          "ነዛ ነፍሰይ ትከናኸናን ትሕልዋን",
+          "ክንደይ ጊዜ ምሒርካኒ ኢኻ ብይቕሬታ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክበረለይ መድኃኒት ኢኻ ናተይ ጐይታ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ኣቤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናበይ ክኸይድ’የ",
-      "zemari": "ዘማሪ ኣቤል",
-      "lyrics": "[[chorus]]\nተኾብለልኩ ተሃደምኩ'ኳ ካብ ቅድሜኻ\nመዓስ ተፍልዩኒ’ቲ ዓቢይ ምሕረትካ\nኣውጺካኒ ብርህራሄኻ ካብ ዓዘቕቲ\nሰላመይ’ኻ እረዊ ፍቕርኻ ክሰቲ\n[[/chorus]]\n\nናበይ ክኸይድ’የ ናበይ (2)\nኣምላኸይ ካባኻ`ስ ህድማ ናበይ\nከም ንስሪ’ውን ላዕሊ ተነፈርኩ\nኣብኡ ኣለኻ ዋላ ተጎየኹ\n\nወሰን ደረት የብሉን ጐይታ ንዶባትካ\nመርገጺት’ያ እዚኣ ምድሪ ንእግርኻ\nማንም ሃዲሙ ኣይክእልን ከምልጠካ\nነዛ ዓለም ዝሓዝካ እንዲኻ ዝጨበጥካ\n\nፍጹም ጸላም ንዓኻ ግና ኣይጽልምትን\nነዛ ነፍሰይ ትከናኸናን ትሕልዋን\nክንደይ ጊዜ ምሒርካኒ ኢኻ ብይቕሬታ\nክበረለይ መድኃኒት ኢኻ ናተይ ጐይታ\nዘማሪ ገብረዮሓንስ"
-    },
-    "ti_ro": {
-      "title": "Nabey kkheyd’ye",
-      "zemari": "zemari abel",
-      "lyrics": "Nabey kkheyd’ye nabey (2)\nAmlakhey kabakha`s hdma nabey\nKem nsri’wn lali teneferku\nAbu alekha wala tegoyekhu\nTekhoblelku tehademku'kwa kab qdmekha\nMeas teflyuni’ti abiy mhretka\nAwtsikani brhrahekha kab azeqti\nSelamey’kha rewi fqrkha kseti\nWesen deret yeblun goyta ndobatka\nMergetsit’ya zia mdri ngrkha\nManm hadimu aykln kemlteka\nNeza alem zhazka ndikha zchebetka\nAfqirkani bftsum fqri nzelalem\nBzeykakha berekhet selam keto yelen\nArifulo wedkha lomi ab tslalka\nYakhleni zneberkwo bzey beakha\nFtsum tselam nakha gna aytslmtn\nNeza nefsey tkenakhenan thlwan\nKndey gize mhirkani ikha byqreta\nKbereley medhanit ikha natey goyta"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nabey kkheyd’ye nabey /2/",
+      "Amlakhey kabakha`s hdma nabey",
+      "Kem nsri’wn la'li teneferku",
+      "Abu alekha wala tegoyekhu",
+      "Tekhoblelku tehademku'kwa kab qdmekha",
+      "Me'as teflyuni’ti  'abiy mhretka",
+      "Awts'ikani brhrahekha kab 'azeqti",
+      "Selamey’kha rewi fqrkha kseti"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Wesen deret yeblun gwayta ndobatka",
+          "Mergets'it’ya zia mdri ngrkha",
+          "Manm hadimu aykln kemlt'eka",
+          "Neza 'alem zhazka ndikha zch'ebet'ka",
+          "Afqirkani bfts'um fqri nzel'alem",
+          "Bzeykakha berekhet selam keto yelen",
+          "A'rifulo wedkha lomi ab ts'lalka",
+          "Yakhleni zneberkwo bzey beakha",
+          "Fts'um ts'elam n'akha gna ayts'lmtn",
+          "Neza nefsey tkenakhenan thlwan",
+          "Kndey gize mhirkani ikha byqreta"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kbereley medhanit ikha natey gwayta"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

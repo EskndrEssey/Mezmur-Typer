@@ -1,41 +1,101 @@
 {
-  "id": "h_efr_40af1a161d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እንቋዕ ደስ በለኩም"
+  "id": 436,
+  "title": "እንቋዕ ደስ በለኩም",
+  "ti": {
+    "chorus": [
+      "ፍሉይ ጸጋ’ዩ ኣምላኽ ሂብኩም",
+      "ኣምላኽ እንክፈጥር     እንቋዕ ደስ በለኩም",
+      "ኣእዳዉ ዘርጊሑ                 >>   >>",
+      "ንኣዳም ፈጠሮ                   >>  >>",
+      "ጽቡቕ ፍጥረት ጌሩ               >>  >>",
+      "ካብ መሰንገሊኡ                >>  >>",
+      "ሔዋን’ውን ተፈጥረት            >>  >>",
+      "ደጋፊት ክትኮኖ ንኣዳም ተዋህበት",
+      "እግዚአብሔር ይመስገን ኣሜን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዓና’ውን ከምኡ        እንቋዕ ደስ በለኩም",
+          "ከም ኣዳም ከም ሔዋን           >>   >>",
+          "ጸጋ ሂቡና’ዩ                      >>  >>",
+          "ብሓደ ክንጥመር                 >>  >>",
+          "ብቅዱስ ስርዓት                  >>  >>",
+          "ብስርዓት ናይ ተኽሊል           >>  >>",
+          "ብሥጋ ወደሙ ብቑርባን ክንክለል",
+          "እግዚአብሔር ይመስገን ኣሜን",
+          "ብልማድ ኣይኮነን       እንቋዕ ደስ በለኩም",
+          "ብጓይላ ዳንኬራ               >>    >>",
+          "ትርጉም ዘለዎ’ዩ               >>    >>",
+          "መርዓ ናይ ገሊላ              >>    >>",
+          "ዘቕንእ ብሓቂ                 >>    >>",
+          "ከምዚ ንዝምነ                >>    >>",
+          "ብመዝሙር ናይ ዳዊት መንፈሳዊ ቅኔ",
+          "እግዚአብሔር ይመስገን ኣሜን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብርሃምን ሳራን        እንቋዕ ደስ በለኩም",
+          "እንቋዕ ደስ በለኩም            >>   >>",
+          "እነሆ የንጸብርቕ                >>   >>",
+          "መንፈሳውነትኩም              >>   >>",
+          "ጐይታ ምስ ኣዲኡ               >>   >>",
+          "እነሆ ኣብ ማእከልኩም         >>   >>"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እንቋዕ ደስ በለኩም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣምላኽ እንክፈጥር እንቋዕ ደስ በለኩም\nኣእዳዉ ዘርጊሑ\nንኣዳም ፈጠሮ\nጽቡቕ ፍጥረት ጌሩ\nካብ መሰንገሊኡ\nሔዋን’ውን ተፈጥረት\nደጋፊት ክትኮኖ ንኣዳም ተዋህበት\nእግዚአብሔር ይመስገን ኣሜን\n[[/chorus]]\n\nእንቋዕ ደስ በለኩም (2)\nፍሉይ ጸጋ’ዩ ኣምላኽ ሂብኩም\n\nንዓና’ውን ከምኡ       እንቋዕ ደስ በለኩም\nከም ኣዳም ከም ሔዋን\nጸጋ ሂቡና’ዩ\nብሓደ ክንጥመር\nብቅዱስ ስርዓት\nብስርዓት ናይ ተኽሊል\nብሥጋ ወደሙ ብቑርባን ክንክለል\nእግዚአብሔር ይመስገን ኣሜን\n\nኣብርሃምን ሳራን       እንቋዕ ደስ በለኩም\nእንቋዕ ደስ በለኩም\nእነሆ የንጸብርቕ\nመንፈሳውነትኩም\nጐይታ ምስ ኣዲኡ\nእነሆ ኣብ ማእከልኩም\nዶኪማስ ዘኪሩ ውዒሉ ምሳኹም\nእግዚአብሔር ይመስገን ኣሜን"
-    },
-    "ti_ro": {
-      "title": "'Nqwa' des belekum",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNqwa des belekum (2)\n[[/chorus]]\n\nFluy tsega’yu amlakh hibkum\nAmlakh nkfetr nqwa des belekum\nAdawu zergihu\nNadam fetero\nTsbuq ftret geru\nKab mesengeliu\nHewan’wn tefetret\nDegafit ktkono nadam tewahbet\nGziabher ymesgen amen\nNana’wn kemu nqwa des belekum\nKem adam kem hewan\nTsega hibuna’yu\nBhade kntmer\nBqdus srat\nBsrat nay tekhlil\nBssga wedemu bqurban knklel\nGziabher ymesgen amen\nBlmad aykonen nqwa des belekum\nBgwayla dankera\nTrgum zelewo’yu\nMera nay gelila\nZeqn bhaqi\nKemzi nzmne\nBmezmur nay dawit menfesawi qne\nGziabher ymesgen amen\nAbrhamn saran nqwa des belekum\nNqwa des belekum\nNeho yentsebrq\nMenfesawnetkum\nGoyta ms adiu\nNeho ab makelkum\nDokimas zekiru wilu msakhum\nGziabher ymesgen amen"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Fluy ts'ega’yu amlakh hibkum",
+      "Amlakh nkfet'r     nqwa' des belekum",
+      "Adawu zergihu                 >>   >>",
+      "Nadam fet'ero                   >>  >>",
+      "Ts'buq ft'ret geru               >>  >>",
+      "Kab mesengeliu                >>  >>",
+      "Hewan’wn tefet'ret            >>  >>",
+      "Degafit ktkono nadam tewahbet",
+      "Gziebher ymesgen amen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'ana’wn kemu        nqwa' des belekum",
+          "Kem adam kem hewan           >>   >>",
+          "Ts'ega hibuna’yu                      >>  >>",
+          "Bhade knt'mer                 >>  >>",
+          "Bqdus sr'at                  >>  >>",
+          "Bsr'at nay tekhlil           >>  >>",
+          "Bssga wedemu bqurban knklel",
+          "Gziebher ymesgen amen",
+          "Blmad aykonen       nqwa' des belekum",
+          "Bgwayla dankera               >>    >>",
+          "Trgum zelewo’yu               >>    >>",
+          "Mer'a nay gelila              >>    >>",
+          "Zeqn bhaqi                 >>    >>",
+          "Kemzi nzmne                >>    >>",
+          "Bmezmur nay dawit menfesawi qne",
+          "Gziebher ymesgen amen"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abrhamn saran        nqwa' des belekum",
+          "Nqwa' des belekum            >>   >>",
+          "Neho yents'ebrq                >>   >>",
+          "Menfesawnetkum              >>   >>",
+          "Gwayta ms adiu               >>   >>",
+          "Neho ab makelkum         >>   >>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

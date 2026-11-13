@@ -1,41 +1,85 @@
 {
-  "id": "h_efr_1f4fc95471",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ስለ ዘፍቀረ እንድዩ"
+  "id": 858,
+  "title": "ስለ ዘፍቀረ እንድዩ",
+  "ti": {
+    "chorus": [
+      "ስለ ዘፍቀረ እንድዩ ንስቓይና ብስቓዩ",
+      "መርገምና ክጸውር ሞት ኣዳም ክጥዕም ሓርዩ",
+      "ካብ ቃሉ እንሰምዓ እታ ትሕይሎ ፍቕሪ",
+      "ዘይጽወር ኣጽዊራቶ ከርእየና ብግብሪ",
+      "ብጥፍእቲ ነፍሶም ዝጓሃየት ልቡ",
+      "ኣይሓድጎምን ክብል ብእሳት ክልብለቡ",
+      "ካብ ሰማይ ምስ ወረደ ብፍቕሪ ተሳሒቡ",
+      "ብወንጀል ከሰስዎ ወንጌሉ ከይስዕቡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅዱስ እንክነሱ ንጹህ ‘ዝ ባህሪኡ",
+          "ምራቕ እናተተፍኦ ዘይተጸየፈ ኮርዩ",
+          "ትሕት እንተበለ ከድሕነና ፈትዩ",
+          "ነገር ፍቕሪ ኮይንዎ እምበር ኣምላኽናስ ሓያል እዩ",
+          "ኣምላኽ ልግሲ እንከሎ ዘዝንብ ካብ ሰማይ",
+          "ነዛ ጎረርኡ ፍጹም ከሊኦሞ ማይ",
+          "ብደሙ እናጥለሎም መጺጽ እንተስተይዎ",
+          "ቃል ሕድገት ኃጢኣት እምበር መዓስ ሕማቕ ወጺእዎ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ማእከል በርባሮስ ብምርኮ ኣዳም እንክድብል",
+          "ዲያብሎስ ክጭድር መን ከማይ እንክብል",
+          "እቲ ዘይመውት ጐይታ ሓይሊ ጽልመት ቀቲሉ",
+          "ብሞቱ ሰንሰለት ኃጢኣትና በቲኹልና እዩ ኣብ መስቀሉ",
+          "ቃንዛ ስቅያቱ ከም ሴፍ ኮይኑ እናወግኣ",
+          "ማዕረ እቲ ትሓዝኖ ልባ ብሓጎስ ክትመልኣ",
+          "ውዑይ ንብዓት ማርያም ዝወረረ እናንደዳ",
+          "ስለ ፍቕሪ እዩ ነይሩ ከም ደም ፍቑር ወዳ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ስለ ዘፍቀረ እንድዩ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nብጥፍእቲ ነፍሶም ዝጓሃየት ልቡ\nኣይሓድጎምን ክብል ብእሳት ክልብለቡ\nካብ ሰማይ ምስ ወረደ ብፍቕሪ ተሳሒቡ\nብወንጀል ከሰስዎ ወንጌሉ ከይስዕቡ\n[[/chorus]]\n\nስለ ዘፍቀረ እንድዩ ንስቓይና ብስቓዩ\nመርገምና ክጸውር ሞት ኣዳም ክጥዕም ሓርዩ\nካብ ቃሉ እንሰምዓ እታ ትሕይሎ ፍቕሪ\nዘይጽወር ኣጽዊራቶ ከርእየና ብግብሪ\n\nቅዱስ እንክነሱ ንጹህ ‘ዝ ባህሪኡ\nምራቕ እናተተፍኦ ዘይተጸየፈ ኮርዩ\nትሕት እንተበለ ከድሕነና ፈትዩ\nነገር ፍቕሪ ኮይንዎ እምበር ኣምላኽናስ ሓያል እዩ\n\nኣብ ማእከል በርባሮስ ብምርኮ ኣዳም እንክድብል\nዲያብሎስ ክጭድር መን ከማይ እንክብል\nእቲ ዘይመውት ጐይታ ሓይሊ ጽልመት ቀቲሉ\nብሞቱ ሰንሰለት ኃጢኣትና በቲኹልና እዩ ኣብ መስቀሉ"
-    },
-    "ti_ro": {
-      "title": "Sle zefqere 'ndyu",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Sle zefqere 'ndyu nsqayna bsqayu\nMergemna kTsewr mot adam kT'm haryu\nKab qalu 'nsem'a 'ta thylo fqri\nZeyTswer aTswirato ker'yena bgbri\nBTf'ti nefsom zgwahayet lbu\nAyhadgomn kbl b'sat klblebu\nKab semay ms werede bfqri tesahibu\nBwenjel keseswo wengelu keys'bu\nQdus 'nknesu nTsuh ‘z bahriu\nMraq 'natetefo zeyteTseyefe koryu\nTht 'ntebele kedhnena fetyu\nNeger fqri koynwo 'mber amlakhnas hayal 'yu\nAmlakh lgsi 'nkelo zeznb kab semay\nNeza goreru fTsum keliomo may\nBdemu 'naTlelom meTsiTs 'ntesteywo\nQal hdget haTiat 'mber me'as hmaq weTsi'wo\nAb ma'kel berbaros bmrko adam 'nkdbl\nDiyablos kChdr men kemay 'nkbl\n'Ti zeymewt goyta hayli Tslmet qetilu\nBmotu senselet haTiatna betikhulna 'yu ab mesqelu\nQanza sqyatu kem sef koynu 'nawega\nMa're 'ti thazno lba bhagos ktmela\nW'uy nb'at maryam zwerere 'nandeda\nSle fqri 'yu neyru kem dem fqur weda"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sle zefqere ndyu nsqayna bsqayu",
+      "Mergemna kts'ewr mot adam kt''m haryu",
+      "Kab qalu nsem'a ta thylo fqri",
+      "Zeyts'wer ats'wirato keryena bgbri",
+      "Bt'fti nefsom zgwahayet lbu",
+      "Ayhadgomn kbl bsat klblebu",
+      "Kab semay ms werede bfqri tesahibu",
+      "Bwenjel keseswo wengelu keys'bu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdus nknesu nts'uh ‘z bahriu",
+          "Mraq natetefo zeytets'eyefe koryu",
+          "Tht ntebele kedhnena fetyu",
+          "Neger fqri koynwo mber amlakhnas hayal yu",
+          "Amlakh lgsi nkelo zeznb kab semay",
+          "Neza goreru fts'um keliomo may",
+          "Bdemu nat'lelom mets'its' ntesteywo",
+          "Qal hdget hat'iat mber me'as hmaq wets'iwo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab makel berbaros bmrko adam nkdbl",
+          "Diyablos kch'dr men kemay nkbl",
+          "Ti zeymewt gwayta hayli ts'lmet qetilu",
+          "Bmotu senselet hat'iatna betikhulna yu ab mesqelu",
+          "Qanza sqyatu kem sef koynu nawega",
+          "Ma're ti thazno lba bhagos ktmela",
+          "W'uy nb'at maryam zwerere nandeda",
+          "Sle fqri yu neyru kem dem fqur weda"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

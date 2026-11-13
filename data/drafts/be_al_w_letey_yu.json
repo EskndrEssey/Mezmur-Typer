@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_68895e48e0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በዓል ውዕለተይ’ዩ"
+  "id": 20,
+  "title": "በዓል ውዕለተይ’ዩ",
+  "ti": {
+    "chorus": [
+      "ጉሓፍ ዝነበርኩ ተመስገን ጐይታየይ",
+      "ኣፍደገ ተዓጽወ ስምዖን ጨከነለይ",
+      "ሃንደበት ተኸፍተ ልበይ ፈሊጡለይ",
+      "ናብኡ ንኽቐርብ ኣዘዘኒ ጐይታይ",
+      "እግሩ ሓጺበዮ ወዲቐ ብምብካይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እምኒ ዝጨበጡ ፈረድቲ ከቢቦም",
+          "ፊት ጐይታ ኣቖሙኒ ንነውረይ ዘርዚሮም",
+          "ፈሪዳቶም`ውን ሕጊ ንዓኣቶም",
+          "ምሒሩኒ እዩ ንጉሥ ዘለዓለም /2/",
+          "ኣይሁድ ከበቡኒ እምኒ ተሰኪሞም",
+          "ብብዝሒ ሓጢኣተይ ሓጢኣቶም ረሲዖም",
+          "ሕሊና ዝወቅስ ናይ ኣምላኽና መሰል",
+          "ሰላሙ ሂቡኒ ንጉሥ ዘለዓለም /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መድኃኔ ዓለም ዝገበሮ ንዓይ",
+          "ኣብ ኵሉ ዘመነይ ንዝራህርሃለይ",
+          "ሕይወተይ ምሉእ እዩ ናይ ፍቕሩ ውዕለታት",
+          "ኣይፍለዮን እየ ክሳዕ መወዳእታ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በዓል ውዕለተይ’ዩ",
-      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-      "lyrics": "[[chorus]]\nኣፍደገ ተዓጽወ ስምዖን ጨከነለይ\nሃንደበት ተኸፍተ ልበይ ፈሊጡለይ\nናብኡ ንኽቐርብ ኣዘዘኒ ጐይታይ\nእግሩ ሓጺበዮ ወዲቐ ብምብካይ (2)\n[[/chorus]]\n\nበዓል ውዕለተይ’ዩ (2) ካብ ሓመድ ኣልዒሉ\nጉሓፍ ዝነበርኩ ተመስገን ጐይታየይ\n\nእምኒ ዝጨበጡ ፈረድቲ ከቢቦም\nፊት ጐይታ ኣቖሙኒ ንነውረይ ዘርዚሮም\nፈሪዳቶም`ውን ሕጊ ንዓኣቶም\nምሒሩኒ እዩ ንጉሥ ዘለዓለም (2)\n\nመድኃኔ ዓለም ዝገበሮ ንዓይ\nኣብ ኵሉ ዘመነይ ንዝራህርሃለይ\nሕይወተይ ምሉእ እዩ ናይ ፍቕሩ ውዕለታት\nኣይፍለዮን እየ ክሳዕ መወዳእታ (2)"
-    },
-    "ti_ro": {
-      "title": "Be'al w'letey’yu",
-      "zemari": "liqe mezemran tedros yosef",
-      "lyrics": "[[chorus]]\nGru hatsibeyo wediqe bmbkay (2)\n[[/chorus]]\n\nBeal wletey’yu (2) kab hamed alilu\nGuhaf zneberku temesgen goytayey\nAfdege teatswe smon chekeneley\nHandebet tekhefte lbey felituley\nNabu nkhqerb azezeni goytay\nMni zchebetu feredti kebibom\nFit goyta aqomuni nnewrey zerzirom\nFeridatom`wn hgi naatom\nMhiruni yu nguss zelealem (2)\nAyhud kebebuni mni tesekimom\nBbzhi hatiatey hatiatom resiom\nHlina zweqs nay amlakhna mesel\nSelamu hibuni nguss zelealem (2)\nMedhane alem zgebero nay\nAb kwilu zemeney nzrahrhaley\nHywetey mlu yu nay fqru wletat\nAyfleyon ye ksa mewedata (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Guhaf zneberku temesgen gwaytayey",
+      "Afdege te'ats'we sm'on ch'ekeneley",
+      "Handebet tekhefte lbey felit'uley",
+      "Nabu nkhqerb azezeni gwaytay",
+      "Gru hats'ibeyo wediqe bmbkay /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mni zch'ebet'u feredti kebibom",
+          "Fit gwayta aqomuni nnewrey zerzirom",
+          "Feridatom`wn hgi n'aatom",
+          "Mhiruni yu nguss zele'alem /2/",
+          "Ayhud kebebuni mni tesekimom",
+          "Bbzhi hat'iatey hat'iatom resi'om",
+          "Hlina zweqs nay amlakhna mesel",
+          "Selamu hibuni nguss zele'alem /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Medhane 'alem zgebero n'ay",
+          "Ab kwlu zemeney nzrahrhaley",
+          "Hywetey mlu yu nay fqru w'letat",
+          "Ayfleyon ye ksa' mewedata /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,105 @@
 {
-  "id": "h_efr_a246d510ae",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኪዳነ ምሕረት"
+  "id": 507,
+  "title": "ኪዳነ ምሕረት",
+  "ti": {
+    "chorus": [
+      "ለምንልና ምሕረት ክትረክብ ቅሳነት",
+      "ኣድሕንያ ካብ ዓለም መዓት",
+      "ቃልኪዳን ዘለኪ   ኪዳነ ምሕረት",
+      "ናይ ዘልዓለም         >>  >>",
+      "መመክሒት ኢኺ    >>  >>",
+      "ንፍጥረታት ዓለም    >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅድስተ ቅዱሳን           ኪዳነ ምሕረት",
+          "ትንቢት ናይ ነቢያት          >>  >>",
+          "ናይ ሓዋርያት ሞገስ           >>  >>",
+          "ኣደ ናይ ሰማእታት           >>  >>",
+          "ኤፍሬም ብውዳሴ ኪዳነ ምሕረት",
+          "ንዘመስገነኪ            >>  >>",
+          "ደመና ናይ ኤልያስ     >>  >>",
+          "ድንግል ንስኺ ኢኺ   >>  >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መድኃኒት ምስ መጸ    ኪዳነ ምሕረት",
+          "ሰይጣን’ውን ሓፈረ         >>  >>",
+          "ናይቲ ዜና ኣብሳሪ          >>  >>",
+          "ገብርኤል ነበረ              >>  >>",
+          "ናይ በሓቂ መልኣኽ  ኪዳነ ምሕረት",
+          "ምኻኑ ርኢኺ           >>  >>",
+          "ይኹነለይ ኢልኪ        >>  >>",
+          "ቃሉ ተቐቢልኪ         >>  >>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ብጽንዓት ክሓልፎ         ኪዳነ ምሕረት",
+          "ቲ’ናይ ለይቲ ግርማ           >>  >>",
+          "ምእንታን ክንኣቱ              >>  >>",
+          "ኣብ ጻድቃን ከተማ           >>  >>",
+          "ክንለብስ ፍቕርኺ  ኪዳነ ምሕረት",
+          "ከም ሓዋርያት           >>  >>"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኪዳነ ምሕረት",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nቃልኪዳን ዘለኪ ኪዳነ ምሕረት\nናይ ዘልዓለም\nመመክሒት ኢኺ\nንፍጥረታት ዓለም\n[[/chorus]]\n\nኪዳነ ምሕረት ንኤርትራ\nለምንልና ምሕረት ክትረክብ ቅሳነት\nኣድሕንያ ካብ ዓለም መዓት\n\nቅድስተ ቅዱሳን       ኪዳነ ምሕረት\nትንቢት ናይ ነቢያት\nናይ ሓዋርያት ሞገስ\nኣደ ናይ ሰማእታት\n\nመድኃኒት ምስ መጸ ኪዳነ ምሕረት\nሰይጣን’ውን ሓፈረ\nናይቲ ዜና ኣብሳሪ\nገብርኤል ነበረ\n\nብጽንዓት ክሓልፎ      ኪዳነ ምሕረት\nቲ’ናይ ለይቲ ግርማ\nምእንታን ክንኣቱ\nኣብ ጻድቃን ከተማ"
-    },
-    "ti_ro": {
-      "title": "Kidane mhret",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Kidane mhret nertra\nLemnlna mhret ktrekb qsanet\nAdhnya kab alem meat\nQalkidan zeleki kidane mhret\nNay zelalem\nMemekhit ikhi\nNftretat alem\nQdste qdusan kidane mhret\nTnbit nay nebiyat\nNay hawaryat moges\nAde nay sematat\nEfrem bwdase kidane mhret\nNzemesgeneki\nDemena nay elyas\nDngl nskhi ikhi\nMedhanit ms metse kidane mhret\nSeytan’wn hafere\nNayti zena absari\nGebrel nebere\nNay behaqi melakh kidane mhret\nMkhanu rikhi\nYkhuneley ilki\nQalu teqebilki\nBtsnat khalfo kidane mhret\nTi’nay leyti grma\nMntan knatu\nAb tsadqan ketema\nKnlebs fqrkhi kidane mhret\nKem hawaryat\nKemakhi thtna\nTsnat kem sematat"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Lemnlna mhret ktrekb qsanet",
+      "Adhnya kab 'alem me'at",
+      "Qalkidan zeleki   kidane mhret",
+      "Nay zel'alem         >>  >>",
+      "Memekhit ikhi    >>  >>",
+      "Nft'retat 'alem    >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdste qdusan           kidane mhret",
+          "Tnbit nay nebiyat          >>  >>",
+          "Nay hawaryat moges           >>  >>",
+          "Ade nay sematat           >>  >>",
+          "Efrem bwdase kidane mhret",
+          "Nzemesgeneki            >>  >>",
+          "Demena nay elyas     >>  >>",
+          "Dngl nskhi ikhi   >>  >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Medhanit ms mets'e    kidane mhret",
+          "Seyt'an’wn hafere         >>  >>",
+          "Nayti zena absari          >>  >>",
+          "Gebrel nebere              >>  >>",
+          "Nay behaqi melakh  kidane mhret",
+          "Mkhanu rikhi           >>  >>",
+          "Ykhuneley ilki        >>  >>",
+          "Qalu teqebilki         >>  >>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Bts'n'at khalfo         kidane mhret",
+          "Ti’nay leyti grma           >>  >>",
+          "Mntan knatu              >>  >>",
+          "Ab ts'adqan ketema           >>  >>",
+          "Knlebs fqrkhi  kidane mhret",
+          "Kem hawaryat           >>  >>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

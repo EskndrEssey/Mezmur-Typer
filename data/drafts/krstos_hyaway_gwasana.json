@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_621068d120",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክርስቶስ ሕያዋይ ጓሳና"
+  "id": 475,
+  "title": "ክርስቶስ ሕያዋይ ጓሳና",
+  "ti": {
+    "chorus": [
+      "ክርስቶስ ሕያዋይ ጓሳና ኣቦና",
+      "ስለ ዘፍቀረና ሞይቱ ኣድኂኑና",
+      "ጸልማት ናይ ኩነኔ መታን ከኽትም",
+      "ተገሊጹልና’ዩ ንጉሥ ናይ ሰላም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓሙሽተ ሽሕን ሓሙሽተ ሚእትን",
+          "ናይ መርገም ዓመታት ናይ ፍዳ ዘመን",
+          "ክርስቶስ ምስ መጸ ፍጹም ተቐይሩ",
+          "ግዝኣት ናይ ዲያብሎስ ኣሰይ ተሳዒሩ",
+          "ኣብ ክንዲ ጻድቕ የለን ዝመውት",
+          "ስለ ፈታዊኡ ይህሉ ምናልባት",
+          "ጐይታ ግና ጌና ኣብ ኃጢኣት ከለና",
+          "ስለ ዘፍቀረና ሞይቱ ኣብ ክንዳና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዝገፍዓና ገፊዑልና ጐይታ",
+          "ሰላም እናብሰረ ንሲኦል ዘመታ",
+          "ሓዘን የለን ሕጂ ኮይኑ’ዩ ዕልልታ",
+          "ዝተዓጽወት ገነት ኣሰይ ተኸፊታ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክርስቶስ ሕያዋይ ጓሳና",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nንኽፍጽመሉ ተስፋ ናይ ኣዳም\nካብ ድንግል ተወልደ መድኃኔ ዓለም\nጸልማት ናይ ኩነኔ መታን ከኽትም\nተገሊጹልና’ዩ ንጉሥ ናይ ሰላም\n[[/chorus]]\n\nክርስቶስ ሕያዋይ ጓሳና ኣቦና\nስለ ዘፍቀረና ሞይቱ ኣድኂኑና\nኣቦታት ኣዴታት ኣሕዋት ኣሓት\nምስጋና ነቕርብ ስለዚ ውዕለት\n\nሓሙሽተ ሽሕን ሓሙሽተ ሚእትን\nናይ መርገም ዓመታት ናይ ፍዳ ዘመን\nክርስቶስ ምስ መጸ ፍጹም ተቐይሩ\nግዝኣት ናይ ዲያብሎስ ኣሰይ ተሳዒሩ\n\nንዝገፍዓና ገፊዑልና ጐይታ\nሰላም እናብሰረ ንሲኦል ዘመታ\nሓዘን የለን ሕጂ ኮይኑ’ዩ ዕልልታ\nዝተዓጽወት ገነት ኣሰይ ተኸፊታ"
-    },
-    "ti_ro": {
-      "title": "Krstos hyaway gwasana",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Krstos hyaway gwasana abona\nSle zefqerena moytu adhinuna\nAbotat adetat ahwat ahat\nMsgana neqrb slezi wlet\nNkhftsmelu tesfa nay adam\nKab dngl tewelde medhane alem\nTselmat nay kunene metan kekhtm\nTegelitsulna’yu nguss nay selam\nHamushte shhn hamushte mitn\nNay mergem ametat nay fda zemen\nKrstos ms metse ftsum teqeyru\nGzat nay diyablos asey tesairu\nAb kndi tsadq yelen zmewt\nSle fetawiu yhlu mnalbat\nGoyta gna gena ab hatiat kelena\nSle zefqerena moytu ab kndana\nNzgefana gefiulna goyta\nSelam nabsere nsiol zemeta\nHazen yelen hji koynu’yu llta\nZteatswet genet asey tekhefita"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Krstos hyaway gwasana abona",
+      "Sle zefqerena moytu adhinuna",
+      "Ts'elmat nay kunene metan kekhtm",
+      "Tegelits'ulna’yu nguss nay selam"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hamushte shhn hamushte mitn",
+          "Nay mergem 'ametat nay fda zemen",
+          "Krstos ms mets'e fts'um teqeyru",
+          "Gzat nay diyablos asey tesa'iru",
+          "Ab kndi ts'adq yelen zmewt",
+          "Sle fetawiu yhlu mnalbat",
+          "Gwayta gna gena ab hat'iat kelena",
+          "Sle zefqerena moytu ab kndana"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nzgef'ana gefi'ulna gwayta",
+          "Selam nabsere nsiol zemeta",
+          "Hazen yelen hji koynu’yu 'llta",
+          "Zte'ats'wet genet asey tekhefita"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

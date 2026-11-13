@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_c679c301c4",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መልኣከ ራማ"
+  "id": 295,
+  "title": "መልኣከ ራማ",
+  "ti": {
+    "chorus": [
+      "መልኣከ ራማ ሰማያዊ",
+      "ሄር ለዋህ ኣቦ ሰላማዊ",
+      "ስሙ ጸውዑ ክረድኣና",
+      "ሚካኤል በሉ ክንፉ ከጽልለልና",
+      "ኣቦ ሓሶት ጉርሒ ቀናእ ብባህሪኡ",
+      "ኣምላኽነት ጐይታ ዘውትር ሃረርታኡ",
+      "ምስሉይ ውቁብ ሕብሩ ቆይሙ ኣብ ቅድሜና",
+      "የኽመስምስ’ዩ ዘሎ ክሰልብ ቀልብና /2/",
+      "ነዓ ሚካኤል ተገለጽ ብኽብሪ",
+      "ነዓ ሚካኤል  ሓዘና ዛዛሚ",
+      "ሃልኪ ድኻም ጉዕዞ ኣንጻር’ዩ ንባህረይ",
+      "ፍርደይ ዘንጊዐዮ መስኪን እንታይ ግደይ /2/",
+      "ነዓ ሚካኤል ኣእምሮይ ክፈቶ",
+      "ነዓ ሚካኤል ሕይወተይ ለውጦ",
+      "ነዓ ሚካኤል ኣምሳል ሕይወት ባህራን",
+      "ነዓ ሚካኤል ነፍሲ ወድኻ ኣድሕን",
+      "ኣምሳል ሽፍታ መሮር ኣንፈተይ ወሲና",
+      "ከም ዕምኮ ንጫቚት ንስጉመይ ከርዲና",
+      "ኣምርሕ ትብል ዓለም ጉዕዞይ ከተፈልም",
+      "ናብ ኣድማስ ዓዘቕቲ መንክር’ዩ መስደምም /2/",
+      "ነዓ ሚካኤል ቀልስ ኣንፈት ጉዕዞይ",
+      "ነዓ ሚካኤል  ኣንፈት ርስቲ ቤተይ",
+      "ነዓ ሚካኤል  እሙን መሪሕ እስራኤል",
+      "ነዓ ሚካኤል ዙርያ ጉዕዞይ ከልል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብረ ገነት ኪዳነ ምሕረት (ሰምበል)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መልኣከ ራማ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nኣቦ ሓሶት ጉርሒ ቀናእ ብባህሪኡ\nኣምላኽነት ጐይታ ዘውትር ሃረርታኡ\nምስሉይ ውቁብ ሕብሩ ቆይሙ ኣብ ቅድሜና\nየኽመስምስ’ዩ ዘሎ ክሰልብ ቀልብና (2)\nነዓ ሚካኤል ተገለጽ ብኽብሪ\nነዓ ሚካኤል ሓዘና ዛዛሚ\nነዓ ሚካኤል ትጽውዕ’ያ ዘላ\nነዓ ሚካኤል ኣፎምያ ናይ ሎሚ\n[[/chorus]]\n\nመልኣከ ራማ ሰማያዊ\nሄር ለዋህ ኣቦ ሰላማዊ\nስሙ ጸውዑ ክረድኣና\nሚካኤል በሉ ክንፉ ከጽልለልና\n\nጠቐር ኃጢኣት ክፍኣት ስልማት መልክዐይ\nማሙቕ ሶፋ ምቾት ትምኒት ሕንቁቕ ልበይ\nሃልኪ ድኻም ጉዕዞ ኣንጻር’ዩ ንባህረይ\nፍርደይ ዘንጊዐዮ መስኪን እንታይ ግደይ (2)\nነዓ ሚካኤል ኣእምሮይ ክፈቶ\nነዓ ሚካኤል ሕይወተይ ለውጦ\nነዓ ሚካኤል ኣምሳል ሕይወት ባህራን\nነዓ ሚካኤል ነፍሲ ወድኻ ኣድሕን\n\nደብረ ገነት ኪዳነ ምሕረት (ሰምበል)"
-    },
-    "ti_ro": {
-      "title": "Melake rama",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "[[chorus]]\nFrdey zengiayo meskin ntay gdey (2)\n[[/chorus]]\n\nMelake rama semayawi\nHer lewah abo selamawi\nSmu tsewu kredana\nMikael belu knfu ketsllelna\nAbo hasot gurhi qena bbahriu\nAmlakhnet goyta zewtr harertau\nMsluy wqub hbru qoymu ab qdmena\nYekhmesms’yu zelo kselb qelbna (2)\nNea mikael tegelets bkhbri\nNea mikael hazena zazami\nNea mikael ttsw’ya zela\nNea mikael afomya nay lomi\nTeqer hatiat kfat slmat melkay\nMamuq sofa mchot tmnit hnquq lbey\nHalki dkham guzo antsar’yu nbahrey\nNea mikael amroy kfeto\nNea mikael hywetey lewto\nNea mikael amsal hywet bahran\nNea mikael nefsi wedkha adhn\nAmsal shfta meror anfetey wesina\nKem mko nchaqwat nsgumey kerdina\nAmrh tbl alem guzoy ketefelm\nNab admas azeqti menkr’yu mesdemm (2)\nNea mikael qels anfet guzoy\nNea mikael anfet rsti betey\nNea mikael mun merih srael\nNea mikael zurya guzoy kell\nDebre genet kidane mhret (sembel)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Melake rama semayawi",
+      "Her lewah abo selamawi",
+      "Smu ts'ew'u kredana",
+      "Mikael belu knfu kets'llelna",
+      "Abo hasot gurhi qena bbahriu",
+      "Amlakhnet gwayta zewtr harertau",
+      "Msluy wqub hbru qoymu ab qdmena",
+      "Yekhmesms’yu zelo kselb qelbna /2/",
+      "Ne'a mikael tegelets' bkhbri",
+      "Ne'a mikael  hazena zazami",
+      "Halki dkham gu'zo ants'ar’yu nbahrey",
+      "Frdey zengi'eyo meskin ntay gdey /2/",
+      "Ne'a mikael amroy kfeto",
+      "Ne'a mikael hywetey lewt'o",
+      "Ne'a mikael amsal hywet bahran",
+      "Ne'a mikael nefsi wedkha adhn",
+      "Amsal shfta meror anfetey wesina",
+      "Kem 'mko nch'aqwit nsgumey kerdina",
+      "Amrh tbl 'alem gu'zoy ketefelm",
+      "Nab admas 'azeqti menkr’yu mesdemm /2/",
+      "Ne'a mikael qels anfet gu'zoy",
+      "Ne'a mikael  anfet rsti betey",
+      "Ne'a mikael  mun merih srael",
+      "Ne'a mikael zurya gu'zoy kell"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debre genet kidane mhret (sembel)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

@@ -1,41 +1,97 @@
 {
-  "id": "h_efr_b97a1cc3e0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኦ ኤልሳዕ"
+  "id": 402,
+  "title": "ኦ ኤልሳዕ",
+  "ti": {
+    "chorus": [
+      "እግዚኣብሔር ንኣቦኻ ካባኻ ዝፈልየሉ በጺሑ’ዩ ጊዜኡ",
+      "ነቢይ ኤልያስ ንሰማይ ዝዓርገሉ",
+      "ፈሊጠ ኣለኹ ሱቕ እንዶ በሉ",
+      "ትዕግስቲ ጽንዓት ከም ሽግ ኣልዕሉ",
+      "መንፈስ ኣቦይ ክቕበል’የ",
+      "ንኣምላኸይ ዘኽብረሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኦ ረድአይ  ኤልሳዕ ስምዓኒ ዝብለካ ሎሚ",
+          "ናብ ቤት ኤል ያዕቆብ ዝረኣየላ ሕልሚ",
+          "እግዚኣብሔር ክኸይድ ንዓይ ኣዚዙኒ",
+          "ክሳብ ዝምለሰካ ኣብዚ ተጸበየኒ",
+          "ብሕያው እግዚኣብሔር ብቅዱስ ሕይወትካ",
+          "እምሕል ኣለኹ ንዓኻ ከይሓድገካ",
+          "ኣይክእልን እዩ ልበይ ኣይትዛረቦ ደጊምካ",
+          "ሕራይ ደኣ በለኒ ዘለዓለም ከገልግለካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ድሌት ኣምላኽ ክፍጸም ካባኻ ክስወር",
+          "ተነጊሩኒ ኣሎ ኣብ ምድሪ ከም ዘይነብር",
+          "ደጊም ለምነኒ እትደልዮ ውህበት",
+          "ክፍለይ’የ ካባኻ ክዓርግ ናብ ሰማያት",
+          "ዘኽቲመ ንኸይተርፍ ኣብ ዓለም ንበይነይ",
+          "ተስፋ ውን ከይቆርጽ ከይዓርብ ሕሊናይ",
+          "ብቑዕ ኮይነ ክወርስ ርስቲ ላዕላይ ሰማይ",
+          "ካብቲ መንፈስካ ዕጽፊ ይውረድ ኣብ ልዕለይ",
+          "(2ይነገ. 2፡11)",
+          "ተፈሊኻ ተሰዊርካኒ ንዓይ ንወድኻ",
+          "ከመይ ክኢልዎ ‘ቲ ለዋህ ልብኻ",
+          "ፍቕርኻ ምሉእ ቀናእ ብኣምላኽካ",
+          "ከመይ ኢልካ ጨኪንካ ተመለሰኒ በጃኻ",
+          "ኣቦይ ኣቦይ ሓያል ሓላዊ እስራኤል",
+          "ኣቦይ ኣቦይ ነቢይ ናይቲ ልዑል"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኦ ኤልሳዕ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nብሕያው እግዚኣብሔር ብቅዱስ ሕይወትካ\nእምሕል ኣለኹ ንዓኻ ከይሓድገካ\nኣይክእልን እዩ ልበይ ኣይትዛረቦ ደጊምካ\nሕራይ ደኣ በለኒ ዘለዓለም ከገልግለካ\n[[/chorus]]\n\nኦ ኤልሳዕ ስምዓና መንፈስ እግዚኣብሔር ዘዛረበና\nእግዚኣብሔር ንኣቦኻ ካባኻ ዝፈልየሉ በጺሑ’ዩ ጊዜኡ\nነቢይ ኤልያስ ንሰማይ ዝዓርገሉ\nፈሊጠ ኣለኹ ሱቕ እንዶ በሉ\nትዕግስቲ ጽንዓት ከም ሽግ ኣልዕሉ\nመንፈስ ኣቦይ ክቕበል’የ\nንኣምላኸይ ዘኽብረሉ\nኦ ረድአይ ኤልሳዕ ስምዓኒ ዝብለካ ሎሚ\nናብ ቤት ኤል ያዕቆብ ዝረኣየላ ሕልሚ\nእግዚኣብሔር ክኸይድ ንዓይ ኣዚዙኒ\nክሳብ ዝምለሰካ ኣብዚ ተጸበየኒ\n\nድሌት ኣምላኽ ክፍጸም ካባኻ ክስወር\nተነጊሩኒ ኣሎ ኣብ ምድሪ ከም ዘይነብር\nደጊም ለምነኒ እትደልዮ ውህበት\nክፍለይ’የ ካባኻ ክዓርግ ናብ ሰማያት\nዘኽቲመ ንኸይተርፍ ኣብ ዓለም ንበይነይ\nተስፋ ውን ከይቆርጽ ከይዓርብ ሕሊናይ\nብቑዕ ኮይነ ክወርስ ርስቲ ላዕላይ ሰማይ\nካብቲ መንፈስካ ዕጽፊ ይውረድ ኣብ ልዕለይ\n\nተፈሊኻ ተሰዊርካኒ ንዓይ ንወድኻ\nከመይ ክኢልዎ ‘ቲ ለዋህ ልብኻ\nፍቕርኻ ምሉእ ቀናእ ብኣምላኽካ\nከመይ ኢልካ ጨኪንካ ተመለሰኒ በጃኻ\nኣቦይ ኣቦይ ሓያል ሓላዊ እስራኤል\nኣቦይ ኣቦይ ነቢይ ናይቲ ልዑል\nኣቦይ ኣቦይ መጋቢ ሕይወተይ\nኣቦይ ኣቦይ ተመለስ በጃኻ ናባይ (2)"
-    },
-    "ti_ro": {
-      "title": "O elsa'",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAboy aboy temeles bejakha nabay (2)\n[[/chorus]]\n\nO elsa smana menfes gziabher zezarebena\nGziabher nabokha kabakha zfelyelu betsihu’yu gizeu\nNebiy elyas nsemay zargelu\nFelite alekhu suq ndo belu\nTgsti tsnat kem shg allu\nMenfes aboy kqbel’ye\nNamlakhey zekhbrelu\nO reday elsa smani zbleka lomi\nNab bet el yaqob zreayela hlmi\nGziabher kkheyd nay azizuni\nKsab zmleseka abzi tetsebeyeni\nBhyaw gziabher bqdus hywetka\nMhl alekhu nakha keyhadgeka\nAykln yu lbey aytzarebo degimka\nHray dea beleni zelealem kegelgleka\nDlet amlakh kftsem kabakha kswer\nTenegiruni alo ab mdri kem zeynebr\nDegim lemneni tdelyo whbet\nKfley’ye kabakha karg nab semayat\nZekhtime nkheyterf ab alem nbeyney\nTesfa wn keyqorts keyarb hlinay\nBqu koyne kwers rsti lalay semay\nKabti menfeska tsfi ywred ab lley\n(2Ynege. 211)\nTefelikha tesewirkani nay nwedkha\nKemey kilwo ‘ti lewah lbkha\nFqrkha mlu qena bamlakhka\nKemey ilka chekinka temeleseni bejakha\nAboy aboy hayal halawi srael\nAboy aboy nebiy nayti lul\nAboy aboy megabi hywetey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gziabher nabokha kabakha zfelyelu bets'ihu’yu gizeu",
+      "Nebiy elyas nsemay z'argelu",
+      "Felit'e alekhu suq ndo belu",
+      "T'gsti ts'n'at kem shg al'lu",
+      "Menfes aboy kqbel’ye",
+      "Namlakhey zekhbrelu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "O redey  elsa' sm'ani zbleka lomi",
+          "Nab bet el ya'qob zreayela hlmi",
+          "Gziabher kkheyd n'ay azizuni",
+          "Ksab zmleseka abzi tets'ebeyeni",
+          "Bhyaw gziabher bqdus hywetka",
+          "Mhl alekhu n'akha keyhadgeka",
+          "Aykln yu lbey aytzarebo degimka",
+          "Hray dea beleni zele'alem kegelgleka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Dlet amlakh kfts'em kabakha kswer",
+          "Tenegiruni alo ab mdri kem zeynebr",
+          "Degim lemneni tdelyo whbet",
+          "Kfley’ye kabakha k'arg nab semayat",
+          "Zekhtime nkheyterf ab 'alem nbeyney",
+          "Tesfa wn keyqorts' key'arb hlinay",
+          "Bqu' koyne kwers rsti la'lay semay",
+          "Kabti menfeska 'ts'fi ywred ab l'ley",
+          "(2Ynege. 2፡11)",
+          "Tefelikha tesewirkani n'ay nwedkha",
+          "Kemey kilwo ‘ti lewah lbkha",
+          "Fqrkha mlu qena bamlakhka",
+          "Kemey ilka ch'ekinka temeleseni bejakha",
+          "Aboy aboy hayal halawi srael",
+          "Aboy aboy nebiy nayti l'ul"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

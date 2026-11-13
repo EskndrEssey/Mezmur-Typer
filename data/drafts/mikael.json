@@ -1,44 +1,57 @@
 {
-  "id": "h_efr_aa69ac28c5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሚካኤል"
+  "id": 214,
+  "title": "ሚካኤል",
+  "ti": {
+    "chorus": [
+      "ናይ እግዚአብሔር ልኡኽ",
+      "ረዳኢ ድኹም",
+      "ነዓና ተማልድ ንደቂ ሰባት                    ሚካኤል",
+      "ጸሎት ተቕርብ ንጹህ መስዋእቲ               >> >>",
+      "ስርየት ኅድገት ኃጢኣት ንኽንረክብ ጽድቅ   >> >>",
+      "ሕያዋይ ኣቦ ኢኻ ረዳኢ ብሓቂ               >> >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብቕጽበት ትመጽእ ካብ ሰማያት     ሚካኤል",
+          "ኣብ ምድሪ ትበጽሕ ንምሕረት       >> >>",
+          "ሽግር እትቕይር ናብ ፍጹም ሓጎስ    >> >>",
+          "ስምካ ንዝጽውዕ እትወሓስ           >> >>",
+          "ኦ ሚካኤል መልኣኽ ለዋህ ኢኻ    ሚካኤል",
+          "ነቲ ምስኪን ድኻ ዝረዳእኻ          >> >>",
+          "ነቲ ደብዳቤ ሞት መርዓ ዝቐየርካ   >> >>",
+          "ሕይወትና ቀይሮ ሎሚ ብጸሎትካ   >> >>"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሚካኤል",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nኣጽዋር ሰረገላ ትምክሕቲ ዘይዓጅቦ\nኣብ በረኻ ሲና ንሕዝቡ ዝመርሖ\nበዓል ዓቢይ ውዕለት ትሑትን ሓቀኛን\nመን'ዩ ከም ሚካኤል ዝተኣምነ ሓርበኛ\n[[/chorus]]\n\nበዓልሻም መልኣኽ እሙን ዓቀይታይ\nሊቀ መላእክት ኣገልጋሊ ጐይታይ\nኣብ ጎነይ ኣሎ ኣብ ጎድንና ኣሎ\nክድግፈና ሚካኤል ንበሎ\n\nሓያል ተዋጋኢ ክንዲ ሕዝቡ ኮይኑ\nፈቃር ትሑት ለዋህ ዓይኒ ርግቢ ዓይኑ\nታሪኸይ ክትቅይር ጽንሓኒ ኣብ ኣኽራን\nሓለቓ ኩነለይ ክኾነልካ ባህራን\n\nበዓል ዓቢይ ራእይ ኮይኑ ኣብ ባቢሎን\nክትንስእ'ዩ ኢሉካ ነቲ ዓቢይ መስፍን\nዝቐውም ንሕዝቡ ኣብ ጊዜ መከራ\nካብዛ ባሕሪ ኃጢኣት ነፍስና ኣስግራ"
-    },
-    "ti_ro": {
-      "title": "Mikael",
-      "zemari": "di/n efrem",
-      "lyrics": "Bealsham melakh mun aqeytay"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Nay gziebher lukh",
+      "Redai dkhum",
+      "Ne'ana temald ndeqi sebat                    mikael",
+      "Ts'elot teqrb nts'uh meswati               >> >>",
+      "Sryet hdget hat'iat nkhnrekb ts'dq   >> >>",
+      "Hyaway abo ikha redai bhaqi               >> >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bqts'bet tmets' kab semayat     mikael",
+          "Ab mdri tbets'h nmhret       >> >>",
+          "Shgr tqyr nab fts'um hagos    >> >>",
+          "Smka nzts'w' twehas           >> >>",
+          "O mikael melakh lewah ikha    mikael",
+          "Neti mskin dkha zredakha          >> >>",
+          "Neti debdabe mot mer'a zqeyerka   >> >>",
+          "Hywetna qeyro lomi bts'elotka   >> >>"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "short_fragment"
+    "no_title_line_found"
   ]
 }

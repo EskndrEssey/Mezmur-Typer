@@ -1,41 +1,42 @@
 {
-  "id": "h_efr_f45fff821f",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከመስግነኪ ብዘመነይ"
+  "id": 29,
+  "title": "ከመስግነኪ ብዘመነይ",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም ኣደ ኣምላኽ",
+      "ከመስግነኪ ብዘመነይ",
+      "ንወድኺ’ውን ክብሪ ውዳሴ",
+      "ተቕርበሉ ወትሩ ንነፍሰይ /2/",
+      "ልበይ’ውን ተላዕለ ክቓኒ ፍቕርኺ",
+      "ብፍጹም ትሕትና ከመስግን ንዓኺ",
+      "ናይ ሰማይ ናይ ምድሪ ንግስቲ ዝኾነት",
+      "ክብሪ ይግበኣ ወትሩ ንግሆ ምሸት",
+      "ሓደራኺ ድንግል ኣደ ናይ ኩላትና",
+      "ብምልጃኺ ድንግል ኣይትፈለይና",
+      "ነቲ ባሕሪ ሓዊ ኣስግርና ድንግል",
+      "ንኸይንመውት ከይንርኢ ስቓይ"
+    ],
+    "verses": []
   },
-  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከመስግነኪ ብዘመነይ",
-      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-      "lyrics": "[[chorus]]\nልበይ’ውን ተላዕለ ክቓኒ ፍቕርኺ\nብፍጹም ትሕትና ከመስግን ንዓኺ\nመጸናንዒት ናይ ኣብርሃም ድንኳን\nዝተሓጽረት ተኽሊ እመብዙሃን\n[[/chorus]]\n\nድንግል ማርያም ኣደ ኣምላኽ\nከመስግነኪ ብዘመነይ\nንወድኺ’ውን ክብሪ ውዳሴ\nተቕርበሉ ወትሩ ንነፍሰይ (2)\n\nዝለምለመት መሬት ኣምላኽ ዝመረጻ\nናይ ጽላት ማሕደር ታቦቱ ድንግል’ያ\nናይ ሰማይ ናይ ምድሪ ንግስቲ ዝኾነት\nክብሪ ይግበኣ ወትሩ ንግሆ ምሸት"
-    },
-    "ti_ro": {
-      "title": "Kemesgneki bzemeney",
-      "zemari": "liqe mezemran tedros yosef",
-      "lyrics": "[[chorus]]\nTeqrbelu wetru nnefsey (2)\n[[/chorus]]\n\nDngl maryam ade amlakh\nKemesgneki bzemeney\nNwedkhi’wn kbri wdase\nLbey’wn telale kqani fqrkhi\nBftsum thtna kemesgn nakhi\nMetsenanit nay abrham dnkwan\nZtehatsret tekhli mebzuhan\nZlemlemet meret amlakh zmeretsa\nNay tslat mahder tabotu dngl’ya\nNay semay nay mdri ngsti zkhonet\nKbri ygbea wetru ngho mshet\nHaderakhi dngl ade nay kulatna\nBmljakhi dngl aytfeleyna\nNeti bahri hawi asgrna dngl\nNkheynmewt keynri sqay"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam ade amlakh",
+      "Kemesgneki bzemeney",
+      "Nwedkhi’wn kbri wdase",
+      "Teqrbelu wetru nnefsey /2/",
+      "Lbey’wn tela'le kqani fqrkhi",
+      "Bfts'um thtna kemesgn n'akhi",
+      "Nay semay nay mdri ngsti zkhonet",
+      "Kbri ygbea wetru ngho mshet",
+      "Haderakhi dngl ade nay kulatna",
+      "Bmljakhi dngl aytfeleyna",
+      "Neti bahri hawi asgrna dngl",
+      "Nkheynmewt keynri sqay"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

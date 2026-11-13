@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_199804e3f3",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መዕቆቢተይ ከተማ"
+  "id": 209,
+  "title": "መዕቆቢተይ ከተማ",
+  "ti": {
+    "chorus": [
+      "መዕቆቢተይ ከተማ `ታ ብሰላም ዝነብረላ",
+      "ድንግል ማርያመይ ተክሊ ጽላለይ ልበይ ዘዕርፈላ",
+      "ኣለኒ ኢለ እቲ ዝምክሖ",
+      "ጸሎታ'ዩ ንለይተይ ዘውግሖ",
+      "ካብዛ ክፍእቲ እዋን ደጊኣ ዝማዕረገ",
+      "ግንብንብ ዝባህሪኣ ህድኣታ ዝተዘርገ",
+      "ወዲ ሰብ ዘይቀስነላ ኣንፈቱ ጠፊእዎ",
+      "ሳልኣ እምበር ማርያመይ የምልጥ መን ኢልዎ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብራኸይ ወለል ኢለን ኮይንወን ከይዕጸፋ",
+          "ሃለኽለኽ ተመንዩወን ድሕሪ ሰበን ከይተርፋ",
+          "ኮፍ ኢለ ዘዕርፈላ ትንፋሰይ ንኽመልስ",
+          "ጽዮነይ ጽላል ጉዕዞይ ህላወይ እተውሕስ /2/",
+          "ዘይሕለል ጸላእየይ ክጓጥየኒ ብሓሳብ",
+          "ምስጢር ጉደይ ቀሊዑ ንጥፍኣት ክረባረብ",
+          "ርግኣት ልበይ ብሂጉ ኣበሳይ ዝሸፈነ",
+          "ልማኖኣ'ዶ ኣይኮነን ውርውር ኵናት ዘምከነ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሽውሽውታ ንፋስ ባሕሪ ክሓንን ዘይኣመሉ",
+          "እቲ ጥዑም ጸሓይ ንግሆ ክንድር ተቐይሩ",
+          "ዝናብ ኣይሂ ክወርድ ተሰንዩ ብነጎድጓድ",
+          "ዑቕባ ነፍሰይ ኢያ ድንግል ፍርሒ ልበይ ተወግድ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መዕቆቢተይ ከተማ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nካብዛ ክፍእቲ እዋን ደጊኣ ዝማዕረገ\nግንብንብ ዝባህሪኣ ህድኣታ ዝተዘርገ\nወዲ ሰብ ዘይቀስነላ ኣንፈቱ ጠፊእዎ\nሳልኣ እምበር ማርያመይ የምልጥ መን ኢልዎ (2)\n[[/chorus]]\n\nመዕቆቢተይ ከተማ `ታ ብሰላም ዝነብረላ\nድንግል ማርያመይ ተክሊ ጽላለይ ልበይ ዘዕርፈላ\nኣለኒ ኢለ እቲ ዝምክሖ\nጸሎታ'ዩ ንለይተይ ዘውግሖ\n\nኣብራኸይ ወለል ኢለን ኮይንወን ከይዕጸፋ\nሃለኽለኽ ተመንዩወን ድሕሪ ሰበን ከይተርፋ\nኮፍ ኢለ ዘዕርፈላ ትንፋሰይ ንኽመልስ\nጽዮነይ ጽላል ጉዕዞይ ህላወይ እተውሕስ (2)\n\nሽውሽውታ ንፋስ ባሕሪ ክሓንን ዘይኣመሉ\nእቲ ጥዑም ጸሓይ ንግሆ ክንድር ተቐይሩ\nዝናብ ኣይሂ ክወርድ ተሰንዩ ብነጎድጓድ\nዑቕባ ነፍሰይ ኢያ ድንግል ፍርሒ ልበይ ተወግድ (2)\nዲ/ን ተስፋዓለም"
-    },
-    "ti_ro": {
-      "title": "Me'qobitey ketema",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\nTsyoney tslal guzoy hlawey tewhs (2)\n[[/chorus]]\n\nMeqobitey ketema `ta bselam znebrela\nDngl maryamey tekli tslaley lbey zerfela\nAleni ile ti zmkho\nTselota'yu nleytey zewgho\nKabza kfti wan degia zmarege\nGnbnb zbahria hdata ztezerge\nWedi seb zeyqesnela anfetu tefiwo\nSala mber maryamey yemlt men ilwo (2)\nAbrakhey welel ilen koynwen keytsefa\nHalekhlekh temenyuwen dhri seben keyterfa\nKof ile zerfela tnfasey nkhmels\nZeyhlel tselayey kgwatyeni bhasab\nMstir gudey qeliu ntfat krebareb\nRgat lbey bhigu abesay zshefene\nLmanoa'do aykonen wrwr kwinat zemkene (2)\nShwshwta nfas bahri khann zeyamelu\nTi tum tsehay ngho kndr teqeyru\nZnab ayhi kwerd tesenyu bnegodgwad\nUqba nefsey iya dngl frhi lbey tewegd (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Me'qobitey ketema `ta bselam znebrela",
+      "Dngl maryamey tekli ts'laley lbey ze'rfela",
+      "Aleni ile ti zmkho",
+      "Ts'elota'yu nleytey zewgho",
+      "Kabza kfti wan degia zma'rege",
+      "Gnbnb zbahria hdata ztezerge",
+      "Wedi seb zeyqesnela anfetu t'efiwo",
+      "Sala mber maryamey yemlt' men ilwo /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abrakhey welel ilen koynwen key'ts'efa",
+          "Halekhlekh temenyuwen dhri seben keyterfa",
+          "Kof ile ze'rfela tnfasey nkhmels",
+          "Ts'yoney ts'lal gu'zoy hlawey tewhs /2/",
+          "Zeyhlel ts'elayey kgwat'yeni bhasab",
+          "Mst'ir gudey qeli'u nt'fat krebareb",
+          "Rgat lbey bhigu abesay zshefene",
+          "Lmanoa'do aykonen wrwr kwnat zemkene /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Shwshwta nfas bahri khann zeyamelu",
+          "Ti t''um ts'ehay ngho kndr teqeyru",
+          "Znab ayhi kwerd tesenyu bnegodgwad",
+          "'Uqba nefsey iya dngl frhi lbey tewegd /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

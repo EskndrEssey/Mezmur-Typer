@@ -1,0 +1,55 @@
+{
+  "id": 258,
+  "title": "ዕፀ ሕይወት",
+  "ti": {
+    "chorus": [
+      "መድኃኒት ዕፀ ሕይወት /2/",
+      "ዝንቱ ውእቱ መስቀል /2/",
+      "መድኃኒቶሙ ለእስራኤል /2/",
+      "በኣምሳለ ኣርዌ ብርት ዘገዳም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዘኣግብኦ ለኣዳም /2/",
+          "ገነተ ተድላ ወትፍስሕት /2/",
+          "ሓይልነ ወጸወንነ /2/",
+          "ለእለ ነኣምን መድኃኒትነ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ያድህኖሙ በመስቀሉ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Medhanit 'ts'e hywet /2/",
+      "Zntu wtu mesqel /2/",
+      "Medhanitomu lesrael /2/",
+      "Beamsale arwe brt zegedam /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zeagbo leadam /2/",
+          "Genete tedla wetfsht /2/",
+          "Haylne wets'ewenne /2/",
+          "Lele neamn medhanitne /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Yadhnomu bemesqelu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_dd04c29cdd",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምስጋና ንማርያም"
+  "id": 335,
+  "title": "ምስጋና ንማርያም",
+  "ti": {
+    "chorus": [
+      "ምስጋና ንማርያም ካብ ሞት",
+      "ኣድኂና ብሕይወት ዘንበረትና",
+      "ናይ ቅዱሳን ሕይወት ኣደ መድኃኒና /2/",
+      "ንዓኺ መሪጹ ከይተፈጥረ ዓለም",
+      "ንዓና ንኸድሕን ሕያው መድኃኔ ዓለም",
+      "ብኣኺ ኢና’ሞ ሕይወት ዝረኸብና",
+      "ምስጋና ይብጻሕኪ ማርያም ኣዴና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ሰማይ ወሪዱ መድኃኔ ዓለም",
+          "ብሓቂ ይመስገን ይኽበር ንዘልዓለም",
+          "ንዘምር ኩልና ንጐይታ ፈጣሪ",
+          "ክንዲ ዝሃበና ናይ ዘልዓለም ክብሪ",
+          "ሓጢኣትና በዚሑ ሸኽሙ ከቢዱና",
+          "ኣቃልልና’ዶ ርህርህቲ ኣዴና",
+          "ንዓና ደቅኺ ሓጢኣት ዝበዝሓና",
+          "ካብ ፍቑር ወድኺ ምሕረት ለምንልና",
+          "መሰረት ሕይወትና ድኅነት ናይ ነፍስና",
+          "ኣምላኽ ብምውላድኪ ካብ ጸልማት ወጺና",
+          "ካብ መከራ ኣውጺኡ ክህበና ሰላም",
+          "ተወሊዱ ጐይታ ካብ ድንግል ማርያም"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምስጋና ንማርያም",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nንዓኺ መሪጹ ከይተፈጥረ ዓለም\nንዓና ንኸድሕን ሕያው መድኃኔ ዓለም\nብኣኺ ኢና’ሞ ሕይወት ዝረኸብና\nምስጋና ይብጻሕኪ ማርያም ኣዴና\n[[/chorus]]\n\nምስጋና ንማርያም ካብ ሞት\nኣድኂና ብሕይወት ዘንበረትና\nናይ ቅዱሳን ሕይወት ኣደ መድኃኒና (2)\n\nካብ ሰማይ ወሪዱ መድኃኔ ዓለም\nብሓቂ ይመስገን ይኽበር ንዘልዓለም\nንዘምር ኩልና ንጐይታ ፈጣሪ\nክንዲ ዝሃበና ናይ ዘልዓለም ክብሪ\n\nጸጋ ዝተመልኣኪ ማርያም ቅድስቲ\nካብ ኩለን ኣንስቲ ንስኺ ሕርይቲ\nንዓና ደቅኺ ሓጢኣት ዝበዝሓና\nካብ ፍቑር ወድኺ ምሕረት ለምንልና"
-    },
-    "ti_ro": {
-      "title": "Msgana nmaryam",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nNay qdusan hywet ade medhanina (2)\n[[/chorus]]\n\nMsgana nmaryam kab mot\nAdhina bhywet zenberetna\nNakhi meritsu keytefetre alem\nNana nkhedhn hyaw medhane alem\nBakhi ina’mo hywet zrekhebna\nMsgana ybtsahki maryam adena\nKab semay weridu medhane alem\nBhaqi ymesgen ykhber nzelalem\nNzemr kulna ngoyta fetari\nKndi zhabena nay zelalem kbri\nHatiatna bezihu shekhmu kebiduna\nAqallna’do rhrhti adena\nTegbarna kefiu mesilna nalem\nAdhnna dngl kab sate gehanem\nTsega ztemelaki maryam qdsti\nKab kulen ansti nskhi hryti\nNana deqkhi hatiat zbezhana\nKab fqur wedkhi mhret lemnlna\nMeseret hywetna dhnet nay nefsna\nAmlakh bmwladki kab tselmat wetsina\nKab mekera awtsiu khbena selam\nTewelidu goyta kab dngl maryam"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Msgana nmaryam kab mot",
+      "Adhina bhywet zenberetna",
+      "Nay qdusan hywet ade medhanina /2/",
+      "N'akhi merits'u keytefet're 'alem",
+      "N'ana nkhedhn hyaw medhane 'alem",
+      "Bakhi ina’mo hywet zrekhebna",
+      "Msgana ybts'ahki maryam adena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab semay weridu medhane 'alem",
+          "Bhaqi ymesgen ykhber nzel'alem",
+          "Nzemr kulna ngwayta fet'ari",
+          "Kndi zhabena nay zel'alem kbri",
+          "Hat'iatna bezihu shekhmu kebiduna",
+          "Aqallna’do rhrhti adena",
+          "N'ana deqkhi hat'iat zbezhana",
+          "Kab fqur wedkhi mhret lemnlna",
+          "Meseret hywetna dhnet nay nefsna",
+          "Amlakh bmwladki kab ts'elmat wets'ina",
+          "Kab mekera awts'iu khbena selam",
+          "Tewelidu gwayta kab dngl maryam"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

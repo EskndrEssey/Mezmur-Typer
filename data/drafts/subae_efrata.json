@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_17a969e410",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሱባኤ ኤፍራታ"
+  "id": 300,
+  "title": "ሱባኤ ኤፍራታ",
+  "ti": {
+    "chorus": [
+      "ማሕላ ቅዱሳን ሱባኤ ኤፍራታ",
+      "ጽርሐ ኣርያም እግዚአብሔር ዝብሕታ",
+      "ድንግል ማርያም ጽዮናዊት ኣደ",
+      "ማዕከን ቅድስና ዝወቀበት ደገ",
+      "ድንኳን ቤቱ ምርጋጽ ብፍጹም ዘቕበጸ",
+      "ተሓሲሙ ምቾት ኩርኳሕ ዝመረጸ",
+      "መዕለቢ ክረክብ ዝተሰወረ ዛዕባ",
+      "ስብሐት እንብለሉ ናይ ሰማያት ዋዕላ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅድስና ነቢያት ጉዕዞ ንሱባኤ",
+          "በቂዕና ክንርእዮ’ቲ ሰናይ ጉባኤ",
+          "ልዳት ተሰርሓሉ ትርኢት ኲኖ ማዕዶ",
+          "ጓሉ ምስ ኣዲኡ ከመስግን ብግህዶ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ባህጊ ልቢ ኣምላኽ ተሰምዐ ኣብ ኤፍራታ",
+          "ንጹር እምበር ነይሩ ዘይለበሰ ኢንታ",
+          "ሓቅነት ዘሟሙቕ ዘይተረኽቦ ማእረ",
+          "ሕሊና ዘቕሰነ ልሳን’ውን መስከረ /2/",
+          "ዓለም ብዓለማ ኮይንዋ ኣምስጥሮ",
+          "ግድል ዝተሓስበ ተመሊሱ ድሮ",
+          "ተረኺባ ኣዴና ጸጋዊት ናጽነት",
+          "ብክርስቶስ ወዳ ትልግስ ሓርነት /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሱባኤ ኤፍራታ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nድንኳን ቤቱ ምርጋጽ ብፍጹም ዘቕበጸ\nተሓሲሙ ምቾት ኩርኳሕ ዝመረጸ\nመዕለቢ ክረክብ ዝተሰወረ ዛዕባ\nስብሐት እንብለሉ ናይ ሰማያት ዋዕላ (2)\n[[/chorus]]\n\nማሕላ ቅዱሳን ሱባኤ ኤፍራታ\nጽርሐ ኣርያም እግዚአብሔር ዝብሕታ\nድንግል ማርያም ጽዮናዊት ኣደ\nማዕከን ቅድስና ዝወቀበት ደገ\n\nቅድስና ነቢያት ጉዕዞ ንሱባኤ\nበቂዕና ክንርእዮ’ቲ ሰናይ ጉባኤ\nነቢይ ናታን ትንቢት ተገልጸሉ\nብኢደ ሰሎሞን ቤት ኣምላኽ ቀይሱ (2)\n\nባህጊ ልቢ ኣምላኽ ተሰምዐ ኣብ ኤፍራታ\nንጹር እምበር ነይሩ ዘይለበሰ ኢንታ\nሓቅነት ዘሟሙቕ ዘይተረኽቦ ማእረ\nሕሊና ዘቕሰነ ልሳን’ውን መስከረ (2)"
-    },
-    "ti_ro": {
-      "title": "Subae efrata",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "[[chorus]]\nSbhat nblelu nay semayat wala (2)\n[[/chorus]]\n\nMahla qdusan subae efrata\nTsrha aryam gziabher zbhta\nDngl maryam tsyonawit ade\nMaken qdsna zweqebet dege\nDnkwan betu mrgats bftsum zeqbetse\nTehasimu mchot kurkwah zmeretse\nMelebi krekb ztesewere zaba\nQdsna nebiyat guzo nsubae\nBeqina knryo’ti senay gubae\nNebiy natan tnbit tegeltselu\nBide selomon bet amlakh qeysu (2)\nTnbit znebere zmare nay dawit\nQetsri gziabher nkhferi sewit\nLdat teserhalu trit kuno mado\nGwalu ms adiu kemesgn bghdo (2)\nBahgi lbi amlakh tesema ab efrata\nNtsur mber neyru zeylebese inta\nHaqnet zemwimuq zeyterekhbo mare\nHlina zeqsene lsan’wn meskere (2)\nAlem balema koynwa amstro\nGdl ztehasbe temelisu dro\nTerekhiba adena tsegawit natsnet\nBkrstos weda tlgs harnet (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mahla qdusan subae efrata",
+      "Ts'rhe aryam gziebher zbhta",
+      "Dngl maryam ts'yonawit ade",
+      "Ma'ken qdsna zweqebet dege",
+      "Dnkwan betu mrgats' bfts'um zeqbets'e",
+      "Tehasimu mchot kurkwah zmerets'e",
+      "Me'lebi krekb ztesewere za'ba",
+      "Sbhet nblelu nay semayat wa'la /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdsna nebiyat gu'zo nsubae",
+          "Beqi'na knryo’ti senay gubae",
+          "Ldat teserhalu trit kwino ma'do",
+          "Gwalu ms adiu kemesgn bghdo /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bahgi lbi amlakh tesem'e ab efrata",
+          "Nts'ur mber neyru zeylebese inta",
+          "Haqnet zeሟmuq zeyterekhbo mare",
+          "Hlina zeqsene lsan’wn meskere /2/",
+          "'Alem b'alema koynwa amst'ro",
+          "Gdl ztehasbe temelisu dro",
+          "Terekhiba adena ts'egawit nats'net",
+          "Bkrstos weda tlgs harnet /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

@@ -1,41 +1,63 @@
 {
-  "id": "h_efr_5a28d559e2",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ለዋህ ፈቃር ኢኻ"
+  "id": 370,
+  "title": "ለዋህ ፈቃር ኢኻ",
+  "ti": {
+    "chorus": [
+      "ለዋህ ፈቃር ኢኻ ንኃጥኣን ተፍቅር",
+      "ናብ ቤቶም ትኣቱ ኣብ መኣዶም ትነብር",
+      "ዜናኻ ሰሚዕና ኣብዚ ጽርሐ መቕደስካ",
+      "ናባይ ንዑ ዝብል ቅዱስ ደሃይካ",
+      "ሶበ ሰማዕነ ዜናከ /3/ መጻእነ ሃቤከ",
+      "መቓልሕ ሰሚዐ ኣብ ኣጸድካ ኣብ ቅዱስ መቕደስካ",
+      "ስብሓት ጸኒሑኒ ተኣምራትካ ዜና ውዳሴኻ",
+      "በዚ ይሓልፍ ኣሎ ምስ በሉኒ ክርኢ ንዓኻ",
+      "ኣብ ሳግላ ሓዅረ ኣማዕደኹ ነቲ ብርሃን ገጽካ",
+      "ቃላትካ ሰሚዐ መኔ ቴቄል ኦፋርሲን ተባህለ",
+      "ሕይወተይ ኣብ ሚዛን ተመዚኑ ኣዝዩ ምስ ቀለለ",
+      "ንሜዶን ንፋርስ ንባርነት ተዋህበት መንግስተይ",
+      "አምላኽ ግን ብምሕረት መሊስካያ ነታ ውልድነተይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ህንጻኻ ከፍርስ ተላዒለ መዶሻ ኣልዒለ",
+          "ኣውታር ናይ ብርሃንካ ኣንጸብሪቑ ኣዕይንተይ ኣዕወረ",
+          "ሳውል ግደፍ ደኣ ኣይትጋገ ኣይተሳድደኒ",
+          "ደጊም ጳውሎስ ኢኻ ሕሩይ ኣቕሓይ ስመይ ጹር በልካኒ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ለዋህ ፈቃር ኢኻ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nመቓልሕ ሰሚዐ ኣብ ኣጸድካ ኣብ ቅዱስ መቕደስካ\nስብሓት ጸኒሑኒ ተኣምራትካ ዜና ውዳሴኻ\nናይ እግሪ መብራህቲ ብርሃን መገዲ እቲ ሕያው ቃልካ\nመኣዲ ቀሪቡ እንጌራ ሕይወት ቅዱስ ስጋኻ ደምካ\n[[/chorus]]\n\nለዋህ ፈቃር ኢኻ ንኃጥኣን ተፍቅር\nናብ ቤቶም ትኣቱ ኣብ መኣዶም ትነብር\nዜናኻ ሰሚዕና ኣብዚ ጽርሐ መቕደስካ\nናባይ ንዑ ዝብል ቅዱስ ደሃይካ\nሶበ ሰማዕነ ዜናከ (3) መጻእነ ሃቤከ\n\nፀሓየ ጽድቅ ጐይታ መድኅን ዓለም ክብሉኻ ሰሚዐ\nዕዉራት ለምጻማት ዋላ ምዉታን ክምስክሩ ርእየ\nበዚ ይሓልፍ ኣሎ ምስ በሉኒ ክርኢ ንዓኻ\nኣብ ሳግላ ሓዅረ ኣማዕደኹ ነቲ ብርሃን ገጽካ\n\nህንጻኻ ከፍርስ ተላዒለ መዶሻ ኣልዒለ\nኣውታር ናይ ብርሃንካ ኣንጸብሪቑ ኣዕይንተይ ኣዕወረ\nሳውል ግደፍ ደኣ ኣይትጋገ ኣይተሳድደኒ\nደጊም ጳውሎስ ኢኻ ሕሩይ ኣቕሓይ ስመይ ጹር በልካኒ"
-    },
-    "ti_ro": {
-      "title": "Lewah feqar ikha",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Lewah feqar ikha nhatan tefqr\nNab betom tatu ab meadom tnebr\nZenakha semina abzi tsrha meqdeska\nNabay nu zbl qdus dehayka\nSobe semane zenake (3) metsane habeke\nMeqalh semia ab atsedka ab qdus meqdeska\nSbhat tsenihuni teamratka zena wdasekha\nNay gri mebrahti brhan megedi ti hyaw qalka\nMeadi qeribu ngera hywet qdus sgakha demka\nTsehaye tsdq goyta medhn alem kblukha semia\nWurat lemtsamat wala mwutan kmskru rye\nBezi yhalf alo ms beluni kri nakha\nAb sagla hakwire amadekhu neti brhan getska\nQalatka semia mene teqel ofarsin tebahle\nHywetey ab mizan temezinu azyu ms qelele\nNmedon nfars nbarnet tewahbet mengstey\nAmlakh gn bmhret meliskaya neta wldnetey\nHntsakha kefrs telaile medosha alile\nAwtar nay brhanka antsebriqu ayntey awere\nSawl gdef dea aytgage aytesaddeni\nDegim pawlos ikha hruy aqhay smey tsur belkani"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Lewah feqar ikha nhat'an tefqr",
+      "Nab betom tatu ab meadom tnebr",
+      "Zenakha semi'na abzi ts'rhe meqdeska",
+      "Nabay n'u zbl qdus dehayka",
+      "Sobe sema'ne zenake /3/ mets'ane habeke",
+      "Meqalh semi'e ab ats'edka ab qdus meqdeska",
+      "Sbhat ts'enihuni teamratka zena wdasekha",
+      "Bezi yhalf alo ms beluni kri n'akha",
+      "Ab sagla hakhwre ama'dekhu neti brhan gets'ka",
+      "Qalatka semi'e mene teqel ofarsin tebahle",
+      "Hywetey ab mizan temezinu azyu ms qelele",
+      "Nmedon nfars nbarnet tewahbet mengstey",
+      "Emlakh gn bmhret meliskaya neta wldnetey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hnts'akha kefrs tela'ile medosha al'ile",
+          "Awtar nay brhanka ants'ebriqu a'yntey a'were",
+          "Sawl gdef dea aytgage aytesaddeni",
+          "Degim p'awlos ikha hruy aqhay smey ts'ur belkani"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

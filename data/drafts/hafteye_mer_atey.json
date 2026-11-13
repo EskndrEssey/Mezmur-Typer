@@ -1,41 +1,93 @@
 {
-  "id": "h_efr_4519ea2ccc",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሓፍተየ መርዓተይ"
+  "id": 5,
+  "title": "ሓፍተየ መርዓተይ",
+  "ti": {
+    "chorus": [
+      "ኣነ'ውን ክብለኪ ኣደይ",
+      "እመ ኣምላኽ እተዊ ቤተይ",
+      "ኣነ'ውን ክብለኪ ኣደይ ማርያም እተዊ ቤተይ",
+      "ኵሉ እንከጣጥሕ ንርእሱ መንበር",
+      "ናይ ክብሪ ስልማት ንርእሱ እንኪኣስር",
+      "ድንግል ግን ከም ባርያ ማይ እናወረድኪ",
+      "ጐይታ ብትሕትና ተገልግሊ ኔርኪ",
+      "ንዒ ብደመና ንዒ ብደመና",
+      "ኣዴና ማርያም ርህርህተ ሕሊና (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ወርቂ ዝለበሳ ንቤት ዝመልኣ",
+          "ብሃሪ ብዕንቍ ርእሰን ዝስለማ",
+          "ሓያሎ ኣብ ቅድሚ ሰብ ጽቡቓት ከለዋ",
+          "ንስኺ በሊጽኪ ካብ ኩለን ብግርማ",
+          "ንዒ ብደመና ንዒ ብደመና",
+          "ኣዴና ማርያም ርህርህተ ሕሊና (2)",
+          "ኣዕብዩኪ እንከሎ ቲ'መልኣኽ ኣብ ሕቑፉ",
+          "ስልምቲ ከለኺ በዚሑልኪ ህያቡ",
+          "ብፍጹም ትሕትና ስለ ዘገልገልኪ",
+          "ከም ናይ ኪሩብ መልኣኽ ንመለኮት ጼርኪ",
+          "ንዒ ብደመና ንዒ ብደመና",
+          "ኣዴና ማርያም ርህርህተ ሕሊና (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ውርደት ናይ ባርያኡ ተመልኪቱ'ዩሞ",
+          "ንወድኺ ንጉሥ ምስጋና ይኹኖ",
+          "ከንቱ ብዘይኮነ ብምሉእ ልብና",
+          "ንዘልዓለም ንጽህት ንብለኪ ኣሎና",
+          "ንዒ ብደመና ንዒ ብደመና",
+          "ኣዴና ማርያም ርህርህተ ሕሊና (2)"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሓፍተየ መርዓተይ",
-      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-      "lyrics": "[[chorus]]\nኵሉ እንከጣጥሕ ንርእሱ መንበር\nናይ ክብሪ ስልማት ንርእሱ እንኪኣስር\nድንግል ግን ከም ባርያ ማይ እናወረድኪ\nጐይታ ብትሕትና ተገልግሊ ኔርኪ\nንዒ ብደመና ንዒ ብደመና\nኣዴና ማርያም ርህርህተ ሕሊና (2)\n[[/chorus]]\n\nሓፍተየ መርዓተይ ሰሎሞን ኢሉኪ (2)\nኣነ'ውን ክብለኪ ኣደይ\nእመ ኣምላኽ እተዊ ቤተይ\nኣነ'ውን ክብለኪ ኣደይ ማርያም እተዊ ቤተይ\n\nወርቂ ዝለበሳ ንቤት ዝመልኣ\nብሃሪ ብዕንቍ ርእሰን ዝስለማ\nሓያሎ ኣብ ቅድሚ ሰብ ጽቡቓት ከለዋ\nንስኺ በሊጽኪ ካብ ኩለን ብግርማ\nንዒ ብደመና ንዒ ብደመና\nኣዴና ማርያም ርህርህተ ሕሊና (2)\n\nውርደት ናይ ባርያኡ ተመልኪቱ'ዩሞ\nንወድኺ ንጉሥ ምስጋና ይኹኖ\nከንቱ ብዘይኮነ ብምሉእ ልብና\nንዘልዓለም ንጽህት ንብለኪ ኣሎና\nንዒ ብደመና ንዒ ብደመና\nኣዴና ማርያም ርህርህተ ሕሊና (2)\nመሪጌታ እንግዳወርቅ በቀለ"
-    },
-    "ti_ro": {
-      "title": "Hafteye mer'atey",
-      "zemari": "qesis ashenafi ge/maryam",
-      "lyrics": "[[chorus]]\nHafteye meratey selomon iluki (2)\n[[/chorus]]\n\nAne'wn kbleki adey\nMe amlakh tewi betey\nAne'wn kbleki adey maryam tewi betey\nKwilu nketath nrsu menber\nNay kbri slmat nrsu nkiasr\nDngl gn kem barya may naweredki\nGoyta bthtna tegelgli nerki\n\nWerqi zlebesa nbet zmela\nBhari bnqwi rsen zslema\nHayalo ab qdmi seb tsbuqat kelewa\nNskhi belitski kab kulen bgrma\n\nAbyuki nkelo ti'melakh ab hqufu\nSlmti kelekhi bezihulki hyabu\nBftsum thtna sle zegelgelki\nKem nay kirub melakh nmelekot tserki\n\nWrdet nay baryau temelkitu'yumo\nNwedkhi nguss msgana ykhuno\nKentu bzeykone bmlu lbna\nNzelalem ntsht nbleki alona\n\nMerigeta ngdawerq beqele"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ane'wn kbleki adey",
+      "Me amlakh tewi betey",
+      "Ane'wn kbleki adey maryam tewi betey",
+      "Kwlu nket'at'h nrsu menber",
+      "Nay kbri slmat nrsu nkiasr",
+      "Dngl gn kem barya may naweredki",
+      "Gwayta bthtna tegelgli nerki",
+      "N'i bdemena n'i bdemena",
+      "Adena maryam rhrhte hlina (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Werqi zlebesa nbet zmela",
+          "Bhari b'nqw rsen zslema",
+          "Hayalo ab qdmi seb ts'buqat kelewa",
+          "Nskhi belits'ki kab kulen bgrma",
+          "N'i bdemena n'i bdemena",
+          "Adena maryam rhrhte hlina (2)",
+          "A'byuki nkelo ti'melakh ab hqufu",
+          "Slmti kelekhi bezihulki hyabu",
+          "Bfts'um thtna sle zegelgelki",
+          "Kem nay kirub melakh nmelekot ts'erki",
+          "N'i bdemena n'i bdemena",
+          "Adena maryam rhrhte hlina (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Wrdet nay baryau temelkitu'yumo",
+          "Nwedkhi nguss msgana ykhuno",
+          "Kentu bzeykone bmlu lbna",
+          "Nzel'alem nts'ht nbleki alona",
+          "N'i bdemena n'i bdemena",
+          "Adena maryam rhrhte hlina (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

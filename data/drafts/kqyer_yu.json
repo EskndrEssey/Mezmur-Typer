@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_4c9593eb37",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክቕየር’ዩ"
+  "id": 210,
+  "title": "ክቕየር’ዩ",
+  "ti": {
+    "chorus": [
+      "ክቕየር’ዩ /2/ ብሓይሊ እግዚአብሔር",
+      "ንተዓገስ ክሓልፍ’ዩ እዚ ምረት እዚ ሽግር",
+      "ቀያሪ’ዩ ታኦስ ቀያሪ ንዅሉ",
+      "ዓቕልና ኣይነጽብብ ኣይንጨነቐሉ",
+      "ህድእ’ሞ ንበል ቃላቱ ንሓሉ",
+      "ቀያሪ’ዩ  ቀያሪ እቲ ጐይታ ኵሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብነት ንግበሮ ነቦና ኢዮብ",
+          "ኣብ ጊዜ ሽግሩ ምስጋና ዘቕርብ",
+          "ደበስ ተደበሰ ዝበለጸ ዕድል",
+          "ትዕግስቱን ጽንዓቱን ዘልበሰቶ ኣኽሊል",
+          "ነቲ ምፍልላይ ምርኻብ ዝገብር",
+          "ንሓዘን ንጓሂ ናብ ሓጎስ ዝቕይር",
+          "ጐይታ’ዩ ዝፍጽም ንዅሉ ዘስምር",
+          "ካብ ሞት ኣተንሲኡ ብሕይወት ዘንብር"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዝያዳ ሓሳብና ኵሉ ድሌታትና",
+          "ሰላምና ዝደሊ ዝከናኸነና",
+          "ብፍቕሪ ዝጓሲ ኣሎ እንዶ ኣቦና",
+          "ኣማኑኤል ስሙ ኩርዓትና ሓበንና"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክቕየር’ዩ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nቀያሪ’ዩ ታኦስ ቀያሪ ንዅሉ\nዓቕልና ኣይነጽብብ ኣይንጨነቐሉ\nህድእ’ሞ ንበል ቃላቱ ንሓሉ\nቀያሪ’ዩ ቀያሪ እቲ ጐይታ ኵሉ\n[[/chorus]]\n\nክቕየር’ዩ (2) ብሓይሊ እግዚአብሔር\nንተዓገስ ክሓልፍ’ዩ እዚ ምረት እዚ ሽግር\n\nኣብነት ንግበሮ ነቦና ኢዮብ\nኣብ ጊዜ ሽግሩ ምስጋና ዘቕርብ\nደበስ ተደበሰ ዝበለጸ ዕድል\nትዕግስቱን ጽንዓቱን ዘልበሰቶ ኣኽሊል\n\nዝያዳ ሓሳብና ኵሉ ድሌታትና\nሰላምና ዝደሊ ዝከናኸነና\nብፍቕሪ ዝጓሲ ኣሎ እንዶ ኣቦና\nኣማኑኤል ስሙ ኩርዓትና ሓበንና"
-    },
-    "ti_ro": {
-      "title": "Kqyer’yu",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Kqyer’yu (2) bhayli gziabher\nNteages khalf’yu zi mret zi shgr\nQeyari’yu taos qeyari nkwilu\nAqlna aynetsbb ayncheneqelu\nHd’mo nbel qalatu nhalu\nQeyari’yu qeyari ti goyta kwilu\nAbnet ngbero nebona iyob\nAb gize shgru msgana zeqrb\nDebes tedebese zbeletse dl\nTgstun tsnatun zelbeseto akhlil\nNeti mfllay mrkhab zgebr\nNhazen ngwahi nab hagos zqyr\nGoyta’yu zftsm nkwilu zesmr\nKab mot atensiu bhywet zenbr\nZyada hasabna kwilu dletatna\nSelamna zdeli zkenakhenena\nBfqri zgwasi alo ndo abona\nAmanuel smu kuratna habenna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kqyer’yu /2/ bhayli gziebher",
+      "Nte'ages khalf’yu zi mret zi shgr",
+      "Qeyari’yu taos qeyari nkhwlu",
+      "'Aqlna aynets'bb aynch'eneqelu",
+      "Hd’mo nbel qalatu nhalu",
+      "Qeyari’yu  qeyari ti gwayta kwlu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abnet ngbero nebona iyob",
+          "Ab gize shgru msgana zeqrb",
+          "Debes tedebese zbelets'e 'dl",
+          "T'gstun ts'n'atun zelbeseto akhlil",
+          "Neti mfllay mrkhab zgebr",
+          "Nhazen ngwahi nab hagos zqyr",
+          "Gwayta’yu zfts'm nkhwlu zesmr",
+          "Kab mot atensiu bhywet zenbr"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zyada hasabna kwlu dletatna",
+          "Selamna zdeli zkenakhenena",
+          "Bfqri zgwasi alo ndo abona",
+          "Amanuel smu kur'atna habenna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

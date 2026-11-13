@@ -1,41 +1,84 @@
 {
-  "id": "h_efr_3d84abd132",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሆየ በሉ"
+  "id": 97,
+  "title": "ሆየ በሉ",
+  "ti": {
+    "chorus": [
+      "ሆየ በሉ /3/ ተቐበሉ",
+      "ንጉሥ ነገስታት     ሆ   ጐይታ ፈጣሪ     ሆ",
+      "ናይ ኵሉ ኣምላኽ  >>   ርሕሩሕ መሓሪ   >>",
+      "ኣብ ደብረ ታቦር   >>  ዝተገለጸ           >>",
+      "ክብሪ መንግስቱ    >>   ዘንጸባረቐ        >>",
+      "ንድምጹ ሰማዕና ብብሩህ ደመና",
+      "እነሆ ብርሃኑ ናባና መጸና",
+      "ያዕቆብ ዮሓንስ  ሆ  ከምኡ’ውን ጴጥሮስ   ሆ",
+      "ኣምላኽ ረኣዩ    >>   ሙሴ ኤልያስ         >>",
+      "ኣቦ’ውን በለ     >>   ወደይ ስምዕዎ        >>",
+      "ቃለይ እዩ’ሞ    >>   ዝወለድክዎ           >>",
+      "ንድምጹ ሰማዕና ብብሩህ ደመና",
+      "እነሆ ብርሃኑ ናባና መጸና",
+      "ቀደም ንሓዋርያት   ሆ    ዝሃበ መንፈስ   ሆ",
+      "ሎሚ’ውን ንዓና    >>    ጸጋኡ የፍስስ    >>",
+      "ቀደም ንሓዋርያት   >>    ዝሃበ መንፈስ   >>",
+      "ሎሚ’ውን ንሃገርና   >>     ጸጋኡ የፍስስ   >>",
+      "በርኸቶም’ውን       >>   ዝገደፉልኪ     >>",
+      "ሃገረ እግዚአብሔር   >>   ኤርትራ ኢኺ  >>",
+      "ንድምጹ ሰማዕና ብብሩህ ደመና",
+      "እነሆ ብርሃኑ ናባና መጸና",
+      "ናይ ጐይታ መስቀል   ሆ  ኣይሁድ ምስ ሓብእዎ  ሆ",
+      "ንጉሥ ቆስጠንጢኖስ  >>  ኣኹዒቱ ኣውጺእዎ    >>",
+      "ንግስቲ ኢለኒ         >>  ኣምላኽ መሪሕዋ      >>",
+      "ናይ ጐይታ መስቀል   >>  ክትርኢ ኣብቂዕዋ      >>",
+      "ንድምጹ ሰማዕና ብብሩህ ደመና",
+      "እነሆ ብርሃኑ ናባና መጸና",
+      "ንመስቀል ዘይኣምን  ሆ ልቡ’ውን ዘይህብ        ሆ",
+      "ኣብ ምዕራፍ 3       >> ኣብ ፊልጵስዩስ የንብብ >>",
+      "ጥፍኣት ፍጻሜኦም  >> ክብሮም ኣብ ነውሮም  >>",
+      "ናይ ምድሪ ሓሳቦም >> ኣምላኾም ከብዶም     >>",
+      "ንዓመታ /2/ ይድገመና ጐይታ",
+      "ንዘልዓለም /2/ ትዕቀበና ድንግል"
+    ],
+    "verses": []
   },
-  "singer": "ዘማሪ ኣለማየሁ ኡርጌ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሆየ በሉ",
-      "zemari": "ዘማሪ ኣለማየሁ ኡርጌ",
-      "lyrics": "[[chorus]]\nእነሆ ብርሃኑ ናባና መጸና\n[[/chorus]]\n\nሆየ በሉ (3) ተቐበሉ\nንጉሥ ነገስታት ሆ ጐይታ ፈጣሪ ሆ\nናይ ኵሉ ኣምላኽ >> ርሕሩሕ መሓሪ >>\nኣብ ደብረ ታቦር >> ዝተገለጸ     >>\nክብሪ መንግስቱ >> ዘንጸባረቐ     >>\nንድምጹ ሰማዕና ብብሩህ ደመና\n\nያዕቆብ ዮሓንስ ሆ ከምኡ’ውን ጴጥሮስ ሆ\nኣምላኽ ረኣዩ >> ሙሴ ኤልያስ       >>\nኣቦ’ውን በለ >> ወደይ ስምዕዎ     >>\nቃለይ እዩ’ሞ >> ዝወለድክዎ       >>\nንድምጹ ሰማዕና ብብሩህ ደመና\n\nቀደም ንሓዋርያት ሆ ዝሃበ መንፈስ ሆ\nሎሚ’ውን ንዓና >> ጸጋኡ የፍስስ >>\nቀደም ንሓዋርያት >> ዝሃበ መንፈስ >>\nሎሚ’ውን ንሃገርና >> ጸጋኡ የፍስስ >>\nንድምጹ ሰማዕና ብብሩህ ደመና\n\nብድንግል ማርያም ሆ ዝተባረኽኪ ሆ\nጻድቃን ቅዱሳን      >> ዝሓደሩልኪ >>\nበርኸቶም’ውን       >> ዝገደፉልኪ >>\nሃገረ እግዚአብሔር >> ኤርትራ ኢኺ >>\nንድምጹ ሰማዕና ብብሩህ ደመና\n\nናይ ጐይታ መስቀል ሆ ኣይሁድ ምስ ሓብእዎ ሆ\nንጉሥ ቆስጠንጢኖስ >> ኣኹዒቱ ኣውጺእዎ >>\nንግስቲ ኢለኒ       >> ኣምላኽ መሪሕዋ      >>\nናይ ጐይታ መስቀል >> ክትርኢ ኣብቂዕዋ         >>\nንድምጹ ሰማዕና ብብሩህ ደመና\n\nንመስቀል ዘይኣምን ሆ ልቡ’ውን ዘይህብ         ሆ\nኣብ ምዕራፍ 3      >> ኣብ ፊልጵስዩስ የንብብ >>\nጥፍኣት ፍጻሜኦም >> ክብሮም ኣብ ነውሮም >>\nናይ ምድሪ ሓሳቦም >> ኣምላኾም ከብዶም >>"
-    },
-    "ti_ro": {
-      "title": "Hoye belu",
-      "zemari": "zemari alemayehu urge",
-      "lyrics": "[[chorus]]\nNdmtsu semana bbruh demena\nNeho brhanu nabana metsena\n[[/chorus]]\nHoye belu (3) teqebelu\nNguss negestat ho goyta fetari ho\nNay kwilu amlakh rhruh mehari\nAb debre tabor ztegeletse\nKbri mengstu zentsebareqe\nYaqob yohans ho kemu’wn petros ho\nAmlakh reayu muse elyas\nAbo’wn bele wedey smwo\nQaley yu’mo zweledkwo\nQedem nhawaryat ho zhabe menfes ho\nLomi’wn nana tsegau yefss\nQedem nhawaryat zhabe menfes\nLomi’wn nhagerna tsegau yefss\nBdngl maryam ho ztebarekhki ho\nTsadqan qdusan zhaderulki\nBerkhetom’wn zgedefulki\nHagere gziabher ertra ikhi\nNay goyta mesqel ho ayhud ms habwo ho\nNguss qostentinos akhuitu awtsiwo\nNgsti ileni amlakh merihwa\nNay goyta mesqel ktri abqiwa\nNmesqel zeyamn ho lbu’wn zeyhb ho\nAb mraf 3 ab filpsyus yenbb\nTfat ftsameom kbrom ab newrom\nNay mdri hasabom amlakhom kebdom\nNameta (2) ydgemena goyta\nNzelalem (2) tqebena dngl"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Hoye belu /3/ teqebelu",
+      "Nguss negestat     ho   gwayta fet'ari     ho",
+      "Nay kwlu amlakh  >>   rhruh mehari   >>",
+      "Ab debre tabor   >>  ztegelets'e           >>",
+      "Kbri mengstu    >>   zents'ebareqe        >>",
+      "Ndmts'u sema'na bbruh demena",
+      "Neho brhanu nabana mets'ena",
+      "Ya'qob yohans  ho  kemu’wn p'et'ros   ho",
+      "Amlakh reayu    >>   muse elyas         >>",
+      "Abo’wn bele     >>   wedey sm'wo        >>",
+      "Qaley yu’mo    >>   zweledkwo           >>",
+      "Ndmts'u sema'na bbruh demena",
+      "Neho brhanu nabana mets'ena",
+      "Qedem nhawaryat   ho    zhabe menfes   ho",
+      "Lomi’wn n'ana    >>    ts'egau yefss    >>",
+      "Qedem nhawaryat   >>    zhabe menfes   >>",
+      "Lomi’wn nhagerna   >>     ts'egau yefss   >>",
+      "Berkhetom’wn       >>   zgedefulki     >>",
+      "Hagere gziebher   >>   ertra ikhi  >>",
+      "Ndmts'u sema'na bbruh demena",
+      "Neho brhanu nabana mets'ena",
+      "Nay gwayta mesqel   ho  ayhud ms habwo  ho",
+      "Nguss qost'ent'inos  >>  akhu'itu awts'iwo    >>",
+      "Ngsti ileni         >>  amlakh merihwa      >>",
+      "Nay gwayta mesqel   >>  ktri abqi'wa      >>",
+      "Ndmts'u sema'na bbruh demena",
+      "Neho brhanu nabana mets'ena",
+      "Nmesqel zeyamn  ho lbu’wn zeyhb        ho",
+      "Ab m'raf 3       >> ab filp'syus yenbb >>",
+      "T'fat fts'ameom  >> kbrom ab newrom  >>",
+      "Nay mdri hasabom >> amlakhom kebdom     >>",
+      "N'ameta /2/ ydgemena gwayta",
+      "Nzel'alem /2/ t'qebena dngl"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

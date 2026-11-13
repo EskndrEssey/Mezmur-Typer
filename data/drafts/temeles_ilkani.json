@@ -1,41 +1,85 @@
 {
-  "id": "h_efr_5664768d3d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተመለስ ኢልካኒ"
+  "id": 855,
+  "title": "ተመለስ ኢልካኒ",
+  "ti": {
+    "chorus": [
+      "ንጊዜያዊ ሓጐስ ንሥጋይ ኣርኪሰ",
+      "ኣብ ኃጢኣት ጥሒለ ግዙኡ ከይከውን",
+      "ተመለስ ኢልካኒ ከቶ ኣይፈንፈንካንን /2/",
+      "ርኹስ ከናፍረይ ክነግር ውዕለትካ",
+      "መልኣኽካ ስደዶ ረዳኢ ባርያኻ",
+      "በቲ ብልዒ ሕይወት መታን ንኽቕደስ",
+      "ኣዕጽምተይ ክድልድል ሓይለይ’ውን ክሕደስ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕሊናይ ረጊጸ ንሥጋይ ክጥዕማ",
+          "ስቅያት ስቕለትካ ጌረ ኣልቦ ጻማ",
+          "ንሓወይ ክቐትል ኣድብየ ክጸናቶ",
+          "ማዕጾይ እናኳሕኳሕካ ኢለካ ኣይትእቶ/2/",
+          "ንጊዜያዊ ተድላ ጣዕሚ ናይዛ ዓለም",
+          "ክሰርቕ ክሕሱ ብጻየይ ክጠልም",
+          "መርገም ናይ ዓበይቲ ኣብ ዝባነይ ጸይረ",
+          "ፍጹም ዘይስቈሮ እምኒ ተቐይረ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣርዌ ተቐይረ ረሲዐ ወለደይ",
+          "ስስዐን ትምክሕትን ጌረዮም ኣዝማደይ",
+          "ጻዊዒትካ መጺኡ ሕሊናይ ደወለ",
+          "ተመለስ ኢሉኒ ካብ ክፍኣት ተኣለ/2/",
+          "ኦ እግዚአብሔር ሕይወተይ ለውጦ",
+          "ታሪኽ ናይ ውድቀተይ ፈጺምካ ቀንጥጦ",
+          "ክልወጥ ሕይወተይ ብፍጹም ምሕረትካ",
+          "ብቃላት ምስጋና መታን ከሥምረካ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተመለስ ኢልካኒ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nርኹስ ከናፍረይ ክነግር ውዕለትካ\nመልኣኽካ ስደዶ ረዳኢ ባርያኻ\nበቲ ብልዒ ሕይወት መታን ንኽቕደስ\nኣዕጽምተይ ክድልድል ሓይለይ’ውን ክሕደስ(2)\n[[/chorus]]\n\nእፈልጥየ ኣምላኸይ ብዙኀ’የ ኣቢሰ\nንጊዜያዊ ሓጐስ ንሥጋይ ኣርኪሰ\nኣብ ኃጢኣት ጥሒለ ግዙኡ ከይከውን\nተመለስ ኢልካኒ ከቶ ኣይፈንፈንካንን (2)\n\nሕሊናይ ረጊጸ ንሥጋይ ክጥዕማ\nስቅያት ስቕለትካ ጌረ ኣልቦ ጻማ\nንሓወይ ክቐትል ኣድብየ ክጸናቶ\nማዕጾይ እናኳሕኳሕካ ኢለካ ኣይትእቶ(2)\n\nኣርዌ ተቐይረ ረሲዐ ወለደይ\nስስዐን ትምክሕትን ጌረዮም ኣዝማደይ\nጻዊዒትካ መጺኡ ሕሊናይ ደወለ\nተመለስ ኢሉኒ ካብ ክፍኣት ተኣለ(2)"
-    },
-    "ti_ro": {
-      "title": "Temeles ilkani",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nTemeles ilkani keto ayfenfenkann (2)\n[[/chorus]]\n\nFeltye amlakhey bzuhe’ye abise\nNgizeyawi hagos nssgay arkise\nAb hatiat thile gzuu keykewn\nRkhus kenafrey knegr wletka\nMelakhka sdedo redai baryakha\nBeti bli hywet metan nkhqdes\nAtsmtey kdldl hayley’wn khdes(2)\nHlinay regitse nssgay ktma\nSqyat sqletka gere albo tsama\nNhawey kqetl adbye ktsenato\nMatsoy nakwahkwahka ileka aytto(2)\nNgizeyawi tedla tami nayza alem\nKserq khsu btsayey ktelm\nMergem nay abeyti ab zbaney tseyre\nFtsum zeysqoro mni teqeyre(2)\nArwe teqeyre resia weledey\nSsan tmkhtn gereyom azmadey\nTsawiitka metsiu hlinay dewele\nTemeles iluni kab kfat teale(2)\nO gziabher hywetey lewto\nTarikh nay wdqetey fetsimka qentto\nKlwet hywetey bftsum mhretka\nBqalat msgana metan kessmreka(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ngizeyawi hagwas nssgay arkise",
+      "Ab hat'iat t'hile gzuu keykewn",
+      "Temeles ilkani keto ayfenfenkann /2/",
+      "Rkhus kenafrey knegr w'letka",
+      "Melakhka sdedo redai baryakha",
+      "Beti bl'i hywet metan nkhqdes",
+      "A'ts'mtey kdldl hayley’wn khdes/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hlinay regits'e nssgay kt''ma",
+          "Sqyat sqletka gere albo ts'ama",
+          "Nhawey kqetl adbye kts'enato",
+          "Ma'ts'oy nakwahkwahka ileka aytto/2/",
+          "Ngizeyawi tedla t'a'mi nayza 'alem",
+          "Kserq khsu bts'ayey kt'elm",
+          "Mergem nay 'abeyti ab zbaney ts'eyre",
+          "Fts'um zeysqwaro mni teqeyre/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Arwe teqeyre resi'e weledey",
+          "Ss'en tmkhtn gereyom azmadey",
+          "Ts'awi'itka mets'iu hlinay dewele",
+          "Temeles iluni kab kfat teale/2/",
+          "O gziebher hywetey lewt'o",
+          "Tarikh nay wdqetey fets'imka qent't'o",
+          "Klwet' hywetey bfts'um mhretka",
+          "Bqalat msgana metan kessmreka/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

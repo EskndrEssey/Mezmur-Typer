@@ -1,41 +1,64 @@
 {
-  "id": "h_efr_bba37e27f7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሳሙኤል"
+  "id": 211,
+  "title": "ሳሙኤል",
+  "ti": {
+    "chorus": [
+      "ንልበይ ዘረስርስ ንዓኻ ዘገልግል",
+      "ውሉድ እንዶ ሃበኒ ሓዘነይ ዘገልል",
+      "ማህጸነይ ክፈቶ በጃኻ ስምዓኒ",
+      "ብዘይካኻ ኣምላኽ መን እሞ ኣሎኒ /2/",
+      "ክሓዘን ክትክዝ ንብዓተይ ከፍስስ",
+      "ዓመታት ኣቑጺረ ዘወትር እንክትክዝ",
+      "ንፍረ ናይ ከርሰይ ብዓይነይ ክርእዮ",
+      "ኣምላኸ ንሕማመይ በጃኻ ስምዓዮ",
+      "ኣምላኸ ንጸሎተይ በጃኻ ስምዓዮ",
+      "ንምንታይ ጓለ’የ ትፍጽሚ ነውሪ",
+      "መታን ክረድኣኒ ሓዘነይ ክርሕቕ",
+      "መርቑኒ ኣቦይ ውርደተይ ክጽንቀቕ /2/",
+      "ኣምላከ እስራኤል ይስማዕኪ",
+      "ድሌት ናይ ልብኺ ፍጻሜ የርኢኺ",
+      "ጓለ’የ እግዚአብሔር ኢዱ የንብረልኪ",
+      "ከምቲ ዝበልኩሞ ከምኡ ይኹነለይ",
+      "ደጊም ተሓጒሰ ሃዲኡ መንፈሰይ",
+      "ፍጻሜ ኣለዎ ‘ቲ ናይ ተስፋ ቃላት",
+      "ክብሪ ንእግዚአብሔር ኣብ ምድሪ ኣብ ሰማያት /2/",
+      "እግዚአብሔር በጺሑኒ",
+      "ውርደት ጸበባይ ርእዩ ንዓይ ደቢሱኒ",
+      "እሙን’ዩ ኣምላኽና ለዋህ ተለማኒ",
+      "ሳሙኤል ክብሎ’የ ሳሙኤል ስለ ዝሰምዓኒ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሳሙኤል",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nክሓዘን ክትክዝ ንብዓተይ ከፍስስ\nዓመታት ኣቑጺረ ዘወትር እንክትክዝ\nንፍረ ናይ ከርሰይ ብዓይነይ ክርእዮ\nኣምላኸ ንሕማመይ በጃኻ ስምዓዮ\nኣምላኸ ንጸሎተይ በጃኻ ስምዓዮ\nንምንታይ ጓለ’የ ትፍጽሚ ነውሪ\nብስኽራን መጺኺ ኣብዚ ተዕገርግሪ\nቤት እግዚአብሔር ኣምላኽ ምዃኑ ዘክሪ\n[[/chorus]]\n\nንልበይ ዘረስርስ ንዓኻ ዘገልግል\nውሉድ እንዶ ሃበኒ ሓዘነይ ዘገልል\nማህጸነይ ክፈቶ በጃኻ ስምዓኒ\nብዘይካኻ ኣምላኽ መን እሞ ኣሎኒ (2)\n\nኣይትበድሉኒ ከምኡ ኣይኮነን ኣቦይ\nንቃላተይ ስምዑ ክትፈልጡ ንውሽጠይ\nመታን ክረድኣኒ ሓዘነይ ክርሕቕ\nመርቑኒ ኣቦይ ውርደተይ ክጽንቀቕ (2)\nኣምላከ እስራኤል ይስማዕኪ\nድሌት ናይ ልብኺ ፍጻሜ የርኢኺ\nጓለ’የ እግዚአብሔር ኢዱ የንብረልኪ"
-    },
-    "ti_ro": {
-      "title": "Samuel",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nBzeykakha amlakh men mo aloni (2)\n[[/chorus]]\n\nNlbey zeresrs nakha zegelgl\nWlud ndo habeni hazeney zegell\nMahtseney kfeto bejakha smani\nKhazen ktkz nbatey kefss\nAmetat aqutsire zewetr nktkz\nNfre nay kersey bayney kryo\nAmlakhe nhmamey bejakha smayo\nAmlakhe ntselotey bejakha smayo\nNmntay gwale’ye tftsmi newri\nBskhran metsikhi abzi tegergri\nBet gziabher amlakh mkwanu zekri\nAytbedluni kemu aykonen aboy\nNqalatey smu ktfeltu nwshtey\nMetan kredani hazeney krhq\nMerquni aboy wrdetey ktsnqeq (2)\nAmlake srael ysmaki\nDlet nay lbkhi ftsame yerikhi\nGwale’ye gziabher idu yenbrelki\nKemti zbelkumo kemu ykhuneley\nDegim tehaguse hadiu menfesey\nFtsame alewo ‘ti nay tesfa qalat\nKbri ngziabher ab mdri ab semayat (2)\nGziabher betsihuni\nWrdet tsebebay ryu nay debisuni\nMun’yu amlakhna lewah telemani\nSamuel kblo’ye samuel sle zsemani"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nlbey zeresrs n'akha zegelgl",
+      "Wlud ndo habeni hazeney zegell",
+      "Mahts'eney kfeto bejakha sm'ani",
+      "Bzeykakha amlakh men mo aloni /2/",
+      "Khazen ktkz nb'atey kefss",
+      "'Ametat aquts'ire zewetr nktkz",
+      "Nfre nay kersey b'ayney kryo",
+      "Amlakhe nhmamey bejakha sm'ayo",
+      "Amlakhe nts'elotey bejakha sm'ayo",
+      "Nmntay gwale’ye tfts'mi newri",
+      "Metan kredani hazeney krhq",
+      "Merquni aboy wrdetey kts'nqeq /2/",
+      "Amlake srael ysma'ki",
+      "Dlet nay lbkhi fts'ame yerikhi",
+      "Gwale’ye gziebher idu yenbrelki",
+      "Kemti zbelkumo kemu ykhuneley",
+      "Degim tehagwise hadiu menfesey",
+      "Fts'ame alewo ‘ti nay tesfa qalat",
+      "Kbri ngziebher ab mdri ab semayat /2/",
+      "Gziebher bets'ihuni",
+      "Wrdet ts'ebebay ryu n'ay debisuni",
+      "Mun’yu amlakhna lewah telemani",
+      "Samuel kblo’ye samuel sle zsem'ani"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

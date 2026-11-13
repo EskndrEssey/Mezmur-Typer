@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_694513545b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተመስገን ኣምላኽ"
+  "id": 386,
+  "title": "ተመስገን ኣምላኽ",
+  "ti": {
+    "chorus": [
+      "ተመስገን ኣምላኽ ሰብ ‘ትምሕር",
+      "ተመስገን ኣምላኽ መስፍን ሰላም",
+      "ተመስገን ኣምላኽ ኣቦ ዘልዓለም",
+      "ጸሓይ እናብረቐ ዝናማት እናዝነመ",
+      "ንፍጥረቱ ዝምግብ ኣምላኽ",
+      "ብበረኸት ኣብዚኁ ፍረ",
+      "ጓሳ ኣባጊዕ ኣምላኽ እስራኤል",
+      "ብሰማይ ምድሪ ዝኸበረ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፈውሲ ናይ ሕሙማት",
+          "መግቢ ናይ ድኻታት",
+          "ምዕራፍ ኢኻ ነቶም ዝጽዕሩ",
+          "ኣርዑትካ ጸይሮም ሰላም ክነብሩ",
+          "ኣንታ ርህሩህ ሳምራዊ ኣምላኽ",
+          "ብግብሪ ኣእዳውካ ክበር ተባረኽ",
+          "ንምድሪ ተጽንዓ በሓይሊ ከሃልነት",
+          "ከይዘራእካ ትዓጽድ ኣምላኽ",
+          "ከይበተንካ ትእክብ ጐይታ",
+          "ኵሉ ትገብር ከምቲ ፍቓድካ",
+          "ንዓኻ እሞ እንታይ ይሰኣነካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተመስገን ኣምላኽ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nጸሓይ እናብረቐ ዝናማት እናዝነመ\nንፍጥረቱ ዝምግብ ኣምላኽ\nብበረኸት ኣብዚኁ ፍረ\nጓሳ ኣባጊዕ ኣምላኽ እስራኤል\nብሰማይ ምድሪ ዝኸበረ\n[[/chorus]]\n\nተመስገን ኣምላኽ ኣንታ ልዑል\nተመስገን ኣምላኽ ሰብ ‘ትምሕር\nተመስገን ኣምላኽ መስፍን ሰላም\nተመስገን ኣምላኽ ኣቦ ዘልዓለም\n\nፈውሲ ናይ ሕሙማት\nመግቢ ናይ ድኻታት\nምዕራፍ ኢኻ ነቶም ዝጽዕሩ\nኣርዑትካ ጸይሮም ሰላም ክነብሩ\nኣንታ ርህሩህ ሳምራዊ ኣምላኽ\nብግብሪ ኣእዳውካ ክበር ተባረኽ"
-    },
-    "ti_ro": {
-      "title": "Temesgen amlakh",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Temesgen amlakh anta lul\nTemesgen amlakh seb ‘tmhr\nTemesgen amlakh mesfn selam\nTemesgen amlakh abo zelalem\nTsehay nabreqe znamat nazneme\nNftretu zmgb amlakh\nBberekhet abzihu fre\nGwasa abagi amlakh srael\nBsemay mdri zkhebere\nFewsi nay hmumat\nMegbi nay dkhatat\nMraf ikha netom ztsru\nArutka tseyrom selam knebru\nAnta rhruh samrawi amlakh\nBgbri adawka kber tebarekh\nNmdri tetsna behayli kehalnet\nKeyzeraka tatsd amlakh\nKeybetenka tkb goyta\nKwilu tgebr kemti fqadka\nNakha mo ntay yseaneka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Temesgen amlakh seb ‘tmhr",
+      "Temesgen amlakh mesfn selam",
+      "Temesgen amlakh abo zel'alem",
+      "Ts'ehay nabreqe znamat nazneme",
+      "Nft'retu zmgb amlakh",
+      "Bberekhet abzihu fre",
+      "Gwasa abagi' amlakh srael",
+      "Bsemay mdri zkhebere"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Fewsi nay hmumat",
+          "Megbi nay dkhatat",
+          "M'raf ikha netom zts''ru",
+          "Ar'utka ts'eyrom selam knebru",
+          "Anta rhruh samrawi amlakh",
+          "Bgbri adawka kber tebarekh",
+          "Nmdri tets'n'a behayli kehalnet",
+          "Keyzeraka t'ats'd amlakh",
+          "Keybetenka tkb gwayta",
+          "Kwlu tgebr kemti fqadka",
+          "N'akha mo ntay yseaneka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

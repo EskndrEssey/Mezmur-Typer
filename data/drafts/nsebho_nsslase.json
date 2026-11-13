@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_d9f3cb62fa",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንሴብሖ ንሥላሴ"
+  "id": 465,
+  "title": "ንሴብሖ ንሥላሴ",
+  "ti": {
+    "chorus": [
+      "ንሴብሖ ንሥላሴ (2)",
+      "ክበር ተመስገን ኣምላከ ሙሴ (2)",
+      "ኣማላዲትና ኣዴና (2)",
+      "ንዒ ንዒ ንግስትና",
+      "ተረኸቢ ኣብ ማእከልና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነዓ ነዓ ሚካኤል (2)",
+          "ኣብ ትሕቲ ኣክናፍካ ኣጽልለና (2)"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ነዓ ነዓ ዑራኤል (2)",
+          "ከም ቅዱስ እዝራ ሱቱኤል",
+          "ሃበና ጥበብ ምስትውዓል (2)",
+          "ነዓ ነዓ ጊዮርጊስ(2)",
+          "ንጉሥ ዘልዳ ጊዮርጊስ",
+          "ገድልኻ ሰሚዕና ንፍወስ (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ነዓ ነዓ ተክለሃይማኖት (2)",
+          "ይሓልወና ናትካ ጸሎት",
+          "ንኽንጸንዕ ኣብ ሃይማኖት (2)",
+          "ነዓ ነዓ በኣናብስት (2)",
+          "ኣቦ ኩላትና ገብረሕይወት",
+          "ደቀይ በለና ኣብ ሰማያት (2)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንሴብሖ ንሥላሴ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣማላዲትና ኣዴና (2)\nንዒ ንዒ ንግስትና\nተረኸቢ ኣብ ማእከልና\n[[/chorus]]\n\nንሴብሖ ንሥላሴ (2)\nክበር ተመስገን ኣምላከ ሙሴ (2)\n\nነዓ ነዓ ሚካኤል (2)\nመልኣከ ምክሩ ለልዑል\nኣብ እግርኻ ይወድቕ ሳጥናኤል (2)\n\nነዓ ነዓ ዑራኤል (2)\nከም ቅዱስ እዝራ ሱቱኤል\nሃበና ጥበብ ምስትውዓል (2)\n\nነዓ ነዓ ተክለሃይማኖት (2)\nይሓልወና ናትካ ጸሎት\nንኽንጸንዕ ኣብ ሃይማኖት (2)"
-    },
-    "ti_ro": {
-      "title": "Nsebho nSslase",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Nsebho nsslase (2)\nKber temesgen amlake muse (2)\nAmaladitna adena (2)\nNi ni ngstna\nTerekhebi ab makelna\nNea nea mikael (2)\nMelake mkru lelul\nAb grkha ywedq satnael (2)\nNea nea gebrel (2)\nKab halhalta awtsana\nAb thti aknafka atsllena (2)\nNea nea urael (2)\nKem qdus zra sutuel\nHabena tbeb mstwal (2)\nNea nea giyorgis(2)\nNguss zelda giyorgis\nGedlkha semina nfwes (2)\nNea nea teklehaymanot (2)\nYhalwena natka tselot\nNkhntsen ab haymanot (2)\nNea nea beanabst (2)\nAbo kulatna gebrehywet\nDeqey belena ab semayat (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nsebho nsslase (2)",
+      "Kber temesgen amlake muse (2)",
+      "Amaladitna adena (2)",
+      "N'i n'i ngstna",
+      "Terekhebi ab makelna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ne'a ne'a mikael (2)",
+          "Ab thti aknafka ats'llena (2)"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ne'a ne'a 'urael (2)",
+          "Kem qdus zra sutuel",
+          "Habena t'beb mstw'al (2)",
+          "Ne'a ne'a giyorgis(2)",
+          "Nguss zelda giyorgis",
+          "Gedlkha semi'na nfwes (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Ne'a ne'a teklehaymanot (2)",
+          "Yhalwena natka ts'elot",
+          "Nkhnts'en' ab haymanot (2)",
+          "Ne'a ne'a beanabst (2)",
+          "Abo kulatna gebrehywet",
+          "Deqey belena ab semayat (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

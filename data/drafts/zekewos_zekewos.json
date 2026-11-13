@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_cb0decdd95",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘኬዎስ ዘኬዎስ"
+  "id": 309,
+  "title": "ዘኬዎስ ዘኬዎስ",
+  "ti": {
+    "chorus": [
+      "ዘኬዎስ ዘኬዎስ ንዓ ውረድ ካብ ሳግላ ንቤትካ ክውዕላ /2/",
+      "ብበረኸት በዓል ምሉእ ጸጋ ንኽትከውን ምስ ኣልፋ ኦሜጋ /2/",
+      "ነዚ ቃል ምስ ሰምዐ ብፍጥነት ወረደ",
+      "ጐይታ ንኽርኢ ድሌቱ ዛየደ",
+      "ኣብ ቤቱ ክምሳሕ ጐይታ ምስ ፈቐደ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነንዝዓመጾም ዓጸፋ ክመልስ",
+          "እናልዓለ ሳጹን ኣብ ቅድሚ ክርስቶስ",
+          "ብጥብኣት’ውን ቆመ ዘጉሃዮም ክኽሕስ",
+          "ብሓጎስ ብደስታ ንየው ነጀው እናበለ",
+          "ከም እተፈትሐት ብተይ ኮይኑ እናዘለለ",
+          "ናይ ሕይወቱ ራእይ ስለ ዘስተብሃለ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንሕና’ውን ንደይብ ናብ ሳግላና ሕይወት",
+          "ቤት መቕደስ ኣምላኽያ ናይ እምነት መሰረት",
+          "ከም ዘኬዎስ ንኹን ንኽንረክብ ድኅነት",
+          "ንሕና’ውን ንደይብ . . ."
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘኬዎስ ዘኬዎስ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nነዚ ቃል ምስ ሰምዐ ብፍጥነት ወረደ\nጐይታ ንኽርኢ ድሌቱ ዛየደ\nኣብ ቤቱ ክምሳሕ ጐይታ ምስ ፈቐደ\n[[/chorus]]\n\nዘኬዎስ ዘኬዎስ ንዓ ውረድ ካብ ሳግላ ንቤትካ ክውዕላ (2)\nብበረኸት በዓል ምሉእ ጸጋ ንኽትከውን ምስ ኣልፋ ኦሜጋ (2)\n\nነንዝዓመጾም ዓጸፋ ክመልስ\nእናልዓለ ሳጹን ኣብ ቅድሚ ክርስቶስ\nብጥብኣት’ውን ቆመ ዘጉሃዮም ክኽሕስ\n\nንሕና’ውን ንደይብ ናብ ሳግላና ሕይወት\nቤት መቕደስ ኣምላኽያ ናይ እምነት መሰረት\nከም ዘኬዎስ ንኹን ንኽንረክብ ድኅነት"
-    },
-    "ti_ro": {
-      "title": "Zekewos zekewos",
-      "zemari": "di/n efrem",
-      "lyrics": "Zekewos zekewos na wred kab sagla nbetka kwla (2)\nBberekhet beal mlu tsega nkhtkewn ms alfa omega (2)\nNezi qal ms sema bftnet werede\nGoyta nkhri dletu zayede\nAb betu kmsah goyta ms feqede\nNenzametsom atsefa kmels\nNalale satsun ab qdmi krstos\nBtbat’wn qome zeguhayom kkhhs\nBhagos bdesta nyew nejew nabele\nKem tefethat btey koynu nazelele\nNay hywetu ray sle zestebhale\nNhna’wn ndeyb nab saglana hywet\nBet meqdes amlakhya nay mnet meseret\nKem zekewos nkhun nkhnrekb dhnet\nNhna’wn ndeyb . . ."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Zekewos zekewos n'a wred kab sagla nbetka kw'la /2/",
+      "Bberekhet be'al mlu ts'ega nkhtkewn ms alfa omega /2/",
+      "Nezi qal ms sem'e bft'net werede",
+      "Gwayta nkhri dletu zayede",
+      "Ab betu kmsah gwayta ms feqede"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nenz'amets'om 'ats'efa kmels",
+          "Nal'ale sats'un ab qdmi krstos",
+          "Bt'bat’wn qome zeguhayom kkhhs",
+          "Bhagos bdesta nyew nejew nabele",
+          "Kem tefethet btey koynu nazelele",
+          "Nay hywetu ray sle zestebhale"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nhna’wn ndeyb nab saglana hywet",
+          "Bet meqdes amlakhya nay mnet meseret",
+          "Kem zekewos nkhun nkhnrekb dhnet",
+          "Nhna’wn ndeyb . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

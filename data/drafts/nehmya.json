@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_c7d4e4269a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ነህምያ"
+  "id": 517,
+  "title": "ነህምያ",
+  "ti": {
+    "chorus": [
+      "ነህምያ እየ ንበል ሎሚ ኣብዚ ዘመን",
+      "ንሕነጻ ነዛ ቤት ከም ሳሌም ክትከውን /2/",
+      "ንግደፎ ምዕዛብ ኣእዳውና ኣጣሚርና",
+      "ደሓር ከይንጠዓስ ርስትና ስኢንና",
+      "ሳንባላጥ ምስ ጌሸም መላገጽቲ ኣብ ወንበር",
+      "እንታይ ጽቡቕ ረኺቦም ስሞም ተሓከ 'ምበር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እግዚአብሔር ደልዩ'ሎ ከም'ቲ ናይ ኢሳይያስ",
+          "ዝለኣኾ ሎሚ ኣብዛ ቤት ምዅስኳስ",
+          "ኣንጊህና ንተንስእ ሎሚ ኣይንደቅስ",
+          "'ት ሕዙን ልብና ብሓጎስ ክድበስ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኵልና ወረስቲ አእጃምና ነልዕል",
+          "ኣብ ምምራቕ'ዛ ቤት ብሓደ ክንውዕል",
+          "እቲ ቅዱስ ኣምላኽ ብፍቕሩ ዝፍለጥ",
+          "ሎሚ ምሳና'ሎ ዕዮና ከስልጥ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ነህምያ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nንግደፎ ምዕዛብ ኣእዳውና ኣጣሚርና\nደሓር ከይንጠዓስ ርስትና ስኢንና\nሳንባላጥ ምስ ጌሸም መላገጽቲ ኣብ ወንበር\nእንታይ ጽቡቕ ረኺቦም ስሞም ተሓከ 'ምበር\n[[/chorus]]\n\nነህምያ እየ ንበል ሎሚ ኣብዚ ዘመን\nንሕነጻ ነዛ ቤት ከም ሳሌም ክትከውን (2)\n\nእግዚአብሔር ደልዩ'ሎ ከም'ቲ ናይ ኢሳይያስ\nዝለኣኾ ሎሚ ኣብዛ ቤት ምዅስኳስ\nኣነ ኣለኹ ንበል ንሰራዕ ኣብ ቅድሚት\nለምጽና ክነጽህ ብናይ ሰማይ እሳት\n\nኵልና ወረስቲ አእጃምና ነልዕል\nኣብ ምምራቕ'ዛ ቤት ብሓደ ክንውዕል\nእቲ ቅዱስ ኣምላኽ ብፍቕሩ ዝፍለጥ\nሎሚ ምሳና'ሎ ዕዮና ከስልጥ"
-    },
-    "ti_ro": {
-      "title": "Nehmya",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Nehmya ye nbel lomi abzi zemen\nNhnetsa neza bet kem salem ktkewn (2)\nNgdefo mzab adawna atamirna\nDehar keynteas rstna sinna\nSanbalat ms geshem melagetsti ab wenber\nNtay tsbuq rekhibom smom tehake 'mber\nGziabher delyu'lo kem'ti nay isayyas\nZleakho lomi abza bet mkwiskwas\nAne alekhu nbel nsera ab qdmit\nLemtsna knetsh bnay semay sat\nFeresna legwimna drna lebisna\nBsha nbeges afraza atitna\nAngihna ntens lomi ayndeqs\n'T hzun lbna bhagos kdbes\nKwilna weresti ajamna nell\nAb mmraq'za bet bhade knwl\nTi qdus amlakh bfqru zflet\nLomi msana'lo yona keslt"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nehmya ye nbel lomi abzi zemen",
+      "Nhnets'a neza bet kem salem ktkewn /2/",
+      "Ngdefo m'zab adawna at'amirna",
+      "Dehar keynt'e'as rstna sinna",
+      "Sanbalat' ms geshem melagets'ti ab wenber",
+      "Ntay ts'buq rekhibom smom tehake 'mber"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Gziebher delyu'lo kem'ti nay isayyas",
+          "Zleakho lomi abza bet mkhwskwas",
+          "Angihna ntens lomi ayndeqs",
+          "'T hzun lbna bhagos kdbes"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kwlna weresti ejamna nel'l",
+          "Ab mmraq'za bet bhade knw'l",
+          "Ti qdus amlakh bfqru zflet'",
+          "Lomi msana'lo 'yona keslt'"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

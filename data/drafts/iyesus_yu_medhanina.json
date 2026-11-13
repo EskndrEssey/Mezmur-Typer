@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_cdc58d510f",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኢየሱስ’ዩ መድኃኒና"
+  "id": 320,
+  "title": "ኢየሱስ’ዩ መድኃኒና",
+  "ti": {
+    "chorus": [
+      "ንጹህ ደሙ ዘፍሰሰልና",
+      "ኢየሱስ’ዩ መድኃኒና",
+      "ገንሸል ፋሲካና ምንጪ ናይ ሓጎስና",
+      "ካብ ጸልማት ባርነት ዝተበጀወና",
+      "ቆሲሉ ደኣ ‘ምበር ኣቑሲሉ ኣይኮነን",
+      "ማሪኹ ልብና ዝበልና ንኣምን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሱ’ዩ ኣምላኽና መድኅን ናይ ሕይወትና",
+          "ዝተወሃሃደ ለቢሱ ሥጋና",
+          "ፍጡር’ዩ ኣይንብልን ከምቶም ዝዓሸዉ",
+          "ኣብ ዕንደራ ሰይጣን ፍጹም ዝዓለዉ",
+          "ነስተውዕል ኵልና ዝተኸፍለ ዋጋ",
+          "ፈንቂሉ ዘውጽኣና ካብ ሰይጣን መንጋጋ",
+          "ተፈዊስና ኢና ቁስልና ሃሲሱ",
+          "ብመከራ ጐይታ ፍጹም ተደቢሱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣማላዲ ኣይኮነን ኣምላኽ’ዩ ዘልዓለም",
+          "ንርእሱ ዘትሓተ ክህበና ሰላም",
+          "ልቦና ግበሩ ኣይትጠራጠሩ",
+          "ኣብ ቅኑዕ ጎደና ብጥበብ ንበሩ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኢየሱስ’ዩ መድኃኒና",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nገንሸል ፋሲካና ምንጪ ናይ ሓጎስና\nካብ ጸልማት ባርነት ዝተበጀወና\nቆሲሉ ደኣ ‘ምበር ኣቑሲሉ ኣይኮነን\nማሪኹ ልብና ዝበልና ንኣምን\n[[/chorus]]\n\nብኽቡር ደሙ ዝገዝኣና\nንጹህ ደሙ ዘፍሰሰልና\nኢየሱስ’ዩ መድኃኒና\n\nንሱ’ዩ ኣምላኽና መድኅን ናይ ሕይወትና\nዝተወሃሃደ ለቢሱ ሥጋና\nፍጡር’ዩ ኣይንብልን ከምቶም ዝዓሸዉ\nኣብ ዕንደራ ሰይጣን ፍጹም ዝዓለዉ\n\nኣማላዲ ኣይኮነን ኣምላኽ’ዩ ዘልዓለም\nንርእሱ ዘትሓተ ክህበና ሰላም\nልቦና ግበሩ ኣይትጠራጠሩ\nኣብ ቅኑዕ ጎደና ብጥበብ ንበሩ"
-    },
-    "ti_ro": {
-      "title": "Iyesus’yu medhanina",
-      "zemari": "di/n efrem",
-      "lyrics": "Bkhbur demu zgezana\nNtsuh demu zefseselna\nIyesus’yu medhanina\nGenshel fasikana mnchi nay hagosna\nKab tselmat barnet ztebejewena\nQosilu dea ‘mber aqusilu aykonen\nMarikhu lbna zbelna namn\nNsu’yu amlakhna medhn nay hywetna\nZtewehahade lebisu ssgana\nFtur’yu aynbln kemtom zashewu\nAb ndera seytan ftsum zalewu\nNestewl kwilna ztekhefle waga\nFenqilu zewtsana kab seytan mengaga\nTefewisna ina quslna hasisu\nBmekera goyta ftsum tedebisu\nAmaladi aykonen amlakh’yu zelalem\nNrsu zethate khbena selam\nLbona gberu aytterateru\nAb qnu godena btbeb nberu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nts'uh demu zefseselna",
+      "Iyesus’yu medhanina",
+      "Genshel fasikana mnch'i nay hagosna",
+      "Kab ts'elmat barnet ztebejewena",
+      "Qosilu dea ‘mber aqusilu aykonen",
+      "Marikhu lbna zbelna namn"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nsu’yu amlakhna medhn nay hywetna",
+          "Ztewehahade lebisu Ssgana",
+          "Ft'ur’yu aynbln kemtom z'ashewu",
+          "Ab 'ndera seyt'an fts'um z'alewu",
+          "Nestew'l kwlna ztekhefle waga",
+          "Fenqilu zewts'ana kab seyt'an mengaga",
+          "Tefewisna ina quslna hasisu",
+          "Bmekera gwayta fts'um tedebisu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Amaladi aykonen amlakh’yu zel'alem",
+          "Nrsu zethate khbena selam",
+          "Lbona gberu aytt'erat'eru",
+          "Ab qnu' godena bt'beb nberu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

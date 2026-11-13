@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_800c1a4f1b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ርኅሩኅ ኢኻ"
+  "id": 463,
+  "title": "ርኅሩኅ ኢኻ",
+  "ti": {
+    "chorus": [
+      "ርኅሩኅ ኢኻ ፍጹም ዘይትጭክን",
+      "መሓሪ ኢኻ'ወ ብምሕረት ትጥምት",
+      "ውዒለ ሓዲረ ኣይገልጾን'የ ውዕለትካ",
+      "ባርያኻ ጠምቶ ብዓይኒ ምሕረትካ",
+      "ዓለም ኣለልይዮ መን ሙዃኑ ኣምላኸይ",
+      "ኢየሱስ ክርስቶስ'ዩ 'ቲ ዝመጸ ናባኺ",
+      "ብዋጋ ደሙ ኢኺ ተዓዲግኪ",
+      "ካብ ማእሰርቲ ሰይጣን ሓራ ዝወጻኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኽ ብሓደ ወዱ ምድሓኑ ኣፍለጠ",
+          "ጽቡቕ ኣብ ቅድሚ ኣሕዛብ ብግህዶ ገለጸ",
+          "ሳህሉን ምሕረቱን ንዓና ዘከረ",
+          "ኵሉ ወሰናት ምድሪ ምድሓን ኣምላኽ ረኣየ",
+          "ካብ ማህጸን ጀሚረ ብኣኻ ተደገፍኩ",
+          "ክሳብ እዛ ዕለት ብጸጋኻ ጸናሕኩ",
+          "ዝመጽእ ሕይወተይ ኣባኻ ኣማዕቅቦ",
+          "ኦ እግዚአብሔር ብፍቓድካ ምርሓዮ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዑ ነመስግኖ ንኽብሪ ዕብየቱ",
+          "ንዑ ንገዝኣዮ ንኽብሪ ስልጣኑ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ርኅሩኅ ኢኻ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዓለም ኣለልይዮ መን ሙዃኑ ኣምላኸይ\nኢየሱስ ክርስቶስ'ዩ 'ቲ ዝመጸ ናባኺ\nብዋጋ ደሙ ኢኺ ተዓዲግኪ\nካብ ማእሰርቲ ሰይጣን ሓራ ዝወጻኺ\n[[/chorus]]\n\nርኅሩኅ ኢኻ ፍጹም ዘይትጭክን\nመሓሪ ኢኻ'ወ ብምሕረት ትጥምት\nውዒለ ሓዲረ ኣይገልጾን'የ ውዕለትካ\nባርያኻ ጠምቶ ብዓይኒ ምሕረትካ\n\nኣምላኽ ብሓደ ወዱ ምድሓኑ ኣፍለጠ\nጽቡቕ ኣብ ቅድሚ ኣሕዛብ ብግህዶ ገለጸ\nሳህሉን ምሕረቱን ንዓና ዘከረ\nኵሉ ወሰናት ምድሪ ምድሓን ኣምላኽ ረኣየ\n\nንዑ ነመስግኖ ንኽብሪ ዕብየቱ\nንዑ ንገዝኣዮ ንኽብሪ ስልጣኑ\nኣእዳውና ነልዕለሉ ብፍርሓት ንስገደሉ\nብዘይካኻ አምላክ የለን እግዚአብሔር በሉ"
-    },
-    "ti_ro": {
-      "title": "Rhruh ikha",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Rhruh ikha ftsum zeytchkn\nMehari ikha'we bmhret ttmt\nWile hadire aygeltson'ye wletka\nBaryakha temto bayni mhretka\nAlem alelyyo men mukwanu amlakhey\nIyesus krstos'yu 'ti zmetse nabakhi\nBwaga demu ikhi teadigki\nKab maserti seytan hara zwetsakhi\nAmlakh bhade wedu mdhanu aflete\nTsbuq ab qdmi ahzab bghdo geletse\nSahlun mhretun nana zekere\nKwilu wesenat mdri mdhan amlakh reaye\nKab mahtsen jemire bakha tedegefku\nKsab za let btsegakha tsenahku\nZmets hywetey abakha amaqbo\nO gziabher bfqadka mrhayo\nNu nemesgno nkhbri byetu\nNu ngezayo nkhbri sltanu\nAdawna nellelu bfrhat nsgedelu\nBzeykakha amlak yelen gziabher belu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Rhruh ikha fts'um zeytch'kn",
+      "Mehari ikha'we bmhret tt'mt",
+      "W'ile hadire aygelts'on'ye w'letka",
+      "Baryakha t'emto b'ayni mhretka",
+      "'Alem alelyyo men mukhwanu amlakhey",
+      "Iyesus krstos'yu 'ti zmets'e nabakhi",
+      "Bwaga demu ikhi te'adigki",
+      "Kab maserti seyt'an hara zwets'akhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakh bhade wedu mdhanu aflet'e",
+          "Ts'buq ab qdmi ahzab bghdo gelets'e",
+          "Sahlun mhretun n'ana zekere",
+          "Kwlu wesenat mdri mdhan amlakh reaye",
+          "Kab mahts'en jemire bakha tedegefku",
+          "Ksab za 'let bts'egakha ts'enahku",
+          "Zmets' hywetey abakha ama'qbo",
+          "O gziebher bfqadka mrhayo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'u nemesgno nkhbri 'byetu",
+          "N'u ngezayo nkhbri slt'anu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

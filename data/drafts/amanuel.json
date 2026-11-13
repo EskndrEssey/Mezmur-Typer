@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_9fc558caf9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣማኑኤል"
+  "id": 121,
+  "title": "ኣማኑኤል",
+  "ti": {
+    "chorus": [
+      "ኣማኑኤል /2/ ምሳና ኮነ እግዚአብሔር",
+      "ተወሊዱልና ኣብ ቤተልሔም",
+      "ዙርያኡ በሪሁ ቤተልሔም",
+      "ጐይታ እንክውለድ መድኃኔ ዓለም",
+      "ብርሃን ይከደን’ቲ ብርቱዕ ጸልማት",
+      "ምውላድ ኣምላኽና ድምጹ እንክስማዕ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቲ ዝሓለፈ ናይ ጥፍኣት ጊዜ",
+          "ኣሕሊፍናዮ ኢና ኮይንና ኣብ  ትካዜ",
+          "ተሓጺብና ኢና ብክቡር ደሙ",
+          "ኣውሪሱና እዩ ፍቕሩ ሰላሙ",
+          "ምስ ርሓቕናዮ ሕጉ ገዲፍና",
+          "ፈትዩና እዩ’ሞ መጺኡ ኣድኂኑና",
+          "ሞገስ ኮይኑና ክብሪ ረኺብና",
+          "ንሓያል ጐይታ ንኣምኖ ኢና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣማኑኤል",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዙርያኡ ኣብሪሁ ኣብ ቤተልሔም\nጐይታ ክውለድ መድኃኔ ዓለም\nብርሃን ይኽደን እቲ ብርቱዕ ጸልማት\nምውላድ ኣምላኽና ድምጹ ክስማዕ\n[[/chorus]]\n\nኣማኑኤል (2) ምሳና ኮነ እግዚአብሔር\nተወሊዱልና ኣብ ቤተልሔም\n\nናይ ዝሓለፈ ናይ ጥፍኣት ጊዜ\nኣሕሊፍናዮ ኢና ሓዘን ትካዜ\nተሓዲስና ኢና ብኽቡር ደሙ\nኣውሪሱና ኢዩ ፍቕሩን ሰላሙን\n\nርሑቕ ኣይኮነን ቅሩብ`ዩ ጐይታ\nዝሕልወና ኣብ ኵሉ ቦታ\nሞገስ ኮይኑና ክብሪ ረኺብና\nንሓያል ጐይታ ንኣምኖ ኢና"
-    },
-    "ti_ro": {
-      "title": "Amanuel",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Amanuel (2) msana kone gziabher\nTewelidulna ab betelhem\nZuryau abrihu ab betelhem\nGoyta kwled medhane alem\nBrhan ykhden ti brtu tselmat\nMwlad amlakhna dmtsu ksma\nNay zhalefe nay tfat gize\nAhlifnayo ina hazen tkaze\nTehadisna ina bkhbur demu\nAwrisuna iyu fqrun selamun\nHgu gedifna kabu rhiqna\nFetinayu’mo metsiu adhanena\nSeb koynu yu’mo kemzi kemana\nMsana iyu men ksrena\nRhuq aykonen qrub`yu goyta\nZhlwena ab kwilu bota\nMoges koynuna kbri rekhibna\nNhayal goyta namno ina"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Amanuel /2/ msana kone gziebher",
+      "Tewelidulna ab betelhem",
+      "Zuryau berihu betelhem",
+      "Gwayta nkwled medhane 'alem",
+      "Brhan ykeden’ti brtu' ts'elmat",
+      "Mwlad amlakhna dmts'u nksma'"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ti zhalefe nay t'fat gize",
+          "Ahlifnayo ina koynna ab  tkaze",
+          "Tehats'ibna ina bkbur demu",
+          "Awrisuna yu fqru selamu",
+          "Ms rhaqnayo hgu gedifna",
+          "Fetyuna yu’mo mets'iu adhinuna",
+          "Moges koynuna kbri rekhibna",
+          "Nhayal gwayta namno ina"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

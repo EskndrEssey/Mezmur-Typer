@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_43451bc941",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘይባረኽካዮ የለን"
+  "id": 77,
+  "title": "ዘይባረኽካዮ የለን",
+  "ti": {
+    "chorus": [
+      "ዘይባረኽካዮ የለን ንስኻ",
+      "ከምዛ ዋዛ መጺኡ ዓጊቡልካ",
+      "የመስግነካ ድኻ ጸጊቡ",
+      "ሕያውነት ፍቕርኻ ሓሲቡ",
+      "በረኸት ናትካ መሊኡ ይተርፍ",
+      "ኣይጭነቕን’የ ልበይ ብኣኻ ይዓርፍ",
+      "ናይ ጽባሕ ድማ ትፈልጥ ንስኻ",
+      "ኣብ ልሙዕ ሸኻ ከተውዕለኒ’ኻ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕይወት’ቲ ምስኪን ለዊጥካ ንስኻ",
+          "ኵሉ ካብኡ’ዩ ኢሉ የመስግነካ",
+          "ድኅነት ከምዚ’ዩ ምብራኽ ብእኡ",
+          "ዝሓፍር የለን ጐይታ ተጸጊዑ /2/",
+          "ማራኺ ንጉሥ ንስኻ ቆይምካሉ",
+          "ሰላም ይኣቱ ዝወፈረ ኵሉ",
+          "ጥዒማትና ቁራስ እንጌራኻ",
+          "ለዊጡናዩ `ቲ ዓቢይ ፍቕርኻ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መን ባረኸኩም እስከ ተናገሩ",
+          "ድንቂ ስራሑ ምድሓኑ መስክሩ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘይባረኽካዮ የለን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nበረኸት ናትካ መሊኡ ይተርፍ\nኣይጭነቕን’የ ልበይ ብኣኻ ይዓርፍ\nናይ ጽባሕ ድማ ትፈልጥ ንስኻ\nኣብ ልሙዕ ሸኻ ከተውዕለኒ’ኻ (2)\n[[/chorus]]\n\nዘይባረኽካዮ የለን ንስኻ\nከምዛ ዋዛ መጺኡ ዓጊቡልካ\nየመስግኑኻ መርዓት መርዓዊ\nሕያውነት ፍቕርኻ’ዩ ፍትዊ\n\nሕይወት’ቲ ምስኪን ለዊጥካ ንስኻ\nኵሉ ካብኡ’ዩ ኢሉ የመስግነካ\nድኅነት ከምዚ’ዩ ምብራኽ ብእኡ\nዝሓፍር የለን ጐይታ ተጸጊዑ (2)\n\nመን ባረኸኩም እስከ ተናገሩ\nድንቂ ስራሑ ምድኃኑ መስክሩ\nየብርህ’ት ቤት እግዚአብሔር ኣቲዎ\nዘይከውን የለን ጐይታ እንተ ሓሊፍዎ (2)"
-    },
-    "ti_ro": {
-      "title": "Zeybarekhkayo yelen",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nZhafr yelen goyta tetsegiu (2)\n[[/chorus]]\n\nZeybarekhkayo yelen nskha\nKemza waza metsiu agibulka\nYemesgnukha merat merawi\nHyawnet fqrkha’yu ftwi\nBerekhet natka meliu yterf\nAychneqn’ye lbey bakha yarf\nNay tsbah dma tfelt nskha\nAb lmu shekha ketewleni’kha (2)\nHywet’ti mskin lewitka nskha\nKwilu kabu’yu ilu yemesgneka\nDhnet kemzi’yu mbrakh bu\nMarakhi nguss nskha qoymkalu\nSelam yatu zwefere kwilu\nTimatna quras ngerakha\nLewituna’yu ‘ti abiy fqrkha (2)\nMen barekhekum ske tenageru\nDnqi srahu mdhanu meskru\nYebrh’t bet gziabher atiwo\nZeykewn yelen goyta nte halifwo (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Zeybarekhkayo yelen nskha",
+      "Kemza waza mets'iu 'agibulka",
+      "Yemesgneka dkha ts'egibu",
+      "Hyawnet fqrkha hasibu",
+      "Berekhet natka meliu yterf",
+      "Aych'neqn’ye lbey bakha y'arf",
+      "Nay ts'bah dma tfelt' nskha",
+      "Ab lmu' shekha ketew'leni’kha /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hywet’ti mskin lewit'ka nskha",
+          "Kwlu kabu’yu ilu yemesgneka",
+          "Dhnet kemzi’yu mbrakh bu",
+          "Zhafr yelen gwayta tets'egi'u /2/",
+          "Marakhi nguss nskha qoymkalu",
+          "Selam yatu zwefere kwlu",
+          "T''imatna quras ngerakha",
+          "Lewit'unayu `ti 'abiy fqrkha /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Men barekhekum ske tenageru",
+          "Dnqi srahu mdhanu meskru"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

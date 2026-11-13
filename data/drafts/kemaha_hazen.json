@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_30123f9a20",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከማሃ ኃዘን"
+  "id": 198,
+  "title": "ከማሃ ኃዘን",
+  "ti": {
+    "chorus": [
+      "ከማሃ ኃዘን /3/",
+      "ወተሰዶ ከማሃ ኃዘን /2/",
+      "ከማሃ ኃዘን ወተሰዶ /2/",
+      "ሶበ በኩለሄ ረከቦ ርእዮ ለይብኪ ዐይነልብ ዘቦ",
+      "ሄሮድስ እቲ ተመን ክቐትሎ ምስ በለ",
+      "ህፃን ምስ አዲኡ ናብ ስደት ተላዕለ",
+      "ኣብ ሕቑፊ ዝባና ኔው ነጀው እናበለ",
+      "ኣድከማ እቲ ጉዕዞ ኣእጋራ ቆሰለ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብቲ ዘይትፈልጦ ሃገር ባዕዲ ኮይና",
+          "ኣብ ቁሪ ኣብ ሃሩር መዕቆቢ ስኢና",
+          "ጨካናት ሸፋቱ ሕሰም ወሰኹኺ",
+          "ንሓዘን ብሓዘን ድንግል ደበሱኺ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብቓላት ዘይግለጽ ኵሉ እቲ ጸገማ",
+          "ምፈተኹ ኣነስ ክካፈል ሕማማ",
+          "ክሓዝሎ ክሓቑፎ ከብርያ ኣብ ድኻማ",
+          "ግፍዓ ክሳተፎ ክኾነኒ ጻማ /2/",
+          "ሓዘንኪ ዘኪረ ክበኪ’የ ኣነ",
+          "ሽግርኪ መሪር’ዩ ንማል`ውን ዘሕዘነ",
+          "ሓዘን ዝፈተንኪ ኣደይ ተለመኒ",
+          "ብናይ ስደት ሓዘን ንዒ ናዝዝኒ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከማሃ ኃዘን",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nሄሮድስ እቲ ተመን ክቐትሎ ምስ በለ\nህፃን ምስ አዲኡ ናብ ስደት ተላዕለ\nኣብ ሕቑፊ ዝባና ኔው ነጀው እናበለ\nኣድከማ እቲ ጉዕዞ ኣእጋራ ቆሰለ (2)\n[[/chorus]]\n\nከማሃ ኃዘን (3)\nወተሰዶ ከማሃ ኃዘን (2)\nከማሃ ኃዘን ወተሰዶ (2)\nሶበ በኩለሄ ረከቦ ርእዮ ለይብኪ ዐይነልብ ዘቦ\n\nኣብቲ ዘይትፈልጦ ሃገር ባዕዲ ኮይና\nኣብ ቁሪ ኣብ ሃሩር መዕቆቢ ስኢና\nብሓዘን ክትጽውዕ ንኤልሳቤጥ ሃና\nዮሴፍ ሰሎሜ እዮም ኔሮም እቶም ወገና (2)\n\nብቓላት ዘይግለጽ ኵሉ እቲ ጸገማ\nምፈተኹ ኣነስ ክካፈል ሕማማ\nክሓዝሎ ክሓቑፎ ከብርያ ኣብ ድኻማ\nግፍዓ ክሳተፎ ክኾነኒ ጻማ (2)"
-    },
-    "ti_ro": {
-      "title": "Kemaha hazen",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\nKemaha hazen (3)\n[[/chorus]]\n\nWetesedo kemaha hazen (2)\nKemaha hazen wetesedo (2)\nSobe bekulehe rekebo ryo leybki aynelb zebo\nHerods ti temen kqetlo ms bele\nHtsan ms adiu nab sdet telale\nAb hqufi zbana new nejew nabele\nAdkema ti guzo agara qosele (2)\nAbti zeytfelto hager badi koyna\nAb quri ab harur meqobi sina\nBhazen kttsw nelsabet hana\nYosef selome yom nerom tom wegena (2)\nMaryam gasha koynki qusqwam znegedki\nKhle may sinki temikhi tsemiki\nChekanat shefatu hsem wesekhukhi\nNhazen bhazen dngl debesukhi (2)\nBqalat zeyglets kwilu ti tsegema\nMfetekhu anes kkafel hmama\nKhazlo khaqufo kebrya ab dkhama\nGfa ksatefo kkhoneni tsama (2)\nHazenki zekire kbeki’ye ane\nShgrki merir’yu nmal`wn zehzene\nHazen zfetenki adey telemeni\nBnay sdet hazen ni nazzni (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kemaha hazen /3/",
+      "Wetesedo kemaha hazen /2/",
+      "Kemaha hazen wetesedo /2/",
+      "Sobe bekulehe rekebo ryo leybki 'eynelb zebo",
+      "Herods ti temen kqetlo ms bele",
+      "Hts'an ms ediu nab sdet tela'le",
+      "Ab hqufi zbana new nejew nabele",
+      "Adkema ti gu'zo agara qosele /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abti zeytfelt'o hager ba'di koyna",
+          "Ab quri ab harur me'qobi sina",
+          "Ch'ekanat shefatu hsem wesekhukhi",
+          "Nhazen bhazen dngl debesukhi /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bqalat zeyglets' kwlu ti ts'egema",
+          "Mfetekhu anes kkafel hmama",
+          "Khazlo khaqufo kebrya ab dkhama",
+          "Gf'a ksatefo kkhoneni ts'ama /2/",
+          "Hazenki zekire kbeki’ye ane",
+          "Shgrki merir’yu nmal`wn zehzene",
+          "Hazen zfetenki adey telemeni",
+          "Bnay sdet hazen n'i nazzni /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

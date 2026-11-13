@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_87797b98aa",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተዛረብ"
+  "id": 59,
+  "title": "ተዛረብ",
+  "ti": {
+    "chorus": [
+      "ሳሙኤል በል ድምጽኻ የገርም",
+      "ህፃን’የ ሓንቲ ዘይብለይ",
+      "እስኪ ተዛረብ ክሰምዕ ጐይታይ /2/",
+      "ኣብ ዘፍርህ ኣብ መቕደስካ ኣንብረኒ ብመንፈስካ",
+      "ድኹም እየ ጽግዕተኛ ብኣኻ እቑም እጸናናዕ",
+      "ኣይስጎጐኒ ሰይጣን  ኣይትርሓቕ ካባይ",
+      "ቤትካ ዘእቱ ጸጋ ኣብዝሕ ኣብ ልዕለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፈቒድካ ኢኻ ጸዊዕካኒ ብምሕረትካ ኣጽኒዕካኒ",
+          "`ቲ ፍቕርኻ የንብረኒ ትፈትወኒ ትምሕረኒ",
+          "ሰላመይ በዚሑ’ዩ ብኣኻ ጐይታይ",
+          "ከቶ ኣይጠፍእን ኣነ ኣለኻ ምሳይ",
+          "ኣፍኒን ፊንሃስ ኣሕዋተይ ‘ተሕዘኑኻ ኣዶናይ",
+          "ንኽነግር ንወገነይ ኣንቂሕካኒ ካብ ድቃሰይ",
+          "ከመይ ጌረ ክኽእሎ ነዚ ሰኸመይ",
+          "ናይ ታሪኽ በሰላ’ዩ ክሳብ ዘልዓለም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ድንኳንካ ኣብ መቕደስካ ክእውጆ ንስራሕካ",
+          "ሃበኒ ኢኻ ቅድስና ዘክረኒ ኣብ ምጽኣትካ",
+          "ካብ ዳን ክሳዕ ቤርሳቤህ እቕናእ ንስምካ",
+          "ቅዱስ እስራኤል ኣምላክ ልዕሊ ኵሉ ኢኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተዛረብ",
-      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
-      "lyrics": "[[chorus]]\nኣብ ዘፍርህ ኣብ መቕደስካ ኣንብረኒ ብመንፈስካ\nድኹም እየ ጽግዕተኛ ብኣኻ እቑም እጸናናዕ\nኣይስጎጐኒ ሰይጣን ኣይትርሓቕ ካባይ\nቤትካ ዘእቱ ጸጋ ኣብዝሕ ኣብ ልዕለይ\n[[/chorus]]\n\nተዛረብ ባርያኻ እስማዕ\nሳሙኤል በል ድምጽኻ የገርም\nህፃን’የ ሓንቲ ዘይብለይ\nእስኪ ተዛረብ ክሰምዕ ጐይታይ (2)\n\nፈቒድካ ኢኻ ጸዊዕካኒ ብምሕረትካ ኣጽኒዕካኒ\n`ቲ ፍቕርኻ የንብረኒ ትፈትወኒ ትምሕረኒ\nሰላመይ በዚሑ’ዩ ብኣኻ ጐይታይ\nከቶ ኣይጠፍእን ኣነ ኣለኻ ምሳይ\n\nኣብ ድንኳንካ ኣብ መቕደስካ ክእውጆ ንስራሕካ\nሃበኒ ኢኻ ቅድስና ዘክረኒ ኣብ ምጽኣትካ\nካብ ዳን ክሳዕ ቤርሳቤህ እቕናእ ንስምካ\nቅዱስ እስራኤል ኣምላክ ልዕሊ ኵሉ ኢኻ"
-    },
-    "ti_ro": {
-      "title": "Tezareb",
-      "zemari": "di/n 'zra ha/maryam",
-      "lyrics": "[[chorus]]\nSki tezareb ksem goytay (2)\n[[/chorus]]\n\nTezareb baryakha sma\nSamuel bel dmtskha yegerm\nHtsan’ye hanti zeybley\nAb zefrh ab meqdeska anbreni bmenfeska\nDkhum ye tsgtenya bakha qum tsenana\nAysgogoni seytan aytrhaq kabay\nBetka zetu tsega abzh ab lley\nFeqidka ikha tsewikani bmhretka atsnikani\n`Ti fqrkha yenbreni tfetweni tmhreni\nSelamey bezihu’yu bakha goytay\nKeto aytefn ane alekha msay\nAfnin finhas ahwatey ‘tehzenukha adonay\nNkhnegr nwegeney anqihkani kab dqasey\nKemey gere kkhlo nezi sekhemey\nNay tarikh besela’yu ksab zelalem\nAb dnkwanka ab meqdeska kwjo nsrahka\nHabeni ikha qdsna zekreni ab mtsatka\nKab dan ksa bersabeh qna nsmka\nQdus srael amlak lli kwilu ikha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Samuel bel dmts'kha yegerm",
+      "Hts'an’ye hanti zeybley",
+      "Ski tezareb ksem' gwaytay /2/",
+      "Ab zefrh ab meqdeska anbreni bmenfeska",
+      "Dkhum ye ts'g'tenya bakha qum ts'enana'",
+      "Aysgogwani seyt'an  aytrhaq kabay",
+      "Betka zetu ts'ega abzh ab l'ley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Feqidka ikha ts'ewi'kani bmhretka ats'ni'kani",
+          "`Ti fqrkha yenbreni tfetweni tmhreni",
+          "Selamey bezihu’yu bakha gwaytay",
+          "Keto ayt'efn ane alekha msay",
+          "Afnin finhas ahwatey ‘tehzenukha adonay",
+          "Nkhnegr nwegeney anqihkani kab dqasey",
+          "Kemey gere kkhlo nezi sekhemey",
+          "Nay tarikh besela’yu ksab zel'alem"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab dnkwanka ab meqdeska kwjo nsrahka",
+          "Habeni ikha qdsna zekreni ab mts'atka",
+          "Kab dan ksa' bersabeh qna nsmka",
+          "Qdus srael amlak l'li kwlu ikha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_a62b153d99",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣሚናን ተላዒልናን"
+  "id": 126,
+  "title": "ኣሚናን ተላዒልናን",
+  "ti": {
+    "chorus": [
+      "ኣሚናን ተላዒልናን ንስምካ ሒዝና ኢና",
+      "ፍቕርኻን ምድኃንካን'ውን ተስፋ እናገበርና",
+      "ምሳና ካብ ኮንካ'ሞ መን ይቃወመና",
+      "ጐይታ ክትረድኣና ምድሪ ክንወርሳ ኢና",
+      "ኣብርሃም ኣሚኑ ጸዲቁ ሕይወቱ",
+      "ቃሉ ሰሚዑ ወጺኡ ካብ ዘመድ ካብ ሃብቱ",
+      "ጎይትነትካ ኣሚኑ እዙዝ'ውን ነበረ",
+      "ብነፍስን ብስጋን መንገዱ ሰመረ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብቲ ባሕሪ እሳት ከስግረና እዩ",
+          "ዝኣመናዮ ኣምላኽ ኣየሕፍረናን እዩ",
+          "ኣብ ማዕዶ ዮርዳኖስ ክነብር ከለና",
+          "ቃል ዝኣተወልና ወረስቱ ንሕና ኢና",
+          "ሰዓሩ ንመንግስታት ካብ ሴፍ`ውን ኣምለጡ",
+          "ኣፍ ኣንበሳ ዓጸዉ ካብ እሳት ደሓኑ",
+          "ንዅሉ ገዲፎም ብስምካ መነኑ",
+          "ንዓኻ ኣሚኖም ብኽብሪ ተሾሙ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጃልባና ሒዝና ኣብ ማእከል በጺሕና",
+          "ንመርበብና  እውን ናብ የማን ደርቢና",
+          "ንኸንቱ ከይከውን ጻዕርናን ድኻምናን",
+          "ፈጸምቲ ክንከውን ርድኣና ኣምላኽና"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ጸዳል ጎበዜ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣሚናን ተላዒልናን",
-      "zemari": "ዘማሪት ጸዳል ጎበዜ",
-      "lyrics": "[[chorus]]\nኣብርሃም ኣሚኑ ጸዲቁ ሕይወቱ\nቃሉ ሰሚዑ ወጺኡ ካብ ዘመድ ካብ ሃብቱ\nጎይትነትካ ኣሚኑ እዙዝ'ውን ነበረ\nብነፍስን ብስጋን መንገዱ ሰመረ\n[[/chorus]]\n\nኣሚናን ተላዒልናን ንስምካ ሒዝና ኢና\nፍቕርኻን ምድኃንካን'ውን ተስፋ እናገበርና\nምሳና ካብ ኮንካ'ሞ መን ይቃወመና\nጐይታ ክትረድኣና ምድሪ ክንወርሳ ኢና\n\nካብቲ ባሕሪ እሳት ከስግረና እዩ\nዝኣመናዮ ኣምላኽ ኣየሕፍረናን እዩ\nኣብ ማዕዶ ዮርዳኖስ ክነብር ከለና\nቃል ዝኣተወልና ወረስቱ ንሕና ኢና\n\nንጃልባና ሒዝና ኣብ ማእከል በጺሕና\nንመርበብና እውን ናብ የማን ደርቢና\nንኸንቱ ከይከውን ጻዕርናን ድኻምናን\nፈጸምቲ ክንከውን ርድኣና ኣምላኽና"
-    },
-    "ti_ro": {
-      "title": "Aminan tela'ilnan",
-      "zemari": "zemarit Tsedal gobeze",
-      "lyrics": "Aminan telailnan nsmka hizna ina\nFqrkhan mdhankan'wn tesfa nageberna\nMsana kab konka'mo men yqawemena\nGoyta ktredana mdri knwersa ina\nAbrham aminu tsediqu hywetu\nQalu semiu wetsiu kab zemed kab habtu\nGoytnetka aminu zuz'wn nebere\nBnefsn bsgan mengedu semere\nKabti bahri sat kesgrena yu\nZamenayo amlakh ayehfrenan yu\nAb mado yordanos knebr kelena\nQal zatewelna werestu nhna ina\nSearu nmengstat kab sef`wn amletu\nAf anbesa atsewu kab sat dehanu\nNkwilu gedifom bsmka menenu\nNakha aminom bkhbri teshomu\nNjalbana hizna ab makel betsihna\nNmerbebna wn nab yeman derbina\nNkhentu keykewn tsarnan dkhamnan\nFetsemti knkewn rdana amlakhna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Aminan tela'ilnan nsmka hizna ina",
+      "Fqrkhan mdhankan'wn tesfa nageberna",
+      "Msana kab konka'mo men yqawemena",
+      "Gwayta ktredana mdri knwersa ina",
+      "Abrham aminu ts'ediqu hywetu",
+      "Qalu semi'u wets'iu kab zemed kab habtu",
+      "Goytnetka aminu zuz'wn nebere",
+      "Bnefsn bsgan mengedu semere"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kabti bahri sat kesgrena yu",
+          "Zamenayo amlakh ayehfrenan yu",
+          "Ab ma'do yordanos knebr kelena",
+          "Qal zatewelna werestu nhna ina",
+          "Se'aru nmengstat kab sef`wn amlet'u",
+          "Af anbesa 'ats'ewu kab sat dehanu",
+          "Nkhwlu gedifom bsmka menenu",
+          "N'akha aminom bkhbri teshomu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Njalbana hizna ab makel bets'ihna",
+          "Nmerbebna  wn nab yeman derbina",
+          "Nkhentu keykewn ts'a'rnan dkhamnan",
+          "Fets'emti knkewn rdana amlakhna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

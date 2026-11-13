@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_3d4f40d798",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፈትዩና እዩ’ሞ"
+  "id": 117,
+  "title": "ፈትዩና እዩ’ሞ",
+  "ti": {
+    "chorus": [
+      "ፈትዩና እዩ’ሞ ዳግም ኣይጸልኣናን",
+      "ርእዩና’ዩሞ ከቶ ኣይርስዓናን",
+      "የለን ዝመስሎ እሙን ቅዱስ ጐይታ",
+      "ምሳና እዩ ክሳብ መወዳእታ",
+      "ካብ ስፍራ ጸልማት ካብ ናይ ዓለም ከውታ",
+      "እናጸውዐ ናብ ብርሃን ወጋሕታ",
+      "ሕዝቡ ከይኮንና ሕዝቡ’ዩ ገይሩና",
+      "እስራኤል ዘነፍስ ምሕረት ረኺብና ኢና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጥበበኛታት ንኸሕፍር ኢሉ",
+          "ሥጋ ለቢሱ ንዓና መሲሉ",
+          "ብሞት ኣምላኽና ሕይወት ረኺብና ኢና",
+          "ዕልል ንበል ነጻነት ረኺብና",
+          "‘ተጠምየ መግበይ ምስ ዝጸምእ መስተይ",
+          "ከይዓርቕ ልብሰይ ከይሽገር ምርኩሰይ",
+          "ሓይለይ ብርትዐይ መጽንዕየይ እዩ",
+          "ቅልጽም ጸላእተይ ሰይርዎ ርኣዩ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቀስቱ ኣልዒሉ ጸላኢ እንተ መጸ",
+          "ከጥፍኣና ኢሉ ውዲት ‘ተሓንጸጸ",
+          "ዳዊት ክዕወት ንጎልያድ ዘሕፈሮ",
+          "ኣምላኽ እስራኤል ኣብ መንጎና ኣሎ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፈትዩና እዩ’ሞ",
-      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
-      "lyrics": "[[chorus]]\nካብ ስፍራ ጸልማት ካብ ናይ ዓለም ከውታ\nእናጸውዐ ናብ ብርሃን ወጋሕታ\nሕዝቡ ከይኮንና ሕዝቡ’ዩ ገይሩና\nእስራኤል ዘነፍስ ምሕረት ረኺብና ኢና\n[[/chorus]]\n\nፈትዩና እዩ’ሞ ዳግም ኣይጸልኣናን\nርእዩና’ዩሞ ከቶ ኣይርስዓናን\nየለን ዝመስሎ እሙን ቅዱስ ጐይታ\nምሳና እዩ ክሳብ መወዳእታ\n\nጥበበኛታት ንኸሕፍር ኢሉ\nሥጋ ለቢሱ ንዓና መሲሉ\nብሞት ኣምላኽና ሕይወት ረኺብና ኢና\nዕልል ንበል ነጻነት ረኺብና\n\nቀስቱ ኣልዒሉ ጸላኢ እንተ መጸ\nከጥፍኣና ኢሉ ውዲት ‘ተሓንጸጸ\nዳዊት ክዕወት ንጎልያድ ዘሕፈሮ\nኣምላኽ እስራኤል ኣብ መንጎና ኣሎ"
-    },
-    "ti_ro": {
-      "title": "Fetyuna 'yu’mo",
-      "zemari": "zemarit werqnesh haylu",
-      "lyrics": "Fetyuna yu’mo dagm aytselanan\nRyuna’yumo keto ayrsanan\nYelen zmeslo mun qdus goyta\nMsana yu ksab mewedata\nKab sfra tselmat kab nay alem kewta\nNatsewa nab brhan wegahta\nHzbu keykonna hzbu’yu geyruna\nSrael zenefs mhret rekhibna ina\nTbebenyatat nkhehfr ilu\nSsga lebisu nana mesilu\nBmot amlakhna hywet rekhibna ina\nLl nbel netsanet rekhibna\n‘Tetemye megbey ms ztsem mestey\nKeyarq lbsey keyshger mrkusey\nHayley brtay metsnyey yu\nQltsm tselatey seyrwo rayu\nQestu alilu tselai nte metse\nKetfana ilu wdit ‘tehantsetse\nDawit kwet ngolyad zehfero\nAmlakh srael ab mengona alo"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Fetyuna yu’mo dagm ayts'elanan",
+      "Ryuna’yumo keto ayrs'anan",
+      "Yelen zmeslo mun qdus gwayta",
+      "Msana yu ksab mewedata",
+      "Kab sfra ts'elmat kab nay 'alem kewta",
+      "Nats'ew'e nab brhan wegahta",
+      "Hzbu keykonna hzbu’yu geyruna",
+      "Srael zenefs mhret rekhibna ina"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "T'bebenyatat nkhehfr ilu",
+          "Ssga lebisu n'ana mesilu",
+          "Bmot amlakhna hywet rekhibna ina",
+          "'Ll nbel nets'anet rekhibna",
+          "‘Tet'emye megbey ms zts'em mestey",
+          "Key'arq lbsey keyshger mrkusey",
+          "Hayley brt'ey mets'n'yey yu",
+          "Qlts'm ts'elatey seyrwo rayu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qestu al'ilu ts'elai nte mets'e",
+          "Ket'fana ilu wdit ‘tehants'ets'e",
+          "Dawit k'wet ngolyad zehfero",
+          "Amlakh srael ab mengona alo"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

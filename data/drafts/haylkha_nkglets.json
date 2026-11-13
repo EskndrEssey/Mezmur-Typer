@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_8005704e7e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሓይልኻ እንክግለጽ"
+  "id": 852,
+  "title": "ሓይልኻ እንክግለጽ",
+  "ti": {
+    "chorus": [
+      "ሓይልኻ እንክግለጽ ኣብ ሰማይ /2/",
+      "ጐይታይ መን’ዩ ደው ዝብል",
+      "ቅድሜኻ መን’ዩ ደው ዝብል /2/",
+      "ኣቤት ቀርኒ መለኸት እንክንፋሕ",
+      "ኣዋጅ እንክእወጅ ብገፊሕ",
+      "ጻድቃን እንክቖሙ ብየማን",
+      "እንታ’ዩ እቲ ናትና ዕድል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣቤት ሸውዓተ ንፋስ ነፊሶም",
+          "እንክህውኹ ንዅሉ ዓለም",
+          "ዘዋህለልዎ ትሩፋት",
+          "እንከቕርቡ ናብ ኣምላኽ ስብሓት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣቤት ኃጥኣን እንክጽውዑ ንፍርዲ",
+          "እንክኣትዉ ገሃነም ነዳዲ",
+          "ዘይጠቅም ብኽያት ኮይኑ",
+          "ውርደት እንክኸውን ሓዘኑ",
+          "ኣቤት ማዕጾ ሰማያት እንክኽፈት",
+          "መላእክት እንክነፍሑ መለኸት",
+          "ዘይተራእየ ፍሉይ ግርማ",
+          "ድምጺ እንክስማዕ ኣብ ራማ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ይልማ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሓይልኻ እንክግለጽ",
-      "zemari": "ዘማሪ ይልማ ሃይሉ",
-      "lyrics": "[[chorus]]\nኣቤት ቀርኒ መለኸት እንክንፋሕ\nኣዋጅ እንክእወጅ ብገፊሕ\nጻድቃን እንክቖሙ ብየማን\nእንታ’ዩ እቲ ናትና ዕድል\n[[/chorus]]\n\nሓይልኻ እንክግለጽ ኣብ ሰማይ (2)\nጐይታይ መን’ዩ ደው ዝብል\nቅድሜኻ መን’ዩ ደው ዝብል (2)\n\nኣቤት ሸውዓተ ንፋስ ነፊሶም\nእንክህውኹ ንዅሉ ዓለም\nእንክእዘዝ ናይ ባሕሪ ማዕበል\nቀጥቀጥ እንክብሉ ከናፍር\n\nኣቤት ኃጥኣን እንክጽውዑ ንፍርዲ\nእንክኣትዉ ገሃነም ነዳዲ\nዘይጠቅም ብኽያት ኮይኑ\nውርደት እንክኸውን ሓዘኑ"
-    },
-    "ti_ro": {
-      "title": "Haylkha 'nkgleTs",
-      "zemari": "zemari ylma haylu",
-      "lyrics": "[[chorus]]\nHaylkha 'nkgleTs ab semay (2)\n[[/chorus]]\n\nGoytay men’yu dew zbl\nQdmekha men’yu dew zbl (2)\nAbet qerni melekhet 'nknfah\nAwaj 'nk'wej bgefih\nTsadqan 'nkqomu byeman\n'Nta’yu 'ti natna 'dl\nAbet shew'ate nfas nefisom\n'Nkhwkhu nkwilu 'alem\n'Nk'zez nay bahri ma'bel\nQeTqeT 'nkblu kenafr\nAbet 'nkTsw'u Tsadqan qdusan\nSenay zgeberu brukhan\nZewahlelwo trufat\n'Nkeqrbu nab amlakh sbhat\nAbet haTan 'nkTsw'u nfrdi\n'Nkatwu gehanem nedadi\nZeyTeqm bkhyat koynu\nWrdet 'nkkhewn hazenu\nAbet ma'Tso semayat 'nkkhfet\nMela'kt 'nknefhu melekhet\nZeytera'ye fluy grma\nDmTsi 'nksma' ab rama"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Haylkha nkglets' ab semay /2/",
+      "Gwaytay men’yu dew zbl",
+      "Qdmekha men’yu dew zbl /2/",
+      "Abet qerni melekhet nknfah",
+      "Awaj nkwej bgefih",
+      "Ts'adqan nkqomu byeman",
+      "Nta’yu ti natna 'dl"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abet shew'ate nfas nefisom",
+          "Nkhwkhu nkhwlu 'alem",
+          "Zewahlelwo trufat",
+          "Nkeqrbu nab amlakh sbhat"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abet hat'an nkts'w'u nfrdi",
+          "Nkatwu gehanem nedadi",
+          "Zeyt'eqm bkhyat koynu",
+          "Wrdet nkkhewn hazenu",
+          "Abet ma'ts'o semayat nkkhfet",
+          "Melakt nknefhu melekhet",
+          "Zeyteraye fluy grma",
+          "Dmts'i nksma' ab rama"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

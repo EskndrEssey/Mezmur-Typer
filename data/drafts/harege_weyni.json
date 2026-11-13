@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_f696376d1e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሓረገ ወይኒ"
+  "id": 12,
+  "title": "ሓረገ ወይኒ",
+  "ti": {
+    "chorus": [
+      "ብጽእት ይብሉኺ እመአምላክ",
+      "ትውልድታት ኵሉ",
+      "ስምኪ ፍሉዩ ንዓና ቤዛዊተ ኵሉ",
+      "ናይ ያዕቆብ መሳልል ናይ ሙሴ በትሪ’ኺ",
+      "ነቲ እሳት ባሕሪ ተስግርና ኢኺ",
+      "እመብዙኃን’ያ ዝተዋህበት ንዓና",
+      "ጽላል ከውልናያ ድንግል ረዳኢትና/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፍቕርን ሰላምን’ውን ዝተገለጸልኪ",
+          "ሃገር እግዚአብሔር ድንግል ማርያም ኢኺ",
+          "ዝተሓጽረት ተኽሊ ዝተዓጽወት ደገ",
+          "ናይ ድንግል ምስጋና ይብጻሕ ኣጽናፍ ኣጽናፍ/2/",
+          "ዕጹብ ድንቂ ነገር ዝተዋህበት ንዓና",
+          "ሕይወት እትልምን ኣዴና ረኺብና",
+          "ክሳብ ቀራንዮ ክጸንዕ ጉዕዞና",
+          "ድንግል ተዋሂብና ናይ ሓደራ ኣዴና/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሓረገ ወይኒ",
-      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-      "lyrics": "[[chorus]]\nናይ ያዕቆብ መሳልል ናይ ሙሴ በትሪ’ኺ\nነቲ እሳት ባሕሪ ተስግርና ኢኺ\nእመብዙኃን’ያ ዝተዋህበት ንዓና\nጽላል ከውልናያ ድንግል ረዳኢትና(2)\n[[/chorus]]\n\nሓረገ ወይኒ ኢኺ ድንግል ንወልድ ኣዲኡ\nብጽእት ይብሉኺ እመአምላክ\nትውልድታት ኵሉ\nስምኪ ፍሉዩ ንዓና ቤዛዊተ ኵሉ\n\nፍቕርን ሰላምን’ውን ዝተገለጸልኪ\nሃገር እግዚአብሔር ድንግል ማርያም ኢኺ\nዝተሓጽረት ተኽሊ ዝተዓጽወት ደገ\nናይ ድንግል ምስጋና ይብጻሕ ኣጽናፍ ኣጽናፍ(2)"
-    },
-    "ti_ro": {
-      "title": "Harege weyni",
-      "zemari": "qesis ashenafi ge/maryam",
-      "lyrics": "[[chorus]]\nTslal kewlnaya dngl redaitna(2)\n[[/chorus]]\n\nHarege weyni ikhi dngl nweld adiu\nBtst yblukhi meamlak\nTwldtat kwilu\nSmki fluyu nana bezawite kwilu\nNay yaqob mesall nay muse betri’khi\nNeti sat bahri tesgrna ikhi\nMebzuhan’ya ztewahbet nana\nFqrn selamn’wn ztegeletselki\nHager gziabher dngl maryam ikhi\nZtehatsret tekhli zteatswet dege\nNay dngl msgana ybtsah atsnaf atsnaf(2)\nTsub dnqi neger ztewahbet nana\nHywet tlmn adena rekhibna\nKsab qeranyo ktsen guzona\nDngl tewahibna nay hadera adena(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bts't yblukhi meemlak",
+      "Twldtat kwlu",
+      "Smki fluyu n'ana bezawite kwlu",
+      "Nay ya'qob mesall nay muse betri’khi",
+      "Neti sat bahri tesgrna ikhi",
+      "Mebzuhan’ya ztewahbet n'ana",
+      "Ts'lal kewlnaya dngl redaitna/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Fqrn selamn’wn ztegelets'elki",
+          "Hager gziebher dngl maryam ikhi",
+          "Ztehats'ret tekhli zte'ats'wet dege",
+          "Nay dngl msgana ybts'ah ats'naf ats'naf/2/",
+          "'Ts'ub dnqi neger ztewahbet n'ana",
+          "Hywet tlmn adena rekhibna",
+          "Ksab qeranyo kts'en' gu'zona",
+          "Dngl tewahibna nay hadera adena/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

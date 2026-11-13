@@ -1,41 +1,104 @@
 {
-  "id": "h_efr_224ee0c801",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክዝምረላ"
+  "id": 354,
+  "title": "ክዝምረላ",
+  "ti": {
+    "chorus": [
+      "መብራህቲ ድኅነት መሕደሪት ጸግዒ",
+      "ይግብኣ'ዩ ክብሪ ንዓኣ",
+      "እግዚአብሔር ባዕሉ ልዕል ዘበላ /2/",
+      "ተመሪጻ ድንግል ለካ ተሓሲባ",
+      "ንእሳት ክትጸውር ብንጹህ ከርሳ",
+      "ለጋሲት ንብርሃን ወርሒ ዝበልዋ",
+      "ንጸሓይ ወለደት ብግርማ ኣጊጻ",
+      "ሰላም ነጒዱ ድምጺ ፍቕሪ",
+      "ጽድቂ ክቑጸር ከም ግብሪ ጽድቂ",
+      "መድኅን ወሪዱ ማእከል ምድሪ",
+      "መዓር ወለላ ከፍስስ ከዛሪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣመና ውቅብቲ ወርቂ ስልማታ",
+          "ዘፈርፈር ዝልብሳ ኣኽሊላ ማዕሪጋ",
+          "ፍጹም ቅድስና ብኽልተ ወገና",
+          "ምልክቱ ጽድቂ ፈጣሪ ምውላዳ",
+          "መንክር በሪቑ ብርሃን ወሊዑ",
+          "ዓለም ከድሕን ብክቡር ደሙ",
+          "ሓርነት ኮይኑ ኣዋጅ ድኅነት",
+          "ነፍሳት ዘመሩ ብሓጎስ ነፈሩ",
+          "ንጽህቲ ኣዳራሽ በረኸት ዘይጎድላ",
+          "ንዓለም መኽበሪት ምቁር ጽዋኣ",
+          "ዘይትፈርስ መቕደስ ዘይትጠፍእ ፋና",
+          "ቅዱሳን ትድግፍ ከውሒ እምባ ኮይና",
+          "ዘደንቕ ምስጢር ምድሓን ፈጺማ",
+          "ውሉድ ወለዶ ብጽእት ይብልዋ",
+          "ትምክሕቲ ኣበው ምንጪ ማይ ሕይወት",
+          "ድንግል ማርያም ፈውሲ ከቢድ ሕማም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘይትልወጥ በትሪ መሰረት ሃይማኖት",
+          "መዝገብ ክውንን ዘይመውት ሰላም",
+          "ድንግል ተረስርስ ልበይ ተሐጉስ",
+          "ወትሩ ክዝምር ስማ ከስተማቕር"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክዝምረላ",
-      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-      "lyrics": "[[chorus]]\nተመሪጻ ድንግል ለካ ተሓሲባ\nንእሳት ክትጸውር ብንጹህ ከርሳ\nለጋሲት ንብርሃን ወርሒ ዝበልዋ\nንጸሓይ ወለደት ብግርማ ኣጊጻ\nሰላም ነጒዱ ድምጺ ፍቕሪ\nጽድቂ ክቑጸር ከም ግብሪ ጽድቂ\nመድኅን ወሪዱ ማእከል ምድሪ\nመዓር ወለላ ከፍስስ ከዛሪ\n[[/chorus]]\n\nክዝምረላ ማርያም ንጽህቲ\nመብራህቲ ድኅነት መሕደሪት ጸግዒ\nይግብኣ'ዩ ክብሪ ንዓኣ\nእግዚአብሔር ባዕሉ ልዕል ዘበላ (2)\n\nኣመና ውቅብቲ ወርቂ ስልማታ\nዘፈርፈር ዝልብሳ ኣኽሊላ ማዕሪጋ\nፍጹም ቅድስና ብኽልተ ወገና\nምልክቱ ጽድቂ ፈጣሪ ምውላዳ\nመንክር በሪቑ ብርሃን ወሊዑ\nዓለም ከድሕን ብክቡር ደሙ\nሓርነት ኮይኑ ኣዋጅ ድኅነት\nነፍሳት ዘመሩ ብሓጎስ ነፈሩ\n\nዘይትልወጥ በትሪ መሰረት ሃይማኖት\nጸሎታ ዘሳግር ንብርቱዕ ማዕበል\nንሽቶ ተቐምጥ ዘይሃስስ ጨናኣ\nምእዝቲ ዕፍረት ፈቃር ብባህሪኣ\nማርያም ኩንለይ ደመና ጽላል\nመዝገብ ክውንን ዘይመውት ሰላም\nድንግል ተረስርስ ልበይ ተሐጉስ\nወትሩ ክዝምር ስማ ከስተማቕር"
-    },
-    "ti_ro": {
-      "title": "Kzmrela",
-      "zemari": "liqe mela'kt agelgali goytay",
-      "lyrics": "[[chorus]]\nGziabher balu ll zebela (2)\n[[/chorus]]\n\nKzmrela maryam ntshti\nMebrahti dhnet mehderit tsegi\nYgba'yu kbri naa\nTemeritsa dngl leka tehasiba\nNsat kttsewr bntsuh kersa\nLegasit nbrhan werhi zbelwa\nNtsehay weledet bgrma agitsa\nSelam negudu dmtsi fqri\nTsdqi kqutser kem gbri tsdqi\nMedhn weridu makel mdri\nMear welela kefss kezari\nAmena wqbti werqi slmata\nZeferfer zlbsa akhlila mariga\nFtsum qdsna bkhlte wegena\nMlktu tsdqi fetari mwlada\nMenkr beriqu brhan weliu\nAlem kedhn bkbur demu\nHarnet koynu awaj dhnet\nNefsat zemeru bhagos neferu\nNtshti adarash berekhet zeygodla\nNalem mekhberit mqur tswaa\nZeytfers meqdes zeyttef fana\nQdusan tdgf kewhi mba koyna\nZedenq mstir mdhan fetsima\nWlud weledo btst yblwa\nTmkhti abew mnchi may hywet\nDngl maryam fewsi kebid hmam\nZeytlwet betri meseret haymanot\nTselota zesagr nbrtu mabel\nNshto teqemt zeyhass chenaa\nMzti fret feqar bbahria\nMaryam kunley demena tslal\nMezgeb kwnn zeymewt selam\nDngl teresrs lbey tehagus\nWetru kzmr sma kestemaqr"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mebrahti dhnet mehderit ts'eg'i",
+      "Ygba'yu kbri n'aa",
+      "Gziebher ba'lu l'l zebela /2/",
+      "Temerits'a dngl leka tehasiba",
+      "Nsat ktts'ewr bnts'uh kersa",
+      "Legasit nbrhan werhi zbelwa",
+      "Nts'ehay weledet bgrma agits'a",
+      "Selam negwidu dmts'i fqri",
+      "Ts'dqi kquts'er kem gbri ts'dqi",
+      "Medhn weridu makel mdri",
+      "Me'ar welela kefss kezari"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amena wqbti werqi slmata",
+          "Zeferfer zlbsa akhlila ma'riga",
+          "Fts'um qdsna bkhlte wegena",
+          "Mlktu ts'dqi fet'ari mwlada",
+          "Menkr beriqu brhan weli'u",
+          "'Alem kedhn bkbur demu",
+          "Harnet koynu awaj dhnet",
+          "Nefsat zemeru bhagos neferu",
+          "Nts'hti adarash berekhet zeygodla",
+          "N'alem mekhberit mqur ts'waa",
+          "Zeytfers meqdes zeytt'ef fana",
+          "Qdusan tdgf kewhi mba koyna",
+          "Zedenq mst'ir mdhan fets'ima",
+          "Wlud weledo bts't yblwa",
+          "Tmkhti abew mnch'i may hywet",
+          "Dngl maryam fewsi kebid hmam"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zeytlwet' betri meseret haymanot",
+          "Mezgeb kwnn zeymewt selam",
+          "Dngl teresrs lbey tehegus",
+          "Wetru kzmr sma kestemaqr"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_2_possible_page_split"
+  ]
 }

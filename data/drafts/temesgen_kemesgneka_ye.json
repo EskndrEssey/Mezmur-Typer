@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_a6f2fb23ae",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተመስገን ከመስግነካ’የ"
+  "id": 351,
+  "title": "ተመስገን ከመስግነካ’የ",
+  "ti": {
+    "chorus": [
+      "ተመስገን ከመስግነካ’የ",
+      "ንሳህሊ ምሕረትካ ንፍቕርኻ ርእየ",
+      "ተመስገን ስዓበኒ ኢልካኒ",
+      "ብቅኑዕ ጎደና መሪሕካኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፈሊኻ ጸዊዕካኒ ንስምካ ከልዕል ንሰንደቕ ዕላማይ",
+          "ኣሰሊፍካኒ እሙን ክኸውን ዝተግህ ዓቐይታይ",
+          "ኣጽዋረይ ሒዘ ኣንጊሀ ክወፍር",
+          "ዝተቐደሰት መንግስትኻ ከኽብር",
+          "ምስ ክልተ ጎይቶት ሓንኪሰ ከይነብር",
+          "ሕማቕ ከይከውን ሰነፍ ወተሃደር",
+          "ዕርፈይ ኣጽኒዐ ንቕድሚት ክጥምት",
+          "ኣሰንየኒ ክሳብ እታ ዕለት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብስምካ ክወናጨፍ ዘንደልህጽ ኲናት ናይ ምድሓንካ ቀስቲ",
+          "ኣብ የማነይ እልፊ ኣብ ጥቓይ’ውን ሽሕ ክወድቁ ጸላእቲ",
+          "በጃ ባሮቱ ነፍሱ ዝህብ ንጉስ",
+          "ኣብ ምድሪ የለን ዘደንቕ’ዩ ናትካስ",
+          "ንሕናስ ንስመ ከም ኣገልገልትኻ",
+          "ዝተገልገልናዮ ይበዝሕ ካባኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተመስገን ከመስግነካ’የ",
-      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-      "lyrics": "[[chorus]]\nተመስገን ከመስግነካ’የ\nንሳህሊ ምሕረትካ ንፍቕርኻ ርእየ\nተመስገን ስዓበኒ ኢልካኒ\nብቅኑዕ ጎደና መሪሕካኒ\n[[/chorus]]\n\nፈሊኻ ጸዊዕካኒ ንስምካ ከልዕል ንሰንደቕ ዕላማይ\nኣሰሊፍካኒ እሙን ክኸውን ዝተግህ ዓቐይታይ\nኣጽዋረይ ሒዘ ኣንጊሀ ክወፍር\nዝተቐደሰት መንግስትኻ ከኽብር\nኣብ ጸግዒ ቤትካ ኣብ ጽላል ክሓድር\nእሙን ባርያኻ ተሰምየ ክነብር\n\nብስምካ ክወናጨፍ ዘንደልህጽ ኲናት ናይ ምድሓንካ ቀስቲ\nኣብ የማነይ እልፊ ኣብ ጥቓይ’ውን ሽሕ ክወድቁ ጸላእቲ\nበጃ ባሮቱ ነፍሱ ዝህብ ንጉስ\nኣብ ምድሪ የለን ዘደንቕ’ዩ ናትካስ\nንሕናስ ንስመ ከም ኣገልገልትኻ\nዝተገልገልናዮ ይበዝሕ ካባኻ"
-    },
-    "ti_ro": {
-      "title": "Temesgen kemesgneka’ye",
-      "zemari": "liqe mela'kt agelgali goytay",
-      "lyrics": "Temesgen kemesgneka’ye\nNsahli mhretka nfqrkha rye\nTemesgen sabeni ilkani\nBqnu godena merihkani\nFelikha tsewikani nsmka kell nsendeq lamay\nAselifkani mun kkhewn ztegh aqeytay\nAtswarey hize angiha kwefr\nZteqedeset mengstkha kekhbr\nAb tsegi betka ab tslal khadr\nMun baryakha tesemye knebr\nNdhritey keytmt agarey halu kab belih melatse\nAythdegeni kegelglekas hasabye qoritse\nMs klte goytot hankise keynebr\nHmaq keykewn senef wetehader\nRfey atsnia nqdmit ktmt\nAsenyeni ksab ta let\nBsmka kwenachef zendelhts kunat nay mdhanka qesti\nAb yemaney lfi ab tqay’wn shh kwedqu tselati\nBeja barotu nefsu zhb ngus\nAb mdri yelen zedenq’yu natkas\nNhnas nsme kem agelgeltkha\nZtegelgelnayo ybezh kabakha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Temesgen kemesgneka’ye",
+      "Nsahli mhretka nfqrkha rye",
+      "Temesgen s'abeni ilkani",
+      "Bqnu' godena merihkani"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Felikha ts'ewi'kani nsmka kel'l nsendeq 'lamay",
+          "Aselifkani mun kkhewn ztegh 'aqeytay",
+          "Ats'warey hize angihe kwefr",
+          "Zteqedeset mengstkha kekhbr",
+          "Ms klte goytot hankise keynebr",
+          "Hmaq keykewn senef wetehader",
+          "'Rfey ats'ni'e nqdmit kt'mt",
+          "Asenyeni ksab ta 'let"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsmka kwenach'ef zendelhts' kwinat nay mdhanka qesti",
+          "Ab yemaney lfi ab t'qay’wn shh kwedqu ts'elati",
+          "Beja barotu nefsu zhb ngus",
+          "Ab mdri yelen zedenq’yu natkas",
+          "Nhnas nsme kem agelgeltkha",
+          "Ztegelgelnayo ybezh kabakha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

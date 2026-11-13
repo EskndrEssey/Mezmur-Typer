@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_776a3887a8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናትና መመክሒት"
+  "id": 500,
+  "title": "ናትና መመክሒት",
+  "ti": {
+    "chorus": [
+      "ኦ ድንግል ኣዴና ዝተባረኪ’ኺ",
+      "ኣማን ብኣማን /2/ ኣደ ናይ ጐይታና",
+      "ንኣምን በኣኺ ንምህጸን ብስምኪ ድንግል ኣማልድና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነቢያት ኩላቶም ድንግል ዝበሉኺ /2/",
+          "ደመና ናይ ኤልያስ ማርያም ንስኺ’ኺ",
+          "ኣዲኦም ንጻድቃን ሓፍቶም ንመላእክት/2/",
+          "ብናትኪ ቃልኪዳን ረኺብና ሕይወት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓዊ ከየንደዳ ሙሴ ዝረኣያ /2/",
+          "ዝለምለመት ቆጽሊ ድንግል ማርያም እያ",
+          "ኣደ ድንግልና ኣምላኽ ዝሃበኪ /2/",
+          "ምሕረት ኣውርድልና ንዓና ደቅኺ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናትና መመክሒት",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣማን ብኣማን (2) ኣደ ናይ ጐይታና\nንኣምን በኣኺ ንምህጸን ብስምኪ ድንግል ኣማልድና\n[[/chorus]]\n\nናትና መመክሒት ኣምላኽ ዝወለድኪ (2)\nኦ ድንግል ኣዴና ዝተባረኪ’ኺ\n\nነቢያት ኩላቶም ድንግል ዝበሉኺ (2)\nደመና ናይ ኤልያስ ማርያም ንስኺ’ኺ\n\nሓዊ ከየንደዳ ሙሴ ዝረኣያ (2)\nዝለምለመት ቆጽሊ ድንግል ማርያም እያ"
-    },
-    "ti_ro": {
-      "title": "Natna memekhit",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNatna memekhit amlakh zweledki (2)\n[[/chorus]]\n\nO dngl adena ztebareki’khi\nAman baman (2) ade nay goytana\nNamn beakhi nmhtsen bsmki dngl amaldna\nNebiyat kulatom dngl zbelukhi (2)\nDemena nay elyas maryam nskhi’khi\nAdiom ntsadqan haftom nmelakt(2)\nBnatki qalkidan rekhibna hywet\nHawi keyendeda muse zreaya (2)\nZlemlemet qotsli dngl maryam ya\nAde dnglna amlakh zhabeki (2)\nMhret awrdlna nana deqkhi"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "O dngl adena ztebareki’khi",
+      "Aman baman /2/ ade nay gwaytana",
+      "Namn beakhi nmhts'en bsmki dngl amaldna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nebiyat kulatom dngl zbelukhi /2/",
+          "Demena nay elyas maryam nskhi’khi",
+          "Adiom nts'adqan haftom nmelakt/2/",
+          "Bnatki qalkidan rekhibna hywet"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hawi keyendeda muse zreaya /2/",
+          "Zlemlemet qots'li dngl maryam ya",
+          "Ade dnglna amlakh zhabeki /2/",
+          "Mhret awrdlna n'ana deqkhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

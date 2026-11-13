@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_4846c794bd",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ማዕተበይ ከይበትኽ"
+  "id": 266,
+  "title": "ማዕተበይ ከይበትኽ",
+  "ti": {
+    "chorus": [
+      "ማዕተበይ ከይበትኽ ከይርሕቕ ካብ ቤትካ",
+      "መስቀልካ ከይጸልእ ከይርስዕ ውዕለትካ",
+      "ኣሰርካ ክስዕብ መድኃኔ ዓለም",
+      "ጸጋኻ ኣብዝኃለይ ፍቓድካ ከቐድም",
+      "ዓስቢ ኣበሳይ ንጻዕሪ ዘሪኡ",
+      "ምጥሓስ ትእዛዝካ ንጽልኢ ተኺሉ",
+      "ርኅራኄኻ ግን ፆረይ ኣፂሩካ",
+      "ብዕሩቕ ዝባን ኣብ ዕፀ መስቀል ውዒልካ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ወርቅን ብሩርን ኣይዓደጋን ነፍሰይ",
+          "ብኽቡር ዑንቂ ኣይተመዝነን ዋጋይ",
+          "ደምካ’ዩ ነይሩ በጃይ ዝፈሰሰ",
+          "ገመድ ማእሰርተይ ብትሕትና ዝበተኸ",
+          "ብረቂቕ ምሥጢር ብዘገርም ክእለት",
+          "ሲኦል ዘሚትካ ስዒርካ ኃይሊ ሞት",
+          "ዲያብሎስ ግን ኃዘን ተገዚሙ",
+          "ካብ ምሥጢር ፍጥረት ምሥጢረ ድኅነት ረዚኑ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መን ይልክዖ ነዚ ኵሉ ክብሪ",
+          "መንከ ይመዝኖ እዚ ዓይነት ፍቕሪ",
+          "ክሳዕ ክንድዚ በዳሊኻ ምፍቃር",
+          "ክቡር ሕይወትካ በጃ ሓንቲ በጊዕ ምኽፋል"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ማዕተበይ ከይበትኽ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nዓስቢ ኣበሳይ ንጻዕሪ ዘሪኡ\nምጥሓስ ትእዛዝካ ንጽልኢ ተኺሉ\nርኅራኄኻ ግን ፆረይ ኣፂሩካ\nብዕሩቕ ዝባን ኣብ ዕፀ መስቀል ውዒልካ\n[[/chorus]]\n\nማዕተበይ ከይበትኽ ከይርሕቕ ካብ ቤትካ\nመስቀልካ ከይጸልእ ከይርስዕ ውዕለትካ\nኣሰርካ ክስዕብ መድኃኔ ዓለም\nጸጋኻ ኣብዝኃለይ ፍቓድካ ከቐድም\n\nወርቅን ብሩርን ኣይዓደጋን ነፍሰይ\nብኽቡር ዑንቂ ኣይተመዝነን ዋጋይ\nደምካ’ዩ ነይሩ በጃይ ዝፈሰሰ\nገመድ ማእሰርተይ ብትሕትና ዝበተኸ\n\nመን ይልክዖ ነዚ ኵሉ ክብሪ\nመንከ ይመዝኖ እዚ ዓይነት ፍቕሪ\nክሳዕ ክንድዚ በዳሊኻ ምፍቃር\nክቡር ሕይወትካ በጃ ሓንቲ በጊዕ ምኽፋል"
-    },
-    "ti_ro": {
-      "title": "Ma'tebey keybetkh",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Matebey keybetkh keyrhq kab betka\nMesqelka keytsel keyrs wletka\nAserka ksb medhane alem\nTsegakha abzhaley fqadka keqedm\nAsbi abesay ntsari zeriu\nMthas tzazka ntsli tekhilu\nRhrahekha gn tsorey atsiruka\nBruq zban ab tse mesqel wilka\nWerqn brurn ayadegan nefsey\nBkhbur unqi aytemeznen wagay\nDemka’yu neyru bejay zfesese\nGemed masertey bthtna zbetekhe\nBreqiq msstir bzegerm klet\nSiol zemitka sirka hayli mot\nDiyablos gn hazen tegezimu\nKab msstir ftret msstire dhnet rezinu\nMen ylko nezi kwilu kbri\nMenke ymezno zi aynet fqri\nKsa kndzi bedalikha mfqar\nKbur hywetka beja hanti begi mkhfal"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ma'tebey keybetkh keyrhq kab betka",
+      "Mesqelka keyts'el keyrs' w'letka",
+      "Aserka ks'b medhane 'alem",
+      "Ts'egakha abzhaley fqadka keqedm",
+      "'Asbi abesay nts'a'ri zeriu",
+      "Mt'has tzazka nts'li tekhilu",
+      "Rhrahekha gn ts'orey ats'iruka",
+      "B'ruq zban ab 'ts'e mesqel w'ilka"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Werqn brurn ay'adegan nefsey",
+          "Bkhbur 'unqi aytemeznen wagay",
+          "Demka’yu neyru bejay zfesese",
+          "Gemed masertey bthtna zbetekhe",
+          "Breqiq msst'ir bzegerm klet",
+          "Siol zemitka s'irka hayli mot",
+          "Diyablos gn hazen tegezimu",
+          "Kab msst'ir ft'ret msst'ire dhnet rezinu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Men ylk'o nezi kwlu kbri",
+          "Menke ymezno zi 'aynet fqri",
+          "Ksa' kndzi bedalikha mfqar",
+          "Kbur hywetka beja hanti begi' mkhfal"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

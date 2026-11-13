@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_51e924b807",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ውዕለትኪ ድንግል"
+  "id": 40,
+  "title": "ውዕለትኪ ድንግል",
+  "ti": {
+    "chorus": [
+      "ሓያል ፍቕርኺ ማሪኹኒ’ዩ",
+      "ተምበርኪኸ’የ ስለ ክብርኺ",
+      "ክዝምር’የ ንኽቡር ስምኪ",
+      "ኣነ ኣይጠምይን ከቶ ኣይጸምእን",
+      "ንዓኺ ሒዘ ገለ ኣይከውንን",
+      "ኣይከብደንን’ዩ መከራ ዓለም",
+      "ወድኺ ሒዘ መድኃኔ ዓለም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትርጉም ረኺቡ ምሳኺ ጉዕዞይ",
+          "ተራሕዩለይ እዩ ማዕጾ ዓወተይ",
+          "እቲ ጽዋዐይ`ውን መሊኡ ተረፈ",
+          "ትሕዙን ልበይ ኣባኺ ኣዕረፈ",
+          "ናይ ግብጺ ስደት ውዑይ ንብዓትኪ",
+          "ማሊዱኒ’ዩ ለዋህ ልብኺ",
+          "ኣይሓፍርን’የ ኣድኒነ ርእሰይ",
+          "ንዓኺ ሒዘ ንድንግል ኣደይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅዱስ ወድኺ ማሪኹኒ’ዩ",
+          "ውሽጠይ ሓዲሩ ፈዊሱኒ’ዩ",
+          "ናይ ሴም ምሳሌ ሸፋኒት ነውረይ",
+          "ተሓጺቡዩ ሎምስ ሕይወተይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ትዝታው ሳሙኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ውዕለትኪ ድንግል",
-      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
-      "lyrics": "[[chorus]]\nኣነ ኣይጠምይን ከቶ ኣይጸምእን\nንዓኺ ሒዘ ገለ ኣይከውንን\nኣይከብደንን’ዩ መከራ ዓለም\nወድኺ ሒዘ መድኃኔ ዓለም\n[[/chorus]]\n\nውዕለትኪ ድንግል በዚሑለይ’ዩ\nሓያል ፍቕርኺ ማሪኹኒ’ዩ\nተምበርኪኸ’የ ስለ ክብርኺ\nክዝምር’የ ንኽቡር ስምኪ\n\nትርጉም ረኺቡ ምሳኺ ጉዕዞይ\nተራሕዩለይ እዩ ማዕጾ ዓወተይ\nእቲ ጽዋዐይ`ውን መሊኡ ተረፈ\nትሕዙን ልበይ ኣባኺ ኣዕረፈ\n\nቅዱስ ወድኺ ማሪኹኒ’ዩ\nውሽጠይ ሓዲሩ ፈዊሱኒ’ዩ\nናይ ሴም ምሳሌ ሸፋኒት ነውረይ\nተሓጺቡዩ ሎምስ ሕይወተይ"
-    },
-    "ti_ro": {
-      "title": "W'letki dngl",
-      "zemari": "di/n tztaw samuel",
-      "lyrics": "Wletki dngl bezihuley’yu\nHayal fqrkhi marikhuni’yu\nTemberkikhe’ye sle kbrkhi\nKzmr’ye nkhbur smki\nAne aytemyn keto aytsemn\nNakhi hize gele aykewnn\nAykebdenn’yu mekera alem\nWedkhi hize medhane alem\nTrgum rekhibu msakhi guzoy\nTerahyuley yu matso awetey\nTi tswaay`wn meliu terefe\nThzun lbey abakhi arefe\nNay gbtsi sdet wuy nbatki\nMaliduni’yu lewah lbkhi\nAyhafrn’ye adnine rsey\nNakhi hize ndngl adey\nQdus wedkhi marikhuni’yu\nWshtey hadiru fewisuni’yu\nNay sem msale shefanit newrey\nTehatsibuyu loms hywetey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Hayal fqrkhi marikhuni’yu",
+      "Temberkikhe’ye sle kbrkhi",
+      "Kzmr’ye nkhbur smki",
+      "Ane ayt'emyn keto ayts'emn",
+      "N'akhi hize gele aykewnn",
+      "Aykebdenn’yu mekera 'alem",
+      "Wedkhi hize medhane 'alem"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Trgum rekhibu msakhi gu'zoy",
+          "Terahyuley yu ma'ts'o 'awetey",
+          "Ti ts'wa'ey`wn meliu terefe",
+          "Thzun lbey abakhi a'refe",
+          "Nay gbts'i sdet w'uy nb'atki",
+          "Maliduni’yu lewah lbkhi",
+          "Ayhafrn’ye adnine rsey",
+          "N'akhi hize ndngl adey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qdus wedkhi marikhuni’yu",
+          "Wsht'ey hadiru fewisuni’yu",
+          "Nay sem msale shefanit newrey",
+          "Tehats'ibuyu loms hywetey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

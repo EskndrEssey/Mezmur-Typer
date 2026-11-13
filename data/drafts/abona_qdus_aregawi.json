@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_552c586ed2",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣቦና ቅዱስ ኣረጋዊ"
+  "id": 314,
+  "title": "ኣቦና ቅዱስ ኣረጋዊ",
+  "ti": {
+    "chorus": [
+      "ኣቦና ቅዱስ ኣረጋዊ ዓለም ዝመነንካ ባሕታዊ /2/",
+      "ኣምሳል ኤልያስ /3/ ገዳማዊ /2/",
+      "ኣቦ ናይ እምነት ተጋዳሊ",
+      "ኣኽሊል ተዓዲልካ እቲ ዘይበሊ",
+      "ረዳኢ ዘኽታማት ትጉህ መምህር",
+      "ፍጹም ዝቐደሶ እግዚኣብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብርኻ ትንገር እቲ ገድልኻ",
+          "ዕጹብ መንክር እዩ ትሕትናኻ",
+          "ገብርሄር ብዓል ብዙሕ ምክሊት",
+          "ኖላዊ ትጉህ ፍጡን ንረዲኤት",
+          "ሕሙማት ይሓውዩ ዕዉራት ይርእዩ",
+          "ብልማኖኻ ፍጹም ዝኣመኑ",
+          "ስለቲ ምሕረት ድኅነት ሕዝብኻ",
+          "ካብ ልዑል ፈጣሪ ለምነልና ኢኻ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲ/ን ኤፍሬም"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣቦና ቅዱስ ኣረጋዊ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nኣቦ ናይ እምነት ተጋዳሊ\nኣኽሊል ተዓዲልካ እቲ ዘይበሊ\nረዳኢ ዘኽታማት ትጉህ መምህር\nፍጹም ዝቐደሶ እግዚኣብሔር\n[[/chorus]]\n\nኣቦና ቅዱስ ኣረጋዊ ዓለም ዝመነንካ ባሕታዊ (2)\nኣምሳል ኤልያስ (3) ገዳማዊ (2)\n\nደብርኻ ትንገር እቲ ገድልኻ\nዕጹብ መንክር እዩ ትሕትናኻ\nገብርሄር ብዓል ብዙሕ ምክሊት\nኖላዊ ትጉህ ፍጡን ንረዲኤት\n\nኣቡነ ኣረጋዊ ረዳኤ ነፍስና\nኣብ ዘለና ኣሊና ርድኣና\nስለቲ ምሕረት ድኅነት ሕዝብኻ\nካብ ልዑል ፈጣሪ ለምነልና ኢኻ\nዲ/ን ኤፍሬም"
-    },
-    "ti_ro": {
-      "title": "Abona qdus aregawi",
-      "zemari": "di/n efrem",
-      "lyrics": "Abona qdus aregawi alem zmenenka bahtawi (2)\nAmsal elyas (3) gedamawi (2)\nAbo nay mnet tegadali\nAkhlil teadilka ti zeybeli\nRedai zekhtamat tguh memhr\nFtsum zqedeso gziabher\nDebrkha tnger ti gedlkha\nTsub menkr yu thtnakha\nGebrher bal bzuh mklit\nNolawi tguh ftun nrediet\nHmumat yhawyu wurat yryu\nBlmanokha ftsum zamenu\nLemtsamat ynetshu tsemamat ysemu\nZemikael yblu kwilom ymhtsenu\nAbune aregawi redae nefsna\nAb zelena alina rdana\nSleti mhret dhnet hzbkha\nKab lul fetari lemnelna ikha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Abona qdus aregawi 'alem zmenenka bahtawi /2/",
+      "Amsal elyas /3/ gedamawi /2/",
+      "Abo nay mnet tegadali",
+      "Akhlil te'adilka ti zeybeli",
+      "Redai zekhtamat tguh memhr",
+      "Fts'um zqedeso gziabher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debrkha tnger ti gedlkha",
+          "'Ts'ub menkr yu thtnakha",
+          "Gebrher b'al bzuh mklit",
+          "Nolawi tguh ft'un nrediet",
+          "Hmumat yhawyu 'wurat yryu",
+          "Blmanokha fts'um zamenu",
+          "Sleti mhret dhnet hzbkha",
+          "Kab l'ul fet'ari lemnelna ikha"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Di/n efrem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

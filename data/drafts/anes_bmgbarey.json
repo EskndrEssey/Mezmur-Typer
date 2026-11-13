@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_896d97ace4",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣነስ ብምግባረይ"
+  "id": 854,
+  "title": "ኣነስ ብምግባረይ",
+  "ti": {
+    "chorus": [
+      "ኣነስ ብምግባረይ ድኹም ኮይነ’የ /2/",
+      "ሕዘንለይ ድንግል ናባኺ መጺኤ /2/",
+      "እቲ ናይ ሓዊ ባሕሪ",
+      "ብዓይነይ ከይርእዮ",
+      "ንቅዱስ ሚካኤል",
+      "ኣሕልፎ በልዮ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ዳዊት መሰንቆ",
+          "ናይ ኤልያስ መና",
+          "ናይ ናሆም መድኃኒት",
+          "ንዒ በደመና /2/",
+          "ክደኽመኒ ከሎ",
+          "ንስኺ’ኺ ሓይለይ",
+          "ናይ ልበይ መድኃኒት",
+          "ረዳኢት ምርኩሰይ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እነብዕ ኣለኹ",
+          "ኣብ ቅድሜኺ ኮይነ",
+          "እልምነኪ ድንግል",
+          "በደለይ ኣሚነ /2/",
+          "ዘይውዳእ ምሕረት",
+          "ኣብ ወድኺ ኣሎ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ይልማ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣነስ ብምግባረይ",
-      "zemari": "ዘማሪ ይልማ ሃይሉ",
-      "lyrics": "[[chorus]]\nእቲ ናይ ሓዊ ባሕሪ\nብዓይነይ ከይርእዮ\nንቅዱስ ሚካኤል\nኣሕልፎ በልዮ (2)\n[[/chorus]]\n\nኣነስ ብምግባረይ ድኹም ኮይነ’የ (2)\nሕዘንለይ ድንግል ናባኺ መጺኤ (2)\n\nናይ ዳዊት መሰንቆ\nናይ ኤልያስ መና\nናይ ናሆም መድኃኒት\nንዒ በደመና (2)\n\nእነብዕ ኣለኹ\nኣብ ቅድሜኺ ኮይነ\nእልምነኪ ድንግል\nበደለይ ኣሚነ (2)"
-    },
-    "ti_ro": {
-      "title": "Anes bmgbarey",
-      "zemari": "zemari ylma haylu",
-      "lyrics": "[[chorus]]\nHzenley dngl nabakhi meTsie (2)\n[[/chorus]]\n\nAnes bmgbarey dkhum koyne’ye (2)\n'Ti nay hawi bahri\nB'ayney keyr'yo\nNqdus mikael\nAhlfo belyo (2)\nNay dawit mesenqo\nNay elyas mena\nNay nahom medhanit\nN'i bedemena (2)\nKdekhmeni kelo\nNskhi’khi hayley\nNay lbey medhanit\nRedait mrkusey(2)\n'Neb' alekhu\nAb qdmekhi koyne\n'Lmneki dngl\nBedeley amine (2)\nZeywda' mhret\nAb wedkhi alo\nNeti zamneki\nSelamki habyo (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Anes bmgbarey dkhum koyne’ye /2/",
+      "Hzenley dngl nabakhi mets'ie /2/",
+      "Ti nay hawi bahri",
+      "B'ayney keyryo",
+      "Nqdus mikael",
+      "Ahlfo belyo /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay dawit mesenqo",
+          "Nay elyas mena",
+          "Nay nahom medhanit",
+          "N'i bedemena /2/",
+          "Kdekhmeni kelo",
+          "Nskhi’khi hayley",
+          "Nay lbey medhanit",
+          "Redait mrkusey/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Neb' alekhu",
+          "Ab qdmekhi koyne",
+          "Lmneki dngl",
+          "Bedeley amine /2/",
+          "Zeywda mhret",
+          "Ab wedkhi alo"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

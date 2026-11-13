@@ -1,44 +1,51 @@
 {
-  "id": "h_efr_01cd7b1029",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንልበይ ኣላዒሉ"
+  "id": 482,
+  "title": "ንልበይ ኣላዒሉ",
+  "ti": {
+    "chorus": [
+      "ንመድኃኔ ዓለም እመኖ ይብለኒ",
+      "እመን /6/ ንኣሃዜ ኵሉ ንዝልመን",
+      "ልበይ ኣላዒሉ የመላኽተኒ",
+      "ንድንግል ማርያም እመና ይብለኒ",
+      "እመን /6/ ንወላዲት ኣምላኽ ንትልመን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልበይ ኣላዒሉ የመላኽተኒ",
+          "ንቅዱስ ሚካኤል እመኖ ይብለኒ",
+          "እመን /6/ ንመልኣከ ሳኅል ንዝልመን",
+          "ልበይ ኣላዒሉ የመላኽተኒ",
+          "ንቅዱስ ዑራኤል እመኖ ይብለኒ",
+          "እመን /6/ ንመልኣከ ሰላም ንዝልመን"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንልበይ ኣላዒሉ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nልበይ ኣላዒሉ የመላኽተኒ\nንድንግል ማርያም እመና ይብለኒ\nእመን (6) ንወላዲት ኣምላኽ ንትልመን\n[[/chorus]]\n\nልበይ ኣላዒሉ የመላኽተኒ\nንመድኃኔ ዓለም እመኖ ይብለኒ\nእመን (6) ንኣሃዜ ኵሉ ንዝልመን\n\nልበይ ኣላዒሉ የመላኽተኒ\nንቅዱስ ሚካኤል እመኖ ይብለኒ\nእመን (6) ንመልኣከ ሳኅል ንዝልመን"
-    },
-    "ti_ro": {
-      "title": "Nlbey ala'ilu",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Lbey alailu yemelakhteni\nNmedhane alem meno ybleni\nMen (6) nahaze kwilu nzlmen\nLbey alailu yemelakhteni\nNdngl maryam mena ybleni\nMen (6) nweladit amlakh ntlmen\nLbey alailu yemelakhteni\nNqdus mikael meno ybleni\nMen (6) nmelake sahl nzlmen\nLbey alailu yemelakhteni\nNqdus urael meno ybleni\nMen (6) nmelake selam nzlmen"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Nmedhane 'alem meno ybleni",
+      "Men /6/ nahaze kwlu nzlmen",
+      "Lbey ala'ilu yemelakhteni",
+      "Ndngl maryam mena ybleni",
+      "Men /6/ nweladit amlakh ntlmen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Lbey ala'ilu yemelakhteni",
+          "Nqdus mikael meno ybleni",
+          "Men /6/ nmelake sahl nzlmen",
+          "Lbey ala'ilu yemelakhteni",
+          "Nqdus 'urael meno ybleni",
+          "Men /6/ nmelake selam nzlmen"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "repeat_markers"
+    "no_title_line_found"
   ]
 }

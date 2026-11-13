@@ -1,44 +1,73 @@
 {
-  "id": "h_efr_ba610f333a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፍቕርኻ ዓቢይ"
+  "id": 410,
+  "title": "ፍቕርኻ ዓቢይ",
+  "ti": {
+    "chorus": [
+      "ፍቕርኻ ዓቢይ’ዩ ክኸፍሎ ከቢዱ",
+      "ጐይታይ ‘ቲ ምሕረትካ ካብ ሰማይ ወሪዱ",
+      "ንስኻ ግን /2/ ጐይታይ ናባይ ነዓ ኢልካኒ",
+      "ኣብ ትሕቲ ኣእዳውካ ፍጹም ኣዕቚብካኒ",
+      "ኣብ ውሽጢ ሕቑፎኻ ፍቕሪ መሊእካኒ",
+      "መዓስ እሞ ጐይታይ ተረዲኤ ኣነ",
+      "ዓመታት ከቑጽር ኣብ ኣጸድካ ኮይነ",
+      "ሕጂ ግና /2/ ፍቕርኻ ሰሪጹ ኣብ ልበይ",
+      "ጨው ተወሲኽዋ መቂራ ሕይወተይ",
+      "ጐይታየ ተመስገን ናተይ መድኃኒየይ",
+      "ብርሃን እዩ ገጽካ ዝተመልአ ፍቕሪ",
+      "ናብ ሓጥኣን ዝጥምት ርስሓቶም ከጽሪ",
+      "ብርሃጽካ /2/ ጐይታይ ከፊልካለይ ዋጋ",
+      "በቲ ቅዱስ ደምካ ነፍሰይ ተዓዲጋ",
+      "ካብ ሲኦል ወጺኣ ናብ ገነት ዓሪጋ",
+      "ዕልልታን መዝሙርን ካብ ልበይ ገንፊሉ",
+      "ብደሃይ ቃላትካ ኣካለይ ዘሊሉ",
+      "እወ ኵሉ /2/ ካባኻ እንድዩ ‘ቲ ነባሪ ሕይወት",
+      "ዓይኒ ዘይረኣዮ ብልቢ ሰብ ዘይግመት",
+      "እዝኒ ዘይሰምዖ ናይ ፍቕርኻ ውህበት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑ ተመሓሩ ደብረ ፀሐይ ቅዱስ ገብርኤል (ሠላሳ",
+          "ኣምስተኛ)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፍቕርኻ ዓቢይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣብ ሜዳታት ዓለም ጊዜይ ኣባኺነ\nብፍትወት ናይ ስጋ ቅድስና ስኢነ\nንስኻ ግን (2) ጐይታይ ናባይ ነዓ ኢልካኒ\nኣብ ትሕቲ ኣእዳውካ ፍጹም ኣዕቚብካኒ\nኣብ ውሽጢ ሕቑፎኻ ፍቕሪ መሊእካኒ\n[[/chorus]]\n\nፍቕርኻ ዓቢይ’ዩ ክኸፍሎ ከቢዱ\nጐይታይ ‘ቲ ምሕረትካ ካብ ሰማይ ወሪዱ\nበሪሃ ደሚቓ ሽምዓይ ተወሊዓ\nብሳላኻ ጐይታይ ሕይወተይ ተቢዓ\n\nመዓስ እሞ ጐይታይ ተረዲኤ ኣነ\nዓመታት ከቑጽር ኣብ ኣጸድካ ኮይነ\nሕጂ ግና (2) ፍቕርኻ ሰሪጹ ኣብ ልበይ\nጨው ተወሲኽዋ መቂራ ሕይወተይ\nጐይታየ ተመስገን ናተይ መድኃኒየይ\n\nዕልልታን መዝሙርን ካብ ልበይ ገንፊሉ\nብደሃይ ቃላትካ ኣካለይ ዘሊሉ\nእወ ኵሉ (2) ካባኻ እንድዩ ‘ቲ ነባሪ ሕይወት\nዓይኒ ዘይረኣዮ ብልቢ ሰብ ዘይግመት\nእዝኒ ዘይሰምዖ ናይ ፍቕርኻ ውህበት\nንዑ ተመሓሩ ደብረ ፀሐይ ቅዱስ ገብርኤል (ሠላሳ\nኣምስተኛ)"
-    },
-    "ti_ro": {
-      "title": "Fqrkha 'abiy",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Fqrkha abiy’yu kkheflo kebidu\nGoytay ‘ti mhretka kab semay weridu\nBeriha demiqa shmay tewelia\nBsalakha goytay hywetey tebia\nAb medatat alem gizey abakhine\nBftwet nay sga qdsna sine\nNskha gn (2) goytay nabay nea ilkani\nAb thti adawka ftsum aqwabkani\nAb wshti hqufokha fqri melikani\nMeas mo goytay teredie ane\nAmetat kequtsr ab atsedka koyne\nHji gna (2) fqrkha seritsu ab lbey\nChew tewesikhwa meqira hywetey\nGoytaye temesgen natey medhaniyey\nBrhan yu getska ztemela fqri\nNab hatan ztmt rshatom ketsri\nBrhatska (2) goytay kefilkaley waga\nBeti qdus demka nefsey teadiga\nKab siol wetsia nab genet ariga\nLltan mezmurn kab lbey genfilu\nBdehay qalatka akaley zelilu\nWe kwilu (2) kabakha ndyu ‘ti nebari hywet\nAyni zeyreayo blbi seb zeygmet\nZni zeysemo nay fqrkha whbet\nNu temeharu debre tsehay qdus gebrel (selasa\nAmstenya)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Fqrkha 'abiy’yu kkheflo kebidu",
+      "Gwaytay ‘ti mhretka kab semay weridu",
+      "Nskha gn /2/ gwaytay nabay ne'a ilkani",
+      "Ab thti adawka fts'um a'qwibkani",
+      "Ab wsht'i hqufokha fqri melikani",
+      "Me'as mo gwaytay teredie ane",
+      "'Ametat kequts'r ab ats'edka koyne",
+      "Hji gna /2/ fqrkha serits'u ab lbey",
+      "Ch'ew tewesikhwa meqira hywetey",
+      "Gwaytaye temesgen natey medhaniyey",
+      "Brhan yu gets'ka ztemele fqri",
+      "Nab hat'an zt'mt rshatom kets'ri",
+      "Brhats'ka /2/ gwaytay kefilkaley waga",
+      "Beti qdus demka nefsey te'adiga",
+      "Kab siol wets'ia nab genet 'ariga",
+      "'Lltan mezmurn kab lbey genfilu",
+      "Bdehay qalatka akaley zelilu",
+      "We kwlu /2/ kabakha ndyu ‘ti nebari hywet",
+      "'Ayni zeyreayo blbi seb zeygmet",
+      "Zni zeysem'o nay fqrkha whbet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'u temeharu debre ts'ehey qdus gebrel (Sselasa",
+          "Amstenya)"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "repeat_markers"
+    "chorus_possible_page_split"
   ]
 }

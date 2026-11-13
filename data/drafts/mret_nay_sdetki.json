@@ -1,41 +1,99 @@
 {
-  "id": "h_efr_63fc763ca8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምረት ናይ ስደትኪ"
+  "id": 412,
+  "title": "ምረት ናይ ስደትኪ",
+  "ti": {
+    "chorus": [
+      "ኣዘክሪ ድንግል አንብዐ መሪረ ዘውኅዘ እምኣዕይንትኪ",
+      "ወወረደ ዲበ ገጸ ፍቁር ወልድኪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምረት ናይ ስደትኪ ክበጽሖ ኣእምሮይ",
+          "ብኽያት ናይ ወድኺ ክደግሞ ብቓለይ",
+          "ንጎቦ ሓጢኣተይ ከፍርሶ ንብዓተይ",
+          "ብሕሊና ምለስኒ",
+          "ኣብ ስደትኪ ኣደይ ጸንብርኒ",
+          "ሽውሽውታ ‘ቲ ንፋስ ኣእዛንካ ዘናውጽ",
+          "ረጽሚ ማዕበላቱ ቈርበትካ ዝልሕጽጽ",
+          "ንስለ ድኅነትና ዝመረረ ጸይራ",
+          "ሰጊራቶ ሕሰም ምስ ብዙኅ መከራ",
+          "በብዝኃ ግፍዕኪ ዘበእንቲኣነ",
+          "ማርያም ኣስተምሕሪ ለነ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዝናማት ዘዝንም ኵሉ ዝከኣሎ",
+          "ጐይታና ኢየሱስ ኣብ ሑቝፋ እንከሎ",
+          "ጽምኢ ጸኒዕዋ ክትልምን ኣምሪራ",
+          "ረዳኢ ስኢና ዝመልስ ንኽብራ",
+          "መዓስ ተሳኢንዎ ጽምኣታ ከጥልል",
+          "ፍቓዱ ኮይኑ ‘ምበር መከራ ክትቅበል",
+          "በብዝኃ ግፍዕኪ ዘበእንቲኣነ",
+          "ማርያም ኣስተምሕሪ ለነ",
+          "ርእየዮ ማርያመይ ‘ቲ መሪር ስደትኪ",
+          "ምጻር ስኢነዮ ቃንዛ ስቅያትኪ",
+          "ብሓላፊ ሽግር ፍጹም ከየማርር",
+          "‘ቲ መሪር ስደትኪ ኮይንኒ ‘ሎ መምህር",
+          "ስለ ‘ቲ ቍስልኺ መከራ ጭንቀትኪ",
+          "ኣዘክሪ ድንግል ምእንቲ ደቅኺ",
+          "በብዝኃ ግፍዕኪ ዘበእንቲኣነ",
+          "ማርያም ኣስተምሕሪ ለነ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምረት ናይ ስደትኪ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nሰጣሕ ምድረ በዳ ክትርእዮ ዘፍርህ\nመጠን ምቖት ጽፍሑ ንደምካ ዘፍልሕ\nሽውሽውታ ‘ቲ ንፋስ ኣእዛንካ ዘናውጽ\nረጽሚ ማዕበላቱ ቈርበትካ ዝልሕጽጽ\nንስለ ድኅነትና ዝመረረ ጸይራ\nሰጊራቶ ሕሰም ምስ ብዙኅ መከራ\nበብዝኃ ግፍዕኪ ዘበእንቲኣነ\nማርያም ኣስተምሕሪ ለነ\n[[/chorus]]\n\nኣዘክሪ ድንግል አንብዐ መሪረ ዘውኅዘ እምኣዕይንትኪ\nወወረደ ዲበ ገጸ ፍቁር ወልድኪ\nምረት ናይ ስደትኪ ክበጽሖ ኣእምሮይ\nብኽያት ናይ ወድኺ ክደግሞ ብቓለይ\nንጎቦ ሓጢኣተይ ከፍርሶ ንብዓተይ\nብሕሊና ምለስኒ\nኣብ ስደትኪ ኣደይ ጸንብርኒ\nኣብ ስደትኪ ክሳተፍ ክኣቱ\nዝኾንክዮ ኵሉ ውዕሎኺ ከዘንቱ\n\nዝናማት ዘዝንም ኵሉ ዝከኣሎ\nጐይታና ኢየሱስ ኣብ ሑቝፋ እንከሎ\nጽምኢ ጸኒዕዋ ክትልምን ኣምሪራ\nረዳኢ ስኢና ዝመልስ ንኽብራ\nመዓስ ተሳኢንዎ ጽምኣታ ከጥልል\nፍቓዱ ኮይኑ ‘ምበር መከራ ክትቅበል\nበብዝኃ ግፍዕኪ ዘበእንቲኣነ\nማርያም ኣስተምሕሪ ለነ"
-    },
-    "ti_ro": {
-      "title": "Mret nay sdetki",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nBebzha gfki zebentiane\nMaryam astemhri lene\n[[/chorus]]\n\nAzekri dngl anba merire zewhze mayntki\nWewerede dibe getse fqur weldki\nMret nay sdetki kbetsho amroy\nBkhyat nay wedkhi kdegmo bqaley\nNgobo hatiatey kefrso nbatey\nBhlina mlesni\nAb sdetki adey tsenbrni\nAb sdetki ksatef katu\nZkhonkyo kwilu wlokhi kezentu\nSetah mdre beda ktryo zefrh\nMeten mqot tsfhu ndemka zeflh\nShwshwta ‘ti nfas azanka zenawts\nRetsmi mabelatu qorbetka zlhtsts\nNsle dhnetna zmerere tseyra\nSegirato hsem ms bzuh mekera\n\nZnamat zeznm kwilu zkealo\nGoytana iyesus ab huqwifa nkelo\nTsmi tseniwa ktlmn amrira\nRedai sina zmels nkhbra\nMeas tesainwo tsmata ketll\nFqadu koynu ‘mber mekera ktqbel\n\nRyeyo maryamey ‘ti merir sdetki\nMtsar sineyo qanza sqyatki\nBhalafi shgr ftsum keyemarr\n‘Ti merir sdetki koynni ‘lo memhr\nSle ‘ti qwislkhi mekera chnqetki\nAzekri dngl mnti deqkhi"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Azekri dngl enb'e merire zewhze ma'yntki",
+      "Wewerede dibe gets'e fqur weldki"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mret nay sdetki kbets'ho amroy",
+          "Bkhyat nay wedkhi kdegmo bqaley",
+          "Ngobo hat'iatey kefrso nb'atey",
+          "Bhlina mlesni",
+          "Ab sdetki adey ts'enbrni",
+          "Shwshwta ‘ti nfas azanka zenawts'",
+          "Rets'mi ma'belatu qwarbetka zlhts'ts'",
+          "Nsle dhnetna zmerere ts'eyra",
+          "Segirato hsem ms bzuh mekera",
+          "Bebzha gf'ki zebentiane",
+          "Maryam astemhri lene"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Znamat zeznm kwlu zkealo",
+          "Gwaytana iyesus ab huqwfa nkelo",
+          "Ts'mi ts'eni'wa ktlmn amrira",
+          "Redai sina zmels nkhbra",
+          "Me'as tesainwo ts'mata ket'll",
+          "Fqadu koynu ‘mber mekera ktqbel",
+          "Bebzha gf'ki zebentiane",
+          "Maryam astemhri lene",
+          "Ryeyo maryamey ‘ti merir sdetki",
+          "Mts'ar sineyo qanza sqyatki",
+          "Bhalafi shgr fts'um keyemarr",
+          "‘Ti merir sdetki koynni ‘lo memhr",
+          "Sle ‘ti qwslkhi mekera ch'nqetki",
+          "Azekri dngl mnti deqkhi",
+          "Bebzha gf'ki zebentiane",
+          "Maryam astemhri lene"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

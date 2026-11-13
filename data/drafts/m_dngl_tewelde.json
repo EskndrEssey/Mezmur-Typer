@@ -1,41 +1,60 @@
 {
-  "id": "h_efr_4925448404",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እም ድንግል ተወልደ"
+  "id": 471,
+  "title": "እም ድንግል ተወልደ",
+  "ti": {
+    "chorus": [
+      "እም ድንግል /3/ ተወልደ ኣማኑኤል /2/",
+      "ነቢያት ኵሎም    ኣማኑኤል ተወልደ ኣማኑኤል",
+      "ትንቢት ተዛረቡ        >>     >>       >>",
+      "ናይ ሰራዊት ጐይታ     >>     >>       >>",
+      "ክወርድ`ዩ በሉ        >>     >>       >>",
+      "ወሪዱ ካብ ሰማይ      >>     >>       >>",
+      "ካብ ነፍሳ ነፍሲ ገይሩ  >>     >>       >>",
+      "ካብ ድንግልማርያም   ኣማኑኤል ተወልደ ኣማኑኤል",
+      "ናይ ፍጥረታት ጐይታ       >>      >>       >>",
+      "ድምጹ ሰሚዕናዮ           >>      >>       >>",
+      "ኣብ ዓዲ ኤፍራታ          >>      >>       >>",
+      "ተወሲኑ ርኢናዮ      >>      >>      >>",
+      "ኣብ መብልዕ ማል    >>      >>      >>",
+      "ሰብኣ ሰገል መጹ      >>      >>      >>",
+      "ኮኾብ መሪሕዎም     >>      >>      >>",
+      "ዕጣን ወርቂ ከርበ    ኣማኑኤል ተወልደ ኣማኑኤል",
+      "ዕጣን ንክህነቱ         >>      >>      >>",
+      "ወርቂ ንመንግስቱ     >>      >>      >>",
+      "ከርበ’ውን ንሞቱ      >>      >>      >>",
+      "ጓሶት ዘመሩሉ         >>      >>      >>",
+      "ተወሊዱ እናበሉ      >>      >>      >>"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እም ድንግል ተወልደ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nካብ ድንግልማርያም ኣማኑኤል ተወልደ ኣማኑኤል\nናይ ፍጥረታት ጐይታ     >>\nድምጹ ሰሚዕናዮ       >>\nኣብ ዓዲ ኤፍራታ      >>\nርኣዩ እነሃልኩም >>\nጐይታ መድኃኔዓለም       >>\n[[/chorus]]\n\nእም ድንግል (3) ተወልደ ኣማኑኤል (2)\nነቢያት ኵሎም ኣማኑኤል ተወልደ ኣማኑኤል\nትንቢት ተዛረቡ        >>\nናይ ሰራዊት ጐይታ >>\nክወርድ`ዩ በሉ       >>\nወሪዱ ካብ ሰማይ       >>\nካብ ነፍሳ ነፍሲ ገይሩ >>\n\nብሓጺር ቁመት ኣማኑኤል ተወልደ ኣማኑኤል\nብጸቢብ ደረት      >>\nተወሲኑ ርኢናዮ     >>\nኣብ መብልዕ ማል >>\nሰብኣ ሰገል መጹ    >>\nኮኾብ መሪሕዎም >>"
-    },
-    "ti_ro": {
-      "title": "'M dngl tewelde",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "M dngl (3) tewelde amanuel (2)\nNebiyat kwilom amanuel tewelde amanuel\nTnbit tezarebu\nNay serawit goyta\nKwerd`yu belu\nWeridu kab semay\nKab nefsa nefsi geyru\nKab dnglmaryam amanuel tewelde amanuel\nNay ftretat goyta\nDmtsu seminayo\nAb adi efrata\nRayu nehalkum\nGoyta medhanealem\nBhatsir qumet amanuel tewelde amanuel\nBtsebib deret\nTewesinu rinayo\nAb mebl mal\nSeba segel metsu\nKokhob merihwom\nTan werqi kerbe amanuel tewelde amanuel\nTan nkhnetu\nWerqi nmengstu\nKerbe’wn nmotu\nGwasot zemerulu\nTewelidu nabelu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "M dngl /3/ tewelde amanuel /2/",
+      "Nebiyat kwlom    amanuel tewelde amanuel",
+      "Tnbit tezarebu        >>     >>       >>",
+      "Nay serawit gwayta     >>     >>       >>",
+      "Kwerd`yu belu        >>     >>       >>",
+      "Weridu kab semay      >>     >>       >>",
+      "Kab nefsa nefsi geyru  >>     >>       >>",
+      "Kab dnglmaryam   amanuel tewelde amanuel",
+      "Nay ft'retat gwayta       >>      >>       >>",
+      "Dmts'u semi'nayo           >>      >>       >>",
+      "Ab 'adi efrata          >>      >>       >>",
+      "Tewesinu rinayo      >>      >>      >>",
+      "Ab mebl' mal    >>      >>      >>",
+      "Seba segel mets'u      >>      >>      >>",
+      "Kokhob merihwom     >>      >>      >>",
+      "'T'an werqi kerbe    amanuel tewelde amanuel",
+      "'T'an nkhnetu         >>      >>      >>",
+      "Werqi nmengstu     >>      >>      >>",
+      "Kerbe’wn nmotu      >>      >>      >>",
+      "Gwasot zemerulu         >>      >>      >>",
+      "Tewelidu nabelu      >>      >>      >>"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

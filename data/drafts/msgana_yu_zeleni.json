@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_4231bf46d5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምስጋና'ዩ ዘለኒ"
+  "id": 461,
+  "title": "ምስጋና'ዩ ዘለኒ",
+  "ti": {
+    "chorus": [
+      "ምስጋና'ዩ ዘለኒ ኣምላኽ ስለፍቕርኻ",
+      "ምስጋና'ዩ ዘለኒ ጐይታ ስለሓልዮትካ",
+      "ምስጋናይ ንዓኻ /2/ ኣልፋወኦሜጋ",
+      "ከቢረ'የ ኔረ ክርስቶስ ብኣኻ",
+      "ትእዛዛትካ ጥሒሰ ርሒቐ ካባኻ",
+      "ኣበሳይ በደለይ ብፍጹም ደምሲስካ",
+      "ብዓቢይ ምሕረትካ ታሪኸይ ለዊጥካ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጽኑዕ ፍቕርኻ ምስ ፈለጥኩ ኣነ",
+          "ትብዓት ንኽረክብ ናባኻ ቀሪበ",
+          "እግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ",
+          "ራህርሃለይ ኢኻ ብምሉእ ምሕረትካ",
+          "ነየናይ ጀሚረ ነየናይ ክገድፎ",
+          "ነቲ ውዕለትካ'ሞ ከመይ ክዝርዝሮ",
+          "ውዕለትካ'ሞ ብዙሕ'ዩ የብልካን ጎደሎ",
+          "ከመስግነካ'የ ብዓቕመይ ዝኽእሎ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጽኑዕ ፍቕርኻ ምስፈለጥኩ ኣነ",
+          "ትብዓት ንኽረክብ ናባኻ ቀሪበ",
+          "እግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ",
+          "ራህርህለይ ኢኻ ብምሉእ ምሕረትካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምስጋና'ዩ ዘለኒ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nከቢረ'የ ኔረ ክርስቶስ ብኣኻ\nትእዛዛትካ ጥሒሰ ርሒቐ ካባኻ\nኣበሳይ በደለይ ብፍጹም ደምሲስካ\nብዓቢይ ምሕረትካ ታሪኸይ ለዊጥካ\n[[/chorus]]\n\nምስጋና'ዩ ዘለኒ ኣምላኽ ስለፍቕርኻ\nምስጋና'ዩ ዘለኒ ጐይታ ስለሓልዮትካ\nምስጋናይ ንዓኻ (2) ኣልፋወኦሜጋ\n\nንጽኑዕ ፍቕርኻ ምስ ፈለጥኩ ኣነ\nትብዓት ንኽረክብ ናባኻ ቀሪበ\nእግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ\nራህርሃለይ ኢኻ ብምሉእ ምሕረትካ\n\nንጽኑዕ ፍቕርኻ ምስፈለጥኩ ኣነ\nትብዓት ንኽረክብ ናባኻ ቀሪበ\nእግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ\nራህርህለይ ኢኻ ብምሉእ ምሕረትካ"
-    },
-    "ti_ro": {
-      "title": "Msgana'yu zeleni",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nTbat nkhrekb nabakha qeribe\nGziabher fetsimka aythdegeni ikha\n[[/chorus]]\n\nMsgana'yu zeleni amlakh slefqrkha\nMsgana'yu zeleni goyta slehalyotka\nMsganay nakha (2) alfaweomega\nKebire'ye nere krstos bakha\nTzazatka thise rhiqe kabakha\nAbesay bedeley bftsum demsiska\nBabiy mhretka tarikhey lewitka\nNtsnu fqrkha ms feletku ane\n\nRahrhaley ikha bmlu mhretka\nNeyenay jemire neyenay kgedfo\nNeti wletka'mo kemey kzrzro\nWletka'mo bzuh'yu yeblkan godelo\nKemesgneka'ye baqmey zkhlo\nNtsnu fqrkha msfeletku ane\n\nRahrhley ikha bmlu mhretka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Msgana'yu zeleni amlakh slefqrkha",
+      "Msgana'yu zeleni gwayta slehalyotka",
+      "Msganay n'akha /2/ alfaweomega",
+      "Kebire'ye nere krstos bakha",
+      "Tzazatka t'hise rhiqe kabakha",
+      "Abesay bedeley bfts'um demsiska",
+      "B'abiy mhretka tarikhey lewit'ka"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nts'nu' fqrkha ms felet'ku ane",
+          "Tb'at nkhrekb nabakha qeribe",
+          "Gziebher fets'imka aythdegeni ikha",
+          "Rahrhaley ikha bmlu mhretka",
+          "Neyenay jemire neyenay kgedfo",
+          "Neti w'letka'mo kemey kzrzro",
+          "W'letka'mo bzuh'yu yeblkan godelo",
+          "Kemesgneka'ye b'aqmey zkhlo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nts'nu' fqrkha msfelet'ku ane",
+          "Tb'at nkhrekb nabakha qeribe",
+          "Gziebher fets'imka aythdegeni ikha",
+          "Rahrhley ikha bmlu mhretka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

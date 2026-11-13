@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_977689ebef",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብሰናይ ፍቓዱ"
+  "id": 2,
+  "title": "ብሰናይ ፍቓዱ",
+  "ti": {
+    "chorus": [
+      "ብሰናይ ፍቓዱ ኵሉ ብኡ ኮነ /2/",
+      "ኵሉ ነገር ብኡ ተፈጸመ",
+      "ሰማይ ኮነ ምድሪ የዘንትዉ ግብሩ",
+      "ፈጢርዎም እዩሞ ንኽግለጽ ክብሩ",
+      "ብዅሉ ፍጥረታት ዝተኣምነ ንሱ",
+      "ፍቓዱ ኢዩ’ሞ ኵሉ ጽቡቕ ነገር",
+      "ፈጢሩ ሂቡና ብሓይሉ እግዚአብሔር",
+      "ሓጋይ ምስ ክረምቲ ለይቲ ይኹን ቀትሪ",
+      "ኵሉ ኣዳልዩ ምሂሩና ፈጣሪ",
+      "ዝገበሮ ኵሉ ጎደሎ ኣይርከቦን",
+      "ነዚ ቅዱስ ኣምላኽ ምሳሌ የብሉን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሕዝቡ ዝናዝዝ ናብ ልቡ ዝመልስ",
+          "ንኃጥእ ዘፍቅር ህይወቱ ዝሕድስ",
+          "ብሰናይ ፍቓዱ ፍቕሩ ዘንግስ",
+          "ስለ ክቡር ግብሩ ሓቢርና ንወድስ",
+          "ንሱ ዘይፈጠሮ . . ."
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብሰናይ ፍቓዱ",
-      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-      "lyrics": "[[chorus]]\nሰማይ ኮነ ምድሪ የዘንትዉ ግብሩ\nፈጢርዎም እዩሞ ንኽግለጽ ክብሩ\nብዅሉ ፍጥረታት ዝተኣምነ ንሱ\nእግዚአብሔር ይመስገን ንስሙ ወድሱ\n[[/chorus]]\n\nብሰናይ ፍቓዱ ኵሉ ብኡ ኮነ (2)\nኵሉ ነገር ብኡ ተፈጸመ\n\nንሱ ዘይፈጠሮ ፍጹም ኣይርከብን\nእንተመርመርናዮ ንሰማይን ምድርን\nፍቓዱ ኢዩ’ሞ ኵሉ ጽቡቕ ነገር\nፈጢሩ ሂቡና ብሓይሉ እግዚአብሔር\n\nንሕዝቡ ዝናዝዝ ናብ ልቡ ዝመልስ\nንኃጥእ ዘፍቅር ህይወቱ ዝሕድስ\nብሰናይ ፍቓዱ ፍቕሩ ዘንግስ\nስለ ክቡር ግብሩ ሓቢርና ንወድስ"
-    },
-    "ti_ro": {
-      "title": "Bsenay fqadu",
-      "zemari": "qesis ashenafi ge/maryam",
-      "lyrics": "[[chorus]]\nBsenay fqadu kwilu bu kone (2)\n[[/chorus]]\n\nKwilu neger bu tefetseme\nSemay kone mdri yezentwu gbru\nFetirwom yumo nkhglets kbru\nBkwilu ftretat zteamne nsu\nGziabher ymesgen nsmu wedsu\nNsu zeyfetero ftsum ayrkebn\nNtemermernayo nsemayn mdrn\nFqadu iyu’mo kwilu tsbuq neger\nFetiru hibuna bhaylu gziabher\nHagay ms kremti leyti ykhun qetri\nKwilu adalyu mhiruna fetari\nZgebero kwilu godelo ayrkebon\nNezi qdus amlakh msale yeblun\nNhzbu znazz nab lbu zmels\nNhat zefqr hywetu zhds\nBsenay fqadu fqru zengs\nSle kbur gbru habirna nweds\nNsu zeyfetero . . ."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bsenay fqadu kwlu bu kone /2/",
+      "Kwlu neger bu tefets'eme",
+      "Semay kone mdri yezentwu gbru",
+      "Fet'irwom yumo nkhglets' kbru",
+      "Bkhwlu ft'retat zteamne nsu",
+      "Fqadu iyu’mo kwlu ts'buq neger",
+      "Fet'iru hibuna bhaylu gziebher",
+      "Hagay ms kremti leyti ykhun qetri",
+      "Kwlu adalyu mhiruna fet'ari",
+      "Zgebero kwlu godelo ayrkebon",
+      "Nezi qdus amlakh msale yeblun"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nhzbu znazz nab lbu zmels",
+          "Nhat' zefqr hywetu zhds",
+          "Bsenay fqadu fqru zengs",
+          "Sle kbur gbru habirna nweds",
+          "Nsu zeyfet'ero . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

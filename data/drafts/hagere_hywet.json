@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_a9aa77d543",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሃገረ ሕይወት"
+  "id": 228,
+  "title": "ሃገረ ሕይወት",
+  "ti": {
+    "chorus": [
+      "መግቢ ቃላትካ ግሩም መድኃኒት",
+      "መታን ክሰግር ንማዕበል ብእምነት",
+      "ደጊፉኒ’ዩ ‘ቲ ናትካ ምሕረት",
+      "ኤልሻዳይ ኢኻ ተስፋ እስራኤል",
+      "ፍጡር ዘይክእሎ ንዓኻ ቀሊል",
+      "ብደመና ሰማይ ህዝብኻ ተጽልል",
+      "ድንቂ’ዩ ስራሕካ ንከውሒ ዘፈልፍል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሥጋን ነፍስን ብጸጋ ትቕድስ",
+          "ንሬሳ ኣልኣዛር ሰዂዕካሉ ትንፋስ",
+          "መልቀስ ናይ ማርታ ረኺቡ ደበስ",
+          "ሎሚ’ውን ንዓይ ኃጢኣተይ ደምስስ",
+          "ኢዮብ ብጓሂ ልብሱ ክቐድድ",
+          "ብስቓይ ኣብ ቁስሉ ክንስንስ ሓመድ",
+          "ሰይጣን መኺሩ እምነቱ ከኽሕድ",
+          "ልሳኑ መስኪራ ናይ ጐይታ ፈቓድ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከም ወዲ እሴይ ክኸውን ልበይ",
+          "ዳግማይ ክሕደስ ብኣኻ መንፈሰይ",
+          "ኣብ ጉዕዞ ምሳይ ክትሓልፍ ብቕድመይ",
+          "ርስቲ ኣብርሃም ክኸውን ርስተይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሃገረ ሕይወት",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nኤልሻዳይ ኢኻ ተስፋ እስራኤል\nፍጡር ዘይክእሎ ንዓኻ ቀሊል\nብደመና ሰማይ ህዝብኻ ተጽልል\nድንቂ’ዩ ስራሕካ ንከውሒ ዘፈልፍል\n[[/chorus]]\n\nጐይታ ሃገርካ ሃገረ ሕይወት\nመግቢ ቃላትካ ግሩም መድኃኒት\nመታን ክሰግር ንማዕበል ብእምነት\nደጊፉኒ’ዩ ‘ቲ ናትካ ምሕረት\n\nንሥጋን ነፍስን ብጸጋ ትቕድስ\nንሬሳ ኣልኣዛር ሰዂዕካሉ ትንፋስ\nመልቀስ ናይ ማርታ ረኺቡ ደበስ\nሎሚ’ውን ንዓይ ኃጢኣተይ ደምስስ\n\nከም ወዲ እሴይ ክኸውን ልበይ\nዳግማይ ክሕደስ ብኣኻ መንፈሰይ\nኣብ ጉዕዞ ምሳይ ክትሓልፍ ብቕድመይ\nርስቲ ኣብርሃም ክኸውን ርስተይ"
-    },
-    "ti_ro": {
-      "title": "Hagere hywet",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Goyta hagerka hagere hywet\nMegbi qalatka grum medhanit\nMetan ksegr nmabel bmnet\nDegifuni’yu ‘ti natka mhret\nElshaday ikha tesfa srael\nFtur zeyklo nakha qelil\nBdemena semay hzbkha tetsll\nDnqi’yu srahka nkewhi zefelfl\nNssgan nefsn btsega tqds\nNresa alazar sekwikalu tnfas\nMelqes nay marta rekhibu debes\nLomi’wn nay hatiatey demss\nIyob bgwahi lbsu kqedd\nBsqay ab quslu knsns hamed\nSeytan mekhiru mnetu kekhhd\nLsanu meskira nay goyta feqad\nKem wedi sey kkhewn lbey\nDagmay khdes bakha menfesey\nAb guzo msay kthalf bqdmey\nRsti abrham kkhewn rstey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Megbi qalatka grum medhanit",
+      "Metan ksegr nma'bel bmnet",
+      "Degifuni’yu ‘ti natka mhret",
+      "Elshaday ikha tesfa srael",
+      "Ft'ur zeyklo n'akha qelil",
+      "Bdemena semay hzbkha tets'll",
+      "Dnqi’yu srahka nkewhi zefelfl"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nssgan nefsn bts'ega tqds",
+          "Nresa alazar sekhwi'kalu tnfas",
+          "Melqes nay marta rekhibu debes",
+          "Lomi’wn n'ay hat'iatey demss",
+          "Iyob bgwahi lbsu kqedd",
+          "Bsqay ab quslu knsns hamed",
+          "Seyt'an mekhiru mnetu kekhhd",
+          "Lsanu meskira nay gwayta feqad"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kem wedi sey kkhewn lbey",
+          "Dagmay khdes bakha menfesey",
+          "Ab gu'zo msay kthalf bqdmey",
+          "Rsti abrham kkhewn rstey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

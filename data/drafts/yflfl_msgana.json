@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_75530dc3d8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ይፍልፍል ምስጋና"
+  "id": 510,
+  "title": "ይፍልፍል ምስጋና",
+  "ti": {
+    "chorus": [
+      "ወትሩ ንግሆ ምሸት ይፍልፍል ምስጋና",
+      "ማሕተም ናይ ፍቕርኺ ሎሚ’ውን ኣሎ ምሳና",
+      "ዙርያ ቅድስናኺ ብኽብሪ ክስለም",
+      "ንግስቲ ቅድስና ካብ ፍጥረታት ዓለም",
+      "ድንግል ደናግል ብሕሊና ስጋ",
+      "እንቋዕ ኣዴና ኮንኪ ጸጋ’ዩ ጸጋ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ",
+          "ካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ",
+          "ካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ",
+          "ንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ",
+          "ሓድሽ ምዕራፍ ከፊቱ ናይ ልደትኪ ዘመን",
+          "ወሪዱ ዓቢይ ዕርቂ ናይ ህዝብን ኣህዛብን",
+          "ነበረ ኮይኑ ታሪኽ ናይ ጥፍኣት ዓመታት",
+          "ከፊትኪ ጸጋ ሰማይ ናይ ምድሓን ምኽንያት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ",
+          "ካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ",
+          "ካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ",
+          "ንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ይፍልፍል ምስጋና",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዙርያ ቅድስናኺ ብኽብሪ ክስለም\nንግስቲ ቅድስና ካብ ፍጥረታት ዓለም\nድንግል ደናግል ብሕሊና ስጋ\nእንቋዕ ኣዴና ኮንኪ ጸጋ’ዩ ጸጋ\n[[/chorus]]\n\nወትሩ ንግሆ ምሸት ይፍልፍል ምስጋና\nማሕተም ናይ ፍቕርኺ ሎሚ’ውን ኣሎ ምሳና\n\nመሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ\nካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ\nካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ\nንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ\n\nመሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ\nካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ\nካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ\nንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ"
-    },
-    "ti_ro": {
-      "title": "Yflfl msgana",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nMesel nay wldnetey wedkhi akhbiru\nKab mezgeb aremawyan nsmey qeyru\nKabakhi zbereqe nay natsnet tsehay\nNtselmatey qedidu lbey abrhaley\n[[/chorus]]\n\nWetru ngho mshet yflfl msgana\nMahtem nay fqrkhi lomi’wn alo msana\nZurya qdsnakhi bkhbri kslem\nNgsti qdsna kab ftretat alem\nDngl denagl bhlina sga\nNqwa adena konki tsega’yu tsega\n\nHadsh mraf kefitu nay ldetki zemen\nWeridu abiy rqi nay hzbn ahzabn\nNebere koynu tarikh nay tfat ametat\nKefitki tsega semay nay mdhan mkhnyat"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Wetru ngho mshet yflfl msgana",
+      "Mahtem nay fqrkhi lomi’wn alo msana",
+      "Zurya qdsnakhi bkhbri kslem",
+      "Ngsti qdsna kab ft'retat 'alem",
+      "Dngl denagl bhlina sga",
+      "Nqwa' adena konki ts'ega’yu ts'ega"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mesel nay wldnetey wedkhi akhbiru",
+          "Kab mezgeb aremawyan nsmey qeyru",
+          "Kabakhi zbereqe nay nats'net ts'ehay",
+          "Nts'elmatey qedidu lbey abrhaley",
+          "Hadsh m'raf kefitu nay ldetki zemen",
+          "Weridu 'abiy 'rqi nay hzbn ahzabn",
+          "Nebere koynu tarikh nay t'fat 'ametat",
+          "Kefitki ts'ega semay nay mdhan mkhnyat"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mesel nay wldnetey wedkhi akhbiru",
+          "Kab mezgeb aremawyan nsmey qeyru",
+          "Kabakhi zbereqe nay nats'net ts'ehay",
+          "Nts'elmatey qedidu lbey abrhaley"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

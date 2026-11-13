@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_f04ab892cb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክንዝምር ኢና ንዘልዓለም"
+  "id": 502,
+  "title": "ክንዝምር ኢና ንዘልዓለም",
+  "ti": {
+    "chorus": [
+      "ንማርያም /2/",
+      "ክንዝምር ኢና ንዘልዓለም /2/",
+      "ዕጽውቲ ማዕጾ      ንዘልዓለም",
+      "ኢሉ ሕዝቅኤል      >>  >>",
+      "ንጽህቲ አያ          >>  >>",
+      "ፍጹም ድንግል      >>  >>",
+      "ኣብነት ጌርና         >>  >>",
+      "ንሕና’ውን ንዑ      >>  >>",
+      "ብፍጹም ፍቕሪ ክንዝምር ኢና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ለዋህ ርግቢት       ንዘልዓለም",
+          "ሰላም ኣብሳሪት      >>  >>",
+          "ንጸልማት ሕይወተይ   >>  >>",
+          "ብርሃን ወላዒት      >>  >>",
+          "ክምህጸነኪ’የ         >>  >>",
+          "ኣይትፈለይኒ           >>  >>",
+          "ድንግል ንጽህቲ        >>  >>",
+          "ዕጹብ (2) ኢሎም    >>  >>",
+          "ኣመስጊኖማ            >>  >>",
+          "ክብራ ክገልጹ ሰኣኑ ቃላት /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክንዝምር ኢና ንዘልዓለም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዕጽውቲ ማዕጾ       ንዘልዓለም\nኢሉ ሕዝቅኤል\nንጽህቲ አያ\nፍጹም ድንግል\nኣብነት ጌርና\nንሕና’ውን ንዑ\nብፍጹም ፍቕሪ ክንዝምር ኢና (2)\n[[/chorus]]\n\nንማርያም (2)\nክንዝምር ኢና ንዘልዓለም (2)\n\nለዋህ ርግቢት      ንዘልዓለም\nሰላም ኣብሳሪት\nንጸልማት ሕይወተይ\nብርሃን ወላዒት\nክምህጸነኪ’የ\nድንግል ንነፍሰይ\nሓደራ ድንግል ኢኺ ዋሕሰይ (2)"
-    },
-    "ti_ro": {
-      "title": "Knzmr ina nzel'alem",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNmaryam (2)\n[[/chorus]]\n\nKnzmr ina nzelalem (2)\nTswti matso nzelalem\nIlu hzqel\nNtshti aya\nFtsum dngl\nAbnet gerna\nNhna’wn nu\nBftsum fqri knzmr ina (2)\nLewah rgbit nzelalem\nSelam absarit\nNtselmat hywetey\nBrhan welait\nKmhtseneki’ye\nDngl nnefsey\nHadera dngl ikhi wahsey (2)\nNi ni kbl nzelalem\nNgho mshet\nAytfeleyni\nDngl ntshti\nTsub (2) ilom\nAmesginoma\nKbra kgeltsu seanu qalat (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nmaryam /2/",
+      "Knzmr ina nzel'alem /2/",
+      "'Ts'wti ma'ts'o      nzel'alem",
+      "Ilu hzqel      >>  >>",
+      "Nts'hti eya          >>  >>",
+      "Fts'um dngl      >>  >>",
+      "Abnet gerna         >>  >>",
+      "Nhna’wn n'u      >>  >>",
+      "Bfts'um fqri knzmr ina /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Lewah rgbit       nzel'alem",
+          "Selam absarit      >>  >>",
+          "Nts'elmat hywetey   >>  >>",
+          "Brhan wela'it      >>  >>",
+          "Kmhts'eneki’ye         >>  >>",
+          "Aytfeleyni           >>  >>",
+          "Dngl nts'hti        >>  >>",
+          "'Ts'ub (2) ilom    >>  >>",
+          "Amesginoma            >>  >>",
+          "Kbra kgelts'u seanu qalat /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

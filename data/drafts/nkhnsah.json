@@ -1,44 +1,125 @@
 {
-  "id": "h_efr_a36450006b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንኽንሳሕ"
+  "id": 340,
+  "title": "ንኽንሳሕ",
+  "ti": {
+    "chorus": [
+      "ሰላምካን ፍቕርኻን ኣይፈለየና",
+      "ኣብ ቅዱስ እምነትና ኣጽንዓና /2/",
+      "ምእንቲ ክንወርስ ተስፋ መንግስትኻ /2/",
+      "ልመናና ስማዕ ፈጣሪና",
+      "በዲልናካ ኢና’ሞ ሓላዊና",
+      "ጐይታ እሙን ቅዱስ ምሕረትካ ሃበና",
+      "ሰላምካን ፍቕርኻን ኣይፈለየና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓረገ ወይን /2/",
+          "ሓረገ ወይን ኣንቲ ማርያም",
+          "ኣጸደ ወይን /2/",
+          "ኣጸደ ወይን ኣንቲ ማርያም",
+          "ትመስሊ ፊደለ ወትወልዲ ወንጌለ",
+          "ዘታገምሪ ነበልባለ",
+          "ትመስሊ ሰማየ  ወትወልዲ ጸሓየ",
+          "ዘታገምሪ ኣዶናየ",
+          "ትመስሊ መሶበ ወትወልዲ ኮኮበ",
+          "ዘታጸግቢ ርሁበ",
+          "ትመስሊ ገራህተ ወትወልዲ ሰዊተ",
+          "ዘታጸድቂ ነፍሳተ",
+          "ትመስሊ ደመና ወትወልዲ ሕብስተ መና",
+          "ዘታገምሪ ጥዒና",
+          "ትመስሊ ስኂነ ወትወልዲ መድኅነ",
+          "ወትፌውሲ ዱያነ",
+          "ትመስሊ ምሥራቀ ወትወልዲ መብረቀ",
+          "ወታለብሲ ዕሩቀ",
+          "ለኣብ መርዓቱ ወለወልድ ወላዲቱ",
+          "ወለመንፈስ ቅዱስ ጽርሐ ቤቱ",
+          "ስብሐት ለኪ እምዘበላዕነ ሥጋ ወልድኪ",
+          "ወእምዘሰተይነ ደመ መሲሕኪ",
+          "ኣግብርትኪ ወኣእማትኪ",
+          "ለዓለመ ዓለም ኣሜን /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "339. ኦ ጐይታና",
+          "ኦ ጐይታና መን ኣሎ ከማኻ /2/",
+          "ንዓና ክትብል ኣብ መስቀል ተሰቐልካ /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "340. ንኽንሳሕ",
+          "ንኽንሳሕ መንፈስ ቅዱስ ኣይትፈለየና",
+          "ኣይትፈለየና/2/ ሓይልኻ ሃበና"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንኽንሳሕ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "ንኽንሳሕ መንፈስ ቅዱስ ኣይትፈለየና\nኣይትፈለየና(2) ሓይልኻ ሃበና"
-    },
-    "ti_ro": {
-      "title": "Nkhnsah",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "Nkhnsah menfes qdus aytfeleyena\nAytfeleyena(2) haylkha habena"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Selamkan fqrkhan ayfeleyena",
+      "Ab qdus mnetna ats'n'ana /2/",
+      "Mnti knwers tesfa mengstkha /2/",
+      "Lmenana sma' fet'arina",
+      "Bedilnaka ina’mo halawina",
+      "Gwayta mun qdus mhretka habena",
+      "Selamkan fqrkhan ayfeleyena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Harege weyn /2/",
+          "Harege weyn anti maryam",
+          "Ats'ede weyn /2/",
+          "Ats'ede weyn anti maryam",
+          "Tmesli fidele wetweldi wengele",
+          "Zetagemri nebelbale",
+          "Tmesli semaye  wetweldi ts'ehaye",
+          "Zetagemri adonaye",
+          "Tmesli mesobe wetweldi kokobe",
+          "Zetats'egbi rhube",
+          "Tmesli gerahte wetweldi sewite",
+          "Zetats'edqi nefsate",
+          "Tmesli demena wetweldi hbste mena",
+          "Zetagemri t''ina",
+          "Tmesli shine wetweldi medhne",
+          "Wetfewsi duyane",
+          "Tmesli mssraqe wetweldi mebreqe",
+          "Wetalebsi 'ruqe",
+          "Leab mer'atu weleweld weladitu",
+          "Welemenfes qdus ts'rhe betu",
+          "Sbhet leki mzebela'ne Ssga weldki",
+          "Wemzeseteyne deme mesihki",
+          "Agbrtki weamatki",
+          "Le'aleme 'alem amen /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "339. O gwaytana",
+          "O gwaytana men alo kemakha /2/",
+          "N'ana ktbl ab mesqel teseqelka /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "340. Nkhnsah",
+          "Nkhnsah menfes qdus aytfeleyena",
+          "Aytfeleyena/2/ haylkha habena"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "short_fragment"
+    "verse_1_possible_page_split"
   ]
 }

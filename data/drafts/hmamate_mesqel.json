@@ -1,41 +1,131 @@
 {
-  "id": "h_efr_20ca070ebf",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሕማማተ መስቀል"
+  "id": 861,
+  "title": "ሕማማተ መስቀል",
+  "ti": {
+    "chorus": [
+      "ምንተ ይብል በእንተ ሕማምከ ዘርእየ በዓይኑ",
+      "ሕማማተ መስቀል ዘጾርከ ዘሰምዐ በእዝኑ",
+      "መድኃኔ ዓለም",
+      "ውዕለቱ ክዝክር ንብዓት ይስዕረኒ",
+      "ከም እሳት ነበልባል ውሽጠይ የንድደኒ",
+      "ጭንቁን መከራኡን ኵሉ ይረኣየኒ",
+      "ብቓለይ ክገልጾ ፍጹም ይኸብደኒ",
+      "ንዑ ረኣዩ መስተንክር ፍቕሪ",
+      "ኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ",
+      "መከራ ጸገበ ምእንታና ብቑስሉ ኢና ዝሓወና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከም ገበነኛ ነቲ ርህሩህ ወደይ",
+          "ኣእዳዉን ኣእጋሩን ኣሲሮም ኣብ ቅድመይ",
+          "ብዙሕ ተገርፈ ምእንታና ብቑስሉ ኢና ዝሓወና",
+          "ምስዚ ኵሉ ቁስሉ መስቀል ኣሰኪሞም",
+          "እናሰሓብዎ ንየማን ንጸጋም",
+          "ናብ ቀራንዮ ጎቦ ቀጸሉ ጉዕዞኦም",
+          "ደሙ ንኸፍስሱ ክፍጽሙ ምኽሮም",
+          "ንዑ ረኣዩ መስተንክር ፍቕሪ",
+          "ኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ",
+          "ደሙ ኣፍሰሰ ምእንታና ብቑስሉ ኢና ዝሓወና"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰቐሉ ንወደይ ኣብ ማእከል ሸፋቱ",
+          "ክዳኑ ገፊፎም ከርእዩ ሕፍረቱ",
+          "ጸሓይን ወርሕን ግን ብሓዘን ጸልመቱ",
+          "ዕርቃኑ ከይርእዩ ኣዒንቶም ዓመቱ",
+          "ንዑ ረኣዩ መስተንክር ፍቕሪ",
+          "ኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ",
+          "ዕርቃኑ ወጸ ምእንታና ብቑስሉ ኢና ዝሓወና",
+          "ኣይዝረብን ከቶ ብቓል ኣይንገርን",
+          "ስቓዩ ዘርዚረ ሕጂ ኣይውድኦን",
+          "ንዅሉ ክገብር እንከለዎ ስልጣን",
+          "ኣብ መስቀል ወዓለ ብፍቕሪ ኃጥኣን",
+          "ንዑ ረኣዩ መስተንክር ፍቕሪ",
+          "ኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ",
+          "ጎድኑ ተወግአ ምእንታና ብቑስሉ ኢና ዝሓወና"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ሞት ዘይግብኦ ሞተ ምእንታኹም",
+          "ደምሲሱ’ውን ንሞት ገነት ኣእተወኩም",
+          "ስለዚ ዘምሩ ዓልሉ ኩላትኩም",
+          "ብሩህ ኮይኑ ኣሎ ተስፋ ናይ ሕይወትኩም",
+          "ንዑ ረኣዩ መስተንክር ፍቕሪ",
+          "ኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሕማማተ መስቀል",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nውዕለቱ ክዝክር ንብዓት ይስዕረኒ\nከም እሳት ነበልባል ውሽጠይ የንድደኒ\nጭንቁን መከራኡን ኵሉ ይረኣየኒ\nብቓለይ ክገልጾ ፍጹም ይኸብደኒ\nንዑ ረኣዩ መስተንክር ፍቕሪ\nኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ\nመከራ ጸገበ ምእንታና ብቑስሉ ኢና ዝሓወና\n[[/chorus]]\n\nምንተ ይብል በእንተ ሕማምከ ዘርእየ በዓይኑ\nሕማማተ መስቀል ዘጾርከ ዘሰምዐ በእዝኑ\nመድኃኔ ዓለም\n\nከም ገበነኛ ነቲ ርህሩህ ወደይ\nኣእዳዉን ኣእጋሩን ኣሲሮም ኣብ ቅድመይ\nብዙሕ ገረፍዎ ኣብቲ ኣደባባይ\nኣፉ ኣይከፈተን ምስዚ ብዙሕ ስቓይ\nንዑ ረኣዩ መስተንክር ፍቕሪ\nኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ\nብዙሕ ተገርፈ ምእንታና ብቑስሉ ኢና ዝሓወና\n\nሰቐሉ ንወደይ ኣብ ማእከል ሸፋቱ\nክዳኑ ገፊፎም ከርእዩ ሕፍረቱ\nጸሓይን ወርሕን ግን ብሓዘን ጸልመቱ\nዕርቃኑ ከይርእዩ ኣዒንቶም ዓመቱ\nንዑ ረኣዩ መስተንክር ፍቕሪ\nኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ\nዕርቃኑ ወጸ ምእንታና ብቑስሉ ኢና ዝሓወና\n\nሞት ዘይግብኦ ሞተ ምእንታኹም\nደምሲሱ’ውን ንሞት ገነት ኣእተወኩም\nስለዚ ዘምሩ ዓልሉ ኩላትኩም\nብሩህ ኮይኑ ኣሎ ተስፋ ናይ ሕይወትኩም\nንዑ ረኣዩ መስተንክር ፍቕሪ\nኣምላኽ ተሰቕለ ኣብ ማእከል ምድሪ\nምሕረት ለመነ ምእንታና ብቑስሉ ኢና ዝሓወና"
-    },
-    "ti_ro": {
-      "title": "Hmamate mesqel",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nNu reayu mestenkr fqri\nAmlakh teseqle ab makel mdri\n[[/chorus]]\n\nMnte ybl bente hmamke zerye beaynu\nHmamate mesqel zetsorke zesema beznu\nMedhane alem\nWletu kzkr nbat ysreni\nKem sat nebelbal wshtey yenddeni\nChnqun mekeraun kwilu yreayeni\nBqaley kgeltso ftsum ykhebdeni\n\nMekera tsegebe mntana bquslu ina zhawena\nKem gebenenya neti rhruh wedey\nAdawun agarun asirom ab qdmey\nBzuh gerefwo abti adebabay\nAfu aykefeten mszi bzuh sqay\n\nBzuh tegerfe mntana bquslu ina zhawena\nMszi kwilu quslu mesqel asekimom\nNasehabwo nyeman ntsegam\nNab qeranyo gobo qetselu guzoom\nDemu nkhefssu kftsmu mkhrom\n\nDemu afsese mntana bquslu ina zhawena\nSeqelu nwedey ab makel shefatu\nKdanu gefifom keryu hfretu\nTsehayn werhn gn bhazen tselmetu\nRqanu keyryu aintom ametu\n\nRqanu wetse mntana bquslu ina zhawena\nAyzrebn keto bqal ayngern\nSqayu zerzire hji aywdon\nNkwilu kgebr nkelewo sltan\nAb mesqel weale bfqri hatan\n\nGodnu tewega mntana bquslu ina zhawena\nMot zeygbo mote mntakhum\nDemsisu’wn nmot genet atewekum\nSlezi zemru allu kulatkum\nBruh koynu alo tesfa nay hywetkum\n\nMhret lemene mntana bquslu ina zhawena"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mnte ybl bente hmamke zerye be'aynu",
+      "Hmamate mesqel zets'orke zesem'e beznu",
+      "Medhane 'alem",
+      "W'letu kzkr nb'at ys'reni",
+      "Kem sat nebelbal wsht'ey yenddeni",
+      "Ch'nqun mekeraun kwlu yreayeni",
+      "Bqaley kgelts'o fts'um ykhebdeni",
+      "N'u reayu mestenkr fqri",
+      "Amlakh teseqle ab makel mdri",
+      "Mekera ts'egebe mntana bquslu ina zhawena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kem gebenenya neti rhruh wedey",
+          "Adawun agarun asirom ab qdmey",
+          "Bzuh tegerfe mntana bquslu ina zhawena",
+          "Mszi kwlu quslu mesqel asekimom",
+          "Nasehabwo nyeman nts'egam",
+          "Nab qeranyo gobo qets'elu gu'zoom",
+          "Demu nkhefssu kfts'mu mkhrom",
+          "N'u reayu mestenkr fqri",
+          "Amlakh teseqle ab makel mdri",
+          "Demu afsese mntana bquslu ina zhawena"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seqelu nwedey ab makel shefatu",
+          "Kdanu gefifom keryu hfretu",
+          "Ts'ehayn werhn gn bhazen ts'elmetu",
+          "'Rqanu keyryu a'intom 'ametu",
+          "N'u reayu mestenkr fqri",
+          "Amlakh teseqle ab makel mdri",
+          "'Rqanu wets'e mntana bquslu ina zhawena",
+          "Ayzrebn keto bqal ayngern",
+          "Sqayu zerzire hji aywdon",
+          "Nkhwlu kgebr nkelewo slt'an",
+          "Ab mesqel we'ale bfqri hat'an",
+          "N'u reayu mestenkr fqri",
+          "Amlakh teseqle ab makel mdri",
+          "Godnu tewege mntana bquslu ina zhawena"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Mot zeygbo mote mntakhum",
+          "Demsisu’wn nmot genet atewekum",
+          "Slezi zemru 'allu kulatkum",
+          "Bruh koynu alo tesfa nay hywetkum",
+          "N'u reayu mestenkr fqri",
+          "Amlakh teseqle ab makel mdri"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

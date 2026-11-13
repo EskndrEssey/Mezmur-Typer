@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_cdbd3c509a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መን ኣሎና"
+  "id": 34,
+  "title": "መን ኣሎና",
+  "ti": {
+    "chorus": [
+      "ኣብ ሰማይ ኮነ ኣብ ኵሉ ምድሪ",
+      "መን ኣሎና ብዘይ በኣኻ",
+      "ሎሚ ፈትዩ ጽባሕ ዝጸልእ",
+      "ሎሚ ሂቡ ጽባሕ ዝኸልእ",
+      "ናይ ሰብ ሕይወት ኣይእመንን’ዩ",
+      "ባህርኻ ግን ኣይልወጥን’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መልክዕ ሕይወትና ተደዊኑ",
+          "መንገድና ናይ ጥፍኣት ኮይኑ",
+          "ጸላኢና’ውን ከሳድደና",
+          "ኤልሻዳይ ግን ተዋጊእካልና",
+          "ናብራ ዓለም ኣሸኒፉና",
+          "ሓይሊ ሲኦል ኣናዊጹና",
+          "ማእሰር ኃጢኣት ክፍትሓልና",
+          "ኣጸብቆ መወዳእታና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከይተለመንካ ትህብ ጐይታ",
+          "ኣይተሕፍርን ንወገናትካ",
+          "ሓሳብ ልብና ሰሚሩልና",
+          "ብሩህ ኮይኑ ተስፋ ሕይወትና",
+          "ናብራ ዓለም . . ."
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ትዝታው ሳሙኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መን ኣሎና",
-      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
-      "lyrics": "[[chorus]]\nሎሚ ፈትዩ ጽባሕ ዝጸልእ\nሎሚ ሂቡ ጽባሕ ዝኸልእ\nናይ ሰብ ሕይወት ኣይእመንን’ዩ\nባህርኻ ግን ኣይልወጥን’ዩ\n[[/chorus]]\n\nመን ኣሎና ጐይታና ብዘይብኣኻ (2)\nኣብ ሰማይ ኮነ ኣብ ኵሉ ምድሪ\nመን ኣሎና ብዘይ በኣኻ\n\nመልክዕ ሕይወትና ተደዊኑ\nመንገድና ናይ ጥፍኣት ኮይኑ\nጸላኢና’ውን ከሳድደና\nኤልሻዳይ ግን ተዋጊእካልና\n\nከይተለመንካ ትህብ ጐይታ\nኣይተሕፍርን ንወገናትካ\nሓሳብ ልብና ሰሚሩልና\nብሩህ ኮይኑ ተስፋ ሕይወትና"
-    },
-    "ti_ro": {
-      "title": "Men alona",
-      "zemari": "di/n tztaw samuel",
-      "lyrics": "[[chorus]]\nMen alona goytana bzeybakha (2)\n[[/chorus]]\n\nAb semay kone ab kwilu mdri\nMen alona bzey beakha\nLomi fetyu tsbah ztsel\nLomi hibu tsbah zkhel\nNay seb hywet aymenn’yu\nBahrkha gn aylwetn’yu\nMelk hywetna tedewinu\nMengedna nay tfat koynu\nTselaina’wn kesaddena\nElshaday gn tewagikalna\nNabra alem ashenifuna\nHayli siol anawitsuna\nMaser hatiat kfthalna\nAtsebqo mewedatana\nKeytelemenka thb goyta\nAytehfrn nwegenatka\nHasab lbna semirulna\nBruh koynu tesfa hywetna\nNabra alem . . ."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab semay kone ab kwlu mdri",
+      "Men alona bzey beakha",
+      "Lomi fetyu ts'bah zts'el",
+      "Lomi hibu ts'bah zkhel",
+      "Nay seb hywet aymenn’yu",
+      "Bahrkha gn aylwet'n’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Melk' hywetna tedewinu",
+          "Mengedna nay t'fat koynu",
+          "Ts'elaina’wn kesaddena",
+          "Elshaday gn tewagikalna",
+          "Nabra 'alem ashenifuna",
+          "Hayli siol anawits'una",
+          "Maser hat'iat kfthalna",
+          "Ats'ebqo mewedatana"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Keytelemenka thb gwayta",
+          "Aytehfrn nwegenatka",
+          "Hasab lbna semirulna",
+          "Bruh koynu tesfa hywetna",
+          "Nabra 'alem . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

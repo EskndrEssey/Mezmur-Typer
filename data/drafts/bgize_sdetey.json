@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_b2245a9372",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብጊዜ ስደተይ"
+  "id": 216,
+  "title": "ብጊዜ ስደተይ",
+  "ti": {
+    "chorus": [
+      "ብጊዜ ስደተይ ተስፋ ትኾንኒ/ና",
+      "ሓዘነይ ቀንጢጥኪ ግርማ ተልብስኒ/ና",
+      "ማርያም ረዳኢተይ ጸግዐይ ጽላለይ መመክሒተይ /2/",
+      "ንስምኪ ክጽውዕ ይቐስን ‘ቲ ልበይ",
+      "ሓሳበይ ይሰምር ቲ’ባህጊ ድልየተይ",
+      "ሕጉስ’የ በኣኺ ድንግል ወላዲተይ",
+      "ስለዝኾንኪ ዋሕስ ናይ ሕይወተይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንቓላት ወድኺ ብፍጹም ክእዘዝ",
+          "በረኸት ክረክብ በቲ ናትኪ ሓገዝ",
+          "ካብቲ ማይ ሕይወት ቀጻሊ ዝውሕዝ",
+          "ክሰቲ ርድእኒ ሰላመይ ክዓዝዝ",
+          "ካብ ድቃስ ዓለም ተበራብርኒ",
+          "ብኃጢኣት ከይወድቕ ነዓይ ትመርሕኒ",
+          "ወድኺ’የ ኣነ ሰዓቢ ዮሐንስ",
+          "ቤተይ’ውን እተዊ ግርማ ኣልብስኒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እንተተናወጸት ዓለም ከም ባሕሪ",
+          "መልክዓ ትቐይር በቲ ክፉእ ግብሪ",
+          "ክዝምረልኪ’የ ውዕለትኪ ከውሪ",
+          "ማርያም እናበልኩ ንኽለብስ ክብሪ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብጊዜ ስደተይ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nንስምኪ ክጽውዕ ይቐስን ‘ቲ ልበይ\nሓሳበይ ይሰምር ቲ’ባህጊ ድልየተይ\nሕጉስ’የ በኣኺ ድንግል ወላዲተይ\nስለዝኾንኪ ዋሕስ ናይ ሕይወተይ\n[[/chorus]]\n\nብጊዜ ስደተይ ተስፋ ትኾንኒ/ና\nሓዘነይ ቀንጢጥኪ ግርማ ተልብስኒ/ና\nማርያም ረዳኢተይ ጸግዐይ ጽላለይ መመክሒተይ (2)\n\nንቓላት ወድኺ ብፍጹም ክእዘዝ\nበረኸት ክረክብ በቲ ናትኪ ሓገዝ\nካብቲ ማይ ሕይወት ቀጻሊ ዝውሕዝ\nክሰቲ ርድእኒ ሰላመይ ክዓዝዝ\n\nእንተተናወጸት ዓለም ከም ባሕሪ\nመልክዓ ትቐይር በቲ ክፉእ ግብሪ\nክዝምረልኪ’የ ውዕለትኪ ከውሪ\nማርያም እናበልኩ ንኽለብስ ክብሪ"
-    },
-    "ti_ro": {
-      "title": "Bgize sdetey",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nMaryam redaitey tsegay tslaley memekhitey (2)\n[[/chorus]]\n\nBgize sdetey tesfa tkhonni/na\nHazeney qentitki grma telbsni/na\nNsmki ktsw yqesn ‘ti lbey\nHasabey ysemr ti’bahgi dlyetey\nHgus’ye beakhi dngl weladitey\nSlezkhonki wahs nay hywetey\nNqalat wedkhi bftsum kzez\nBerekhet krekb beti natki hagez\nKabti may hywet qetsali zwhz\nKseti rdni selamey kazz\nKab dqas alem teberabrni\nBhatiat keywedq neay tmerhni\nWedkhi’ye ane seabi yohans\nBetey’wn tewi grma albsni\nNtetenawetset alem kem bahri\nMelka tqeyr beti kfu gbri\nKzmrelki’ye wletki kewri\nMaryam nabelku nkhlebs kbri"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bgize sdetey tesfa tkhonni/na",
+      "Hazeney qent'it'ki grma telbsni/na",
+      "Maryam redaitey ts'eg'ey ts'laley memekhitey /2/",
+      "Nsmki kts'w' yqesn ‘ti lbey",
+      "Hasabey ysemr ti’bahgi dlyetey",
+      "Hgus’ye beakhi dngl weladitey",
+      "Slezkhonki wahs nay hywetey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nqalat wedkhi bfts'um kzez",
+          "Berekhet krekb beti natki hagez",
+          "Kabti may hywet qets'ali zwhz",
+          "Kseti rdni selamey k'azz",
+          "Kab dqas 'alem teberabrni",
+          "Bhat'iat keywedq ne'ay tmerhni",
+          "Wedkhi’ye ane se'abi yohens",
+          "Betey’wn tewi grma albsni"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ntetenawets'et 'alem kem bahri",
+          "Melk'a tqeyr beti kfu gbri",
+          "Kzmrelki’ye w'letki kewri",
+          "Maryam nabelku nkhlebs kbri"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

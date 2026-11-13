@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_53ce24a0cf",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብ ልበይ ኣሎ ምስጋና"
+  "id": 401,
+  "title": "ኣብ ልበይ ኣሎ ምስጋና",
+  "ti": {
+    "chorus": [
+      "ኣብ ልበይ ኣሎ ምስጋና",
+      "ማርያመይ ንገሲ ገና",
+      "ለውሃትኪ ከመስግን ኣደይ",
+      "ኣብ ናብራይ ንበሪ ምሳይ /2/",
+      "ስብከት ዓለም እንክጋዋሕ መበከሊ ኣእምሮ",
+      "ልበይ ንኸየስተውዕል ጐይታይ ስለይ ዝጾሮ",
+      "ነቲ ዕረ ኣመቓቒሩ ሕሉፈይ ንኽዝክር",
+      "ብጣዕሚ ከስድዓኒ እቲ ፈሓሲ ነገር",
+      "መን’ዶ ኔሩኒ’ዩ ማርያም ኣብ ሽግረይ",
+      "ሰላም ልበይ ኣውሒሱ ዘማእዘነ ሕይወተይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣመና ሽጉር ዘይቀሰነ ብናብራ ኣብ ዓለም",
+          "ኣይክሓስብ ክድቅስ ከይወሰነ ዘሕለምልም",
+          "ሕጂ ኮይኑ ክኸብደኒ ሓጺር ጉዕዞ ስጋ",
+          "ስም መጻእየይ ከይቅይር እንከንጸላሉ ኣብ ሓደጋ",
+          "ወገን ናይ ጥቑዓት ማርያም ጸግዐይ ልበይ",
+          "ቃል ንብዓትኪ ፈልፊሉ ኣረጋጊኡ ኣእምሮይ /2/",
+          "ውሽጠይ ባዶ ዘይከም ካልእ ርእሰይ ዝደነነ",
+          "ግራት ልበይ ቃዲሩ ዝዝራእ ምስ ተሳእነ",
+          "ጊዜ ምልኣት ቆፎ ዘርአይ ብኾፈይ ኣሕሊፈዮ",
+          "ብጣዕሚ ከውድቐኒ ንሰይጣን ኣንፈት ሂበዮ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብ ልበይ ኣሎ ምስጋና",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nስብከት ዓለም እንክጋዋሕ መበከሊ ኣእምሮ\nልበይ ንኸየስተውዕል ጐይታይ ስለይ ዝጾሮ\nነቲ ዕረ ኣመቓቒሩ ሕሉፈይ ንኽዝክር\nብጣዕሚ ከስድዓኒ እቲ ፈሓሲ ነገር\nመን’ዶ ኔሩኒ’ዩ ማርያም ኣብ ሽግረይ\nሰላም ልበይ ኣውሒሱ ዘማእዘነ ሕይወተይ (2)\n[[/chorus]]\n\nኣብ ልበይ ኣሎ ምስጋና\nማርያመይ ንገሲ ገና\nለውሃትኪ ከመስግን ኣደይ\nኣብ ናብራይ ንበሪ ምሳይ (2)\n\nኣመና ሽጉር ዘይቀሰነ ብናብራ ኣብ ዓለም\nኣይክሓስብ ክድቅስ ከይወሰነ ዘሕለምልም\nሕጂ ኮይኑ ክኸብደኒ ሓጺር ጉዕዞ ስጋ\nስም መጻእየይ ከይቅይር እንከንጸላሉ ኣብ ሓደጋ\nወገን ናይ ጥቑዓት ማርያም ጸግዐይ ልበይ\nቃል ንብዓትኪ ፈልፊሉ ኣረጋጊኡ ኣእምሮይ (2)"
-    },
-    "ti_ro": {
-      "title": "Ab lbey alo msgana",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAb nabray nberi msay (2)\n[[/chorus]]\n\nAb lbey alo msgana\nMaryamey ngesi gena\nLewhatki kemesgn adey\nSbket alem nkgawah mebekeli amro\nLbey nkheyestewl goytay sley ztsoro\nNeti re ameqaqiru hlufey nkhzkr\nBtami kesdani ti fehasi neger\nMen’do neruni’yu maryam ab shgrey\nSelam lbey awhisu zemazene hywetey (2)\nAmena shgur zeyqesene bnabra ab alem\nAykhasb kdqs keywesene zehlemlm\nHji koynu kkhebdeni hatsir guzo sga\nSm metsayey keyqyr nkentselalu ab hadega\nWegen nay tquat maryam tsegay lbey\nQal nbatki felfilu aregagiu amroy (2)\nWshtey bado zeykem kal rsey zdenene\nGrat lbey qadiru zzra ms tesane\nGize mlat qofo zeray bkhofey ahlifeyo\nBtami kewdqeni nseytan anfet hibeyo\nNdkhumat degafit maryam hayli nefsey\nLewhatki betsihuns selam meliu betey (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab lbey alo msgana",
+      "Maryamey ngesi gena",
+      "Lewhatki kemesgn adey",
+      "Ab nabray nberi msay /2/",
+      "Sbket 'alem nkgawah mebekeli amro",
+      "Lbey nkheyestew'l gwaytay sley zts'oro",
+      "Neti 're ameqaqiru hlufey nkhzkr",
+      "Bt'a'mi kesd'ani ti fehasi neger",
+      "Men’do neruni’yu maryam ab shgrey",
+      "Selam lbey awhisu zemazene hywetey /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amena shgur zeyqesene bnabra ab 'alem",
+          "Aykhasb kdqs keywesene zehlemlm",
+          "Hji koynu kkhebdeni hats'ir gu'zo sga",
+          "Sm mets'ayey keyqyr nkents'elalu ab hadega",
+          "Wegen nay t'qu'at maryam ts'eg'ey lbey",
+          "Qal nb'atki felfilu aregagiu amroy /2/",
+          "Wsht'ey bado zeykem kal rsey zdenene",
+          "Grat lbey qadiru zzra ms tesane",
+          "Gize mlat qofo zerey bkhofey ahlifeyo",
+          "Bt'a'mi kewdqeni nseyt'an anfet hibeyo"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

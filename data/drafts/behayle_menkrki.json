@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_58f1fa92a6",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በኃይለ መንክርኪ"
+  "id": 415,
+  "title": "በኃይለ መንክርኪ",
+  "ti": {
+    "chorus": [
+      "በኃይለ መንክርኪ ከመ እትመየጥ",
+      "ወእምነደ ነበልባል ከመ አምስጥ",
+      "ማርያም ቤዛ ኩንኒ",
+      "ማርያም ዕቀብኒ",
+      "መርዓዊ ምስ መጽአ ከይሓፍር ከይደንን",
+      "ዋሕስ ነፍሰይ ኩኒ ክቐውም ብየማን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኪዳንኪ እዩ ኃይለይ ድኻመይ ዘሰንፍ",
+          "ጕያይ ንኽዛዝም ቤት ኤል ንኸዕርፍ",
+          "ጣዕሚ ገነት ኤዶም ኣብ ልበይ ኣንብሪ",
+          "ንኃጢኣት ፈንፊነ ንሕይወት ክሓሪ",
+          "ትምክሕተይ ርእየዮ ከእትወኒ ጸበባ",
+          "ባዕለይ ዘምጻእክዎ ወሊዱ ሰበባ",
+          "ብዘይ ወድኺ ኣደይ ኣይመልእን ሰላመይ",
+          "ከምቲ ናይ ገሊላ ንገርዮ ስለይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እግረይ ይስጕም ኣሎ ናብ ጽርሐ መቕደስኪ",
+          "ልበይ ብሂጉ’ሎ ክነብር ምሳኺ",
+          "ከማዕዱ ንምብራቕ ጸጋኺ የጽልለኒ",
+          "መርኆ ሰማይ ድንግል መራሒት ኩንኒ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በኃይለ መንክርኪ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣይኮንኩን ዝጸድቕ በቲ ናተይ ተግባር\nብምሕረት ናይ ጐይታ ብደገፍ ናትኪ እምበር\nመርዓዊ ምስ መጽአ ከይሓፍር ከይደንን\nዋሕስ ነፍሰይ ኩኒ ክቐውም ብየማን\n[[/chorus]]\n\nበኃይለ መንክርኪ ከመ እትመየጥ\nወእምነደ ነበልባል ከመ አምስጥ\nማርያም ቤዛ ኩንኒ\nማርያም ዕቀብኒ\nማርያም ሰአሊዮ ወአዘክርዮ\nማርያም ለአማኑኤል ኣድኅኖ በልዮ\n\nኪዳንኪ እዩ ኃይለይ ድኻመይ ዘሰንፍ\nጕያይ ንኽዛዝም ቤት ኤል ንኸዕርፍ\nጣዕሚ ገነት ኤዶም ኣብ ልበይ ኣንብሪ\nንኃጢኣት ፈንፊነ ንሕይወት ክሓሪ\n\nእግረይ ይስጕም ኣሎ ናብ ጽርሐ መቕደስኪ\nልበይ ብሂጉ’ሎ ክነብር ምሳኺ\nከማዕዱ ንምብራቕ ጸጋኺ የጽልለኒ\nመርኆ ሰማይ ድንግል መራሒት ኩንኒ"
-    },
-    "ti_ro": {
-      "title": "Behayle menkrki",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Behayle menkrki keme tmeyet\nWemnede nebelbal keme amst\nMaryam beza kunni\nMaryam qebni\nMaryam sealiyo weazekryo\nMaryam leamanuel adhno belyo\nAykonkun ztsedq beti natey tegbar\nBmhret nay goyta bdegef natki mber\nMerawi ms metsa keyhafr keydenn\nWahs nefsey kuni kqewm byeman\nKidanki yu hayley dkhamey zesenf\nGwiyay nkhzazm bet el nkherf\nTami genet edom ab lbey anbri\nNhatiat fenfine nhywet khari\nTmkhtey ryeyo ketweni tsebeba\nBaley zemtsakwo welidu sebeba\nBzey wedkhi adey aymeln selamey\nKemti nay gelila ngeryo sley\nGrey ysgwim alo nab tsrha meqdeski\nLbey bhigu’lo knebr msakhi\nKemadu nmbraq tsegakhi yetslleni\nMerho semay dngl merahit kunni"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Behayle menkrki keme tmeyet'",
+      "Wemnede nebelbal keme emst'",
+      "Maryam beza kunni",
+      "Maryam 'qebni",
+      "Mer'awi ms mets'e keyhafr keydenn",
+      "Wahs nefsey kuni kqewm byeman"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kidanki yu hayley dkhamey zesenf",
+          "Gwyay nkhzazm bet el nkhe'rf",
+          "T'a'mi genet edom ab lbey anbri",
+          "Nhat'iat fenfine nhywet khari",
+          "Tmkhtey ryeyo ketweni ts'ebeba",
+          "Ba'ley zemts'akwo welidu sebeba",
+          "Bzey wedkhi adey aymeln selamey",
+          "Kemti nay gelila ngeryo sley"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Grey ysgwm alo nab ts'rhe meqdeski",
+          "Lbey bhigu’lo knebr msakhi",
+          "Kema'du nmbraq ts'egakhi yets'lleni",
+          "Merho semay dngl merahit kunni"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_1fb35ca7a6",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ካበይ ኮነለይ"
+  "id": 411,
+  "title": "ካበይ ኮነለይ",
+  "ti": {
+    "chorus": [
+      "‘ዚ ዅሉ ፍቕሪ ካበይ ኮነለይ",
+      "ጸጋኻ’ዩ ጐይታ ዓዚዙ ኣብ ልዕለይ",
+      "የብለይን ውሬታ ንዓኻ ዝበቕዓካ",
+      "ምስጋና’ዩ ህያበይ ክዝምረልካ",
+      "ነጸብራቕ ናይ ዓለም ፍትወታ ኣስዲዑኒ",
+      "ኮብሊለ ካብ ቤተይ ኣብ ከንቱ ከዕነኒ",
+      "ሎሚ ከስተንትኖ ምስ ፈለጥኩ ውነይ",
+      "ንሓጢኣት ክህንደድ በቲኸዮ ልጓመይ",
+      "ፍቕርኻ ለጊስካ ዘይርከቦ መልሲ",
+      "ንዘይረዊ ባህጊ ደኺሙኒ ከሳሲ",
+      "ጓሂ ልበይ ርኢኻ ፍሽኽታ ዝተጋረደ",
+      "ለጊስካለይ ፍቕርኻ ፍጹም’የ ተኣቢደ /2/",
+      "መንፈሰይ ዘድከመ ሞቕሐይ ሴርካዮ",
+      "ብብርሃን መስቀልካ ጸላም ጋሊህካዮ",
+      "መግነዘይ ፈቲሕካ ካብ ሞት ኣንቂሕካኒ",
+      "ሓዲስካ ዘመነይ ዳግማይ ፈጢርካኒ",
+      "ታሪኸይ ቀይርካዮ ባርያኻስ ተማሒረ",
+      "ተመስገን ክበረለይ ደጊም ምንባር ጀሚረ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘ታይ ኣምሃ ኣሎኒ ኣምሳያ ውዕለትካ",
+          "ምስጋናይ ተቐበል ካብ ጸጋ ውህበትካ",
+          "ገና ክዝምር’የ በዚ ድሩት ዓቕመይ",
+          "ዘይነጽፍ ውዳሴ ዓቚሩ’ሎ ኣብ ልበይ",
+          "ቀዲስካያ ልሳነይ መዝሙር ኮይኑ ቅኒታ",
+          "ፈልፊለ ቅዱስ ቅኔ ከኽብረካ’የ ጐይታ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ካበይ ኮነለይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nነጸብራቕ ናይ ዓለም ፍትወታ ኣስዲዑኒ\nኮብሊለ ካብ ቤተይ ኣብ ከንቱ ከዕነኒ\nሎሚ ከስተንትኖ ምስ ፈለጥኩ ውነይ\nንሓጢኣት ክህንደድ በቲኸዮ ልጓመይ\nጐይታ ግን ናቢኻኒ ብዘይርአ ሓለዋ\nንስጉመይ ምግታእካ’ዩ ንነፍሰይ ዓቂብዋ (2)\n[[/chorus]]\n\n‘ዚ ዅሉ ፍቕሪ ካበይ ኮነለይ\nጸጋኻ’ዩ ጐይታ ዓዚዙ ኣብ ልዕለይ\nየብለይን ውሬታ ንዓኻ ዝበቕዓካ\nምስጋና’ዩ ህያበይ ክዝምረልካ\n\nዘሕለፍክዎ ዘመን ልበይ ወፍየ ንዓለም\nዕጋበትስ ይትረፍ ኣየበልኩን ሰለም\nፍቕርኻ ለጊስካ ዘይርከቦ መልሲ\nንዘይረዊ ባህጊ ደኺሙኒ ከሳሲ\nጓሂ ልበይ ርኢኻ ፍሽኽታ ዝተጋረደ\nለጊስካለይ ፍቕርኻ ፍጹም’የ ተኣቢደ (2)\n\n‘ታይ ኣምሃ ኣሎኒ ኣምሳያ ውዕለትካ\nምስጋናይ ተቐበል ካብ ጸጋ ውህበትካ\nገና ክዝምር’የ በዚ ድሩት ዓቕመይ\nዘይነጽፍ ውዳሴ ዓቚሩ’ሎ ኣብ ልበይ\nቀዲስካያ ልሳነይ መዝሙር ኮይኑ ቅኒታ\nፈልፊለ ቅዱስ ቅኔ ከኽብረካ’የ ጐይታ (2)"
-    },
-    "ti_ro": {
-      "title": "Kabey koneley",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nTemesgen kbereley degim mnbar jemire (2)\n[[/chorus]]\n\n‘Zi kwilu fqri kabey koneley\nTsegakha’yu goyta azizu ab lley\nYebleyn wreta nakha zbeqaka\nMsgana’yu hyabey kzmrelka\nNetsebraq nay alem ftweta asdiuni\nKoblile kab betey ab kentu keneni\nLomi kestentno ms feletku wney\nNhatiat khnded betikheyo lgwamey\nGoyta gn nabikhani bzeyra halewa\nNsgumey mgtaka’yu nnefsey aqibwa (2)\nZehlefkwo zemen lbey wefye nalem\nGabets ytref ayebelkun selem\nFqrkha legiska zeyrkebo melsi\nNzeyrewi bahgi dekhimuni kesasi\nGwahi lbey rikha fshkhta ztegarede\nLegiskaley fqrkha ftsum’ye teabide (2)\nMenfesey zedkeme moqhay serkayo\nBbrhan mesqelka tselam galihkayo\nMegnezey fetihka kab mot anqihkani\nHadiska zemeney dagmay fetirkani\nTarikhey qeyrkayo baryakhas temahire\n‘Tay amha aloni amsaya wletka\nMsganay teqebel kab tsega whbetka\nGena kzmr’ye bezi drut aqmey\nZeynetsf wdase aqwaru’lo ab lbey\nQediskaya lsaney mezmur koynu qnita\nFelfile qdus qne kekhbreka’ye goyta (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "‘Zi khwlu fqri kabey koneley",
+      "Ts'egakha’yu gwayta 'azizu ab l'ley",
+      "Yebleyn wreta n'akha zbeq'aka",
+      "Msgana’yu hyabey kzmrelka",
+      "Nets'ebraq nay 'alem ftweta asdi'uni",
+      "Koblile kab betey ab kentu ke'neni",
+      "Lomi kestentno ms felet'ku wney",
+      "Nhat'iat khnded betikheyo lgwamey",
+      "Fqrkha legiska zeyrkebo melsi",
+      "Nzeyrewi bahgi dekhimuni kesasi",
+      "Gwahi lbey rikha fshkhta ztegarede",
+      "Legiskaley fqrkha fts'um’ye teabide /2/",
+      "Menfesey zedkeme moqhey serkayo",
+      "Bbrhan mesqelka ts'elam galihkayo",
+      "Megnezey fetihka kab mot anqihkani",
+      "Hadiska zemeney dagmay fet'irkani",
+      "Tarikhey qeyrkayo baryakhas temahire",
+      "Temesgen kbereley degim mnbar jemire /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘Tay amha aloni amsaya w'letka",
+          "Msganay teqebel kab ts'ega whbetka",
+          "Gena kzmr’ye bezi drut 'aqmey",
+          "Zeynets'f wdase 'aqwiru’lo ab lbey",
+          "Qediskaya lsaney mezmur koynu qnita",
+          "Felfile qdus qne kekhbreka’ye gwayta /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

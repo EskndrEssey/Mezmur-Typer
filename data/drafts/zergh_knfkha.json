@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_af299fbc51",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘርግሕ ክንፍኻ"
+  "id": 278,
+  "title": "ዘርግሕ ክንፍኻ",
+  "ti": {
+    "chorus": [
+      "መሌሊተ ስጋሰ ኵሉ በባኅርይከ ዘኣልቦ",
+      "መልኣከ ኣድኃኖ ገብርኤል ኣውጽኣኒ እምተመንድቦ",
+      "ኣመ ነፍሓ በላዕሌየ እሳተ መቅሰፍት ላህቦ",
+      "ኪያየ ጸልል በኣክናፍ ዘገቦ “",
+      "ዘርግሕ ክንፍኻ ኣብ ልዕሌና",
+      "ጓስየና ኢኻ ብበትሪ መስቀልካ",
+      "መታን ከይንወድቕ ብፈተና",
+      "ቅዱስ ገብርኤል ረዳኢ ኩነና",
+      "እቲ ሓያል ኣምላኽ ኵሉ ዝከኣሎ",
+      "ኣብ ጊዜ ፈተናይ ጸቢቡኒ ከሎ",
+      "ካብቶም ልኡኻቱ ንምሕረት ዝወርዱ",
+      "ገብርኤል ልኢኹ ጸላእተይ ኣርዒዱ",
+      "ከየንደልህጽ እግረይ  ገብርኤል",
+      "ንኸይሓዝን ልበይ     >>  >>",
+      "ኣብ ጊዜ ፈተናይ      >>  >>",
+      "ዘወትር ሃሉ ምሳይ   >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ተስፋይ ንኸይቅህም ረዳኢ ስኢነ",
+          "ሰላመይ ከይዝረግ ጋብላ ጭንቀት ኮይነ",
+          "ስምካ ገብርኤል’ዩ ትርጉሙ ስም ኣምላኽ",
+          "ኣብ ዙርያይ ተረኸብ ዜና ምድሓን ስበኽ",
+          "ንድንግል ማርያም  ገብርኤል",
+          "ከምቲ ዘብሰርካያ    >>  >>",
+          "ሰላም እናሰበኽካ    >>  >>",
+          "ነፍሰይ ኣህድኣያ     >>  >>",
+          "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
+          "ስም መንክር ኣምላኽና ተሰምዩ ኣብ ልዕሌኻ",
+          "ኣዕርግ ንጸሎትና  ምሕረት ክወርደና",
+          "ንማሕበርና ሓሉ ክንፊ ዘርግሓልና",
+          "ስምካ ንዝጽውዕ     ገብርኤል",
+          "ዝኽርኻ ዝገብር       >>  >>"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘርግሕ ክንፍኻ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nእቲ ሓያል ኣምላኽ ኵሉ ዝከኣሎ\nኣብ ጊዜ ፈተናይ ጸቢቡኒ ከሎ\nካብቶም ልኡኻቱ ንምሕረት ዝወርዱ\nገብርኤል ልኢኹ ጸላእተይ ኣርዒዱ\nከየንደልህጽ እግረይ ገብርኤል\nንኸይሓዝን ልበይ\nኣብ ጊዜ ፈተናይ\nዘወትር ሃሉ ምሳይ\n[[/chorus]]\n\n“ ሰላም ለሕሊናከ ዘየኣምር የብቦ\nመሌሊተ ስጋሰ ኵሉ በባኅርይከ ዘኣልቦ\nመልኣከ ኣድኃኖ ገብርኤል ኣውጽኣኒ እምተመንድቦ\nኣመ ነፍሓ በላዕሌየ እሳተ መቅሰፍት ላህቦ\nኪያየ ጸልል በኣክናፍ ዘገቦ “\nዘርግሕ ክንፍኻ ኣብ ልዕሌና\nጓስየና ኢኻ ብበትሪ መስቀልካ\nመታን ከይንወድቕ ብፈተና\nቅዱስ ገብርኤል ረዳኢ ኩነና\n\nተስፋይ ንኸይቅህም ረዳኢ ስኢነ\nሰላመይ ከይዝረግ ጋብላ ጭንቀት ኮይነ\nስምካ ገብርኤል’ዩ ትርጉሙ ስም ኣምላኽ\nኣብ ዙርያይ ተረኸብ ዜና ምድሓን ስበኽ\nንድንግል ማርያም ገብርኤል\nከምቲ ዘብሰርካያ\nሰላም እናሰበኽካ\nነፍሰይ ኣህድኣያ"
-    },
-    "ti_ro": {
-      "title": "Zergh knfkha",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "“ Selam lehlinake zeyeamr yebbo\nMelelite sgase kwilu bebahryke zealbo\nMelake adhano gebrel awtsani mtemendbo\nAme nefha belaleye sate meqseft lahbo\nKiyaye tsell beaknaf zegebo “\nZergh knfkha ab llena\nGwasyena ikha bbetri mesqelka\nMetan keynwedq bfetena\nQdus gebrel redai kunena\nTi hayal amlakh kwilu zkealo\nAb gize fetenay tsebibuni kelo\nKabtom lukhatu nmhret zwerdu\nGebrel likhu tselatey aridu\nKeyendelhts grey gebrel\nNkheyhazn lbey\nAb gize fetenay\nZewetr halu msay\nTesfay nkheyqhm redai sine\nSelamey keyzreg gabla chnqet koyne\nSmka gebrel’yu trgumu sm amlakh\nAb zuryay terekheb zena mdhan sbekh\nNdngl maryam gebrel\nKemti zebserkaya\nSelam nasebekhka\nNefsey ahdaya"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Melelite sgase kwlu bebahryke zealbo",
+      "Melake adhano gebrel awts'ani mtemendbo",
+      "Ame nefha bela'leye sate meqseft lahbo",
+      "Kiyaye ts'ell beaknaf zegebo “",
+      "Zergh knfkha ab l'lena",
+      "Gwasyena ikha bbetri mesqelka",
+      "Metan keynwedq bfetena",
+      "Qdus gebrel redai kunena",
+      "Ti hayal amlakh kwlu zkealo",
+      "Ab gize fetenay ts'ebibuni kelo",
+      "Kabtom lukhatu nmhret zwerdu",
+      "Gebrel likhu ts'elatey ar'idu",
+      "Keyendelhts' grey  gebrel",
+      "Nkheyhazn lbey     >>  >>",
+      "Ab gize fetenay      >>  >>",
+      "Zewetr halu msay   >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tesfay nkheyqhm redai sine",
+          "Selamey keyzreg gabla ch'nqet koyne",
+          "Smka gebrel’yu trgumu sm amlakh",
+          "Ab zuryay terekheb zena mdhan sbekh",
+          "Ndngl maryam  gebrel",
+          "Kemti zebserkaya    >>  >>",
+          "Selam nasebekhka    >>  >>",
+          "Nefsey ahdaya     >>  >>",
+          "Liqe melakt ab qdmit menberka",
+          "Sm menkr amlakhna tesemyu ab l'lekha",
+          "A'rg nts'elotna  mhret kwerdena",
+          "Nmahberna halu knfi zerghalna",
+          "Smka nzts'w'     gebrel",
+          "Zkhrkha zgebr       >>  >>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

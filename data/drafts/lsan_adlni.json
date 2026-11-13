@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_a38b12d3e5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ልሳን ዓድልኒ"
+  "id": 294,
+  "title": "ልሳን ዓድልኒ",
+  "ti": {
+    "chorus": [
+      "ድንግል ፍሉይ ክብርኺ መን ኮን ’ዩ ዝገልጾ",
+      "ምሉእ ቃል የለን ስምኪ ዝውድሶ",
+      "ኣየናይ ብቕዓት’ዩ ፊትኪ ዘቑመኒ",
+      "ኣፈይ ክኸፍተልኪ ልሳን ዓድልኒ",
+      "ኦ ሓረገ ወይን ኣደ ጐይታይ ማርያም",
+      "መዕቆቢተይ ከተማ ናይ ህድኣት ናይ ሰላም",
+      "ዕሸል ኣፈይ ወታእ’ዩ ክብርኺ ከዘንቱ",
+      "ልሳነይ ቅብኢ ድንግል ክጥዕም ቃላቱ /2/",
+      "ዕድሜኺ ይብል ውሽጠይ ብጽሕዮ ንስቕታይ",
+      "ካበይ ኮነለይ ኢለ ክዘልል ከም ብተይ /2/",
+      "ልበይ ጐሥዐ ቃል ምስጋና",
+      "ቃለ ዝማሬ ጣዕመ ዜማ /2/",
+      "ስሙር ቃል ቅዳሴኺ ብልግሲ ዝሃብኪ",
+      "ልሳን ሕርያቆስ ማርያም ንዕቐቱ ዘኽበርኪ",
+      "ፍሑኽታ ቃል ምስጋናይ እግሪ ንኽተክል",
+      "ባርኽዮ ንልበይ ዜማይ ከሰላስል /2/",
+      "ልበይ ጐሥዐ ቃል ምስጋና",
+      "ቃለ ዝማሬ ጣዕመ ዜማ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣፈይ ምልኣት ምስጋና ፍረ ክርከቦ",
+          "ባህታ ሓጎስ ክዓስሎ ጽድቂ ንኽኸቦ",
+          "ስለ ክብሪ ግርማኺ ሓጎሰይ ክገልጽ",
+          "ልሳን ዓድልኒ’ዶ ዕልልታይ ክድርጉሕ /2/",
+          "ልበይ ጐሥዐ ቃል ምስጋና",
+          "ቃለ ዝማሬ ጣዕመ ዜማ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ልሳን ዓድልኒ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nኦ ሓረገ ወይን ኣደ ጐይታይ ማርያም\nመዕቆቢተይ ከተማ ናይ ህድኣት ናይ ሰላም\nዕሸል ኣፈይ ወታእ’ዩ ክብርኺ ከዘንቱ\nልሳነይ ቅብኢ ድንግል ክጥዕም ቃላቱ (2)\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ (2)\n[[/chorus]]\n\nድንግል ፍሉይ ክብርኺ መን ኮን ’ዩ ዝገልጾ\nምሉእ ቃል የለን ስምኪ ዝውድሶ\nኣየናይ ብቕዓት’ዩ ፊትኪ ዘቑመኒ\nኣፈይ ክኸፍተልኪ ልሳን ዓድልኒ\n\nኤልሳቤጥ ዘለለት ብናትኪ ሰላምታ\nህፃን ተሰራሰረ ብሓጎስ ብደስታ\nዕድሜኺ ይብል ውሽጠይ ብጽሕዮ ንስቕታይ\nካበይ ኮነለይ ኢለ ክዘልል ከም ብተይ (2)\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ (2)\n\nኣፈይ ምልኣት ምስጋና ፍረ ክርከቦ\nባህታ ሓጎስ ክዓስሎ ጽድቂ ንኽኸቦ\nስለ ክብሪ ግርማኺ ሓጎሰይ ክገልጽ\nልሳን ዓድልኒ’ዶ ዕልልታይ ክድርጉሕ (2)\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ (2)"
-    },
-    "ti_ro": {
-      "title": "Lsan 'adlni",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "[[chorus]]\nLsaney qbi dngl ktm qalatu (2)\n[[/chorus]]\n\nDngl fluy kbrkhi men kon ’yu zgeltso\nMlu qal yelen smki zwdso\nAyenay bqat’yu fitki zequmeni\nAfey kkheftelki lsan adlni\nO harege weyn ade goytay maryam\nMeqobitey ketema nay hdat nay selam\nShel afey weta’yu kbrkhi kezentu\n\nElsabet zelelet bnatki selamta\nHtsan teserasere bhagos bdesta\nDmekhi ybl wshtey btshyo nsqtay\nKabey koneley ile kzell kem btey (2)\n\nSmur qal qdasekhi blgsi zhabki\nLsan hryaqos maryam nqetu zekhberki\nFhukhta qal msganay gri nkhtekl\nBarkhyo nlbey zemay keselasl (2)\n\nAfey mlat msgana fre krkebo\nBahta hagos kaslo tsdqi nkhkhebo\nSle kbri grmakhi hagosey kgelts\nLsan adlni’do lltay kdrguh (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dngl fluy kbrkhi men kon ’yu zgelts'o",
+      "Mlu qal yelen smki zwdso",
+      "Ayenay bq'at’yu fitki zequmeni",
+      "Afey kkheftelki lsan 'adlni",
+      "O harege weyn ade gwaytay maryam",
+      "Me'qobitey ketema nay hdat nay selam",
+      "'Shel afey weta’yu kbrkhi kezentu",
+      "Lsaney qbi dngl kt''m qalatu /2/",
+      "'Dmekhi ybl wsht'ey bts'hyo nsqtay",
+      "Kabey koneley ile kzell kem btey /2/",
+      "Lbey gwass'e qal msgana",
+      "Qale zmare t'a'me zema /2/",
+      "Smur qal qdasekhi blgsi zhabki",
+      "Lsan hryaqos maryam n'qetu zekhberki",
+      "Fhukhta qal msganay gri nkhtekl",
+      "Barkhyo nlbey zemay keselasl /2/",
+      "Lbey gwass'e qal msgana",
+      "Qale zmare t'a'me zema /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Afey mlat msgana fre krkebo",
+          "Bahta hagos k'aslo ts'dqi nkhkhebo",
+          "Sle kbri grmakhi hagosey kgelts'",
+          "Lsan 'adlni’do 'lltay kdrguh /2/",
+          "Lbey gwass'e qal msgana",
+          "Qale zmare t'a'me zema /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

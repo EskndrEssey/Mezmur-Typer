@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_0371e386d8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቅዱስ ሚካኤል ንዓ"
+  "id": 383,
+  "title": "ቅዱስ ሚካኤል ንዓ",
+  "ti": {
+    "chorus": [
+      "ቅዱስ ሚካኤል ነዓ",
+      "ምስለ ገብርኤል መዋኤ መስቴማ",
+      "ቅዱስ ሚካኤል ነዓ",
+      "ምስለ ሩፋኤል ነዓ በግርማ",
+      "ነበልባላዊ ጸዋሬ እሳት መንበር",
+      "ቅዱስ ሚካኤል መክብበ መላእክት",
+      "በክቡር መስቀል ከመ ትባርክ ዮም",
+      "ለማሕበርነ ደብረ ሰላም ቅድስት",
+      "በሰረገላ ምሕረት በሰረገላ",
+      "ምስለ ማርያም ድንግል ርግበ ገሊላ",
+      "ነዓ ማእከሌነ ቁም ኦ ላእከ ተድላ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልዑለ መንበር ኦ ኖላዊነ ትጉህ",
+          "ዘበረድኤት ሞገሰ ምንዱባን",
+          "ከመ ኣድኃንኮ ለዳንኤል ነቢይ",
+          "ምስለ ሶስና እመ ቅዱሳን",
+          "በበትረ መንፈስቅዱስ በትረ ዳህና",
+          "ለዘድኩማን ኣኃው ዘበጽሙና",
+          "ዕቀበነ በሰላም ወበጥዒና",
+          "ፀሐየ ራማ ብርሃኖሙ ለጻድቃን",
+          "ሕብስተ ተድላ ዘእስራኤል መና",
+          "በትንባሌከ እስመ ሐነጽከ ለነ",
+          "ማኅደረ ስብሐት ቤተ ቅድስና",
+          "ከመ ቅዱሳን ኣበው ዘእስክንድርያ",
+          "አግብርተ ሥሉስ ቅዱስ ወኣፎምያ",
+          "በስምከ ንዌድስ በሃሌሉያ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቅዱስ ሚካኤል ንዓ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nነበልባላዊ ጸዋሬ እሳት መንበር\nቅዱስ ሚካኤል መክብበ መላእክት\nበክቡር መስቀል ከመ ትባርክ ዮም\nለማሕበርነ ደብረ ሰላም ቅድስት\nበሰረገላ ምሕረት በሰረገላ\nምስለ ማርያም ድንግል ርግበ ገሊላ\nነዓ ማእከሌነ ቁም ኦ ላእከ ተድላ\n[[/chorus]]\n\nበሰረገላ ወበረድኤት ነዓ ነዓ\nቅዱስ ሚካኤል ነዓ\nምስለ ገብርኤል መዋኤ መስቴማ\nቅዱስ ሚካኤል ነዓ\nምስለ ሩፋኤል ነዓ በግርማ\n\nልዑለ መንበር ኦ ኖላዊነ ትጉህ\nዘበረድኤት ሞገሰ ምንዱባን\nከመ ኣድኃንኮ ለዳንኤል ነቢይ\nምስለ ሶስና እመ ቅዱሳን\nበበትረ መንፈስቅዱስ በትረ ዳህና\nለዘድኩማን ኣኃው ዘበጽሙና\nዕቀበነ በሰላም ወበጥዒና"
-    },
-    "ti_ro": {
-      "title": "Qdus mikael n'a",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nBesmke nweds behaleluya\n[[/chorus]]\n\nBeseregela weberedet nea nea\nQdus mikael nea\nMsle gebrel mewae mestema\nQdus mikael nea\nMsle rufael nea begrma\nNebelbalawi tseware sat menber\nQdus mikael mekbbe melakt\nBekbur mesqel keme tbark yom\nLemahberne debre selam qdst\nBeseregela mhret beseregela\nMsle maryam dngl rgbe gelila\nNea makelene qum o lake tedla\nLule menber o nolawine tguh\nZeberedet mogese mnduban\nKeme adhanko ledanel nebiy\nMsle sosna me qdusan\nBebetre menfesqdus betre dahna\nLezedkuman ahaw zebetsmuna\nQebene beselam webetina\nTsehaye rama brhanomu letsadqan\nHbste tedla zesrael mena\nBetnbaleke sme hanetske lene\nMahdere sbhat bete qdsna\nKeme qdusan abew zeskndrya\nAgbrte sslus qdus weafomya"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Qdus mikael ne'a",
+      "Msle gebrel mewae mestema",
+      "Qdus mikael ne'a",
+      "Msle rufael ne'a begrma",
+      "Nebelbalawi ts'eware sat menber",
+      "Qdus mikael mekbbe melakt",
+      "Bekbur mesqel keme tbark yom",
+      "Lemahberne debre selam qdst",
+      "Beseregela mhret beseregela",
+      "Msle maryam dngl rgbe gelila",
+      "Ne'a makelene qum o lake tedla"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "L'ule menber o nolawine tguh",
+          "Zeberedet mogese mnduban",
+          "Keme adhanko ledanel nebiy",
+          "Msle sosna me qdusan",
+          "Bebetre menfesqdus betre dahna",
+          "Lezedkuman ahaw zebets'muna",
+          "'Qebene beselam webet''ina",
+          "Ts'eheye rama brhanomu lets'adqan",
+          "Hbste tedla zesrael mena",
+          "Betnbaleke sme henets'ke lene",
+          "Mahdere sbhet bete qdsna",
+          "Keme qdusan abew zeskndrya",
+          "Egbrte Sslus qdus weafomya",
+          "Besmke nweds behaleluya"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

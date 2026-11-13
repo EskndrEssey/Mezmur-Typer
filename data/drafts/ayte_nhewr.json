@@ -1,0 +1,99 @@
+{
+  "id": 421,
+  "title": "ኣይቴ ንሐውር",
+  "ti": {
+    "chorus": [
+      "ኣይቴኑ አሐውር እመንፈስከ ወአይቴ እጐይይ እምቅድመ ገጽከ",
+      "እመኒ ዐረጉ ውስተ ሰማይ ህየኒ አንተ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "አይቴ ነሐውር ወአይቴ ንጐይይ እምቅድመ ገጽከ",
+          "መነ ንሰምዕ ወመነ ናጸምዕ እንበለ ቃልከ",
+          "በድምፀ ነጐድጓድ ወበድምፀ ማዕበል",
+          "ኃይለከ ከሠትከ በግብርከ ልዑል"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "አባግዐ መርዔት በኃይል ገፋዕኩ",
+          "በቅትለቶሙ ለጻድቃን ሠመርኩ",
+          "ሳውል ተመየጥ ብህልከኒ ሊተ",
+          "ወበትእዛዝከ ኃይልከ ተከሥተ",
+          "በብሂሎትየ ኢይክሕደከ",
+          "አላ እመውት በስቃይ ምስሌከ",
+          "ኢተቈጥዐ ወኢተቀየመ",
+          "አመ ክሕድክዎ ሰምዓኒ ዳግመ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ሕይወተ ዚአነ ለደቀ ቤትከ",
+          "አመ ተሌለየ እምነ ፍቅርከ",
+          "እስመ ከመ ዓሣ ዘእንበለ ባሕር",
+          "አልብነ ሕይወት በሰማይ ወምድር"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "መስቀል መድኃኒትና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Aytenu ehewr menfeske weeyte gwayy mqdme gets'ke",
+      "Meni 'eregu wste semay hyeni ente"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Eyte nehewr weeyte ngwayy mqdme gets'ke",
+          "Mene nsem' wemene nats'em' nbele qalke",
+          "Bedmts'e negwadgwad webedmts'e ma'bel",
+          "Hayleke kessetke begbrke l'ul"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ebag'e mer'et behayl gefa'ku",
+          "Beqtletomu lets'adqan Ssemerku",
+          "Sawl temeyet' bhlkeni lite",
+          "Webetzazke haylke tekesste",
+          "Bebhilotye iykhdeke",
+          "Ela mewt besqay msleke",
+          "Iteqwat''e weiteqeyeme",
+          "Eme khdkwo sem'ani dagme"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Hywete ziene ledeqe betke",
+          "Eme teleleye mne fqrke",
+          "Sme keme 'assa zenbele bahr",
+          "Elbne hywet besemay wemdr"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Mesqel medhanitna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

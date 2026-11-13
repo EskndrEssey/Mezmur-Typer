@@ -1,0 +1,87 @@
+{
+  "id": 176,
+  "title": "ትርጕም ምንባረይ",
+  "ti": {
+    "chorus": [
+      "ኣሎ’ንድ’ዩ ንሱ ኣብ መንበሩ ብንግሥነቱ",
+      "ማንም ዘይቀርቦ ነበልባሉ እሳተ መለኮቱ",
+      "‘ዚዅሉ ልሳን ልሳን ምስጋና: ዝነውነወ ልበይ፡",
+      "ትርጕም ምንባረይ እንድዩ ነይሩ: ናይ’ዚ ኽብሪ ህያበይ",
+      "ኪሩቤል ሱራፌል ሥልጣናት ደቂ ኤል",
+      "ከምኡ’ውን  ኣብ ምድሪ በሉ ምስ ደቂ ሰባት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንነፍሱ ኣሕሲኡ ነፍስና ከፍቅር",
+          "ጐይታ እንተ ፈተወ ኣብ መብልዕ ማል ክሓድር",
+          "ድምቀት ጸርጊ ብርሃን ኮኾብ ቤተልሔም",
+          "ሕያው ምስክር’ዩ ክብሩ ነዛ ዓለም",
+          "ሃሌ  ሃሌሉያ  በሉ ዕልል በሉሉ",
+          "ሃሌ  ሃሌሉያ  በሉ ዘምሩሉ",
+          "ስቕታ ውሒጥዎ ምስ ሓንገደ ልቢ",
+          "ኣእማን ቢታንያ’ሎ ሕያው ተዛራቢ",
+          "ክበሃል ሰሚዐ ምስ ተረትዐ ልበይ",
+          "ከመይ ዘይድርጕሖ ናይ ምስጋና ቃለይ",
+          "ብጊዜ ንእስነትና ምድሪ ከይመሰየ",
+          "ሆሣዕና  ንበለሉ  ብቖጽሊ   ስየ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ማኅሌት ሊቃውንቲ ያሬዳዊ ልሳን",
+          "ጠጠው’ኮ  ኣይበለን  ቅኔ መዘምራን",
+          "ዜማታት ተቓንዩ ብሓባር ክዝመም",
+          "መንኮን’ዩ ናፊቑ ናብ ቤቱ ዘይስጉም",
+          "ቅዱስ ቅዱስ ቅዱስ በሉ ንዑ ኣመስግንዎ",
+          "ቅዱስ ቅዱስ ቅዱስ በሉ ኣምልኽዎ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Alo’nd’yu nsu ab menberu bngssnetu",
+      "Manm zeyqerbo nebelbalu sate melekotu",
+      "‘Zikhwlu lsan lsan msgana: znewnewe lbey፡",
+      "Trgwm mnbarey ndyu neyru: nay’zi khbri hyabey",
+      "Kirubel surafel Sslt'anat deqi el",
+      "Kemu’wn  ab mdri belu ms deqi sebat"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nnefsu ahsiu nefsna kefqr",
+          "Gwayta nte fetewe ab mebl' mal khadr",
+          "Dmqet ts'ergi brhan kokhob betelhem",
+          "Hyaw mskr’yu kbru neza 'alem",
+          "Hale  haleluya  belu 'll belulu",
+          "Hale  haleluya  belu zemrulu",
+          "Sqta whit'wo ms hangede lbi",
+          "Aman bitanya’lo hyaw tezarabi",
+          "Kbehal semi'e ms teret'e lbey",
+          "Kemey zeydrgwho nay msgana qaley",
+          "Bgize nsnetna mdri keymeseye",
+          "Hossa'na  nbelelu  bqots'li   sye"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mahlet liqawnti yaredawi lsan",
+          "T'et'ew’ko  aybelen  qne mezemran",
+          "Zematat teqanyu bhabar kzmem",
+          "Menkon’yu nafiqu nab betu zeysgum",
+          "Qdus qdus qdus belu n'u amesgnwo",
+          "Qdus qdus qdus belu amlkhwo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

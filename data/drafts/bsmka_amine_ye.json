@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_69344895a7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብስምካ ኣሚነ’የ"
+  "id": 132,
+  "title": "ብስምካ ኣሚነ’የ",
+  "ti": {
+    "chorus": [
+      "ብስምካ ኣሚነ እየ ኣይትግደፈኒ",
+      "ናብ ዘሳድድ ጸላኢ ኣይትሃበኒ",
+      "ሕያዋይ ናተይ ጐይታ ሰላም ዕረፍተይ",
+      "ንጉዕዞይ ኣቕንዓለይ ቅድመይ ኩነለይ",
+      "በለስ `ተዘየፍረየ ዘይቲ`ውን ኣይሃሉ",
+      "ግን ምሳኻ ሕሊናይ ሙሉእ ሰላም`ዩ",
+      "ብበረኸት ኣቦታት ዝባረኽካኒ",
+      "ንእስራኤል ዘድሓንካዮም ክበረለይ",
+      "ዘልዓለም ተመስገን ልዕል በለለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ፈተና መውጽኢ መልሰይ ንስኻ",
+          "ንጸልማት ተስግረኒ ኵሉ ከፊትካ",
+          "ብምሕረትካ ይነብር ንብዙሕ ዘመን",
+          "ጸዊዑ መን ሓፊሩ ብኣኻ ዝኣምን",
+          "ከይሞተ ይነብር ብኣኻ ዝኣምን",
+          "ይቕሬታኻን ምሕረትካን ይመርሓኒ",
+          "ዓቐብን ዕንቅፋትን ከየድክመኒ",
+          "ብጽድቂ ሓሴት ሰላም እርከብ ብኣኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ጽገሬዳ ጥላሁን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብስምካ ኣሚነ’የ",
-      "zemari": "ዘማሪት ጽገሬዳ ጥላሁን",
-      "lyrics": "[[chorus]]\nበለስ `ተዘየፍረየ ዘይቲ`ውን ኣይሃሉ\nግን ምሳኻ ሕሊናይ ሙሉእ ሰላም`ዩ\nብበረኸት ኣቦታት ዝባረኽካኒ\nንእስራኤል ዘድሓንካዮም ክበረለይ\nዘልዓለም ተመስገን ልዕል በለለይ\n[[/chorus]]\n\nብስምካ ኣሚነ እየ ኣይትግደፈኒ\nናብ ዘሳድድ ጸላኢ ኣይትሃበኒ\nሕያዋይ ናተይ ጐይታ ሰላም ዕረፍተይ\nንጉዕዞይ ኣቕንዓለይ ቅድመይ ኩነለይ\n\nካብ ፈተና መውጽኢ መልሰይ ንስኻ\nንጸልማት ተስግረኒ ኵሉ ከፊትካ\nብምሕረትካ ይነብር ንብዙሕ ዘመን\nጸዊዑ መን ሓፊሩ ብኣኻ ዝኣምን\nከይሞተ ይነብር ብኣኻ ዝኣምን"
-    },
-    "ti_ro": {
-      "title": "Bsmka amine’ye",
-      "zemari": "zemarit Tsgereda Tlahun",
-      "lyrics": "Bsmka amine ye aytgdefeni\nNab zesadd tselai aythabeni\nHyaway natey goyta selam reftey\nNguzoy aqnaley qdmey kuneley\nBeles `tezeyefreye zeyti`wn ayhalu\nGn msakha hlinay mulu selam`yu\nBberekhet abotat zbarekhkani\nNsrael zedhankayom kbereley\nZelalem temesgen ll beleley\nKab fetena mewtsi melsey nskha\nNtselmat tesgreni kwilu kefitka\nBmhretka ynebr nbzuh zemen\nTsewiu men hafiru bakha zamn\nKeymote ynebr bakha zamn\nYqretakhan mhretkan ymerhani\nAqebn nqfatn keyedkmeni\nBtsdqi haset selam rkeb bakha\nBkhyat tkaze yakl nazzeni ikha\nFtsum zeywda’yu amlakhey wletka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bsmka amine ye aytgdefeni",
+      "Nab zesadd ts'elai aythabeni",
+      "Hyaway natey gwayta selam 'reftey",
+      "Ngu'zoy aqn'aley qdmey kuneley",
+      "Beles `tezeyefreye zeyti`wn ayhalu",
+      "Gn msakha hlinay mulu selam`yu",
+      "Bberekhet abotat zbarekhkani",
+      "Nsrael zedhankayom kbereley",
+      "Zel'alem temesgen l'l beleley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab fetena mewts'i melsey nskha",
+          "Nts'elmat tesgreni kwlu kefitka",
+          "Bmhretka ynebr nbzuh zemen",
+          "Ts'ewi'u men hafiru bakha zamn",
+          "Keymote ynebr bakha zamn",
+          "Yqretakhan mhretkan ymerhani",
+          "'Aqebn 'nqfatn keyedkmeni",
+          "Bts'dqi haset selam rkeb bakha"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_26da58f27b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምሕረቱ"
+  "id": 83,
+  "title": "ምሕረቱ",
+  "ti": {
+    "chorus": [
+      "ምሕረቱ ንዘለዓለም እዩ’ሞ",
+      "እግዚአብሔር ይመስገን (2)",
+      "ምሕረቱ ንኣዕይንተይ ካብ ንብዓት ካብ ሓዘን ፈልዩ",
+      "ምሕረቱ ኣብ ኵሉ ዘመነይ የጽንዓኒ እዩ",
+      "ምሕረቱ ብቑጽሪ ብዙሕ’ዩ ኣእምሮዘይሓስቦ",
+      "ምሕረቱ ዘመን ዘይስዕሮ ዘለዓለማዊ ኣቦ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሕረቱ ኣብ ግደ ነገስታት ንዓይ ዕድል ሂቡ",
+          "ምሕረቱ ተኸናኺንኒ ሓቒፉ ሓብሒቡ",
+          "ምሕረቱ ንእሽተይ ጸሎተይ ምስ ብቑዕ ቆጺሩ",
+          "ምሕረቱ ኣእተወኒ ከንኣን ብፍቕሪ ሓንጒሩ",
+          "ካብ ማዕሙቕ ይስሕብ የድኅን ካብ ጥፍኣት",
+          "ኣብ ሞት ንዘለዉ ይኸውን ብስራት",
+          "ምሕረቱ ክሳብ እንስይብ ክሳብ እንኣርግ",
+          "ምሕረቱ ኣብ ኵሉ ዘመንና ንሱ ይረድኣና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪ ዳግማዊ ደርቤ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምሕረቱ",
-      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
-      "lyrics": "[[chorus]]\nምሕረቱ ንኣዕይንተይ ካብ ንብዓት ካብ ሓዘን ፈልዩ\nምሕረቱ ኣብ ኵሉ ዘመነይ የጽንዓኒ እዩ\nምሕረቱ ብቑጽሪ ብዙሕ’ዩ ኣእምሮዘይሓስቦ\nምሕረቱ ዘመን ዘይስዕሮ ዘለዓለማዊ ኣቦ\n[[/chorus]]\n\nምሕረቱ ንዘለዓለም እዩ’ሞ\nእግዚአብሔር ይመስገን (2)\n\nምሕረቱ ኣብ ግደ ነገስታት ንዓይ ዕድል ሂቡ\nምሕረቱ ተኸናኺንኒ ሓቒፉ ሓብሒቡ\nምሕረቱ ንእሽተይ ጸሎተይ ምስ ብቑዕ ቆጺሩ\nምሕረቱ ኣእተወኒ ከንኣን ብፍቕሪ ሓንጒሩ\n\nምሕረቱ ንፍታው ጸላእቲ መዓስ ገዲፉና\nምሕረቱ በደልና ደምሲሱ ደቁ ገበረና\nምሕረቱ ክሳብ እንስይብ ክሳብ እንኣርግ\nምሕረቱ ኣብ ኵሉ ዘመንና ንሱ ይረድኣና"
-    },
-    "ti_ro": {
-      "title": "Mhretu",
-      "zemari": "zemari dagmawi derbe",
-      "lyrics": "Mhretu nzelealem yu’mo\nGziabher ymesgen (2)\nMhretu nayntey kab nbat kab hazen felyu\nMhretu ab kwilu zemeney yetsnani yu\nMhretu bqutsri bzuh’yu amrozeyhasbo\nMhretu zemen zeysro zelealemawi abo\nMhretu ab gde negestat nay dl hibu\nMhretu tekhenakhinni haqifu habhibu\nMhretu nshtey tselotey ms bqu qotsiru\nMhretu ateweni kenan bfqri hanguru\nKab mamuq yshb yedhn kab tfat\nAb mot nzelewu ykhewn bsrat\nNkwimra nay hatiat kabana bmfras\nNwecho qedidu ndesta yelbs\nMhretu nftaw tselati meas gedifuna\nMhretu bedelna demsisu dequ geberena\nMhretu ksab nsyb ksab narg\nMhretu ab kwilu zemenna nsu yredana"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mhretu nzele'alem yu’mo",
+      "Gziebher ymesgen (2)",
+      "Mhretu na'yntey kab nb'at kab hazen felyu",
+      "Mhretu ab kwlu zemeney yets'n'ani yu",
+      "Mhretu bquts'ri bzuh’yu amrozeyhasbo",
+      "Mhretu zemen zeys'ro zele'alemawi abo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mhretu ab gde negestat n'ay 'dl hibu",
+          "Mhretu tekhenakhinni haqifu habhibu",
+          "Mhretu nshtey ts'elotey ms bqu' qots'iru",
+          "Mhretu ateweni kenan bfqri hangwiru",
+          "Kab ma'muq yshb yedhn kab t'fat",
+          "Ab mot nzelewu ykhewn bsrat",
+          "Mhretu ksab nsyb ksab narg",
+          "Mhretu ab kwlu zemenna nsu yredana"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

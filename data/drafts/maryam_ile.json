@@ -1,41 +1,85 @@
 {
-  "id": "h_efr_e41fbd15f5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ማርያም ኢለ"
+  "id": 66,
+  "title": "ማርያም ኢለ",
+  "ti": {
+    "chorus": [
+      "ማርያም ኢለ ክዝምር’የ",
+      "ከም ኣቦታተይ ክጽውዓ’የ",
+      "ብዜማ ያሬድ ብሓድሽ ምስጋና",
+      "ክዝምር’የ ምሉእ ዘመነይ",
+      "ማርያም ኢለ በዓል ቅኔ እንሆ ተዓጢቑ ፍጹም",
+      ">>     >>  መንፈስካ ይማርኽ ማሕሌት ክቕወም",
+      ">>     >>  ኣብቲ ማዕጠንተ ወርቅ ዓሪጉ ጸሎተይ",
+      ">>     >>  ብኣደ ኢየሱስ ብኣኺ ድንግለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ማርያም ኢለ መሊኡ መቕደሱ ናይ ክብሪ ደመና",
+          ">>     >>  ድንግል ናትኪ ምልጃ ናብኡ ስሒቡና",
+          ">>     >>  ጸጋኺ ኣብ ቤተይ መሊኡ ፈሲሱ",
+          ">>     >>  ሓዘነይ ብኽያተይ ጠፊኡ ሓሲሱ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ማርያም ኢለ ፈጺሙ ፈሪሱ ዕርዲ ጸላእየይ",
+          ">>     >>  ብመስቀል ተደርዘ ንብዓት ናይ ኣዒንተይ",
+          ">>     >>  ኣይፈርሕን ኣነስ ኣላትኒ ዋልታ",
+          ">>     >>  ቁስለይ እትፍውስ ጸላኢ መኪታ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዲ/ን እንዳልካቸው ዳኘው"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሃዋዝ ተገኘ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ማርያም ኢለ",
-      "zemari": "ዲ/ን ሃዋዝ ተገኘ",
-      "lyrics": "[[chorus]]\nማርያም ኢለ በዓል ቅኔ እንሆ ተዓጢቑ ፍጹም\nመንፈስካ ይማርኽ ማሕሌት ክቕወም\nኣብቲ ማዕጠንተ ወርቅ ዓሪጉ ጸሎተይ\nብኣደ ኢየሱስ ብኣኺ ድንግለይ\n[[/chorus]]\n\nማርያም ኢለ ክዝምር’የ\nከም ኣቦታተይ ክጽውዓ’የ\nብዜማ ያሬድ ብሓድሽ ምስጋና\nክዝምር’የ ምሉእ ዘመነይ\n\nማርያም ኢለ መሊኡ መቕደሱ ናይ ክብሪ ደመና\nድንግል ናትኪ ምልጃ ናብኡ ስሒቡና\nኮይንኪ ተረኺብኪ ካልአይቲ ሰማይ\nዝወለድኪ ጐይታ ናይ ጽድቅና ጸሓይ\n\nማርያም ኢለ ፈጺሙ ፈሪሱ ዕርዲ ጸላእየይ\nብመስቀል ተደርዘ ንብዓት ናይ ኣዒንተይ\nኣይፈርሕን ኣነስ ኣላትኒ ዋልታ\nቁስለይ እትፍውስ ጸላኢ መኪታ\nዲ/ን እንዳልካቸው ዳኘው"
-    },
-    "ti_ro": {
-      "title": "Maryam ile",
-      "zemari": "di/n hawaz tegenye",
-      "lyrics": "Maryam ile kzmr’ye\nKem abotatey ktswa’ye\nBzema yared bhadsh msgana\nKzmr’ye mlu zemeney\nMaryam ile beal qne nho teatiqu ftsum\nMenfeska ymarkh mahlet kqwem\nAbti matente werq arigu tselotey\nBade iyesus bakhi dngley\nMaryam ile meliu meqdesu nay kbri demena\nDngl natki mlja nabu shibuna\nKoynki terekhibki kalayti semay\nZweledki goyta nay tsdqna tsehay\nMaryam ile tsewia aydekmn smki’yu mear\nSeali lene kbl ktsw nebr\nTsegakhi ab betey meliu fesisu\nHazeney bkhyatey tefiu hasisu\nMaryam ile fetsimu ferisu rdi tselayey\nBmesqel tederze nbat nay aintey\nAyferhn anes alatni walta\nQusley tfws tselai mekita"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Maryam ile kzmr’ye",
+      "Kem abotatey kts'w'a’ye",
+      "Bzema yared bhadsh msgana",
+      "Kzmr’ye mlu zemeney",
+      "Maryam ile be'al qne nho te'at'iqu fts'um",
+      ">>     >>  Menfeska ymarkh mahlet kqwem",
+      ">>     >>  Abti ma't'ente werq 'arigu ts'elotey",
+      ">>     >>  Bade iyesus bakhi dngley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Maryam ile meliu meqdesu nay kbri demena",
+          ">>     >>  Dngl natki mlja nabu shibuna",
+          ">>     >>  Ts'egakhi ab betey meliu fesisu",
+          ">>     >>  Hazeney bkhyatey t'efiu hasisu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Maryam ile fets'imu ferisu 'rdi ts'elayey",
+          ">>     >>  Bmesqel tederze nb'at nay a'intey",
+          ">>     >>  Ayferhn anes alatni walta",
+          ">>     >>  Qusley tfws ts'elai mekita"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Di/n ndalkachew danyew"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

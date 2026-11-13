@@ -1,41 +1,38 @@
 {
-  "id": "h_efr_105dc2707b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዑራኤል’ዩ ዋልታ"
+  "id": 526,
+  "title": "ዑራኤል’ዩ ዋልታ",
+  "ti": {
+    "chorus": [
+      "ዑራኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፊየይ",
+      "ካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ",
+      "ንእዝራ ስቱኤል ዝተገለጽካ",
+      "ብጽዋዕ እሳት ጥበብ ዝሃብካ",
+      "ዝምክሓሉ ዘኽብሮ ኣነ",
+      "ዑራኤል`ዩ ምሳይ ዝቖመ",
+      "ብሕማም ደዌ ዝተታሓዝኩ",
+      "ሰላም ዘይብለይ ከርተት ዝበልኩ",
+      "ብዑራኤል እየ ዝተፈወስኩ",
+      "ኣመስግኑለይ ዕልል እናበልኩም"
+    ],
+    "verses": []
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዑራኤል’ዩ ዋልታ",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nንእዝራ ስቱኤል ዝተገለጽካ\nብጽዋዕ እሳት ጥበብ ዝሃብካ\nንዓይ ክትረድእ ዝተሸየምካ\nናይ ብርሃን መልኣኽ ዑራኤል ኢኻ\n[[/chorus]]\n\nዑራኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፊየይ\nካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ\n\nካብ ሕማም ደዌ ንኸድኅነኒ\nዑራኤል መጺኡ ክንፉ ኣርእዩኒ\nዝምክሓሉ ዘኽብሮ ኣነ\nዑራኤል`ዩ ምሳይ ዝቖመ"
-    },
-    "ti_ro": {
-      "title": "'Urael’yu walta",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "Urael’yu walta nay hywetey degafiyey\nKab mekera qeltifu zewtsa nhywetey\nNzra stuel ztegeletska\nBtswa sat tbeb zhabka\nNay ktred ztesheyemka\nNay brhan melakh urael ikha\nKab hmam dewe nkhedhneni\nUrael metsiu knfu aryuni\nZmkhalu zekhbro ane\nUrael`yu msay zqome\nBhmam dewe ztetahazku\nSelam zeybley kertet zbelku\nBurael ye ztefewesku\nAmesgnuley ll nabelkum"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "'Urael’yu walta nay hywetey degafiyey",
+      "Kab mekera qelt'ifu zewts'a nhywetey",
+      "Nzra stuel ztegelets'ka",
+      "Bts'wa' sat t'beb zhabka",
+      "Zmkhalu zekhbro ane",
+      "'Urael`yu msay zqome",
+      "Bhmam dewe ztetahazku",
+      "Selam zeybley kertet zbelku",
+      "B'urael ye ztefewesku",
+      "Amesgnuley 'll nabelkum"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

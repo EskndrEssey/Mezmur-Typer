@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_34b8bb5ba2",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እመ ብርሃን"
+  "id": 262,
+  "title": "እመ ብርሃን",
+  "ti": {
+    "chorus": [
+      "እመ ብርሃን ምርሕኒ መገዲ ቅድስና",
+      "ንኽተግህ ነፍሰይ ወትሩ ንምስጋና",
+      "ስፍራ ቅዱሳን ክኸውን እቲ ናተይ ርስተይ",
+      "ካብ ጎደና ኣበሳ ኣውጽእያ ነፍሰይ",
+      "ዕላማ ናይ ምፍጣረይ ነይሩ ንኸመስግን",
+      "ብናይ ጽድቂ ጎደና ንክመላለስ’ውን",
+      "ኣይከኣለትን ስጋይ ክትእዘዝ ንነፍሰይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕጂስ በርቲዑኒ’ሎ ናይ ኃጢአት ስቓይ",
+          "ጐይታይ ስለይ ምስቃሉ ብዕላማ ነይሩ",
+          "ሰላም ንኽህበኒ ጸላኢ ኣሲሩ",
+          "ውዕለት ስቕለት ቀራንዮ ከይሃስስ ካብ ልበይ",
+          "ስለይ ቁሚ ድንግለይ ክዓቢ ልቦናይ",
+          "ትእዛዛቱ እንከሎ ኣብ ውሽጢ ሕሊናይ",
+          "ትግሃተይ ተጸሪጉ ይሰዓር ብስጋይ",
+          "ምረት ሲኦል ክሓስብ እንተዝኽእል ንካልኢት",
+          "ምዓረፈ’ዶ ስጋይ ካብዚ ክፉእ ትምኒት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "የለን ከማኺ ማርያም ጭንቀይ ዘካፍሎ",
+          "ዝኽርኺ በረኸት’ዩ ሰላም ንኣእምሮ",
+          "ተስፋ ጉዕዞ ሕይወተይ ድንግል ተለመኒ",
+          "ስምኪ ጥዑም መዓዛ ስንቂ ይኹነኒ"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እመ ብርሃን",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nዕላማ ናይ ምፍጣረይ ነይሩ ንኸመስግን\nብናይ ጽድቂ ጎደና ንክመላለስ’ውን\nኣይከኣለትን ስጋይ ክትእዘዝ ንነፍሰይ\nሕጂስ በርቲዑኒ’ሎ ናይ ኃጢአት ስቓይ\n[[/chorus]]\n\nእመ ብርሃን ምርሕኒ መገዲ ቅድስና\nንኽተግህ ነፍሰይ ወትሩ ንምስጋና\nስፍራ ቅዱሳን ክኸውን እቲ ናተይ ርስተይ\nካብ ጎደና ኣበሳ ኣውጽእያ ነፍሰይ\n\nጐይታይ ስለይ ምስቃሉ ብዕላማ ነይሩ\nሰላም ንኽህበኒ ጸላኢ ኣሲሩ\nውዕለት ስቕለት ቀራንዮ ከይሃስስ ካብ ልበይ\nስለይ ቁሚ ድንግለይ ክዓቢ ልቦናይ\n\nየለን ከማኺ ማርያም ጭንቀይ ዘካፍሎ\nዝኽርኺ በረኸት’ዩ ሰላም ንኣእምሮ\nተስፋ ጉዕዞ ሕይወተይ ድንግል ተለመኒ\nስምኪ ጥዑም መዓዛ ስንቂ ይኹነኒ"
-    },
-    "ti_ro": {
-      "title": "'Me brhan",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Me brhan mrhni megedi qdsna\nNkhtegh nefsey wetru nmsgana\nSfra qdusan kkhewn ti natey rstey\nKab godena abesa awtsya nefsey\nLama nay mftarey neyru nkhemesgn\nBnay tsdqi godena nkmelales’wn\nAykealetn sgay ktzez nnefsey\nHjis bertiuni’lo nay hatiat sqay\nGoytay sley msqalu blama neyru\nSelam nkhhbeni tselai asiru\nWlet sqlet qeranyo keyhass kab lbey\nSley qumi dngley kabi lbonay\nTzazatu nkelo ab wshti hlinay\nTghatey tetserigu ysear bsgay\nMret siol khasb ntezkhl nkalit\nMarefe’do sgay kabzi kfu tmnit\nYelen kemakhi maryam chnqey zekaflo\nZkhrkhi berekhet’yu selam namro\nTesfa guzo hywetey dngl telemeni\nSmki tum meaza snqi ykhuneni"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Me brhan mrhni megedi qdsna",
+      "Nkhtegh nefsey wetru nmsgana",
+      "Sfra qdusan kkhewn ti natey rstey",
+      "Kab godena abesa awts'ya nefsey",
+      "'Lama nay mft'arey neyru nkhemesgn",
+      "Bnay ts'dqi godena nkmelales’wn",
+      "Aykealetn sgay ktzez nnefsey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hjis berti'uni’lo nay hat'iet sqay",
+          "Gwaytay sley msqalu b'lama neyru",
+          "Selam nkhhbeni ts'elai asiru",
+          "W'let sqlet qeranyo keyhass kab lbey",
+          "Sley qumi dngley k'abi lbonay",
+          "Tzazatu nkelo ab wsht'i hlinay",
+          "Tghatey tets'erigu yse'ar bsgay",
+          "Mret siol khasb ntezkhl nkalit",
+          "M'arefe’do sgay kabzi kfu tmnit"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Yelen kemakhi maryam ch'nqey zekaflo",
+          "Zkhrkhi berekhet’yu selam namro",
+          "Tesfa gu'zo hywetey dngl telemeni",
+          "Smki t''um me'aza snqi ykhuneni"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

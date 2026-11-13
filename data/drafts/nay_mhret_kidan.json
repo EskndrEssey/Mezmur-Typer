@@ -1,41 +1,99 @@
 {
-  "id": "h_efr_bb93cd1bb6",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናይ ምሕረት ኪዳን"
+  "id": 297,
+  "title": "ናይ ምሕረት ኪዳን",
+  "ti": {
+    "chorus": [
+      "ንስኺ ኢኺ ናይ ምሕረት ኪዳን",
+      "ኣደ አምላክ ኣንቀጸ ብርሃን",
+      "ተስፋ ኣዳም ንድኅነት ሰገማ",
+      "ድንግል ማርያም ጸጋዊተ ግርማ",
+      "ናይ ዳዊት ዝማሬ በውታራት ዝቃነ",
+      "ንሰማእታት ፍረ ንዓና ዘድሓነ",
+      "ክእለት ሓጺሩና ንዓኺ ክንውድስ",
+      "ኤልሻዳይ’ዩ ባዕሉ ማሕደሩ ዝቕድስ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትንቢት ናይ ኤፍራታ ወሪስክዮ ስብሓት",
+          "ሪመ እግዚአብሔር ኣይሰፍሮንዩ ምትሓት (2)",
+          "ጠቢብ ሰሎሞን ክሰምየኪ ጋማ",
+          "ዘይነጽፍ መኣዛኺ ሃያብ መሬት ጻማ",
+          "ንሕና’ውን ክንስዕቦ ነቲ ሰናይ ጉዕዞ",
+          "ምንባርና ክርሁ ሰላምኪ ክዓዞ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኪዳን ምሕረትኪ ፈንውልና ማርያም",
+          "ባህታ’ውን ክንረክብ ከም ኣቦና ኣዳም (2)",
+          "ልሳን ቅዱስ ኤፍሬም ብጥዑም ላዛኡ",
+          "ቃና ኣባ ሕርያቆስ የልዝብ ድርሳኑ",
+          "ህላዌ ሰሪትኪ ኣብ ሕሊና ጐይታ",
+          "ፈቲልካ ዘይውዳእ ኣሊምኪ ውሬታ",
+          "ደስታ ዓሲሉና ክንምካሕ ብኣኺ",
+          "ፍቓድኪ ይኹነልና ክንሓብር ምሳኺ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ውዕለትኪ ዘኪርና ክንስስን ኣመና",
+          "ብምብራቕ ናይ ጸሓይ ነመስግን ኩልና(2)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናይ ምሕረት ኪዳን",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nናይ ዳዊት ዝማሬ በውታራት ዝቃነ\nንሰማእታት ፍረ ንዓና ዘድሓነ\nክእለት ሓጺሩና ንዓኺ ክንውድስ\nኤልሻዳይ’ዩ ባዕሉ ማሕደሩ ዝቕድስ\n[[/chorus]]\n\nንስኺ ኢኺ ናይ ምሕረት ኪዳን\nኣደ አምላክ ኣንቀጸ ብርሃን\nተስፋ ኣዳም ንድኅነት ሰገማ\nድንግል ማርያም ጸጋዊተ ግርማ\n\nትንቢት ናይ ኤፍራታ ወሪስክዮ ስብሓት\nሪመ እግዚአብሔር ኣይሰፍሮንዩ ምትሓት (2)\n\nኪዳን ምሕረትኪ ፈንውልና ማርያም\nባህታ’ውን ክንረክብ ከም ኣቦና ኣዳም (2)\n\nበዴና ሔዋን ተዓጽዩና ገነት\nብሳላኺ ግና ተሳዒሩ ውግዘት (2)\n\nውዕለትኪ ዘኪርና ክንስስን ኣመና\nብምብራቕ ናይ ጸሓይ ነመስግን ኩልና(2)"
-    },
-    "ti_ro": {
-      "title": "Nay mhret kidan",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "Nskhi ikhi nay mhret kidan\nAde amlak anqetse brhan\nTesfa adam ndhnet segema\nDngl maryam tsegawite grma\nNay dawit zmare bewtarat zqane\nNsematat fre nana zedhane\nKlet hatsiruna nakhi knwds\nElshaday’yu balu mahderu zqds\nTnbit nay efrata weriskyo sbhat\nRime gziabher aysefronyu mthat (2)\nTebib selomon ksemyeki gama\nZeynetsf meazakhi hayab meret tsama\nNhna’wn knsbo neti senay guzo\nMnbarna krhu selamki kazo\nKidan mhretki fenwlna maryam\nBahta’wn knrekb kem abona adam (2)\nLsan qdus efrem btum lazau\nQana aba hryaqos yelzb drsanu\nHlawe seritki ab hlina goyta\nFetilka zeywda alimki wreta\nBedena hewan teatsyuna genet\nBsalakhi gna tesairu wgzet (2)\nSmki kenello bdehay mblta\nAsbi nay tahgwasna knchrh llta\nDesta asiluna knmkah bakhi\nFqadki ykhunelna knhabr msakhi\nWletki zekirna knssn amena\nBmbraq nay tsehay nemesgn kulna(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nskhi ikhi nay mhret kidan",
+      "Ade emlak anqets'e brhan",
+      "Tesfa adam ndhnet segema",
+      "Dngl maryam ts'egawite grma",
+      "Nay dawit zmare bewtarat zqane",
+      "Nsematat fre n'ana zedhane",
+      "Klet hats'iruna n'akhi knwds",
+      "Elshaday’yu ba'lu mahderu zqds"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tnbit nay efrata weriskyo sbhat",
+          "Rime gziebher aysefronyu mthat (2)",
+          "T'ebib selomon ksemyeki gama",
+          "Zeynets'f meazakhi hayab meret ts'ama",
+          "Nhna’wn kns'bo neti senay gu'zo",
+          "Mnbarna krhu selamki k'azo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kidan mhretki fenwlna maryam",
+          "Bahta’wn knrekb kem abona adam (2)",
+          "Lsan qdus efrem bt''um lazau",
+          "Qana aba hryaqos yelzb drsanu",
+          "Hlawe seritki ab hlina gwayta",
+          "Fetilka zeywda alimki wreta",
+          "Desta 'asiluna knmkah bakhi",
+          "Fqadki ykhunelna knhabr msakhi"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "W'letki zekirna knssn amena",
+          "Bmbraq nay ts'ehay nemesgn kulna(2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

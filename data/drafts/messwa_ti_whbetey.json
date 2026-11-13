@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_de4143d9b7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መሥዋዕቲ ውህበተይ"
+  "id": 178,
+  "title": "መሥዋዕቲ ውህበተይ",
+  "ti": {
+    "chorus": [
+      "መሥዋዕቲ ውህበተይ ምስጋና ካብ ኮነ",
+      "ብበገና፥ ብኸበሮ፥ ብጸናጽል ተወሲነ",
+      "ክዝምረልካየ ብሓድሽ ቅኔ(2)",
+      "ሰንከልከል ክብል ብፈተና ዓለም",
+      "ደጋፊ ዘይብለይ ኣብቲ ድቕድቕ ጸላም",
+      "ቀንዴል ፍኖተይ ኴንካ ጸልማተይ ጋሊህካዮ",
+      "መሪሕካስ ኣእቲኻኒ ቤትካ ንኽርእዮ",
+      "ብልግሲ ፍቕርኻ ጸጋ ተዓዲለ’የ  ባርያኻ",
+      "ብክቡር ደምካስ ጐይታይ ነፍሰይ ቀዲስካዮ",
+      "ኤልሻዳይ ንጉሥ ርትዒ ሰላመይ መሊስካዮ ‘"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብጕዕዞ ቃዴስ ረመጽ ምድረ በዳ",
+          "ሰሪ ጽምኢ ጽድቂ ኣብራኽ ክቕየዳ",
+          "ኣድኃነኒ ግን ጐይታይ ብተበጃውነቱ",
+          "እንሆ’ኳ አመስግን ከዘንቱ ውዕለቱ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትዕዝብቲ ልበይ ናይ ትማል ፍጻመ",
+          "ብፁዕ እንክበሃል ብእምነት ተኃቲመ",
+          "ብሞት ንጹሕ ገንሸል ሓጐስ ተደሪረ",
+          "ብርሃኑ’ኳ ወሊዐስ ከመስግን ሓዲረ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መሥዋዕቲ ውህበተይ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nሰንከልከል ክብል ብፈተና ዓለም\nደጋፊ ዘይብለይ ኣብቲ ድቕድቕ ጸላም\nቀንዴል ፍኖተይ ኴንካ ጸልማተይ ጋሊህካዮ\nመሪሕካስ ኣእቲኻኒ ቤትካ ንኽርእዮ\nብልግሲ ፍቕርኻ ጸጋ ተዓዲለ’የ ባርያኻ\nብክቡር ደምካስ ጐይታይ ነፍሰይ ቀዲስካዮ\nኤልሻዳይ ንጉሥ ርትዒ ሰላመይ መሊስካዮ ‘\n[[/chorus]]\n\nመሥዋዕቲ ውህበተይ ምስጋና ካብ ኮነ\nብበገና፥ ብኸበሮ፥ ብጸናጽል ተወሲነ\nክዝምረልካየ ብሓድሽ ቅኔ(2)\n\nብጕዕዞ ቃዴስ ረመጽ ምድረ በዳ\nሰሪ ጽምኢ ጽድቂ ኣብራኽ ክቕየዳ\nብሰርቢ ደመናኻ ምሕረትካ ክዝክሮ\nሓቒቕ ማይ ኣስቲኻኒ ጠሊለ’ኳ ድሮ\n\nትዕዝብቲ ልበይ ናይ ትማል ፍጻመ\nብፁዕ እንክበሃል ብእምነት ተኃቲመ\nብሞት ንጹሕ ገንሸል ሓጐስ ተደሪረ\nብርሃኑ’ኳ ወሊዐስ ከመስግን ሓዲረ"
-    },
-    "ti_ro": {
-      "title": "MeSswa'ti whbetey",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Messwati whbetey msgana kab kone\nBbegena: bkhebero: btsenatsl tewesine\nKzmrelkaye bhadsh qne(2)\nSenkelkel kbl bfetena alem\nDegafi zeybley abti dqdq tselam\nQendel fnotey kwenka tselmatey galihkayo\nMerihkas atikhani betka nkhryo\nBlgsi fqrkha tsega teadile’ye baryakha\nBkbur demkas goytay nefsey qediskayo\nElshaday nguss rti selamey meliskayo ‘\nBgwizo qades remets mdre beda\nSeri tsmi tsdqi abrakh kqyeda\nBserbi demenakha mhretka kzkro\nHaqiq may astikhani telile’kwa dro\nDne mot tselmat dkhamey mezmizu\nSeytan kibhteni menfesey berizu\nAdhaneni gn goytay btebejawnetu\nNho’kwa amesgn kezentu wletu\nTzbti lbey nay tmal ftsame\nBtsu nkbehal bmnet tehatime\nBmot ntsuh genshel hagos tederire\nBrhanu’kwa welias kemesgn hadire"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Messwa'ti whbetey msgana kab kone",
+      "Bbegena: bkhebero: bts'enats'l tewesine",
+      "Kzmrelkaye bhadsh qne(2)",
+      "Senkelkel kbl bfetena 'alem",
+      "Degafi zeybley abti dqdq ts'elam",
+      "Qendel fnotey kwenka ts'elmatey galihkayo",
+      "Merihkas atikhani betka nkhryo",
+      "Blgsi fqrkha ts'ega te'adile’ye  baryakha",
+      "Bkbur demkas gwaytay nefsey qediskayo",
+      "Elshaday nguss rt'i selamey meliskayo ‘"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bgw'zo qades remets' mdre beda",
+          "Seri ts'mi ts'dqi abrakh kqyeda",
+          "Adhaneni gn gwaytay btebejawnetu",
+          "Nho’kwa emesgn kezentu w'letu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "T'zbti lbey nay tmal fts'ame",
+          "Bts'u' nkbehal bmnet tehatime",
+          "Bmot nts'uh genshel hagwas tederire",
+          "Brhanu’kwa weli'es kemesgn hadire"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

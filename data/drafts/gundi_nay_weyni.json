@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_a892c749b8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ጉንዲ ናይ ወይኒ"
+  "id": 358,
+  "title": "ጉንዲ ናይ ወይኒ",
+  "ti": {
+    "chorus": [
+      "ጉንዲ ናይ ወይኒ መስተ ናይ ሕይወት",
+      "መገዲ ሓቂ ጐይታ ናይ ጎይቶት",
+      "ኣባኻ ምንባር መድኃኔ ዓለም",
+      "ብሥጋ ብነፍሲ ኣለዎ ሰላም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንስኻ ዋናይ ኣይናወጽን",
+          "ተኹላ እንተመጸ ኣይፈርሕን",
+          "ስለ ዝፈልጥ ከምተፍቅረኒ",
+          "ኣይፈርሕን'የ ከይትገድፈኒ/2/",
+          "ጽልግልግ ይኹን ይበርትዕ ጸልማት",
+          "ባሕሪ ይናወጽ ይንደድ'ቲ እሳት",
+          "ካብ መን ክፈርሕ ኣይሰግእን",
+          "ወላዲ ናተይ ኣይታኸስን /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብጾር ናይ ዓለም እትሳቐዩ",
+          "ንዑ ኣዕርፉ ቃሉ ስተዩ",
+          "ጾርኩም ሃብዎ ክሽከመልኩም",
+          "ኣይትጨነቑ ምስኡ ይሕሸኩም/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ጉንዲ ናይ ወይኒ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nስጋኡ ዝበልዕ የብሉን ጥሜት\nደሙ ዝሰቲ የብሉን ጽምኣት\nኣባኻ ምንባር መድኃኔ ዓለም\nብሥጋ ብነፍሲ ኣለዎ ሰላም (2)\n[[/chorus]]\n\nጉንዲ ናይ ወይኒ መስተ ናይ ሕይወት\nመገዲ ሓቂ ጐይታ ናይ ጎይቶት\nሕያዋይ ጓሳ ኤልሻዳይ ኢኻ\nክዝምር እየ ኣነስ ንዓኻ\n\nንስኻ ዋናይ ኣይናወጽን\nተኹላ እንተመጸ ኣይፈርሕን\nስለ ዝፈልጥ ከምተፍቅረኒ\nኣይፈርሕን'የ ከይትገድፈኒ(2)\n\nብጾር ናይ ዓለም እትሳቐዩ\nንዑ ኣዕርፉ ቃሉ ስተዩ\nጾርኩም ሃብዎ ክሽከመልኩም\nኣይትጨነቑ ምስኡ ይሕሸኩም(2)"
-    },
-    "ti_ro": {
-      "title": "Gundi nay weyni",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nBssga bnefsi alewo selam (2)\n[[/chorus]]\n\nGundi nay weyni meste nay hywet\nMegedi haqi goyta nay goytot\nHyaway gwasa elshaday ikha\nKzmr ye anes nakha\nSgau zbel yeblun tmet\nDemu zseti yeblun tsmat\nAbakha mnbar medhane alem\nNskha wanay aynawetsn\nTekhula ntemetse ayferhn\nSle zfelt kemtefqreni\nAyferhn'ye keytgedfeni(2)\nTslglg ykhun ybert tselmat\nBahri ynawets ynded'ti sat\nKab men kferh aysegn\nWeladi natey aytakhesn (2)\nBtsor nay alem tsaqeyu\nNu arfu qalu steyu\nTsorkum habwo kshkemelkum\nAytchenequ msu yhshekum(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gundi nay weyni meste nay hywet",
+      "Megedi haqi gwayta nay goytot",
+      "Abakha mnbar medhane 'alem",
+      "Bssga bnefsi alewo selam /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nskha wanay aynawets'n",
+          "Tekhula ntemets'e ayferhn",
+          "Sle zfelt' kemtefqreni",
+          "Ayferhn'ye keytgedfeni/2/",
+          "Ts'lglg ykhun ybert' ts'elmat",
+          "Bahri ynawets' ynded'ti sat",
+          "Kab men kferh aysegn",
+          "Weladi natey aytakhesn /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bts'or nay 'alem tsaqeyu",
+          "N'u a'rfu qalu steyu",
+          "Ts'orkum habwo kshkemelkum",
+          "Aytch'enequ msu yhshekum/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

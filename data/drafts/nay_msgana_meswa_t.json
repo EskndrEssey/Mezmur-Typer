@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_c5b9b61030",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናይ ምስጋና መስዋዕት"
+  "id": 373,
+  "title": "ናይ ምስጋና መስዋዕት",
+  "ti": {
+    "chorus": [
+      "ናይ ምስጋና መስዋዕት ማኅሌት ውዳሴ",
+      "ይግባእ ንኽብሩ ንቅድስት ሥላሴ /2/",
+      "ንሰብ ዝፈጠረ ብኣምሳሉ ጌሩ",
+      "ስጋ ዘዳለወ ኣዕጽምቲ ሰዂዑ",
+      "ንዝፈጠረና ብከሃልነቱ",
+      "ክንዝምር ኢና ስለ ጐይትነቱ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሰማይ ዝሰርሐ ብዓቢይ ጥበቡ",
+          "ምድሪ ዝዘርግሐ ብቕዱስ ሓሳቡ",
+          "ቤቱ እንክዕጠን መፍርሕ ሕልፍኝኡ",
+          "መላእኽቲ ዘመሩ ቅኔ እናቃነዩ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓዊ ኣዳራሹ ማይ እዩ ጠፈሩ",
+          "ምድሪ መርገጽ እግሩ ሰማይ እዩ መንበሩ",
+          "ክቕደስ ይነብር ብሰማይ መንበሩ",
+          "ውዳሴ ዝማሬ ይግባእ ንኽብሩ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናይ ምስጋና መስዋዕት",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nንሰብ ዝፈጠረ ብኣምሳሉ ጌሩ\nስጋ ዘዳለወ ኣዕጽምቲ ሰዂዑ\nንዝፈጠረና ብከሃልነቱ\nክንዝምር ኢና ስለ ጐይትነቱ (2)\n[[/chorus]]\n\nናይ ምስጋና መስዋዕት ማኅሌት ውዳሴ\nይግባእ ንኽብሩ ንቅድስት ሥላሴ (2)\n\nንሰማይ ዝሰርሐ ብዓቢይ ጥበቡ\nምድሪ ዝዘርግሐ ብቕዱስ ሓሳቡ\nክምለኽ ይነብር ንሱ ብፍጥረቱ\nሰላም ዝመልኦ’ዩ ዘለዓለም መንግስቱ (2)\n\nሓዊ ኣዳራሹ ማይ እዩ ጠፈሩ\nምድሪ መርገጽ እግሩ ሰማይ እዩ መንበሩ\nክቕደስ ይነብር ብሰማይ መንበሩ\nውዳሴ ዝማሬ ይግባእ ንኽብሩ (2)"
-    },
-    "ti_ro": {
-      "title": "Nay msgana meswa't",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nYgba nkhbru nqdst sslase (2)\n[[/chorus]]\n\nNay msgana meswat mahlet wdase\nNseb zfetere bamsalu geru\nSga zedalewe atsmti sekwiu\nNzfeterena bkehalnetu\nKnzmr ina sle goytnetu (2)\nNsemay zserha babiy tbebu\nMdri zzergha bqdus hasabu\nKmlekh ynebr nsu bftretu\nSelam zmelo’yu zelealem mengstu (2)\nAynti kirubel zmelo menberu\nMena hizom alewu surafel nkhbru\nBetu nkten mefrh hlfnyu\nMelakhti zemeru qne naqaneyu (2)\nHawi adarashu may yu teferu\nMdri mergets gru semay yu menberu\nKqdes ynebr bsemay menberu\nWdase zmare ygba nkhbru (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nay msgana meswa't mahlet wdase",
+      "Ygba nkhbru nqdst Sslase /2/",
+      "Nseb zfet'ere bamsalu geru",
+      "Sga zedalewe a'ts'mti sekhwi'u",
+      "Nzfet'erena bkehalnetu",
+      "Knzmr ina sle gwaytnetu /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nsemay zserhe b'abiy t'bebu",
+          "Mdri zzerghe bqdus hasabu",
+          "Betu nk't'en mefrh hlfnyu",
+          "Melakhti zemeru qne naqaneyu /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hawi adarashu may yu t'eferu",
+          "Mdri mergets' gru semay yu menberu",
+          "Kqdes ynebr bsemay menberu",
+          "Wdase zmare ygba nkhbru /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

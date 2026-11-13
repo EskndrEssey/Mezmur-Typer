@@ -1,44 +1,147 @@
 {
-  "id": "h_efr_28ec7214f9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በገና ሓዙ"
+  "id": 92,
+  "title": "በገና ሓዙ",
+  "ti": {
+    "chorus": [
+      "ካብ ዓለም ሰማይ መላእክት ንዑ",
+      "ውሽጢ መቕደሱ ቁሙ ካህናቱ",
+      "ተመስገን በሉ ንእግዚአብሔር ምስጋና ኣቕርቡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ያሬድ ካብ ኣዕዋፍ ብዝሰምዖ ዜማ ተመስገን በሉ ንእግዚኣብሔር/2/",
+          "ከነቕርበሉ ፍረ ከናፍርና                >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትሕቲ ጽላሉ ስለ ዘዕረፈና              >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ንዘድሓነና ኣብ ጊዜ መከራና            >>    >>",
+          ">>",
+          "ነቶም ግፉዓት ንዝተሸገሩ  ተመስገን በሉ ንእግዚኣብሔር /2/",
+          "ዝማጎተሎም ኣቦ ድኻታት      >>    >>",
+          ">>",
+          "ነዝይመሉ ብከበሮ ጸናጽል      >>    >>",
+          ">>",
+          "ንዝረድኣና ዕልል (2) ንበል     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ሓቂ ዝፈቱ ምሕረት ዝሃበና    ተመስገን በሉ ንእግዚኣብሔር /2/",
+          "ሰናይ ገሩልና ዘልዓለም ንዓና       >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "ፍሉይ በልዎ ሓያል’ዩ ጐይታና     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "ከነቕርበሉ ንስሙ ምስጋና          >>    >>",
+          ">>",
+          "ኣብ ሰማይ መን’ዩ ዝወዳደረካ  ተመስገን በሉ ንእግዚኣብሔር/2/"
+        ]
+      },
+      {
+        "verse": 7,
+        "lines": [
+          "ኣምላኽ ኣማልኽት ጐይታ ጎይቶት ኢኻ  >>    >>    >>",
+          "ምድሪ ተንቀጥቅጥ ትዘምር ንኽብሩ     >>    >>    >>",
+          "ሰማይ’ውን ይርዓድ ይናወጽ ጠፈሩ     >>    >>",
+          ">>"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ቸርነት ሰናይ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በገና ሓዙ",
-      "zemari": "ዘማሪ ቸርነት ሰናይ",
-      "lyrics": "[[chorus]]\nበገና ሓዙ ከበሮ ውቕዑ\nካብ ዓለም ሰማይ መላእክት ንዑ\nውሽጢ መቕደሱ ቁሙ ካህናቱ\nተመስገን በሉ ንእግዚአብሔር ምስጋና ኣቕርቡ\n[[/chorus]]\n\nያሬድ ካብ ኣዕዋፍ ብዝሰምዖ ዜማ ተመስገን በሉ ንእግዚኣብሔር(2)\nከነቕርበሉ ፍረ ከናፍርና        >>\nትሕቲ ጽላሉ ስለ ዘዕረፈና       >>\nንዘድሓነና ኣብ ጊዜ መከራና      >>\n\nሓቂ ዝፈቱ ምሕረት ዝሃበና ተመስገን በሉ ንእግዚኣብሔር (2)\nሰናይ ገሩልና ዘልዓለም ንዓና   >>\nፍሉይ በልዎ ሓያል’ዩ ጐይታና >>\nከነቕርበሉ ንስሙ ምስጋና      >>"
-    },
-    "ti_ro": {
-      "title": "Begena hazu",
-      "zemari": "zemari chernet senay",
-      "lyrics": "Begena hazu kebero wqu\nKab alem semay melakt nu\nWshti meqdesu qumu kahnatu\nTemesgen belu ngziabher msgana aqrbu\nYared kab awaf bzsemo zema temesgen belu ngziabher(2)\nKeneqrbelu fre kenafrna\nThti tslalu sle zerefena\nNzedhanena ab gize mekerana\nNetom gfuat nzteshegeru temesgen belu ngziabher (2)\nZmagotelom abo dkhatat\nNezymelu bkebero tsenatsl\nNzredana ll (2) nbel\nHaqi zfetu mhret zhabena temesgen belu ngziabher (2)\nSenay gerulna zelalem nana\nFluy belwo hayal’yu goytana\nKeneqrbelu nsmu msgana\nAb semay men’yu zwedadereka temesgen belu ngziabher(2)\nAmlakh amalkht goyta goytot ikha\nMdri tenqetqt tzemr nkhbru\nSemay’wn yrad ynawets teferu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Kab 'alem semay melakt n'u",
+      "Wsht'i meqdesu qumu kahnatu",
+      "Temesgen belu ngziebher msgana aqrbu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Yared kab a'waf bzsem'o zema temesgen belu ngziabher/2/",
+          "Keneqrbelu fre kenafrna                >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Thti ts'lalu sle ze'refena              >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Nzedhanena ab gize mekerana            >>    >>",
+          ">>",
+          "Netom gfu'at nzteshegeru  temesgen belu ngziabher /2/",
+          "Zmagotelom abo dkhatat      >>    >>",
+          ">>",
+          "Nezymelu bkebero ts'enats'l      >>    >>",
+          ">>",
+          "Nzredana 'll (2) nbel     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Haqi zfetu mhret zhabena    temesgen belu ngziabher /2/",
+          "Senay gerulna zel'alem n'ana       >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "Fluy belwo hayal’yu gwaytana     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "Keneqrbelu nsmu msgana          >>    >>",
+          ">>",
+          "Ab semay men’yu zwedadereka  temesgen belu ngziabher/2/"
+        ]
+      },
+      {
+        "verse": 7,
+        "lines": [
+          "Amlakh amalkht gwayta goytot ikha  >>    >>    >>",
+          "Mdri tenqet'qt' tzemr nkhbru     >>    >>    >>",
+          "Semay’wn yr'ad ynawets' t'eferu     >>    >>",
+          ">>"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "repeat_markers"
+    "no_title_line_found"
   ]
 }

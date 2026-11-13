@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_9bf4bfdd22",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "የሩበዓል"
+  "id": 357,
+  "title": "የሩበዓል",
+  "ti": {
+    "chorus": [
+      "የሩበዓል ኮይኑ ስመይ /2/",
+      "ቀይርዎ ታሪኸይ ኣንጻር ሰይጣን'ዩ ዕላማይ /2/",
+      "ዝነኣስኩ ካብ ቤት ኣቦይ ኣምላኽ መሪጹኒ",
+      "ዝሓመቕኩ ካብ ነገደይ ኣምላኽ ኣኽቢሩኒ",
+      "ንጸላእተይ ከሰንፎም ጉልበተይ ኮይኑኒ",
+      "ብፈቓዱ ብስልጣኑ የሩበዓል ጌርዎ ስመይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ድምጺ ፍቕሩ ሰሚዐዮ ኣጸናኒዕኒ",
+          "ከምዘይመውት ብቓላቱ መጺኡ ነጊሩኒ",
+          "ናይ ኣምልኾ ናይ መስዋእቲ ንፍቕሩ ምስጋና",
+          "እግዚአብሔር ሰላመይ እዩ የሩበዓል ጌርዎ ስመይ",
+          "ናይ ጸላእተይ ቁጽሪ ይብዛሕ ብዘይ መጠን",
+          "ናተይ ጉልበት ኣምላኸይ እዩ ፍጹም ኣይፈርሕን",
+          "ሓዘን ይኹን ክሕጎስየ ስሙ ጥራይ ምእማን",
+          "ብኣምላኸይ ብእግዚእብሔር የሩበዓል ጌርዎ ስመይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሚዳምያውያን ይፈክሩ ንሞት ንጥፍኣተይ",
+          "ናተይ ኣምላኽ ዝረድእዩ መጺኡ ኣብ ጭንቀተይ",
+          "ኣይፈርህን ኣይሰግእን ኣነ ካብ ጸላእተይ",
+          "ክብሪ ይኹን ንኣምላኸይ የሩበዓል ጌርዎ ስመይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "የሩበዓል",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዝነኣስኩ ካብ ቤት ኣቦይ ኣምላኽ መሪጹኒ\nዝሓመቕኩ ካብ ነገደይ ኣምላኽ ኣኽቢሩኒ\nንጸላእተይ ከሰንፎም ጉልበተይ ኮይኑኒ\nብፈቓዱ ብስልጣኑ የሩበዓል ጌርዎ ስመይ\n[[/chorus]]\n\nየሩበዓል ኮይኑ ስመይ (2)\nቀይርዎ ታሪኸይ ኣንጻር ሰይጣን'ዩ ዕላማይ (2)\n\nድምጺ ፍቕሩ ሰሚዐዮ ኣጸናኒዕኒ\nከምዘይመውት ብቓላቱ መጺኡ ነጊሩኒ\nናይ ኣምልኾ ናይ መስዋእቲ ንፍቕሩ ምስጋና\nእግዚአብሔር ሰላመይ እዩ የሩበዓል ጌርዎ ስመይ\n\nሚዳምያውያን ይፈክሩ ንሞት ንጥፍኣተይ\nናተይ ኣምላኽ ዝረድእዩ መጺኡ ኣብ ጭንቀተይ\nኣይፈርህን ኣይሰግእን ኣነ ካብ ጸላእተይ\nክብሪ ይኹን ንኣምላኸይ የሩበዓል ጌርዎ ስመይ"
-    },
-    "ti_ro": {
-      "title": "Yerube'al",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nYerubeal koynu smey (2)\n[[/chorus]]\n\nQeyrwo tarikhey antsar seytan'yu lamay (2)\nZneasku kab bet aboy amlakh meritsuni\nZhameqku kab negedey amlakh akhbiruni\nNtselatey kesenfom gulbetey koynuni\nBfeqadu bsltanu yerubeal gerwo smey\nDmtsi fqru semiayo atsenanini\nKemzeymewt bqalatu metsiu negiruni\nNay amlkho nay meswati nfqru msgana\nGziabher selamey yu yerubeal gerwo smey\nNay tselatey qutsri ybzah bzey meten\nNatey gulbet amlakhey yu ftsum ayferhn\nHazen ykhun khgosye smu tray mman\nBamlakhey bgzibher yerubeal gerwo smey\nMidamyawyan yfekru nmot ntfatey\nNatey amlakh zredyu metsiu ab chnqetey\nAyferhn aysegn ane kab tselatey\nKbri ykhun namlakhey yerubeal gerwo smey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Yerube'al koynu smey /2/",
+      "Qeyrwo tarikhey ants'ar seyt'an'yu 'lamay /2/",
+      "Zneasku kab bet aboy amlakh merits'uni",
+      "Zhameqku kab negedey amlakh akhbiruni",
+      "Nts'elatey kesenfom gulbetey koynuni",
+      "Bfeqadu bslt'anu yerube'al gerwo smey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dmts'i fqru semi'eyo ats'enani'ni",
+          "Kemzeymewt bqalatu mets'iu negiruni",
+          "Nay amlkho nay meswati nfqru msgana",
+          "Gziebher selamey yu yerube'al gerwo smey",
+          "Nay ts'elatey quts'ri ybzah bzey met'en",
+          "Natey gulbet amlakhey yu fts'um ayferhn",
+          "Hazen ykhun khgosye smu t'ray mman",
+          "Bamlakhey bgzibher yerube'al gerwo smey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Midamyawyan yfekru nmot nt'fatey",
+          "Natey amlakh zredyu mets'iu ab ch'nqetey",
+          "Ayferhn aysegn ane kab ts'elatey",
+          "Kbri ykhun namlakhey yerube'al gerwo smey"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

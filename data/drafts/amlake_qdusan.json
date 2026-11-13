@@ -1,41 +1,10 @@
 {
-  "id": "h_efr_3aaab5ce99",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣምላከ ቅዱሳን"
-  },
-  "singer": "ዘማሪት ፋንቱ ወልዴ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣምላከ ቅዱሳን",
-      "zemari": "ዘማሪት ፋንቱ ወልዴ",
-      "lyrics": "[[chorus]]\nንቤተይ መላእካ ብዘይጎድል ዘይቲ\nኢድካ ኣንቢርካለይ በረኸት ሂብካኒ\nኣምላኸይ ጉልበተይ ኢኻ መድኃንየይ\nመጸግዒ ዝኾንካ ነቲ ድኹም ልበይ\n[[/chorus]]\n\nኣምላከ ቅዱሳን (2) እግዚአብሔር ይመስገን\nድንቂ’ዩ ጌሩለይ ብምሕረቱ ጠሚቱኒ\nኣብ ጊዜ ጸገመይ ንሱ ይረድኣኒ\n\nሳላኻ ኣምላኸይ ስመይ ተቐየረ\nልበይ ብምስጋና ንዓኻ ዘመረ\n`ዛ ልሳነይ`ውን ክብርኻ ክትነግር\nማዕረግ ረኺበየ በቲ ናትካ መንክር\n\nተኣማኒ ዋሕሳ ዝኾንካ ንቤተይ\nሞገሰይ ማዕርጉ ንኣገልግሎተይ\nደስታ ዝሃብካኒ ቀይርካ ሓዘነይ\nናይ ኣበው ኣምላኽ ተመስገነለይ"
-    },
-    "ti_ro": {
-      "title": "Amlake qdusan",
-      "zemari": "zemarit fantu welde",
-      "lyrics": "Amlake qdusan (2) gziabher ymesgen\nDnqi’yu geruley bmhretu temituni\nAb gize tsegemey nsu yredani\nNbetey melaka bzeygodl zeyti\nIdka anbirkaley berekhet hibkani\nAmlakhey gulbetey ikha medhanyey\nMetsegi zkhonka neti dkhum lbey\nSalakha amlakhey smey teqeyere\nLbey bmsgana nakha zemere\n`Za lsaney`wn kbrkha ktnegr\nMareg rekhibeye beti natka menkr\nAlem gdefni aleni wletat\nSleu ksaqe ngoyta serawit\nAfey kab tm mbal kkhlkl’ye ane\nGziabher grum’yu ile kmskr’ye\nTeamani wahsa zkhonka nbetey\nMogesey margu nagelglotey\nDesta zhabkani qeyrka hazeney\nNay abew amlakh temesgeneley"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "id": 153,
+  "title": "ኣምላከ ቅዱሳን",
+  "is_xref": true,
+  "ti": null,
+  "ti_ro": null,
+  "needs_review": [
+    "xref"
+  ]
 }

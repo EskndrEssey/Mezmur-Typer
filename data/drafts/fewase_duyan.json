@@ -1,41 +1,67 @@
 {
-  "id": "h_efr_cc2a53fc7c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፈዋሴ ዱያን"
+  "id": 529,
+  "title": "ፈዋሴ ዱያን",
+  "ti": {
+    "chorus": [
+      "ኣንተ ፈዋሴ ዱያን",
+      "ይደልወከ (4) ስብሐት ዘምስለጋዳ",
+      "አቡነ እንድርያስ አቡነ እንድርያስ",
+      "ፈዋሴ ዱያን (2)",
+      "ከዘንቱ ገድልኻ አቡነ እንድርያስ",
+      "የለን ዝመስለካ ፈዋሴ ዱያን",
+      "በቲ ገድልኻ (4) ሓሊፍካ ፍጹም ጅግንነት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዳግማይ ሙሴ አቡነ እንድርያስ",
+          "ስርናይ ኣርያም ፈዋሴ ዱያን",
+          "መና ዝመገብካ አቡነ እንድርያስ",
+          "ንኹሎም ደቅኻ ፈዋሴ ዱያን",
+          "መግበና ኢኻ (4) ንዓና ሕብስተ ሕይወት",
+          "ጎቦ ዓርበ ረቡዕ አቡነ እንድርያስ",
+          "ኣዚዝካ ብእምነት ፈዋሴ ዱያን",
+          "እምነትካ ሃበና አቡነ እንድርያስ",
+          "ናይ ዮርዳኖስ ማይ’ውን አቡነ እንድርያስ",
+          "ኣሎ ኣብ ደብርኻ ፈዋሴ ዱያን",
+          "ኣንጽሃና ኢኻ (4) ካብ ኵሉ በደል ኃጢኣትና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፈዋሴ ዱያን",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nአቡነ እንድርያስ አቡነ እንድርያስ\nፈዋሴ ዱያን (2)\nከዘንቱ ገድልኻ አቡነ እንድርያስ\nየለን ዝመስለካ ፈዋሴ ዱያን\nበቲ ገድልኻ (4) ሓሊፍካ ፍጹም ጅግንነት\n[[/chorus]]\n\nኣንተ ፈዋሴ ዱያን\nይደልወከ (4) ስብሐት ዘምስለጋዳ\n\nዳግማይ ሙሴ አቡነ እንድርያስ\nስርናይ ኣርያም ፈዋሴ ዱያን\nመና ዝመገብካ አቡነ እንድርያስ\nንኹሎም ደቅኻ ፈዋሴ ዱያን\nመግበና ኢኻ (4) ንዓና ሕብስተ ሕይወት\n\nካብ ደዌ ሕማም አቡነ እንድርያስ\nይፍውስ ጸበልካ ፈዋሴ ዱያን\nናይ ዮርዳኖስ ማይ’ውን አቡነ እንድርያስ\nኣሎ ኣብ ደብርኻ ፈዋሴ ዱያን\nኣንጽሃና ኢኻ (4) ካብ ኵሉ በደል ኃጢኣትና"
-    },
-    "ti_ro": {
-      "title": "Fewase duyan",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "Ante fewase duyan\nYdelweke (4) sbhat zemslegada\nAbune ndryas abune ndryas\nFewase duyan (2)\nKezentu gedlkha abune ndryas\nYelen zmesleka fewase duyan\nBeti gedlkha (4) halifka ftsum jgnnet\nDagmay muse abune ndryas\nSrnay aryam fewase duyan\nMena zmegebka abune ndryas\nNkhulom deqkha fewase duyan\nMegbena ikha (4) nana hbste hywet\nGobo arbe rebu abune ndryas\nAzizka bmnet fewase duyan\nMnetka habena abune ndryas\nMnti kntsen fewase duyan\nNkhnsro (4) fetena nte bezha\nKab dewe hmam abune ndryas\nYfws tsebelka fewase duyan\nNay yordanos may’wn abune ndryas\nAlo ab debrkha fewase duyan\nAntshana ikha (4) kab kwilu bedel hatiatna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ante fewase duyan",
+      "Ydelweke (4) sbhet zemslegada",
+      "Ebune ndryas ebune ndryas",
+      "Fewase duyan (2)",
+      "Kezentu gedlkha ebune ndryas",
+      "Yelen zmesleka fewase duyan",
+      "Beti gedlkha (4) halifka fts'um jgnnet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dagmay muse ebune ndryas",
+          "Srnay aryam fewase duyan",
+          "Mena zmegebka ebune ndryas",
+          "Nkhulom deqkha fewase duyan",
+          "Megbena ikha (4) n'ana hbste hywet",
+          "Gobo 'arbe rebu' ebune ndryas",
+          "Azizka bmnet fewase duyan",
+          "Mnetka habena ebune ndryas",
+          "Nay yordanos may’wn ebune ndryas",
+          "Alo ab debrkha fewase duyan",
+          "Ants'hana ikha (4) kab kwlu bedel hat'iatna"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

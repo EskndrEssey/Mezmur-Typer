@@ -1,44 +1,51 @@
 {
-  "id": "h_efr_767635b9ef",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዘልዳ ንጉሥ"
+  "id": 260,
+  "title": "ዘልዳ ንጉሥ",
+  "ti": {
+    "chorus": [
+      "ቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/",
+      "ውስተ ኵሉ ምድር ተሰምዐ ዜናከ",
+      "ቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ወውስተ ፀሐይ ሴመ ጽላሎትከ",
+          "ቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደብረ ግእዛን መድኃኒ ዓለም (ገዛ ባንዳ)"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዘልዳ ንጉሥ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nውስተ ኵሉ ምድር ተሰምዐ ዜናከ\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ (2)\n[[/chorus]]\n\nከመ ደመና ክረምት ምሉእ ሃይማኖትከ (2)\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ (2)\n\nወውስተ ፀሐይ ሴመ ጽላሎትከ\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ (2)\nደብረ ግእዛን መድኃኒ ዓለም (ገዛ ባንዳ)"
-    },
-    "ti_ro": {
-      "title": "Zelda nguSs",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "[[chorus]]\nKeme demena kremt mlu haymanotke (2)\n[[/chorus]]\n\nQdus giyorgis zelda nguss (2)\nWste kwilu mdr tesema zenake\nQdus giyorgis zelda nguss (2)\nWewste tsehay seme tslalotke\nQdus giyorgis zelda nguss (2)\nDebre gzan medhani alem (geza banda)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Qdus giyorgis zelda nguss /2/",
+      "Wste kwlu mdr tesem'e zenake",
+      "Qdus giyorgis zelda nguss /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Wewste ts'ehey seme ts'lalotke",
+          "Qdus giyorgis zelda nguss /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Debre gzan medhani 'alem (geza banda)"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "short_fragment"
+    "no_title_line_found"
   ]
 }

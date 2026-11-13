@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_edf232a2eb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምስጋና’ኻ ክነግር"
+  "id": 315,
+  "title": "ምስጋና’ኻ ክነግር",
+  "ti": {
+    "chorus": [
+      "ምስጋናኻ ክነግር ኦ ጐይታ",
+      "ንውዕለትካ ከስተንትን ኦ ጐይታ",
+      "ከናፍረይ ክፈት ንልበይ ኣንጽህ",
+      "ንቅዱስ መንፈስካ ኣብ ውሽጠይ ኣስፍሕ /2/",
+      "ናይ ቀራንዮ ውዕለት ከይሃስስ ካብ ልበይ",
+      "ክደግሞ እናሻዕ ንሱ’ዩ ሰላመይ",
+      "ንሞተይ ደምሲሱ ዘህድአ መንፈሰይ",
+      "ካብ ጸልማት ባርነት ባሊሁ ንነፍሰይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንነዊሕ ዘመናት ካባኻ ርሒቐ",
+          "ከቕለሉ ብመንፈስ ኣብ ሰልሚ ወዲቐ",
+          "ኣባኻ ክሕየር እነኹ ይናፍቕ",
+          "ብላዛ ቃላትካ ዘልዓለም ክሕንቅቕ",
+          "መስተንክር ኮይኑኒ ሕያው’ዩ ፍቕርኻ",
+          "ቃላት ይሓጽረኒ ክገልጾ ሰናይካ",
+          "ንስቕታ ፈቲነ ግና ኣይከኣልኩን",
+          "ክዝምር’የ በቃ ውዕለትካ ከስተንትን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ ሕይወተይ ዕያግ ኣብዚ ንኸብቅዕ",
+          "ሞይትለይ’ዩ ኣምላኽ ሰላመይ ከደንፍዕ",
+          "ኣርማይ ከልዕሎ’የ መስቀልዩ ሰንደቐይ",
+          "ክነግር ክምስክር ንዘሕለፎ ስለይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምስጋና’ኻ ክነግር",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nናይ ቀራንዮ ውዕለት ከይሃስስ ካብ ልበይ\nክደግሞ እናሻዕ ንሱ’ዩ ሰላመይ\nንሞተይ ደምሲሱ ዘህድአ መንፈሰይ\nካብ ጸልማት ባርነት ባሊሁ ንነፍሰይ\n[[/chorus]]\n\nምስጋናኻ ክነግር ኦ ጐይታ\nንውዕለትካ ከስተንትን ኦ ጐይታ\nከናፍረይ ክፈት ንልበይ ኣንጽህ\nንቅዱስ መንፈስካ ኣብ ውሽጠይ ኣስፍሕ (2)\n\nንነዊሕ ዘመናት ካባኻ ርሒቐ\nከቕለሉ ብመንፈስ ኣብ ሰልሚ ወዲቐ\nኣባኻ ክሕየር እነኹ ይናፍቕ\nብላዛ ቃላትካ ዘልዓለም ክሕንቅቕ\n\nናይ ሕይወተይ ዕያግ ኣብዚ ንኸብቅዕ\nሞይትለይ’ዩ ኣምላኽ ሰላመይ ከደንፍዕ\nኣርማይ ከልዕሎ’የ መስቀልዩ ሰንደቐይ\nክነግር ክምስክር ንዘሕለፎ ስለይ"
-    },
-    "ti_ro": {
-      "title": "Msgana’kha knegr",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nNqdus menfeska ab wshtey asfh (2)\n[[/chorus]]\n\nMsganakha knegr o goyta\nNwletka kestentn o goyta\nKenafrey kfet nlbey antsh\nNay qeranyo wlet keyhass kab lbey\nKdegmo nasha nsu’yu selamey\nNmotey demsisu zehda menfesey\nKab tselmat barnet balihu nnefsey\nNnewih zemenat kabakha rhiqe\nKeqlelu bmenfes ab selmi wediqe\nAbakha khyer nekhu ynafq\nBlaza qalatka zelalem khnqq\nMestenkr koynuni hyaw’yu fqrkha\nQalat yhatsreni kgeltso senayka\nNsqta fetine gna aykealkun\nKzmr’ye beqa wletka kestentn\nNay hywetey yag abzi nkhebq\nMoytley’yu amlakh selamey kedenf\nArmay kello’ye mesqelyu sendeqey\nKnegr kmskr nzehlefo sley"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Msganakha knegr o gwayta",
+      "Nw'letka kestentn o gwayta",
+      "Kenafrey kfet nlbey ants'h",
+      "Nqdus menfeska ab wsht'ey asfh /2/",
+      "Nay qeranyo w'let keyhass kab lbey",
+      "Kdegmo nasha' nsu’yu selamey",
+      "Nmotey demsisu zehde menfesey",
+      "Kab ts'elmat barnet balihu nnefsey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nnewih zemenat kabakha rhiqe",
+          "Keqlelu bmenfes ab selmi wediqe",
+          "Abakha khyer nekhu ynafq",
+          "Blaza qalatka zel'alem khnqq",
+          "Mestenkr koynuni hyaw’yu fqrkha",
+          "Qalat yhats'reni kgelts'o senayka",
+          "Nsqta fetine gna aykealkun",
+          "Kzmr’ye beqa w'letka kestentn"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay hywetey 'yag abzi nkhebq'",
+          "Moytley’yu amlakh selamey kedenf'",
+          "Armay kel'lo’ye mesqelyu sendeqey",
+          "Knegr kmskr nzehlefo sley"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

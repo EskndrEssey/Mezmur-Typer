@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_6f56357bf9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ይትባረክ ከም ኣብርሃም"
+  "id": 442,
+  "title": "ይትባረክ ከም ኣብርሃም",
+  "ti": {
+    "chorus": [
+      "ይትባረክ ከም ኣብርሃም /2/",
+      "እህ ዘለዓለም /4/ ይትባረክ ከም ኣብርሃም",
+      "ደስ ይበለና’ሞ        ከም ኣብርሃም",
+      "በዚ ቅዱስ መርዓ       >>  >>",
+      "ፍጹም ቅኑዕ እዩ        >>  >>",
+      "ናይ ተኽሊል መርዓና   >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጸጋ መንፈስቅዱስ       ከም ኣብርሃም",
+          "ሰለዝተዋህቦም           >>  >>",
+          "መርዓውን መርዓትን     >>  >>",
+          "ብርሃን ኮይኑ ገጾም      >>  >>",
+          "ናይ ኣምላኽ ህያቡ      ከም ኣብርሃም",
+          "ኣይኮነን ከም ዓለም      >>  >>",
+          "ተረኸቢ   >>   ኣብ ማእከልና",
+          "ንወድኺ   >>  ለምንልና",
+          "ንመርዓና   >>  ክባርኸልና",
+          "ባህ ዘበለ   >>  ክኾነልና",
+          "ኣብ እምነትኪ እህ  ኣጽንዕልና",
+          "ብኺዳንኪ     >>   ሓልውልና",
+          "ኣብቲ ቤትኪ   >>  ኣሕድርልና",
+          "ብፍቕርኺ     >>   ጥመርልና",
+          "ካብ ፍሬኺ    >>   መግብልና"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ይትባረክ ከም ኣብርሃም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nደስ ይበለና’ሞ      ከም ኣብርሃም\nበዚ ቅዱስ መርዓ\nፍጹም ቅኑዕ እዩ\nናይ ተኽሊል መርዓና\n[[/chorus]]\n\nይትባረክ ከም ኣብርሃም (2)\nእህ ዘለዓለም (4) ይትባረክ ከም ኣብርሃም\n\nጸጋ መንፈስቅዱስ      ከም ኣብርሃም\nሰለዝተዋህቦም\nመርዓውን መርዓትን\nብርሃን ኮይኑ ገጾም\n\nድንግለይ ባርኽልና ነዞም መርዓውትና\nባርኽልና እህ ባርኽልና\nተረኸቢ >> ኣብ ማእከልና\nንወድኺ >> ለምንልና\nንመርዓና >> ክባርኸልና\nባህ ዘበለ >> ክኾነልና"
-    },
-    "ti_ro": {
-      "title": "Ytbarek kem abrham",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nYtbarek kem abrham (2)\n[[/chorus]]\nH zelealem (4) ytbarek kem abrham\nDes ybelena’mo kem abrham\nBezi qdus mera\nFtsum qnu yu\nNay tekhlil merana\nTsega menfesqdus kem abrham\nSeleztewahbom\nMerawn meratn\nBrhan koynu getsom\nNay amlakh hyabu kem abrham\nAykonen kem alem\nHagosn selamn\nYhb nzelalem\nDngley barkhlna nezom merawtna\nBarkhlna h barkhlna\nTerekhebi ab makelna\nNwedkhi lemnlna\nNmerana kbarkhelna\nBah zebele kkhonelna\nAb mnetki h atsnlna\nBkhidanki halwlna\nAbti betki ahdrlna\nBfqrkhi tmerlna\nKab frekhi megblna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ytbarek kem abrham /2/",
+      "H zele'alem /4/ ytbarek kem abrham",
+      "Des ybelena’mo        kem abrham",
+      "Bezi qdus mer'a       >>  >>",
+      "Fts'um qnu' yu        >>  >>",
+      "Nay tekhlil mer'ana   >>  >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'ega menfesqdus       kem abrham",
+          "Seleztewahbom           >>  >>",
+          "Mer'awn mer'atn     >>  >>",
+          "Brhan koynu gets'om      >>  >>",
+          "Nay amlakh hyabu      kem abrham",
+          "Aykonen kem 'alem      >>  >>",
+          "Terekhebi   >>   ab makelna",
+          "Nwedkhi   >>  lemnlna",
+          "Nmer'ana   >>  kbarkhelna",
+          "Bah zebele   >>  kkhonelna",
+          "Ab mnetki h  ats'n'lna",
+          "Bkhidanki     >>   halwlna",
+          "Abti betki   >>  ahdrlna",
+          "Bfqrkhi     >>   t'merlna",
+          "Kab frekhi    >>   megblna"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

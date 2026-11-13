@@ -1,44 +1,23 @@
 {
-  "id": "h_efr_3ae2a0b19f",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣምላኮሙ ለክርስቲያን"
+  "id": 404,
+  "title": "ኣምላኮሙ ለክርስቲያን",
+  "ti": {
+    "chorus": [
+      "አምላኮሙ ለክርስቲያን ተመሲሎ ሰብአ መጽአ ኃቤየ",
+      "ወይቤላ ቅዱስ ጊዮርጊስ",
+      "ኣንሰ ኢኮንኩ አምላከ ኣላ ገብረ አምላክ ኣነ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣምላኮሙ ለክርስቲያን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "አምላኮሙ ለክርስቲያን ተመሲሎ ሰብአ መጽአ ኃቤየ\nወይቤላ ቅዱስ ጊዮርጊስ\nኣንሰ ኢኮንኩ አምላከ ኣላ ገብረ አምላክ ኣነ"
-    },
-    "ti_ro": {
-      "title": "Amlakomu lekrstiyan",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Amlakomu lekrstiyan temesilo seba metsa habeye\nWeybela qdus giyorgis\nAnse ikonku amlake ala gebre amlak ane"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Emlakomu lekrstiyan temesilo sebe mets'e habeye",
+      "Weybela qdus giyorgis",
+      "Anse ikonku emlake ala gebre emlak ane"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

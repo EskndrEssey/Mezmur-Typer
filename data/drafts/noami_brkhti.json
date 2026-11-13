@@ -1,41 +1,135 @@
 {
-  "id": "h_efr_64202bcbef",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኖኣሚ ብርኽቲ"
+  "id": 114,
+  "title": "ኖኣሚ ብርኽቲ",
+  "ti": {
+    "chorus": [
+      "ኖኣሚ ብርኽቲ እንታይ ረኺቡኪ",
+      "ካብ ሓጎስ ርሒቕኪ ሓዘን ከቢቡኪ",
+      "ሰብኣይክን ደቅኽን እንታይ ረኺብዎም",
+      "እንታይ’ዩ ጸገሞም ከመይ’ዩ ታሪኾም",
+      "ስደተኛ’የ ጋሻ ኣብቲ ሃገር",
+      "ንሞኣባውያን ዘይጠቅም ነገር",
+      "ንብዓተይ ኵሉ ይፈስስ ኣሎ",
+      "ረዳኢ ስኢኑ ኣጆኻ ዝብሎ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መከራ’ውን እንተበዝሓካ",
+          "ተዓገሶ ክሓልፈልካ",
+          "ተስፋ ኣይትቑረጽ ኢኻ",
+          "ኖኣሚ ዓለምና ኣንቲ ዓባይ መሬት",
+          "እንታይ ረኺቡኪ መሊኡኪ ሕውከት",
+          "ናይ መከራ መሬት ኮይንኪ ኣኬልዳማ",
+          "ክሳብ መዓስ’ዩ ከምዚ ኢልኪ ዓለምና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መከራ ሽግር ኣጨኒቑኒ",
+          "መንገደይ ኵሉ እሾኽ ኮይኑኒ",
+          "ከም ጊዜ’ዩ ታሪኽ ኵሉ ሓላፊ’ዩ",
+          "እቲ ርሕሩሕ አምላክ ኣይክገድፈክን’ዩ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ስለ ኃጢአተይ ተቐጺዐ’የ",
+          "ሽግር ምስ ስቃይ ምጻር ስኢነ’የ",
+          "ክልቲኦም ደቀይ ሞት ወሲድዎም",
+          "ይሕሸና ኢሎም ምስ ወላዲኦም",
+          "ንሱ ዝፈቐዶ ብጊዜኡ ይኸውን",
+          "ነገር ንሰናይዩ ንዅሉ ዝኣምን",
+          "ናይ ኣሕዛብ ርኽሰት ክርሕቐልኪ’ዩ",
+          "ካብ ኣዝመራ ቦኤዝ ዳዊት ክውለድ’ዩ"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ይግበረለይ ንኽጸናናዕ",
+          "ብመንፈስ ኣምላኽ ልበይ ይበርትዕ",
+          "ብሰላም ይሕደር መስኪን ወገነይ ‘",
+          "ናይ ሕዝበይ ጥፍኣት ከይርእዮ ብዓይነይ"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "ዘማሪት ወርቅነሽ ሃይሉ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣብ ቅድመይ ኮነ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኖኣሚ ብርኽቲ",
-      "zemari": "ሊቀ መላእክት ኣብ ቅድመይ ኮነ",
-      "lyrics": "[[chorus]]\nስደተኛ’የ ጋሻ ኣብቲ ሃገር\nንሞኣባውያን ዘይጠቅም ነገር\nንብዓተይ ኵሉ ይፈስስ ኣሎ\nረዳኢ ስኢኑ ኣጆኻ ዝብሎ\n[[/chorus]]\n\nኖኣሚ ብርኽቲ እንታይ ረኺቡኪ\nካብ ሓጎስ ርሒቕኪ ሓዘን ከቢቡኪ\nሰብኣይክን ደቅኽን እንታይ ረኺብዎም\nእንታይ’ዩ ጸገሞም ከመይ’ዩ ታሪኾም\n\nመከራ’ውን እንተበዝሓካ\nተዓገሶ ክሓልፈልካ\nተስፋ ኣይትቑረጽ ኢኻ\n\nመከራ ሽግር ኣጨኒቑኒ\nመንገደይ ኵሉ እሾኽ ኮይኑኒ\nፍቕርን ሰላምን ካባይ ርሒቐን\nየጨንቐኒ ዘይረኸብክዎን\nኣጆኺ ኣዴና ብዙሕ ኣይትሕሰቢ\nንናይ ጭንቂ ጊዜ ብጽንዓት ሕለፊ\nከም ጊዜ’ዩ ታሪኽ ኵሉ ሓላፊ’ዩ\nእቲ ርሕሩሕ አምላክ ኣይክገድፈክን’ዩ\nስለ ኃጢአተይ ተቐጺዐ’የ\nሽግር ምስ ስቃይ ምጻር ስኢነ’የ\nክልቲኦም ደቀይ ሞት ወሲድዎም\nይሕሸና ኢሎም ምስ ወላዲኦም\nንሱ ዝፈቐዶ ብጊዜኡ ይኸውን\nነገር ንሰናይዩ ንዅሉ ዝኣምን\nናይ ኣሕዛብ ርኽሰት ክርሕቐልኪ’ዩ\nካብ ኣዝመራ ቦኤዝ ዳዊት ክውለድ’ዩ\nይግበረለይ ንኽጸናናዕ\nብመንፈስ ኣምላኽ ልበይ ይበርትዕ\nብሰላም ይሕደር መስኪን ወገነይ ‘\nናይ ሕዝበይ ጥፍኣት ከይርእዮ ብዓይነይ\nዘማሪት ወርቅነሽ ሃይሉ"
-    },
-    "ti_ro": {
-      "title": "Noami brkhti",
-      "zemari": "liqe mela'kt ab qdmey kone",
-      "lyrics": "Noami brkhti ntay rekhibuki\nKab hagos rhiqki hazen kebibuki\nSebaykn deqkhn ntay rekhibwom\nNtay’yu tsegemom kemey’yu tarikhom\nSdetenya’ye gasha abti hager\nNmoabawyan zeyteqm neger\nNbatey kwilu yfess alo\nRedai sinu ajokha zblo\nMekera’wn ntebezhaka\nTeageso khalfelka\nTesfa aytqurets ikha\nNoami alemna anti abay meret\nNtay rekhibuki meliuki hwket\nNay mekera meret koynki akeldama\nKsab meas’yu kemzi ilki alemna\nMekera shgr acheniquni\nMengedey kwilu shokh koynuni\nFqrn selamn kabay rhiqen\nYechenqeni zeyrekhebkwon\nAjokhi adena bzuh aythsebi\nNnay chnqi gize btsnat hlefi\nKem gize’yu tarikh kwilu halafi’yu\nTi rhruh amlak aykgedfekn’yu\nSle hatiatey teqetsia’ye\nShgr ms sqay mtsar sine’ye\nKltiom deqey mot wesidwom\nYhshena ilom ms weladiom\nNsu zfeqedo bgizeu ykhewn\nNeger nsenayyu nkwilu zamn\nNay ahzab rkhset krhqelki’yu\nKab azmera boez dawit kwled’yu\nYgbereley nkhtsenana\nBmenfes amlakh lbey ybert\nBselam yhder meskin wegeney ‘\nNay hzbey tfat keyryo bayney"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Noami brkhti ntay rekhibuki",
+      "Kab hagos rhiqki hazen kebibuki",
+      "Sebaykn deqkhn ntay rekhibwom",
+      "Ntay’yu ts'egemom kemey’yu tarikhom",
+      "Sdetenya’ye gasha abti hager",
+      "Nmoabawyan zeyt'eqm neger",
+      "Nb'atey kwlu yfess alo",
+      "Redai sinu ajokha zblo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mekera’wn ntebezhaka",
+          "Te'ageso khalfelka",
+          "Tesfa aytqurets' ikha",
+          "Noami 'alemna anti 'abay meret",
+          "Ntay rekhibuki meliuki hwket",
+          "Nay mekera meret koynki akeldama",
+          "Ksab me'as’yu kemzi ilki 'alemna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mekera shgr ach'eniquni",
+          "Mengedey kwlu shokh koynuni",
+          "Kem gize’yu tarikh kwlu halafi’yu",
+          "Ti rhruh emlak aykgedfekn’yu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Sle hat'ietey teqets'i'e’ye",
+          "Shgr ms sqay mts'ar sine’ye",
+          "Kltiom deqey mot wesidwom",
+          "Yhshena ilom ms weladiom",
+          "Nsu zfeqedo bgizeu ykhewn",
+          "Neger nsenayyu nkhwlu zamn",
+          "Nay ahzab rkhset krhqelki’yu",
+          "Kab azmera boez dawit kwled’yu"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Ygbereley nkhts'enana'",
+          "Bmenfes amlakh lbey ybert'",
+          "Bselam yhder meskin wegeney ‘",
+          "Nay hzbey t'fat keyryo b'ayney"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "Zemarit werqnesh haylu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

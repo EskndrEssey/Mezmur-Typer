@@ -1,44 +1,77 @@
 {
-  "id": "h_efr_5b8d21a383",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ናይ ቀራንዮ በረኸተይ"
+  "id": 145,
+  "title": "ናይ ቀራንዮ በረኸተይ",
+  "ti": {
+    "chorus": [
+      "ናይ ቀራንዮ በረኸተይ",
+      "መን ኢለ ክሰምያ እመቤተይ",
+      "ክገልጻ ስኢነ ቋንቋ",
+      "ዕጹብ'ያ ኢለያ በቃ /2/",
+      "መሃረኒ'ባ ኣባ ሕርያቆስ",
+      "ጽዮን ንኽብላ ስማ ክቕድስ",
+      "ኤፍሬም ኣርእየኒ ናታ ምስጋና",
+      "ናታ ውዕለታት ስኢኑ መዘና",
+      "ትሕቲ ሰማይ መን ማዕሬኺ",
+      "ቃላት ስኢነ ዕጹብ እብለኪ",
+      "ንስኺስ ፍልይቲ ኢኺ",
+      "ኣብ ዘመነይ ርኤኪ/2/",
+      "ህያብነትኪ ተቐቢለየ",
+      "ከም ዮሓንስ ወዲ ተሰምየ",
+      "ትሕቲ መስቀሉ ኣለኒ ኪዳን",
+      "እንሀት ክብል ሰሚዐ በእዛን",
+      "ኣነስ ኢለኪ ኣደይ",
+      "ኢኺ'ሞ በረኸተይ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዙፋን እግዚአብሔር ቅድስት ከተማ",
+          "ቤልሆር ይርዕድ ድምጻ ክስማዕ",
+          "ትሕቲ ሰማይ መን ማዕሬኺ",
+          "ቃላት ስኢነ ዕጹብ እብለኪ",
+          "ንስኺስ ፍልይቲ ኢኺ",
+          "ኣብ ዘመነይ ርኤኪ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ፍቅርተ ፈለቀ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ናይ ቀራንዮ በረኸተይ",
-      "zemari": "ዘማሪት ፍቅርተ ፈለቀ",
-      "lyrics": "[[chorus]]\nመሃረኒ'ባ ኣባ ሕርያቆስ\nጽዮን ንኽብላ ስማ ክቕድስ\nኤፍሬም ኣርእየኒ ናታ ምስጋና\nናታ ውዕለታት ስኢኑ መዘና\nአረ መን ኢለ ክሰምያ\nነዛ ናይ ምድሓን ደሃያ(2)\n[[/chorus]]\n\nናይ ቀራንዮ በረኸተይ\nመን ኢለ ክሰምያ እመቤተይ\nክገልጻ ስኢነ ቋንቋ\nዕጹብ'ያ ኢለያ በቃ (2)\n\nዙፋን እግዚአብሔር ቅድስት ከተማ\nቤልሆር ይርዕድ ድምጻ ክስማዕ\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ(2)\n\nዙፋን እግዚአብሔር ቅድስት ከተማ\nቤልሆር ይርዕድ ድምጻ ክስማዕ\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ(2)"
-    },
-    "ti_ro": {
-      "title": "Nay qeranyo berekhetey",
-      "zemari": "zemarit fqrte feleqe",
-      "lyrics": "[[chorus]]\nTsub'ya ileya beqa (2)\n[[/chorus]]\n\nNay qeranyo berekhetey\nMen ile ksemya mebetey\nKgeltsa sine qwanqwa\nMehareni'ba aba hryaqos\nTsyon nkhbla sma kqds\nEfrem aryeni nata msgana\nNata wletat sinu mezena\nAre men ile ksemya\nNeza nay mdhan dehaya(2)\n\nHyabnetki teqebileye\nKem yohans wedi tesemye\nThti mesqelu aleni kidan\nNhat kbl semia bezan\nAnes ileki adey\nIkhi'mo berekhetey(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Nay qeranyo berekhetey",
+      "Men ile ksemya mebetey",
+      "Kgelts'a sine qwanqwa",
+      "'Ts'ub'ya ileya beqa /2/",
+      "Mehareni'ba aba hryaqos",
+      "Ts'yon nkhbla sma kqds",
+      "Efrem aryeni nata msgana",
+      "Nata w'letat sinu mezena",
+      "Thti semay men ma'rekhi",
+      "Qalat sine 'ts'ub bleki",
+      "Nskhis flyti ikhi",
+      "Ab zemeney reki/2/",
+      "Hyabnetki teqebileye",
+      "Kem yohans wedi tesemye",
+      "Thti mesqelu aleni kidan",
+      "Nhet kbl semi'e bezan",
+      "Anes ileki adey",
+      "Ikhi'mo berekhetey/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zufan gziebher qdst ketema",
+          "Belhor yr'd dmts'a ksma'",
+          "Thti semay men ma'rekhi",
+          "Qalat sine 'ts'ub bleki",
+          "Nskhis flyti ikhi",
+          "Ab zemeney reki/2/"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "chorus_check"
+    "chorus_possible_page_split"
   ]
 }

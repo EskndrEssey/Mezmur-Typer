@@ -1,44 +1,59 @@
 {
-  "id": "h_efr_db0427c76c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣምላኽ እንክግለጽ"
+  "id": 336,
+  "title": "ኣምላኽ እንክግለጽ",
+  "ti": {
+    "chorus": [
+      "ኣምላኽ እንክግለጽ ብዘፍርሕ ግርማኡ",
+      "ቅዱሳን መላእክት መለኸት እንክነፍሑ",
+      "ናይ ደብረ ዘይት ቃሉ ዝፍጸም ኣኺሉ ጊዜኡ",
+      "ተስፋ ንገብር ኩልና ናይ ኣምላኽ ምምጽኡ /2/",
+      "ወርሒ እንክትጽልምት ከዋኽብቲ እንክረግፉ",
+      "ጸሓይ እንክትጠፍእ ሰማይን ምድርን እንክሓልፉ",
+      "ፍርድና ክንቅበል ደቂ ኣዳም ኩልና ንስራዕ",
+      "ኣብ ቅድሚ ኣምላኽ ይርአ ተግባርና ይቕላዕ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጻድቃን እንክወርሱ መንግስተ ሰማያት",
+          "ኃጥኣን ይኸዱ ናብ ገሃነመ እሳት",
+          "ከምዚ ኣይመሰለናን ነይሩ ይብሉ ብብኽያት ብኣውያት",
+          "ፍርዶም ይቕበሉ ካብ ኣምላኽ ዘይውዳእ መዓት /2/",
+          "ናይ መድኃኔ ዓለም ዘይልወጥ ቃሉ",
+          "ኣይተርፍን ክመጽእ’ዩ ቅዱሳን ኣኸቲሉ",
+          "ኃጥኣን እንክበኽዩ ጻድቃን ይዝምርሉ",
+          "ንሕና’ኸ ኣበይ ይኸውን እንርከበሉ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣምላኽ እንክግለጽ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nወርሒ እንክትጽልምት ከዋኽብቲ እንክረግፉ\nጸሓይ እንክትጠፍእ ሰማይን ምድርን እንክሓልፉ\nፍርድና ክንቅበል ደቂ ኣዳም ኩልና ንስራዕ\nኣብ ቅድሚ ኣምላኽ ይርአ ተግባርና ይቕላዕ (2)\n[[/chorus]]\n\nኣምላኽ እንክግለጽ ብዘፍርሕ ግርማኡ\nቅዱሳን መላእክት መለኸት እንክነፍሑ\nናይ ደብረ ዘይት ቃሉ ዝፍጸም ኣኺሉ ጊዜኡ\nተስፋ ንገብር ኩልና ናይ ኣምላኽ ምምጽኡ (2)\n\nጻድቃን እንክወርሱ መንግስተ ሰማያት\nኃጥኣን ይኸዱ ናብ ገሃነመ እሳት\nከምዚ ኣይመሰለናን ነይሩ ይብሉ ብብኽያት ብኣውያት\nፍርዶም ይቕበሉ ካብ ኣምላኽ ዘይውዳእ መዓት (2)"
-    },
-    "ti_ro": {
-      "title": "Amlakh 'nkgleTs",
-      "zemari": "di/n efrem",
-      "lyrics": "Amlakh nkglets bzefrh grmau\nQdusan melakt melekhet nknefhu\nNay debre zeyt qalu zftsem akhilu gizeu\nTesfa ngebr kulna nay amlakh mmtsu (2)\nWerhi nkttslmt kewakhbti nkregfu\nTsehay nkttef semayn mdrn nkhalfu\nFrdna knqbel deqi adam kulna nsra\nAb qdmi amlakh yra tegbarna yqla (2)\nTsadqan nkwersu mengste semayat\nHatan ykhedu nab gehaneme sat\nKemzi aymeselenan neyru yblu bbkhyat bawyat\nFrdom yqbelu kab amlakh zeywda meat (2)\nNay medhane alem zeylwet qalu\nAyterfn kmets’yu qdusan akhetilu\nHatan nkbekhyu tsadqan yzmrlu\nNhna’khe abey ykhewn nrkebelu(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Amlakh nkglets' bzefrh grmau",
+      "Qdusan melakt melekhet nknefhu",
+      "Nay debre zeyt qalu zfts'em akhilu gizeu",
+      "Tesfa ngebr kulna nay amlakh mmts'u /2/",
+      "Werhi nktts'lmt kewakhbti nkregfu",
+      "Ts'ehay nktt'ef semayn mdrn nkhalfu",
+      "Frdna knqbel deqi adam kulna nsra'",
+      "Ab qdmi amlakh yre tegbarna yqla' /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'adqan nkwersu mengste semayat",
+          "Hat'an ykhedu nab gehaneme sat",
+          "Kemzi aymeselenan neyru yblu bbkhyat bawyat",
+          "Frdom yqbelu kab amlakh zeywda me'at /2/",
+          "Nay medhane 'alem zeylwet' qalu",
+          "Ayterfn kmets'’yu qdusan akhetilu",
+          "Hat'an nkbekhyu ts'adqan yzmrlu",
+          "Nhna’khe abey ykhewn nrkebelu/2/"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "repeat_markers"
-  ]
+  "needs_review": []
 }

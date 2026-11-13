@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_3eec65d599",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሓያል’ዩ ንሱ"
+  "id": 107,
+  "title": "ሓያል’ዩ ንሱ",
+  "ti": {
+    "chorus": [
+      "ሓያል’ዩ ንሱ ዘልኣለማዊ ናይ ኵሉ ጐይታ",
+      "ንሞት ስዒሩ ዝተዓወተ ፍጹም ዘይርታዕ",
+      "እንሆ ተንሲኡ ደስ ይበለና/2/ ብርሃኑ ርኢና",
+      "እንሆ ተንሲኡ ሰዓት ፍርቂ ለይቲ ጐይታና ተንሲኡ",
+      "እንሆ ተንሲኡ ካብ መቓብር ወጺኡ መሬት ብሕቱሙ",
+      "እንሆ ተንሲኡ ስልጣናት ናይ ጸልማት ፍጹም ተሰዓሩ",
+      "እንሆ ተንሲኡ ሞይቱ ዝነበረ ክርስቶስ ተንሲኡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እንሆ ተንሲኡ ስዕረት ናይ ሰይጣን ፍጹም ተጋሂዱ",
+          "እንሆ ተንሲኡ ናይ ዕዳ ደብዳቤ ሽዑ ተቐዲዱ",
+          "እንሆ ተንሲኡ ደጌታት ናይ ሲኦል ፍጹም ተናወጹ",
+          "እንሆ ተንሲኡ ኣምላኽናስ ተንሲኡ ንሞትና ስዒሩ",
+          "እንሆ ተንሲኡ ብዓቢይ ምስጋና ብግሩም ውዳሴ",
+          "እንሆ ተንሲኡ ትንሳኤኡ ርእያ ተሓጐሰት ነፍሰይ",
+          "እንሆ ተንሲኡ ብርቱዕ’ዩ መካር ኣምላኽ ዘልዓለም",
+          "እንሆ ተንሲኡ ካብ ሕጂ ንደሓር ኣብ ሞት ስልጣን የለን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እንሆ ተንሲኡ ንሕና’ውን ምስኡ ካብ ሞትና ተንሲእና",
+          "እንሆ ተንሲኡ ምስ ቤተ መቕደሱ ብርሃን ለቢስና",
+          "እንሆ ተንሲኡ ማእሰርቲ ኣእዳውና ሕጂ ተፈቲሑ",
+          "እንሆ ተንሲኡ ኣእዳውኩም ኣልዕሉ ብሓባር ዘምሩ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሓያል’ዩ ንሱ",
-      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
-      "lyrics": "[[chorus]]\nእንሆ ተንሲኡ ሰዓት ፍርቂ ለይቲ ጐይታና ተንሲኡ\nእንሆ ተንሲኡ ካብ መቓብር ወጺኡ መሬት ብሕቱሙ\nእንሆ ተንሲኡ ስልጣናት ናይ ጸልማት ፍጹም ተሰዓሩ\nእንሆ ተንሲኡ ሞይቱ ዝነበረ ክርስቶስ ተንሲኡ\n[[/chorus]]\n\nሓያል’ዩ ንሱ ዘልኣለማዊ ናይ ኵሉ ጐይታ\nንሞት ስዒሩ ዝተዓወተ ፍጹም ዘይርታዕ\nእንሆ ተንሲኡ ደስ ይበለና(2) ብርሃኑ ርኢና\n\nእንሆ ተንሲኡ ስዕረት ናይ ሰይጣን ፍጹም ተጋሂዱ\nእንሆ ተንሲኡ ናይ ዕዳ ደብዳቤ ሽዑ ተቐዲዱ\nእንሆ ተንሲኡ ደጌታት ናይ ሲኦል ፍጹም ተናወጹ\nእንሆ ተንሲኡ ኣምላኽናስ ተንሲኡ ንሞትና ስዒሩ\n\nእንሆ ተንሲኡ ንሕና’ውን ምስኡ ካብ ሞትና ተንሲእና\nእንሆ ተንሲኡ ምስ ቤተ መቕደሱ ብርሃን ለቢስና\nእንሆ ተንሲኡ ማእሰርቲ ኣእዳውና ሕጂ ተፈቲሑ\nእንሆ ተንሲኡ ኣእዳውኩም ኣልዕሉ ብሓባር ዘምሩ"
-    },
-    "ti_ro": {
-      "title": "Hayal’yu nsu",
-      "zemari": "zemarit mrtnesh Tlahun",
-      "lyrics": "Hayal’yu nsu zelalemawi nay kwilu goyta\nNmot siru zteawete ftsum zeyrta\nNho tensiu des ybelena(2) brhanu rina\nNho tensiu seat frqi leyti goytana tensiu\nNho tensiu kab meqabr wetsiu meret bhtumu\nNho tensiu sltanat nay tselmat ftsum tesearu\nNho tensiu moytu znebere krstos tensiu\nNho tensiu sret nay seytan ftsum tegahidu\nNho tensiu nay da debdabe shu teqedidu\nNho tensiu degetat nay siol ftsum tenawetsu\nNho tensiu amlakhnas tensiu nmotna siru\nNho tensiu babiy msgana bgrum wdase\nNho tensiu tnsaeu rya tehagoset nefsey\nNho tensiu brtu’yu mekar amlakh zelalem\nNho tensiu kab hji ndehar ab mot sltan yelen\nNho tensiu nhna’wn msu kab motna tensina\nNho tensiu ms bete meqdesu brhan lebisna\nNho tensiu maserti adawna hji tefetihu\nNho tensiu adawkum allu bhabar zemru"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Hayal’yu nsu zelalemawi nay kwlu gwayta",
+      "Nmot s'iru zte'awete fts'um zeyrta'",
+      "Nho tensiu des ybelena/2/ brhanu rina",
+      "Nho tensiu se'at frqi leyti gwaytana tensiu",
+      "Nho tensiu kab meqabr wets'iu meret bhtumu",
+      "Nho tensiu slt'anat nay ts'elmat fts'um tese'aru",
+      "Nho tensiu moytu znebere krstos tensiu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nho tensiu s'ret nay seyt'an fts'um tegahidu",
+          "Nho tensiu nay 'da debdabe sh'u teqedidu",
+          "Nho tensiu degetat nay siol fts'um tenawets'u",
+          "Nho tensiu amlakhnas tensiu nmotna s'iru",
+          "Nho tensiu b'abiy msgana bgrum wdase",
+          "Nho tensiu tnsaeu rya tehagwaset nefsey",
+          "Nho tensiu brtu'’yu mekar amlakh zel'alem",
+          "Nho tensiu kab hji ndehar ab mot slt'an yelen"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nho tensiu nhna’wn msu kab motna tensina",
+          "Nho tensiu ms bete meqdesu brhan lebisna",
+          "Nho tensiu maserti adawna hji tefetihu",
+          "Nho tensiu adawkum al'lu bhabar zemru"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

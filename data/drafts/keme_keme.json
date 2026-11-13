@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_27ee797869",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከመ ከመ"
+  "id": 437,
+  "title": "ከመ ከመ",
+  "ti": {
+    "chorus": [
+      "ኣብርሃም ወሳራ",
+      "ኣብርሃም ተሰደ     ከመ ከመ",
+      "ኣምላኹ ኣሚኑ       >>  >>",
+      "ከም ሑጻ ከብዝሖ    >>  >>",
+      "ልክዕ ከም ኪዳኑ      >>  >>",
+      "ንሳራ’ውን ሃቦ         >>  >>",
+      "ክትኮኖ ኣሚኑ         >>  >>",
+      "ይረስየክሙ /2/ ከመ ከመ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መርዓውን መርዓትን    ከመ ከመ",
+          "እንቋዕ ሓጎሰኩም         >>   >>",
+          "ኣምላከ ኣብርሃም         >>   >>",
+          "ኮይኑ’ሎ ምሳኹም        >>   >>",
+          "ንዑ ነመስግኖ            >>   >>",
+          "ነዚ ፈጣሪኹም           >>   >>",
+          "ክንልምኖ ኢና            >>   >>",
+          "ከርእየና ፍሬኹም         >>   >>",
+          "ይረስየክሙ /2/ ከመ ከመ",
+          "ብልማድ ኣይኮነን       ከመ ከመ",
+          "ብጓይላን ዳንኬራን        >>  >>",
+          "ትርጉም ዘለዎ’ዩ           >>  >>",
+          "መርዓ ናይ ገሊላ          >>  >>",
+          "ዘቕንእ ብሓቂ              >> >>",
+          "ከምዚ ንዝምነ             >> >>",
+          "ብመዝሙር ናይ ያሬድ    >> >>",
+          "መንፈሳዊ ቅኔ              >> >>",
+          "ይረስየክሙ /2/ ከመ ከመ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከመ ከመ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣብርሃም ተሰደ ከመ ከመ\nኣምላኹ ኣሚኑ\nከም ሑጻ ከብዝሖ\nልክዕ ከም ኪዳኑ\nንሳራ’ውን ሃቦ\nክትኮኖ ኣሚኑ\nይረስየክሙ (2) ከመ ከመ\n[[/chorus]]\n\nከመ ከመ/2 /\nኣብርሃም ወሳራ\n\nመርዓውን መርዓትን ከመ ከመ\nእንቋዕ ሓጎሰኩም\nኣምላከ ኣብርሃም\nኮይኑ’ሎ ምሳኹም\nንዑ ነመስግኖ\nነዚ ፈጣሪኹም\nክንልምኖ ኢና\nከርእየና ፍሬኹም\nይረስየክሙ (2) ከመ ከመ"
-    },
-    "ti_ro": {
-      "title": "Keme keme",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Keme keme/2 /\nAbrham wesara\nAbrham tesede keme keme\nAmlakhu aminu\nKem hutsa kebzho\nLk kem kidanu\nNsara’wn habo\nKtkono aminu\nYresyekmu (2) keme keme\nMerawn meratn keme keme\nNqwa hagosekum\nAmlake abrham\nKoynu’lo msakhum\nNu nemesgno\nNezi fetarikhum\nKnlmno ina\nKeryena frekhum\nYresyekmu (2) keme keme\nBlmad aykonen keme keme\nBgwaylan dankeran\nTrgum zelewo’yu\nMera nay gelila\nZeqn bhaqi\nKemzi nzmne\nBmezmur nay yared\nMenfesawi qne\nYresyekmu (2) keme keme"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Abrham wesara",
+      "Abrham tesede     keme keme",
+      "Amlakhu aminu       >>  >>",
+      "Kem huts'a kebzho    >>  >>",
+      "Lk' kem kidanu      >>  >>",
+      "Nsara’wn habo         >>  >>",
+      "Ktkono aminu         >>  >>",
+      "Yresyekmu /2/ keme keme"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mer'awn mer'atn    keme keme",
+          "Nqwa' hagosekum         >>   >>",
+          "Amlake abrham         >>   >>",
+          "Koynu’lo msakhum        >>   >>",
+          "N'u nemesgno            >>   >>",
+          "Nezi fet'arikhum           >>   >>",
+          "Knlmno ina            >>   >>",
+          "Keryena frekhum         >>   >>",
+          "Yresyekmu /2/ keme keme",
+          "Blmad aykonen       keme keme",
+          "Bgwaylan dankeran        >>  >>",
+          "Trgum zelewo’yu           >>  >>",
+          "Mer'a nay gelila          >>  >>",
+          "Zeqn bhaqi              >> >>",
+          "Kemzi nzmne             >> >>",
+          "Bmezmur nay yared    >> >>",
+          "Menfesawi qne              >> >>",
+          "Yresyekmu /2/ keme keme"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

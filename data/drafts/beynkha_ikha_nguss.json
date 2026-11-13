@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_816c93b867",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በይንኻ ኢኻ ንጉሥ"
+  "id": 454,
+  "title": "በይንኻ ኢኻ ንጉሥ",
+  "ti": {
+    "chorus": [
+      "በይንኻ ኢኻ ንጉሥ በይንኻ ኢኻ ዳኛ /2/",
+      "ተመስገን ኢየሱስ መጸናንዒና",
+      "ተነባዕኩ ስለ ፍቕርኻ",
+      "ሞባእ ቅኔ'ውን ተውደቕኩልካ",
+      "ቅኔ ካሕሳ ኣይኮነን ንዓኻ",
+      "ምሉእ ዕድመይ እንተኣመስገንኩኻ",
+      "ቅኔ ካሕሳ ኣይኮነን ንዓኻ",
+      "ስጋዕ ሽበት ተመስገንኩኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዝመሃርካኒ ናይ ፍቕሪ ፊደል",
+          "ዝሃብካኒ ናይ ልቢ ደወል",
+          "ኣንቂሑኒ ኣነ አምልኸካ",
+          "ካልእ ኣይፈል-ጥን ብዘይካኻ",
+          "ምስ ጸሬኹ ካብ ነውሪ ሓጢኣት",
+          "ሕሊናይ'ውን ምስ ተረድአት",
+          "ሓደግክዎ ንሰብ ምምርኳስ",
+          "ምስ ኣብራህካ ኣብ ልበይ መቕደስ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ ውድቀተይ ኣልዒልካኒ'ኻ",
+          "ኣብ እምባታት እግረይ ኣጽናዕካ",
+          "ብምጻረይ ናይ ፍቕርኻ ኣርዑት",
+          "ሰብ ኮይነ'የ ጠፊኡ ውርደት"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በይንኻ ኢኻ ንጉሥ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nተነባዕኩ ስለ ፍቕርኻ\nሞባእ ቅኔ'ውን ተውደቕኩልካ\nቅኔ ካሕሳ ኣይኮነን ንዓኻ\nምሉእ ዕድመይ እንተኣመስገንኩኻ\nቅኔ ካሕሳ ኣይኮነን ንዓኻ\nስጋዕ ሽበት ተመስገንኩኻ\n[[/chorus]]\n\nበይንኻ ኢኻ ንጉሥ በይንኻ ኢኻ ዳኛ (2)\nተመስገን ኢየሱስ መጸናንዒና\n\nዝመሃርካኒ ናይ ፍቕሪ ፊደል\nዝሃብካኒ ናይ ልቢ ደወል\nኣንቂሑኒ ኣነ አምልኸካ\nካልእ ኣይፈል-ጥን ብዘይካኻ\n\nካብ ውድቀተይ ኣልዒልካኒ'ኻ\nኣብ እምባታት እግረይ ኣጽናዕካ\nብምጻረይ ናይ ፍቕርኻ ኣርዑት\nሰብ ኮይነ'የ ጠፊኡ ውርደት"
-    },
-    "ti_ro": {
-      "title": "Beynkha ikha nguSs",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Beynkha ikha nguss beynkha ikha danya (2)\nTemesgen iyesus metsenanina\nTenebaku sle fqrkha\nMoba qne'wn tewdeqkulka\nQne kahsa aykonen nakha\nMlu dmey nteamesgenkukha\nQne kahsa aykonen nakha\nSga shbet temesgenkukha\nZmeharkani nay fqri fidel\nZhabkani nay lbi dewel\nAnqihuni ane amlkheka\nKal ayfel-tn bzeykakha\nMs tserekhu kab newri hatiat\nHlinay'wn ms teredat\nHadegkwo nseb mmrkwas\nMs abrahka ab lbey meqdes\nKab wdqetey alilkani'kha\nAb mbatat grey atsnaka\nBmtsarey nay fqrkha arut\nSeb koyne'ye tefiu wrdet"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Beynkha ikha nguss beynkha ikha danya /2/",
+      "Temesgen iyesus mets'enan'ina",
+      "Teneba'ku sle fqrkha",
+      "Moba qne'wn tewdeqkulka",
+      "Qne kahsa aykonen n'akha",
+      "Mlu 'dmey nteamesgenkukha",
+      "Qne kahsa aykonen n'akha",
+      "Sga' shbet temesgenkukha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zmeharkani nay fqri fidel",
+          "Zhabkani nay lbi dewel",
+          "Anqihuni ane emlkheka",
+          "Kal ayfel-t'n bzeykakha",
+          "Ms ts'erekhu kab newri hat'iat",
+          "Hlinay'wn ms teredet",
+          "Hadegkwo nseb mmrkwas",
+          "Ms abrahka ab lbey meqdes"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab wdqetey al'ilkani'kha",
+          "Ab mbatat grey ats'na'ka",
+          "Bmts'arey nay fqrkha ar'ut",
+          "Seb koyne'ye t'efiu wrdet"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

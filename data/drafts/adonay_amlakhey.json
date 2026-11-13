@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_057cf75490",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣዶናይ ኣምላኸይ"
+  "id": 430,
+  "title": "ኣዶናይ ኣምላኸይ",
+  "ti": {
+    "chorus": [
+      "ኣዶናይ ኣምላኸይ ቤዛ ናይ ሕይወተይ/2/",
+      "ከምዘይዘመሩሉ ሆሣዕና ኢሎም",
+      "ይሰቐል እናበሉ ድፍረት ተመሊኦም",
+      "ምሕረት ዝለገሰ ስቕለት ፈሪዶሞ",
+      "ፈጣሪ ውቅያኖስ ሓሞት ኣስትዮሞ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መስቀል ኣሸኪሞም ኣብቲ ጎልጎታ",
+          "ሕይወቱ ሰዊኡ ምእንታና ጎይታ",
+          "ኣእማን ዝበዝሖ  ከቢድ ዓቐበት",
+          "ብዙሕ ተሳቕዩ ንዓለም ድሕነት/2/",
+          "ኣካል ምስተወግአ ማይ ምስ ደም ፈሲሱ",
+          "ዝጠፍአ ሕይወትና ዳግም ተመሊሱ",
+          "ኩሉ ዝፈጠረ ብረቂቕ ስልጣኑ",
+          "ብሰብ ተገሪፉ ሞይቱ ተቐቢሩ/2/",
+          "መይቱ ኣይተረፈን ከምዝተናገሩ",
+          "ተሲኡ ኣዶናይ ካብ ዝተቐበሮ",
+          "ሕያዋይ ጓሳና ካብ ናዝሬት ዝወጸ",
+          "ምስጋና ይብጽሓዮ ዕዳና ዝደምሰሰ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣዶናይ ኣምላኸይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nከምዘይዘመሩሉ ሆሣዕና ኢሎም\nይሰቐል እናበሉ ድፍረት ተመሊኦም\nምሕረት ዝለገሰ ስቕለት ፈሪዶሞ\nፈጣሪ ውቅያኖስ ሓሞት ኣስትዮሞ(2)\n[[/chorus]]\n\nኣዶናይ ኣምላኸይ ቤዛ ናይ ሕይወተይ(2)\n\nመስቀል ኣሸኪሞም ኣብቲ ጎልጎታ\nሕይወቱ ሰዊኡ ምእንታና ጎይታ\nኣእማን ዝበዝሖ ከቢድ ዓቐበት\nብዙሕ ተሳቕዩ ንዓለም ድሕነት(2)\n\nመይቱ ኣይተረፈን ከምዝተናገሩ\nተሲኡ ኣዶናይ ካብ ዝተቐበሮ\nሕያዋይ ጓሳና ካብ ናዝሬት ዝወጸ\nምስጋና ይብጽሓዮ ዕዳና ዝደምሰሰ(2)"
-    },
-    "ti_ro": {
-      "title": "Adonay amlakhey",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAdonay amlakhey beza nay hywetey(2)\n[[/chorus]]\n\nKemzeyzemerulu hosana ilom\nYseqel nabelu dfret temeliom\nMhret zlegese sqlet feridomo\nFetari wqyanos hamot astyomo(2)\nMesqel ashekimom abti golgota\nHywetu sewiu mntana goyta\nAman zbezho kebid aqebet\nBzuh tesaqyu nalem dhnet(2)\nAkal mstewega may ms dem fesisu\nZtefa hywetna dagm temelisu\nKulu zfetere breqiq sltanu\nBseb tegerifu moytu teqebiru(2)\nMeytu ayterefen kemztenageru\nTesiu adonay kab zteqebero\nHyaway gwasana kab nazret zwetse\nMsgana ybtshayo dana zdemsese(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Adonay amlakhey beza nay hywetey/2/",
+      "Kemzeyzemerulu hossa'na ilom",
+      "Yseqel nabelu dfret temeliom",
+      "Mhret zlegese sqlet feridomo",
+      "Fet'ari wqyanos hamot astyomo/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mesqel ashekimom abti golgota",
+          "Hywetu sewiu mntana goyta",
+          "Aman zbezho  kebid 'aqebet",
+          "Bzuh tesaqyu n'alem dhnet/2/",
+          "Akal mstewege may ms dem fesisu",
+          "Zt'efe hywetna dagm temelisu",
+          "Kulu zfet'ere breqiq slt'anu",
+          "Bseb tegerifu moytu teqebiru/2/",
+          "Meytu ayterefen kemztenageru",
+          "Tesiu adonay kab zteqebero",
+          "Hyaway gwasana kab nazret zwets'e",
+          "Msgana ybts'hayo 'dana zdemsese/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

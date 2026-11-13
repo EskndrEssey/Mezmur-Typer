@@ -1,41 +1,29 @@
 {
-  "id": "h_efr_d3ad66a291",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እስመ ለዓለም"
+  "id": 435,
+  "title": "እስመ ለዓለም",
+  "ti": {
+    "chorus": [
+      "እስመ ለዓለም እህ (4)",
+      "ለዓለም (2) እስመ ለዓለም (2) ንበለሎም (2)",
+      "ኩልና ንዘምር እህ ብፍቕሪ ብሓባር እህ",
+      "ጐይታ ክባርኾ እህ ነዚ ቅዱስ ሓዳር እህ",
+      "ቃና ዘገሊላ እህ ምስ ቅድስት ኣዲኡ እህ",
+      "ከም ዝተረኸበ እህ መርዓ ኣኽቢሩ እህ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እስመ ለዓለም",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኩልና ንዘምር እህ ብፍቕሪ ብሓባር እህ\nጐይታ ክባርኾ እህ ነዚ ቅዱስ ሓዳር እህ\nቃና ዘገሊላ እህ ምስ ቅድስት ኣዲኡ እህ\nከም ዝተረኸበ እህ መርዓ ኣኽቢሩ እህ\nመርዓዊ ሠናይ እህ መርዓት ሠናይት እህ\n[[/chorus]]\n\nእስመ ለዓለም እህ (4)\nለዓለም (2) እስመ ለዓለም (2) ንበለሎም (2)"
-    },
-    "ti_ro": {
-      "title": "'Sme le'alem",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Sme lealem h (4)\nLealem (2) sme lealem (2) nbelelom (2)\nKulna nzemr h bfqri bhabar h\nGoyta kbarkho h nezi qdus hadar h\nQana zegelila h ms qdst adiu h\nKem zterekhebe h mera akhbiru h\nMerawi senay h merat senayt h"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sme le'alem h (4)",
+      "Le'alem (2) sme le'alem (2) nbelelom (2)",
+      "Kulna nzemr h bfqri bhabar h",
+      "Gwayta kbarkho h nezi qdus hadar h",
+      "Qana zegelila h ms qdst adiu h",
+      "Kem zterekhebe h mer'a akhbiru h"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

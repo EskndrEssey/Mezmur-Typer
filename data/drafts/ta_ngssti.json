@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_cbca548de5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እታ ንግሥቲ"
+  "id": 167,
+  "title": "እታ ንግሥቲ",
+  "ti": {
+    "chorus": [
+      "እታ ንግሥቲ ብወርቂ ኦፌር ተሰሊማ",
+      "ኣብ የማንካ ትቐውም/2/",
+      "ትልምን’ውን ጽድቂ ክንስለም",
+      "እግዚአብሔር ኣባኺ ክግለጽ ክነግሥ",
+      "ክብርኺ ወሲኹ ብምልኣት ክፈስስ",
+      "ካብ ጸሓይ ንላዕሊ ዕጽፍታት በሪህኪ",
+      "ትነብሪ ዘለዓለም ኣብ ሰማይ ከቢርኪ (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልዑል  እግዚአብሔር  ኃደረ ኣብ ማሕጸንኪ",
+          "መላእክት ሰገዱ ንዘሎ ኣብ ከርሥኺ",
+          "ንወልደ  እግዚአብሔር  ማሕደሩ ዝኾንኪ",
+          "ንፀሓይ ብምውላድ ሰማይ ተሰሚኺ (2)",
+          "ርግቢት ናይ ሰላም ንግሥት ዘኣርያም",
+          "ክብርቲ  ብእግዚአብሔር  ኣዴና ማርያም",
+          "ወርቂ ተሰሊምኪ ብርሃን ተኸዲንኪ",
+          "መላእክት ብሓባር ወትሩ የመስግኑኺ (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንፍጹም ክብርኺ ናፊቐ ክርእዮ",
+          "ንዓይ ንባርያኺ ገጽኪ ኣብርህዮ",
+          "ኣብ የማን ትቖሚ ዘወትር ኣዴና",
+          "ለምኒ ንጐይታ ምእንቲ ኵልና (2)"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እታ ንግሥቲ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nእግዚአብሔር ኣባኺ ክግለጽ ክነግሥ\nክብርኺ ወሲኹ ብምልኣት ክፈስስ\nካብ ጸሓይ ንላዕሊ ዕጽፍታት በሪህኪ\nትነብሪ ዘለዓለም ኣብ ሰማይ ከቢርኪ (2)\n[[/chorus]]\n\nእታ ንግሥቲ ብወርቂ ኦፌር ተሰሊማ\nኣብ የማንካ ትቐውም(2)\nትልምን’ውን ጽድቂ ክንስለም\n\nልዑል እግዚአብሔር ኃደረ ኣብ ማሕጸንኪ\nመላእክት ሰገዱ ንዘሎ ኣብ ከርሥኺ\nንወልደ እግዚአብሔር ማሕደሩ ዝኾንኪ\nንፀሓይ ብምውላድ ሰማይ ተሰሚኺ (2)\n\nንፍጹም ክብርኺ ናፊቐ ክርእዮ\nንዓይ ንባርያኺ ገጽኪ ኣብርህዮ\nኣብ የማን ትቖሚ ዘወትር ኣዴና\nለምኒ ንጐይታ ምእንቲ ኵልና (2)"
-    },
-    "ti_ro": {
-      "title": "'Ta ngSsti",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\nAb yemanka tqewm(2)\n[[/chorus]]\n\nTa ngssti bwerqi ofer teselima\nTlmn’wn tsdqi knslem\nGziabher abakhi kglets knegss\nKbrkhi wesikhu bmlat kfess\nKab tsehay nlali tsftat berihki\nTnebri zelealem ab semay kebirki (2)\nLul gziabher hadere ab mahtsenki\nMelakt segedu nzelo ab kersskhi\nNwelde gziabher mahderu zkhonki\nNtsehay bmwlad semay tesemikhi (2)\nRgbit nay selam ngsst zearyam\nKbrti bgziabher adena maryam\nWerqi teselimki brhan tekhedinki\nMelakt bhabar wetru yemesgnukhi (2)\nNftsum kbrkhi nafiqe kryo\nNay nbaryakhi getski abrhyo\nAb yeman tqomi zewetr adena\nLemni ngoyta mnti kwilna (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ta ngssti bwerqi ofer teselima",
+      "Ab yemanka tqewm/2/",
+      "Tlmn’wn ts'dqi knslem",
+      "Gziebher abakhi kglets' knegss",
+      "Kbrkhi wesikhu bmlat kfess",
+      "Kab ts'ehay nla'li 'ts'ftat berihki",
+      "Tnebri zele'alem ab semay kebirki (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "L'ul  gziebher  hadere ab mahts'enki",
+          "Melakt segedu nzelo ab kersskhi",
+          "Nwelde  gziebher  mahderu zkhonki",
+          "Nts'ehay bmwlad semay tesemikhi (2)",
+          "Rgbit nay selam ngsst zearyam",
+          "Kbrti  bgziebher  adena maryam",
+          "Werqi teselimki brhan tekhedinki",
+          "Melakt bhabar wetru yemesgnukhi (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nfts'um kbrkhi nafiqe kryo",
+          "N'ay nbaryakhi gets'ki abrhyo",
+          "Ab yeman tqomi zewetr adena",
+          "Lemni ngwayta mnti kwlna (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

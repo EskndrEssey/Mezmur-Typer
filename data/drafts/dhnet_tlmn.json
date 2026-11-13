@@ -1,41 +1,31 @@
 {
-  "id": "h_efr_cedf31fe01",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ድኅነት እትልምን"
+  "id": 524,
+  "title": "ድኅነት እትልምን",
+  "ti": {
+    "chorus": [
+      "ድኅነት እትልምን ንደቅኻ ኵሉ (2)",
+      "ናዛዜ ሕዙናን ኣሜን /2/",
+      "ገብርኤል ለልዑል መልኣከ ኃይሉ",
+      "ብሰላምታ ገብርኤል ብብስራት ገብርኤል",
+      "ሰላምታ ይብጻሕኪ ኪዳነ ምሕረት",
+      "ንኣምን ብኣኻ ኣማላዲ ኢኻ",
+      "ንሰለስቱ ደቂቅ ካብ ሓዊ ዘውጻእካ"
+    ],
+    "verses": []
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ድኅነት እትልምን",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nብሰላምታ ገብርኤል ብብስራት ገብርኤል\nሰላምታ ይብጻሕኪ ኪዳነ ምሕረት\n[[/chorus]]\n\nድኅነት እትልምን ንደቅኻ ኵሉ (2)\nናዛዜ ሕዙናን ኣሜን (2)\nገብርኤል ለልዑል መልኣከ ኃይሉ\n\nንኣምን ብኣኻ ኣማላዲ ኢኻ\nንሰለስቱ ደቂቅ ካብ ሓዊ ዘውጻእካ"
-    },
-    "ti_ro": {
-      "title": "Dhnet 'tlmn",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "[[chorus]]\nNazaze hzunan amen (2)\n[[/chorus]]\n\nDhnet tlmn ndeqkha kwilu (2)\nGebrel lelul melake haylu\nBselamta gebrel bbsrat gebrel\nSelamta ybtsahki kidane mhret\nNamn bakha amaladi ikha\nNselestu deqiq kab hawi zewtsaka\nNselestu deqiq zewtsaka kab ton\nHalhalta nay hawi zhul may gerkalom"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dhnet tlmn ndeqkha kwlu (2)",
+      "Nazaze hzunan amen /2/",
+      "Gebrel lel'ul melake haylu",
+      "Bselamta gebrel bbsrat gebrel",
+      "Selamta ybts'ahki kidane mhret",
+      "Namn bakha amaladi ikha",
+      "Nselestu deqiq kab hawi zewts'aka"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

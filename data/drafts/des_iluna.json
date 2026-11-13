@@ -1,41 +1,87 @@
 {
-  "id": "h_efr_2aad22d41a",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ደስ ኢሉና"
+  "id": 115,
+  "title": "ደስ ኢሉና",
+  "ti": {
+    "chorus": [
+      "ደስ ኢሉና ደስ ይበልኩም ሎሚ /2/",
+      "ናብዚ ቅዱስ ዕለት ስለዘብጽሓና",
+      "እግዚአብሔር ይመስገን ርህሩህ ፈጣሪና /2/",
+      "ደስ ኢሉና ከይተጸባጸበ",
+      "ደስ ኢሉና ንዅሉ በደልና",
+      "ደስ ኢሉና ናብዚ ቅዱስ ዕለት ኣብጺሑና ጐይታ",
+      "ደስ ኢሉና ለይቲ ይኹን ቀትሪ",
+      "ደስ ኢሉና ምሳና ይሰርሕ",
+      "ደስ ኢሉና ከም ብርሃን ናይ ጸሓይ ንገጽና የብርህ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደስ ኢሉና ጥበበኛ ንጉሥ",
+          "ደስ ኢሉና በዓል ጸጋ ጐይታ",
+          "ደስ ኢሉና ብንእሽተይ ዓቢይ",
+          "ደስ ኢሉና ልብና ምስ ሰግአ",
+          "ደስ ኢሉና ከም ፍቓድ እግዚአብሔር ኵሉ ነገር ኮነ",
+          "ደስ ኢሉና ኣኽሊል ምረቓና",
+          "ደስ ኢሉና ጸቢቑዩ ሎሚ",
+          "ደስ ኢሉና ንዓቢይ ዝማሬ ተቃልሕ ምድሪ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደስ ኢሉና መን’ዩ ከም እግዚአብሔር",
+          "ደስ ኢሉና መን’ዩ ከም ኣምላኽና",
+          "ደስ ኢሉና ኣብ ሓዘን ኣብ ሓጎስ መጸናንዒና",
+          "ደስ ኢሉና ክብሪ ይኹን ንዓኻ",
+          "ደስ ኢሉና ዝደመቐ ዕልልታ",
+          "ደስ ኢሉና ነዚ ክቡር ዕለት ዝሃብካ ባሪኽካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ደስ ኢሉና",
-      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
-      "lyrics": "[[chorus]]\nደስ ኢሉና ከይተጸባጸበ\nደስ ኢሉና ንዅሉ በደልና\nደስ ኢሉና ናብዚ ቅዱስ ዕለት ኣብጺሑና ጐይታ\nደስ ኢሉና ለይቲ ይኹን ቀትሪ\nደስ ኢሉና ምሳና ይሰርሕ\nደስ ኢሉና ከም ብርሃን ናይ ጸሓይ ንገጽና የብርህ\n[[/chorus]]\n\nደስ ኢሉና ደስ ይበልኩም ሎሚ (2)\nናብዚ ቅዱስ ዕለት ስለዘብጽሓና\nእግዚአብሔር ይመስገን ርህሩህ ፈጣሪና (2)\n\nደስ ኢሉና ጥበበኛ ንጉሥ\nደስ ኢሉና በዓል ጸጋ ጐይታ\nደስ ኢሉና ፍቕሪ ይኹን ሰላም ሃበና ባዕልኻ\nደስ ኢሉና ይውሕዶ ምስጋና\nደስ ኢሉና ይውሕዶ ውዳሴ\nደስ ኢሉና ንመሓሪ ኣምላኽ ናይ ኣብርሃም ሥላሴ\n\nደስ ኢሉና መን’ዩ ከም እግዚአብሔር\nደስ ኢሉና መን’ዩ ከም ኣምላኽና\nደስ ኢሉና ኣብ ሓዘን ኣብ ሓጎስ መጸናንዒና\nደስ ኢሉና ክብሪ ይኹን ንዓኻ\nደስ ኢሉና ዝደመቐ ዕልልታ\nደስ ኢሉና ነዚ ክቡር ዕለት ዝሃብካ ባሪኽካ"
-    },
-    "ti_ro": {
-      "title": "Des iluna",
-      "zemari": "zemarit werqnesh haylu",
-      "lyrics": "[[chorus]]\nDes iluna des ybelkum lomi (2)\n[[/chorus]]\n\nNabzi qdus let slezebtshana\nGziabher ymesgen rhruh fetarina (2)\nDes iluna keytetsebatsebe\nDes iluna nkwilu bedelna\nDes iluna nabzi qdus let abtsihuna goyta\nDes iluna leyti ykhun qetri\nDes iluna msana yserh\nDes iluna kem brhan nay tsehay ngetsna yebrh\nDes iluna tbebenya nguss\nDes iluna beal tsega goyta\nDes iluna fqri ykhun selam habena balkha\nDes iluna ywhdo msgana\nDes iluna ywhdo wdase\nDes iluna nmehari amlakh nay abrham sslase\nDes iluna bnshtey abiy\nDes iluna lbna ms sega\nDes iluna kem fqad gziabher kwilu neger kone\nDes iluna akhlil mreqana\nDes iluna tsebiquyu lomi\nDes iluna nabiy zmare teqalh mdri\nDes iluna men’yu kem gziabher\nDes iluna men’yu kem amlakhna\nDes iluna ab hazen ab hagos metsenanina\nDes iluna kbri ykhun nakha\nDes iluna zdemeqe llta\nDes iluna nezi kbur let zhabka barikhka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Des iluna des ybelkum lomi /2/",
+      "Nabzi qdus 'let slezebts'hana",
+      "Gziebher ymesgen rhruh fet'arina /2/",
+      "Des iluna keytets'ebats'ebe",
+      "Des iluna nkhwlu bedelna",
+      "Des iluna nabzi qdus 'let abts'ihuna gwayta",
+      "Des iluna leyti ykhun qetri",
+      "Des iluna msana yserh",
+      "Des iluna kem brhan nay ts'ehay ngets'na yebrh"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Des iluna t'bebenya nguss",
+          "Des iluna be'al ts'ega gwayta",
+          "Des iluna bnshtey 'abiy",
+          "Des iluna lbna ms sege",
+          "Des iluna kem fqad gziebher kwlu neger kone",
+          "Des iluna akhlil mreqana",
+          "Des iluna ts'ebiquyu lomi",
+          "Des iluna n'abiy zmare teqalh mdri"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Des iluna men’yu kem gziebher",
+          "Des iluna men’yu kem amlakhna",
+          "Des iluna ab hazen ab hagos mets'enan'ina",
+          "Des iluna kbri ykhun n'akha",
+          "Des iluna zdemeqe 'llta",
+          "Des iluna nezi kbur 'let zhabka barikhka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

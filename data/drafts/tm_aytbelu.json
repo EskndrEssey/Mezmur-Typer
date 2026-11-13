@@ -1,41 +1,51 @@
 {
-  "id": "h_efr_57e2b970a4",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ትም ኣይትበሉ"
+  "id": 70,
+  "title": "ትም ኣይትበሉ",
+  "ti": {
+    "chorus": [
+      "ትም ኣይትበሉ ንእግዚአብሔር ኣመስግኑ",
+      "ንኣምላኽ ንዘምር ኩላትና ብዕልልታ",
+      "ምስጋና ይኹኖ ናይ ሰራዊት ጐይታ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኩላትና ንዘምር ንክብሪ እግዚአብሔር",
+          "ውዕለቱ ብዙሕ’ዩ ናይ መስቀሉ ነገር",
+          "ካህናት ዘምሩ ኩላትኩም ብዕልልታ",
+          "ንጐይታ እግዚአብሔር ናይ ሰራዊት ጐይታ /2/",
+          "ንባሕሪ ከፊሉ ዘሰጋገረኩም",
+          "ንከውሒ ኣንቂዑ ማይ ዘስተየኩም",
+          "ምእመናን ዘምሩ ኩላትኩም ብዓውታ",
+          "ንንጉሥ ክርስቶስ ንዘምር ብዕልልታ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ይልማ ሃይሉ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ትም ኣይትበሉ",
-      "zemari": "ዘማሪ ይልማ ሃይሉ",
-      "lyrics": "[[chorus]]\nሓፍቲ ሙሴ ማርያም ከበሮ ኣልዕሊ\nብመዝሙር ምስጋና ዕልል (2) በሊ\nንኣምላኽ ንዘምር ኩላትና ብዕልልታ\nምስጋና ይኹኖ ናይ ሰራዊት ጐይታ (2)\n[[/chorus]]\n\nትም ኣይትበሉ ንእግዚአብሔር ኣመስግኑ\nቅዱስ (5) በሉ መላእክት ኵልኹም\nምስጋና ኣቕርቡ ቅዱስ (2) በሉ\n\nኩላትና ንዘምር ንክብሪ እግዚአብሔር\nውዕለቱ ብዙሕ’ዩ ናይ መስቀሉ ነገር\nካህናት ዘምሩ ኩላትኩም ብዕልልታ\nንጐይታ እግዚአብሔር ናይ ሰራዊት ጐይታ (2)"
-    },
-    "ti_ro": {
-      "title": "Tm aytbelu",
-      "zemari": "zemari ylma haylu",
-      "lyrics": "[[chorus]]\nMsgana ykhuno nay serawit goyta (2)\n[[/chorus]]\n\nTm aytbelu ngziabher amesgnu\nQdus (5) belu melakt kwilkhum\nMsgana aqrbu qdus (2) belu\nHafti muse maryam kebero alli\nBmezmur msgana ll (2) beli\nNamlakh nzemr kulatna bllta\nKulatna nzemr nkbri gziabher\nWletu bzuh’yu nay mesqelu neger\nKahnat zemru kulatkum bllta\nNgoyta gziabher nay serawit goyta (2)\nNbahri kefilu zesegagerekum\nNkewhi anqiu may zesteyekum\nMmenan zemru kulatkum bawta\nNnguss krstos nzemr bllta (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tm aytbelu ngziebher amesgnu",
+      "Namlakh nzemr kulatna b'llta",
+      "Msgana ykhuno nay serawit gwayta /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kulatna nzemr nkbri gziebher",
+          "W'letu bzuh’yu nay mesqelu neger",
+          "Kahnat zemru kulatkum b'llta",
+          "Ngwayta gziebher nay serawit gwayta /2/",
+          "Nbahri kefilu zesegagerekum",
+          "Nkewhi anqi'u may zesteyekum",
+          "Mmenan zemru kulatkum b'awta",
+          "Nnguss krstos nzemr b'llta /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

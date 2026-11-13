@@ -1,0 +1,95 @@
+{
+  "id": 395,
+  "title": "ዓለም ጠላም",
+  "ti": {
+    "chorus": [
+      "ንዒ ማርያም ዘምስለ ትጉሃን ሐራ፡",
+      "ወንዒ ገራህት ፈራዪተ ቍርባን ጵርስፎራ፡",
+      "ዓለምሰ ታማስኖ ለዘኣፍቀራ፡",
+      "መኑ ጠቢብ ወለባዊ ዘየኣምር ግብራ፡",
+      "ዘቀተለት ብዙኃነ በሕምዛ ኣሰጊራ። (መልክኣ ኤዶም)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዓለም ጠላም መንደቕ ኳና",
+          "ካብ ቅዱሳን ኣበው የለን ዝኣመና",
+          "ኣነ ግን ብማዕዶ ኣዝየ ብሂገያ",
+          "ቀባሕባሕ ተበልኩ፡ ናብ ኵሉ መኣዝን",
+          "ኣምላኽ በዘይካኻ፡ ዝረድኣኒ የለን /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብዛ ባሕሪ ዓለም፡  ኣንፈት ጠፊኡኒ",
+          "ንየማን ንጸጋም፡ ማዕበል ክደፍኣኒ",
+          "ብሶላ ኣቦታተይ፡ ማርያም ምርሕኒ",
+          "ዝድኅነሉ መሥመር፡ ባዕልኺ ኣትኅዝኒ /2/",
+          "ካብ መዓሙቕ ኃጢኣት፡ ግዝኣት ፈርዖን ከንቱ",
+          "ናብ ሃገረ ተስፋ፡ ብሰላም ክኣቱ",
+          "ብዓምዲ ደመና፡ ዘይጠፍእ መብራህቱ",
+          "ምርሓኒ ሚካኤል፡ ናብ ከንኣን ክኣቱ /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ወገናተይ ዝብሎም፡ ግፍዒ ዝለመዱ",
+          "ኣሕዋተይ ናብ ግብጺ፡ ንዓይ ዘሳደዱ",
+          "ኣርኢኻኒ ኢኻ’ሞ ኣባይ ክእንገዱ",
+          "ተመስገን ኣምላኸይ ዘየቕንን ፍርዱ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "N'i maryam zemsle tguhan hera፡",
+      "Wen'i geraht ferayite qwrban p'rsfora፡",
+      "'Alemse tamasno lezeafqera፡",
+      "Menu t'ebib welebawi zeyeamr gbra፡",
+      "Zeqetelet bzuhane behmza asegira. (melka edom)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Alem t'elam mendeq kwana",
+          "Kab qdusan abew yelen zamena",
+          "Ane gn bma'do azye bhigeya",
+          "Qebahbah tebelku፡ nab kwlu meazn",
+          "Amlakh bezeykakha፡ zredani yelen /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abza bahri 'alem፡  anfet t'efiuni",
+          "Nyeman nts'egam፡ ma'bel kdefani",
+          "Bsola abotatey፡ maryam mrhni",
+          "Zdhnelu messmer፡ ba'lkhi athzni /2/",
+          "Kab me'amuq hat'iat፡ gzat fer'on kentu",
+          "Nab hagere tesfa፡ bselam katu",
+          "B'amdi demena፡ zeyt'ef mebrahtu",
+          "Mrhani mikael፡ nab kenan katu /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Wegenatey zblom፡ gf'i zlemedu",
+          "Ahwatey nab gbts'i፡ n'ay zesadedu",
+          "Arikhani ikha’mo abay kngedu",
+          "Temesgen amlakhey zeyeqnn frdu /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

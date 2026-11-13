@@ -1,44 +1,85 @@
 {
-  "id": "h_efr_e48a498f7c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኤቨን ኤዘር"
+  "id": 380,
+  "title": "ኤቨን ኤዘር",
+  "ti": {
+    "chorus": [
+      "ንዘምር ኤቨን ኤዘር እልና /2/ ንጸውዕ ጐይታና",
+      "ዘምሩ ኤቨን ኤዘር ኢልኩም /2/ ዘክሩ ጐይታኹም",
+      "ጠሚትካኒ ኢኻ'ሞ ብውሽጣዊ ሰበይ",
+      "መዚንካኒ ኢኻ'ሞ ብዅሉ ተግባረይ",
+      "ኃጥእን በደለኛን ኮይነ ተረኺበ",
+      "ብሕሰም ናብራ ዓለም ፍጹም ዝረብረበ /2/ ኮይነ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ትሕዝቶ ናይዛ ዓለም እናሓደረ ይጎድል",
+      "ኣነ ግን ኣይነቓሕኩን ተገዚኤ ይነብር /2/ ኔረ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ረዲእካኒ ብሓቂ ረዲእካኒ /2/",
+      "ረዲእካና ብሓቂ ረዲእካና /2/",
+      "ብዕብዳን ስኽራን ጓይላ ኣሕሊፈ ዘመነይ",
+      "ባህታ ልበይ ኢለዮ ስጋዊ ትምኒተይ",
+      "ኣብ መንበር መላገጽቲ ደፊረ ዝቕመጥ",
+      "ብምኽሪ ናይ ረሲኣን ሓሳበይ ዝልወጥ /2/ ኔረ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ረዲእካኒ ብሓቂ ረዲእካኒ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ረዲእካና ብሓቂ ረዲእካና /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኤቨን ኤዘር",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nጠሚትካኒ ኢኻ'ሞ ብውሽጣዊ ሰበይ\nመዚንካኒ ኢኻ'ሞ ብዅሉ ተግባረይ\nኃጥእን በደለኛን ኮይነ ተረኺበ\nብሕሰም ናብራ ዓለም ፍጹም ዝረብረበ (2) ኮይነ\nሎሚ ግና ጐይታየ ረዲእካኒ\nካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ\nጸዊዕካኒ ሰሚዐ ጻውዒትካ\nመጺኤ'ለኹ ክርኢ ምድኃንካ\nረዲእካኒ ብሓቂ ረዲእካኒ (2)\nረዲእካና ብሓቂ ረዲእካና (2)\n[[/chorus]]\n\nንዘምር ኤቨን ኤዘር እልና (2) ንጸውዕ ጐይታና\nዘምሩ ኤቨን ኤዘር ኢልኩም (2) ዘክሩ ጐይታኹም\n\nመዓልቲ ንመዓልቲ ክትክእ ኣይድንጉን\nዓመታተይ ይውስኽ ይሓጽር ዕድመይ'ውን\nትሕዝቶ ናይዛ ዓለም እናሓደረ ይጎድል\nኣነ ግን ኣይነቓሕኩን ተገዚኤ ይነብር (2) ኔረ\nሎሚ ግና ጐይታየ ረዲእካኒ\nካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ\nጸዊዕካኒ ሰሚዐ ጻውዒትካ\nመጺኤ'ለኹ ክርኢ ምድኃንካ\nረዲእካኒ ብሓቂ ረዲእካኒ (2)\nረዲእካና ብሓቂ ረዲእካና (2)"
-    },
-    "ti_ro": {
-      "title": "Even ezer",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nRedikani bhaqi redikani (2)\n[[/chorus]]\n\nNzemr even ezer lna (2) ntsew goytana\nZemru even ezer ilkum (2) zekru goytakhum\nTemitkani ikha'mo bwshtawi sebey\nMezinkani ikha'mo bkwilu tegbarey\nHatn bedelenyan koyne terekhibe\nBhsem nabra alem ftsum zrebrebe (2) koyne\n\nMealti nmealti ktk aydngun\nAmetatey ywskh yhatsr dmey'wn\nThzto nayza alem nahadere ygodl\nAne gn ayneqahkun tegezie ynebr (2) nere\n\nBbdan skhran gwayla ahlife zemeney\nBahta lbey ileyo sgawi tmnitey\nAb menber melagetsti defire zqmet\nBmkhri nay resian hasabey zlwet (2) nere"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Nzemr even ezer lna /2/ nts'ew' gwaytana",
+      "Zemru even ezer ilkum /2/ zekru gwaytakhum",
+      "T'emitkani ikha'mo bwsht'awi sebey",
+      "Mezinkani ikha'mo bkhwlu tegbarey",
+      "Hat'n bedelenyan koyne terekhibe",
+      "Bhsem nabra 'alem fts'um zrebrebe /2/ koyne",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Thzto nayza 'alem nahadere ygodl",
+      "Ane gn ayneqahkun tegezie ynebr /2/ nere",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Redikani bhaqi redikani /2/",
+      "Redikana bhaqi redikana /2/",
+      "B'bdan skhran gwayla ahlife zemeney",
+      "Bahta lbey ileyo sgawi tmnitey",
+      "Ab menber melagets'ti defire zqmet'",
+      "Bmkhri nay resian hasabey zlwet' /2/ nere",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Redikani bhaqi redikani /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Redikana bhaqi redikana /2/"
+        ]
+      }
+    ]
   },
   "needs_review": [
-    "chorus_check"
+    "chorus_possible_page_split"
   ]
 }

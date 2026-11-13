@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_7999c1b034",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብ ትሕቲ እግርኺ"
+  "id": 378,
+  "title": "ኣብ ትሕቲ እግርኺ",
+  "ti": {
+    "chorus": [
+      "ኣብ ትሕቲ እግርኺ ኣሕዛብ ክሰግዱ’ዮም",
+      "እቶም ዝነዓቑኺ ዝጸልኡኺ ኩሎም",
+      "ጸጋኺ ኣሚኖም ክብርኺ ኵሉ",
+      "ድንግል ለምንልና ዕረቕና ክብሉ /2/",
+      "ንኹሎም ቅዱሳን ትግለጺ ኢኺ",
+      "ርግቢት ናይ ሰላም ኣንቲ ተኽለ ወይኒ",
+      "ኃጢአት ዓለም በደል ዘይብልኪ ንጽህቲ",
+      "ናይ ምስጋና ኣዳራሽ ናይ ኣብ ውዳሴኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕዝብን ኣሕዛብን ሰገዱ ብፍርሓት",
+          "ጸጋ ምስ በረኸት ኵሉ ዝተዋህበት",
+          "መድኃኒት ናይ ሰባት ምልክት ናይ ድኅነት",
+          "ንአምላክ ያዕቆብ መሕደሪት ዝኾነት",
+          "ንጽዮን ክበብዋ ከም ዝበለ ኣቦና",
+          "ናትና ሞገስ ግርማ ኩኒ ኣብ ማእከልና",
+          "ጸጋን በረኸትን ኣውህብና ኢኺ",
+          "ሰላም ለኪ ኢልና ክንሰግድ ንዓኺ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብ ትሕቲ እግርኺ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nንኹሎም ቅዱሳን ትግለጺ ኢኺ\nርግቢት ናይ ሰላም ኣንቲ ተኽለ ወይኒ\nኃጢአት ዓለም በደል ዘይብልኪ ንጽህቲ\nናይ ምስጋና ኣዳራሽ ናይ ኣብ ውዳሴኺ\n[[/chorus]]\n\nኣብ ትሕቲ እግርኺ ኣሕዛብ ክሰግዱ’ዮም\nእቶም ዝነዓቑኺ ዝጸልኡኺ ኩሎም\nጸጋኺ ኣሚኖም ክብርኺ ኵሉ\nድንግል ለምንልና ዕረቕና ክብሉ (2)\n\nሕዝብን ኣሕዛብን ሰገዱ ብፍርሓት\nጸጋ ምስ በረኸት ኵሉ ዝተዋህበት\nመድኃኒት ናይ ሰባት ምልክት ናይ ድኅነት\nንአምላክ ያዕቆብ መሕደሪት ዝኾነት\n\nስብሐት ለእግዚአብሔር ኪያነ ዘፈጠረ ከመ ናምልኮ።\nስብሐት ለማርያም እመ አምላክ እግዝእትነ ወመድኃኒትነ።\nስብሐት ለመስቀለ ክርስቶስ ዕፀ መድኃኒት ኃይልነ ወጸወንነ።"
-    },
-    "ti_ro": {
-      "title": "Ab thti 'grkhi",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nDngl lemnlna reqna kblu (2)\n[[/chorus]]\n\nAb thti grkhi ahzab ksegdu’yom\nTom zneaqukhi ztselukhi kulom\nTsegakhi aminom kbrkhi kwilu\nNkhulom qdusan tgletsi ikhi\nRgbit nay selam anti tekhle weyni\nHatiat alem bedel zeyblki ntshti\nNay msgana adarash nay ab wdasekhi\nHzbn ahzabn segedu bfrhat\nTsega ms berekhet kwilu ztewahbet\nMedhanit nay sebat mlkt nay dhnet\nNamlak yaqob mehderit zkhonet\nNtsyon kbebwa kem zbele abona\nNatna moges grma kuni ab makelna\nTsegan berekhetn awhbna ikhi\nSelam leki ilna knsegd nakhi\nSbhat legziabher kiyane zefetere keme namlko.\nSbhat lemaryam me amlak gztne wemedhanitne.\nSbhat lemesqele krstos tse medhanit haylne wetsewenne."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab thti grkhi ahzab ksegdu’yom",
+      "Tom zne'aqukhi zts'elukhi kulom",
+      "Ts'egakhi aminom kbrkhi kwlu",
+      "Dngl lemnlna 'reqna kblu /2/",
+      "Nkhulom qdusan tglets'i ikhi",
+      "Rgbit nay selam anti tekhle weyni",
+      "Hat'iet 'alem bedel zeyblki nts'hti",
+      "Nay msgana adarash nay ab wdasekhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hzbn ahzabn segedu bfrhat",
+          "Ts'ega ms berekhet kwlu ztewahbet",
+          "Medhanit nay sebat mlkt nay dhnet",
+          "Nemlak ya'qob mehderit zkhonet",
+          "Nts'yon kbebwa kem zbele abona",
+          "Natna moges grma kuni ab makelna",
+          "Ts'egan berekhetn awhbna ikhi",
+          "Selam leki ilna knsegd n'akhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

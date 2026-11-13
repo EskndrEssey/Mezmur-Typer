@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_ce4e05ece7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንዝለመኖ ይሰምዕ’ዩ"
+  "id": 400,
+  "title": "ንዝለመኖ ይሰምዕ’ዩ",
+  "ti": {
+    "chorus": [
+      "ንዝለመኖ ይሰምዕ’ዩ ጐይታ",
+      "ስሙ ዝጸውዐ ይረክብ እፎይታ",
+      "ኣብ ኢያሪኮ ኣዕይንተይ ከፊቱ",
+      "ሕይወት ክርኢ ኣቚሙኒ ኣብ ቤቱ /2/",
+      "ካብ ኣሕዛብ ምዃነይ እፈልጥ እየ ኣነ",
+      "ርስቲ ከም ዘይብለይ እንተዘይ ኣሚነ",
+      "ሕጂ ግን ተመሊሰ እግዚኣብሔር ይወደስ",
+      "ናተይ ኢኻ ኢሉኒ ደሙ ብምፍሳስ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከየውጻኹ ቃላት ገለ ከይበልክዎ",
+          "‘ቲ ናይ ልበይ ድሌት ኵሉ ፈሊጥዎ",
+          "ስመይ ባርያ ከሎ ንዕቕቲ ብሰባት",
+          "ኣውያተይ ብምስማዕ ሂቡኒ ማይ ሕይወት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተስፋ ከይቆረጽና ኣብ እምነት ጸኒዕና",
+          "ንቕረብ ናብ ጐይታና ክሕደስ መንፈስና",
+          "ወሃቢ ኵሉ ነገር ከሎ መስፍን ሰላም",
+          "ኣእዳውና ኣይንዘርግሕ ናብ ምስሊ ‘ዛ ዓለም"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንዝለመኖ ይሰምዕ’ዩ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nካብ ኣሕዛብ ምዃነይ እፈልጥ እየ ኣነ\nርስቲ ከም ዘይብለይ እንተዘይ ኣሚነ\nሕጂ ግን ተመሊሰ እግዚኣብሔር ይወደስ\nናተይ ኢኻ ኢሉኒ ደሙ ብምፍሳስ\n[[/chorus]]\n\nንዝለመኖ ይሰምዕ’ዩ ጐይታ\nስሙ ዝጸውዐ ይረክብ እፎይታ\nኣብ ኢያሪኮ ኣዕይንተይ ከፊቱ\nሕይወት ክርኢ ኣቚሙኒ ኣብ ቤቱ (2)\n\nከየውጻኹ ቃላት ገለ ከይበልክዎ\n‘ቲ ናይ ልበይ ድሌት ኵሉ ፈሊጥዎ\nመዓስ’ዶ ይዳረግዩ ንብዓተይ ምስ ግብረይ\nምሕረት ግን ሂቡኒ ዘዕርፈሉ ልበይ\n\nተስፋ ከይቆረጽና ኣብ እምነት ጸኒዕና\nንቕረብ ናብ ጐይታና ክሕደስ መንፈስና\nወሃቢ ኵሉ ነገር ከሎ መስፍን ሰላም\nኣእዳውና ኣይንዘርግሕ ናብ ምስሊ ‘ዛ ዓለም"
-    },
-    "ti_ro": {
-      "title": "Nzlemeno ysem'’yu",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nHywet kri aqwamuni ab betu (2)\n[[/chorus]]\n\nNzlemeno ysem’yu goyta\nSmu ztsewa yrekb foyta\nAb iyariko ayntey kefitu\nKab ahzab mkwaney felt ye ane\nRsti kem zeybley ntezey amine\nHji gn temelise gziabher ywedes\nNatey ikha iluni demu bmfsas\nKeyewtsakhu qalat gele keybelkwo\n‘Ti nay lbey dlet kwilu felitwo\nMeas’do ydaregyu nbatey ms gbrey\nMhret gn hibuni zerfelu lbey\nAbti mdre beda golgol ber sheba\nMsti htsan wedey btsmi ktqa\nSmey barya kelo nqti bsebat\nAwyatey bmsma hibuni may hywet\nTesfa keyqoretsna ab mnet tsenina\nNqreb nab goytana khdes menfesna\nWehabi kwilu neger kelo mesfn selam\nAdawna aynzergh nab msli ‘za alem"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nzlemeno ysem'’yu gwayta",
+      "Smu zts'ew'e yrekb foyta",
+      "Ab iyariko a'yntey kefitu",
+      "Hywet kri aqwimuni ab betu /2/",
+      "Kab ahzab mkhwaney felt' ye ane",
+      "Rsti kem zeybley ntezey amine",
+      "Hji gn temelise gziabher ywedes",
+      "Natey ikha iluni demu bmfsas"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Keyewts'akhu qalat gele keybelkwo",
+          "‘Ti nay lbey dlet kwlu felit'wo",
+          "Smey barya kelo n'qti bsebat",
+          "Awyatey bmsma' hibuni may hywet"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tesfa keyqorets'na ab mnet ts'eni'na",
+          "Nqreb nab gwaytana khdes menfesna",
+          "Wehabi kwlu neger kelo mesfn selam",
+          "Adawna aynzergh nab msli ‘za 'alem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

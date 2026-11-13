@@ -1,41 +1,101 @@
 {
-  "id": "h_efr_953c1630e9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ጓል ሃና ኢኺ"
+  "id": 512,
+  "title": "ጓል ሃና ኢኺ",
+  "ti": {
+    "chorus": [
+      "ድንግል /2/ ወላዲተ ቃል",
+      "ጓል ሃና ኢኺ ንጸሓይ ኣዲኡ",
+      "ኣፍ ደገ ምብራቕ",
+      "ቅድስተ ቅዱሳን",
+      "ኣማላዲት ፍጥረት",
+      "ንኣዲኣ ሓንቲ እያ",
+      "ንዝወለደታ",
+      "ህያብ ናይ እግዚአብሔር",
+      "ዝመስላ እኳ የብላን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ጾም ጸሎት ፍረ",
+          "ሃብቲ ቅድስና",
+          "ካብ ኣምላኽ እተዋህበት",
+          "ክትከውን ደመና",
+          "ኣምላኽ ዝወለደት",
+          "ድንግል ማርያም እያ",
+          "ናይ ኢያቄም በረኸት",
+          "ፍረ ጸሎት ሓና",
+          "ኣብ ደብረ ሊባኖስ",
+          "ሎሚ ሓጎስ ኮይኑ",
+          "መላእክቲ ዘመሩ",
+          "ዕርቂ’ውን ተወጢኑ",
+          "ንሕና’ውን ንተሓጎስ",
+          "ምድሓና ቀሪቡ",
+          "ካብ ኢያቄምን ሓናን",
+          "ዘርኢ ተረኺቡ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብስራት ሰላም ኢኺ",
+          "ናይ ፍጥረታት ተስፋ",
+          "ብቅድስናኺ",
+          "ጠፊኡ ሓዘንና",
+          "ንስኺ ምኽንያት ኮይንኪ",
+          "ኵሉ ዓለም ጸኒሑ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ጓል ሃና ኢኺ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣፍ ደገ ምብራቕ\nቅድስተ ቅዱሳን\nኣማላዲት ፍጥረት\nንኣዲኣ ሓንቲ እያ\nንዝወለደታ\nህያብ ናይ እግዚአብሔር\nዝመስላ እኳ የብላን\n[[/chorus]]\n\nጓል ሃና ኢኺ ናይ ኢያቄም በረኸት (2)\nድንግል (2) ወላዲተ ቃል\nጓል ሃና ኢኺ ንጸሓይ ኣዲኡ\n\nናይ ጾም ጸሎት ፍረ\nሃብቲ ቅድስና\nካብ ኣምላኽ እተዋህበት\nክትከውን ደመና\nኣምላኽ ዝወለደት\nድንግል ማርያም እያ\nናይ ኢያቄም በረኸት\nፍረ ጸሎት ሓና\n\nብስራት ሰላም ኢኺ\nናይ ፍጥረታት ተስፋ\nብቅድስናኺ\nጠፊኡ ሓዘንና\nንስኺ ምኽንያት ኮይንኪ\nኵሉ ዓለም ጸኒሑ\nእግዚአብሔር ተዓሪቑና\nካባኺ ሰብ ኮይኑ"
-    },
-    "ti_ro": {
-      "title": "Gwal hana ikhi",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Gwal hana ikhi nay iyaqem berekhet (2)\nDngl (2) weladite qal\nGwal hana ikhi ntsehay adiu\nAf dege mbraq\nQdste qdusan\nAmaladit ftret\nNadia hanti ya\nNzweledeta\nHyab nay gziabher\nZmesla kwa yeblan\nNay tsom tselot fre\nHabti qdsna\nKab amlakh tewahbet\nKtkewn demena\nAmlakh zweledet\nDngl maryam ya\nNay iyaqem berekhet\nFre tselot hana\nAb debre libanos\nLomi hagos koynu\nMelakti zemeru\nRqi’wn tewetinu\nNhna’wn ntehagos\nMdhana qeribu\nKab iyaqemn hanan\nZeri terekhibu\nBsrat selam ikhi\nNay ftretat tesfa\nBqdsnakhi\nTefiu hazenna\nNskhi mkhnyat koynki\nKwilu alem tsenihu\nGziabher teariquna\nKabakhi seb koynu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dngl /2/ weladite qal",
+      "Gwal hana ikhi nts'ehay adiu",
+      "Af dege mbraq",
+      "Qdste qdusan",
+      "Amaladit ft'ret",
+      "Nadia hanti ya",
+      "Nzweledeta",
+      "Hyab nay gziebher",
+      "Zmesla kwa yeblan"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay ts'om ts'elot fre",
+          "Habti qdsna",
+          "Kab amlakh tewahbet",
+          "Ktkewn demena",
+          "Amlakh zweledet",
+          "Dngl maryam ya",
+          "Nay iyaqem berekhet",
+          "Fre ts'elot hana",
+          "Ab debre libanos",
+          "Lomi hagos koynu",
+          "Melakti zemeru",
+          "'Rqi’wn tewet'inu",
+          "Nhna’wn ntehagos",
+          "Mdhana qeribu",
+          "Kab iyaqemn hanan",
+          "Zeri terekhibu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsrat selam ikhi",
+          "Nay ft'retat tesfa",
+          "Bqdsnakhi",
+          "T'efiu hazenna",
+          "Nskhi mkhnyat koynki",
+          "Kwlu 'alem ts'enihu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

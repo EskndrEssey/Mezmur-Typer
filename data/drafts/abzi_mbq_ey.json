@@ -1,0 +1,46 @@
+{
+  "id": 76,
+  "title": "ኣብዚ ምብቅዐይ",
+  "ti": {
+    "chorus": [
+      "ኣብዚ ምብቅዐይ እዩ ብኣኻ",
+      "ኮይንካ ሞገሰይ በቲ ጸጋኻ",
+      "ተሓቲሙ'ዩ ስምካ ኣብ ልበይ",
+      "ምስጢር ናይ ክብረይ እንዲኻ ጐይታይ",
+      "ሃብታም ዝበልካኒ ካብ ዓለም ሓሪኻ",
+      "መዓስ ከም ካልኦት መልክዐይ ርኢኻ",
+      "ኣብቂዑኒ እምበር በቒዐ ኣይብልን ኣነ መሊአ ኣፈይ",
+      "ኣብ ምሉእ ዘመነይ ኢድካ እንክትዓዪ",
+      "ርእያ እያ'ሞ ዓይነይ",
+      "ንሰብ ዘገርም'ዩ ልዕልና ባርያኻ",
+      "ምስጢር'ዩ ንሥጋ ዘይፍታሕ መርሚርካ",
+      "ከመይ ሰለጦ ኢሉ ንዓኻ ረሲዑ ይድነቕ ሰብ ብኣይ",
+      "ዝዅሉ ግን ናትካ ካባኻ",
+      "ስሌኻ ብኣኻ'ዩ ጐይታይ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Abzi mbq'ey yu bakha",
+      "Koynka mogesey beti ts'egakha",
+      "Tehatimu'yu smka ab lbey",
+      "Mst'ir nay kbrey ndikha gwaytay",
+      "Habtam zbelkani kab 'alem harikha",
+      "Me'as kem kalot melk'ey rikha",
+      "Abqi'uni mber beqi'e aybln ane melie afey",
+      "Ab mlu zemeney idka nkt'ayi",
+      "Rya ya'mo 'ayney",
+      "Nseb zegerm'yu l'lna baryakha",
+      "Mst'ir'yu nssga zeyftah mermirka",
+      "Kemey selet'o ilu n'akha resi'u ydneq seb bay",
+      "Zkhwlu gn natka kabakha",
+      "Slekha bakha'yu gwaytay"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

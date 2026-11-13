@@ -1,41 +1,65 @@
 {
-  "id": "h_efr_a91c9b8a04",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንዓ ቅዱስ ገብርኤል"
+  "id": 313,
+  "title": "ንዓ ቅዱስ ገብርኤል",
+  "ti": {
+    "chorus": [
+      "ኣብ ላዕሊ ኣብ ሰማይ ኣብ እዮር",
+      "ከተማልደና ምስ እግዚኣብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ይሰማዕ ድምጽኻ ንረድኤት  ንምሕረት",
+          "ለምነልና ቅዱስ ገብርኤል ሊቀ መላእክት",
+          "ባዕልኻ ምርሓና ናብ ሕይወት",
+          "ክንጸንዕ ከማኻ ብእምነት",
+          "ተልእኮኻ ንኣናንያ ኣዛርያ",
+          "ንሚሳኤል ከተውጽኦም ካብ መጋርያ",
+          "ዘድሓንካዮም ካብ ነበልባል",
+          "ኣቦ ኵልና ቅዱስ ገብርኤል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ገብርኤል ስምካ ግሩም ዘለዎ ምስጢር",
+          "ርድኣና ንደቂ ሰባት ዕዮ እግዚኣብሔር",
+          "ሎሚ ውን ገብርኤል ከም ቀደምካ",
+          "ምሕረት ለምነልና ካብ ኣምላኽካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንዓ ቅዱስ ገብርኤል",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nሰማያዊ ብስራታዊ መልኣኽ ገብርኤል\nዝመጻእካ ከተብስራ ንድንግል\nኣብ ላዕሊ ኣብ ሰማይ ኣብ እዮር\nከተማልደና ምስ እግዚኣብሔር\n[[/chorus]]\n\nንዓ ንዓ ቅዱስ ገብርኤል ንዓ ንዓ (2)\nብኣማላድነትካ ርድኣና (2)\n\nይሰማዕ ድምጽኻ ንረድኤት ንምሕረት\nለምነልና ቅዱስ ገብርኤል ሊቀ መላእክት\nባዕልኻ ምርሓና ናብ ሕይወት\nክንጸንዕ ከማኻ ብእምነት\n\nገብርኤል ስምካ ግሩም ዘለዎ ምስጢር\nርድኣና ንደቂ ሰባት ዕዮ እግዚኣብሔር\nሎሚ ውን ገብርኤል ከም ቀደምካ\nምሕረት ለምነልና ካብ ኣምላኽካ"
-    },
-    "ti_ro": {
-      "title": "N'a qdus gebrel",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nBamaladnetka rdana (2)\n[[/chorus]]\n\nNa na qdus gebrel na na (2)\nSemayawi bsratawi melakh gebrel\nZmetsaka ketebsra ndngl\nAb lali ab semay ab yor\nKetemaldena ms gziabher\nYsema dmtskha nredet nmhret\nLemnelna qdus gebrel liqe melakt\nBalkha mrhana nab hywet\nKntsen kemakha bmnet\nTelkokha nananya azarya\nNmisael ketewtsom kab megarya\nZedhankayom kab nebelbal\nAbo kwilna qdus gebrel\nGebrel smka grum zelewo mstir\nRdana ndeqi sebat yo gziabher\nLomi wn gebrel kem qedemka\nMhret lemnelna kab amlakhka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab la'li ab semay ab yor",
+      "Ketemaldena ms gziabher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ysema' dmts'kha nredet  nmhret",
+          "Lemnelna qdus gebrel liqe melakt",
+          "Ba'lkha mrhana nab hywet",
+          "Knts'en' kemakha bmnet",
+          "Telkokha nananya azarya",
+          "Nmisael ketewts'om kab megarya",
+          "Zedhankayom kab nebelbal",
+          "Abo kwlna qdus gebrel"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gebrel smka grum zelewo mst'ir",
+          "Rdana ndeqi sebat 'yo gziabher",
+          "Lomi wn gebrel kem qedemka",
+          "Mhret lemnelna kab amlakhka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

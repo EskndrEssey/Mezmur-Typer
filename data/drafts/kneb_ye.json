@@ -1,41 +1,65 @@
 {
-  "id": "h_efr_b32d9316d5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክነብዕ’የ"
+  "id": 838,
+  "title": "ክነብዕ’የ",
+  "ti": {
+    "chorus": [
+      "ክነብዕ’የ ወትሩ ክበኪ’የ",
+      "ንጐይታ ኣምላኸይ ብዙሕ በዲለ’የ",
+      "ገዓረይ ኣውያተይ ተቐበለኒ",
+      "ምስኪን ኮይነ ’ለኹ ኃጢአት ዘድከመኒ/2/",
+      "ልበይ ኣቤት በል ክጽውዕ ኣምላኽካ",
+      "ብሓዘን ብብኽያት ኣፍልጥ ትካዜኻ",
+      "በደለይ ፈሊጠ ምሕረትካ ክጥይቕ",
+      "መሓሪ ኢኻ’ሞ ፍጡር ዘይትንዕቕ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መጋረጃ ኃጢአት ንፊተይ ሸፈኖ",
+          "ኣካለይ ማህመነ ምቛም ተሳእኖ",
+          "ኢኺ’ሞ ኣብ ቅድሚኡ በዓል ክብሪ ሞገስ",
+          "እመቤት ለምኒ ናብ ፍቁር ክርስቶስ",
+          "ጉልበተይ ንስኻ መበርትዒ ሓይለይ",
+          "በደለይ ደምስሶ ኩነለይ መምህረይ",
+          "ካብ በደል ክርሕቕ ኣእዳውካ ዘርጊሕካ",
+          "ሕጂ ግን ኣሚነ ከም እተጋገኹ",
+          "ብርኹስ ኣንደበት ንዓኻ ለመንኩ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክነብዕ’የ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nልበይ ኣቤት በል ክጽውዕ ኣምላኽካ\nብሓዘን ብብኽያት ኣፍልጥ ትካዜኻ\nበደለይ ፈሊጠ ምሕረትካ ክጥይቕ\nመሓሪ ኢኻ’ሞ ፍጡር ዘይትንዕቕ\n[[/chorus]]\n\nክነብዕ’የ ወትሩ ክበኪ’የ\nንጐይታ ኣምላኸይ ብዙሕ በዲለ’የ\nገዓረይ ኣውያተይ ተቐበለኒ\nምስኪን ኮይነ ’ለኹ ኃጢአት ዘድከመኒ(2)\n\nመጋረጃ ኃጢአት ንፊተይ ሸፈኖ\nኣካለይ ማህመነ ምቛም ተሳእኖ\nኢኺ’ሞ ኣብ ቅድሚኡ በዓል ክብሪ ሞገስ\nእመቤት ለምኒ ናብ ፍቁር ክርስቶስ\n\nጌጋ ተጋግየ ንዓኻ ኣቐየምኩ\nንጠፋኢ ሕይወት ኣምላኸይ ሓደግኩ\nሕጂ ግን ኣሚነ ከም እተጋገኹ\nብርኹስ ኣንደበት ንዓኻ ለመንኩ"
-    },
-    "ti_ro": {
-      "title": "Kneb'’ye",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "Kneb’ye wetru kbeki’ye\nNgoyta amlakhey bzuh bedile’ye\nGearey awyatey teqebeleni\nMskin koyne ’lekhu hatiat zedkemeni(2)\nLbey abet bel ktsw amlakhka\nBhazen bbkhyat aflt tkazekha\nBedeley felite mhretka ktyq\nMehari ikha’mo ftur zeytnq\nMegareja hatiat nfitey shefeno\nAkaley mahmene mqwam tesano\nIkhi’mo ab qdmiu beal kbri moges\nMebet lemni nab fqur krstos\nGulbetey nskha meberti hayley\nBedeley demsso kuneley memhrey\nKab bedel krhq adawka zergihka\nDagm nkheybdl atsnani ikha\nGega tegagye nakha aqeyemku\nNtefai hywet amlakhey hadegku\nHji gn amine kem tegagekhu\nBrkhus andebet nakha lemenku"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kneb'’ye wetru kbeki’ye",
+      "Ngwayta amlakhey bzuh bedile’ye",
+      "Ge'arey awyatey teqebeleni",
+      "Mskin koyne ’lekhu hat'iet zedkemeni/2/",
+      "Lbey abet bel kts'w' amlakhka",
+      "Bhazen bbkhyat aflt' tkazekha",
+      "Bedeley felit'e mhretka kt'yq",
+      "Mehari ikha’mo ft'ur zeytn'q"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Megareja hat'iet nfitey shefeno",
+          "Akaley mahmene mqwam tesano",
+          "Ikhi’mo ab qdmiu be'al kbri moges",
+          "Mebet lemni nab fqur krstos",
+          "Gulbetey nskha mebert'i hayley",
+          "Bedeley demsso kuneley memhrey",
+          "Kab bedel krhq adawka zergihka",
+          "Hji gn amine kem tegagekhu",
+          "Brkhus andebet n'akha lemenku"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_850ef19e38",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተዋህዶ መመክሒትና"
+  "id": 516,
+  "title": "ተዋህዶ መመክሒትና",
+  "ti": {
+    "chorus": [
+      "ናይ ዘልዓለም ቤትና /2/",
+      "ብኣኺ ይቕደስ ሞትና ምስ ሕይወትና /2/",
+      "ሕይወትኪ ጥዑም’ዩ ብዙሕ’ዩ ታሪኽኪ",
+      "ሓዋርያት ብደሞም ዝተጋደሉልኪ",
+      "እምካሕ ብኣኺ ሃብቲ እንተዘይብለይ",
+      "ክርስቶስ ኣምላኽኪ እዩ መድኃኒየይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነቢይ ብትንቢቱ ቅድም ዝጸሓፎ",
+          "ኣብ መርከብ ደው ኢሉ ባሕሪ ተመልኪቱ",
+          "እታ ጥንታዊት ሓቀኛ ጎደና",
+          "ሰማያዊት ፍኖት ሓንቲ ከም ምዃና /2/",
+          "ስምኪ ክምስክር እናዘርኩ ዓለም",
+          "ሓቂ ንኽዛረብ ብዘይ ቀልዓለም",
+          "ማዕጾኺ ሰፊሕ መገዱ`ዩ ሰላም",
+          "ኣማናዊት መርከብ እተድኅኒ ፍጹም /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅዱስ ኣትናቴዎስ ዝተሰደደልኪ",
+          "ኣብ ደገ ጎደና ዝተሰየፈልኪ",
+          "ከሳቴብርሃን ዘጽደቐኪ ሕጊ",
+          "ኣፍደገ ገሃነም ዘየናውጸኪ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተዋህዶ መመክሒትና",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nሕይወትኪ ጥዑም’ዩ ብዙሕ’ዩ ታሪኽኪ\nሓዋርያት ብደሞም ዝተጋደሉልኪ\nእምካሕ ብኣኺ ሃብቲ እንተዘይብለይ\nክርስቶስ ኣምላኽኪ እዩ መድኃኒየይ (2)\n[[/chorus]]\n\nተዋህዶ መመክሒትና\nናይ ዘልዓለም ቤትና (2)\nብኣኺ ይቕደስ ሞትና ምስ ሕይወትና (2)\n\nነቢይ ብትንቢቱ ቅድም ዝጸሓፎ\nኣብ መርከብ ደው ኢሉ ባሕሪ ተመልኪቱ\nእታ ጥንታዊት ሓቀኛ ጎደና\nሰማያዊት ፍኖት ሓንቲ ከም ምዃና (2)\n\nቅዱስ ኣትናቴዎስ ዝተሰደደልኪ\nኣብ ደገ ጎደና ዝተሰየፈልኪ\nከሳቴብርሃን ዘጽደቐኪ ሕጊ\nኣፍደገ ገሃነም ዘየናውጸኪ(2)"
-    },
-    "ti_ro": {
-      "title": "Tewahdo memekhitna",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNay zelalem betna (2)\n[[/chorus]]\n\nTewahdo memekhitna\nBakhi yqdes motna ms hywetna (2)\nHywetki tum’yu bzuh’yu tarikhki\nHawaryat bdemom ztegadelulki\nMkah bakhi habti ntezeybley\nKrstos amlakhki yu medhaniyey (2)\nNebiy btnbitu qdm ztsehafo\nAb merkeb dew ilu bahri temelkitu\nTa tntawit haqenya godena\nSemayawit fnot hanti kem mkwana (2)\nSmki kmskr nazerku alem\nHaqi nkhzareb bzey qelalem\nMatsokhi sefih megedu`yu selam\nAmanawit merkeb tedhni ftsum (2)\nQdus atnatewos ztesededelki\nAb dege godena zteseyefelki\nKesatebrhan zetsdeqeki hgi\nAfdege gehanem zeyenawtseki(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nay zel'alem betna /2/",
+      "Bakhi yqdes motna ms hywetna /2/",
+      "Hywetki t''um’yu bzuh’yu tarikhki",
+      "Hawaryat bdemom ztegadelulki",
+      "Mkah bakhi habti ntezeybley",
+      "Krstos amlakhki yu medhaniyey /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nebiy btnbitu qdm zts'ehafo",
+          "Ab merkeb dew ilu bahri temelkitu",
+          "Ta t'ntawit haqenya godena",
+          "Semayawit fnot hanti kem mkhwana /2/",
+          "Smki kmskr nazerku 'alem",
+          "Haqi nkhzareb bzey qel'alem",
+          "Ma'ts'okhi sefih megedu`yu selam",
+          "Amanawit merkeb tedhni fts'um /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qdus atnatewos ztesededelki",
+          "Ab dege godena zteseyefelki",
+          "Kesatebrhan zets'deqeki hgi",
+          "Afdege gehanem zeyenawts'eki/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

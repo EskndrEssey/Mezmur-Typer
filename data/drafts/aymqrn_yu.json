@@ -1,41 +1,95 @@
 {
-  "id": "h_efr_e4a2d5fe2c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣይምቅርን'ዩ"
+  "id": 484,
+  "title": "ኣይምቅርን'ዩ",
+  "ti": {
+    "chorus": [
+      "እወ ክንሰንቕ መንፈስና ክበርቕ ሓጎስና ክደምቕ",
+      "ኣይምቅርን'ዩ ንስኺ ዘይብሉ",
+      "ቅድስተ ቅዱሳን ማርያም ካባኺ'ንድዩ ኵሉ",
+      "ብጓሂ ልቢ ዝተኸበ",
+      "ምሉእ ሰላም ዘይረኸበ",
+      "ናትኪ ዓይኒ ቁሊሕ እንክብሎ",
+      "ንእለቱ ብርሃን ሰላም",
+      "ፍሽኽታ ይዓስሎ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትምኒት ዓለም መሪር ሕንዛ",
+          "ካባ ኮይኑ ድሩዕ ቓንዛ",
+          "ምስ ተድምጺ ሓንቲ ቃልኪ",
+          "ብቐረባ ማይ ሰሊሆም",
+          "ይቕድስ ወድኺ",
+          "መትኒ ጅማት ሰራውረይ",
+          "ሰሪጽክዮ ኣካላተይ",
+          "ንፍቕርኺ ተገለጽኩ",
+          "ኣይውድኦን ከመይ ገይረ",
+          "ገና ዘይዓገብኩ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቆፎ ፍቕሪ ትብርበሪ",
+          "ብፍቕርኺ ትፍቀሪ",
+          "እግዚአብሔር ፍቕሪ እዩ",
+          "ዝደንቀኒ ፍቕሪ ፍቕሪ",
+          "ሓረግ ዘርእኺ'ዩ",
+          "ቃላት ኣልቦ ዘይንገር",
+          "ብዓቕሚ ሰብ ዘይዝርዘር",
+          "ኣሎ ጣዕሚ መቐረትኪ",
+          "ልቢ የቃጸል‘ቲ ፍቕርኺ",
+          "ማርያመይ ክብለኪ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣይምቅርን'ዩ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nብጓሂ ልቢ ዝተኸበ\nምሉእ ሰላም ዘይረኸበ\nናትኪ ዓይኒ ቁሊሕ እንክብሎ\nንእለቱ ብርሃን ሰላም\nፍሽኽታ ይዓስሎ\n[[/chorus]]\n\nንዒ ባርኺ ሰላም ናይ ሕይወትና መቐረት ገዛና\nእወ ክንሰንቕ መንፈስና ክበርቕ ሓጎስና ክደምቕ\nኣይምቅርን'ዩ ንስኺ ዘይብሉ\nቅድስተ ቅዱሳን ማርያም ካባኺ'ንድዩ ኵሉ\n\nትምኒት ዓለም መሪር ሕንዛ\nካባ ኮይኑ ድሩዕ ቓንዛ\nምስ ተድምጺ ሓንቲ ቃልኪ\nብቐረባ ማይ ሰሊሆም\nይቕድስ ወድኺ\n\nቆፎ ፍቕሪ ትብርበሪ\nብፍቕርኺ ትፍቀሪ\nእግዚአብሔር ፍቕሪ እዩ\nዝደንቀኒ ፍቕሪ ፍቕሪ\nሓረግ ዘርእኺ'ዩ"
-    },
-    "ti_ro": {
-      "title": "Aymqrn'yu",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Ni barkhi selam nay hywetna meqeret gezana\nWe knsenq menfesna kberq hagosna kdemq\nAymqrn'yu nskhi zeyblu\nQdste qdusan maryam kabakhi'ndyu kwilu\nBgwahi lbi ztekhebe\nMlu selam zeyrekhebe\nNatki ayni qulih nkblo\nNletu brhan selam\nFshkhta yaslo\nTmnit alem merir hnza\nKaba koynu dru qanza\nMs tedmtsi hanti qalki\nBqereba may selihom\nYqds wedkhi\nMetni jmat serawrey\nSeritskyo akalatey\nNfqrkhi tegeletsku\nAywdon kemey geyre\nGena zeyagebku\nQofo fqri tbrberi\nBfqrkhi tfqeri\nGziabher fqri yu\nZdenqeni fqri fqri\nHareg zerkhi'yu\nQalat albo zeynger\nBaqmi seb zeyzrzer\nAlo tami meqeretki\nLbi yeqatsel‘ti fqrkhi\nMaryamey kbleki"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "We knsenq menfesna kberq hagosna kdemq",
+      "Aymqrn'yu nskhi zeyblu",
+      "Qdste qdusan maryam kabakhi'ndyu kwlu",
+      "Bgwahi lbi ztekhebe",
+      "Mlu selam zeyrekhebe",
+      "Natki 'ayni qulih nkblo",
+      "Nletu brhan selam",
+      "Fshkhta y'aslo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tmnit 'alem merir hnza",
+          "Kaba koynu dru' qanza",
+          "Ms tedmts'i hanti qalki",
+          "Bqereba may selihom",
+          "Yqds wedkhi",
+          "Metni jmat serawrey",
+          "Serits'kyo akalatey",
+          "Nfqrkhi tegelets'ku",
+          "Aywdon kemey geyre",
+          "Gena zey'agebku"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qofo fqri tbrberi",
+          "Bfqrkhi tfqeri",
+          "Gziebher fqri yu",
+          "Zdenqeni fqri fqri",
+          "Hareg zerkhi'yu",
+          "Qalat albo zeynger",
+          "B'aqmi seb zeyzrzer",
+          "Alo t'a'mi meqeretki",
+          "Lbi yeqats'el‘ti fqrkhi",
+          "Maryamey kbleki"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

@@ -1,41 +1,55 @@
 {
-  "id": "h_efr_c966f6c07d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንሱን ለውሃቱን"
+  "id": 382,
+  "title": "ንሱን ለውሃቱን",
+  "ti": {
+    "chorus": [
+      "ንሱን ለውሃቱን ‘ዚ ኣምላኽና ክንደይ ይጥዕም",
+      "ፍቕሩ ኣብ ሕይወትና ይዓዪ'ሎ",
+      "ከም ዝናም ሰማይ የንጀርብበና'ሎ",
+      "ኣሕዛብ ብጭንቀት ይናወጹ",
+      "ፍትሒ ስኢኖም ይራገጹ",
+      "ብጥበብ ዓለም ዘይግለጽ ምስጢር",
+      "ንዓና ግና ገሊጹልና ይነብር /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓሚምና ተስፋ ኣይቆረጽናን",
+          "ሓዚንና ጽንዓት ኣይሰኣናን",
+          "ኣብ ዕለት ዕለት ዝሕልወና",
+          "ለዋህ መድኃኒት ክርስቶስ ኣለና /2/",
+          "ክብሪ ሰማያት ባና ገነት",
+          "ነጸብራቕ ምድኃን ቦታ ሕይወት",
+          "ስፍራ ቅዱሳን ዘልዓለማዊት"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንሱን ለውሃቱን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣሕዛብ ብጭንቀት ይናወጹ\nፍትሒ ስኢኖም ይራገጹ\nብጥበብ ዓለም ዘይግለጽ ምስጢር\nንዓና ግና ገሊጹልና ይነብር (2)\n[[/chorus]]\n\nንሱን ለውሃቱን ‘ዚ ኣምላኽና ክንደይ ይጥዕም\nፍቕሩ ኣብ ሕይወትና ይዓዪ'ሎ\nከም ዝናም ሰማይ የንጀርብበና'ሎ\n\nሓሚምና ተስፋ ኣይቆረጽናን\nሓዚንና ጽንዓት ኣይሰኣናን\nኣብ ዕለት ዕለት ዝሕልወና\nለዋህ መድኃኒት ክርስቶስ ኣለና (2)\n\nሓሚምና . . ."
-    },
-    "ti_ro": {
-      "title": "Nsun lewhatun",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNana gna gelitsulna ynebr (2)\n[[/chorus]]\n\nNsun lewhatun ‘zi amlakhna kndey ytm\nFqru ab hywetna yayi'lo\nKem znam semay yenjerbbena'lo\nAhzab bchnqet ynawetsu\nFthi sinom yragetsu\nBtbeb alem zeyglets mstir\nHamimna tesfa ayqoretsnan\nHazinna tsnat ayseanan\nAb let let zhlwena\nLewah medhanit krstos alena (2)\nKbri semayat bana genet\nNetsebraq mdhan bota hywet\nSfra qdusan zelalemawit\nQal atyulna khbena amlakh (2)\nHamimna . . ."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nsun lewhatun ‘zi amlakhna kndey yt''m",
+      "Fqru ab hywetna y'ayi'lo",
+      "Kem znam semay yenjerbbena'lo",
+      "Ahzab bch'nqet ynawets'u",
+      "Fthi sinom yragets'u",
+      "Bt'beb 'alem zeyglets' mst'ir",
+      "N'ana gna gelits'ulna ynebr /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hamimna tesfa ayqorets'nan",
+          "Hazinna ts'n'at ayseanan",
+          "Ab 'let 'let zhlwena",
+          "Lewah medhanit krstos alena /2/",
+          "Kbri semayat bana genet",
+          "Nets'ebraq mdhan bota hywet",
+          "Sfra qdusan zel'alemawit"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

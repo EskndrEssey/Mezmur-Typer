@@ -1,41 +1,55 @@
 {
-  "id": "h_efr_9eaee3077b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሃሌ ሉያ በሉ"
+  "id": 457,
+  "title": "ሃሌ ሉያ በሉ",
+  "ti": {
+    "chorus": [
+      "ሃሌ ሉያ /2/ በሉ",
+      "ንእግዚአብሔር ሰባት ዕልል በሉ",
+      "ንዘምረሉ ነቕርብ’ውን ምስጋና",
+      "ልዑል እዩ እሞ ዘልዓለም ሥላሴ",
+      "ነኣሽቱ እንከሎና ንሱ ኣልዒሉና",
+      "ብኣእዳዉ ኣጸቢቑ ፈጢሩ ኣኽቢሩና",
+      "ኣብ ሰማይ ኣብ ምድሪ ንዘልዓለም ይኽበር",
+      "ፍጥረታት ዘምሩ ንሓያል እግዚአብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እቲ ምድሓኑ ዘደንቕ ብዙሕ እዩ ለውሃቱ",
+          "ንኽፉእ ኣይህበናን ሰፊሕ እዩ ትዕግስቱ",
+          "ንባሮቱ ይርእየና ብናይ ፍቕሪ ኣዒንቱ",
+          "ወትሩ ይሓቑፈና ብኣእዳው ናይ ምሕረቱ",
+          "ኣብ ናብራ ሕይወትና እዩ’ሞ ምሳና",
+          "ይሕሉ እዩ እሞ ንምውጻእ ምእታውና"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሃሌ ሉያ በሉ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nነኣሽቱ እንከሎና ንሱ ኣልዒሉና\nብኣእዳዉ ኣጸቢቑ ፈጢሩ ኣኽቢሩና\nኣብ ሰማይ ኣብ ምድሪ ንዘልዓለም ይኽበር\nፍጥረታት ዘምሩ ንሓያል እግዚአብሔር\n[[/chorus]]\n\nሃሌ ሉያ (2) በሉ\nንእግዚአብሔር ሰባት ዕልል በሉ\nንዘምረሉ ነቕርብ’ውን ምስጋና\nልዑል እዩ እሞ ዘልዓለም ሥላሴ\n\nእቲ ምድሓኑ ዘደንቕ ብዙሕ እዩ ለውሃቱ\nንኽፉእ ኣይህበናን ሰፊሕ እዩ ትዕግስቱ\nንባሮቱ ይርእየና ብናይ ፍቕሪ ኣዒንቱ\nወትሩ ይሓቑፈና ብኣእዳው ናይ ምሕረቱ"
-    },
-    "ti_ro": {
-      "title": "Hale luya belu",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nHale luya (2) belu\n[[/chorus]]\n\nNgziabher sebat ll belu\nNzemrelu neqrb’wn msgana\nLul yu mo zelalem sslase\nNeashtu nkelona nsu aliluna\nBadawu atsebiqu fetiru akhbiruna\nAb semay ab mdri nzelalem ykhber\nFtretat zemru nhayal gziabher\nTi mdhanu zedenq bzuh yu lewhatu\nNkhfu ayhbenan sefih yu tgstu\nNbarotu yryena bnay fqri aintu\nWetru yhaqufena badaw nay mhretu\nAb nabra hywetna yu’mo msana\nYhlu yu mo nmwtsa mtawna\nAb nkhedo kwilu ayfleyenan ftsum\nQereba yu nsu ymesgen zelalem"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Hale luya /2/ belu",
+      "Ngziebher sebat 'll belu",
+      "Nzemrelu neqrb’wn msgana",
+      "L'ul yu mo zel'alem Sslase",
+      "Neashtu nkelona nsu al'iluna",
+      "Badawu ats'ebiqu fet'iru akhbiruna",
+      "Ab semay ab mdri nzel'alem ykhber",
+      "Ft'retat zemru nhayal gziebher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ti mdhanu zedenq bzuh yu lewhatu",
+          "Nkhfu ayhbenan sefih yu t'gstu",
+          "Nbarotu yryena bnay fqri a'intu",
+          "Wetru yhaqufena badaw nay mhretu",
+          "Ab nabra hywetna yu’mo msana",
+          "Yhlu yu mo nmwts'a mtawna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

@@ -1,41 +1,87 @@
 {
-  "id": "h_efr_b4d8c3a01c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብሥረነ ገብርኤል"
+  "id": 414,
+  "title": "ኣብሥረነ ገብርኤል",
+  "ti": {
+    "chorus": [
+      "እምነ ኣምላክ ተፈናዊ",
+      "መጋቤ ሐዲስ ብሥራታዊ",
+      "ከመ ይትባረክ ሕይወተ ዚአነ",
+      "ብሥራተ ጽድቅ ልማደከ አስምዐነ",
+      "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+      "ብሥራተ ጽድቅ ኣብሥረነ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሊሉይ ውእቱ ግብረ እንቲአከ",
+          "ወኢይትረከብ ፍሡሕ ከማከ",
+          "ሰአሎ ለኣምላክ ምስሌሁ ነሀሉ",
+          "ፍና እግሩ እንዘ ፍጹመ ንተሉ",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ",
+          "ሠለስተ ደቂቀ ዘኣድኃንከ ግብተ",
+          "ሰፊሐከ ክንፈ አቍረርከ እሳተ",
+          "በሰይፈ ዚአከ ኲናተ ፀራዊ",
+          "አርሕቅ ለነ ገብርኤል ብሥራታዊ",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲያብሎስሀ ውስተ ነድ ወደይከ",
+          "ዘካርያስሀ በሃመ ረሰይከ",
+          "አንቅሐነ ለነ እምነ ንዋም",
+          "ኀበ ጽድቅ ከመ ንሑር በሰላም",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብሥረነ ገብርኤል",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nእምቅድመ ምጽኣቱ ለፀሐየ ጽድቅ\nለማርያም ድንግል ዘኣብሠርከ በጻሕቅ\nከመ ይትባረክ ሕይወተ ዚአነ\nብሥራተ ጽድቅ ልማደከ አስምዐነ\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ\n[[/chorus]]\n\nእምነ ኣምላክ ተፈናዊ\nመጋቤ ሐዲስ ብሥራታዊ\nገብርኤል ራማዊ ሰፊሓከ ክንፈ\nመልዕልቴነ ጸልል ትርድአነ ዘልፈ\n\nሊሉይ ውእቱ ግብረ እንቲአከ\nወኢይትረከብ ፍሡሕ ከማከ\nሰአሎ ለኣምላክ ምስሌሁ ነሀሉ\nፍና እግሩ እንዘ ፍጹመ ንተሉ\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ\n\nዲያብሎስሀ ውስተ ነድ ወደይከ\nዘካርያስሀ በሃመ ረሰይከ\nአንቅሐነ ለነ እምነ ንዋም\nኀበ ጽድቅ ከመ ንሑር በሰላም\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ"
-    },
-    "ti_ro": {
-      "title": "AbSsrene gebrel",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAbssrene gebrel abssrene (2)\nBssrate tsdq abssrene\n[[/chorus]]\n\nMne amlak tefenawi\nMegabe hadis bssratawi\nGebrel ramawi sefihake knfe\nMelltene tsell trdane zelfe\nMqdme mtsatu letsehaye tsdq\nLemaryam dngl zeabserke betsahq\nKeme ytbarek hywete ziane\nBssrate tsdq lmadeke asmane\n\nLiluy wtu gbre ntiake\nWeiytrekeb fsuh kemake\nSealo leamlak mslehu nehalu\nFna gru nze ftsume ntelu\n\nSeleste deqiqe zeadhanke gbte\nSefihake knfe aqwirerke sate\nBeseyfe ziake kunate tserawi\nArhq lene gebrel bssratawi\n\nDiyablosha wste ned wedeyke\nZekaryasha behame reseyke\nAnqhane lene mne nwam\nHebe tsdq keme nhur beselam"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mne amlak tefenawi",
+      "Megabe hedis bssratawi",
+      "Keme ytbarek hywete ziene",
+      "Bssrate ts'dq lmadeke esm'ene",
+      "Abssrene gebrel abssrene (2)",
+      "Bssrate ts'dq abssrene"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Liluy wtu gbre ntieke",
+          "Weiytrekeb fssuh kemake",
+          "Seelo leamlak mslehu nehelu",
+          "Fna gru nze fts'ume ntelu",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene",
+          "Sseleste deqiqe zeadhanke gbte",
+          "Sefiheke knfe eqwrerke sate",
+          "Beseyfe zieke kwinate ts'erawi",
+          "Erhq lene gebrel bssratawi",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Diyabloshe wste ned wedeyke",
+          "Zekaryashe behame reseyke",
+          "Enqhene lene mne nwam",
+          "Hebe ts'dq keme nhur beselam",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

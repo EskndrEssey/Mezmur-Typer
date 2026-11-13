@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_0dbc1da599",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ፍኖተ ሎዛ"
+  "id": 359,
+  "title": "ፍኖተ ሎዛ",
+  "ti": {
+    "chorus": [
+      "ፍኖተ ሎዛ ኪዳነ ምሕረት ፍኖተ ሎዛ /2/",
+      "ኣብ መሪር ሕይወት ናትና መኣዛ",
+      "ዝፈረኽልና ናይ ዓለም ቤዛ",
+      "ኣስካላ ያዕቆብ ጉዕዞ መላእክት ምሳሌኺ",
+      "ንጉሥ ብምውላድ ንግስት ንምባል በቒዕኪ",
+      "ፍቕርኺ ንዓይ ከምሓዊ ኮይኑ ኣንዲዱኒ",
+      "ኪዳነ ምሕረት ቅዱስ ምልጃኺ ረዲኡኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ገነት ደገ ብስለ ሔዋን ምስ ተዓጽወ",
+          "ብምኽንያትኪ ጉዕዞ ዕረፍተይ ዝተራሕወ",
+          "መሳልል ኢኺ ካብ ሞት ናብ ሕይወት ዝሰግረላ",
+          "ጐይታ ወሊድኪ ንነፍሰይ ካብ ጸልማት ዘልዕላ",
+          "ደገ ሰማያት ሓበን ዓሌትና ንፍጡራት",
+          "ማሕደር ናይ ኣምላኽ ግርማኦም ኢኺ ንቅዱሳት",
+          "ገብርኤል መጺኡ ሰላምታ ሂቡ ኣብሲሩኪ",
+          "ኪዳነ ምሕረት ቃላት ስኢኑ ንምግላጽኪ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ፍኖተ ሎዛ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣስካላ ያዕቆብ ጉዕዞ መላእክት ምሳሌኺ\nንጉሥ ብምውላድ ንግስት ንምባል በቒዕኪ\nፍቕርኺ ንዓይ ከምሓዊ ኮይኑ ኣንዲዱኒ\nኪዳነ ምሕረት ቅዱስ ምልጃኺ ረዲኡኒ\n[[/chorus]]\n\nፍኖተ ሎዛ ኪዳነ ምሕረት ፍኖተ ሎዛ (2)\nኣብ መሪር ሕይወት ናትና መኣዛ\nዝፈረኽልና ናይ ዓለም ቤዛ\n\nናይ ገነት ደገ ብስለ ሔዋን ምስ ተዓጽወ\nብምኽንያትኪ ጉዕዞ ዕረፍተይ ዝተራሕወ\nመሳልል ኢኺ ካብ ሞት ናብ ሕይወት ዝሰግረላ\nጐይታ ወሊድኪ ንነፍሰይ ካብ ጸልማት ዘልዕላ\n\nናይ ኣምላኸይ ቤት ንስኺ ንነፍሰይ ኩርዓታ\nከቢዱኒሎ ብዙሕ'ዩ ቲ'ናትኪ ውዕለታ\nገብርኤል መጺኡ ሰላምታ ሂቡ ኣብሲሩኪ\nኪዳነ ምሕረት ቃላት ስኢኑ ንምግላጽኪ"
-    },
-    "ti_ro": {
-      "title": "Fnote loza",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Fnote loza kidane mhret fnote loza (2)\nAb merir hywet natna meaza\nZferekhlna nay alem beza\nAskala yaqob guzo melakt msalekhi\nNguss bmwlad ngst nmbal beqiki\nFqrkhi nay kemhawi koynu andiduni\nKidane mhret qdus mljakhi rediuni\nNay genet dege bsle hewan ms teatswe\nBmkhnyatki guzo reftey zterahwe\nMesall ikhi kab mot nab hywet zsegrela\nGoyta welidki nnefsey kab tselmat zella\nDege semayat haben aletna nfturat\nMahder nay amlakh grmaom ikhi nqdusat\nZtensakulki betel ikhi msalyawit\nBkhidan natki aybelann yu ti'arawit\nNay amlakhey bet nskhi nnefsey kurata\nKebidunilo bzuh'yu ti'natki wleta\nGebrel metsiu selamta hibu absiruki\nKidane mhret qalat sinu nmglatski"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Fnote loza kidane mhret fnote loza /2/",
+      "Ab merir hywet natna meaza",
+      "Zferekhlna nay 'alem beza",
+      "Askala ya'qob gu'zo melakt msalekhi",
+      "Nguss bmwlad ngst nmbal beqi'ki",
+      "Fqrkhi n'ay kemhawi koynu andiduni",
+      "Kidane mhret qdus mljakhi rediuni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay genet dege bsle hewan ms te'ats'we",
+          "Bmkhnyatki gu'zo 'reftey zterahwe",
+          "Mesall ikhi kab mot nab hywet zsegrela",
+          "Gwayta welidki nnefsey kab ts'elmat zel'la",
+          "Dege semayat haben 'aletna nft'urat",
+          "Mahder nay amlakh grmaom ikhi nqdusat",
+          "Gebrel mets'iu selamta hibu absiruki",
+          "Kidane mhret qalat sinu nmglats'ki"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

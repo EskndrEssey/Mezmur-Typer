@@ -1,41 +1,85 @@
 {
-  "id": "h_efr_2abeaa2431",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መርከብ ናይ ኖህ"
+  "id": 247,
+  "title": "መርከብ ናይ ኖህ",
+  "ti": {
+    "chorus": [
+      "ብኢደ ዮሃንስ ተወሃብክና",
+      "ኣኽሊል ድኅነትና ኢኺ መመክሒትና",
+      "ድንግል ማርያም ኣደ ኩላትና",
+      "እቲ ቀዳማይ ፍጥረት ኣብ ዝወደቐሉ",
+      "ካብ ገነት ንምድሪ ኣብ ዝተሰጎሉ",
+      "ኣብ ኣርዑት መግዛእቲ ኣብ ዝነበረሉ",
+      "ንኣምላኽ ለመነ ከድሕኖ ብሓይሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጸሎቱ ሰሚዑ ጐይታ ተቐበሎ",
+          "ስሙ እናጸውዐ ኣዳም ኣዳም በሎ",
+          "ኣቤት ጐይታ በለ ኣብ ጸልማት እንከሎ",
+          "ተስፋ ድኅነት ሃቦ ኵሉ ዝከኣሎ",
+          "እቲ ተስፋ ድኅነት ድሕሪ ነዊሕ እዋን",
+          "ብድንግል ማርያም ድንግል ኣደ ብርሃን",
+          "ኵሉ ተፈጸመ ትንቢት ናይ ቅዱሳን",
+          "ንሕና’ውን ደሓና ብናይ ጐይታ ኪዳን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንኖህ ተዋህበቶ ናይ ድኅነት መርከብ",
+          "ምስ ሸሞንተ ነፍሳት ኣብኣ ንኽዕቆብ",
+          "ብእምነት ኣተወ ብዘይ ክፉእ ሓሳብ",
+          "ካብ ጥፍኣት ደሓነ ካብ ናይ ኣይሂ ዝናብ",
+          "ኣምሳል መርከብ ናይ ኖህ ዝኾነት ማርያም",
+          "ኣብኣ ንተዓቖብ ፍጥረታት ናይ ኣዳም",
+          "ምእንቲ ክንድሕን ካብ ኃጢኣት ዝናም",
+          "ካብቲ መፍርሕ ሓዊ እሳተ ገሃነም"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መርከብ ናይ ኖህ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nእቲ ቀዳማይ ፍጥረት ኣብ ዝወደቐሉ\nካብ ገነት ንምድሪ ኣብ ዝተሰጎሉ\nኣብ ኣርዑት መግዛእቲ ኣብ ዝነበረሉ\nንኣምላኽ ለመነ ከድሕኖ ብሓይሉ\n[[/chorus]]\n\nመርከብ ናይ ኖህ ኢኺ ተስፋ ድኅነትና\nብኢደ ዮሃንስ ተወሃብክና\nኣኽሊል ድኅነትና ኢኺ መመክሒትና\nድንግል ማርያም ኣደ ኩላትና\n\nጸሎቱ ሰሚዑ ጐይታ ተቐበሎ\nስሙ እናጸውዐ ኣዳም ኣዳም በሎ\nኣቤት ጐይታ በለ ኣብ ጸልማት እንከሎ\nተስፋ ድኅነት ሃቦ ኵሉ ዝከኣሎ\n\nንኖህ ተዋህበቶ ናይ ድኅነት መርከብ\nምስ ሸሞንተ ነፍሳት ኣብኣ ንኽዕቆብ\nብእምነት ኣተወ ብዘይ ክፉእ ሓሳብ\nካብ ጥፍኣት ደሓነ ካብ ናይ ኣይሂ ዝናብ"
-    },
-    "ti_ro": {
-      "title": "Merkeb nay noh",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Merkeb nay noh ikhi tesfa dhnetna\nBide yohans tewehabkna\nAkhlil dhnetna ikhi memekhitna\nDngl maryam ade kulatna\nTi qedamay ftret ab zwedeqelu\nKab genet nmdri ab ztesegolu\nAb arut megzati ab zneberelu\nNamlakh lemene kedhno bhaylu\nTselotu semiu goyta teqebelo\nSmu natsewa adam adam belo\nAbet goyta bele ab tselmat nkelo\nTesfa dhnet habo kwilu zkealo\nTi tesfa dhnet dhri newih wan\nBdngl maryam dngl ade brhan\nKwilu tefetseme tnbit nay qdusan\nNhna’wn dehana bnay goyta kidan\nNnoh tewahbeto nay dhnet merkeb\nMs shemonte nefsat aba nkhqob\nBmnet atewe bzey kfu hasab\nKab tfat dehane kab nay ayhi znab\nAmsal merkeb nay noh zkhonet maryam\nAba nteaqob ftretat nay adam\nMnti kndhn kab hatiat znam\nKabti mefrh hawi sate gehanem"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bide yohans tewehabkna",
+      "Akhlil dhnetna ikhi memekhitna",
+      "Dngl maryam ade kulatna",
+      "Ti qedamay ft'ret ab zwedeqelu",
+      "Kab genet nmdri ab ztesegolu",
+      "Ab ar'ut megzati ab zneberelu",
+      "Namlakh lemene kedhno bhaylu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'elotu semi'u gwayta teqebelo",
+          "Smu nats'ew'e adam adam belo",
+          "Abet gwayta bele ab ts'elmat nkelo",
+          "Tesfa dhnet habo kwlu zkealo",
+          "Ti tesfa dhnet dhri newih wan",
+          "Bdngl maryam dngl ade brhan",
+          "Kwlu tefets'eme tnbit nay qdusan",
+          "Nhna’wn dehana bnay gwayta kidan"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nnoh tewahbeto nay dhnet merkeb",
+          "Ms shemonte nefsat aba nkh'qob",
+          "Bmnet atewe bzey kfu hasab",
+          "Kab t'fat dehane kab nay ayhi znab",
+          "Amsal merkeb nay noh zkhonet maryam",
+          "Aba nte'aqob ft'retat nay adam",
+          "Mnti kndhn kab hat'iat znam",
+          "Kabti mefrh hawi sate gehanem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

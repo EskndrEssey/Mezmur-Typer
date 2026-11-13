@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_fcb946d3a4",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ልዕል ኣቢልክዮ"
+  "id": 161,
+  "title": "ልዕል ኣቢልክዮ",
+  "ti": {
+    "chorus": [
+      "ሰባት ነዚ ርእዮም ብጽእቲ ይብሉኺ",
+      "ትሕትና ተማህረ ኣምቢቡኪ ልበይ",
+      "ኣደየ ክብርኺ ኢዩ’ሞ ካብ ሰማይ",
+      "ናብ ድምጺ እቲ መልኣኽ ክጸልወን ኣእዛነይ",
+      "ነቲ ቃል ብስራት ይመላእ እዚ ልበይ",
+      "ፈውሰይ ንኽርእዮ ንኢየሱስ ተስፋይ",
+      "ክቖጽሮ ቀለሙ ናይ ገብርኤል ዜማ",
+      "ሰላም ለኪ ክብላ ናይ ጐይታይ ከተማ",
+      "ክኸውን ዘይክእል ስለዝኾነልኪ",
+      "መንበር ንጉሥ ኢኺ ስብሓት ከቢቡኪ",
+      "ካብ ዓለም ማህጸንኪ ፈልፈለ መድኃኒት",
+      "ብደሙ ብሞቱ ዘጽደቐ ንፍጥረት",
+      "ንቕልጽም ቀታሊ ዝሰዓረ ንሞት",
+      "ኣዲኡ ንኣንበሳ ንናይ መስቀል ጅግና",
+      "ብሞት እቲ ሓደ ብዙሓት ደሓንና",
+      "ይግበኣኪ ክብሪ ይግበኣኪ ሞገስ",
+      "ክሳብ ቀራንዮ ስዒብኪ ንኢየሱስ",
+      "`ተ ተተምነኺ’ኳ ምግልጋል ባርነት",
+      "ግን ኣይተኸልከልክን ካብ ምዃን እመቤት",
+      "ነገስት ኣይበልጽዋን ቤተልሔም ንእስት",
+      "ከም ዝሰማዕናዮ ርኢና ኣብ ኤፍራታ",
+      "ኣብ ሕቑፎኺ ኮይኑ ናይ ዓለማት ጐይታ",
+      "ክውለድ ማረኾ ትሕትናኺ ድንግል",
+      "ትሕት ምስ ትብል’ዩ ለካ ልዕል ምባል",
+      "ሓደ ክገብረና ደብረ ኤፍራታ ልደታ ለማርያም",
+      "(ቃሓውታ)"
+    ],
+    "verses": []
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ልዕል ኣቢልክዮ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nናብ ድምጺ እቲ መልኣኽ ክጸልወን ኣእዛነይ\nነቲ ቃል ብስራት ይመላእ እዚ ልበይ\nፈውሰይ ንኽርእዮ ንኢየሱስ ተስፋይ\nክቖጽሮ ቀለሙ ናይ ገብርኤል ዜማ\nሰላም ለኪ ክብላ ናይ ጐይታይ ከተማ\nክኸውን ዘይክእል ስለዝኾነልኪ\nመንበር ንጉሥ ኢኺ ስብሓት ከቢቡኪ\n[[/chorus]]\n\nልዕል ኣቢልክዮ ጐይታ ኣኽቢሩኪ\nሰባት ነዚ ርእዮም ብጽእቲ ይብሉኺ\nትሕትና ተማህረ ኣምቢቡኪ ልበይ\nኣደየ ክብርኺ ኢዩ’ሞ ካብ ሰማይ\n\nካብ ዓለም ማህጸንኪ ፈልፈለ መድኃኒት\nብደሙ ብሞቱ ዘጽደቐ ንፍጥረት\nንቕልጽም ቀታሊ ዝሰዓረ ንሞት\nኣዲኡ ንኣንበሳ ንናይ መስቀል ጅግና\nብሞት እቲ ሓደ ብዙሓት ደሓንና\nይግበኣኪ ክብሪ ይግበኣኪ ሞገስ\nክሳብ ቀራንዮ ስዒብኪ ንኢየሱስ\n\nሓደ ክገብረና ደብረ ኤፍራታ ልደታ ለማርያም\n(ቃሓውታ)"
-    },
-    "ti_ro": {
-      "title": "L'l abilkyo",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Ll abilkyo goyta akhbiruki\nSebat nezi ryom btsti yblukhi\nThtna temahre ambibuki lbey\nAdeye kbrkhi iyu’mo kab semay\nNab dmtsi ti melakh ktselwen azaney\nNeti qal bsrat ymela zi lbey\nFewsey nkhryo niyesus tesfay\nKqotsro qelemu nay gebrel zema\nSelam leki kbla nay goytay ketema\nKkhewn zeykl slezkhonelki\nMenber nguss ikhi sbhat kebibuki\nKab alem mahtsenki felfele medhanit\nBdemu bmotu zetsdeqe nftret\nNqltsm qetali zseare nmot\nAdiu nanbesa nnay mesqel jgna\nBmot ti hade bzuhat dehanna\nYgbeaki kbri ygbeaki moges\nKsab qeranyo sibki niyesus\n`Te tetemnekhi’kwa mglgal barnet\nGn aytekhelkelkn kab mkwan mebet\nNegest aybeltswan betelhem nst\nKem zsemanayo rina ab efrata\nAb hqufokhi koynu nay alemat goyta\nKwled marekho thtnakhi dngl\nTht ms tbl’yu leka ll mbal\nHade kgebrena debre efrata ldeta lemaryam\n(Qahawta)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sebat nezi ryom bts'ti yblukhi",
+      "Thtna temahre ambibuki lbey",
+      "Adeye kbrkhi iyu’mo kab semay",
+      "Nab dmts'i ti melakh kts'elwen azaney",
+      "Neti qal bsrat ymela zi lbey",
+      "Fewsey nkhryo niyesus tesfay",
+      "Kqots'ro qelemu nay gebrel zema",
+      "Selam leki kbla nay gwaytay ketema",
+      "Kkhewn zeykl slezkhonelki",
+      "Menber nguss ikhi sbhat kebibuki",
+      "Kab 'alem mahts'enki felfele medhanit",
+      "Bdemu bmotu zets'deqe nft'ret",
+      "Nqlts'm qetali zse'are nmot",
+      "Adiu nanbesa nnay mesqel jgna",
+      "Bmot ti hade bzuhat dehanna",
+      "Ygbeaki kbri ygbeaki moges",
+      "Ksab qeranyo s'ibki niyesus",
+      "`Te tetemnekhi’kwa mglgal barnet",
+      "Gn aytekhelkelkn kab mkhwan mebet",
+      "Negest aybelts'wan betelhem nst",
+      "Kem zsema'nayo rina ab efrata",
+      "Ab hqufokhi koynu nay 'alemat gwayta",
+      "Kwled marekho thtnakhi dngl",
+      "Tht ms tbl’yu leka l'l mbal",
+      "Hade kgebrena debre efrata ldeta lemaryam",
+      "(Qahawta)"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

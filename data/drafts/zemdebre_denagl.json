@@ -1,0 +1,21 @@
+{
+  "id": 202,
+  "title": "ዘእምደብረ ደናግል",
+  "ti": {
+    "chorus": [
+      "ዘእምደብረ ደናግል /2/ ኣባ ኤልያስ",
+      "ወትሩፈ ምግባር ኣረጋዊ ዘውገ ሙሴ ወገብረ ክርስቶስ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Zemdebre denagl /2/ aba elyas",
+      "Wetrufe mgbar aregawi zewge muse wegebre krstos"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

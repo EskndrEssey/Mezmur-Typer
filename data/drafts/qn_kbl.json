@@ -1,41 +1,59 @@
 {
-  "id": "h_efr_73139c5d15",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቅንዕ ክብል"
+  "id": 148,
+  "title": "ቅንዕ ክብል",
+  "ti": {
+    "chorus": [
+      "ቅንዕ ክብል ቅንዕ ንብዓተይ ተሓብሰ",
+      "ኵናት ጸላእተይን ‘ቲ ምኽሮም ፈረሰ",
+      "ምድኃኑ ርእየ’የ ጎሊሑ ደሚቑ",
+      "ሕይወት ኣውሪሱኒ ኣምላኽ ስለይ ሞይቱ",
+      "ኣዕጽምተይ ሰረጸ ስምዒት ፍቕርኻ",
+      "ስለ ዝፈሰሰለይ ክቡር ቅዱስ ደምካ",
+      "ናትካ’የ ኣምላኸይ ዓለም ክሒደ’የ",
+      "ፍቕርኻ ኣብ ልበይ ሓቲመዮ እየ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓይሉ ኣዕጢቑኒ በርቲዐ ብጐይታ",
+          "ገፋዒ ወዲቑ ክዝምር ብዓውታ",
+          "ዳግማይ ንኸይደንን ቀኒዑ ምጉባጠይ",
+          "ጐይታ ቆይሙ`ዩ`ሞ ብቕድሚት ብድሕረይ",
+          "ንዓይሲ ክብረይ’ዩ ‘ቲ ናትካ ምዃነይ",
+          "ዘይኮንካዮ የለን ኣምላኸይ ስለይ",
+          "ፍቕርኻ ዝሩእ’ዩ ናይ ልበይ ግራታ",
+          "ከምልኸካ እነብር ክሳብ መወዳእታ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ኣዜብ ከበደ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቅንዕ ክብል",
-      "zemari": "ዘማሪት ኣዜብ ከበደ",
-      "lyrics": "[[chorus]]\nኣዕጽምተይ ሰረጸ ስምዒት ፍቕርኻ\nስለ ዝፈሰሰለይ ክቡር ቅዱስ ደምካ\nናትካ’የ ኣምላኸይ ዓለም ክሒደ’የ\nፍቕርኻ ኣብ ልበይ ሓቲመዮ እየ\n[[/chorus]]\n\nቅንዕ ክብል ቅንዕ ንብዓተይ ተሓብሰ\nኵናት ጸላእተይን ‘ቲ ምኽሮም ፈረሰ\nምድኃኑ ርእየ’የ ጎሊሑ ደሚቑ\nሕይወት ኣውሪሱኒ ኣምላኽ ስለይ ሞይቱ\n\nሓይሉ ኣዕጢቑኒ በርቲዐ ብጐይታ\nገፋዒ ወዲቑ ክዝምር ብዓውታ\nዳግማይ ንኸይደንን ቀኒዑ ምጉባጠይ\nጐይታ ቆይሙ`ዩ`ሞ ብቕድሚት ብድሕረይ"
-    },
-    "ti_ro": {
-      "title": "Qn' kbl",
-      "zemari": "zemarit azeb kebede",
-      "lyrics": "Qn kbl qn nbatey tehabse\nKwinat tselateyn ‘ti mkhrom ferese\nMdhanu rye’ye golihu demiqu\nHywet awrisuni amlakh sley moytu\nAtsmtey seretse smit fqrkha\nSle zfeseseley kbur qdus demka\nNatka’ye amlakhey alem khide’ye\nFqrkha ab lbey hatimeyo ye\nHaylu atiquni bertia bgoyta\nGefai wediqu kzmr bawta\nDagmay nkheydenn qeniu mgubatey\nGoyta qoymu`yu`mo bqdmit bdhrey\nNaysi kbrey’yu ‘ti natka mkwaney\nZeykonkayo yelen amlakhey sley\nFqrkha zru’yu nay lbey grata\nKemlkheka nebr ksab mewedata"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Qn' kbl qn' nb'atey tehabse",
+      "Kwnat ts'elateyn ‘ti mkhrom ferese",
+      "Mdhanu rye’ye golihu demiqu",
+      "Hywet awrisuni amlakh sley moytu",
+      "A'ts'mtey serets'e sm'it fqrkha",
+      "Sle zfeseseley kbur qdus demka",
+      "Natka’ye amlakhey 'alem khide’ye",
+      "Fqrkha ab lbey hatimeyo ye"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Haylu a't'iquni berti'e bgwayta",
+          "Gefa'i wediqu kzmr b'awta",
+          "Dagmay nkheydenn qeni'u mgubat'ey",
+          "Gwayta qoymu`yu`mo bqdmit bdhrey",
+          "N'aysi kbrey’yu ‘ti natka mkhwaney",
+          "Zeykonkayo yelen amlakhey sley",
+          "Fqrkha zru’yu nay lbey grata",
+          "Kemlkheka nebr ksab mewedata"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

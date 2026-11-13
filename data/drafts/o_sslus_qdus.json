@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_0e62091aeb",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኦ ሥሉስ ቅዱስ"
+  "id": 51,
+  "title": "ኦ ሥሉስ ቅዱስ",
+  "ti": {
+    "chorus": [
+      "ኦ ሥሉስ ቅዱስ ተመስገን /2/",
+      "ፈጣሪ ኵሉ ዓለማት",
+      "እግዚአብሔር ተመስገን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣዳም ከይተፈጥረ ኣብ ዙፋን ነበርካ",
+          "ብኣምላኽነትካ እናተመስገንካ",
+          "መላእኽት ፈጠርካ ስምካ ዝጽውዑ",
+          "ብምስጋና ቆይሞም ምስኻ ዝነብሩ /2/",
+          "ወድሰብ ፈጠርካ ክብርኻ ክወርስ",
+          "ንዓኻ ኣመስጊኑ ህይወቱ ክቕድስ",
+          "ንሕና’ውን ንጽውዕ ከይተገብኣና",
+          "ማዕጾኻ ንኹሕኩሕ ነቕርብ ምስጋና /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ ነገስታት ንጉሥ ናይ ዓለም ፈጣሪ",
+          "ንፍጥረታት ኵሉ ኣውዒሉ ኣሕዳሪ",
+          "ሥላሴ ነመስግን ሥሉስ ቅዱስ ንበል",
+          "ንዓለም ካብ ምኽባር ኣብ ቤቶም ነጽልል/2/",
+          "ኣብ ሩባ ዮርዳኖስ ሥላሴ ርኢና",
+          "ንመንግስቱ ቅዱስ ቅዱስ ቅዱስ ኢልና"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኦ ሥሉስ ቅዱስ",
-      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
-      "lyrics": "[[chorus]]\nኦ ሥሉስ ቅዱስ ተመስገን (2)\nፈጣሪ ኵሉ ዓለማት\nእግዚአብሔር ተመስገን\n[[/chorus]]\n\nኣዳም ከይተፈጥረ ኣብ ዙፋን ነበርካ\nብኣምላኽነትካ እናተመስገንካ\nመላእኽት ፈጠርካ ስምካ ዝጽውዑ\nብምስጋና ቆይሞም ምስኻ ዝነብሩ (2)\n\nናይ ነገስታት ንጉሥ ናይ ዓለም ፈጣሪ\nንፍጥረታት ኵሉ ኣውዒሉ ኣሕዳሪ\nሥላሴ ነመስግን ሥሉስ ቅዱስ ንበል\nንዓለም ካብ ምኽባር ኣብ ቤቶም ነጽልል(2)"
-    },
-    "ti_ro": {
-      "title": "O Sslus qdus",
-      "zemari": "di/n mndaye brhanu",
-      "lyrics": "[[chorus]]\nO sslus qdus temesgen (2)\n[[/chorus]]\n\nFetari kwilu alemat\nGziabher temesgen\nAdam keytefetre ab zufan neberka\nBamlakhnetka natemesgenka\nMelakht feterka smka ztswu\nBmsgana qoymom mskha znebru (2)\nWedseb feterka kbrkha kwers\nNakha amesginu hywetu kqds\nNhna’wn ntsw keytegebana\nMatsokha nkhuhkuh neqrb msgana (2)\nNay negestat nguss nay alem fetari\nNftretat kwilu awilu ahdari\nSslase nemesgn sslus qdus nbel\nNalem kab mkhbar ab betom netsll(2)\nAb ruba yordanos sslase rina\nNmengstu qdus qdus qdus ilna\nTbarekh tqedes nefsey bsslase\nBamlak abotat abrham wemuse (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "O Sslus qdus temesgen /2/",
+      "Fet'ari kwlu 'alemat",
+      "Gziebher temesgen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Adam keytefet're ab zufan neberka",
+          "Bamlakhnetka natemesgenka",
+          "Melakht fet'erka smka zts'w'u",
+          "Bmsgana qoymom mskha znebru /2/",
+          "Wedseb fet'erka kbrkha kwers",
+          "N'akha amesginu hywetu kqds",
+          "Nhna’wn nts'w' keytegebana",
+          "Ma'ts'okha nkhuhkuh neqrb msgana /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay negestat nguss nay 'alem fet'ari",
+          "Nft'retat kwlu aw'ilu ahdari",
+          "Sslase nemesgn Sslus qdus nbel",
+          "N'alem kab mkhbar ab betom nets'll/2/",
+          "Ab ruba yordanos Sslase rina",
+          "Nmengstu qdus qdus qdus ilna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

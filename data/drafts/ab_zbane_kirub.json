@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_812dee0073",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣብ ዝባነ ኪሩብ"
+  "id": 25,
+  "title": "ኣብ ዝባነ ኪሩብ",
+  "ti": {
+    "chorus": [
+      "ኣብ ዝባነ ኪሩብ ዝቕመጥ ከቢሩ",
+      "ብነበልባል እሳት ዝተሓጽረ ቀጽሩ",
+      "ዘምሩ ንእግዚአብሔር ንጐይታ ዘምሩ",
+      "ዝኸበረ እዩ ኣብ ሰማይ ኣብ ምድሩ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኢሳይያስ ርእዩ ብዙሕ ሓፈረ",
+          "ዝተፈርሐ እዩ ዝተኸብረ",
+          "በል ፍቐደልና በቲ ፍቕርኻ",
+          "ቤትካ ክንኣቱ ንምስጋናኻ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዙፋንካ ርእየ ኣምላኸይ ጐይታይ",
+          "ከመስግኑኻ ኣብ ላዕላይ ሰማይ",
+          "ዝተሓጎሰ እንከመስግነካ",
+          "ዘኽታም ኣይኹን እንበር ኣብ ቤትካ",
+          "ቅኔ ውዳሴ ኣብ ዝመልኦ ቤት",
+          "ክሕወስ ጐይታ ነፍሰይ በሃገት",
+          "ክዝምር ተዘይ-ተገብኣኒ",
+          "ስቕ ትብል ልሳን ኣይዓደልካንን"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣብ ዝባነ ኪሩብ",
-      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-      "lyrics": "[[chorus]]\nኣብ ዝባነ ኪሩብ ዝቕመጥ ከቢሩ\nብነበልባል እሳት ዝተሓጽረ ቀጽሩ\nዘምሩ ንእግዚአብሔር ንጐይታ ዘምሩ\nዝኸበረ እዩ ኣብ ሰማይ ኣብ ምድሩ (2)\n[[/chorus]]\n\nኢሳይያስ ርእዩ ብዙሕ ሓፈረ\nዝተፈርሐ እዩ ዝተኸብረ\nደጌታት ሰማይ`ውን ኣንቀጥቀጡ\nንቅዱስ ስሙ ክብሪ ክህቡ\n\nዙፋንካ ርእየ ኣምላኸይ ጐይታይ\nከመስግኑኻ ኣብ ላዕላይ ሰማይ\nዝተሓጎሰ እንከመስግነካ\nዘኽታም ኣይኹን እንበር ኣብ ቤትካ"
-    },
-    "ti_ro": {
-      "title": "Ab zbane kirub",
-      "zemari": "liqe mezemran tedros yosef",
-      "lyrics": "Ab zbane kirub zqmet kebiru\nBnebelbal sat ztehatsre qetsru\nZemru ngziabher ngoyta zemru\nZkhebere yu ab semay ab mdru (2)\nIsayyas ryu bzuh hafere\nZteferha yu ztekhebre\nDegetat semay`wn anqetqetu\nNqdus smu kbri khbu\nZeyteqedese lemtsi zendedo\nKemey ykhl nkhemesgno\nBel fqedelna beti fqrkha\nBetka knatu nmsganakha\nZufanka rye amlakhey goytay\nKemesgnukha ab lalay semay\nZtehagose nkemesgneka\nZekhtam aykhun nber ab betka\nQne wdase ab zmelo bet\nKhwes goyta nefsey behaget\nKzmr tezey-tegebani\nSq tbl lsan ayadelkann"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab zbane kirub zqmet' kebiru",
+      "Bnebelbal sat ztehats're qets'ru",
+      "Zemru ngziebher ngwayta zemru",
+      "Zkhebere yu ab semay ab mdru /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Isayyas ryu bzuh hafere",
+          "Zteferhe yu ztekhebre",
+          "Bel fqedelna beti fqrkha",
+          "Betka knatu nmsganakha"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zufanka rye amlakhey gwaytay",
+          "Kemesgnukha ab la'lay semay",
+          "Ztehagose nkemesgneka",
+          "Zekhtam aykhun nber ab betka",
+          "Qne wdase ab zmelo bet",
+          "Khwes gwayta nefsey behaget",
+          "Kzmr tezey-tegebani",
+          "Sq tbl lsan ay'adelkann"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

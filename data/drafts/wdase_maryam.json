@@ -1,41 +1,95 @@
 {
-  "id": "h_efr_025708b67c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ውዳሴ ማርያም"
+  "id": 7,
+  "title": "ውዳሴ ማርያም",
+  "ti": {
+    "chorus": [
+      "ውዳሴ ማርያም ክደግም’የ",
+      "ንድንግል ኣደይ ክጽውዕ’የ",
+      "ከም ኣባ ኤፍሬም ባርኽኒ",
+      "ወድስኒ ወደይ በልኒ",
+      "ውዳሴ ማርያም  ኣብ ቅድሚኣ ኮይንና",
+      ">>      >>     ንሕና ክንውድስ",
+      ">>      >>     ድንግል ትመጽእ",
+      ">>      >>     ካብ ቤተ መቕደስ",
+      ">>      >>     ናይ ብርሃን ምንጽፍ",
+      ">>      >>     ኣብ እግራ ተገይሩ",
+      ">>      >>     ኣባ ቅዱስ ኤፍሬም",
+      ">>      >>     የመስግና ኔይሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ውዳሴማርያም  ኣባ ሕርያቆስ",
+          ">>      >>     ምስጋና የቕርብ",
+          ">>      >>     ናይ ቅዳሴ ዜና",
+          ">>      >>     ንልቢ ይምስጥ",
+          ">>      >>     ልበይ ሰናይ ነገር",
+          ">>      >>     ኣውጺኡ እናበለ",
+          ">>      >>     ዳዊት ብበገና",
+          ">>      >>     ንዓኺ ዘመረ",
+          ">>      >>     ውዳሴ ማርያም   ናይ ንጽህናና",
+          ">>      >>        መሰረት ኢኺ’ሞ",
+          ">>      >>        ንዓኺ ውዳሴ",
+          ">>      >>        ልበይ መሊኡ’ሎ",
+          ">>      >>       ተፈሥሒ ድንግል",
+          ">>      >>       ኦ ቤተ ልሔም",
+          ">>      >>     ኣባ ጊዮርጊስ",
+          ">>      >>     ንዒ ድንግል ይብል",
+          ">>      >>     ኣብ ናይ ወርቂ ዙፋን",
+          ">>      >>     ኮፍ ኢልኪ ርእየኪ",
+          ">>      >>     ልበይ ተሰዊሩ",
+          ">>      >>     ድንግል ብግርማኺ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ውዳሴ ማርያም",
-      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
-      "lyrics": "[[chorus]]\nመሰረት ኢኺ’ሞ\nንዓኺ ውዳሴ\nልበይ መሊኡ’ሎ\nተፈሥሒ ድንግል\nኦ ቤተ ልሔም\nካባኺ ተወልደ\nመድኃኔ ዓለም\n[[/chorus]]\n\nውዳሴ ማርያም ክደግም’የ\nንድንግል ኣደይ ክጽውዕ’የ\nከም ኣባ ኤፍሬም ባርኽኒ\nወድስኒ ወደይ በልኒ\nውዳሴ ማርያም ኣብ ቅድሚኣ ኮይንና\nንሕና ክንውድስ\nድንግል ትመጽእ\nካብ ቤተ መቕደስ\nናይ ብርሃን ምንጽፍ\nኣብ እግራ ተገይሩ\nኣባ ቅዱስ ኤፍሬም\nየመስግና ኔይሩ\nውዳሴማርያም ኣባ ሕርያቆስ\nምስጋና የቕርብ\nናይ ቅዳሴ ዜና\nንልቢ ይምስጥ\nልበይ ሰናይ ነገር\nኣውጺኡ እናበለ\nዳዊት ብበገና\nንዓኺ ዘመረ\nውዳሴ ማርያም ናይ ንጽህናና\n\nውዳሴማርያም ቅዱሳን ኩላቶም\nዙርያኺ ከቢቦም\nኣባ ጊዮርጊስ\nንዒ ድንግል ይብል\nኣብ ናይ ወርቂ ዙፋን\nኮፍ ኢልኪ ርእየኪ\nልበይ ተሰዊሩ\nድንግል ብግርማኺ"
-    },
-    "ti_ro": {
-      "title": "Wdase maryam",
-      "zemari": "qesis ashenafi ge/maryam",
-      "lyrics": "Wdase maryam kdegm’ye\nNdngl adey ktsw’ye\nKem aba efrem barkhni\nWedsni wedey belni\nWdase maryam ab qdmia koynna\nNhna knwds\nDngl tmets\nKab bete meqdes\nNay brhan mntsf\nAb gra tegeyru\nAba qdus efrem\nYemesgna neyru\nWdasemaryam aba hryaqos\nMsgana yeqrb\nNay qdase zena\nNlbi ymst\nLbey senay neger\nAwtsiu nabele\nDawit bbegena\nNakhi zemere\nWdase maryam nay ntshnana\nMeseret ikhi’mo\nNakhi wdase\nLbey meliu’lo\nTefesshi dngl\nO bete lhem\nKabakhi tewelde\nMedhane alem\nWdasemaryam qdusan kulatom\nZuryakhi kebibom\nAba giyorgis\nNi dngl ybl\nAb nay werqi zufan\nKof ilki ryeki\nLbey tesewiru\nDngl bgrmakhi"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Wdase maryam kdegm’ye",
+      "Ndngl adey kts'w'’ye",
+      "Kem aba efrem barkhni",
+      "Wedsni wedey belni",
+      "Wdase maryam  ab qdmia koynna",
+      ">>      >>     Nhna knwds",
+      ">>      >>     Dngl tmets'",
+      ">>      >>     Kab bete meqdes",
+      ">>      >>     Nay brhan mnts'f",
+      ">>      >>     Ab gra tegeyru",
+      ">>      >>     Aba qdus efrem",
+      ">>      >>     Yemesgna neyru"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Wdasemaryam  aba hryaqos",
+          ">>      >>     Msgana yeqrb",
+          ">>      >>     Nay qdase zena",
+          ">>      >>     Nlbi ymst'",
+          ">>      >>     Lbey senay neger",
+          ">>      >>     Awts'iu nabele",
+          ">>      >>     Dawit bbegena",
+          ">>      >>     N'akhi zemere",
+          ">>      >>     Wdase maryam   nay nts'hnana",
+          ">>      >>        Meseret ikhi’mo",
+          ">>      >>        N'akhi wdase",
+          ">>      >>        Lbey meliu’lo",
+          ">>      >>       Tefesshi dngl",
+          ">>      >>       O bete lhem",
+          ">>      >>     Aba giyorgis",
+          ">>      >>     N'i dngl ybl",
+          ">>      >>     Ab nay werqi zufan",
+          ">>      >>     Kof ilki ryeki",
+          ">>      >>     Lbey tesewiru",
+          ">>      >>     Dngl bgrmakhi"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

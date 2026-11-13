@@ -1,44 +1,21 @@
 {
-  "id": "h_efr_d9f280da90",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "በምሕረት ብዙህ"
+  "id": 329,
+  "title": "በምሕረት ብዙህ",
+  "ti": {
+    "chorus": [
+      "ሐውጸነ በምሕረት ብዙኅ ሐውጸነ",
+      "በምሕረት ብዙኅ /3/ ሐውጸነ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "በምሕረት ብዙህ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "ሐውጸነ በምሕረት ብዙኅ ሐውጸነ\nበምሕረት ብዙኅ (3) ሐውጸነ"
-    },
-    "ti_ro": {
-      "title": "Bemhret bzuh",
-      "zemari": "di/n efrem",
-      "lyrics": "Hawtsene bemhret bzuh hawtsene\nBemhret bzuh (3) hawtsene"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Hewts'ene bemhret bzuh hewts'ene",
+      "Bemhret bzuh /3/ hewts'ene"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

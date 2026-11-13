@@ -1,0 +1,77 @@
+{
+  "id": 141,
+  "title": "ይእዘዛ ነይሩ",
+  "ti": {
+    "chorus": [
+      "ኢየሱስ ነዲኡ ብመዓልትን ለይትን /2/",
+      "ብንፋስ ኣሲሩ ብደመና ጽዒኑ",
+      "የምጽኣላ ነይሩ ዕንጨይቲ ካብ ዱር ኣርዩ /2/",
+      "በብቕሩብ ቅሩብ ከም ሰብ ዓበየ",
+      "ዝጠፍአ መጓሰ መጸ እናደለየ",
+      "ብፍቕሩን ምሕረቱን ለዊጡ ልብና",
+      "ኣማኑኤል በሉ እግዚአብሔር ኮይኑ’ዩ ምሳና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ጩራ ይስጉም መን ይወዳደሮ",
+          "ብጭቃ ሰሪሑ ንኣዕዋፍ የብርሮም",
+          "ዘገርም ህፃን ዘደንቕ ጐይታ",
+          "ድንቂ መካር ሓያል ጓሳይና ይወደስ ብዕልልታ",
+          "ሥጋና ለበሰ ከሎ ሰማያዊ",
+          "ናይ ይሁዳ ኣንበሳ ቤተልሔማዊ",
+          "ወዲ እግዚአብሔር እምበር ናይ ዮሴፍ ኣይኮነን",
+          "ክንምስክር ንነብር ነዚ ሓቂ ሎሚ’ውን ንዘልዓለም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብቲ ዓቢይ መጽሓፍ ብጽሑፍ ዘየሎ",
+          "ጐይታ ዝገበሮ ብዙሕ ተኣምር ኣሎ",
+          "ኣዝዩ ብዙሕ ድንቂ ቁጽሪ ዘይርከቦ",
+          "ኵሉ ዝፈጸመ ከም ጐይታና ከም ኢየሱስ የሎን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Iyesus nediu bme'altn leytn /2/",
+      "Bnfas asiru bdemena ts''inu",
+      "Yemts'ala neyru 'nch'eyti kab dur aryu /2/",
+      "Bebqrub qrub kem seb 'abeye",
+      "Zt'efe megwase mets'e nadeleye",
+      "Bfqrun mhretun lewit'u lbna",
+      "Amanuel belu gziebher koynu’yu msana"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab ch'ura ysgum men ywedadero",
+          "Bch'qa serihu na'waf yebrrom",
+          "Zegerm hts'an zedenq gwayta",
+          "Dnqi mekar hayal gwasayna ywedes b'llta",
+          "Ssgana lebese kelo semayawi",
+          "Nay yhuda anbesa betelhemawi",
+          "Wedi gziebher mber nay yosef aykonen",
+          "Knmskr nnebr nezi haqi lomi’wn nzel'alem"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abti 'abiy mets'haf bts'huf zeyelo",
+          "Gwayta zgebero bzuh teamr alo",
+          "Azyu bzuh dnqi quts'ri zeyrkebo",
+          "Kwlu zfets'eme kem gwaytana kem iyesus yelon"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

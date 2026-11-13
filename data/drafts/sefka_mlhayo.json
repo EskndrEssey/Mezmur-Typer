@@ -1,41 +1,79 @@
 {
-  "id": "h_efr_79c9ef9663",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሴፍካ ምልሓዮ"
+  "id": 179,
+  "title": "ሴፍካ ምልሓዮ",
+  "ti": {
+    "chorus": [
+      "“ሰላም እብል ለመልክዕከ በኣምሆ ፣",
+      "በሰጊድ ወበከልሆ ፣",
+      "ቅዱስ ሚካኤል ዘልማድከ ተራሕርሖ ፣",
+      "ሰይፈከ ይርኣይ ተመሊሆ ወይጉየይ ፈሪሆ ፣",
+      "ከመኢያደንግጸኒ ፀር በፍኖት ጸኒሆ ፣ ”",
+      "ሴፍካ ምልሓዮ ቅዱስ ሚካኤል ዝናርካ’ዋድዶ",
+      "ባሕሪ ፈተናይ እንዶ ግንሓዮ ደርቢ ማዕበሉ ጭደዶ፣",
+      "ሰልሚ ኮይኑ ጭቃ ፈተና ጸላም ክረምቲ",
+      "ደብዛዝዩ መንጽረይ ዘጭለምልም መብራህቲ",
+      "ምልኣታ ጐዲሉ ናይ ቀንዴለይ ዘይቲ",
+      "ጥዋፍካ ኣብርሃለይ “ሚካኤል” ነቲ ነዊሕ ለይቲ",
+      "‘ ቅዱስ ሚካኤል ሊቀ መላእክት ተራድአነ",
+      "እመስገርተ ጸርነ። ’"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከም ንጉሥ ሕዝቅያስ  ጸጥታ ሰላሙ ሩፍታ",
+          "ድልድል ባሕሪ ሞተይ ሰሪቱካ ጐይታ",
+          "ኣብ ቅድሚ ጸላኢ ክትከውን መኸታ",
+          "ንምንጋፈይ ፍጠን “ሚካኤል” ዘርግሓለይ ዋልታ።",
+          "ቅዱስ ሚካኤል……",
+          "ሽኲሽኳ ስጒሚ ዘገምታ እግረይ ዝኸዶ",
+          "ስግር ሲና ቃዴስ ክበጽሖ ‘ቲማዕዶ",
+          "ልብስኻ ኣንጸብሪቑ ንጸልማተይ ክቐዶ",
+          "ቃል ጸሎት ኣፎምያ ሎሚ’ውን ክደግም",
+          "ጋማ ዓወት ባህራን “ሚካኤል” ታሪኹ ክድገም።",
+          "ቅዱስ ሚካኤል………………………"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሴፍካ ምልሓዮ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nሰልሚ ኮይኑ ጭቃ ፈተና ጸላም ክረምቲ\nደብዛዝዩ መንጽረይ ዘጭለምልም መብራህቲ\nምልኣታ ጐዲሉ ናይ ቀንዴለይ ዘይቲ\nጥዋፍካ ኣብርሃለይ “ሚካኤል” ነቲ ነዊሕ ለይቲ\n‘ ቅዱስ ሚካኤል ሊቀ መላእክት ተራድአነ\nእመስገርተ ጸርነ። ’\n[[/chorus]]\n\n“ሰላም እብል ለመልክዕከ በኣምሆ ፣\nበሰጊድ ወበከልሆ ፣\nቅዱስ ሚካኤል ዘልማድከ ተራሕርሖ ፣\nሰይፈከ ይርኣይ ተመሊሆ ወይጉየይ ፈሪሆ ፣\nከመኢያደንግጸኒ ፀር በፍኖት ጸኒሆ ፣ ”\nሴፍካ ምልሓዮ ቅዱስ ሚካኤል ዝናርካ’ዋድዶ\nባሕሪ ፈተናይ እንዶ ግንሓዮ ደርቢ ማዕበሉ ጭደዶ፣\n\nከም ንጉሥ ሕዝቅያስ ጸጥታ ሰላሙ ሩፍታ\nድልድል ባሕሪ ሞተይ ሰሪቱካ ጐይታ\nኣብ ቅድሚ ጸላኢ ክትከውን መኸታ\nንምንጋፈይ ፍጠን “ሚካኤል” ዘርግሓለይ ዋልታ።\nቅዱስ ሚካኤል……\n\nክንፍኻ ኣጽልለለይ ንጕዕዞ ባሕሪ ዛ’ዓለም\nብማዕበል ጸላእቲ ጥሒለ ከይሰጥም\nቃል ጸሎት ኣፎምያ ሎሚ’ውን ክደግም\nጋማ ዓወት ባህራን “ሚካኤል” ታሪኹ ክድገም።\nቅዱስ ሚካኤል………………………"
-    },
-    "ti_ro": {
-      "title": "Sefka mlhayo",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "“Selam bl lemelkke beamho ,\nBesegid webekelho ,\nQdus mikael zelmadke terahrho ,\nSeyfeke yray temeliho weyguyey feriho ,\nKemeiyadengtseni tser befnot tseniho , ”\nSefka mlhayo qdus mikael znarka’waddo\nBahri fetenay ndo gnhayo derbi mabelu chdedo,\nSelmi koynu chqa fetena tselam kremti\nDebzazyu mentsrey zechlemlm mebrahti\nMlata godilu nay qendeley zeyti\nTwafka abrhaley “mikael” neti newih leyti\n‘ Qdus mikael liqe melakt teradane\nMesgerte tserne. ’\nKem nguss hzqyas tsetta selamu rufta\nDldl bahri motey serituka goyta\nAb qdmi tselai ktkewn mekheta\nNmngafey ften “mikael” zerghaley walta.\nQdus mikael……\nShkushkwa sgumi zegemta grey zkhedo\nSgr sina qades kbetsho ‘timado\nLbskha antsebriqu ntselmatey kqedo\nNab betu mrhani “mikael” haylkha aghdo.\nQdus mikael………………..\nKnfkha atslleley ngwizo bahri za’alem\nBmabel tselati thile keysetm\nQal tselot afomya lomi’wn kdegm\nGama awet bahran “mikael” tarikhu kdgem.\nQdus mikael………………………"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "“Selam bl lemelk'ke beamho ,",
+      "Besegid webekelho ,",
+      "Qdus mikael zelmadke terahrho ,",
+      "Seyfeke yray temeliho weyguyey feriho ,",
+      "Kemeiyadengts'eni ts'er befnot ts'eniho , ”",
+      "Sefka mlhayo qdus mikael znarka’waddo",
+      "Bahri fetenay ndo gnhayo derbi ma'belu ch'dedo,",
+      "Selmi koynu ch'qa fetena ts'elam kremti",
+      "Debzazyu ments'rey zech'lemlm mebrahti",
+      "Mlata gwadilu nay qendeley zeyti",
+      "T'wafka abrhaley “mikael” neti newih leyti",
+      "‘ Qdus mikael liqe melakt teradene",
+      "Mesgerte ts'erne. ’"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kem nguss hzqyas  ts'et'ta selamu rufta",
+          "Dldl bahri motey serituka gwayta",
+          "Ab qdmi ts'elai ktkewn mekheta",
+          "Nmngafey ft'en “mikael” zerghaley walta.",
+          "Qdus mikael……",
+          "Shkwishkwa sgwimi zegemta grey zkhedo",
+          "Sgr sina qades kbets'ho ‘tima'do",
+          "Lbskha ants'ebriqu nts'elmatey kqedo",
+          "Qal ts'elot afomya lomi’wn kdegm",
+          "Gama 'awet bahran “mikael” tarikhu kdgem.",
+          "Qdus mikael………………………"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

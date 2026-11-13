@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_0235ebbdac",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እስመ ኣፉየ"
+  "id": 527,
+  "title": "እስመ ኣፉየ",
+  "ti": {
+    "chorus": [
+      "እስመ ኣፉየ በፍቅር ስመከ ጸውዐ /2/",
+      "ዑራኤል /2/ በዓምደ ደመና ኃቤየ ነዐ /2/",
+      "ዑራኤል ኃያል ዓውድየ ተዓየን",
+      "ከመኢይትዓቀፍ እግርየ በእብን",
+      "ወያበርህ ሊተ ዘዚኣከ ብርሃን",
+      "ወትንብልናከ ፀወነ ትከውን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትትፌኖ ለሳህል እምኃበ ልዑል",
+          "ወበእንተ ፍጥረት ኣንተ ትስእል",
+          "ወትንብልናከ እንተ ባቲ ኃይል",
+          "ዛተ ማሕበረከ በረድኤት ትኬልል",
+          "ዑራኤል ኃያል ዓውድየ ተዓየን",
+          "ከመኢይትዓቀፍ እግርየ በእብን",
+          "ወያበርህ ሊተ ዘዚኣከ ብርሃን",
+          "ወትንብልናከ ፀወነ ትከውን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትትፌኖ ለሳህል እምኃበ ልዑል",
+          "ወበእንተ ፍጥረት ኣንተ ትስእል",
+          "ወትንብልናከ እንተ ባቲ ኃይል",
+          "ዛተ ማሕበረከ በረድኤት ትኬልል"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እስመ ኣፉየ",
-      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
-      "lyrics": "[[chorus]]\nዑራኤል ኃያል ዓውድየ ተዓየን\nከመኢይትዓቀፍ እግርየ በእብን\nወያበርህ ሊተ ዘዚኣከ ብርሃን\nወትንብልናከ ፀወነ ትከውን\n[[/chorus]]\n\nእስመ ኣፉየ በፍቅር ስመከ ጸውዐ (2)\nዑራኤል (2) በዓምደ ደመና ኃቤየ ነዐ (2)\n\nትትፌኖ ለሳህል እምኃበ ልዑል\nወበእንተ ፍጥረት ኣንተ ትስእል\nወትንብልናከ እንተ ባቲ ኃይል\nዛተ ማሕበረከ በረድኤት ትኬልል\n\nትትፌኖ ለሳህል እምኃበ ልዑል\nወበእንተ ፍጥረት ኣንተ ትስእል\nወትንብልናከ እንተ ባቲ ኃይል\nዛተ ማሕበረከ በረድኤት ትኬልል"
-    },
-    "ti_ro": {
-      "title": "'Sme afuye",
-      "zemari": "liqe mela'kt adhnena ikha mikael",
-      "lyrics": "[[chorus]]\nSme afuye befqr smeke tsewa (2)\n[[/chorus]]\n\nUrael (2) beamde demena habeye nea (2)\nUrael hayal awdye teayen\nKemeiytaqef grye bebn\nWeyaberh lite zeziake brhan\nWetnblnake tsewene tkewn\nTtfeno lesahl mhabe lul\nWebente ftret ante tsl\nWetnblnake nte bati hayl\nZate mahbereke beredet tkell\nUrael hayal awdye teayen\nKemeiytaqef grye bebn\nWeyaberh lite zeziake brhan\nWetnblnake tsewene tkewn\nTtfeno lesahl mhabe lul\nWebente ftret ante tsl\nWetnblnake nte bati hayl\nZate mahbereke beredet tkell"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Sme afuye befqr smeke ts'ew'e /2/",
+      "'Urael /2/ be'amde demena habeye ne'e /2/",
+      "'Urael hayal 'awdye te'ayen",
+      "Kemeiyt'aqef grye bebn",
+      "Weyaberh lite zeziake brhan",
+      "Wetnblnake ts'ewene tkewn"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ttfeno lesahl mhabe l'ul",
+          "Webente ft'ret ante tsl",
+          "Wetnblnake nte bati hayl",
+          "Zate mahbereke beredet tkell",
+          "'Urael hayal 'awdye te'ayen",
+          "Kemeiyt'aqef grye bebn",
+          "Weyaberh lite zeziake brhan",
+          "Wetnblnake ts'ewene tkewn"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ttfeno lesahl mhabe l'ul",
+          "Webente ft'ret ante tsl",
+          "Wetnblnake nte bati hayl",
+          "Zate mahbereke beredet tkell"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

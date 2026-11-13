@@ -1,41 +1,85 @@
 {
-  "id": "h_efr_b4cf8b05bc",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኢራብ ንዓይኒ ማያት"
+  "id": 191,
+  "title": "ኢራብ ንዓይኒ ማያት",
+  "ti": {
+    "chorus": [
+      "ኢራብ ንዓይኒ ማያት ከምትብህጎ",
+      "መሬት ንዝናም ሰማይ ከም ትጸምኦ",
+      "ናባኻ’ዩ ልበይ ሃረርታኡ",
+      "ስምካ ንዘልዓለም መግበይ ኮይኑ እግዚአብሔር",
+      "እግዚኣብሔር ስምካ . . .",
+      "ህብስተ ሕይወት’ዩ ንዝበልዖ",
+      "ጽዋእ መድኃኒት ንዝሰትዮ",
+      "ካብ መዓር ካብ ወርቂ ዝሕረ’ዩ",
+      "ንውሽጢ ነፍሰይ’ውን ሰላመይ`ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እግዚኣብሔር ስምካ . . .",
+          "ካብ ነገስታት ምድሪ እዛ ዓለም",
+          "ዝመሳሰሎ`ውን ከቶ የለን",
+          "እግዚኣብሔር ስምካ . . .",
+          "እናሻዕ ክጽውዕ ይጥዕመኒ",
+          "ከምኡ ዝበለ’ሞ መን አሎኒ",
+          "እግዚኣብሔር ስምካ . . .",
+          "ኣነስ ክጽውዖ ንዘልዓለም",
+          "ጸግዐይ ከውለይ እምባይ ኣብዚ ዓለም",
+          "እግዚኣብሔር ስምካ . . .",
+          "ንፋስ ማዕበል ባሕሪ ዘህድእ’ዩ",
+          "ጽኑዕ ግንቢ እዩ ንድሕነሉ",
+          "እግዚኣብሔር ስምካ . . .",
+          "ስምካ ካብ ተሰምየ ኣብ ልዕሌና",
+          "መን’ዩ ዝቃወሞ ዘፍርሓና",
+          "እግዚኣብሔር ስምካ . . .",
+          "ምስ ንስጉም ስምካ ተመርኲስና",
+          "ዕንቅፋት የብልናን ኣብ ቅድሜና",
+          "ኦ እግዚአብሔር ስምካ ኦ እግዚአብሔር /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኢራብ ንዓይኒ ማያት",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nእግዚኣብሔር ስምካ . . .\nህብስተ ሕይወት’ዩ ንዝበልዖ\nጽዋእ መድኃኒት ንዝሰትዮ\nእግዚኣብሔር ስምካ . . .\nስንቂ ኮይኑኒ’ሎ ንመንገደይ\nኣመቓቒርዎ ንሕይወተይ\nእግዚኣብሔር ስምካ . . .\nካብ መዓር ካብ ወርቂ ዝሕረ’ዩ\nንውሽጢ ነፍሰይ’ውን ሰላመይ`ዩ\n[[/chorus]]\n\nኢራብ ንዓይኒ ማያት ከምትብህጎ\nመሬት ንዝናም ሰማይ ከም ትጸምኦ\nናባኻ’ዩ ልበይ ሃረርታኡ\nስምካ ንዘልዓለም መግበይ ኮይኑ እግዚአብሔር\n\nእግዚኣብሔር ስምካ . . .\nካብ ነገስታት ምድሪ እዛ ዓለም\nዝመሳሰሎ`ውን ከቶ የለን\nእግዚኣብሔር ስምካ . . .\nእናሻዕ ክጽውዕ ይጥዕመኒ\nከምኡ ዝበለ’ሞ መን አሎኒ\nእግዚኣብሔር ስምካ . . .\nኣነስ ክጽውዖ ንዘልዓለም\nጸግዐይ ከውለይ እምባይ ኣብዚ ዓለም"
-    },
-    "ti_ro": {
-      "title": "Irab n'ayni mayat",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "[[chorus]]\nO gziabher smka o gziabher (2)\n[[/chorus]]\n\nIrab nayni mayat kemtbhgo\nMeret nznam semay kem ttsemo\nNabakha’yu lbey harertau\nSmka nzelalem megbey koynu gziabher\nGziabher smka . . .\nHbste hywet’yu nzbelo\nTswa medhanit nzsetyo\nGziabher smka . . .\nSnqi koynuni’lo nmengedey\nAmeqaqirwo nhywetey\nGziabher smka . . .\nKab mear kab werqi zhre’yu\nNwshti nefsey’wn selamey`yu\nGziabher smka . . .\nKab negestat mdri za alem\nZmesaselo`wn keto yelen\nGziabher smka . . .\nNasha ktsw ytmeni\nKemu zbele’mo men aloni\nGziabher smka . . .\nAnes ktswo nzelalem\nTsegay kewley mbay abzi alem\nGziabher smka . . .\nNfas mabel bahri zehd’yu\nTsnu gnbi yu ndhnelu\nGziabher smka . . .\nSmka kab tesemye ab llena\nMen’yu zqawemo zefrhana\nGziabher smka . . .\nMs nsgum smka temerkusna\nNqfat yeblnan ab qdmena"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Irab n'ayni mayat kemtbhgo",
+      "Meret nznam semay kem tts'emo",
+      "Nabakha’yu lbey harertau",
+      "Smka nzel'alem megbey koynu gziebher",
+      "Gziabher smka . . .",
+      "Hbste hywet’yu nzbel'o",
+      "Ts'wa medhanit nzsetyo",
+      "Kab me'ar kab werqi zhre’yu",
+      "Nwsht'i nefsey’wn selamey`yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Gziabher smka . . .",
+          "Kab negestat mdri za 'alem",
+          "Zmesaselo`wn keto yelen",
+          "Gziabher smka . . .",
+          "Nasha' kts'w' yt''meni",
+          "Kemu zbele’mo men eloni",
+          "Gziabher smka . . .",
+          "Anes kts'w'o nzel'alem",
+          "Ts'eg'ey kewley mbay abzi 'alem",
+          "Gziabher smka . . .",
+          "Nfas ma'bel bahri zehd’yu",
+          "Ts'nu' gnbi yu ndhnelu",
+          "Gziabher smka . . .",
+          "Smka kab tesemye ab l'lena",
+          "Men’yu zqawemo zefrhana",
+          "Gziabher smka . . .",
+          "Ms nsgum smka temerkwisna",
+          "'Nqfat yeblnan ab qdmena",
+          "O gziebher smka o gziebher /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

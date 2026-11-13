@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_97389777c0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰላም ሰፊኑለይ"
+  "id": 494,
+  "title": "ሰላም ሰፊኑለይ",
+  "ti": {
+    "chorus": [
+      "ኣብ ጎድነይ ምስ ኮንካ ለዋህ ኣምላኸይ /2/",
+      "ውዳሴ ምስጋና ኮይኑ ዕላማይ",
+      "ውሽጠይ መሊኡ'ሎ ፍቕርኻ ጐይታይ /2/",
+      "ይኣክል ምስ በልካ የቋርጽ'ዩ",
+      "ቲ'ናይ ጥፍኣት ማዕበል ምንጩ የቋርጽ'ዩ",
+      "ጭንቀተይ ርሒቑ ብብዙሕ ምሕረትካ",
+      "ኣስተማቒረዮ እቲ ምሉእ ሰላምካ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነፍሰይ ከጸናንዓ ዋላ ኣይከኣልኩ",
+          "ሓይልኻ ዘንጊዐ ኮለል`የ ዝበልኩ",
+          "ሕጂስ ፈሊጠዮ ኵሉ'ቲ ሽግረይ",
+          "ምሳኻ'ዩ ዘሎ ምስጢር ናይ ሰላመይ",
+          "ምሳይ እንተለኻ ይዝሕል'ቲ ንፋስ",
+          "ሓፍኮፍ ዝብል ማዕበል የለን ዝንቀሳቐስ",
+          "ኣንታ ቅዱስ ጐይታ ናይ ሰላም ሓለቓ",
+          "ሓዘነይ ኣብቂዑ ብከሃልነትካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንሞት ምስ ሰዓርካ ብዓቢይ ሓይልኻ",
+          "ጸልማት ተቐንጢጡ ደሚቑ ብርሃንካ",
+          "ወዲቖም ረጊፎም'ቶም ዝጻረሩኻ",
+          "ኤልሻዳይ እግዚአብሔር ግሩም'ዩ ስራሕካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰላም ሰፊኑለይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nይኣክል ምስ በልካ የቋርጽ'ዩ\nቲ'ናይ ጥፍኣት ማዕበል ምንጩ የቋርጽ'ዩ\nጭንቀተይ ርሒቑ ብብዙሕ ምሕረትካ\nኣስተማቒረዮ እቲ ምሉእ ሰላምካ\n[[/chorus]]\n\nሰላም ሰፊኑለይ ቀሲኑ ልበይ\nኣብ ጎድነይ ምስ ኮንካ ለዋህ ኣምላኸይ (2)\nውዳሴ ምስጋና ኮይኑ ዕላማይ\nውሽጠይ መሊኡ'ሎ ፍቕርኻ ጐይታይ (2)\n\nነፍሰይ ከጸናንዓ ዋላ ኣይከኣልኩ\nሓይልኻ ዘንጊዐ ኮለል`የ ዝበልኩ\nሕጂስ ፈሊጠዮ ኵሉ'ቲ ሽግረይ\nምሳኻ'ዩ ዘሎ ምስጢር ናይ ሰላመይ\n\nንሞት ምስ ሰዓርካ ብዓቢይ ሓይልኻ\nጸልማት ተቐንጢጡ ደሚቑ ብርሃንካ\nወዲቖም ረጊፎም'ቶም ዝጻረሩኻ\nኤልሻዳይ እግዚአብሔር ግሩም'ዩ ስራሕካ"
-    },
-    "ti_ro": {
-      "title": "Selam sefinuley",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nWshtey meliu'lo fqrkha goytay (2)\n[[/chorus]]\n\nSelam sefinuley qesinu lbey\nAb godney ms konka lewah amlakhey (2)\nWdase msgana koynu lamay\nYakl ms belka yeqwarts'yu\nTi'nay tfat mabel mnchu yeqwarts'yu\nChnqetey rhiqu bbzuh mhretka\nAstemaqireyo ti mlu selamka\nNefsey ketsenana wala aykealku\nHaylkha zengia kolel`ye zbelku\nHjis feliteyo kwilu'ti shgrey\nMsakha'yu zelo mstir nay selamey\nMsay ntelekha yzhl'ti nfas\nHafkof zbl mabel yelen znqesaqes\nAnta qdus goyta nay selam haleqa\nHazeney abqiu bkehalnetka\nNmot ms searka babiy haylkha\nTselmat teqentitu demiqu brhanka\nWediqom regifom'tom ztsarerukha\nElshaday gziabher grum'yu srahka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ab godney ms konka lewah amlakhey /2/",
+      "Wdase msgana koynu 'lamay",
+      "Wsht'ey meliu'lo fqrkha gwaytay /2/",
+      "Yakl ms belka yeqwarts''yu",
+      "Ti'nay t'fat ma'bel mnch'u yeqwarts''yu",
+      "Ch'nqetey rhiqu bbzuh mhretka",
+      "Astemaqireyo ti mlu selamka"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nefsey kets'enan'a wala aykealku",
+          "Haylkha zengi'e kolel`ye zbelku",
+          "Hjis felit'eyo kwlu'ti shgrey",
+          "Msakha'yu zelo mst'ir nay selamey",
+          "Msay ntelekha yzhl'ti nfas",
+          "Hafkof zbl ma'bel yelen znqesaqes",
+          "Anta qdus gwayta nay selam haleqa",
+          "Hazeney abqi'u bkehalnetka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nmot ms se'arka b'abiy haylkha",
+          "Ts'elmat teqent'it'u demiqu brhanka",
+          "Wediqom regifom'tom zts'arerukha",
+          "Elshaday gziebher grum'yu srahka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

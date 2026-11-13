@@ -1,0 +1,37 @@
+{
+  "id": 229,
+  "title": "ሰርፀ ጽዮን",
+  "ti": {
+    "chorus": [
+      "ወደሳሁ እንዘ ይብላ ለብጹዕ ሰርፀ ጽዮን",
+      "ደብረ ቢዘን ወደብረ ምዕዋን",
+      "መኑ ከማከ ዘነሰተ /2/ አረፍተ ደይን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካባኻ እሞ ናበይ ጐይታይ ኮከበ ገዳም አቡነ",
+          "ገብረመንፈስቅዱስ (ገጀረት)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Wedesahu nze ybla lebts'u' serts'e ts'yon",
+      "Debre bizen wedebre m'wan",
+      "Menu kemake zenesete /2/ erefte deyn"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kabakha mo nabey gwaytay kokebe gedam ebune",
+          "Gebremenfesqdus (gejeret)"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

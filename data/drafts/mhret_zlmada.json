@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_fdf2f6417b",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ምሕረት ዝልማዳ"
+  "id": 425,
+  "title": "ምሕረት ዝልማዳ",
+  "ti": {
+    "chorus": [
+      "ምሕረት ዝልማዳ ርህርህተ ሕሊና",
+      "ተስፋ ናይ ኣዳም ናይ ጻድቃን ልመና",
+      "ኣይትጭክንን ዝተማህጸነኪ",
+      "ንዒ ብደመና ምስ ርህሩህ ወድኺ/2/",
+      "ማርያም ስለ ናትኪ ቃላት ይሓጽረኒ",
+      "ብኣኺ ዝፍጸም ስራሕ ይገርመኒ",
+      "ወለዶ ኩሉ ናባኺ ይምህለሉ",
+      "ቅድስቲ ማርያም ለምኒ እናበሉ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "በደነት ፍቕርኪ  እናተሓገዝኩ",
+          "ኣብዚ በጽሔልኪ ምንም  አንኮይኮንኩ",
+          "መልሲ የብለይን ነዚ ኩሉ ውዕለታ",
+          "ስልማተይ ኢኺ ዝሃበኒ ጎይታ/2/",
+          "ኣብ ቤተመቕደስኪ ከምቶም ኣቦታተይ",
+          "ተምበርኪኸልኪ ዘርጊሔ ኣእዳወይ",
+          "ከበሮ ኣዳሚጹ በገናይ ቃሊሑ",
+          "ኣመስጊነኪ ልበይ ተመሲጡ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክንደይ ተጠቒሙ ንስምኪ ጸዊዑ",
+          "ጸሎቱ ሰሚሩ ከይዱ ተሓጒሱ",
+          "ዘወትር እግዚኣብሔር ዘልዓለም ምሳኺ",
+          "በረከት ይረክብ ለሚኑ ንዓኺ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ምሕረት ዝልማዳ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nማርያም ስለ ናትኪ ቃላት ይሓጽረኒ\nብኣኺ ዝፍጸም ስራሕ ይገርመኒ\nወለዶ ኩሉ ናባኺ ይምህለሉ\nቅድስቲ ማርያም ለምኒ እናበሉ(2)\n[[/chorus]]\n\nምሕረት ዝልማዳ ርህርህተ ሕሊና\nተስፋ ናይ ኣዳም ናይ ጻድቃን ልመና\nኣይትጭክንን ዝተማህጸነኪ\nንዒ ብደመና ምስ ርህሩህ ወድኺ(2)\n\nበደነት ፍቕርኪ እናተሓገዝኩ\nኣብዚ በጽሔልኪ ምንም አንኮይኮንኩ\nመልሲ የብለይን ነዚ ኩሉ ውዕለታ\nስልማተይ ኢኺ ዝሃበኒ ጎይታ(2)\n\nክንደይ ተጠቒሙ ንስምኪ ጸዊዑ\nጸሎቱ ሰሚሩ ከይዱ ተሓጒሱ\nዘወትር እግዚኣብሔር ዘልዓለም ምሳኺ\nበረከት ይረክብ ለሚኑ ንዓኺ(2)"
-    },
-    "ti_ro": {
-      "title": "Mhret zlmada",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNi bdemena ms rhruh wedkhi(2)\n[[/chorus]]\n\nMhret zlmada rhrhte hlina\nTesfa nay adam nay tsadqan lmena\nAytchknn ztemahtseneki\nMaryam sle natki qalat yhatsreni\nBakhi zftsem srah ygermeni\nWeledo kulu nabakhi ymhlelu\nQdsti maryam lemni nabelu(2)\nBedenet fqrki natehagezku\nAbzi betshelki mnm ankoykonku\nMelsi yebleyn nezi kulu wleta\nSlmatey ikhi zhabeni goyta(2)\nAb betemeqdeski kemtom abotatey\nTemberkikhelki zergihe adawey\nKebero adamitsu begenay qalihu\nAmesgineki lbey temesitu(2)\nKndey teteqimu nsmki tsewiu\nTselotu semiru keydu tehagusu\nZewetr gziabher zelalem msakhi\nBereket yrekb leminu nakhi(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mhret zlmada rhrhte hlina",
+      "Tesfa nay adam nay ts'adqan lmena",
+      "Aytch'knn ztemahts'eneki",
+      "N'i bdemena ms rhruh wedkhi/2/",
+      "Maryam sle natki qalat yhats'reni",
+      "Bakhi zfts'em srah ygermeni",
+      "Weledo kulu nabakhi ymhlelu",
+      "Qdsti maryam lemni nabelu/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bedenet fqrki  natehagezku",
+          "Abzi bets'helki mnm  enkoykonku",
+          "Melsi yebleyn nezi kulu w'leta",
+          "Slmatey ikhi zhabeni goyta/2/",
+          "Ab betemeqdeski kemtom abotatey",
+          "Temberkikhelki zergihe adawey",
+          "Kebero adamits'u begenay qalihu",
+          "Amesgineki lbey temesit'u/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kndey tet'eqimu nsmki ts'ewi'u",
+          "Ts'elotu semiru keydu tehagwisu",
+          "Zewetr gziabher zel'alem msakhi",
+          "Bereket yrekb leminu n'akhi/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

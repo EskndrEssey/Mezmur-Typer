@@ -1,41 +1,57 @@
 {
-  "id": "h_efr_801fe936d5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቅዱስ ሚካኤል"
+  "id": 113,
+  "title": "ቅዱስ ሚካኤል",
+  "ti": {
+    "chorus": [
+      "ቅዱስ ሚካኤል ፈታዊ ንዅሉ",
+      "ምሕረት ይረክብ ኪዳንካ ዝሕሉ /2/",
+      "ቅልጽምካ ዘርግሕ ሚካኤል ምራሕ መንገደይ",
+      "ከይመሰየኒ ብጊዜ ክበጽሕ ቤተይ",
+      "ኣብ ክብሩ የለን `ቲ ውዱቕ ርጉም ጸላኢ",
+      "ሚካኤል ግና ተሸይሙ ብዓቢይ ክብሪ /2/",
+      "ድኅነት ረኺቡ ዳንኤል ኣናጊፍካዮ",
+      "ንኣፍ ኣናብስ ዓጺኻ ሞገስ ሂብካዮ",
+      "ሓያል ቅልጽምካ ተዘርጊሑ ባሕሪ ኣናዊጹ",
+      "ጐይታ ነጊሱ ዲያብሎስ ግን ኣንደልሂጹ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትዝታ ኣሎኒ ኣብ ቤትካ ካብ ቁልዕነተይ",
+          "ብጸጋ ምሕረት ከተዕብያ ንሕይወተይ",
+          "ክዝምር እምበር ንኣምላኸይ ከመስግን ኣነስ",
+          "ዝሓለወኒ ብኣኻ ናብ ሞት ከይምለስ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቅዱስ ሚካኤል",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nኣብ ሓቀኛ መጽሓፍ ዝተጻሕፈ ኵሉ\nከፍልጠና በለ ዳንኤል ከምዚ ኢሉ\nዝረድኣኒ ነዓይ መስፍን ናይ እስራኤል\nሚካኤል’ዩ ዝሕልወኒ ሚካኤል’ዩ\nዘጽንዓኒ መልኣኽ ናይቲ ልዑል\n[[/chorus]]\n\nኣኽናፍካ ይዘርጋሕ ቀቅድሜና ምራሕ (2)\nቅዱስ ሚካኤል (3) ናይ እስራኤል መሪሕ (2)\n\nከም ዳንኤል ንኹን ንፍለጥ ረድኤቱ\nቅድሜና ንግበሮ ክንወፍር ክንኣቱ\nንነቢይ ሙሴ ከም ዝበሎ ኣምላኽ\nቀቅድሜኻ መልኣኸይ ኣሎ\nንቓላቱ ኣስተብህሎ እንቢ ኣይትበሎ\n\nኣብ በረኻ ሲና ኣብቲ ናይ ትማሊ\nንሕዝቢ እስራኤል ዝኾንካ መጽለሊ\nሎሚ’ ውን ከምኡ ቅዱስ ሚካኤል\nክትድግፎም ነሕዋትና ኩሎም\nንዘለዉ ዓቕሎም ኣጽቢቦም ርድኣዮም (2)"
-    },
-    "ti_ro": {
-      "title": "Qdus mikael",
-      "zemari": "di/n efrem",
-      "lyrics": "[[chorus]]\nAkhnafka yzergah qeqdmena mrah (2)\n[[/chorus]]\n\nQdus mikael (3) nay srael merih (2)\nAb haqenya metshaf ztetsahfe kwilu\nKefltena bele danel kemzi ilu\nZredani neay mesfn nay srael\nMikael’yu zhlweni mikael’yu\nZetsnani melakh nayti lul\nKem danel nkhun nflet redetu\nQdmena ngbero knwefr knatu\nNnebiy muse kem zbelo amlakh\nQeqdmekha melakhey alo\nNqalatu astebhlo nbi aytbelo\nMeqeret albo’yu meaza hywetna\nNehlfo kwilu sdet adi gwana\nKetemeqro halu ab qdmena\nKeynnqef akhnafka zergh\nBalhana kabti zefrh zeydngts zeyrhrh\nAb berekha sina abti nay tmali\nNhzbi srael zkhonka metsleli\nLomi’ wn kemu qdus mikael\nKtdgfom nehwatna kulom\nNzelewu aqlom atsbibom rdayom (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Qdus mikael fetawi nkhwlu",
+      "Mhret yrekb kidanka zhlu /2/",
+      "Qlts'mka zergh mikael mrah mengedey",
+      "Keymeseyeni bgize kbets'h betey",
+      "Ab kbru yelen `ti wduq rgum ts'elai",
+      "Mikael gna tesheymu b'abiy kbri /2/",
+      "Dhnet rekhibu danel anagifkayo",
+      "Naf anabs 'ats'ikha moges hibkayo",
+      "Hayal qlts'mka tezergihu bahri anawits'u",
+      "Gwayta negisu diyablos gn andelhits'u /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tzta aloni ab betka kab qul'netey",
+          "Bts'ega mhret kete'bya nhywetey",
+          "Kzmr mber namlakhey kemesgn anes",
+          "Zhaleweni bakha nab mot keymles /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

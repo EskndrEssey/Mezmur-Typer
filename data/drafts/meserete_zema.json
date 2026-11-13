@@ -1,41 +1,49 @@
 {
-  "id": "h_efr_23f4b73d82",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መሰረተ ዜማ"
+  "id": 423,
+  "title": "መሰረተ ዜማ",
+  "ti": {
+    "chorus": [
+      "መሰረተዜማ ብርሃነዓለም/2/",
+      "ያሬድ ካህን ጥዑመልሳን/3/",
+      "መሰረተዜማ ኩርዓት ኢትዮጵያ",
+      "ፍረተዋህዶ ንዓለም ምርኣያ",
+      "ውዳሴ እግዚአብሔር ብምስጋና ቃና",
+      "ንዓኻ ዝመስል ብሓቂ ናፊቕና/2/",
+      "ምድራዊ መልኣኽ ምስጋና ዝምግቡ",
+      "ብከበሮ መዝሙር ገላጺ ንፍቕሩ",
+      "ብፍሉይ ተመስጦ ሰማይ ተመልኪቱ",
+      "ምስጋና ጀሚሩ ከምቶም መላእኽቱ/2/",
+      "ተስፋ ዘይቖርጽ ቃሉ ዝሰነቐ",
+      "ጥዑም ዝልሳኑ ፍጥረት ዘደነቐ",
+      "መኣዲ ማኅሌትካ ንነፍሳት መጊቡ",
+      "ጸጋኻ ያሬደይ ዓለም ኣዛሪቡ/2/",
+      "ጸናጽል ሃበኒ ወርቃዊ መቖምያ",
+      "ለግሰኒ መምህር እቲ ጥዑም ዜማ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መሰረተ ዜማ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nመሰረተዜማ ኩርዓት ኢትዮጵያ\nፍረተዋህዶ ንዓለም ምርኣያ\nውዳሴ እግዚአብሔር ብምስጋና ቃና\nንዓኻ ዝመስል ብሓቂ ናፊቕና(2)\n[[/chorus]]\n\nመሰረተዜማ ብርሃነዓለም(2)\nያሬድ ካህን ጥዑመልሳን(3)\n\nምድራዊ መልኣኽ ምስጋና ዝምግቡ\nብከበሮ መዝሙር ገላጺ ንፍቕሩ\nብፍሉይ ተመስጦ ሰማይ ተመልኪቱ\nምስጋና ጀሚሩ ከምቶም መላእኽቱ(2)\n\nጸናጽል ሃበኒ ወርቃዊ መቖምያ\nለግሰኒ መምህር እቲ ጥዑም ዜማ\nከማኻ ክዝምር ኢለ ሃሌሉያ\nኣሰረፍኖትካ ክኽተል ንኣርኣያ(2)"
-    },
-    "ti_ro": {
-      "title": "Meserete zema",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nMeseretezema brhanealem(2)\n[[/chorus]]\n\nYared kahn tumelsan(3)\nMeseretezema kurat ityopya\nFretewahdo nalem mraya\nWdase gziabher bmsgana qana\nNakha zmesl bhaqi nafiqna(2)\nMdrawi melakh msgana zmgbu\nBkebero mezmur gelatsi nfqru\nBfluy temesto semay temelkitu\nMsgana jemiru kemtom melakhtu(2)\nTesfa zeyqorts qalu zseneqe\nTum zlsanu ftret zedeneqe\nMeadi mahletka nnefsat megibu\nTsegakha yaredey alem azaribu(2)\nTsenatsl habeni werqawi meqomya\nLegseni memhr ti tum zema\nKemakha kzmr ile haleluya\nAserefnotka kkhtel naraya(2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Meseretezema brhane'alem/2/",
+      "Yared kahn t''umelsan/3/",
+      "Meseretezema kur'at ityop'ya",
+      "Fretewahdo n'alem mraya",
+      "Wdase gziebher bmsgana qana",
+      "N'akha zmesl bhaqi nafiqna/2/",
+      "Mdrawi melakh msgana zmgbu",
+      "Bkebero mezmur gelats'i nfqru",
+      "Bfluy temest'o semay temelkitu",
+      "Msgana jemiru kemtom melakhtu/2/",
+      "Tesfa zeyqorts' qalu zseneqe",
+      "T''um zlsanu ft'ret zedeneqe",
+      "Meadi mahletka nnefsat megibu",
+      "Ts'egakha yaredey 'alem azaribu/2/",
+      "Ts'enats'l habeni werqawi meqomya",
+      "Legseni memhr ti t''um zema"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

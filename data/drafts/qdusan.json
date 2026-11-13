@@ -1,41 +1,111 @@
 {
-  "id": "h_efr_4e2740739d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቅዱሳን"
+  "id": 419,
+  "title": "ቅዱሳን",
+  "ti": {
+    "chorus": [
+      "ኣስምዑነ ቃለ /2/",
+      "በበሂለ ኦሆ /0/ ቅዱሳን",
+      "ዓለምን ፍትወታን ብሓቂ መኒንካ",
+      "ብጸሎትን ጾምን ፍጹም ተጸሚድካ",
+      "ንገድሊ መሪጽካ ንምብራቕ ጠሚትካ",
+      "ወንጌል ተሰኪምካ ኣብ እምነት ጸኒዕካ",
+      "ከሣቴ ሃይማኖት ሓበን ናይ እምነትና",
+      "ጻድቕ ዋሕስና ኢኻ’ሞ ሰላም ለምነልና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጥዑመ ዝክር ኣቡነ ሰላማ",
+          "ኣቡነ ሰላማ /0/ ጥዑመ ዝክር",
+          "ኣብርሀን ኣፅብሐን ዓስቢ’ቲ ገድልኹም",
+          "ንስጋ ገዚእኩም ብመንፈስ ምምራሕኩም",
+          "መዓር ጸባ ተውሕዝ ብማያ ትፍውስ",
+          "ኣግዚምኩም ጐይታ ሕንፃ መንፈስ ቅዱስ",
+          "ኣብቲ ቅዱስ ሕንፃ ምሳኹም ክንህሉ",
+          "ጸሎት /2/ ጸጋኹም ኣብ ልዕሌና ኣጽልሉ /2/",
+          "ብርሃን ናይ ዕውራን መራሒ ንጽድቂ",
+          "ትሩፋት ገድልኻ ይኹነና ስንቂ",
+          "ሰላማ ኣቡነ ምርኩስ ናይ ኃጥኣን",
+          "ጸጋ /2/ ረድኤትካ ኣብ ልዕሌና ይኹን /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጥዑመ ዝክር ኣቡነ ሰላማ",
+          "ኣቡነ ሰላማ /0/ ጥዑመ ዝክር",
+          "ኣብነት ናይ ፍቕሪ ኣብ መንበር ንግሥነት",
+          "ብኢደ ሰላማ ተቐቢልኩም ጥምቀት",
+          "ወንጌል ንኸስፋሕፍሕ ናይ ጐይታ ብሥራት",
+          "ንምድረ አግአዚ ኴንኩማ ሓዋርያት",
+          "ብሓሳብ ናይ ዓለም መታን ከይንስሕት",
+          "ኣበው /2/ ቅዱሳን ለምኑልና ምሕረት /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ቅዱሳን ኣብርሀን ኣፅብሐን",
+          "ኣብርሀን ኣፅብሐን /0/ ቅዱሳን"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቅዱሳን",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nዓለምን ፍትወታን ብሓቂ መኒንካ\nብጸሎትን ጾምን ፍጹም ተጸሚድካ\nንገድሊ መሪጽካ ንምብራቕ ጠሚትካ\nወንጌል ተሰኪምካ ኣብ እምነት ጸኒዕካ\nከሣቴ ሃይማኖት ሓበን ናይ እምነትና\nጻድቕ ዋሕስና ኢኻ’ሞ ሰላም ለምነልና (2)\n[[/chorus]]\n\nኣስምዑነ ቃለ (2)\nበበሂለ ኦሆ (0) ቅዱሳን\n\nጥዑመ ዝክር ኣቡነ ሰላማ\nኣቡነ ሰላማ (0) ጥዑመ ዝክር\n\nቅዱሳን ኣብርሃን ኣፅብሓን\nኣብርሃን ኣፅበሓን (0) ቅዱሳን\n\nጥዑመ ዝክር ኣቡነ ሰላማ\nኣቡነ ሰላማ (0) ጥዑመ ዝክር\n\nቅዱሳን ኣብርሀን ኣፅብሐን\nኣብርሀን ኣፅብሐን (0) ቅዱሳን"
-    },
-    "ti_ro": {
-      "title": "Qdusan",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nAsmune qale (2)\n[[/chorus]]\n\nBebehile oho (0) qdusan\nAlemn ftwetan bhaqi meninka\nBtselotn tsomn ftsum tetsemidka\nNgedli meritska nmbraq temitka\nWengel tesekimka ab mnet tsenika\nKesate haymanot haben nay mnetna\nTsadq wahsna ikha’mo selam lemnelna (2)\n\nAbrhan atsbhan asbi’ti gedlkhum\nNsga gezikum bmenfes mmrahkum\nMear tseba tewhz bmaya tfws\nAgzimkum goyta hntsa menfes qdus\nAbti qdus hntsa msakhum knhlu\nTselot (2) tsegakhum ab llena atsllu (2)\nQdusan abrhan atsbhan\nAbrhan atsbehan (0) qdusan\nNhayltat tslmet btselot adkimka\nLehageritne dhnet zsebekhka\nBrhan nay wran merahi ntsdqi\nTrufat gedlkha ykhunena snqi\nSelama abune mrkus nay hatan\nTsega (2) redetka ab llena ykhun (2)\n\nAbnet nay fqri ab menber ngssnet\nBide selama teqebilkum tmqet\nWengel nkhesfahfh nay goyta bssrat\nNmdre agazi kwenkuma hawaryat\nBhasab nay alem metan keynsht\nAbew (2) qdusan lemnulna mhret (2)\nQdusan abrhan atsbhan\nAbrhan atsbhan (0) qdusan"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Asm'une qale /2/",
+      "Bebehile oho /0/ qdusan",
+      "'Alemn ftwetan bhaqi meninka",
+      "Bts'elotn ts'omn fts'um tets'emidka",
+      "Ngedli merits'ka nmbraq t'emitka",
+      "Wengel tesekimka ab mnet ts'eni'ka",
+      "Kessate haymanot haben nay mnetna",
+      "Ts'adq wahsna ikha’mo selam lemnelna /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "T''ume zkr abune selama",
+          "Abune selama /0/ t''ume zkr",
+          "Abrhen ats'bhen 'asbi’ti gedlkhum",
+          "Nsga gezikum bmenfes mmrahkum",
+          "Me'ar ts'eba tewhz bmaya tfws",
+          "Agzimkum gwayta hnts'a menfes qdus",
+          "Abti qdus hnts'a msakhum knhlu",
+          "Ts'elot /2/ ts'egakhum ab l'lena ats'llu /2/",
+          "Brhan nay 'wran merahi nts'dqi",
+          "Trufat gedlkha ykhunena snqi",
+          "Selama abune mrkus nay hat'an",
+          "Ts'ega /2/ redetka ab l'lena ykhun /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "T''ume zkr abune selama",
+          "Abune selama /0/ t''ume zkr",
+          "Abnet nay fqri ab menber ngssnet",
+          "Bide selama teqebilkum t'mqet",
+          "Wengel nkhesfahfh nay gwayta bssrat",
+          "Nmdre egezi kwenkuma hawaryat",
+          "Bhasab nay 'alem metan keynsht",
+          "Abew /2/ qdusan lemnulna mhret /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Qdusan abrhen ats'bhen",
+          "Abrhen ats'bhen /0/ qdusan"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

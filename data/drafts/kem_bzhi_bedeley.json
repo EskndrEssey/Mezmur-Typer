@@ -1,41 +1,57 @@
 {
-  "id": "h_efr_9d68bd0dd3",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ከም ብዝሒ በደለይ"
+  "id": 840,
+  "title": "ከም ብዝሒ በደለይ",
+  "ti": {
+    "chorus": [
+      "ከም ብዝሒ በደለይ ተኾይኑ ቅጽዓተይ",
+      "ኣይውዳእን’ዩ ተዘርዚሩ ኃጢአተይ/2/",
+      "ክምለስ እናበልኩ እብል ሎሚ ጽባሕ",
+      "በደለይ ሓዲገ ክምለስ ናባኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እንታይ ክምልስ’የ ዝመጽኣሉ ዕለት/2/",
+          "ኣይሰርሕን’ዩ ሽዑ ኣውያት ብኽያት",
+          "መሓሪ ኢኻ’ሞ ንዝበደሉኻ",
+          "ይቕረ በሃሊ ኢኻ ንዝለመኑኻ",
+          "ይቕረ በለኒ’ሞ ክረክብ ጸጋኻ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዓመጸኛ ልበይ ድሕሪት ከይመልሰኒ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ከም ብዝሒ በደለይ",
-      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
-      "lyrics": "[[chorus]]\nክምለስ እናበልኩ እብል ሎሚ ጽባሕ\nበደለይ ሓዲገ ክምለስ ናባኻ\n[[/chorus]]\n\nከም ብዝሒ በደለይ ተኾይኑ ቅጽዓተይ\nኣይውዳእን’ዩ ተዘርዚሩ ኃጢአተይ(2)\n\nእንታይ ክምልስ’የ ዝመጽኣሉ ዕለት(2)\nኣይሰርሕን’ዩ ሽዑ ኣውያት ብኽያት\n\nዓመጸኛ ልበይ ድሕሪት ከይመልሰኒ(2)\nልመናይ ስምዓዮ ጐይታይ መሓረኒ"
-    },
-    "ti_ro": {
-      "title": "Kem bzhi bedeley",
-      "zemari": "liqe mahletat bmenfes teqanyu",
-      "lyrics": "[[chorus]]\nAmetsenya lbey dhrit keymelseni(2)\n[[/chorus]]\n\nKem bzhi bedeley tekhoynu qtsatey\nAywdan’yu tezerziru hatiatey(2)\nKmles nabelku bl lomi tsbah\nBedeley hadige kmles nabakha\nNtay kmls’ye zmetsalu let(2)\nAyserhn’yu shu awyat bkhyat\nMehari ikha’mo nzbedelukha\nYqre behali ikha nzlemenukha\nYqre beleni’mo krekb tsegakha\nLmenay smayo goytay mehareni"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kem bzhi bedeley tekhoynu qts''atey",
+      "Aywdan’yu tezerziru hat'ietey/2/",
+      "Kmles nabelku bl lomi ts'bah",
+      "Bedeley hadige kmles nabakha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ntay kmls’ye zmets'alu 'let/2/",
+          "Ayserhn’yu sh'u awyat bkhyat",
+          "Mehari ikha’mo nzbedelukha",
+          "Yqre behali ikha nzlemenukha",
+          "Yqre beleni’mo krekb ts'egakha"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "'Amets'enya lbey dhrit keymelseni/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

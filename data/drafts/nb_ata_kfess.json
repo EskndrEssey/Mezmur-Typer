@@ -1,41 +1,91 @@
 {
-  "id": "h_efr_686ee3d0d7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንብዓታ ክፈስስ"
+  "id": 236,
+  "title": "ንብዓታ ክፈስስ",
+  "ti": {
+    "chorus": [
+      "ንብዓታ ክፈስስ ሓሊፉ ኣብ ምዕጉርቲ ወዳ",
+      "ርኤያ ንድንግል ብሓዘን ደኺሙ የዒንታ",
+      "ኣየ ወላዲቱ በዚሑ መከራ",
+      "ዋይ ዋይ እናበለት ክትበኪ ጀሚራ",
+      "ጉዕዞ ንቑጽ ምድሪ ኣድኪምዋ ጉያ",
+      "ዋይ ዋይ እናበለት ክትበኪ ጀሚራ",
+      "ሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ",
+      "ካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጥሜት ዝበዝሖ ምድረበዳ ግብጺ",
+          "ኣፉ’ውን ከፈተ ንብዓታ ክሰቲ",
+          "እንታይ እያ ጌራ እንታይ’ያ በዲላ",
+          "ዝገዓረ ሄረዶስ ኣብ መርዓት ገሊላ",
+          "ሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ",
+          "ካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ",
+          "ዕብራውን ግብጻውን ኣቤት ክጭክኑ",
+          "ኣምሃ ሰብ ጥበብ ገፊፎም ንሳእኑ",
+          "ፍትሒ ዘውጽኣላ ሓቀኛ መገዲ",
+          "ስኢና በኸየት ድንግለይ ፈራዲ",
+          "ሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ",
+          "ካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓዚናላ ድንግል ገንፊሉ ንብዓታ",
+          "ዝመረረ ሓዘን ሓሊፉ ብልባ",
+          "ናይ ሽግር ናይ ሓጎስ ኵሉ መኻፍልታ",
+          "ዘመድ ናይ ኣቡኣ ብኸዩ ኤፍራታ",
+          "ሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ",
+          "ካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንብዓታ ክፈስስ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nንልቢ ዝኸፍል ሕሊና ዝፍንቅል\nከቢድዩ ስደታ መከራ ናይ ድንግል\nጉዕዞ ንቑጽ ምድሪ ኣድኪምዋ ጉያ\nዋይ ዋይ እናበለት ክትበኪ ጀሚራ\nሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ\nካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ\n[[/chorus]]\n\nንብዓታ ክፈስስ ሓሊፉ ኣብ ምዕጉርቲ ወዳ\nርኤያ ንድንግል ብሓዘን ደኺሙ የዒንታ\nኣየ ወላዲቱ በዚሑ መከራ\nዋይ ዋይ እናበለት ክትበኪ ጀሚራ\nምስኪን እንክበኪ ከብዳ ዘይገብረላ\nሽግርን መከራን ሕሰም ተቐቢላ\n\nጥሜት ዝበዝሖ ምድረበዳ ግብጺ\nኣፉ’ውን ከፈተ ንብዓታ ክሰቲ\nእንታይ እያ ጌራ እንታይ’ያ በዲላ\nዝገዓረ ሄረዶስ ኣብ መርዓት ገሊላ\nሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ\nካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ\n\nሓዚናላ ድንግል ገንፊሉ ንብዓታ\nዝመረረ ሓዘን ሓሊፉ ብልባ\nናይ ሽግር ናይ ሓጎስ ኵሉ መኻፍልታ\nዘመድ ናይ ኣቡኣ ብኸዩ ኤፍራታ\nሰፊሕ’ዩ ካብ ብዙሕ ንላዕሊ መከራኣ ናይ ኣእጋራ ቁስሊ\nካብ ስደታ በረኸት ክሳተፍ ክስዕባየ ምስ ሰሎሜ ዮሴፍ"
-    },
-    "ti_ro": {
-      "title": "Nb'ata kfess",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nSefih’yu kab bzuh nlali mekeraa nay agara qusli\nKab sdeta berekhet ksatef ksbaye ms selome yosef\n[[/chorus]]\n\nNbata kfess halifu ab mgurti weda\nReya ndngl bhazen dekhimu yeinta\nAye weladitu bezihu mekera\nWay way nabelet ktbeki jemira\nMskin nkbeki kebda zeygebrela\nShgrn mekeran hsem teqebila\nNlbi zkhefl hlina zfnql\nKebidyu sdeta mekera nay dngl\nGuzo nquts mdri adkimwa guya\nWay way nabelet ktbeki jemira\n\nTmet zbezho mdrebeda gbtsi\nAfu’wn kefete nbata kseti\nNtay ya gera ntay’ya bedila\nZgeare heredos ab merat gelila\n\nBrawn gbtsawn abet kchknu\nAmha seb tbeb gefifom nsanu\nFthi zewtsala haqenya megedi\nSina bekheyet dngley feradi\n\nHazinala dngl genfilu nbata\nZmerere hazen halifu blba\nNay shgr nay hagos kwilu mekhaflta\nZemed nay abua bkheyu efrata"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Nb'ata kfess halifu ab m'gurti weda",
+      "Reya ndngl bhazen dekhimu ye'inta",
+      "Aye weladitu bezihu mekera",
+      "Way way nabelet ktbeki jemira",
+      "Gu'zo nquts' mdri adkimwa guya",
+      "Way way nabelet ktbeki jemira",
+      "Sefih’yu kab bzuh nla'li mekeraa nay agara qusli",
+      "Kab sdeta berekhet ksatef ks'baye ms selome yosef"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "T'met zbezho mdrebeda gbts'i",
+          "Afu’wn kefete nb'ata kseti",
+          "Ntay ya gera ntay’ya bedila",
+          "Zge'are heredos ab mer'at gelila",
+          "Sefih’yu kab bzuh nla'li mekeraa nay agara qusli",
+          "Kab sdeta berekhet ksatef ks'baye ms selome yosef",
+          "'Brawn gbts'awn abet kch'knu",
+          "Amha seb t'beb gefifom nsanu",
+          "Fthi zewts'ala haqenya megedi",
+          "Sina bekheyet dngley feradi",
+          "Sefih’yu kab bzuh nla'li mekeraa nay agara qusli",
+          "Kab sdeta berekhet ksatef ks'baye ms selome yosef"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hazinala dngl genfilu nb'ata",
+          "Zmerere hazen halifu blba",
+          "Nay shgr nay hagos kwlu mekhaflta",
+          "Zemed nay abua bkheyu efrata",
+          "Sefih’yu kab bzuh nla'li mekeraa nay agara qusli",
+          "Kab sdeta berekhet ksatef ks'baye ms selome yosef"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

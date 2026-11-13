@@ -1,41 +1,115 @@
 {
-  "id": "h_efr_aa5980ed5c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እመ ብርሃን ክብለኪ"
+  "id": 98,
+  "title": "እመ ብርሃን ክብለኪ",
+  "ti": {
+    "chorus": [
+      "እመብርሃን ክብለኪ ምጽኒ ምስ ወድኺ",
+      "ቅረቢ ናብ ሕይወተይ ኣደይ ክጽውዓኪ",
+      "ናብራይ ተዘናቢሉ ደኺመለኹ ኣነ",
+      "ናባይ ቅረቢ ኣደይ ክጸናናዕ በጃኺ",
+      "ሰላም ኮይኑሎ ገዛይ ንስኺ ብምእታውኪ",
+      "ቲ ኣባይ ዝነበረ ሓዘነይውን ለዊጥኪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዘይምኖ ኣደነትኪ ፍቕርኺ ጥዒሙኒ",
+          "ወትሩ ኣብ ጎንኻየ ‘ናበልኪ ኣቕስንኒ",
+          "ብየማነይ ኩንለይ ኣደ ኣምላኽ ኣብ ዘመነይ",
+          "ሓደራ ኣይትርሓቒ ጠበቓ ኩኒ ንዓይ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ጎነይ ምስ ትኾኒ ድምጽኺ የጽንዓኒ",
+          "ንስኺ ኢኺ ምርኩሰይ ኣብ ሓዘነይ ሽግረይ",
+          "ኣብ ዘለኹሉ ቦታ ኣብ ዝጉዓዘሉ ኵሉ",
+          "ናባኺየ ዝጠርዕ ኣንቲ ቤዛዊት ኵሉ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዘማሪ ገብረአምላክ",
+          "99. ብንጹህ ደሙ ዘድኃነና",
+          "ተመጦነ /2/ እምስጋሁ /2/ ቅዱስ",
+          "ወእምደሙ /2/ ክቡር"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ብንጹህ ደሙ ዘድሓነና",
+          "ካብ ወድቀትና ዘልዓለና /2/",
+          "ብዙሕ እዩ ናቱ ውዕለታት",
+          "ክንዝምር ኢና ንጐይታ",
+          "ቀኒዕና ኣለና ብኽብሪ",
+          "ምስ ኣድነነልና ብፍቕሪ",
+          "ስሌና ብዙሕ ኮይኑልና",
+          "ኣኽሊል ናይ ብርሃን ደፊኡልና",
+          "ንጸላኢና ተጻዩ መድኃኒት ዓለም ጐይታ'ዩ/2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ኣለማየሁ ኡርጌ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እመ ብርሃን ክብለኪ",
-      "zemari": "ዘማሪ ኣለማየሁ ኡርጌ",
-      "lyrics": "[[chorus]]\nናብራይ ተዘናቢሉ ደኺመለኹ ኣነ\nናባይ ቅረቢ ኣደይ ክጸናናዕ በጃኺ\nሰላም ኮይኑሎ ገዛይ ንስኺ ብምእታውኪ\nቲ ኣባይ ዝነበረ ሓዘነይውን ለዊጥኪ\n[[/chorus]]\n\nእመብርሃን ክብለኪ ምጽኒ ምስ ወድኺ\nቅረቢ ናብ ሕይወተይ ኣደይ ክጽውዓኪ\n\nዘይምኖ ኣደነትኪ ፍቕርኺ ጥዒሙኒ\nወትሩ ኣብ ጎንኻየ ‘ናበልኪ ኣቕስንኒ\nንስምኪ ንዘልዓለም ክጽውዕየ ኣነ\nናይ መንገደይ መራሒት ንዓይነይውን ብርሃነይ\n\nኣብ ጎነይ ምስ ትኾኒ ድምጽኺ የጽንዓኒ\nንስኺ ኢኺ ምርኩሰይ ኣብ ሓዘነይ ሽግረይ\nኣብ ዘለኹሉ ቦታ ኣብ ዝጉዓዘሉ ኵሉ\nናባኺየ ዝጠርዕ ኣንቲ ቤዛዊት ኵሉ\nዘማሪ ገብረአምላክ"
-    },
-    "ti_ro": {
-      "title": "'Me brhan kbleki",
-      "zemari": "zemari alemayehu urge",
-      "lyrics": "Mebrhan kbleki mtsni ms wedkhi\nQrebi nab hywetey adey ktswaki\nNabray tezenabilu dekhimelekhu ane\nNabay qrebi adey ktsenana bejakhi\nSelam koynulo gezay nskhi bmtawki\nTi abay znebere hazeneywn lewitki\nZeymno adenetki fqrkhi timuni\nWetru ab gonkhaye ‘nabelki aqsnni\nNsmki nzelalem ktswye ane\nNay mengedey merahit nayneywn brhaney\nAbti zefrh tselmat dekhime keywedqeki\nByemaney tsegamey degfni bejakhi\nByemaney kunley ade amlakh ab zemeney\nHadera aytrhaqi tebeqa kuni nay\nAb goney ms tkhoni dmtskhi yetsnani\nNskhi ikhi mrkusey ab hazeney shgrey\nAb zelekhulu bota ab zguazelu kwilu\nNabakhiye zter anti bezawit kwilu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mebrhan kbleki mts'ni ms wedkhi",
+      "Qrebi nab hywetey adey kts'w'aki",
+      "Nabray tezenabilu dekhimelekhu ane",
+      "Nabay qrebi adey kts'enana' bejakhi",
+      "Selam koynulo gezay nskhi bmtawki",
+      "Ti abay znebere hazeneywn lewit'ki"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zeymno adenetki fqrkhi t''imuni",
+          "Wetru ab gonkhaye ‘nabelki aqsnni",
+          "Byemaney kunley ade amlakh ab zemeney",
+          "Hadera aytrhaqi t'ebeqa kuni n'ay"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab goney ms tkhoni dmts'khi yets'n'ani",
+          "Nskhi ikhi mrkusey ab hazeney shgrey",
+          "Ab zelekhulu bota ab zgu'azelu kwlu",
+          "Nabakhiye zt'er' anti bezawit kwlu"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zemari gebreemlak",
+          "99. Bnts'uh demu zedhanena",
+          "Temet'one /2/ msgahu /2/ qdus",
+          "Wemdemu /2/ kbur"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Bnts'uh demu zedhanena",
+          "Kab wedqetna zel'alena /2/",
+          "Bzuh yu natu w'letat",
+          "Knzmr ina ngwayta",
+          "Qeni'na alena bkhbri",
+          "Ms adnenelna bfqri",
+          "Slena bzuh koynulna",
+          "Akhlil nay brhan defiulna",
+          "Nts'elaina tets'ayu medhanit 'alem gwayta'yu/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

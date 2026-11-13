@@ -1,44 +1,21 @@
 {
-  "id": "h_efr_cd68ac3bb7",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንዒ ባርኽና"
+  "id": 344,
+  "title": "ንዒ ባርኽና",
+  "ti": {
+    "chorus": [
+      "ምስ ቅዱስ ሚካኤል ወገብርኤል ኣዴና ንዒ ማርያም",
+      "ንዒ ባርኽና ከምቶም ኣቦታትና /2/ ኣዴና ንዒ ማርያም"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንዒ ባርኽና",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "ምስ ቅዱስ ሚካኤል ወገብርኤል ኣዴና ንዒ ማርያም\nንዒ ባርኽና ከምቶም ኣቦታትና (2) ኣዴና ንዒ ማርያም"
-    },
-    "ti_ro": {
-      "title": "N'i barkhna",
-      "zemari": "di/n efrem",
-      "lyrics": "Ms qdus mikael wegebrel adena ni maryam\nNi barkhna kemtom abotatna (2) adena ni maryam"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Ms qdus mikael wegebrel adena n'i maryam",
+      "N'i barkhna kemtom abotatna /2/ adena n'i maryam"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

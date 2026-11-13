@@ -1,0 +1,77 @@
+{
+  "id": 235,
+  "title": "ዝፈተወ ይስተይ",
+  "ti": {
+    "chorus": [
+      "ዝፈተወ ይስተይ ካብቲ ናይ ሕይወት ማይ",
+      "ይጽውዕ’ዩ ዘሎ ንጉሥ ሰላም ኣዶናይ /2/",
+      "ኣፈልፊሉ እንድዩ ካብ ከውሒ ማይ ኣንዚዑ",
+      "ጽምእና ከጥልል ብሙሴ ጸዊዑ",
+      "ንምትካል ንዓና ኣብቲ ጉንዲ ወይኑ",
+      "ድሌትና እዩ ወሳኒ ንውህበት ጸጋኡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሂብካና ኢኻ’ሞ ናጻ ድሌት ምርጫ",
+          "ኣይኮነን ሕይወትና ዝጓዓዝ ብዕጫ",
+          "ጽዋእ ናይ ነፍስኻ ጎደሎና ትመልእ",
+          "ኃጢአተኛ ኢልካ ኃጥእ ዘይትጸልእ",
+          "ቤትካ ኣርሒኻሉ ነቲ ጥፉእ ወዲ",
+          "ዕድመኻዩ ኢልካዮ ብቐረብ መኣዲ",
+          "ዝነቐጸ ሕይወት ራሕሲ ጽድቂ መሊኡ",
+          "ቲድሩቕ ጎረሮ ብኣኻ ጠሊሉ",
+          "ከምቲ ንእስራኤል መና ኣብ በረኻ",
+          "ሕጂ’ውን መግቢ ኢኻ ንነፍሲ ንስጋ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ይኵሕኵሕ ልብና ጠሚቱና ብለውሃት",
+          "ሰላም ንኽሰፍኖ  ውሽጥና ብምልኣት",
+          "ሓሳብ ኣእምሮና የቕልብ ንጐይታ",
+          "ኣኺሉ’ዩ `ቲ ጊዜ እዋን መፈጸምታ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Zfetewe ystey kabti nay hywet may",
+      "Yts'w'’yu zelo nguss selam adonay /2/",
+      "Afelfilu ndyu kab kewhi may anzi'u",
+      "Ts'mna ket'll bmuse ts'ewi'u",
+      "Nmtkal n'ana abti gundi weynu",
+      "Dletna yu wesani nwhbet ts'egau"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hibkana ikha’mo nats'a dlet mrch'a",
+          "Aykonen hywetna zgwa'az b'ch'a",
+          "Ts'wa nay nefskha godelona tmel",
+          "Hat'ietenya ilka hat' zeytts'el",
+          "Betka arhikhalu neti t'fu wedi",
+          "'Dmekhayu ilkayo bqereb meadi",
+          "Zneqets'e hywet rahsi ts'dqi meliu",
+          "Tidruq gorero bakha t'elilu",
+          "Kemti nsrael mena ab berekha",
+          "Hji’wn megbi ikha nnefsi nsga"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ykwhkwh lbna t'emituna blewhat",
+          "Selam nkhsefno  wsht'na bmlat",
+          "Hasab amrona yeqlb ngwayta",
+          "Akhilu’yu `ti gize wan mefets'emta"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

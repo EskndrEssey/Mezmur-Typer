@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_18e7533b17",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰላምኪ ኣውርድለይ"
+  "id": 495,
+  "title": "ሰላምኪ ኣውርድለይ",
+  "ti": {
+    "chorus": [
+      "ስምኪ ክጽውዕ ኣንቃዕሪረ",
+      "ማርያመይ እናበልኩ ተስፋ ገይረ",
+      "ባህጊ ልበይ ፍለጥለይ",
+      "ሰላምኪ ኣውርድለይ /2/",
+      "ካብ ኃጢኣት ምፍላይ ኣዝዩ ከቢዱኒ",
+      "ብጽድቂ ከይግስግስ ሓይለይ ደኺሙኒ",
+      "ጠበቓ ኩንኒ ኣበሳይ ከጽሪ",
+      "ኣምላኻዊ ፍቕሩ ንልበይ ምሃሪ",
+      "ቅድመይ ዘማዕድዎ ድቕድቕ ቀላይ ጥፍኣት",
+      "ዕላማይ ዘረስዕ ዘፍርህ ድነ ሞት",
+      "ብጽድቂ መሪሕኪ ሰውርለይ መዓት",
+      "ደጊመ ከይምለስ ኣስንቕኒ'ቲ ናትኪ ትብዓት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትርጉም ኣልቦ ከይከውን ምንባረይ",
+          "ጸሎት ጾመይ ከይሕነቕ ብግብረይ",
+          "ኣንፊ ጕዕዞይ መንቅብ ከይርከቦ",
+          "ቅዱስ ቃሉ ነእዛነይ ከይፈርዶ",
+          "ከይዕበ ልበይ ብጸጋኡ",
+          "ንኸይምካሕ ብውህበት መንፈሱ",
+          "ካብ ሰብ ዓስቢ ከይፍደዮ ጉያይ",
+          "ኦ ድንግለይ ሓደራ በልለይ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰላምኪ ኣውርድለይ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nካብ ኃጢኣት ምፍላይ ኣዝዩ ከቢዱኒ\nብጽድቂ ከይግስግስ ሓይለይ ደኺሙኒ\nመሳልል ድሕነተይ ብሂጉኪ ልበይ\nምስ ወድኺ ንዒ ኣድሕንኒ ካብ ስቓይ\n[[/chorus]]\n\nስምኪ ክጽውዕ ኣንቃዕሪረ\nማርያመይ እናበልኩ ተስፋ ገይረ\nባህጊ ልበይ ፍለጥለይ\nሰላምኪ ኣውርድለይ (2)\n\nብኽፉእ ሓሳባት ልበይ ተወሪቑ\nብምቾት ኣጊጹ ሕሊናይ ሓንቂቑ\nጠበቓ ኩንኒ ኣበሳይ ከጽሪ\nኣምላኻዊ ፍቕሩ ንልበይ ምሃሪ\n\nትርጉም ኣልቦ ከይከውን ምንባረይ\nጸሎት ጾመይ ከይሕነቕ ብግብረይ\nኣንፊ ጕዕዞይ መንቅብ ከይርከቦ\nቅዱስ ቃሉ ነእዛነይ ከይፈርዶ"
-    },
-    "ti_ro": {
-      "title": "Selamki awrdley",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nSelamki awrdley (2)\n[[/chorus]]\n\nSmki ktsw anqarire\nMaryamey nabelku tesfa geyre\nBahgi lbey fletley\nKab hatiat mflay azyu kebiduni\nBtsdqi keygsgs hayley dekhimuni\nMesall dhnetey bhiguki lbey\nMs wedkhi ni adhnni kab sqay\nBkhfu hasabat lbey teweriqu\nBmchot agitsu hlinay hanqiqu\nTebeqa kunni abesay ketsri\nAmlakhawi fqru nlbey mhari\nQdmey zemadwo dqdq qelay tfat\nLamay zeres zefrh dne mot\nBtsdqi merihki sewrley meat\nDegime keymles asnqni'ti natki tbat\nTrgum albo keykewn mnbarey\nTselot tsomey keyhneq bgbrey\nAnfi gwizoy menqb keyrkebo\nQdus qalu nezaney keyferdo\nKeybe lbey btsegau\nNkheymkah bwhbet menfesu\nKab seb asbi keyfdeyo guyay\nO dngley hadera belley (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Smki kts'w' anqa'rire",
+      "Maryamey nabelku tesfa geyre",
+      "Bahgi lbey flet'ley",
+      "Selamki awrdley /2/",
+      "Kab hat'iat mflay azyu kebiduni",
+      "Bts'dqi keygsgs hayley dekhimuni",
+      "T'ebeqa kunni abesay kets'ri",
+      "Amlakhawi fqru nlbey mhari",
+      "Qdmey zema'dwo dqdq qelay t'fat",
+      "'Lamay zeres' zefrh dne mot",
+      "Bts'dqi merihki sewrley me'at",
+      "Degime keymles asnqni'ti natki tb'at"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Trgum albo keykewn mnbarey",
+          "Ts'elot ts'omey keyhneq bgbrey",
+          "Anfi gw'zoy menqb keyrkebo",
+          "Qdus qalu nezaney keyferdo",
+          "Key'be lbey bts'egau",
+          "Nkheymkah bwhbet menfesu",
+          "Kab seb 'asbi keyfdeyo guyay",
+          "O dngley hadera belley /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

@@ -1,44 +1,33 @@
 {
-  "id": "h_efr_4dc51fd3b0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ቀዋምያን ለነፍሳት"
+  "id": 331,
+  "title": "ቀዋምያን ለነፍሳት",
+  "ti": {
+    "chorus": [
+      "ቀዋምያን ለነፍሳት እሙንቱ ሊቃናት ዑራኤል ወሩፋኤል",
+      "ይትፌነዉ ለሳህል /2/ እምኃበ ልዑል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓረገወይን"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ቀዋምያን ለነፍሳት",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nቀዋምያን ለነፍሳት እሙንቱ ሊቃናት ዑራኤል ወሩፋኤል\nይትፌነዉ ለሳህል (2) እምኃበ ልዑል\n[[/chorus]]\n\nሓረገወይን"
-    },
-    "ti_ro": {
-      "title": "Qewamyan lenefsat",
-      "zemari": "di/n efrem",
-      "lyrics": "Qewamyan lenefsat muntu liqanat urael werufael\nYtfenewu lesahl (2) mhabe lul\nHaregeweyn"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Qewamyan lenefsat muntu liqanat 'urael werufael",
+      "Ytfenewu lesahl /2/ mhabe l'ul"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Haregeweyn"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "short_fragment"
-  ]
+  "needs_review": []
 }

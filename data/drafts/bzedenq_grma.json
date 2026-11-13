@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_c13133add1",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብዘደንቕ ግርማ"
+  "id": 499,
+  "title": "ብዘደንቕ ግርማ",
+  "ti": {
+    "chorus": [
+      "ብዘደንቕ ግርማ ብርሃን ተኸዲንኪ",
+      "ወርቂ ተሰሊምኪ ጸጋ’ውን ረኺብኪ",
+      "ብኽብረት ትቖሚ ኣብ የማን ወድኺ",
+      "ድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ",
+      "ኣብ ጎቦ ሞርያ ኣምላኽ ዘዳለዎ",
+      "የቕርንቱ ብሓረግ ንኣምሳል ኣሰሮ",
+      "ኣማናዊ ገንሸል ጐይታ ዘዕረፈልኪ",
+      "ድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብዘደንቕ ግርማ ፍጹም ተዋህዶ",
+          "ኣባኺ ሓዲሩ ካብ ሰማይ ወሪዱ",
+          "እቲ ሓዊ መለኮት ናበይ ኣንቢርክዮ",
+          "ኣብ የማን’ዶ ጸጋም ኣበይ ኣቢልክዮ",
+          "ዘይትፈርስ መቕደስ ናይ በትሪ ሃይማኖት",
+          "ንምዃን በቓዕኪ ናይ ልዑል መሕደሪት",
+          "ንዓለም ዘብርሀ ጸሓይ ናይ ጽድቅና",
+          "ድንግል ሙዳየ ወርቅ ካባኺ ወጺኡልና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ ይስሓቅ ተካኢ ናይ በጊዕ፡ መእሰሪት",
+          "ኮይንኪ ዝጸናሕኪ ናይ ልዑል መሕደሪት",
+          "ኣብርሃም ረኣየ ብኣምሳል በጊዑ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብዘደንቕ ግርማ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nኣብ ጎቦ ሞርያ ኣምላኽ ዘዳለዎ\nየቕርንቱ ብሓረግ ንኣምሳል ኣሰሮ\nኣማናዊ ገንሸል ጐይታ ዘዕረፈልኪ\nድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ\n[[/chorus]]\n\nብዘደንቕ ግርማ ብርሃን ተኸዲንኪ\nወርቂ ተሰሊምኪ ጸጋ’ውን ረኺብኪ\nብኽብረት ትቖሚ ኣብ የማን ወድኺ\nድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ\n\nብዘደንቕ ግርማ ፍጹም ተዋህዶ\nኣባኺ ሓዲሩ ካብ ሰማይ ወሪዱ\nእቲ ሓዊ መለኮት ናበይ ኣንቢርክዮ\nኣብ የማን’ዶ ጸጋም ኣበይ ኣቢልክዮ\n\nናይ ይስሓቅ ተካኢ ናይ በጊዕ፡ መእሰሪት\nኮይንኪ ዝጸናሕኪ ናይ ልዑል መሕደሪት\nኣብርሃም ረኣየ ብኣምሳል በጊዑ\nከም ዝድኅን ዓለም ጐይታ ተሰዊኡ"
-    },
-    "ti_ro": {
-      "title": "Bzedenq grma",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Bzedenq grma brhan tekhedinki\nWerqi teselimki tsega’wn rekhibki\nBkhbret tqomi ab yeman wedkhi\nDngl ade brhan sltan tewahibki\nAb gobo morya amlakh zedalewo\nYeqrntu bhareg namsal asero\nAmanawi genshel goyta zerefelki\nDngl ade brhan sltan tewahibki\nBzedenq grma ftsum tewahdo\nAbakhi hadiru kab semay weridu\nTi hawi melekot nabey anbirkyo\nAb yeman’do tsegam abey abilkyo\nZeytfers meqdes nay betri haymanot\nNmkwan beqaki nay lul mehderit\nNalem zebrha tsehay nay tsdqna\nDngl mudaye werq kabakhi wetsiulna\nNay yshaq tekai nay begi meserit\nKoynki ztsenahki nay lul mehderit\nAbrham reaye bamsal begiu\nKem zdhn alem goyta tesewiu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bzedenq grma brhan tekhedinki",
+      "Werqi teselimki ts'ega’wn rekhibki",
+      "Bkhbret tqomi ab yeman wedkhi",
+      "Dngl ade brhan slt'an tewahibki",
+      "Ab gobo morya amlakh zedalewo",
+      "Yeqrntu bhareg namsal asero",
+      "Amanawi genshel gwayta ze'refelki",
+      "Dngl ade brhan slt'an tewahibki"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bzedenq grma fts'um tewahdo",
+          "Abakhi hadiru kab semay weridu",
+          "Ti hawi melekot nabey anbirkyo",
+          "Ab yeman’do ts'egam abey abilkyo",
+          "Zeytfers meqdes nay betri haymanot",
+          "Nmkhwan beqa'ki nay l'ul mehderit",
+          "N'alem zebrhe ts'ehay nay ts'dqna",
+          "Dngl mudaye werq kabakhi wets'iulna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay yshaq tekai nay begi'፡ meserit",
+          "Koynki zts'enahki nay l'ul mehderit",
+          "Abrham reaye bamsal begi'u"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

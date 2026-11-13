@@ -1,44 +1,33 @@
 {
-  "id": "h_efr_d0c63f87e9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣይትቀየመና"
+  "id": 393,
+  "title": "ኣይትቀየመና",
+  "ti": {
+    "chorus": [
+      "ብበደልና ብብዝሒ ኃጢኣትና /2/ ኣይትቀየመና /2/",
+      "ጐይታ ብምሕረትካ ሎሚ ይቕሬታ ሃበና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብረ መንክራት ቅዱስ ቂርቆስ (ማይጭሆት)"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣይትቀየመና",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nብበደልና ብብዝሒ ኃጢኣትና (2) ኣይትቀየመና (2)\nጐይታ ብምሕረትካ ሎሚ ይቕሬታ ሃበና\nደብረ መንክራት ቅዱስ ቂርቆስ (ማይጭሆት)\n[[/chorus]]"
-    },
-    "ti_ro": {
-      "title": "Aytqeyemena",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Bbedelna bbzhi hatiatna (2) aytqeyemena (2)\nGoyta bmhretka lomi yqreta habena\nDebre menkrat qdus qirqos (maychhot)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Bbedelna bbzhi hat'iatna /2/ aytqeyemena /2/",
+      "Gwayta bmhretka lomi yqreta habena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debre menkrat qdus qirqos (maych'hot)"
+        ]
+      }
+    ]
   },
-  "needs_review": [
-    "short_fragment"
-  ]
+  "needs_review": []
 }

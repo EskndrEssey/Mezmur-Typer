@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_f6cd903257",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ታቦር ኣብርሃ"
+  "id": 110,
+  "title": "ታቦር ኣብርሃ",
+  "ti": {
+    "chorus": [
+      "ታቦር ኣብርሃ ደመና መሬተ ከደነ",
+      "ኣልብነ ንዋም ዓቢይ ነጎድጓድ እስመ ኮነ",
+      "ለስብሓት ነቃሕነ",
+      "ሙሴ እቲ ቀዳማዊ ኤልያስ እቲ ብርቱዕ",
+      "ተረኺቦም ኣብ ታቦር ምስክር ኮይኖም ሳምዕ",
+      "ንሕና'ውን ካብቲ ግርማ ሰሚዕና ቃል ናይ ኣብ",
+      "በረድ ኮይኑ'ዩ ልብሱ ዕጹብ ኢልና ኢና ዕጹብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከተርእየኒ ክብርኻ ቃል ኣቲኻለይ ኔርካ",
+          "ንገስ ካብ ሞት ገስጊስካ ሕጂ /2/ ርእየካ",
+          "ታ'ተዋጋኢ ጐይታ ኣፍራስ እሳት ዘለካ",
+          "ኣርሞንኤም ደስ በሎ ሲሳራ ብምውቃዕካ",
+          "ኣብ ትሓልፈሉ ቆይመ ክጽበየካ እየ",
+          "ኣብሪሀ ንቀንዴለይ ክዳነይ ኣጻዕድየ",
+          "ንግሆ ዝተጸውዐ ዝመጸ ኣጋ ምሸት",
+          "ኩሎም ረኺቦም ዓስቢ ካብቲ ብዙሕ ህያባት",
+          "ዝረዳእካዮ ይዛረብ ዝባረኽካ ሕይወቱ",
+          "ኤቨን ኤዘር እናበለ ይዘምር ተዓዊቱ",
+          "ኣብ መዓልቲ ሓጎሰይ ርእየካ'የ ኣብ ጎነይ",
+          "ምሳይ በኺኻ ኢኻ ኣሕዚኑካ ሓዘነይ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ታቦር ኣብርሃ",
-      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
-      "lyrics": "[[chorus]]\nሙሴ እቲ ቀዳማዊ ኤልያስ እቲ ብርቱዕ\nተረኺቦም ኣብ ታቦር ምስክር ኮይኖም ሳምዕ\nንሕና'ውን ካብቲ ግርማ ሰሚዕና ቃል ናይ ኣብ\nበረድ ኮይኑ'ዩ ልብሱ ዕጹብ ኢልና ኢና ዕጹብ\n[[/chorus]]\n\nታቦር ኣብርሃ ደመና መሬተ ከደነ\nኣልብነ ንዋም ዓቢይ ነጎድጓድ እስመ ኮነ\nለስብሓት ነቃሕነ\n\nከተርእየኒ ክብርኻ ቃል ኣቲኻለይ ኔርካ\nንገስ ካብ ሞት ገስጊስካ ሕጂ (2) ርእየካ\nታ'ተዋጋኢ ጐይታ ኣፍራስ እሳት ዘለካ\nኣርሞንኤም ደስ በሎ ሲሳራ ብምውቃዕካ\n\nንዅሉ እንተኽበርካ ንዅሉ ተመሓርካ\nመን'ዩ እቲ ዝኽልክል ነቲ ሕያውነትካ\nንግሆ ዝተጸውዐ ዝመጸ ኣጋ ምሸት\nኩሎም ረኺቦም ዓስቢ ካብቲ ብዙሕ ህያባት"
-    },
-    "ti_ro": {
-      "title": "Tabor abrha",
-      "zemari": "zemarit mrtnesh Tlahun",
-      "lyrics": "Tabor abrha demena merete kedene\nAlbne nwam abiy negodgwad sme kone\nLesbhat neqahne\nMuse ti qedamawi elyas ti brtu\nTerekhibom ab tabor mskr koynom sam\nNhna'wn kabti grma semina qal nay ab\nBered koynu'yu lbsu tsub ilna ina tsub\nKeteryeni kbrkha qal atikhaley nerka\nNges kab mot gesgiska hji (2) ryeka\nTa'tewagai goyta afras sat zeleka\nArmonem des belo sisara bmwqaka\nAb thalfelu qoyme ktsbeyeka ye\nAbriha nqendeley kdaney atsadye\nO wedi dawit to iyesus nabza betey\nBnel kbleka ye dhina sebnetey\nNkwilu ntekhberka nkwilu temeharka\nMen'yu ti zkhlkl neti hyawnetka\nNgho ztetsewa zmetse aga mshet\nKulom rekhibom asbi kabti bzuh hyabat\nZredakayo yzareb zbarekhka hywetu\nEven ezer nabele yzemr teawitu\nAb mealti hagosey ryeka'ye ab goney\nMsay bekhikha ikha ahzinuka hazeney"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tabor abrha demena merete kedene",
+      "Albne nwam 'abiy negodgwad sme kone",
+      "Lesbhat neqahne",
+      "Muse ti qedamawi elyas ti brtu'",
+      "Terekhibom ab tabor mskr koynom sam'",
+      "Nhna'wn kabti grma semi'na qal nay ab",
+      "Bered koynu'yu lbsu 'ts'ub ilna ina 'ts'ub"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Keteryeni kbrkha qal atikhaley nerka",
+          "Nges kab mot gesgiska hji /2/ ryeka",
+          "Ta'tewagai gwayta afras sat zeleka",
+          "Armonem des belo sisara bmwqa'ka",
+          "Ab thalfelu qoyme kts'beyeka ye",
+          "Abrihe nqendeley kdaney ats'a'dye",
+          "Ngho ztets'ew'e zmets'e aga mshet",
+          "Kulom rekhibom 'asbi kabti bzuh hyabat",
+          "Zredakayo yzareb zbarekhka hywetu",
+          "Even ezer nabele yzemr te'awitu",
+          "Ab me'alti hagosey ryeka'ye ab goney",
+          "Msay bekhikha ikha ahzinuka hazeney"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

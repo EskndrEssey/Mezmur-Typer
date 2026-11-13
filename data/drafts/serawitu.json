@@ -1,41 +1,75 @@
 {
-  "id": "h_efr_2a92ae2d50",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሰራዊቱ"
+  "id": 39,
+  "title": "ሰራዊቱ",
+  "ti": {
+    "chorus": [
+      "ሰራዊቱ ኣብ ቅድሚኡ ይቖሙሉ",
+      "መላእክቱ ኣብ ፊቱ ይሰግድሉ",
+      "ሓያል ኣምላኽ እግዚአብሔር እናበሉ/2/",
+      "ኣብ ክብሪ መንግስቱ ኣብ ልዕሊ ዙፋኑ",
+      "ዘልዓለም ይነብር ኣብ ሰማያት ኮይኑ",
+      "ንዝልምንዎ ኣእዳው ይዝርግሕ",
+      "ነቲ ጸልማት ብሰላም የውግሕ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መብረቕ ምስ ነጎድጓድ ወሓይዝ ምስጋና",
+          "ይውሕዝ ይፈስስ ኣብ ቅድሚ ኣምላኽና",
+          "መጋረጃ እሳት ይነድድ ኣብ ፊቱ",
+          "ዘመሩሉ ሊቃነ መላእክቱ",
+          "ትማል ሎሚ ጽባሕ ኵሉ ሳዕ ንሱዩ",
+          "ንሞት ዝሰዓረ ሓያል ከሃሊ’ዩ",
+          "ዳግም እንኪመጽእ ንዕኡ ክንቅበል",
+          "ብደመና ልዕል ልዕል ንብል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ናይ ወርቂ ጽንሃ ጻዕዳ ዕጣን ጌሮም",
+          "ዝፋኑ ይዓጥኑ ኣብ ቅድሚኡ ኮይኖም",
+          "ብሓድሽ ምስጋና ብሓድሽ ውዳሴ",
+          "የመስግኑ ንቅድስት ሥላሴ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ትዝታው ሳሙኤል",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሰራዊቱ",
-      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
-      "lyrics": "[[chorus]]\nኣብ ክብሪ መንግስቱ ኣብ ልዕሊ ዙፋኑ\nዘልዓለም ይነብር ኣብ ሰማያት ኮይኑ\nንዝልምንዎ ኣእዳው ይዝርግሕ\nነቲ ጸልማት ብሰላም የውግሕ\n[[/chorus]]\n\nሰራዊቱ ኣብ ቅድሚኡ ይቖሙሉ\nመላእክቱ ኣብ ፊቱ ይሰግድሉ\nሓያል ኣምላኽ እግዚአብሔር እናበሉ(2)\n\nመብረቕ ምስ ነጎድጓድ ወሓይዝ ምስጋና\nይውሕዝ ይፈስስ ኣብ ቅድሚ ኣምላኽና\nመጋረጃ እሳት ይነድድ ኣብ ፊቱ\nዘመሩሉ ሊቃነ መላእክቱ\n\nኣብ ናይ ወርቂ ጽንሃ ጻዕዳ ዕጣን ጌሮም\nዝፋኑ ይዓጥኑ ኣብ ቅድሚኡ ኮይኖም\nብሓድሽ ምስጋና ብሓድሽ ውዳሴ\nየመስግኑ ንቅድስት ሥላሴ"
-    },
-    "ti_ro": {
-      "title": "Serawitu",
-      "zemari": "di/n tztaw samuel",
-      "lyrics": "[[chorus]]\nHayal amlakh gziabher nabelu(2)\n[[/chorus]]\n\nSerawitu ab qdmiu yqomulu\nMelaktu ab fitu ysegdlu\nAb kbri mengstu ab lli zufanu\nZelalem ynebr ab semayat koynu\nNzlmnwo adaw yzrgh\nNeti tselmat bselam yewgh\nMebreq ms negodgwad wehayz msgana\nYwhz yfess ab qdmi amlakhna\nMegareja sat ynedd ab fitu\nZemerulu liqane melaktu\nTmal lomi tsbah kwilu sa nsuyu\nNmot zseare hayal kehali’yu\nDagm nkimets nu knqbel\nBdemena ll ll nbl\nAb nay werqi tsnha tsada tan gerom\nZfanu yatnu ab qdmiu koynom\nBhadsh msgana bhadsh wdase\nYemesgnu nqdst sslase"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Serawitu ab qdmiu yqomulu",
+      "Melaktu ab fitu ysegdlu",
+      "Hayal amlakh gziebher nabelu/2/",
+      "Ab kbri mengstu ab l'li zufanu",
+      "Zel'alem ynebr ab semayat koynu",
+      "Nzlmnwo adaw yzrgh",
+      "Neti ts'elmat bselam yewgh"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mebreq ms negodgwad wehayz msgana",
+          "Ywhz yfess ab qdmi amlakhna",
+          "Megareja sat ynedd ab fitu",
+          "Zemerulu liqane melaktu",
+          "Tmal lomi ts'bah kwlu sa' nsuyu",
+          "Nmot zse'are hayal kehali’yu",
+          "Dagm nkimets' n'u knqbel",
+          "Bdemena l'l l'l nbl"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab nay werqi ts'nha ts'a'da 't'an gerom",
+          "Zfanu y'at'nu ab qdmiu koynom",
+          "Bhadsh msgana bhadsh wdase",
+          "Yemesgnu nqdst Sslase"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

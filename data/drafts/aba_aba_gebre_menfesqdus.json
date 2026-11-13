@@ -1,44 +1,23 @@
 {
-  "id": "h_efr_1bfd95af14",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣባ ኣባ ገብረ መንፈስቅዱስ"
+  "id": 241,
+  "title": "ኣባ ኣባ ገብረ መንፈስቅዱስ",
+  "ti": {
+    "chorus": [
+      "ኣባ ኣባ ገብረ መንፈስቅዱስ",
+      "ኃበ ዓምደወርቅ /2/ ስሙ ጽሑፍ /2/",
+      "ቀሲስ ጸገዝኣብ"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣባ ኣባ ገብረ መንፈስቅዱስ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nኣባ ኣባ ገብረ መንፈስቅዱስ\nኃበ ዓምደወርቅ (2) ስሙ ጽሑፍ (2)\n[[/chorus]]\n\nቀሲስ ጸገዝኣብ"
-    },
-    "ti_ro": {
-      "title": "Aba aba gebre menfesqdus",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Aba aba gebre menfesqdus\nHabe amdewerq (2) smu tshuf (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
+  "ti_ro": {
+    "chorus": [
+      "Aba aba gebre menfesqdus",
+      "Habe 'amdewerq /2/ smu ts'huf /2/",
+      "Qesis ts'egezab"
+    ],
+    "verses": []
   },
   "needs_review": [
-    "short_fragment"
+    "chorus_only_no_verses"
   ]
 }

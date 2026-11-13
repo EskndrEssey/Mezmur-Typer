@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_502e74e779",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ያዕቤጽ"
+  "id": 367,
+  "title": "ያዕቤጽ",
+  "ti": {
+    "chorus": [
+      "ካብ ኩሎም ኣሕዋቱ  ዝኸበረ",
+      "ሓረግ ናይ ትውልዱ ዝሰበረ",
+      "ካብ በረኸትካ ንኽትዕድለኒ",
+      "እስራኤል ክበሃል ኣምላኽ ደግፈኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጾረይ ክቐልል ንስኻ ምሳይ ኩን",
+          "ባሕሪ ክምቀል ብዅሉ ክሰግር",
+          "ሓዊ ክዝሕል ግብርኻ ከስተንትን",
+          "ኣምላኸይ ንጉሰይ ግብርኻ መስተንክር",
+          "ካብ ክፉእ ጭንቀት ነጻ ግበረኒ",
+          "ናይ ሳኦል መንፈስ መታን ከይገዝኣኒ",
+          "ኣነ ከይሽበር ድምጽኻ ኣስምዓኒ",
+          "ብቓልካ ክጸንዕ ሰላም ክመልኣኒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተለዊጠ'የ ዳግም ተሓዲሰ",
+          "ብኽቡር ደምካ ዶባተይ መሊሰ",
+          "ስመይ ኣይኮነን ሕይወተይ ቀይርካ",
+          "መቕደስካ ጌርካኒ ሕይወትካ ለጊስካ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ያዕቤጽ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nጉዕዞይ ክቐንዕ ሕይወተይ ክባረኽ\nሰላመይ ኣብዝሕ ግብርኻ ከትርኽ\nካብ በረኸትካ ንኽትዕድለኒ\nእስራኤል ክበሃል ኣምላኽ ደግፈኒ\n[[/chorus]]\n\nካብ ኩሎም ኣሕዋቱ ዝኸበረ\nሓረግ ናይ ትውልዱ ዝሰበረ\nዕዉት ዘመድ ካብ ኣምላኽ ዝተዋህበ\nያዕቤጽ ብጻዕሪ ዝተወልደ\n\nጾረይ ክቐልል ንስኻ ምሳይ ኩን\nባሕሪ ክምቀል ብዅሉ ክሰግር\nሓዊ ክዝሕል ግብርኻ ከስተንትን\nኣምላኸይ ንጉሰይ ግብርኻ መስተንክር\n\nተለዊጠ'የ ዳግም ተሓዲሰ\nብኽቡር ደምካ ዶባተይ መሊሰ\nስመይ ኣይኮነን ሕይወተይ ቀይርካ\nመቕደስካ ጌርካኒ ሕይወትካ ለጊስካ"
-    },
-    "ti_ro": {
-      "title": "Ya'beTs",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "Kab kulom ahwatu zkhebere\nHareg nay twldu zsebere\nWut zemed kab amlakh ztewahbe\nYabets btsari ztewelde\nGuzoy kqen hywetey kbarekh\nSelamey abzh gbrkha ketrkh\nKab berekhetka nkhtdleni\nSrael kbehal amlakh degfeni\nTsorey kqell nskha msay kun\nBahri kmqel bkwilu ksegr\nHawi kzhl gbrkha kestentn\nAmlakhey ngusey gbrkha mestenkr\nKab kfu chnqet netsa gbereni\nNay saol menfes metan keygezani\nAne keyshber dmtskha asmani\nBqalka ktsen selam kmelani\nTelewite'ye dagm tehadise\nBkhbur demka dobatey melise\nSmey aykonen hywetey qeyrka\nMeqdeska gerkani hywetka legiska"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kab kulom ahwatu  zkhebere",
+      "Hareg nay twldu zsebere",
+      "Kab berekhetka nkht'dleni",
+      "Srael kbehal amlakh degfeni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'orey kqell nskha msay kun",
+          "Bahri kmqel bkhwlu ksegr",
+          "Hawi kzhl gbrkha kestentn",
+          "Amlakhey ngusey gbrkha mestenkr",
+          "Kab kfu ch'nqet nets'a gbereni",
+          "Nay saol menfes metan keygezani",
+          "Ane keyshber dmts'kha asm'ani",
+          "Bqalka kts'en' selam kmelani"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Telewit'e'ye dagm tehadise",
+          "Bkhbur demka dobatey melise",
+          "Smey aykonen hywetey qeyrka",
+          "Meqdeska gerkani hywetka legiska"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

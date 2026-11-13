@@ -1,41 +1,61 @@
 {
-  "id": "h_efr_c7ceac68a6",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክዝምረልካ ክቓንየልካ"
+  "id": 96,
+  "title": "ክዝምረልካ ክቓንየልካ",
+  "ti": {
+    "chorus": [
+      "ክዝምረልካ ክቓንየልካ",
+      "ኣነ ባርያኻ ከኽብረካ",
+      "ኣብ ቤትካ ክኣቱ ናብ መቕደስካ",
+      "አማኑኤለይ ተመስገን ክብለካ",
+      "ልሳነይ ንዓኻ ክዝምረልካ’ዩ",
+      "ኣፈይ ብዕልልታ ክቃንየልካ’ዩ",
+      "ካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ",
+      "ታሪኸይ ለዊጥካ ልዕል ኣበልካኒ",
+      "ኵሉ ሳዕ ክነቅሕ ንስምካ ክውድስ",
+      "ኣእጋረይ ኣቕኒዐ ናብ ቤትካ ክግስግስ",
+      "ኣብ ዓውደ ምሕረትካ ደው ኢለ ክዝምር",
+      "ናትካ ድንቂ ስራሕ ብኣፈይ ክምስክር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ",
+          "ንዘይግብኣኒ ንዓይ ዓዲልካዮ",
+          "ካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ",
+          "ታሪኸይ ለዊጥካ ልዕል ኣበልካኒ"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪ ኣለማየሁ ኡርጌ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክዝምረልካ ክቓንየልካ",
-      "zemari": "ዘማሪ ኣለማየሁ ኡርጌ",
-      "lyrics": "[[chorus]]\nልሳነይ ንዓኻ ክዝምረልካ’ዩ\nኣፈይ ብዕልልታ ክቃንየልካ’ዩ\nዘወትር ብቕዳሴ ከገልግለካ’የ\nኣንታ ፈጣርየይ ክበር ክብለካ’የ\n[[/chorus]]\n\nክዝምረልካ ክቓንየልካ\nኣነ ባርያኻ ከኽብረካ\nኣብ ቤትካ ክኣቱ ናብ መቕደስካ\nአማኑኤለይ ተመስገን ክብለካ\n\nኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ\nንዘይግብኣኒ ንዓይ ዓዲልካዮ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ\n\nኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ\nንዘይግብኣኒ ንዓይ ዓዲልካዮ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ"
-    },
-    "ti_ro": {
-      "title": "Kzmrelka kqanyelka",
-      "zemari": "zemari alemayehu urge",
-      "lyrics": "[[chorus]]\nAmlakh nwletka bmntay kfedyo\nNzeygbani nay adilkayo\nKab ametsa shtet balihka awtsikhani\nTarikhey lewitka ll abelkani\n[[/chorus]]\n\nKzmrelka kqanyelka\nAne baryakha kekhbreka\nAb betka katu nab meqdeska\nAmanueley temesgen kbleka\nLsaney nakha kzmrelka’yu\nAfey bllta kqanyelka’yu\nZewetr bqdase kegelgleka’ye\nAnta fetaryey kber kbleka’ye\n\nKwilu sa kneqh nsmka kwds\nAgarey aqnia nab betka kgsgs\nAb awde mhretka dew ile kzmr\nNatka dnqi srah bafey kmskr"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kzmrelka kqanyelka",
+      "Ane baryakha kekhbreka",
+      "Ab betka katu nab meqdeska",
+      "Emanueley temesgen kbleka",
+      "Lsaney n'akha kzmrelka’yu",
+      "Afey b'llta kqanyelka’yu",
+      "Kab 'amets'a shtet balihka awts'ikhani",
+      "Tarikhey lewit'ka l'l abelkani",
+      "Kwlu sa' kneqh nsmka kwds",
+      "Agarey aqni'e nab betka kgsgs",
+      "Ab 'awde mhretka dew ile kzmr",
+      "Natka dnqi srah bafey kmskr"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakh nw'letka bmntay kfedyo",
+          "Nzeygbani n'ay 'adilkayo",
+          "Kab 'amets'a shtet balihka awts'ikhani",
+          "Tarikhey lewit'ka l'l abelkani"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

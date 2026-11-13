@@ -1,41 +1,77 @@
 {
-  "id": "h_efr_96a7a9b410",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "መንገድና ነቕንዕ"
+  "id": 270,
+  "title": "መንገድና ነቕንዕ",
+  "ti": {
+    "chorus": [
+      "ድበት ከይደፍኖ ዓይኒ ማይ ልብና",
+      "እሾኽ ከየብቁል ቃድራ ሓሳባትና",
+      "መገድና ነቕንዕ ብሃይማኖት ግብሪ",
+      "ሕማቕ ፍረ የለን ኣብ ጽቡቕ ተኽሊ ዝፈሪ",
+      "ጽባቐ የብሉን ጣዕሚ ናይ ሥጋና",
+      "እሙናን ምዃን’ዩ ዝያዳ መልክዕና",
+      "ፍቓድ ዓለም ምምላእ ደረት ዕርበት’ዩ",
+      "ኦርቶዶክስ ምኃዝ ግና መገዲ ሕይወት’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዕርፊ ምንፍቕና ነግሒ ካብ ጀመረ",
+          "ብጸሎት ንጸመድ ንበሎ ኤሎሄ",
+          "ሓጎስ ክኾነልና ምህርቲ ቀውዕና",
+          "ትኽ ዝበለ መገዲ ንግበረሉ ንኣእጋርና",
+          "ምንጪ ንሕተተሎም ዝነፍሱ ንፋሳት",
+          "ጽድቂ ከይመስለና እንተለዘበ ቃላት",
+          "ብሽብጢ ንስሓ ልቢ ከይተሓፅበ",
+          "ኣእጋርና ኣይስጕምን መገዲ እንተ ረኸበ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደመና ኣይሠፍሮን እቲ ናይ ሓጋይ ሰማይ",
+          "ጸጋ ኣይወርዶን ንበሃሊ ንዓይ",
+          "ጎንና ነስተብህል ከብዲ’ቶም ስኡናን",
+          "ኣፍ ደገ መንግሥቱ’ዩ ምርኅራኅ ንፍጡራን"
+        ]
+      }
+    ]
   },
-  "singer": "ቀሲስ ጸገዝኣብ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "መንገድና ነቕንዕ",
-      "zemari": "ቀሲስ ጸገዝኣብ",
-      "lyrics": "[[chorus]]\nጽባቐ የብሉን ጣዕሚ ናይ ሥጋና\nእሙናን ምዃን’ዩ ዝያዳ መልክዕና\nፍቓድ ዓለም ምምላእ ደረት ዕርበት’ዩ\nኦርቶዶክስ ምኃዝ ግና መገዲ ሕይወት’ዩ\n[[/chorus]]\n\nድበት ከይደፍኖ ዓይኒ ማይ ልብና\nእሾኽ ከየብቁል ቃድራ ሓሳባትና\nመገድና ነቕንዕ ብሃይማኖት ግብሪ\nሕማቕ ፍረ የለን ኣብ ጽቡቕ ተኽሊ ዝፈሪ\n\nዕርፊ ምንፍቕና ነግሒ ካብ ጀመረ\nብጸሎት ንጸመድ ንበሎ ኤሎሄ\nሓጎስ ክኾነልና ምህርቲ ቀውዕና\nትኽ ዝበለ መገዲ ንግበረሉ ንኣእጋርና\n\nደመና ኣይሠፍሮን እቲ ናይ ሓጋይ ሰማይ\nጸጋ ኣይወርዶን ንበሃሊ ንዓይ\nጎንና ነስተብህል ከብዲ’ቶም ስኡናን\nኣፍ ደገ መንግሥቱ’ዩ ምርኅራኅ ንፍጡራን"
-    },
-    "ti_ro": {
-      "title": "Mengedna neqn'",
-      "zemari": "qesis Tsegezab",
-      "lyrics": "Dbet keydefno ayni may lbna\nShokh keyebqul qadra hasabatna\nMegedna neqn bhaymanot gbri\nHmaq fre yelen ab tsbuq tekhli zferi\nTsbaqe yeblun tami nay ssgana\nMunan mkwan’yu zyada melkna\nFqad alem mmla deret rbet’yu\nOrtodoks mhaz gna megedi hywet’yu\nRfi mnfqna neghi kab jemere\nBtselot ntsemed nbelo elohe\nHagos kkhonelna mhrti qewna\nTkh zbele megedi ngberelu nagarna\nMnchi nhtetelom znefsu nfasat\nTsdqi keymeslena ntelezebe qalat\nBshbti nsha lbi keytehatsbe\nAgarna aysgwimn megedi nte rekhebe\nDemena aysefron ti nay hagay semay\nTsega aywerdon nbehali nay\nGonna nestebhl kebdi’tom sunan\nAf dege mengsstu’yu mrhrah nfturan"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Dbet keydefno 'ayni may lbna",
+      "Shokh keyebqul qadra hasabatna",
+      "Megedna neqn' bhaymanot gbri",
+      "Hmaq fre yelen ab ts'buq tekhli zferi",
+      "Ts'baqe yeblun t'a'mi nay Ssgana",
+      "Munan mkhwan’yu zyada melk'na",
+      "Fqad 'alem mmla deret 'rbet’yu",
+      "Ortodoks mhaz gna megedi hywet’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Rfi mnfqna neghi kab jemere",
+          "Bts'elot nts'emed nbelo elohe",
+          "Hagos kkhonelna mhrti qew'na",
+          "Tkh zbele megedi ngberelu nagarna",
+          "Mnch'i nhtetelom znefsu nfasat",
+          "Ts'dqi keymeslena ntelezebe qalat",
+          "Bshbt'i nsha lbi keytehats'be",
+          "Agarna aysgwmn megedi nte rekhebe"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Demena ayssefron ti nay hagay semay",
+          "Ts'ega aywerdon nbehali n'ay",
+          "Gonna nestebhl kebdi’tom sunan",
+          "Af dege mengsstu’yu mrhrah nft'uran"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

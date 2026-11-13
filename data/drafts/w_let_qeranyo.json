@@ -1,41 +1,96 @@
 {
-  "id": "h_efr_80107e9b40",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ውዕለት ቀራንዮ"
+  "id": 181,
+  "title": "ውዕለት ቀራንዮ",
+  "ti": {
+    "chorus": [
+      "ማያት ውቅያኖስ’ውን መሊኡ ዘይዓቝሮ",
+      "ኣቤት! ነዚ ፍቕሪ’ዝስ ፍጹም ኣይተፈጥረን ዝዕይሮ",
+      "ውዕለት ቀራንዮ ስቕለትካ ከስተንትኖ",
+      "ብቕዱስ መንፈስካ ልበይ ኣሰልጥኖ (2)",
+      "ኣብቲ ህሮርማ መሪር ጸሓይ ምድረ በዳ ቆረንቶስ",
+      "ነዚ ድኹም ሥጋይ ርእየዮ ከበርትዖ መንፈስ",
+      "በትሪ ሓይልኻ የዕቲርካኒ ዝስዕረሉ",
+      "ንምስጢር ጾምካ ገሊጽካለይ ሓይሉ።",
+      "ልበይ ተኪዙ እምብዛ ክሽገር",
+      "ከርሠይ ዓንጊልካዮ ከመዮ ተኣምር",
+      "ለካስ ድሕሪ ደጊም ጽድቅኻ ኣቐዲመ",
+      "የለን ዝጐድለኒ ብስምካ ፈሊመ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘ቲ ኅቡእ ድሌተይ ፈሊጥካዮ ፍጹም እንከይገለጽኩልካ",
+          "ኣብቲ በሪኽ ሳግላ ሓዂረ ርእዩኒ ፍቕርኻ",
+          "ብብዝሒ ሳኅልኻ ንገበነይ ከዲንካዮ",
+          "ዘይከም ግብረይ ቤተይ ባሪኽካዮ።",
+          "ኣካል ሥጋ ለበስ መናፍስቲ መጹ",
+          "ባርኖስ ውርደተይ ዝባንካ ከጊጹ",
+          "ብስቕታ ረቲዕካ ምስ መለስካ  ክብረይ",
+          "ዳግማይ ተፈጢረ ሰሪሕካዮ ምስለይ",
+          "ወዲቐ ባርያኻ ደንጊጽካለይ ጐሲኻኒ’ኳ ዘይከድኻ",
+          "ቁስለይ ደሪዝካዮ ብቅዱይ ዘይቲ ምሕረትካ",
+          "ዕረፍቲ ሰላምካ እምብዛ ከስተማቕሮ",
+          "ፍርሐይ ቀቲልካዮ ልዋምካ ክኃድሮ",
+          "ብርሃን ወንጌልካ ልበይ ምስ ተደጉሖ",
+          "ሪምካ ገዲፍካለይ ተስፋኻ ክበጽሖ",
+          "ወይኒ ፍቕርኻ ፈቒድካ ክሰትዮ",
+          "‘ቲ ቅዱስ ሥጋኻ በጃይ ሰቒልካዮ",
+          "ከም ንኣዳም ሰይጣን ዜምጽኦ ጥበብ",
+          "ዲያብሎስ ኣሰርካዮ ለቢስካ ሥጋ ሰብ",
+          "ሞት ተሳዒሩ ብሥልጣን መለኮት",
+          "ክርስቶስ ተንሲኡ መስኪሮም መላእክት"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ውዕለት ቀራንዮ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nኣብቲ ህሮርማ መሪር ጸሓይ ምድረ በዳ ቆረንቶስ\nነዚ ድኹም ሥጋይ ርእየዮ ከበርትዖ መንፈስ\nበትሪ ሓይልኻ የዕቲርካኒ ዝስዕረሉ\nንምስጢር ጾምካ ገሊጽካለይ ሓይሉ።\nልበይ ተኪዙ እምብዛ ክሽገር\nከርሠይ ዓንጊልካዮ ከመዮ ተኣምር\nለካስ ድሕሪ ደጊም ጽድቅኻ ኣቐዲመ\nየለን ዝጐድለኒ ብስምካ ፈሊመ\n[[/chorus]]\n\nኣድማስ ሰማያት’ኳ ሰፊሑ ዘይሰፍሮ\nማያት ውቅያኖስ’ውን መሊኡ ዘይዓቝሮ\nኣቤት! ነዚ ፍቕሪ’ዝስ ፍጹም ኣይተፈጥረን ዝዕይሮ\nውዕለት ቀራንዮ ስቕለትካ ከስተንትኖ\nብቕዱስ መንፈስካ ልበይ ኣሰልጥኖ (2)\n\n‘ቲ ኅቡእ ድሌተይ ፈሊጥካዮ ፍጹም እንከይገለጽኩልካ\nኣብቲ በሪኽ ሳግላ ሓዂረ ርእዩኒ ፍቕርኻ\nብብዝሒ ሳኅልኻ ንገበነይ ከዲንካዮ\nዘይከም ግብረይ ቤተይ ባሪኽካዮ።\nኣካል ሥጋ ለበስ መናፍስቲ መጹ\nባርኖስ ውርደተይ ዝባንካ ከጊጹ\nብስቕታ ረቲዕካ ምስ መለስካ ክብረይ\nዳግማይ ተፈጢረ ሰሪሕካዮ ምስለይ\n\nጽዋዕ ሞት ኃጢአተይ ሰቲኻዮ ኣሸበሸብ ብተሎ\nመፍትሕ ማእሰርተይ መስቀልካ መቝሐይ ክሰብሮ\nብስምካ መሊኸ ኣይወደቕኩን ተሳዒረ\nውጻእ መዓት ባርያ እነኹንዶ ኸቢረ\nከም ንኣዳም ሰይጣን ዜምጽኦ ጥበብ\nዲያብሎስ ኣሰርካዮ ለቢስካ ሥጋ ሰብ\nሞት ተሳዒሩ ብሥልጣን መለኮት\nክርስቶስ ተንሲኡ መስኪሮም መላእክት"
-    },
-    "ti_ro": {
-      "title": "W'let qeranyo",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Admas semayat’kwa sefihu zeysefro\nMayat wqyanos’wn meliu zeyaqwiro\nAbet! nezi fqri’zs ftsum aytefetren zyro\nWlet qeranyo sqletka kestentno\nBqdus menfeska lbey aseltno (2)\nAbti hrorma merir tsehay mdre beda qorentos\nNezi dkhum ssgay ryeyo keberto menfes\nBetri haylkha yetirkani zsrelu\nNmstir tsomka gelitskaley haylu.\nLbey tekizu mbza kshger\nKersey angilkayo kemeyo teamr\nLekas dhri degim tsdqkha aqedime\nYelen zgodleni bsmka felime\n‘Ti hbu dletey felitkayo ftsum nkeygeletskulka\nAbti berikh sagla hakwire ryuni fqrkha\nBbzhi sahlkha ngebeney kedinkayo\nZeykem gbrey betey barikhkayo.\nAkal ssga lebes menafsti metsu\nBarnos wrdetey zbanka kegitsu\nBsqta retika ms meleska kbrey\nDagmay tefetire serihkayo msley\nWediqe baryakha dengitskaley gosikhani’kwa zeykedkha\nQusley derizkayo bqduy zeyti mhretka\nRefti selamka mbza kestemaqro\nFrhay qetilkayo lwamka khadro\nBrhan wengelka lbey ms tedeguho\nRimka gedifkaley tesfakha kbetsho\nWeyni fqrkha feqidka ksetyo\n‘Ti qdus ssgakha bejay seqilkayo\nTswa mot hatiatey setikhayo ashebesheb btelo\nMefth masertey mesqelka meqwihay ksebro\nBsmka melikhe aywedeqkun tesaire\nWtsa meat barya nekhundo khebire\nKem nadam seytan zemtso tbeb\nDiyablos aserkayo lebiska ssga seb\nMot tesairu bssltan melekot\nKrstos tensiu meskirom melakt"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Mayat wqyanos’wn meliu zey'aqwro",
+      "Abet! nezi fqri’zs fts'um aytefet'ren z'yro",
+      "W'let qeranyo sqletka kestentno",
+      "Bqdus menfeska lbey aselt'no (2)",
+      "Abti hrorma merir ts'ehay mdre beda qorentos",
+      "Nezi dkhum Ssgay ryeyo kebert'o menfes",
+      "Betri haylkha ye'tirkani zs'relu",
+      "Nmst'ir ts'omka gelits'kaley haylu.",
+      "Lbey tekizu mbza kshger",
+      "Kerssey 'angilkayo kemeyo teamr",
+      "Lekas dhri degim ts'dqkha aqedime",
+      "Yelen zgwadleni bsmka felime"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘Ti hbu dletey felit'kayo fts'um nkeygelets'kulka",
+          "Abti berikh sagla hakhwire ryuni fqrkha",
+          "Bbzhi sahlkha ngebeney kedinkayo",
+          "Zeykem gbrey betey barikhkayo.",
+          "Akal Ssga lebes menafsti mets'u",
+          "Barnos wrdetey zbanka kegits'u",
+          "Bsqta reti'ka ms meleska  kbrey",
+          "Dagmay tefet'ire serihkayo msley",
+          "Wediqe baryakha dengits'kaley gwasikhani’kwa zeykedkha",
+          "Qusley derizkayo bqduy zeyti mhretka",
+          "'Refti selamka mbza kestemaqro",
+          "Frhey qetilkayo lwamka khadro",
+          "Brhan wengelka lbey ms tedeguho",
+          "Rimka gedifkaley tesfakha kbets'ho",
+          "Weyni fqrkha feqidka ksetyo",
+          "‘Ti qdus Ssgakha bejay seqilkayo",
+          "Kem nadam seyt'an zemts'o t'beb",
+          "Diyablos aserkayo lebiska Ssga seb",
+          "Mot tesa'iru bsslt'an melekot",
+          "Krstos tensiu meskirom melakt"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_1_possible_page_split"
+  ]
 }

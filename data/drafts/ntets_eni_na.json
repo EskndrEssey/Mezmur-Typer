@@ -1,0 +1,73 @@
+{
+  "id": 388,
+  "title": "እንተጸኒዕና",
+  "ti": {
+    "chorus": [
+      "እንተጸኒዕና ኣብ ጽውዓኻ",
+      "መን’ዩ’ሞ ዝፈልየና ካብ ጽኑዕ ፍቕርኻ",
+      "ጥሜት ድዩ ስደት መከራ ዓለም",
+      "ክፈልየና ኣይክእልን ከቶ ንዘልዓለም",
+      "ጸላኢ እንተነደረን እንተ ጓዘመን",
+      "ሃነፍነፍ እንተበለን እንተዕዘምዘመን",
+      "ከውሒ ምድኃነይ ሒዘስ ገለ ኣይከውንን",
+      "ኣባኻ ተጸጊዐስ ኣይምንጥለንን",
+      "ምሳኻ ምንባር ይሕሸና ምሳኻ ምንባር",
+      "ምሳኻ ምንባር ይሕሸና",
+      "ኣብ ሰማይ’ዩ ተስፋና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓላፊ ጥሪት ዓለም ወርቅን ብሩርን",
+          "ብልዒ ንኸብዲ እምበር ሕይወት የብሉን",
+          "ንዓይ ግን ኣጥሪኻኒ ብኽቡር ደምካ",
+          "ኣነ’ውን ፈትየ ’ለኹ ደጊም ምሳኻ",
+          "ምሳኻ ምንባር ይሕሸና ምሳኻ ምንባር",
+          "ምሳኻ ምንባር ይሕሸና",
+          "ኣብ ሰማይ’ዩ ተስፋና",
+          "ጉስነትካ ከይመኑ ከይስልኪ ኣነ",
+          "ምሳኻ ምንባር ይሕሸና",
+          "ኣብ ሰማይ’ዩ ተስፋና"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ntets'eni'na ab ts'w'akha",
+      "Men’yu’mo zfelyena kab ts'nu' fqrkha",
+      "T'met dyu sdet mekera 'alem",
+      "Kfelyena aykln keto nzel'alem",
+      "Ts'elai ntenederen nte gwazemen",
+      "Hanefnef ntebelen nte'zemzemen",
+      "Kewhi mdhaney hizes gele aykewnn",
+      "Abakha tets'egi'es aymnt'lenn",
+      "Msakha mnbar yhshena msakha mnbar",
+      "Msakha mnbar yhshena",
+      "Ab semay’yu tesfana"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Halafi t'rit 'alem werqn brurn",
+          "Bl'i nkhebdi mber hywet yeblun",
+          "N'ay gn at'rikhani bkhbur demka",
+          "Ane’wn fetye ’lekhu degim msakha",
+          "Msakha mnbar yhshena msakha mnbar",
+          "Msakha mnbar yhshena",
+          "Ab semay’yu tesfana",
+          "Gusnetka keymenu keyslki ane",
+          "Msakha mnbar yhshena",
+          "Ab semay’yu tesfana"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

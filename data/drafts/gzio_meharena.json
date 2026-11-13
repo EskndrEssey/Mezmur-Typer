@@ -1,41 +1,66 @@
 {
-  "id": "h_efr_2aba23b8a0",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "እግዚኦ መሓረና"
+  "id": 864,
+  "title": "እግዚኦ መሓረና",
+  "ti": {
+    "chorus": [
+      "እግዚኦ መሓረና ኃጢኣትና ስረየልና",
+      "እግዚኦ መሓረና ፍቕርኻ ለግሰልና",
+      "ናባኻ ንጠርዕ ንስምካ ንጽውዕ",
+      "ናባኻ ንጠርዕ ቅድሜኻ ንነብዕ",
+      "ጾርና ከቢዱና ኣካልና ደንዚዙ",
+      "ብማእሰርቲ ኃጢኣት ፍጹም ተታሒዙ",
+      "ሰንከልከል ኮይኑና ናብራ ናይዛ ዓለም",
+      "ቀልጢፍካ ርድኣና ሕያው መድኃኔ ዓለም",
+      "ንብዓትና ክሕበስ ንኽንጸናናንዕ",
+      "ጐይታ መሓረና ንጸሎትና ስማዕ",
+      "ሓደ ኣብ ልዕሊ ሓደ ንረብሓ ክሕሱ",
+      "ርድኡና ሥላሴ ምሕረትኩም ኣፍስሱ",
+      "ከም ሰብኣ ነነዌ ንንበርከኽ ኩልና",
+      "ማቕ ዘይኮነ ፍቕሪ ስኒት ተቐኒትና",
+      "የእዳውና ምልዓልና ንኸንቱ ከይከውን",
+      "ንበኪ ኣሎና ኤልማስ ተለመን",
+      "ኣብ ሲና ትማሊ መና ነይሩ ቀለብ",
+      "ሕጂ ግን ጐይታና መከራ ኽንምገብ",
+      "ንረብሓ ተሼጥና ንዘለና ኣብ መሓዩር",
+      "ፍትሒ ኣውጽኣልና ብሰላም ክንነብር",
+      "ስደት ጻዕጺዑና ጊዜኡ ነዊሑ",
+      "ውጽኢት ኃጢኣትና መከራ በዚሑ",
+      "ንሱ ድዩ ኮይንዎ በዚ ድዩ ክድምደም",
+      "ኣይፋልካን ጐይታና ለግሰልና ሰላም"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "እግዚኦ መሓረና",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nጾርና ከቢዱና ኣካልና ደንዚዙ\nብማእሰርቲ ኃጢኣት ፍጹም ተታሒዙ\nሰንከልከል ኮይኑና ናብራ ናይዛ ዓለም\nቀልጢፍካ ርድኣና ሕያው መድኃኔ ዓለም\nንብዓትና ክሕበስ ንኽንጸናናንዕ\nጐይታ መሓረና ንጸሎትና ስማዕ\nዓለባ ምሕረትካ ንሱ’ዩ መንጸፍና\nዘወትር ንጥቅዮ ፍቕርኻ ኣሚንና\n[[/chorus]]\n\nእግዚኦ መሓረና ኃጢኣትና ስረየልና\nእግዚኦ መሓረና ፍቕርኻ ለግሰልና\nናባኻ ንጠርዕ ንስምካ ንጽውዕ\nናባኻ ንጠርዕ ቅድሜኻ ንነብዕ\n\nውሉድ ምስ ወላዲ እናተኻሰሱ\nጭካነ ሰልጢኑ ኣዕዚዙ ነጊሱ\nሓደ ኣብ ልዕሊ ሓደ ንረብሓ ክሕሱ\nርድኡና ሥላሴ ምሕረትኩም ኣፍስሱ\nከም ሰብኣ ነነዌ ንንበርከኽ ኩልና\nማቕ ዘይኮነ ፍቕሪ ስኒት ተቐኒትና\nየእዳውና ምልዓልና ንኸንቱ ከይከውን\nንበኪ ኣሎና ኤልማስ ተለመን"
-    },
-    "ti_ro": {
-      "title": "'Gzio meharena",
-      "zemari": "di/n efrem",
-      "lyrics": "'Gzio meharena haTiatna sreyelna\n'Gzio meharena fqrkha legselna\nNabakha nTer' nsmka nTsw'\nNabakha nTer' qdmekha nneb'\nTsorna kebiduna akalna denzizu\nBma'serti haTiat fTsum tetahizu\nSenkelkel koynuna nabra nayza 'alem\nQelTifka rdana hyaw medhane 'alem\nNb'atna khbes nkhnTsenanan'\nGoyta meharena nTselotna sma'\n'Aleba mhretka nsu’yu menTsefna\nZewetr nTqyo fqrkha aminna\nWlud ms weladi 'natekhasesu\nChkane selTinu a'zizu negisu\nHade ab l'li hade nrebha khsu\nRduna Sslase mhretkum afssu\nKem seba nenewe nnberkekh kulna\nMaq zeykone fqri snit teqenitna\nYe'dawna ml'alna nkhentu keykewn\nNbeki alona elmas telemen\nAb sina tmali mena neyru qeleb\nHji gn goytana mekera khnmgeb\nNrebha tesheTna nzelena ab mehayur\nFthi awTsalna bselam knnebr\nSdet Tsa'Tsi'una gizeu newihu\nWTsit haTiatna mekera bezihu\nNsu dyu koynwo bezi dyu kdmdem\nAyfalkan goytana legselna selam"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gzio meharena hat'iatna sreyelna",
+      "Gzio meharena fqrkha legselna",
+      "Nabakha nt'er' nsmka nts'w'",
+      "Nabakha nt'er' qdmekha nneb'",
+      "Ts'orna kebiduna akalna denzizu",
+      "Bmaserti hat'iat fts'um tetahizu",
+      "Senkelkel koynuna nabra nayza 'alem",
+      "Qelt'ifka rdana hyaw medhane 'alem",
+      "Nb'atna khbes nkhnts'enanan'",
+      "Gwayta meharena nts'elotna sma'",
+      "Hade ab l'li hade nrebha khsu",
+      "Rduna Sslase mhretkum afssu",
+      "Kem seba nenewe nnberkekh kulna",
+      "Maq zeykone fqri snit teqenitna",
+      "Yedawna ml'alna nkhentu keykewn",
+      "Nbeki alona elmas telemen",
+      "Ab sina tmali mena neyru qeleb",
+      "Hji gn gwaytana mekera khnmgeb",
+      "Nrebha teshet'na nzelena ab mehayur",
+      "Fthi awts'alna bselam knnebr",
+      "Sdet ts'a'ts'i'una gizeu newihu",
+      "Wts'it hat'iatna mekera bezihu",
+      "Nsu dyu koynwo bezi dyu kdmdem",
+      "Ayfalkan gwaytana legselna selam"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

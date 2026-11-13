@@ -1,0 +1,81 @@
+{
+  "id": 175,
+  "title": "ቤትካ’ዩ ምርጫና",
+  "ti": {
+    "chorus": [
+      "ኦ ጐይታ ሰላም፣ኦ ጐይታ ፍቕሪ፣ኦ ጐይታ ዕረፍቲ፣",
+      "ምሳኻ ምንባር መሪጽናዮ",
+      "ዳስ እምነት ክንሠርሕ እምብዛ ሃሪፍናዮ እምብዛ ብሂግናዮ",
+      "ማኅደር ኵሉ ጽድቂ ቤትካዩ ምርጫና",
+      "ንስኻ ዘይብሉስ ፍጹም ዋጋ’የብሉን ሃለዋት ምንባርና(2)",
+      "ምሳኻ’ሎ ሓጐስ ምልኣት ፍጻሜኡ ከቶ ዘይንገር",
+      "ብልቢ ወዲ ሰብ ዘይሕለን ዕፁብ’ዩ መስተንክር",
+      "ምሳኻ’ሎ ተስፋ ቲ’ዓይኒ እምነትና ሰማይካ መርኣዪ",
+      "መንኰርኰር ትውፊት ሠረገላ ብተምሳጥ ዘጕዪ(2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሳኻ’ሎ ጽንዓት መስተርሆት ፍጹም ሓቀኛ ፍቕሪ",
+          "ኣማናዊ ፍኖት ንጽሕና ንነባሪ ዕምሪ",
+          "ምሳኻ’ሎ ሰላም ተሃራፊ ደስታ ዕረፍቲ ናይ ልቢ",
+          "ቅሳነት ቀትሪ ንዋም ለይቲ ኣልቦ ሕሱም ጐርቢ (2)",
+          "ምሳኻ’ሎ ዕግበት ሕይወት ዘለዓለም በረኸት ዜንጀርብብ",
+          "ጻውዒት መገሻ ከይመጸ ብሥርየት ዚወሃብ",
+          "ምሳኻ’ሎ ርውየት ዛ’ሕያው ነፍስና ምሒር እትጽበዮ",
+          "‘ዚኽቡር ደምካ ተቐዲሑ ንበደልና ከጽርዮ (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምሳኻ’ሎ ’ቅኔ ዝማሜታት ማኅሌት ንኽብርኻ ዚፈስስ",
+          "ህርመታት ሰማይካ ኣብዚ ምድሪ ንነፍሲ ዘሐድስ",
+          "ምሳኻ’ሎ ሥርዓት ‘ቲሥሙር ጸሎታት ስብሐት ወቅዳሴ",
+          "ብቓልካ ክንቅደስ ኣብዚ ቤትካ ወትሩ ብውዳሴ (2)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "O gwayta selam,o gwayta fqri,o gwayta 'refti,",
+      "Msakha mnbar merits'nayo",
+      "Das mnet knsserh mbza harifnayo mbza bhignayo",
+      "Mahder kwlu ts'dqi betkayu mrch'ana",
+      "Nskha zeyblus fts'um waga’yeblun halewat mnbarna(2)",
+      "Msakha’lo hagwas mlat fts'ameu keto zeynger",
+      "Blbi wedi seb zeyhlen 'ts'ub’yu mestenkr",
+      "Msakha’lo tesfa ti’'ayni mnetna semayka merayi",
+      "Menkwarkwar twfit Sseregela btemsat' zegwyi(2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Msakha’lo ts'n'at mesterhot fts'um haqenya fqri",
+          "Amanawi fnot nts'hna nnebari 'mri",
+          "Msakha’lo selam teharafi desta 'refti nay lbi",
+          "Qsanet qetri nwam leyti albo hsum gwarbi (2)",
+          "Msakha’lo 'gbet hywet zele'alem berekhet zenjerbb",
+          "Ts'aw'it megesha keymets'e bssryet ziwehab",
+          "Msakha’lo rwyet za’hyaw nefsna mhir tts'beyo",
+          "‘Zikhbur demka teqedihu nbedelna kets'ryo (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Msakha’lo ’qne zmametat mahlet nkhbrkha zifess",
+          "Hrmetat semayka abzi mdri nnefsi zeheds",
+          "Msakha’lo Ssr'at ‘tissmur ts'elotat sbhet weqdase",
+          "Bqalka knqdes abzi betka wetru bwdase (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

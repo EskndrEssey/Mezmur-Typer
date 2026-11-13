@@ -1,41 +1,62 @@
 {
-  "id": "h_efr_6eb289a12c",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ተንሲኡ ክርስቶስ"
+  "id": 428,
+  "title": "ተንሲኡ ክርስቶስ",
+  "ti": {
+    "chorus": [
+      "ተንሲኡ ክርስቶስ ብዘደንቕ ክብሪ/2/",
+      "ዜና ትንሳኤኡ ተዋህዶ መስክሪ/2/",
+      "ንኣዳም ንምድኃን  ተንሲኡ ብክብሪ",
+      "ቃልኪዳን ኣትዩሉ   >>         >>",
+      "ጊዜኡ ሓልዩ         >>         >>",
+      "ካሕሳ ከፊሉሉ       >>         >>",
+      "ንብሕታ ከደት        >>         >>",
+      "ክትደሊ ኣምላኻ      >>         >>",
+      "ዝተንገላትዐ ኣብቲ ጎልጎታ",
+      "ምስረኸበቶ ተመሊኣ ደስታ",
+      "ሓለውቲ መቓብር ተንሲኡ ብክብሪ",
+      "እቶም ኣይሁዳውያን  >>         >>",
+      "ክርስቶስ ክሕዙ       >>         >>",
+      "መኺርዎም ሰይጣን   >>         >>",
+      "ዙርያ እቲ መቓብር ብዙኃት ከቢቦም",
+      "ፍጹም ኣይከኣሉን ከም ቆጽሊ ረጊፎም",
+      "ምስጋና ነቕርብ ተንሲኡ ብክብሪ",
+      "ንፈጣሪ ኢየሱስ   >>         >>",
+      "ንሞት ዝሰዓረ     >>         >>",
+      "ንደቁ ክቕድስ     >>         >>",
+      "ደስ ይበለና ንዘምር ኩልና",
+      "ብርሃን ተኸዲኑ ጎይታ ተንሲኡልና"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ተንሲኡ ክርስቶስ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nንኣዳም ንምድኃን ተንሲኡ ብክብሪ\nቃልኪዳን ኣትዩሉ\nጊዜኡ ሓልዩ\nካሕሳ ከፊሉሉ\nካብ ሰማይ ወሪዱ ዝተሰቐለሉ\nንሞት ስዒሩ ብኽብሪ ተንሲኡ\n[[/chorus]]\n\nተንሲኡ ክርስቶስ ብዘደንቕ ክብሪ(2)\nዜና ትንሳኤኡ ተዋህዶ መስክሪ(2)\n\nማርያም መግደላዊት ተንሲኡ ብክብሪ\nብለይቲ ገስጊሳ\nንብሕታ ከደት\nክትደሊ ኣምላኻ\nዝተንገላትዐ ኣብቲ ጎልጎታ\nምስረኸበቶ ተመሊኣ ደስታ\n\nምስጋና ነቕርብ ተንሲኡ ብክብሪ\nንፈጣሪ ኢየሱስ\nንሞት ዝሰዓረ\nንደቁ ክቕድስ\nደስ ይበለና ንዘምር ኩልና\nብርሃን ተኸዲኑ ጎይታ ተንሲኡልና"
-    },
-    "ti_ro": {
-      "title": "Tensiu krstos",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nTensiu krstos bzedenq kbri(2)\n[[/chorus]]\n\nZena tnsaeu tewahdo meskri(2)\nNadam nmdhan tensiu bkbri\nQalkidan atyulu\nGizeu halyu\nKahsa kefilulu\nKab semay weridu zteseqelelu\nNmot siru bkhbri tensiu\nMaryam megdelawit tensiu bkbri\nBleyti gesgisa\nNbhta kedet\nKtdeli amlakha\nZtengelata abti golgota\nMsrekhebeto temelia desta\nHalewti meqabr tensiu bkbri\nTom ayhudawyan\nKrstos khzu\nMekhirwom seytan\nZurya ti meqabr bzuhat kebibom\nFtsum aykealun kem qotsli regifom\nMsgana neqrb tensiu bkbri\nNfetari iyesus\nNmot zseare\nNdequ kqds\nDes ybelena nzemr kulna\nBrhan tekhedinu goyta tensiulna"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Tensiu krstos bzedenq kbri/2/",
+      "Zena tnsaeu tewahdo meskri/2/",
+      "Nadam nmdhan  tensiu bkbri",
+      "Qalkidan atyulu   >>         >>",
+      "Gizeu halyu         >>         >>",
+      "Kahsa kefilulu       >>         >>",
+      "Nbhta kedet        >>         >>",
+      "Ktdeli amlakha      >>         >>",
+      "Ztengelat'e abti golgota",
+      "Msrekhebeto temelia desta",
+      "Halewti meqabr tensiu bkbri",
+      "Tom ayhudawyan  >>         >>",
+      "Krstos khzu       >>         >>",
+      "Mekhirwom seyt'an   >>         >>",
+      "Zurya ti meqabr bzuhat kebibom",
+      "Fts'um aykealun kem qots'li regifom",
+      "Msgana neqrb tensiu bkbri",
+      "Nfet'ari iyesus   >>         >>",
+      "Nmot zse'are     >>         >>",
+      "Ndequ kqds     >>         >>",
+      "Des ybelena nzemr kulna",
+      "Brhan tekhedinu goyta tensiulna"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
 }

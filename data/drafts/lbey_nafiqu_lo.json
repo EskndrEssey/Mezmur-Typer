@@ -1,41 +1,81 @@
 {
-  "id": "h_efr_547545908e",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ልበይ ናፊቑ’ሎ"
+  "id": 193,
+  "title": "ልበይ ናፊቑ’ሎ",
+  "ti": {
+    "chorus": [
+      "ልበይ ናፊቑ’ሎ ኣደ ጐይታ ድንግል ማርያም",
+      "ድምጺ ሰላምታኺ ካብ ሰማይ ኣርያም",
+      "ወድኺ ሓቚፍኪ መስፍን ሰላም",
+      "ምጽኒ ድንግለይ እመ ብርሃን",
+      "ወለላ መልክዓ ውልዶ ነፍሰይ ምስላ ተደዊኑ",
+      "‘ቲ ደግለል ጉልበታ መኣዛ ስኢኑ",
+      "ሕሱም ጻህያይ ሥጋ ሒዝዋ ከርዲኑ",
+      "ናዝዝያ ድንግል ጌና ብእዋኑ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምልሙላን ኣጓብዝ ቆልዑ ቤተይ በዓል ዓይኒ ልቢ",
+          "ንኡስ ዝዕድሚኦም ዘይርከቦም ዓቢ",
+          "ኣይጠዓሞን ውሽጦም ነጸብራቕ ከባቢ",
+          "ሓልውዮም ድንግል ካብ ሰላቢ ቀልቢ",
+          "ትምኒት ህንጡይ ልበይ ሃረርትኡ ኣብ ቤቱ ከገልግል",
+          "ላዕልን ታሕትን ኢለ ጽድቂ ንኸዋህልል",
+          "ሕሹኽታ ይመጻኒ ንባህገይ ዝኽልክል",
+          "ክሓስቦ እገርመኒ ይኾነኒ ግድል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሃለኽለኽ ናይ  ሥጋ ከንቱ ድኻም ትርጉም ኣልቦ  እቶት",
+          "መቐረት ዘይብሉ ጣዕሚ ናይ ትሩፋት",
+          "ግሩም ጸሓይ ድኅነት ክርኢ በሪቑ",
+          "ተመነየ ልበይ ኣመና ናፊቑ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ልበይ ናፊቑ’ሎ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nወለላ መልክዓ ውልዶ ነፍሰይ ምስላ ተደዊኑ\n‘ቲ ደግለል ጉልበታ መኣዛ ስኢኑ\nሕሱም ጻህያይ ሥጋ ሒዝዋ ከርዲኑ\nናዝዝያ ድንግል ጌና ብእዋኑ\n[[/chorus]]\n\nልበይ ናፊቑ’ሎ ኣደ ጐይታ ድንግል ማርያም\nድምጺ ሰላምታኺ ካብ ሰማይ ኣርያም\nወድኺ ሓቚፍኪ መስፍን ሰላም\nምጽኒ ድንግለይ እመ ብርሃን\n\nምልሙላን ኣጓብዝ ቆልዑ ቤተይ በዓል ዓይኒ ልቢ\nንኡስ ዝዕድሚኦም ዘይርከቦም ዓቢ\nኣይጠዓሞን ውሽጦም ነጸብራቕ ከባቢ\nሓልውዮም ድንግል ካብ ሰላቢ ቀልቢ\n\nሃለኽለኽ ናይ ሥጋ ከንቱ ድኻም ትርጉም ኣልቦ እቶት\nመቐረት ዘይብሉ ጣዕሚ ናይ ትሩፋት\nምስኪን ለዋህ ነፍሰይ ስኢና መስተርሆት\nይድኅን`ዶ ድንግል ካብቲ ካልኣይ ሞት"
-    },
-    "ti_ro": {
-      "title": "Lbey nafiqu’lo",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Lbey nafiqu’lo ade goyta dngl maryam\nDmtsi selamtakhi kab semay aryam\nWedkhi haqwafki mesfn selam\nMtsni dngley me brhan\nWelela melka wldo nefsey msla tedewinu\n‘Ti deglel gulbeta meaza sinu\nHsum tsahyay ssga hizwa kerdinu\nNazzya dngl gena bwanu\nMlmulan agwabz qolu betey beal ayni lbi\nNus zdmiom zeyrkebom abi\nAyteamon wshtom netsebraq kebabi\nHalwyom dngl kab selabi qelbi\nTmnit hntuy lbey harertu ab betu kegelgl\nLaln tahtn ile tsdqi nkhewahll\nHshukhta ymetsani nbahgey zkhlkl\nKhasbo germeni ykhoneni gdl\nHalekhlekh nay ssga kentu dkham trgum albo tot\nMeqeret zeyblu tami nay trufat\nMskin lewah nefsey sina mesterhot\nYdhn`do dngl kabti kalay mot\nQotsli qotqwat sina qendel wshtey brhana demiqu\nGobez lbey muse ftsum tedeniqu\nGrum tsehay dhnet kri beriqu\nTemeneye lbey amena nafiqu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Lbey nafiqu’lo ade gwayta dngl maryam",
+      "Dmts'i selamtakhi kab semay aryam",
+      "Wedkhi haqwifki mesfn selam",
+      "Mts'ni dngley me brhan",
+      "Welela melk'a wldo nefsey msla tedewinu",
+      "‘Ti deglel gulbeta meaza sinu",
+      "Hsum ts'ahyay Ssga hizwa kerdinu",
+      "Nazzya dngl gena bwanu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mlmulan agwabz qol'u betey be'al 'ayni lbi",
+          "Nus z'dmiom zeyrkebom 'abi",
+          "Ayt'e'amon wsht'om nets'ebraq kebabi",
+          "Halwyom dngl kab selabi qelbi",
+          "Tmnit hnt'uy lbey harertu ab betu kegelgl",
+          "La'ln tahtn ile ts'dqi nkhewahll",
+          "Hshukhta ymets'ani nbahgey zkhlkl",
+          "Khasbo germeni ykhoneni gdl"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Halekhlekh nay  Ssga kentu dkham trgum albo  tot",
+          "Meqeret zeyblu t'a'mi nay trufat",
+          "Grum ts'ehay dhnet kri beriqu",
+          "Temeneye lbey amena nafiqu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
 }

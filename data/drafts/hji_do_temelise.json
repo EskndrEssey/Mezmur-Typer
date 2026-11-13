@@ -1,41 +1,95 @@
 {
-  "id": "h_efr_670920add4",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሕጂ’ዶ ተመሊሰ"
+  "id": 298,
+  "title": "ሕጂ’ዶ ተመሊሰ",
+  "ti": {
+    "chorus": [
+      "ሕጂ’ዶ ተመሊሰ ንድሕሪት ጠሚተ",
+      "ኣእምሮይ ክዝመት ዓይነይ ተዓሚተ",
+      "ጀሚረዮ እንድየ ኣብቲ ናይ ፈለማ",
+      "ቅዱስ ቅንኢ ኣሕዲረ ፍታው ብዕላማ",
+      "መንፈስ እግዚአብሔር ብኸመይ ክምኖ",
+      "ድኹም ኮይነ እምበርየ ልሳኑ ዘይኮኖ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትምክሕቲ ሓሲበ ንቤቱ ከይጥሕስ",
+          "ልቦና ከጥሪ ሪመይ ንኽወርስ",
+          "ሰማያዊ ጸጋ ዝባነይ ክፈሶ",
+          "ሕጂ’ዶ ተሰምየ ርስቱ ዝኸሓዶ",
+          "ንሕሊናይ ኣብየ ናይ ነባሪ ሩፍታ",
+          "ንስጋይ ገሲጸ ከሊአያ በፍታ",
+          "ኣምሪጸያ ነፍሰይ ካብ ኵሉ ኣብሊጸ",
+          "ኣይፋለይን ኢላ ሓዘን ምስ ትካዘ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብመንፈስ ጀሚረ ከይውድእ ብስጋ",
+          "ክብሪ ውሉድነት ከይወርዶ ሓደጋ",
+          "ዕርፊ ሒዘ ኣይጥምትን’የ ንድሕረይ",
+          "ብሓይሊ ኣምላኸይ ከሳጉም ንቕድመይ",
+          "ብደም ኣማኑኤል እያ ተዓዲጋ",
+          "እምሕል ከይጠልማ ብናይ ዓለም ዋጋ",
+          "ኣነስ ተኣዚዘ እሕሉ ክብረታ",
+          "ጻብእቲ ክከላኸል ኃጢኣት’ውን ከይብሕታ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "መሪጸ’ለኹ ኣነ ዘይድሓር ሕጂ",
+          "ክመርሓ ሕይወተይ መንፈሳዊ ዓውዲ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሕጂ’ዶ ተመሊሰ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nጀሚረዮ እንድየ ኣብቲ ናይ ፈለማ\nቅዱስ ቅንኢ ኣሕዲረ ፍታው ብዕላማ\nመንፈስ እግዚአብሔር ብኸመይ ክምኖ\nድኹም ኮይነ እምበርየ ልሳኑ ዘይኮኖ\n[[/chorus]]\n\nሕጂ’ዶ ተመሊሰ ንድሕሪት ጠሚተ\nኣእምሮይ ክዝመት ዓይነይ ተዓሚተ\n\nትምክሕቲ ሓሲበ ንቤቱ ከይጥሕስ\nልቦና ከጥሪ ሪመይ ንኽወርስ\nሰማያዊ ጸጋ ዝባነይ ክፈሶ\nሕጂ’ዶ ተሰምየ ርስቱ ዝኸሓዶ\n\nብመንፈስ ጀሚረ ከይውድእ ብስጋ\nክብሪ ውሉድነት ከይወርዶ ሓደጋ\nዕርፊ ሒዘ ኣይጥምትን’የ ንድሕረይ\nብሓይሊ ኣምላኸይ ከሳጉም ንቕድመይ\n\nመሪጸ’ለኹ ኣነ ዘይድሓር ሕጂ\nክመርሓ ሕይወተይ መንፈሳዊ ዓውዲ\nመዓስ ብቕልጽመይ ንኣንፈይ ዝግስግስ\nጾም ጸሎት ሓዊሰ ንስሙ ክቕድስ"
-    },
-    "ti_ro": {
-      "title": "Hji’do temelise",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "Hji’do temelise ndhrit temite\nAmroy kzmet ayney teamite\nJemireyo ndye abti nay felema\nQdus qni ahdire ftaw blama\nMenfes gziabher bkhemey kmno\nDkhum koyne mberye lsanu zeykono\nTmkhti hasibe nbetu keyths\nLbona ketri rimey nkhwers\nSemayawi tsega zbaney kfeso\nHji’do tesemye rstu zkhehado\nNhlinay abye nay nebari rufta\nNsgay gesitse keliaya befta\nAmritseya nefsey kab kwilu ablitse\nAyfaleyn ila hazen ms tkaze\nBmenfes jemire keywd bsga\nKbri wludnet keywerdo hadega\nRfi hize aytmtn’ye ndhrey\nBhayli amlakhey kesagum nqdmey\nBdem amanuel ya teadiga\nMhl keytelma bnay alem waga\nAnes teazize hlu kbreta\nTsabti kkelakhel hatiat’wn keybhta\nMeritse’lekhu ane zeydhar hji\nKmerha hywetey menfesawi awdi\nMeas bqltsmey nanfey zgsgs\nTsom tselot hawise nsmu kqds"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Hji’do temelise ndhrit t'emite",
+      "Amroy kzmet 'ayney te'amite",
+      "Jemireyo ndye abti nay felema",
+      "Qdus qni ahdire ftaw b'lama",
+      "Menfes gziebher bkhemey kmno",
+      "Dkhum koyne mberye lsanu zeykono"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tmkhti hasibe nbetu keyt'hs",
+          "Lbona ket'ri rimey nkhwers",
+          "Semayawi ts'ega zbaney kfeso",
+          "Hji’do tesemye rstu zkhehado",
+          "Nhlinay abye nay nebari rufta",
+          "Nsgay gesits'e kelieya befta",
+          "Amrits'eya nefsey kab kwlu ablits'e",
+          "Ayfaleyn ila hazen ms tkaze"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bmenfes jemire keywd bsga",
+          "Kbri wludnet keywerdo hadega",
+          "'Rfi hize ayt'mtn’ye ndhrey",
+          "Bhayli amlakhey kesagum nqdmey",
+          "Bdem amanuel ya te'adiga",
+          "Mhl keyt'elma bnay 'alem waga",
+          "Anes teazize hlu kbreta",
+          "Ts'abti kkelakhel hat'iat’wn keybhta"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Merits'e’lekhu ane zeydhar hji",
+          "Kmerha hywetey menfesawi 'awdi"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

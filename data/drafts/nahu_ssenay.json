@@ -1,0 +1,25 @@
+{
+  "id": 427,
+  "title": "ናሁ ሠናይ",
+  "ti": {
+    "chorus": [
+      "ናሁ ሠናይ ወናሁ ኣዳም",
+      "ሶበ ይሄልዉ ኣኃው ኅቡረ",
+      "እነሆ ኣኅዋት ኃቢሮም ክነብሩ",
+      "ክንደይ ሰናይ ኢዩ ግሩም ጥዑም"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nahu Ssenay wenahu adam",
+      "Sobe yhelwu ahaw hbure",
+      "Neho ahwat habirom knebru",
+      "Kndey senay iyu grum t''um"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

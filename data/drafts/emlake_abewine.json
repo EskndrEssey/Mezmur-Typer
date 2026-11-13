@@ -1,0 +1,35 @@
+{
+  "id": 190,
+  "title": "አምላከ ኣበዊነ",
+  "ti": {
+    "chorus": [
+      "አምላከ አበዊነ አምላከ ቅዱሳን",
+      "ከመ ሰማዕኮሙ ለጻድቃን ወለቅዱሳን (2)",
+      "ወለነኒ ስምዓነ አምላክነ መድኃኔ ዓለም (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብረ መዊዕ አቡነ ኣረጋዊ (ማይተመናይ)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Emlake ebewine emlake qdusan",
+      "Keme sema'komu lets'adqan weleqdusan (2)",
+      "Weleneni sm'ane emlakne medhane 'alem (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debre mewi' ebune aregawi (maytemenay)"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

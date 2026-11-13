@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_db987d67c3",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ጉንዲ ዓይነይ"
+  "id": 304,
+  "title": "ጉንዲ ዓይነይ",
+  "ti": {
+    "chorus": [
+      "ጉንዲ ዓይነይ’ዩ ሰራውር ሰዲዱለይ",
+      "ሰሪቡ ኣበሳይ ጋሪዱ ንውነይ",
+      "ከምቲ ክርዳድ ብኣጋ ከይምሖ",
+      "እቲ ሓሳባተይ ኣይነጽሀን ብኣምሆ",
+      "ዘድክመኒ ኃጢኣት ኣብ ደመይ የስርጾ",
+      "ናኽድመር በደል ስዕረት የናውጾ",
+      "ሓበላ ጉንዲ ዓይነይ ንውሽጢ ሶሊኹ",
+      "ሕዱር ቃንዛይ መዘዝ ዘልዓለም ወሲኹ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "በሰር ካልኦት ይፍትን ክርኢ",
+          "ይህወኽ ይዝምብል ንጥፍኣት የሳሲ",
+          "ከም ትውፊት ክፉኣት ዝቓደረ ዛንታ",
+          "ብሰንኪ ልማደይ ስኢነ መስታ",
+          "ኃጢኣት ሞት ምዃኑ ምእንቲ ክግለጽ",
+          "ሰናይ እንክመስል ብሕሜት ይርገጽ",
+          "ንመን’የ ክህቦ እቲ ሐሕማቑ",
+          "እምብዛ ማሕዲገ ሕሊናይ ደሪቑ",
+          "ክቡር ሰብ እየ ኣነ ኣርኣያ ሥላሴ",
+          "ግና ይዘንበኒ’ቲ ከንቱ ውዳሴ",
+          "ኣነ እንከለኹ ብኣምላኽ ዝዳነ",
+          "ኵሉ ሃዲሙኒ ምዃን ኣብየ ኣነ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣይትሕሰሙ ኣሕዋት ጸገም’የ ረኺበ",
+          "ኣብ ትረት ናይ ልበይ ምሒርየ ከኒበ",
+          "ለምኑለይ ንዓይ ኣመለይ ክገድፎ",
+          "ጉንዲ ዓይነይ ከጽርዮ ‘ናማተይ ክንሕፎ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ኣብርሃም መሓሪ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ጉንዲ ዓይነይ",
-      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
-      "lyrics": "[[chorus]]\nዘድክመኒ ኃጢኣት ኣብ ደመይ የስርጾ\nናኽድመር በደል ስዕረት የናውጾ\nሓበላ ጉንዲ ዓይነይ ንውሽጢ ሶሊኹ\nሕዱር ቃንዛይ መዘዝ ዘልዓለም ወሲኹ\n[[/chorus]]\n\nጉንዲ ዓይነይ’ዩ ሰራውር ሰዲዱለይ\nሰሪቡ ኣበሳይ ጋሪዱ ንውነይ\nከምቲ ክርዳድ ብኣጋ ከይምሖ\nእቲ ሓሳባተይ ኣይነጽሀን ብኣምሆ\n\nበሰር ካልኦት ይፍትን ክርኢ\nይህወኽ ይዝምብል ንጥፍኣት የሳሲ\nከም ትውፊት ክፉኣት ዝቓደረ ዛንታ\nብሰንኪ ልማደይ ስኢነ መስታ\n\nዘሎ ህዋሳተይ ብህርፋን ክልከም\nረብሓይ ብደም ጥልመት ኣብ ጸልማት ክኽተም\nንመን’የ ክህቦ እቲ ሐሕማቑ\nእምብዛ ማሕዲገ ሕሊናይ ደሪቑ\n\nኣይትሕሰሙ ኣሕዋት ጸገም’የ ረኺበ\nኣብ ትረት ናይ ልበይ ምሒርየ ከኒበ\nለምኑለይ ንዓይ ኣመለይ ክገድፎ\nጉንዲ ዓይነይ ከጽርዮ ‘ናማተይ ክንሕፎ"
-    },
-    "ti_ro": {
-      "title": "Gundi 'ayney",
-      "zemari": "di/n abrham mehari",
-      "lyrics": "Gundi ayney’yu serawr sediduley\nSeribu abesay garidu nwney\nKemti krdad baga keymho\nTi hasabatey aynetshan bamho\nZedkmeni hatiat ab demey yesrtso\nNakhdmer bedel sret yenawtso\nHabela gundi ayney nwshti solikhu\nHdur qanzay mezez zelalem wesikhu\nBeser kalot yftn kri\nYhwekh yzmbl ntfat yesasi\nKem twfit kfuat zqadere zanta\nBsenki lmadey sine mesta\nHatiat mot mkwanu mnti kglets\nSenay nkmesl bhmet yrgets\nYwa ane mgdur zgebro zeyfelto\nBsgay zwed kbretey zerkso\nZelo hwasatey bhrfan klkem\nRebhay bdem tlmet ab tselmat kkhtem\nNmen’ye khbo ti hahmaqu\nMbza mahdige hlinay deriqu\nKbur seb ye ane araya sslase\nGna yzenbeni’ti kentu wdase\nAne nkelekhu bamlakh zdane\nKwilu hadimuni mkwan abye ane\nAythsemu ahwat tsegem’ye rekhibe\nAb tret nay lbey mhirye kenibe\nLemnuley nay ameley kgedfo\nGundi ayney ketsryo ‘namatey knhfo"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Gundi 'ayney’yu serawr sediduley",
+      "Seribu abesay garidu nwney",
+      "Kemti krdad baga keymho",
+      "Ti hasabatey aynets'hen bamho",
+      "Zedkmeni hat'iat ab demey yesrts'o",
+      "Nakhdmer bedel s'ret yenawts'o",
+      "Habela gundi 'ayney nwsht'i solikhu",
+      "Hdur qanzay mezez zel'alem wesikhu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Beser kalot yftn kri",
+          "Yhwekh yzmbl nt'fat yesasi",
+          "Kem twfit kfuat zqadere zanta",
+          "Bsenki lmadey sine mesta",
+          "Hat'iat mot mkhwanu mnti kglets'",
+          "Senay nkmesl bhmet yrgets'",
+          "Nmen’ye khbo ti hehmaqu",
+          "Mbza mahdige hlinay deriqu",
+          "Kbur seb ye ane araya Sslase",
+          "Gna yzenbeni’ti kentu wdase",
+          "Ane nkelekhu bamlakh zdane",
+          "Kwlu hadimuni mkhwan abye ane"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Aythsemu ahwat ts'egem’ye rekhibe",
+          "Ab tret nay lbey mhirye kenibe",
+          "Lemnuley n'ay ameley kgedfo",
+          "Gundi 'ayney kets'ryo ‘namatey knhfo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

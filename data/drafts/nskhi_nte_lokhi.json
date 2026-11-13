@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_5f479cd3c9",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንስኺ እንተ’ሎኺ"
+  "id": 221,
+  "title": "ንስኺ እንተ’ሎኺ",
+  "ti": {
+    "chorus": [
+      "እመ ብርሃን ኣብ ሕቑፎኺ ኮይነ መን ይምንጥለኒ",
+      "ጸላኢ ሓፊሩ ሓጎስ ይኸበኒ /2/",
+      "ድንግል ማርያም ብምግባር ከይደኪ ዕራቐይ ከይከውን",
+      "እመ ብርሃን ጭንቀት ከቢቡኒ ከይበኪ ከይሓዝን",
+      "ድንግል ማርያም ድልየተይ ክፍጸም ክድምሰስ ኃጢኣተይ",
+      "እመ ብርሃን ጸጋኺ ይኽበበኒ ኣብ ጕዕዞ ሕይወተይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ድንግል ማርያም ኣብ ቤትኪ ክዕቆብ ዘለዓለም ክነብር",
+          "እመ ብርሃን ሕሊናይ ክዓርፍ ጸሎተይ ክሠምር",
+          "ድንግል ማርያም ካባይ ከይረሓቕኪ ንዒ ደግፍኒ",
+          "እመ ብርሃን ንብዓተይ ክደርዝ ድንግል ተለመኒ",
+          "ድንግል ማርያም እጽበ ኣለኹ በረኸት ናይ ኢድኪ",
+          "እመ ብርሃን ‘ቲ ቤተይ ክመልእ ሰላም ረድኤትኪ",
+          "ድንግል ማርያም ስምኪ ስንቂ ኮይኑ ክነብር ኣብ ልበይ",
+          "እመ ብርሃን ፈውሲ ቍስለይ ኵኒ ዕለታዊ መግበይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ድንግል ማርያም ኣብ ቤትኪ . . ."
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንስኺ እንተ’ሎኺ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nድንግል ማርያም ብምግባር ከይደኪ ዕራቐይ ከይከውን\nእመ ብርሃን ጭንቀት ከቢቡኒ ከይበኪ ከይሓዝን\nድንግል ማርያም ድልየተይ ክፍጸም ክድምሰስ ኃጢኣተይ\nእመ ብርሃን ጸጋኺ ይኽበበኒ ኣብ ጕዕዞ ሕይወተይ\n[[/chorus]]\n\nድንግል ማርያም ንስኺ እንተ’ሎኺ መን ይቃወመኒ\nእመ ብርሃን ኣብ ሕቑፎኺ ኮይነ መን ይምንጥለኒ\nጸላኢ ሓፊሩ ሓጎስ ይኸበኒ (2)\n\nድንግል ማርያም ኣብ ቤትኪ ክዕቆብ ዘለዓለም ክነብር\nእመ ብርሃን ሕሊናይ ክዓርፍ ጸሎተይ ክሠምር\nድንግል ማርያም ካባይ ከይረሓቕኪ ንዒ ደግፍኒ\nእመ ብርሃን ንብዓተይ ክደርዝ ድንግል ተለመኒ\n\nድንግል ማርያም ኣብ ቤትኪ . . ."
-    },
-    "ti_ro": {
-      "title": "Nskhi 'nte’lokhi",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nTselai hafiru hagos ykhebeni (2)\n[[/chorus]]\n\nDngl maryam nskhi nte’lokhi men yqawemeni\nMe brhan ab hqufokhi koyne men ymntleni\nDngl maryam bmgbar keydeki raqey keykewn\nMe brhan chnqet kebibuni keybeki keyhazn\nDngl maryam dlyetey kftsem kdmses hatiatey\nMe brhan tsegakhi ykhbebeni ab gwizo hywetey\nDngl maryam ab betki kqob zelealem knebr\nMe brhan hlinay karf tselotey ksemr\nDngl maryam kabay keyrehaqki ni degfni\nMe brhan nbatey kderz dngl telemeni\nDngl maryam tsbe alekhu berekhet nay idki\nMe brhan ‘ti betey kmel selam redetki\nDngl maryam smki snqi koynu knebr ab lbey\nMe brhan fewsi qwisley kwini letawi megbey\nDngl maryam ab betki . . ."
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Me brhan ab hqufokhi koyne men ymnt'leni",
+      "Ts'elai hafiru hagos ykhebeni /2/",
+      "Dngl maryam bmgbar keydeki 'raqey keykewn",
+      "Me brhan ch'nqet kebibuni keybeki keyhazn",
+      "Dngl maryam dlyetey kfts'em kdmses hat'iatey",
+      "Me brhan ts'egakhi ykhbebeni ab gw'zo hywetey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dngl maryam ab betki k'qob zele'alem knebr",
+          "Me brhan hlinay k'arf ts'elotey kssemr",
+          "Dngl maryam kabay keyrehaqki n'i degfni",
+          "Me brhan nb'atey kderz dngl telemeni",
+          "Dngl maryam ts'be alekhu berekhet nay idki",
+          "Me brhan ‘ti betey kmel selam redetki",
+          "Dngl maryam smki snqi koynu knebr ab lbey",
+          "Me brhan fewsi qwsley kwni 'letawi megbey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Dngl maryam ab betki . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

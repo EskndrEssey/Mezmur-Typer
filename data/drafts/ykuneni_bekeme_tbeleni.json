@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_80c7553f59",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ይኩነኒ በከመ ትቤለኒ"
+  "id": 26,
+  "title": "ይኩነኒ በከመ ትቤለኒ",
+  "ti": {
+    "chorus": [
+      "ይኩነኒ በከመ ትቤለኒ /2/",
+      "በለት ኣዴና ብትሕትና",
+      "ብስጋን ብነፍስን ንጽህት ብምዃና",
+      "ድንግል በክልኤ ንጽህት ብምዃና",
+      "ናይ ኣዳም ቃልኪዳን ፍጻሜኡ እንኪበጽሕ",
+      "ገብርኤል ተላእከ ናብ ቤተ መቅደስ",
+      "ኣብ ሕሊና እግዚአብሔር ተሳኢላ ነበረት",
+      "ካብ ሰማይ ዝወጸ ቃሉ ተቐበለት",
+      "ዳግሚት ሰማይ ኣርያም ኮነት",
+      "ይኹነኒ ኢላ ብትሕትና ተቐበለት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኦ ማርያም ኣይትፍርሒ ኢሉ ኣረጋግኣ",
+          "ካባኺ ዝውለድ መድኃኒት’ዩ በላ",
+          "ወዲ ዘይፈልጥ’ሲ ከመይ ኢሉ ይኸውን",
+          "ኢላ ሓተተቶ ድንግል ተደነቐት",
+          "ካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ",
+          "ብሕጊ ኣይኮነን ብድንግልና ክትወልዲ ኢኺ",
+          "ቃልካ ይፍጸም ይኩነኒ ኢላ",
+          "ተኣምር ተሰምዐ ኢየሩሳሌም ናዝሬት ገሊላ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ገሪሙና’ዩ ብስራት ገብርኤል",
+          "ከም ናይ ዘካርያስ ከቶ ኣይኮነን",
+          "ዝተመርጸት’ያ ዝበጽሓ ብስራት",
+          "ንዓለም ካብ ሙማት ካብ መርገም ዘድሓነት",
+          "ካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ",
+          "ብሕጊ ኣይኮነን ብድንግልና ክትጸንሲ ኢኺ"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ይኩነኒ በከመ ትቤለኒ",
-      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
-      "lyrics": "[[chorus]]\nናይ ኣዳም ቃልኪዳን ፍጻሜኡ እንኪበጽሕ\nገብርኤል ተላእከ ናብ ቤተ መቅደስ\nኣብ ሕሊና እግዚአብሔር ተሳኢላ ነበረት\nካብ ሰማይ ዝወጸ ቃሉ ተቐበለት\nዳግሚት ሰማይ ኣርያም ኮነት\nይኹነኒ ኢላ ብትሕትና ተቐበለት\n[[/chorus]]\n\nይኩነኒ በከመ ትቤለኒ (2)\nበለት ኣዴና ብትሕትና\nብስጋን ብነፍስን ንጽህት ብምዃና\nድንግል በክልኤ ንጽህት ብምዃና\n\nኦ ማርያም ኣይትፍርሒ ኢሉ ኣረጋግኣ\nካባኺ ዝውለድ መድኃኒት’ዩ በላ\nወዲ ዘይፈልጥ’ሲ ከመይ ኢሉ ይኸውን\nኢላ ሓተተቶ ድንግል ተደነቐት\nካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ\nብሕጊ ኣይኮነን ብድንግልና ክትወልዲ ኢኺ\n\nገሪሙና’ዩ ብስራት ገብርኤል\nከም ናይ ዘካርያስ ከቶ ኣይኮነን\nዝተመርጸት’ያ ዝበጽሓ ብስራት\nንዓለም ካብ ሙማት ካብ መርገም ዘድሓነት\nካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ\nብሕጊ ኣይኮነን ብድንግልና ክትጸንሲ ኢኺ"
-    },
-    "ti_ro": {
-      "title": "Ykuneni bekeme tbeleni",
-      "zemari": "liqe mezemran tedros yosef",
-      "lyrics": "[[chorus]]\nYkuneni bekeme tbeleni (2)\n[[/chorus]]\n\nBelet adena bthtna\nBsgan bnefsn ntsht bmkwana\nDngl bekle ntsht bmkwana\nNay adam qalkidan ftsameu nkibetsh\nGebrel telake nab bete meqdes\nAb hlina gziabher tesaila neberet\nKab semay zwetse qalu teqebelet\nDagmit semay aryam konet\nYkhuneni ila bthtna teqebelet\nO maryam aytfrhi ilu aregaga\nKabakhi zwled medhanit’yu bela\nWedi zeyfelt’si kemey ilu ykhewn\nIla hateteto dngl tedeneqet\nKab ansti kulen flyti ikhi\nBhgi aykonen bdnglna ktweldi ikhi\nSemay zeytkhlo tetsore ab mahtsena\nYelen kab hji nay hewan mergema\nNay hadish kidan hadsh bsratna\nMkhnyate dhnet bela nadena\nQalka yftsem ykuneni ila\nTeamr tesema iyerusalem nazret gelila\nGerimuna’yu bsrat gebrel\nKem nay zekaryas keto aykonen\nZtemertset’ya zbetsha bsrat\nNalem kab mumat kab mergem zedhanet\nKab ansti kulen flyti ikhi\nBhgi aykonen bdnglna kttsensi ikhi"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ykuneni bekeme tbeleni /2/",
+      "Belet adena bthtna",
+      "Bsgan bnefsn nts'ht bmkhwana",
+      "Dngl bekle nts'ht bmkhwana",
+      "Nay adam qalkidan fts'ameu nkibets'h",
+      "Gebrel telake nab bete meqdes",
+      "Ab hlina gziebher tesaila neberet",
+      "Kab semay zwets'e qalu teqebelet",
+      "Dagmit semay aryam konet",
+      "Ykhuneni ila bthtna teqebelet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "O maryam aytfrhi ilu aregaga",
+          "Kabakhi zwled medhanit’yu bela",
+          "Wedi zeyfelt'’si kemey ilu ykhewn",
+          "Ila hateteto dngl tedeneqet",
+          "Kab ansti kulen flyti ikhi",
+          "Bhgi aykonen bdnglna ktweldi ikhi",
+          "Qalka yfts'em ykuneni ila",
+          "Teamr tesem'e iyerusalem nazret gelila"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gerimuna’yu bsrat gebrel",
+          "Kem nay zekaryas keto aykonen",
+          "Ztemerts'et’ya zbets'ha bsrat",
+          "N'alem kab mumat kab mergem zedhanet",
+          "Kab ansti kulen flyti ikhi",
+          "Bhgi aykonen bdnglna ktts'ensi ikhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

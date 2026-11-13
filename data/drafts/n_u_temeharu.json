@@ -1,41 +1,83 @@
 {
-  "id": "h_efr_61abb207de",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንዑ ተመሓሩ"
+  "id": 417,
+  "title": "ንዑ ተመሓሩ",
+  "ti": {
+    "chorus": [
+      "ዘይተማሕረ የለን ፍጹም ዝተነጽገ",
+      "ናባኻ ቀሪቡ ብጽድቂ ዘይማዕረገ",
+      "ይሓልፍ ኣሎ ወዲ ዳዊት ለዋህ መሓሪ",
+      "ኣቦ ሽጉራት ሸፋኒ ነውሪ",
+      "ምስ ሰማዕኩ ስምካ ‘ናቃላሕኩ ናባኻ ገስገስኩ",
+      "ኣብርሃለይ ኢለ በቲ ለጋስ ኢድካ ብርሃን ተዓደልኩ",
+      "ንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ",
+      "ዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ",
+      "ንዑ ተመሐሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጽባቐ መልክዐይ ፍጹም ጠቢሩኒ",
+          "ማኅደር ጋኔን ኮይነ ኣብ ጥፍኣት ከዕነኒ",
+          "ቍንጅናይ ከድንቕ ኣብ ቅድሚ መስትያት ምስ ቆምኩ",
+          "ሓላፊ መልክዐይ ርእየ ሓዘንኩ",
+          "ከም ዕንበባ መሮር ብፀሓይ ዝቕምስል ሓሪረ ከይተርፍ",
+          "ከሊልካኒ ጐይታ ብኃያል ፍቕርኻ ብርኽሰት ከይጸድፍ",
+          "ንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ",
+          "ዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ",
+          "ንዑ ተመሐሩ",
+          "ዘመድ ገንዘብ ኮይነ ረብሐ ኣዕዊሩኒ",
+          "ብዓመጽ ክህብትም ሰላም ሃዲሙኒ",
+          "ስምካ ሰሚዐ ነዛ ክርእየካ ብሂገ",
+          "ቁመት ሓጺሩኒ ኣብ ኦም ዓሪገ",
+          "ዘይትፍንፍን ኣምላኽ ገበነይ ጐሲኻ ናብ ቤተይ ኣቲኻ",
+          "ተመስገን ክበረለይ ተባሪኹ ቤተይ በቲ ቅዱስ ስምካ",
+          "ንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ",
+          "ዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ",
+          "ንዑ ተመሐሩ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ሙሉእ ሓጎስ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንዑ ተመሓሩ",
-      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
-      "lyrics": "[[chorus]]\nመላእ ዘመን ሕይወተይ ብዑረት ክሳቐ\nወገን ኣልቦ ኮይነ ብሰባት ተናዒቐ\nይሓልፍ ኣሎ ወዲ ዳዊት ለዋህ መሓሪ\nኣቦ ሽጉራት ሸፋኒ ነውሪ\nምስ ሰማዕኩ ስምካ ‘ናቃላሕኩ ናባኻ ገስገስኩ\nኣብርሃለይ ኢለ በቲ ለጋስ ኢድካ ብርሃን ተዓደልኩ\nንዑ ተመሓሩ (2) ኣርዑትኩም ኣፍኵሱ\nዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ\nንዑ ተመሐሩ\n[[/chorus]]\n\nዘይተማሕረ የለን ፍጹም ዝተነጽገ\nናባኻ ቀሪቡ ብጽድቂ ዘይማዕረገ\nኵሉ ነጺሑ ከም በረድ ጻዕድዩ ተኾሊዑ\nኣማኑኤል ኢሉ ብምሕረት ኣጉላዕሊዑ\n\nጽባቐ መልክዐይ ፍጹም ጠቢሩኒ\nማኅደር ጋኔን ኮይነ ኣብ ጥፍኣት ከዕነኒ\nቍንጅናይ ከድንቕ ኣብ ቅድሚ መስትያት ምስ ቆምኩ\nሓላፊ መልክዐይ ርእየ ሓዘንኩ\nከም ዕንበባ መሮር ብፀሓይ ዝቕምስል ሓሪረ ከይተርፍ\nከሊልካኒ ጐይታ ብኃያል ፍቕርኻ ብርኽሰት ከይጸድፍ\nንዑ ተመሓሩ (2) ኣርዑትኩም ኣፍኵሱ\nዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ\nንዑ ተመሐሩ"
-    },
-    "ti_ro": {
-      "title": "N'u temeharu",
-      "zemari": "di/n mulu' hagos",
-      "lyrics": "[[chorus]]\nNu temeharu (2) arutkum afkwisu\nZdenzeze lbi iyesus yu fewsu\nNu temeharu\n[[/chorus]]\n\nZeytemahre yelen ftsum ztenetsge\nNabakha qeribu btsdqi zeymarege\nKwilu netsihu kem bered tsadyu tekholiu\nAmanuel ilu bmhret agulaliu\nMela zemen hywetey buret ksaqe\nWegen albo koyne bsebat tenaiqe\nYhalf alo wedi dawit lewah mehari\nAbo shgurat shefani newri\nMs semaku smka ‘naqalahku nabakha gesgesku\nAbrhaley ile beti legas idka brhan teadelku\n\nTsbaqe melkay ftsum tebiruni\nMahder ganen koyne ab tfat keneni\nQwinjnay kednq ab qdmi mestyat ms qomku\nHalafi melkay rye hazenku\nKem nbeba meror btsehay zqmsl harire keyterf\nKelilkani goyta bhayal fqrkha brkhset keytsedf\n\nZemed genzeb koyne rebha awiruni\nBamets khbtm selam hadimuni\nSmka semia neza kryeka bhige\nQumet hatsiruni ab om arige\nZeytfnfn amlakh gebeney gosikha nab betey atikha\nTemesgen kbereley tebarikhu betey beti qdus smka"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Zeytemahre yelen fts'um ztenets'ge",
+      "Nabakha qeribu bts'dqi zeyma'rege",
+      "Yhalf alo wedi dawit lewah mehari",
+      "Abo shgurat shefani newri",
+      "Ms sema'ku smka ‘naqalahku nabakha gesgesku",
+      "Abrhaley ile beti legas idka brhan te'adelku",
+      "N'u temeharu /2/ ar'utkum afkwsu",
+      "Zdenzeze lbi iyesus yu fewsu",
+      "N'u temeheru"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'baqe melk'ey fts'um t'ebiruni",
+          "Mahder ganen koyne ab t'fat ke'neni",
+          "Qwnjnay kednq ab qdmi mestyat ms qomku",
+          "Halafi melk'ey rye hazenku",
+          "Kem 'nbeba meror bts'ehay zqmsl harire keyterf",
+          "Kelilkani gwayta bhayal fqrkha brkhset keyts'edf",
+          "N'u temeharu /2/ ar'utkum afkwsu",
+          "Zdenzeze lbi iyesus yu fewsu",
+          "N'u temeheru",
+          "Zemed genzeb koyne rebhe a'wiruni",
+          "B'amets' khbtm selam hadimuni",
+          "Smka semi'e neza kryeka bhige",
+          "Qumet hats'iruni ab om 'arige",
+          "Zeytfnfn amlakh gebeney gwasikha nab betey atikha",
+          "Temesgen kbereley tebarikhu betey beti qdus smka",
+          "N'u temeharu /2/ ar'utkum afkwsu",
+          "Zdenzeze lbi iyesus yu fewsu",
+          "N'u temeheru"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

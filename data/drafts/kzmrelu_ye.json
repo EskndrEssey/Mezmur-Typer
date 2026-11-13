@@ -1,41 +1,69 @@
 {
-  "id": "h_efr_aa46b41df5",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ክዝምረሉ’የ"
+  "id": 120,
+  "title": "ክዝምረሉ’የ",
+  "ti": {
+    "chorus": [
+      "ክዝምረሉ’የ ከመስግኖ እየ",
+      "ክግዝኦ እየ ምድሓኑ ከውሪ",
+      "ኣቤት ናቱ ስራሕ ድንቂ ናቱ ፍቕሪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሕረቱ ኣርእዩኒ ካብቲ ግሩም ክብሩ",
+          "ከም ኣእጋር ናይ ኢራብ ኣእጋረይ ኣጽኒዑ",
+          "ብቓሉ ገሰጸ ንፋስን ማዕበልን",
+          "ለይቲ ምስ መዓልቲ `ቲ ስሙ ይመስገን",
+          "ካብቲ ጸልማት ዓለም ካብ ፈታኒ ጉዕዞ",
+          "ካብ ሓዊ ኣውጺኡኒ ኢደይ እግረይ ሒዙ",
+          "ኢድ ሰብ ከይተንከፎ ፈረሰ `ቲ ቐጽሪ",
+          "ከምዚ ከኣ ኣሎ ዕጹብ`ዩ ፈጣሪ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትብዓት ንኽረክብ ጸጋ ዝመልኣኒ",
+          "ኣብ ቅድሚ ጸላእተይ ክብሪ ዝሃበኒ",
+          "ዘለዓለማዊ ኣቦ ንሱ’ዩ ኣምላኸይ",
+          "ከመስግኖ እየ ብዘለኒ ዓቕመይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ክዝምረሉ’የ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nሸተት እንከይብል ኣብ ዓዘቕቲ ኃጢኣት\nብፍጹም ከይጥሕል ኣብ ዘልዓለም ጥፍኣት\nርድኣኒ ጐይታየ ንቑስለይ ፈውሶ\nኣህድኣዮ ልበይ ሓዘነይ ደብሶ (2)\n[[/chorus]]\n\nክዝምረሉ’የ ብዓውታ ዝማሬ\nነቲ ፈጣርየይ ምስ ሰበይ ሓቢረ\nንሱ’ዩ `ቲ ኣምላኽ ሓቀኛ ጐይታ\nብርሃነይ ምድሓነይ እቲ ጽኑዕ ዋልታ(2)\n\nብሓቂ ክገድፎ ‘ቲ ሕማቕ ኣመለይ\nመዋእለይ ኵሉ ፍቕሪ ክኾነለይ\nብርሃንካ ኣብርሃለይ ከይዕንቀፍ ከይወድቕ\nደግፈኒ ጐይታይ ብፍቕሪ ክማሙቕ (2)\n\nውዕለትካ ክገልጾ ኣይከኣለንን\nግብርታትካ ግሩም ብዅሉ ትእመን\nመን’ዩ ዝመስለካ መስፍን ዘልዓለም\nደስታ ሓጎስ ልበይ ክበር መድኃኔ ዓለም (2)"
-    },
-    "ti_ro": {
-      "title": "Kzmrelu’ye",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "[[chorus]]\nBrhaney mdhaney ti tsnu walta(2)\n[[/chorus]]\n\nKzmrelu’ye bawta zmare\nNeti fetaryey ms sebey habire\nNsu’yu `ti amlakh haqenya goyta\nShetet nkeybl ab azeqti hatiat\nBftsum keythl ab zelalem tfat\nRdani goytaye nqusley fewso\nAhdayo lbey hazeney debso (2)\nBhaqi kgedfo ‘ti hmaq ameley\nMewaley kwilu fqri kkhoneley\nBrhanka abrhaley keynqef keywedq\nDegfeni goytay bfqri kmamuq (2)\nFre nkhferi meraya mnetey\nKwilu nkhhadgo hsum mgbaratey\nNsha katu abti nus dmey\nAb hqfu knebr mstom abotatey (2)\nWletka kgeltso aykealenn\nGbrtatka grum bkwilu tmen\nMen’yu zmesleka mesfn zelalem\nDesta hagos lbey kber medhane alem (2)"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Kzmrelu’ye kemesgno ye",
+      "Kgzo ye mdhanu kewri",
+      "Abet natu srah dnqi natu fqri"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mhretu aryuni kabti grum kbru",
+          "Kem agar nay irab agarey ats'ni'u",
+          "Bqalu gesets'e nfasn ma'beln",
+          "Leyti ms me'alti `ti smu ymesgen",
+          "Kabti ts'elmat 'alem kab fetani gu'zo",
+          "Kab hawi awts'iuni idey grey hizu",
+          "Id seb keytenkefo ferese `ti qets'ri",
+          "Kemzi kea alo 'ts'ub`yu fet'ari"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tb'at nkhrekb ts'ega zmelani",
+          "Ab qdmi ts'elatey kbri zhabeni",
+          "Zele'alemawi abo nsu’yu amlakhey",
+          "Kemesgno ye bzeleni 'aqmey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }

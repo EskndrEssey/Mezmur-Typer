@@ -1,41 +1,23 @@
 {
-  "id": "h_efr_19e03576f8",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ንግሥተ ሰማይ"
+  "id": 256,
+  "title": "ንግሥተ ሰማይ",
+  "ti": {
+    "chorus": [
+      "ገነይኩ ለኪ ኦ ንግሥተ ሰማይ",
+      "ለባሲተ ብሩህ ጸሓይ /2/",
+      "ከመ ርእሰ ኃምሳ ሣልሳይ /2/"
+    ],
+    "verses": []
   },
-  "singer": "ዲ/ን ኤፍሬም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ንግሥተ ሰማይ",
-      "zemari": "ዲ/ን ኤፍሬም",
-      "lyrics": "[[chorus]]\nንዑ ንስግድ ቅድመ ሥዕላ\nንዑ ንስግድ ለማርያም ድንግል ርግበ ገሊላ\nንዑ ንስግድ እስመ ወለደት ለነ ኣምላከ ተድላ\n[[/chorus]]\n\nገነይኩ ለኪ ኦ ንግሥተ ሰማይ\nለባሲተ ብሩህ ፀሓይ\nከመ ርእሰ ኃምሳ ሣልሳይ\nኣስተበቁዐኪ ድንግል እመ ኣዶናይ\nበቅድሜኪ ነፍስየ ትዕበይ\n\nንዑ ንስግድ ለክብረ ንግሣ\nንዑ ንስግድ አምላክ ኃደረ በውስተ ከርሣ\nንዑ ንስግድ ሠራዬ ኃጢኣት ወአበሳ\n\nንዑ ንስግድ ወንግነይ ላቲ\nንዑ ንስግድ ለማርያም ድንግል ወለተ ማቲ\nንዑ ንስግድ እስመ ተስፋነ ንረክብ እምይእቲ"
-    },
-    "ti_ro": {
-      "title": "NgSste semay",
-      "zemari": "di/n efrem",
-      "lyrics": "Geneyku leki o ngsste semay\nLebasite bruh tsehay\nKeme rse hamsa salsay\nAstebequaki dngl me adonay\nBeqdmeki nefsye tbey\nNu nsgd qdme ssla\nNu nsgd lemaryam dngl rgbe gelila\nNu nsgd sme weledet lene amlake tedla\nNu nsgd lekbre ngsa\nNu nsgd amlak hadere bewste kersa\nNu nsgd seraye hatiat weabesa\nNu nsgd qdme sslase\nNu nsgd lemaryam dngl welete muse\nNu nsgd sme weledet lene amlake negase\nNu nsgd wengney lati\nNu nsgd lemaryam dngl welete mati\nNu nsgd sme tesfane nrekb myti\nNu nsgd lebahtita\nNu nsgd lemaryam dngl rgbe efrata\nNu nsgd tselota bereketa ykdnene welta"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Geneyku leki o ngsste semay",
+      "Lebasite bruh ts'ehay /2/",
+      "Keme rse hamsa Ssalsay /2/"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
 }

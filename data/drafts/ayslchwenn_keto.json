@@ -1,41 +1,63 @@
 {
-  "id": "h_efr_45c3951d85",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ኣይስልችወንን ከቶ"
+  "id": 57,
+  "title": "ኣይስልችወንን ከቶ",
+  "ti": {
+    "chorus": [
+      "ኣይስልችወንን ከቶ ውዳሴ መዝሙር ቅኔ",
+      "ብዙሕ’ዩ ጌሩለይ እግዚአብሔር ኣብ ዘመነይ",
+      "ምሕረቱን ዓቢይ ፍቕሩን ሎም’ውን ኣይሓደገን",
+      "ኣብ ልሙዕ ሸኻ ለምለም ነባጊዑ ይመርሐን",
+      "ሓያል’ዩ ናትና ኣምላኽ ንዘለዓለም ዝርህርህ",
+      "መጽሓፍ ዕዳ ቀንጢጡ ጸገም ሽግር ዝፈትሕ",
+      "ምእንታይ ተሰቒሉ ፍጹም ዓወት ሂቡኒ",
+      "ምእንታይ ተሰቒሉ ብሕይወት ኣንቢሩኒ",
+      "ብዙሕ’ዩ ውዕለቱ  ተዘርዚሩ ኣይውዳእን",
+      "ንውዕለቱ ዝገልጽ ብርቱዕ ቃል ኣይርከብን",
+      "ንስኻ ሓያል ኢኻ ዝመስለካ’ውን የለን",
+      "ኣብ ዙፋንካ ትነብር ጸኒዕካ ዘለዓለም",
+      "ብተስፋኻ ኣሚነ ናባኻ መጺአ ኣለኹ",
+      "ተመስገን ክበረለይ ንገሰለይ እናበልኩ",
+      "ፈሊኻ ጸዊዕካኒ ጸጋኻ ኣብዚሕካለይ",
+      "ዘወትር ኣብ ቅድሜኻ ኣመስገንኩኻ ጐይታይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኸይ ፈታዊየይ ኢለ ክጽውዓካ",
+          "ኢየሱስ ወዲ ኣምላኽ ለዊጡኒ ፍቕርኻ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ኣይስልችወንን ከቶ",
-      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
-      "lyrics": "[[chorus]]\nምሕረቱን ዓቢይ ፍቕሩን ሎም’ውን ኣይሓደገን\nኣብ ልሙዕ ሸኻ ለምለም ነባጊዑ ይመርሐን\nሓያል’ዩ ናትና ኣምላኽ ንዘለዓለም ዝርህርህ\nመጽሓፍ ዕዳ ቀንጢጡ ጸገም ሽግር ዝፈትሕ\n[[/chorus]]\n\nኣይስልችወንን ከቶ ውዳሴ መዝሙር ቅኔ\nብዙሕ’ዩ ጌሩለይ እግዚአብሔር ኣብ ዘመነይ\n\nምእንታይ ተሰቒሉ ፍጹም ዓወት ሂቡኒ\nምእንታይ ተሰቒሉ ብሕይወት ኣንቢሩኒ\nብዙሕ’ዩ ውዕለቱ ተዘርዚሩ ኣይውዳእን\nንውዕለቱ ዝገልጽ ብርቱዕ ቃል ኣይርከብን\n\nፈሊኻ ጸዊዕካኒ ጸጋኻ ኣብዚሕካለይ\nዘወትር ኣብ ቅድሜኻ ኣመስገንኩኻ ጐይታይ\nኣምላኸይ ፈታዊየይ ኢለ ክጽውዓካ\nኢየሱስ ወዲ ኣምላኽ ለዊጡኒ ፍቕርኻ"
-    },
-    "ti_ro": {
-      "title": "Ayslchwenn keto",
-      "zemari": "di/n 'zra ha/maryam",
-      "lyrics": "Ayslchwenn keto wdase mezmur qne\nBzuh’yu geruley gziabher ab zemeney\nMhretun abiy fqrun lom’wn ayhadegen\nAb lmu shekha lemlem nebagiu ymerhan\nHayal’yu natna amlakh nzelealem zrhrh\nMetshaf da qentitu tsegem shgr zfeth\nMntay teseqilu ftsum awet hibuni\nMntay teseqilu bhywet anbiruni\nBzuh’yu wletu tezerziru aywdan\nNwletu zgelts brtu qal ayrkebn\nNskha hayal ikha zmesleka’wn yelen\nAb zufanka tnebr tsenika zelealem\nBtesfakha amine nabakha metsia alekhu\nTemesgen kbereley ngeseley nabelku\nFelikha tsewikani tsegakha abzihkaley\nZewetr ab qdmekha amesgenkukha goytay\nAmlakhey fetawiyey ile ktswaka\nIyesus wedi amlakh lewituni fqrkha"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Ayslchwenn keto wdase mezmur qne",
+      "Bzuh’yu geruley gziebher ab zemeney",
+      "Mhretun 'abiy fqrun lom’wn ayhadegen",
+      "Ab lmu' shekha lemlem nebagi'u ymerhen",
+      "Hayal’yu natna amlakh nzele'alem zrhrh",
+      "Mets'haf 'da qent'it'u ts'egem shgr zfeth",
+      "Mntay teseqilu fts'um 'awet hibuni",
+      "Mntay teseqilu bhywet anbiruni",
+      "Bzuh’yu w'letu  tezerziru aywdan",
+      "Nw'letu zgelts' brtu' qal ayrkebn",
+      "Nskha hayal ikha zmesleka’wn yelen",
+      "Ab zufanka tnebr ts'eni'ka zele'alem",
+      "Btesfakha amine nabakha mets'ie alekhu",
+      "Temesgen kbereley ngeseley nabelku",
+      "Felikha ts'ewi'kani ts'egakha abzihkaley",
+      "Zewetr ab qdmekha amesgenkukha gwaytay"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakhey fetawiyey ile kts'w'aka",
+          "Iyesus wedi amlakh lewit'uni fqrkha"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
 }

@@ -1,41 +1,71 @@
 {
-  "id": "h_efr_147824a71d",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ሳምራዊ ሕይወተይ"
+  "id": 208,
+  "title": "ሳምራዊ ሕይወተይ",
+  "ti": {
+    "chorus": [
+      "ዋልታይ ክብረይ ኢኻ ሳምራዊ ሕይወተይ",
+      "ሓያል ተበጃዊ ኣምላኽ ረድኤተይ",
+      "ንዓኻ ከመስግን ሰቒለ ሕሊናይ",
+      "እንሆ ክልተ ኣእዳወይ ዘርጊሔ ናብ ሰማይ",
+      "ኣብ ሕሱም ደልሃመት ብግፍዒ ወዲቐ",
+      "በይነይ እና’ቕባሕባሕኩ ረዳኢ ናፊቐ",
+      "ድሙቕ ብርሃን መስቀልካ ምስ ኣብርሀ ኣብ ልዕለይ",
+      "ፍጹም’የ ተለዊጠ ተዘኒኑ ኵሉ ቁስለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኤልሻዳይ ኣምላኽ በዓል  ርህሩህ ልቢ",
+          "ከም ሕያዋይ ጓሳ ንነፍሰይ ክትናቢ",
+          "መዓስከ ተታኺስካ ሓለዋይ ምስ ነቓሕካ",
+          "እነሆ’ንዶ ቲ’ለውሃትካ የንብረኒ ኣብ ሕቝፍኻ",
+          "ነፍሰይ ምስ ረኸበት ሕይወት ምስ ተረፋ",
+          "ስምካ ጥራይ ኮይኑ መውጽኢ ቃል ኣፋ",
+          "ኵሉ ብስምካ ክሰግሮ ዓቐብን ገደልን",
+          "ምልክኻ የዕቲርካኒ ምልኪ ሰይጣን ንኸብንን",
+          "ናይ ሰንሰለት መቑሕ ጾረይ ካብ ተራግፍ",
+          "ሕልፊ ሞት ፍቕርኻ ልበይ ካብ ዝትንክፍ",
+          "ሰለም ኣይከብልን እየ ኣካለይ ንኽዛነ",
+          "ክንብርከኸልካ’የ ጐይታይ ብፍቕርኻ ተኣሚነ"
+        ],
+        "possible_page_split": true
+      }
+    ]
   },
-  "singer": "ዘማሪት ህጻን ቃልኪዳን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ሳምራዊ ሕይወተይ",
-      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
-      "lyrics": "[[chorus]]\nኣብ ሕሱም ደልሃመት ብግፍዒ ወዲቐ\nበይነይ እና’ቕባሕባሕኩ ረዳኢ ናፊቐ\nድሙቕ ብርሃን መስቀልካ ምስ ኣብርሀ ኣብ ልዕለይ\nፍጹም’የ ተለዊጠ ተዘኒኑ ኵሉ ቁስለይ\n[[/chorus]]\n\nዋልታይ ክብረይ ኢኻ ሳምራዊ ሕይወተይ\nሓያል ተበጃዊ ኣምላኽ ረድኤተይ\nንዓኻ ከመስግን ሰቒለ ሕሊናይ\nእንሆ ክልተ ኣእዳወይ ዘርጊሔ ናብ ሰማይ\n\nኤልሻዳይ ኣምላኽ በዓል ርህሩህ ልቢ\nከም ሕያዋይ ጓሳ ንነፍሰይ ክትናቢ\nመዓስከ ተታኺስካ ሓለዋይ ምስ ነቓሕካ\nእነሆ’ንዶ ቲ’ለውሃትካ የንብረኒ ኣብ ሕቝፍኻ\n\nልዕሊ ሞት ነጊሰ ሰዊደ ክብርትዕ\nድኹም ሓያል ኮይነ ብቓልካ ክረትዕ\nኵሉ ብስምካ ክሰግሮ ዓቐብን ገደልን\nምልክኻ የዕቲርካኒ ምልኪ ሰይጣን ንኸብንን"
-    },
-    "ti_ro": {
-      "title": "Samrawi hywetey",
-      "zemari": "zemarit hTsan qalkidan",
-      "lyrics": "Waltay kbrey ikha samrawi hywetey\nHayal tebejawi amlakh redetey\nNakha kemesgn seqile hlinay\nNho klte adawey zergihe nab semay\nAb hsum delhamet bgfi wediqe\nBeyney na’qbahbahku redai nafiqe\nDmuq brhan mesqelka ms abrha ab lley\nFtsum’ye telewite tezeninu kwilu qusley\nElshaday amlakh beal rhruh lbi\nKem hyaway gwasa nnefsey ktnabi\nMeaske tetakhiska haleway ms neqahka\nNeho’ndo ti’lewhatka yenbreni ab hqwifkha\nNefsey ms rekhebet hywet ms terefa\nSmka tray koynu mewtsi qal afa\nBeqa tdset tzmr zeykem blzub weyni\nKemza fthti btey bhagoska tezlleni\nLli mot negise sewide kbrt\nDkhum hayal koyne bqalka kret\nKwilu bsmka ksegro aqebn gedeln\nMlkkha yetirkani mlki seytan nkhebnn\nNay senselet mequh tsorey kab teragf\nHlfi mot fqrkha lbey kab ztnkf\nSelem aykebln ye akaley nkhzane\nKnbrkekhelka’ye goytay bfqrkha teamine"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Waltay kbrey ikha samrawi hywetey",
+      "Hayal tebejawi amlakh redetey",
+      "N'akha kemesgn seqile hlinay",
+      "Nho klte adawey zergihe nab semay",
+      "Ab hsum delhamet bgf'i wediqe",
+      "Beyney na’qbahbahku redai nafiqe",
+      "Dmuq brhan mesqelka ms abrhe ab l'ley",
+      "Fts'um’ye telewit'e tezeninu kwlu qusley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Elshaday amlakh be'al  rhruh lbi",
+          "Kem hyaway gwasa nnefsey ktnabi",
+          "Me'aske tetakhiska haleway ms neqahka",
+          "Neho’ndo ti’lewhatka yenbreni ab hqwfkha",
+          "Nefsey ms rekhebet hywet ms terefa",
+          "Smka t'ray koynu mewts'i qal afa",
+          "Kwlu bsmka ksegro 'aqebn gedeln",
+          "Mlkkha ye'tirkani mlki seyt'an nkhebnn",
+          "Nay senselet mequh ts'orey kab teragf",
+          "Hlfi mot fqrkha lbey kab ztnkf",
+          "Selem aykebln ye akaley nkhzane",
+          "Knbrkekhelka’ye gwaytay bfqrkha teamine"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

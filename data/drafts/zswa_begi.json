@@ -1,41 +1,101 @@
 {
-  "id": "h_efr_0429e726da",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ዝስዋእ በጊዕ"
+  "id": 58,
+  "title": "ዝስዋእ በጊዕ",
+  "ti": {
+    "chorus": [
+      "ኣብርሃም መሰውኢ ቦታ ኣበይ’ዩ",
+      "ነምልኾ ኣምላኽ ኣቦ ፍቕሪ’ዩ",
+      "ነምልኾ ኣምላኽ ዓቢይ ኣቦ’ዩ",
+      "",
+      "ወደይ /3/ ክነግረካ ኣይበጻሕናን ጌና ርሑቕ’ዩ",
+      "ኣብ ጎቦ ሞርያ ኣብቲ እምባ ኵሉ ነገር ዘሎ ኣብኡ’ዩ",
+      "ምእዛዝ ካብ ሕማቕ መስዋእት ይበልጽ እመኑ እግዚአብሔር",
+      "ታሪኽ ይልውጥ’ዩ",
+      "ኣቦ’የ ዝስዋእ በጊዕ ኣቤሎ",
+      "ኣብርሃም መሰውኢ ቦታ ኣበይ’ዩ",
+      "ነምልኾ ኣምላኽ ኣቦ ፍቕሪ’ዩ",
+      "ነምልኾ ኣምላኽ ዓቢይ ኣቦ’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣዚዙኒ እግዚአብሔር ሓደ ነገር ከምዚ ብቐሊሉ ዘይንገር",
+          "ብኣኻ ተፈተነ እምነተይ እንታይ ሒዘ ክምለስ ናብ ቤተይ",
+          "ኣቦየ ክስዋእ ካብ ተኣዘዝካ",
+          "ቀልጢፍካ ኣንብረለይ’ቲ ኢድካ",
+          "ካብ ኵሉ ይበልጽ ናይ እግዚአብሔር ስራሕ",
+          "በርትዕ ጽናዕ ከምኡ’ውን ኣይትፍራሕ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከብደይ ኣብዩኒ ወደይ ወደይ ከመይ’ለ ትንፋስካ ከሕልፍ ባዕለይ",
+          "ከመይ’ለ ክብርትዕ ክጸንዕ ከቢድ ነገር`ዩ’ሞ ዘጨንቕ",
+          "ኣቦ’የ ንዓይነይ ኣይትርአ ብፍቕሪ",
+          "ክትርህርህ ንኸይተርፍ ጽድቂ",
+          "ድፍኣዮ ፊተይ  ክስውኣሉ",
+          "ንከኽብረኒ ብበረኸቱ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "መጺኡኒ ትእዛዝ ካብ ኣምላኸይ ክቕበሎ እየ ኢለ ሕራይ",
+          "እነሆ ይስውእ ሓደ ወደይ ንኸኽብር ትእዛዝ ናይ ኣምላኸይ"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ዝስዋእ በጊዕ",
-      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
-      "lyrics": "[[chorus]]\nኣቦ’የ ዝስዋእ በጊዕ ኣቤሎ\nኣብርሃም መሰውኢ ቦታ ኣበይ’ዩ\nነምልኾ ኣምላኽ ኣቦ ፍቕሪ’ዩ\nነምልኾ ኣምላኽ ዓቢይ ኣቦ’ዩ\n[[/chorus]]\n\nኣቦየ ዝስዋእ በጊዕ ኣቤሎ\nኣብርሃም መሰውኢ ቦታ ኣበይ’ዩ\nነምልኾ ኣምላኽ ኣቦ ፍቕሪ’ዩ\nነምልኾ ኣምላኽ ዓቢይ ኣቦ’ዩ\n\nወደይ (3) ክነግረካ ኣይበጻሕናን ጌና ርሑቕ’ዩ\nኣብ ጎቦ ሞርያ ኣብቲ እምባ ኵሉ ነገር ዘሎ ኣብኡ’ዩ\nምእዛዝ ካብ ሕማቕ መስዋእት ይበልጽ እመኑ እግዚአብሔር\nታሪኽ ይልውጥ’ዩ\n\nኣዚዙኒ እግዚአብሔር ሓደ ነገር ከምዚ ብቐሊሉ ዘይንገር\nብኣኻ ተፈተነ እምነተይ እንታይ ሒዘ ክምለስ ናብ ቤተይ\n\nከብደይ ኣብዩኒ ወደይ ወደይ ከመይ’ለ ትንፋስካ ከሕልፍ ባዕለይ\nከመይ’ለ ክብርትዕ ክጸንዕ ከቢድ ነገር`ዩ’ሞ ዘጨንቕ\n\nመጺኡኒ ትእዛዝ ካብ ኣምላኸይ ክቕበሎ እየ ኢለ ሕራይ\nእነሆ ይስውእ ሓደ ወደይ ንኸኽብር ትእዛዝ ናይ ኣምላኸይ"
-    },
-    "ti_ro": {
-      "title": "Zswa' begi'",
-      "zemari": "di/n 'zra ha/maryam",
-      "lyrics": "[[chorus]]\nAbrham mesewi bota abey’yu\nNemlkho amlakh abo fqri’yu\nNemlkho amlakh abiy abo’yu\n[[/chorus]]\n\nAboye zswa begi abelo\n\n\nWedey (3) knegreka aybetsahnan gena rhuq’yu\nAb gobo morya abti mba kwilu neger zelo abu’yu\nMzaz kab hmaq meswat ybelts menu gziabher\nTarikh ylwt’yu\nAbo’ye zswa begi abelo\n\nAzizuni gziabher hade neger kemzi bqelilu zeynger\nBakha tefetene mnetey ntay hize kmles nab betey\nAboye kswa kab teazezka\nQeltifka anbreley’ti idka\nKab kwilu ybelts nay gziabher srah\nBert tsna kemu’wn aytfrah\nKebdey abyuni wedey wedey kemey’le tnfaska kehlf baley\nKemey’le kbrt ktsen kebid neger`yu’mo zechenq\nAbo’ye nayney aytra bfqri\nKtrhrh nkheyterf tsdqi\nDfayo fitey kswalu\nNkekhbreni bberekhetu\nMetsiuni tzaz kab amlakhey kqbelo ye ile hray\nNeho ysw hade wedey nkhekhbr tzaz nay amlakhey"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Abrham mesewi bota abey’yu",
+      "Nemlkho amlakh abo fqri’yu",
+      "Nemlkho amlakh 'abiy abo’yu",
+      "",
+      "Wedey /3/ knegreka aybets'ahnan gena rhuq’yu",
+      "Ab gobo morya abti mba kwlu neger zelo abu’yu",
+      "Mzaz kab hmaq meswat ybelts' menu gziebher",
+      "Tarikh ylwt'’yu",
+      "Abo’ye zswa begi' abelo",
+      "Abrham mesewi bota abey’yu",
+      "Nemlkho amlakh abo fqri’yu",
+      "Nemlkho amlakh 'abiy abo’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Azizuni gziebher hade neger kemzi bqelilu zeynger",
+          "Bakha tefetene mnetey ntay hize kmles nab betey",
+          "Aboye kswa kab teazezka",
+          "Qelt'ifka anbreley’ti idka",
+          "Kab kwlu ybelts' nay gziebher srah",
+          "Bert' ts'na' kemu’wn aytfrah"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kebdey abyuni wedey wedey kemey’le tnfaska kehlf ba'ley",
+          "Kemey’le kbrt' kts'en' kebid neger`yu’mo zech'enq",
+          "Abo’ye n'ayney aytre bfqri",
+          "Ktrhrh nkheyterf ts'dqi",
+          "Dfayo fitey  kswalu",
+          "Nkekhbreni bberekhetu"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Mets'iuni tzaz kab amlakhey kqbelo ye ile hray",
+          "Neho ysw hade wedey nkhekhbr tzaz nay amlakhey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
 }

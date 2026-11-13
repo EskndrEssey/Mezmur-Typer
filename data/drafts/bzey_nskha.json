@@ -1,41 +1,73 @@
 {
-  "id": "h_efr_75f81ca495",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ብዘይ ንስኻ"
+  "id": 106,
+  "title": "ብዘይ ንስኻ",
+  "ti": {
+    "chorus": [
+      "ብዘይ ንስኻ መን ኣሎኒ",
+      "ጐይታይ ፍቕርኻ መቂሩኒ",
+      "ሕግኻ ንዓይ ይመርሓኒ",
+      "ፍጹም ዘይልወጥ ኣቦ ኣለኒ/2/",
+      "ክብረይ ክብለካ ስልማተይ",
+      "ቤተይ ናትካዩ ሰብነተይ",
+      "ብርሃን ጌርካዮ ንመንገደይ",
+      "መራሒ ኢኻ ንሕይወተይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣጣዒሱኒ’ቲ ሕይወተይ",
+          "ንመንገድኻ ዘይምፍላጠይ",
+          "ጽላል ኮይኑለይ ቲ ምሕረትካ",
+          "ክነብር እየ ኣብቲ ቤትካ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጸላኢና ስዒርካዮ",
+          "ጭንቀት ልብና ኣርሒቕካዮ",
+          "ኵሉ ኣብ ኢድካዩ ፍጥረት ዓለም",
+          "ክንዝምር ኢና ንዘልዓለም"
+        ]
+      }
+    ]
   },
-  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ብዘይ ንስኻ",
-      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
-      "lyrics": "[[chorus]]\nክብረይ ክብለካ ስልማተይ\nቤተይ ናትካዩ ሰብነተይ\nብርሃን ጌርካዮ ንመንገደይ\nመራሒ ኢኻ ንሕይወተይ\n[[/chorus]]\n\nብዘይ ንስኻ መን ኣሎኒ\nጐይታይ ፍቕርኻ መቂሩኒ\nሕግኻ ንዓይ ይመርሓኒ\nፍጹም ዘይልወጥ ኣቦ ኣለኒ(2)\n\nኣጣዒሱኒ’ቲ ሕይወተይ\nንመንገድኻ ዘይምፍላጠይ\nምሳኻ ምንባር ይሕሸኒ\nብዘይ ንስኻ መን ኣሎኒ\n\nንጸላኢና ስዒርካዮ\nጭንቀት ልብና ኣርሒቕካዮ\nኵሉ ኣብ ኢድካዩ ፍጥረት ዓለም\nክንዝምር ኢና ንዘልዓለም"
-    },
-    "ti_ro": {
-      "title": "Bzey nskha",
-      "zemari": "zemarit mrtnesh Tlahun",
-      "lyrics": "[[chorus]]\nFtsum zeylwet abo aleni(2)\n[[/chorus]]\n\nBzey nskha men aloni\nGoytay fqrkha meqiruni\nHgkha nay ymerhani\nKbrey kbleka slmatey\nBetey natkayu sebnetey\nBrhan gerkayo nmengedey\nMerahi ikha nhywetey\nAtaisuni’ti hywetey\nNmengedkha zeymflatey\nMsakha mnbar yhsheni\nBzey nskha men aloni\nAgerimuni ‘ti lewhatka\nBediluniyu zeymbalka\nTslal koynuley ti mhretka\nKnebr ye abti betka\nNtselaina sirkayo\nChnqet lbna arhiqkayo\nKwilu ab idkayu ftret alem\nKnzmr ina nzelalem"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "Bzey nskha men aloni",
+      "Gwaytay fqrkha meqiruni",
+      "Hgkha n'ay ymerhani",
+      "Fts'um zeylwet' abo aleni/2/",
+      "Kbrey kbleka slmatey",
+      "Betey natkayu sebnetey",
+      "Brhan gerkayo nmengedey",
+      "Merahi ikha nhywetey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "At'a'isuni’ti hywetey",
+          "Nmengedkha zeymflat'ey",
+          "Ts'lal koynuley ti mhretka",
+          "Knebr ye abti betka"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nts'elaina s'irkayo",
+          "Ch'nqet lbna arhiqkayo",
+          "Kwlu ab idkayu ft'ret 'alem",
+          "Knzmr ina nzel'alem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

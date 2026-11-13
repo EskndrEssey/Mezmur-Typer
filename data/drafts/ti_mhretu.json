@@ -1,41 +1,89 @@
 {
-  "id": "h_efr_644e5fd415",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "‘ቲ ምሕረቱ"
+  "id": 352,
+  "title": "‘ቲ ምሕረቱ",
+  "ti": {
+    "chorus": [
+      "‘ቲ ምሕረቱ ዘይነጽፍ ዒላ'ዩ",
+      "ዘይጎድል ዘይውዳእ",
+      "ርህራሄኡ ኣይውዳእን'ዩ",
+      "ይቕረ'ሉኒ ኣምላኸይ ጸዊዑ /2/",
+      "ኃጢኣት እንክሰርሕ ብገዛእ ፍቓደይ",
+      "ኣብ ዓለም ኮብለልኩ መኻሪ ዘይብለይ",
+      "ብብዝሒ ምሕረቱ ነዓይ ጠሚቱኒ",
+      "ጐይታ ብጻውዒት ፍቕሩ ኣጥዒሙኒ",
+      "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+      "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብዝናም ኣብቊሉ ብጸሓይ ኣብሲሉ",
+          "መጊቡኒ ነዓይ ጓለይ ኢኺ ኢሉ",
+          "ጐይታ ቀረበኒ ከይተጸየፈኒ",
+          "ታሪኸይ ቀይሩ ጸጋኡ ሂቡኒ",
+          "መሪር ሓሞት ሰትዩ ናተይ ሞት ሞተለይ",
+          "ኣምላኽ መድኃኔ ዓለም ፍቕሩ ገሊጹለይ",
+          "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+          "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብፍርሃት ክኸይድ ናብ ቅዱስ ከረኑ",
+          "ከምቶም ኣቦታተይ ቅዱሳን ዝኾኑ",
+          "ከመስግኖ ኣነ ኣብ ቤተ መቕደሱ",
+          "ውዕለቱ ክነግር ታሪኹ ከዘንቱ",
+          "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+          "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+        ]
+      }
+    ]
   },
-  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "‘ቲ ምሕረቱ",
-      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
-      "lyrics": "[[chorus]]\nኃጢኣት እንክሰርሕ ብገዛእ ፍቓደይ\nኣብ ዓለም ኮብለልኩ መኻሪ ዘይብለይ\nብብዝሒ ምሕረቱ ነዓይ ጠሚቱኒ\nጐይታ ብጻውዒት ፍቕሩ ኣጥዒሙኒ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)\n[[/chorus]]\n\n‘ቲ ምሕረቱ ዘይነጽፍ ዒላ'ዩ\nዘይጎድል ዘይውዳእ\nርህራሄኡ ኣይውዳእን'ዩ\nይቕረ'ሉኒ ኣምላኸይ ጸዊዑ (2)\n\nብዝናም ኣብቊሉ ብጸሓይ ኣብሲሉ\nመጊቡኒ ነዓይ ጓለይ ኢኺ ኢሉ\nጐይታ ቀረበኒ ከይተጸየፈኒ\nታሪኸይ ቀይሩ ጸጋኡ ሂቡኒ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)\n\nብፍርሃት ክኸይድ ናብ ቅዱስ ከረኑ\nከምቶም ኣቦታተይ ቅዱሳን ዝኾኑ\nከመስግኖ ኣነ ኣብ ቤተ መቕደሱ\nውዕለቱ ክነግር ታሪኹ ከዘንቱ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)"
-    },
-    "ti_ro": {
-      "title": "‘Ti mhretu",
-      "zemari": "liqe mela'kt agelgali goytay",
-      "lyrics": "[[chorus]]\nYqre'luni amlakhey tsewiu (2)\n[[/chorus]]\n\n‘Ti mhretu zeynetsf ila'yu\nZeygodl zeywda\nRhraheu aywdan'yu\nHatiat nkserh bgeza fqadey\nAb alem koblelku mekhari zeybley\nBbzhi mhretu neay temituni\nGoyta btsawit fqru atimuni\n\nBznam abqulu btsehay absilu\nMegibuni neay gwaley ikhi ilu\nGoyta qerebeni keytetseyefeni\nTarikhey qeyru tsegau hibuni\n\nTesekimu hatiatey hmamey tsoreley\nAne nkherf goyta teqetsaley\nMerir hamot setyu natey mot moteley\nAmlakh medhane alem fqru gelitsuley\n\nBfrhat kkheyd nab qdus kerenu\nKemtom abotatey qdusan zkhonu\nKemesgno ane ab bete meqdesu\nWletu knegr tarikhu kezentu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "‘Ti mhretu zeynets'f 'ila'yu",
+      "Zeygodl zeywda",
+      "Rhraheu aywdan'yu",
+      "Yqre'luni amlakhey ts'ewi'u /2/",
+      "Hat'iat nkserh bgeza fqadey",
+      "Ab 'alem koblelku mekhari zeybley",
+      "Bbzhi mhretu ne'ay t'emituni",
+      "Gwayta bts'aw'it fqru at''imuni",
+      "Amlakhey bmhret t'emituni",
+      "Gwaytay'si ts'egau hibuni /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bznam abqwilu bts'ehay absilu",
+          "Megibuni ne'ay gwaley ikhi ilu",
+          "Gwayta qerebeni keytets'eyefeni",
+          "Tarikhey qeyru ts'egau hibuni",
+          "Merir hamot setyu natey mot moteley",
+          "Amlakh medhane 'alem fqru gelits'uley",
+          "Amlakhey bmhret t'emituni",
+          "Gwaytay'si ts'egau hibuni /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bfrhat kkheyd nab qdus kerenu",
+          "Kemtom abotatey qdusan zkhonu",
+          "Kemesgno ane ab bete meqdesu",
+          "W'letu knegr tarikhu kezentu",
+          "Amlakhey bmhret t'emituni",
+          "Gwaytay'si ts'egau hibuni /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
 }

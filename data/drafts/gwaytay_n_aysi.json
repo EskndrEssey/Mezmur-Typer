@@ -1,0 +1,73 @@
+{
+  "id": 452,
+  "title": "ጐይታይ ንዓይሲ",
+  "ti": {
+    "chorus": [
+      "ነዳይ መሲልካ ቤተይ መጺኻኒ",
+      "ፍሉይ ፍቕሪ’ዩ ኣብ ልዕለይ ኣባይ ዘለካ",
+      "ክትባርኸኒ ኣብ ቤተይ ቆጸራ ጌርካ",
+      "ክንዲ ዘፍቀርካ ኣነ ግን ኣሳዲደካ",
+      "ርፍራፍ ሃበኒ ዝበልካ ንስኻ ኢኻ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካበይ ኮነለይ ጐይታየ ክትኣቱ ቤተይ",
+          "ገዛይ መሊኡ በረኸት በዚሑ ጸጋይ",
+          "ኣይንዓቕካንን ብፍጹም ኃጥእ’ዩ ኢልካ",
+          "ክንደይ ይዓዝዝ ጐይታየ እቲ ለውሃትካ/2/",
+          "ኣይበልዕንየ ንበይነይ ብዘይካ ነዳይ",
+          "ሰይጣን ክነድድ ብፍጹም ክሕጎስ ጐይታይ",
+          "ተገሊጽካለይ ኣብ መሬት ብሥላሴኻ",
+          "ተመልኪትካ ኢኻ ጐይታየ ውርደት ባርያኻ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣይሕወስን’የ ምስ ሰዶም ምስ ሰብ ጎሞራ",
+          "ሞት’ዩ ትርፉ ናይ ኃጢኣት ሽግር መከራ",
+          "ይጽበለ’ኹ ጐይታየ ከፊተ ቤተይ",
+          "ስደደለይ ኢኻ መልኣኽካ ርድኣኒ ጐይታይ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Neday mesilka betey mets'ikhani",
+      "Fluy fqri’yu ab l'ley abay zeleka",
+      "Ktbarkheni ab betey qots'era gerka",
+      "Kndi zefqerka ane gn asadideka",
+      "Rfraf habeni zbelka nskha ikha/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kabey koneley gwaytaye ktatu betey",
+          "Gezay meliu berekhet bezihu ts'egay",
+          "Ayn'aqkann bfts'um hat'’yu ilka",
+          "Kndey y'azz gwaytaye ti lewhatka/2/",
+          "Aybel'nye nbeyney bzeyka neday",
+          "Seyt'an knedd bfts'um khgos gwaytay",
+          "Tegelits'kaley ab meret bsslasekha",
+          "Temelkitka ikha gwaytaye wrdet baryakha/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ayhwesn’ye ms sedom ms seb gomora",
+          "Mot’yu trfu nay hat'iat shgr mekera",
+          "Yts'bele’khu gwaytaye kefite betey",
+          "Sdedeley ikha melakhka rdani gwaytay /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

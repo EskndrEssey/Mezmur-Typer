@@ -1,41 +1,101 @@
 {
-  "id": "h_efr_135835fc48",
-  "source": "EFRATA_MEZMUR_BOOK",
-  "status": "draft",
-  "title": {
-    "ti": "ድንቂ ፍቕሪ"
+  "id": 220,
+  "title": "ድንቂ ፍቕሪ",
+  "ti": {
+    "chorus": [
+      "ንዑ ናይ ኣምላኽ ድንቂ ፍቕሪ ተመልከትዎ",
+      "ዕረፍቲ ዝህብ ሰላማዊ ንሱ እዩ’ሞ ኣስተማቕርዎ",
+      "ንኣዳም ከድኅን ዝሓለፎ ስቓይ",
+      "ብትንሣኤኡ ደሚቑ ከም ጸሓይ",
+      "ንዘምር እስኪ ሎሚ ንኣምላኽና",
+      "በረኸት ሰላም ፍቕሪ ከውርደልና",
+      "ሥራሕና ይኹን ንዕኡ ምውዳስ",
+      "ብዛራ ፍቕሩ ሕይወትና ክቕደስ",
+      "እንታይ’ዩ ክእለትና እንታይ’ዩ ህያብና",
+      "ስለ ዝኸፈለ ሕይወቱ በጃና",
+      "ፍቕርና ንግለጽ ንዘምር ብደስታ",
+      "ንኃያል ንጉሥ ነቲ ፈቃር ጐይታ",
+      "እስኪ ንሠውዕ መስዋዕቲ ምስጋና",
+      "ዕልል /2/ ንበል ንሱ’ዩ ንጉሥና",
+      "ጐይታ ውዕለትካ ምስጋናኻ ክነግር",
+      "ንቕሓት ኣእምሮ ሃበና ክንምስክር",
+      "ጥበብ ሃበና ክንስዕራ ንዓለም",
+      "ዓድለና’ባ ክንዝምር ዘልዓለም",
+      "መዝሙር ውዳሴ ቅኔ ንምስጋና",
+      "ወትሩ ንዕኡ ንቕዱስ ኣምላኽና",
+      "ማርያም ተንሥኢ ከበሮኺ ኣልዕሊ",
+      "ምስጋና ይፍሰስ ዝመስጥ ናብ ላዕሊ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምንጪ ማይ ሕይወት ካብ ኣፉ ይፈስስ",
+          "ዝስዕቦ ኵሉ ሕይወቱ ይቕደስ",
+          "ስለ ዝጎየየ መን’ዩ ዝቐደመ",
+          "ፍጹም ኣይኮነን ኵሉ ዝፈለመ",
+          "ትዕቢት ንጸየፍ ንመካሕ ብእግዚአብሔር",
+          "ኣብ ቤቱ ንንበር ሰሠናዩ ንግበር",
+          "ዘይትን ቀንዴልን ነዳሉ ብጊዜ",
+          "ጐይታ ምስ መጽአ ከይከውን ትካዜ",
+          "ኣቱም ድኹማት ናብ መቕደሱ ንዑ",
+          "ደሙ ክትሰትዩ ሥጋኡ ክትበልዑ",
+          "ከዕርፈኩም’ዩ ንዑ ሰዓብዎ",
+          "ዘይውዳእ ፍቕሩ ኣስተማቕርዎ",
+          "ምስ ለመንክምዎ ድልየትኩም ክህበኩም",
+          "ከም ነፋሰ ኣውሎ ብቕልጡፍ ይመጽኣኩም"
+        ]
+      }
+    ]
   },
-  "singer": "ዲ/ን ተስፋዓለም",
-  "langs": {
-    "en": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "ti": {
-      "title": "ድንቂ ፍቕሪ",
-      "zemari": "ዲ/ን ተስፋዓለም",
-      "lyrics": "[[chorus]]\nንኣዳም ከድኅን ዝሓለፎ ስቓይ\nብትንሣኤኡ ደሚቑ ከም ጸሓይ\nንዘምር እስኪ ሎሚ ንኣምላኽና\nበረኸት ሰላም ፍቕሪ ከውርደልና\nሥራሕና ይኹን ንዕኡ ምውዳስ\nብዛራ ፍቕሩ ሕይወትና ክቕደስ\nዜማ መላእክት ይመላእ ልሳንና\nመወዳእታና ፍጹም ክኾነልና\n[[/chorus]]\n\nንዑ ናይ ኣምላኽ ድንቂ ፍቕሪ ተመልከትዎ\nዕረፍቲ ዝህብ ሰላማዊ ንሱ እዩ’ሞ ኣስተማቕርዎ\n\nከም ብሌን ዓይኒ ዝከናኸነና\nንሞትና ሞይቱ ሕይወት ዝሃበና\nእንታይ’ዩ ክእለትና እንታይ’ዩ ህያብና\nስለ ዝኸፈለ ሕይወቱ በጃና\nፍቕርና ንግለጽ ንዘምር ብደስታ\nንኃያል ንጉሥ ነቲ ፈቃር ጐይታ\nእስኪ ንሠውዕ መስዋዕቲ ምስጋና\nዕልል (2) ንበል ንሱ’ዩ ንጉሥና\n\nምንጪ ማይ ሕይወት ካብ ኣፉ ይፈስስ\nዝስዕቦ ኵሉ ሕይወቱ ይቕደስ\nስለ ዝጎየየ መን’ዩ ዝቐደመ\nፍጹም ኣይኮነን ኵሉ ዝፈለመ\nትዕቢት ንጸየፍ ንመካሕ ብእግዚአብሔር\nኣብ ቤቱ ንንበር ሰሠናዩ ንግበር\nዘይትን ቀንዴልን ነዳሉ ብጊዜ\nጐይታ ምስ መጽአ ከይከውን ትካዜ"
-    },
-    "ti_ro": {
-      "title": "Dnqi fqri",
-      "zemari": "di/n tesfa'alem",
-      "lyrics": "Nu nay amlakh dnqi fqri temelketwo\nRefti zhb selamawi nsu yu’mo astemaqrwo\nNadam kedhn zhalefo sqay\nBtnsaeu demiqu kem tsehay\nNzemr ski lomi namlakhna\nBerekhet selam fqri kewrdelna\nSsrahna ykhun nu mwdas\nBzara fqru hywetna kqdes\nZema melakt ymela lsanna\nMewedatana ftsum kkhonelna\nKem blen ayni zkenakhenena\nNmotna moytu hywet zhabena\nNtay’yu kletna ntay’yu hyabna\nSle zkhefele hywetu bejana\nFqrna nglets nzemr bdesta\nNhayal nguss neti feqar goyta\nSki nsew meswati msgana\nLl (2) nbel nsu’yu ngussna\nGoyta wletka msganakha knegr\nNqhat amro habena knmskr\nTbeb habena knsra nalem\nAdlena’ba knzmr zelalem\nMezmur wdase qne nmsgana\nWetru nu nqdus amlakhna\nMaryam tenssi keberokhi alli\nMsgana yfses zmest nab lali\nMnchi may hywet kab afu yfess\nZsbo kwilu hywetu yqdes\nSle zgoyeye men’yu zqedeme\nFtsum aykonen kwilu zfeleme\nTbit ntseyef nmekah bgziabher\nAb betu nnber sesenayu ngber\nZeytn qendeln nedalu bgize\nGoyta ms metsa keykewn tkaze\nAtum dkhumat nab meqdesu nu\nDemu ktsetyu ssgau ktbelu\nKerfekum’yu nu seabwo\nZeywda fqru astemaqrwo\nMs lemenkmwo dlyetkum khbekum\nKem nefase awlo bqltuf ymetsakum\nAstentnwo’ti abiy mhretu\nAmesgnwo kem’tom melakhtu"
-    },
-    "am": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "am_ro": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    },
-    "om": {
-      "title": "",
-      "zemari": "",
-      "lyrics": ""
-    }
-  }
+  "ti_ro": {
+    "chorus": [
+      "N'u nay amlakh dnqi fqri temelketwo",
+      "'Refti zhb selamawi nsu yu’mo astemaqrwo",
+      "Nadam kedhn zhalefo sqay",
+      "Btnssaeu demiqu kem ts'ehay",
+      "Nzemr ski lomi namlakhna",
+      "Berekhet selam fqri kewrdelna",
+      "Ssrahna ykhun n'u mwdas",
+      "Bzara fqru hywetna kqdes",
+      "Ntay’yu kletna ntay’yu hyabna",
+      "Sle zkhefele hywetu bejana",
+      "Fqrna nglets' nzemr bdesta",
+      "Nhayal nguss neti feqar gwayta",
+      "Ski nssew' meswa'ti msgana",
+      "'Ll /2/ nbel nsu’yu ngussna",
+      "Gwayta w'letka msganakha knegr",
+      "Nqhat amro habena knmskr",
+      "T'beb habena kns'ra n'alem",
+      "'Adlena’ba knzmr zel'alem",
+      "Mezmur wdase qne nmsgana",
+      "Wetru n'u nqdus amlakhna",
+      "Maryam tenssi keberokhi al'li",
+      "Msgana yfses zmest' nab la'li"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mnch'i may hywet kab afu yfess",
+          "Zs'bo kwlu hywetu yqdes",
+          "Sle zgoyeye men’yu zqedeme",
+          "Fts'um aykonen kwlu zfeleme",
+          "T'bit nts'eyef nmekah bgziebher",
+          "Ab betu nnber sessenayu ngber",
+          "Zeytn qendeln nedalu bgize",
+          "Gwayta ms mets'e keykewn tkaze",
+          "Atum dkhumat nab meqdesu n'u",
+          "Demu ktsetyu Ssgau ktbel'u",
+          "Ke'rfekum’yu n'u se'abwo",
+          "Zeywda fqru astemaqrwo",
+          "Ms lemenkmwo dlyetkum khbekum",
+          "Kem nefase awlo bqlt'uf ymets'akum"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
 }
