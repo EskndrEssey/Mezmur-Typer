@@ -1,0 +1,53 @@
+{
+  "id": "h_3b1wnewyefq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስጋና ኣምልኾ",
+    "ti_ro": "ምስጋና ኣምልኾ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስጋና ኣምልኾ ስግደት ውዳሴ\nይግባእ በሉ ሰባት ንቅድስት ሥላሴ/2/\nዘልዓለም ዓለም ቅዱስ ኢኻ\nዝወዳደረካ የለን ዝመስለካ\nንኣምኖ ዋልታ ኮይንካልና\nሥላሴ ብኣኻ ደስ ይብለና\n[[/chorus]]\n\nዝተኣምነ’ዩ ዝተፈርሐ\nናይ ጽድቂ ፀሓይ እናብረሀ\nዓለም ጸኒዓ ብሥላሴ\nትዝምረሉ ኣላ ነፍሰይ\nዘመን ዘሕልፍ ኵሉ ኣብ ኢዱ\n‘ቲ ዓወት ምስዓር ኵሉ ናቱ\nመድረኽ ናይ ሓዊ ዘለዎ እግዚአብሔር\nፍጹም ዘይሓልፍ ዘይሰዓር\n\nኣሚኑ ኣብርሃም ተሰደ\nኣብ እርግናኡ ወዲ ወለደ\nዓለም ጸኒዓ ብሥላሴ\nትዝምረሉ ኣላ ነፍሰይ",
+    "ti_ro": "[[chorus]]\nMsgana amlkho sgdet wdase\nYgba belu sebat nqdst Sslase/2/\nZel'alem 'alem qdus ikha\nZwedadereka yelen zmesleka\nNamno walta koynkalna\nSslase bakha des yblena\n[[/chorus]]\n\nZteamne’yu zteferhe\nNay ts'dqi ts'ehay nabrehe\n'Alem ts'eni'a bsslase\nTzmrelu ala nefsey\nZemen zehlf kwlu ab idu\n‘Ti 'awet ms'ar kwlu natu\nMedrekh nay hawi zelewo gziebher\nFts'um zeyhalf zeyse'ar\n\nAminu abrham tesede\nAb rgnau wedi welede\n'Alem ts'eni'a bsslase\nTzmrelu ala nefsey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 128,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

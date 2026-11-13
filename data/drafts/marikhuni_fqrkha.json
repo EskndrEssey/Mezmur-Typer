@@ -1,0 +1,53 @@
+{
+  "id": "h_62j22tezz4s",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ማሪኹኒ ፍቕርኻ",
+    "ti_ro": "ማሪኹኒ ፍቕርኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእግዚእ ኣዶናይ ሰንደቕካ ፍቕሪ\nምልኣት ሳሕልኻ ሕይወት የዛሪ\nብፍቕሪ ትረትዕ ፈቃር’ዩ ባህሪኻ\nፈቲነ ነፍሰይ ክጥብራ ንሕልናይ ኣድኒነ\nሕልፊ ‘ቶም ዝተሳዕሩ ፍጹም ርግኣት ስኢነ\nክናወጽ!!\nዘይትታኸስ ጓሳ ኣውያተይ ሰሚዕኻ\nኣበይ ‘ሎኻ ኢልካኒ ሕሉፈይ ጐሲኻ\nተመስገን በጺሑኒ ምሕረትካ\nማሪኹኒ ፍቕርኻ\n[[/chorus]]\n\nእሙን ቃልካ እንከሎ ነእጋረይ ዘቖመ\nብምውልዋለይ ንታሕቲ ተሸሚመ\nኣዕሚቖም ተስፋይ ንኽቐብሩ ማዕበላት ተሃውኩ\nሞተይ ምስ ተቓረበ ጐይታይ ስምካ ጸዋዕኩ\nብጻዕሪ!!\n\nኣይመነንካንን ግን ኢድካ ዘርጊሕካለይ\nመንጢልካ ኣውጺእካኒ ካብ ማእከል ጸላእተይ\nኣምሊጠ ተጸይረ ብጸጋኻ\nማሪኹኒ ፍቕርኻ\nንርእስኻ ኣትሒትካ ክብረይ ንኽትመልስ\nገንሸል ጽድቂ ኮይንካ ኣነ ሕይወት ኽቐምስ\nመተካእታ የብሉን ፍቕርኻ ኣብ ሕይወተይ\nድምቀቱ ኣይጽምሉን ወትሩ ብሩህ’ዩ ኣብ ልበይ\nጐይታየ!!\nምሕረትካ ዘይስዕሮ ኃጢኣት ፍጹም የለን\nኣድማስ ኣይውስኖን ንዅሉ‘ዩ ዝኸድን\nድንቂ’ዩ መሲጡኒ ውዕለትካ\nማሪኹኒ ፍቕርኻ",
+    "ti_ro": "[[chorus]]\nGzi adonay sendeqka fqri\nMlat sahlkha hywet yezari\nBfqri tret' feqar’yu bahrikha\nFetine nefsey kt'bra nhlnay adnine\nHlfi ‘tom ztesa'ru fts'um rgat sine\nKnawets'!!\nZeyttakhes gwasa awyatey semi'kha\nAbey ‘lokha ilkani hlufey gwasikha\nTemesgen bets'ihuni mhretka\nMarikhuni fqrkha\n[[/chorus]]\n\nMun qalka nkelo negarey zeqome\nBmwlwaley ntahti teshemime\nA'miqom tesfay nkhqebru ma'belat tehawku\nMotey ms teqarebe gwaytay smka ts'ewa'ku\nBts'a'ri!!\n\nAymenenkann gn idka zergihkaley\nMent'ilka awts'ikani kab makel ts'elatey\nAmlit'e tets'eyre bts'egakha\nMarikhuni fqrkha\nNrskha athitka kbrey nkhtmels\nGenshel ts'dqi koynka ane hywet khqems\nMetekata yeblun fqrkha ab hywetey\nDmqetu ayts'mlun wetru bruh’yu ab lbey\nGwaytaye!!\nMhretka zeys'ro hat'iat fts'um yelen\nAdmas aywsnon nkhwlu‘yu zkhedn\nDnqi’yu mesit'uni w'letka\nMarikhuni fqrkha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 413,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

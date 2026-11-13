@@ -1,0 +1,53 @@
+{
+  "id": "h_6oheyqthtto",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘእምደብረ ደናግል",
+    "ti_ro": "ዘእምደብረ ደናግል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘእምደብረ ደናግል /2/ ኣባ ኤልያስ\nወትሩፈ ምግባር ኣረጋዊ ዘውገ ሙሴ ወገብረ ክርስቶስ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nZemdebre denagl /2/ aba elyas\nWetrufe mgbar aregawi zewge muse wegebre krstos\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 202,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

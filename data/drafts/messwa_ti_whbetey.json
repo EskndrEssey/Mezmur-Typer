@@ -1,0 +1,53 @@
+{
+  "id": "h_0sen830zz53",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መሥዋዕቲ ውህበተይ",
+    "ti_ro": "መሥዋዕቲ ውህበተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመሥዋዕቲ ውህበተይ ምስጋና ካብ ኮነ\nብበገና፥ ብኸበሮ፥ ብጸናጽል ተወሲነ\nክዝምረልካየ ብሓድሽ ቅኔ(2)\nሰንከልከል ክብል ብፈተና ዓለም\nደጋፊ ዘይብለይ ኣብቲ ድቕድቕ ጸላም\nቀንዴል ፍኖተይ ኴንካ ጸልማተይ ጋሊህካዮ\nመሪሕካስ ኣእቲኻኒ ቤትካ ንኽርእዮ\nብልግሲ ፍቕርኻ ጸጋ ተዓዲለ’የ  ባርያኻ\nብክቡር ደምካስ ጐይታይ ነፍሰይ ቀዲስካዮ\nኤልሻዳይ ንጉሥ ርትዒ ሰላመይ መሊስካዮ ‘\n[[/chorus]]\n\nብጕዕዞ ቃዴስ ረመጽ ምድረ በዳ\nሰሪ ጽምኢ ጽድቂ ኣብራኽ ክቕየዳ\nኣድኃነኒ ግን ጐይታይ ብተበጃውነቱ\nእንሆ’ኳ አመስግን ከዘንቱ ውዕለቱ\n\nትዕዝብቲ ልበይ ናይ ትማል ፍጻመ\nብፁዕ እንክበሃል ብእምነት ተኃቲመ\nብሞት ንጹሕ ገንሸል ሓጐስ ተደሪረ\nብርሃኑ’ኳ ወሊዐስ ከመስግን ሓዲረ",
+    "ti_ro": "[[chorus]]\nMesswa'ti whbetey msgana kab kone\nBbegena: bkhebero: bts'enats'l tewesine\nKzmrelkaye bhadsh qne(2)\nSenkelkel kbl bfetena 'alem\nDegafi zeybley abti dqdq ts'elam\nQendel fnotey kwenka ts'elmatey galihkayo\nMerihkas atikhani betka nkhryo\nBlgsi fqrkha ts'ega te'adile’ye  baryakha\nBkbur demkas gwaytay nefsey qediskayo\nElshaday nguss rt'i selamey meliskayo ‘\n[[/chorus]]\n\nBgw'zo qades remets' mdre beda\nSeri ts'mi ts'dqi abrakh kqyeda\nAdhaneni gn gwaytay btebejawnetu\nNho’kwa emesgn kezentu w'letu\n\nT'zbti lbey nay tmal fts'ame\nBts'u' nkbehal bmnet tehatime\nBmot nts'uh genshel hagwas tederire\nBrhanu’kwa weli'es kemesgn hadire",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 178,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

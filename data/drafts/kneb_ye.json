@@ -1,0 +1,53 @@
+{
+  "id": "h_53z2sn96okx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክነብዕ’የ",
+    "ti_ro": "ክነብዕ’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክነብዕ’የ ወትሩ ክበኪ’የ\nንጐይታ ኣምላኸይ ብዙሕ በዲለ’የ\nገዓረይ ኣውያተይ ተቐበለኒ\nምስኪን ኮይነ ’ለኹ ኃጢአት ዘድከመኒ/2/\nልበይ ኣቤት በል ክጽውዕ ኣምላኽካ\nብሓዘን ብብኽያት ኣፍልጥ ትካዜኻ\nበደለይ ፈሊጠ ምሕረትካ ክጥይቕ\nመሓሪ ኢኻ’ሞ ፍጡር ዘይትንዕቕ\n[[/chorus]]\n\nመጋረጃ ኃጢአት ንፊተይ ሸፈኖ\nኣካለይ ማህመነ ምቛም ተሳእኖ\nኢኺ’ሞ ኣብ ቅድሚኡ በዓል ክብሪ ሞገስ\nእመቤት ለምኒ ናብ ፍቁር ክርስቶስ\nጉልበተይ ንስኻ መበርትዒ ሓይለይ\nበደለይ ደምስሶ ኩነለይ መምህረይ\nካብ በደል ክርሕቕ ኣእዳውካ ዘርጊሕካ\nሕጂ ግን ኣሚነ ከም እተጋገኹ\nብርኹስ ኣንደበት ንዓኻ ለመንኩ",
+    "ti_ro": "[[chorus]]\nKneb'’ye wetru kbeki’ye\nNgwayta amlakhey bzuh bedile’ye\nGe'arey awyatey teqebeleni\nMskin koyne ’lekhu hat'iet zedkemeni/2/\nLbey abet bel kts'w' amlakhka\nBhazen bbkhyat aflt' tkazekha\nBedeley felit'e mhretka kt'yq\nMehari ikha’mo ft'ur zeytn'q\n[[/chorus]]\n\nMegareja hat'iet nfitey shefeno\nAkaley mahmene mqwam tesano\nIkhi’mo ab qdmiu be'al kbri moges\nMebet lemni nab fqur krstos\nGulbetey nskha mebert'i hayley\nBedeley demsso kuneley memhrey\nKab bedel krhq adawka zergihka\nHji gn amine kem tegagekhu\nBrkhus andebet n'akha lemenku",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 838,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

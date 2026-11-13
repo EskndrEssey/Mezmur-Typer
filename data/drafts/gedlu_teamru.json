@@ -1,0 +1,53 @@
+{
+  "id": "h_4z8ljlpmr6r",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ገድሉ ተኣምሩ",
+    "ti_ro": "ገድሉ ተኣምሩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕጹብ ድንቂ'ዩ ስልጣኑ ክብሩ\nናይ ተክለሃይማኖት ገድሉ ተኣምሩ\nፈውሲ ረኺብና ብእምነት ጸበሉ\nቅዱስ ማሕደሩ ቀዲሱ ነፍሰይ\nለዊጥዎ'ዩ ንጸልማት ገድለይ\nምስ መኣዛ ዕጣን ዓሪጉ ጸሎት\nበረኸት ሰላም ወሪዱ ምሕረት\nመድኃኒት ኣልቦ ሕሱም ሕማመይ\nገድሉ እንክንበብ ቀሊሉ ሰኽመይ\nኣዕሪፈ`የ ደስታ ኣስተንፊሰ\nሓድሽ ኣካለይ ሕጂ ለቢሰ\n[[/chorus]]\n\nቅዱስ እምነቱ ቤተይ ነስኒሰ\nተንሲኤ ሕጂ ጸጋ ሓፊሰ\nብፍኖት እግሩ ወዱ ሰጎምኩ\nገድሉ ተኣምሩ እናተሰከምኩ\n\nዲ/ን ትዝታው ሳሙኤል",
+    "ti_ro": "[[chorus]]\n'Ts'ub dnqi'yu slt'anu kbru\nNay teklehaymanot gedlu teamru\nFewsi rekhibna bmnet ts'ebelu\nQdus mahderu qedisu nefsey\nLewit'wo'yu nts'elmat gedley\nMs meaza 't'an 'arigu ts'elot\nBerekhet selam weridu mhret\nMedhanit albo hsum hmamey\nGedlu nknbeb qelilu sekhmey\nA'rife`ye desta astenfise\nHadsh akaley hji lebise\n[[/chorus]]\n\nQdus mnetu betey nesnise\nTensie hji ts'ega hafise\nBfnot gru wedu segomku\nGedlu teamru natesekemku\n\nDi/n tztaw samuel",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 31,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_t77pmpnmkhu",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጉንዲ ዓይነይ",
+    "ti_ro": "ጉንዲ ዓይነይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጉንዲ ዓይነይ’ዩ ሰራውር ሰዲዱለይ\nሰሪቡ ኣበሳይ ጋሪዱ ንውነይ\nከምቲ ክርዳድ ብኣጋ ከይምሖ\nእቲ ሓሳባተይ ኣይነጽሀን ብኣምሆ\nዘድክመኒ ኃጢኣት ኣብ ደመይ የስርጾ\nናኽድመር በደል ስዕረት የናውጾ\nሓበላ ጉንዲ ዓይነይ ንውሽጢ ሶሊኹ\nሕዱር ቃንዛይ መዘዝ ዘልዓለም ወሲኹ\n[[/chorus]]\n\nበሰር ካልኦት ይፍትን ክርኢ\nይህወኽ ይዝምብል ንጥፍኣት የሳሲ\nከም ትውፊት ክፉኣት ዝቓደረ ዛንታ\nብሰንኪ ልማደይ ስኢነ መስታ\nኃጢኣት ሞት ምዃኑ ምእንቲ ክግለጽ\nሰናይ እንክመስል ብሕሜት ይርገጽ\nንመን’የ ክህቦ እቲ ሐሕማቑ\nእምብዛ ማሕዲገ ሕሊናይ ደሪቑ\nክቡር ሰብ እየ ኣነ ኣርኣያ ሥላሴ\nግና ይዘንበኒ’ቲ ከንቱ ውዳሴ\nኣነ እንከለኹ ብኣምላኽ ዝዳነ\nኵሉ ሃዲሙኒ ምዃን ኣብየ ኣነ\n\nኣይትሕሰሙ ኣሕዋት ጸገም’የ ረኺበ\nኣብ ትረት ናይ ልበይ ምሒርየ ከኒበ\nለምኑለይ ንዓይ ኣመለይ ክገድፎ\nጉንዲ ዓይነይ ከጽርዮ ‘ናማተይ ክንሕፎ",
+    "ti_ro": "[[chorus]]\nGundi 'ayney’yu serawr sediduley\nSeribu abesay garidu nwney\nKemti krdad baga keymho\nTi hasabatey aynets'hen bamho\nZedkmeni hat'iat ab demey yesrts'o\nNakhdmer bedel s'ret yenawts'o\nHabela gundi 'ayney nwsht'i solikhu\nHdur qanzay mezez zel'alem wesikhu\n[[/chorus]]\n\nBeser kalot yftn kri\nYhwekh yzmbl nt'fat yesasi\nKem twfit kfuat zqadere zanta\nBsenki lmadey sine mesta\nHat'iat mot mkhwanu mnti kglets'\nSenay nkmesl bhmet yrgets'\nNmen’ye khbo ti hehmaqu\nMbza mahdige hlinay deriqu\nKbur seb ye ane araya Sslase\nGna yzenbeni’ti kentu wdase\nAne nkelekhu bamlakh zdane\nKwlu hadimuni mkhwan abye ane\n\nAythsemu ahwat ts'egem’ye rekhibe\nAb tret nay lbey mhirye kenibe\nLemnuley n'ay ameley kgedfo\nGundi 'ayney kets'ryo ‘namatey knhfo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 304,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

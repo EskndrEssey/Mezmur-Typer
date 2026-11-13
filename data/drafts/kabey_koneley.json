@@ -1,0 +1,53 @@
+{
+  "id": "h_e2gpibkn1rg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ካበይ ኮነለይ",
+    "ti_ro": "ካበይ ኮነለይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\n‘ዚ ዅሉ ፍቕሪ ካበይ ኮነለይ\nጸጋኻ’ዩ ጐይታ ዓዚዙ ኣብ ልዕለይ\nየብለይን ውሬታ ንዓኻ ዝበቕዓካ\nምስጋና’ዩ ህያበይ ክዝምረልካ\nነጸብራቕ ናይ ዓለም ፍትወታ ኣስዲዑኒ\nኮብሊለ ካብ ቤተይ ኣብ ከንቱ ከዕነኒ\nሎሚ ከስተንትኖ ምስ ፈለጥኩ ውነይ\nንሓጢኣት ክህንደድ በቲኸዮ ልጓመይ\nፍቕርኻ ለጊስካ ዘይርከቦ መልሲ\nንዘይረዊ ባህጊ ደኺሙኒ ከሳሲ\nጓሂ ልበይ ርኢኻ ፍሽኽታ ዝተጋረደ\nለጊስካለይ ፍቕርኻ ፍጹም’የ ተኣቢደ /2/\nመንፈሰይ ዘድከመ ሞቕሐይ ሴርካዮ\nብብርሃን መስቀልካ ጸላም ጋሊህካዮ\nመግነዘይ ፈቲሕካ ካብ ሞት ኣንቂሕካኒ\nሓዲስካ ዘመነይ ዳግማይ ፈጢርካኒ\nታሪኸይ ቀይርካዮ ባርያኻስ ተማሒረ\nተመስገን ክበረለይ ደጊም ምንባር ጀሚረ /2/\n[[/chorus]]\n\n‘ታይ ኣምሃ ኣሎኒ ኣምሳያ ውዕለትካ\nምስጋናይ ተቐበል ካብ ጸጋ ውህበትካ\nገና ክዝምር’የ በዚ ድሩት ዓቕመይ\nዘይነጽፍ ውዳሴ ዓቚሩ’ሎ ኣብ ልበይ\nቀዲስካያ ልሳነይ መዝሙር ኮይኑ ቅኒታ\nፈልፊለ ቅዱስ ቅኔ ከኽብረካ’የ ጐይታ /2/",
+    "ti_ro": "[[chorus]]\n‘Zi khwlu fqri kabey koneley\nTs'egakha’yu gwayta 'azizu ab l'ley\nYebleyn wreta n'akha zbeq'aka\nMsgana’yu hyabey kzmrelka\nNets'ebraq nay 'alem ftweta asdi'uni\nKoblile kab betey ab kentu ke'neni\nLomi kestentno ms felet'ku wney\nNhat'iat khnded betikheyo lgwamey\nFqrkha legiska zeyrkebo melsi\nNzeyrewi bahgi dekhimuni kesasi\nGwahi lbey rikha fshkhta ztegarede\nLegiskaley fqrkha fts'um’ye teabide /2/\nMenfesey zedkeme moqhey serkayo\nBbrhan mesqelka ts'elam galihkayo\nMegnezey fetihka kab mot anqihkani\nHadiska zemeney dagmay fet'irkani\nTarikhey qeyrkayo baryakhas temahire\nTemesgen kbereley degim mnbar jemire /2/\n[[/chorus]]\n\n‘Tay amha aloni amsaya w'letka\nMsganay teqebel kab ts'ega whbetka\nGena kzmr’ye bezi drut 'aqmey\nZeynets'f wdase 'aqwiru’lo ab lbey\nQediskaya lsaney mezmur koynu qnita\nFelfile qdus qne kekhbreka’ye gwayta /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 411,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

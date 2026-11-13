@@ -1,0 +1,53 @@
+{
+  "id": "h_jv79ph8o3bp",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ጐይታይ ወላዲት",
+    "ti_ro": "ናይ ጐይታይ ወላዲት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ጐይታይ ወላዲት ማርያም\nናይ ጸሎተይ ምዕራግ ማርያም\nዝምክሓላ ሰንደቕ ዕላማይ\nንዒ ክብላየ ከም ኣቦታተይ\nናይ ሰላምታኺ ድምጺ ሰሚዔ\nበርቲዔ'ለኹ ተጸናኒዔ\nብፍጹም ሓጎስ  ንውዳሴኺ\nክዝምር'የ መጺአ ኣብ ቅድሜኺ\nተማሪኹ'ዩ ብኣኺ ልበይ\nፍረ ረኺቡ ብድንግል ጉዕዞይ\nሓቀኛ መሶብ ኣደ ናይ ጐይታይ\nተማሪኻ'ያ ሎምስ ሕይወተይ\n[[/chorus]]\n\nብዘይ ጥርጣረ ሓቀኛ ምብራቕ\nብርሃን ኮይኑለይ ደስታ ምስ ሰሓቕ\nናይ ሰላም ወደብ ቦታ ናይ ሕይወት\nከርሰይ ጸጊቡ ብጐይታ ጎይቶት\nቋንቋ ናተይ'ኺ መዘራረቢት\nኣደ ክርስቶስ ለዋህ ርግቢት\nሰላም ለኪ ተስፋ ቅቡጻን\nቅንዕ ኢለ'የ ተሪፉ ምድናን\nታሪኽ ኮይኑ'ዩ ዘመን ናይ ጸልማት\nምስ ወለድክለይ ንጐይታ ጎይቶት\nምኽንያት ኣሎኒ ዝዝምረልኪ\nሓቀኛ ብርሃን ጐይታ ወሊድኪ",
+    "ti_ro": "[[chorus]]\nNay gwaytay weladit maryam\nNay ts'elotey m'rag maryam\nZmkhala sendeq 'lamay\nN'i kblaye kem abotatey\nNay selamtakhi dmts'i semi'e\nBerti'e'lekhu tets'enani'e\nBfts'um hagos  nwdasekhi\nKzmr'ye mets'ie ab qdmekhi\nTemarikhu'yu bakhi lbey\nFre rekhibu bdngl gu'zoy\nHaqenya mesob ade nay gwaytay\nTemarikha'ya loms hywetey\n[[/chorus]]\n\nBzey t'rt'are haqenya mbraq\nBrhan koynuley desta ms sehaq\nNay selam wedeb bota nay hywet\nKersey ts'egibu bgwayta goytot\nQwanqwa natey'khi mezerarebit\nAde krstos lewah rgbit\nSelam leki tesfa qbuts'an\nQn' ile'ye terifu mdnan\nTarikh koynu'yu zemen nay ts'elmat\nMs weledkley ngwayta goytot\nMkhnyat aloni zzmrelki\nHaqenya brhan gwayta welidki",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 363,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

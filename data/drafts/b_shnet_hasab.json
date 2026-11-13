@@ -1,0 +1,53 @@
+{
+  "id": "h_dy1kclxvw4f",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብዕሽነት ሓሳብ",
+    "ti_ro": "ብዕሽነት ሓሳብ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብዕሽነት ሓሳብ ብህርፋን ንስልጣን\nናብ ደልሃመት ኣትየ ብጥበብ ናይ ሰይጣን\nኣይተረድኣንን ከምዘምለኽኩ ንመን\nእዚ ኵሉ ውርደት ኣባይ ኣይምበጽሐን /2/\nክሓስብ ኔሩኒ ኣርሒቐ ክጥምት\nርዒሙ ግን ልበይ ብናይ ሔዋን ቃላት\nፍጹም ስኢነሉ ንምንባር መቐረት\nዝባነይ ምስ ሃብኩ ነታ ምውቕቲ ቤት\n[[/chorus]]\n\nከወግድ ኔሩኒ ካብ ብልዒ ንበለስ\nስምብራት መርሓቕኩ ፈጺሙ ዘይድምሰስ\nንኣምላኽ ዘኪረ ከም ምዃኑ ፍቕሪ\nንስሓ ኣተኹ ኣበሳይ ከስተስሪ\n\nለሚነየ ኣነ ፈጺመ ብልበይ\nመድኅን ክመጸኒ ካብቲ ላዕላይ ሰማይ\nይከኣሎ’ዩ ታኦስ ኵሉ ክገብረለይ\nክዘልል ክዝምር ከም እተፈትሐት ብተይ",
+    "ti_ro": "[[chorus]]\nB'shnet hasab bhrfan nslt'an\nNab delhamet atye bt'beb nay seyt'an\nAyteredann kemzemlekhku nmen\nZi kwlu wrdet abay aymbets'hen /2/\nKhasb neruni arhiqe kt'mt\nR'imu gn lbey bnay hewan qalat\nFts'um sinelu nmnbar meqeret\nZbaney ms habku neta mwqti bet\n[[/chorus]]\n\nKewegd neruni kab bl'i nbeles\nSmbrat merhaqku fets'imu zeydmses\nNamlakh zekire kem mkhwanu fqri\nNsha atekhu abesay kestesri\n\nLemineye ane fets'ime blbey\nMedhn kmets'eni kabti la'lay semay\nYkealo’yu taos kwlu kgebreley\nKzell kzmr kem tefethet btey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 310,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

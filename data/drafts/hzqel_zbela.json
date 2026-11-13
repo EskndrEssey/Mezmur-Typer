@@ -1,0 +1,53 @@
+{
+  "id": "h_innt0m0niwd",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሕዝቅኤል ዝበላ",
+    "ti_ro": "ሕዝቅኤል ዝበላ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሕዝቅኤል ዝበላ ዕጽውቲ ገዛ\nኣትዩ ዝወጸላ ጐይታ ብዕጽውታ\nናይ ኣምላኽ ማሕደር`ያ\nማንም ዘይኣትዋ ንጽህቲ ኣዴና\nናይ ድኅነት ምልክት ንጽህቲ ኣዴና\nካብ ኣምላኽ ብሓጢኣት ርሒቕና ነበርና\nናይ ዓለም መድኃኒት ኣባኺ ሓዲሩ\nክውለድ’ዩ ኢልዋ\nካብ ኣንስቲ ኩለን ዝተፈተኺ\nናይ እሳት መለኮት መሕደሪ ዝኾንኪ\nድንግል ብሕሊና ድንግል ብስጋኺ\nመን ኣሎ ከማኺ\n[[/chorus]]\n\nብመንን እንታይን ክንምስለኪ\nዕጹብ ድንቂ እዩ ድንግል’ቲ ስራሕኪ\nኣባ ህርያቆስ ከም ዘመስገነኪ\nድንግል ክብርቲ ኢኺ",
+    "ti_ro": "[[chorus]]\nHzqel zbela 'ts'wti geza\nAtyu zwets'ela gwayta b'ts'wta\nNay amlakh mahder`ya\nManm zeyatwa nts'hti adena\nNay dhnet mlkt nts'hti adena\nKab amlakh bhat'iat rhiqna neberna\nNay 'alem medhanit abakhi hadiru\nKwled’yu ilwa\nKab ansti kulen ztefetekhi\nNay sat melekot mehderi zkhonki\nDngl bhlina dngl bsgakhi\nMen alo kemakhi\n[[/chorus]]\n\nBmenn ntayn knmsleki\n'Ts'ub dnqi yu dngl’ti srahki\nAba hryaqos kem zemesgeneki\nDngl kbrti ikhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 488,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_nhsb2cn6baj",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተመስገን ከመስግነካ’የ",
+    "ti_ro": "ተመስገን ከመስግነካ’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተመስገን ከመስግነካ’የ\nንሳህሊ ምሕረትካ ንፍቕርኻ ርእየ\nተመስገን ስዓበኒ ኢልካኒ\nብቅኑዕ ጎደና መሪሕካኒ\n[[/chorus]]\n\nፈሊኻ ጸዊዕካኒ ንስምካ ከልዕል ንሰንደቕ ዕላማይ\nኣሰሊፍካኒ እሙን ክኸውን ዝተግህ ዓቐይታይ\nኣጽዋረይ ሒዘ ኣንጊሀ ክወፍር\nዝተቐደሰት መንግስትኻ ከኽብር\nምስ ክልተ ጎይቶት ሓንኪሰ ከይነብር\nሕማቕ ከይከውን ሰነፍ ወተሃደር\nዕርፈይ ኣጽኒዐ ንቕድሚት ክጥምት\nኣሰንየኒ ክሳብ እታ ዕለት\n\nብስምካ ክወናጨፍ ዘንደልህጽ ኲናት ናይ ምድሓንካ ቀስቲ\nኣብ የማነይ እልፊ ኣብ ጥቓይ’ውን ሽሕ ክወድቁ ጸላእቲ\nበጃ ባሮቱ ነፍሱ ዝህብ ንጉስ\nኣብ ምድሪ የለን ዘደንቕ’ዩ ናትካስ\nንሕናስ ንስመ ከም ኣገልገልትኻ\nዝተገልገልናዮ ይበዝሕ ካባኻ",
+    "ti_ro": "[[chorus]]\nTemesgen kemesgneka’ye\nNsahli mhretka nfqrkha rye\nTemesgen s'abeni ilkani\nBqnu' godena merihkani\n[[/chorus]]\n\nFelikha ts'ewi'kani nsmka kel'l nsendeq 'lamay\nAselifkani mun kkhewn ztegh 'aqeytay\nAts'warey hize angihe kwefr\nZteqedeset mengstkha kekhbr\nMs klte goytot hankise keynebr\nHmaq keykewn senef wetehader\n'Rfey ats'ni'e nqdmit kt'mt\nAsenyeni ksab ta 'let\n\nBsmka kwenach'ef zendelhts' kwinat nay mdhanka qesti\nAb yemaney lfi ab t'qay’wn shh kwedqu ts'elati\nBeja barotu nefsu zhb ngus\nAb mdri yelen zedenq’yu natkas\nNhnas nsme kem agelgeltkha\nZtegelgelnayo ybezh kabakha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 351,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_c82or4rqb3w",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍረድንግል ማርያም",
+    "ti_ro": "ፍረድንግል ማርያም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍረ ድንግል ማርያም ኢየሱስ ክርስቶስ/2/\nክብርኻ ክወርስ ፍፁም መንግስትኻ\nመስቀልካ ክስከም ከመስግን ንዓኻ/2/\n[[/chorus]]\n\nትእዛዝካ ኣፍሪሰ ኣነስ በዲለካ\nሕያዋይ ሳምራዊ ንዓይ ምሕረት ሂብካ\nክብርኻ ወሪሰ ሞተይ ሓሊፍካዮ\nናይ ዕዳ መጽሓፈይ ጎይታ ቀዲድካዮ/2/\nሕይወት ናትካ እዩ ድሕነት ዘለዓለም\nበደለይ ደምስሶ ክነብር ብሰላም\nኃጢኣተይ ኣሚነ ናባኻ ክምለስ\nንኸመስግነካ ኢለ ክበር ቅዱስ/2/\n\nካብ ብዝሒ ኃጢኣተይ በቃ መልሰኒ\nብቅዱስ መስቀልካ ነዓ ባርኸኒ\nቅዱስ ስጋ ደምካ ብፍቕሪ ክወስዶ\nፍቓድካ ኮይንለይ ቀራንዮ ክኸዶ/2/",
+    "ti_ro": "[[chorus]]\nFre dngl maryam iyesus krstos/2/\nKbrkha kwers fts'um mengstkha\nMesqelka kskem kemesgn n'akha/2/\n[[/chorus]]\n\nTzazka afrise anes bedileka\nHyaway samrawi n'ay mhret hibka\nKbrkha werise motey halifkayo\nNay 'da mets'hafey goyta qedidkayo/2/\nHywet natka yu dhnet zele'alem\nBedeley demsso knebr bselam\nHat'iatey amine nabakha kmles\nNkhemesgneka ile kber qdus/2/\n\nKab bzhi hat'iatey beqa melseni\nBqdus mesqelka ne'a barkheni\nQdus sga demka bfqri kwesdo\nFqadka koynley qeranyo kkhedo/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 426,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

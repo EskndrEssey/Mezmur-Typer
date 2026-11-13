@@ -1,0 +1,53 @@
+{
+  "id": "h_c9tymwjh6rk",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስጋና ይምላእ",
+    "ti_ro": "ምስጋና ይምላእ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስጋና ይምላእ ኣብ ጉባኤ\nስሙ ድንቂ’ዩ ኣዶናይ\nኣብ ማእከል እሳት ዝመላለስ\nንድምጺ ማዕበል`ውን ዝግስጽ\n[[/chorus]]\n\nርእሲ ጠቢባን ጥበበኛ\nፍትሒ ዘውጽእ ቅኑዕ ዳኛ\nበዓል ግርማ’ዩ ዝተፈርሐ\nምስጢር ዕምቆቱ ዝሰፍሐ\nሓይሉን ቅልጽሙን ተደጊፍና\nስሙ ጸዊዕና ድኂንና ኢና\nመን’ዩ ዝቃወም ዘፍርሓና\nትብዓት ዘስንቕ ኣቦ ኣሎና\n\nሓያላን ፈርሑ ክብሩ ርእዮም\nነፍሳት ዘለሉ ካብ ሞት ወጺኦም\nመጽንዒና’ዩ ትምክሕትና\nዝፋኑ ይብጻሕ ምስጋናና",
+    "ti_ro": "[[chorus]]\nMsgana ymla ab gubae\nSmu dnqi’yu adonay\nAb makel sat zmelales\nNdmts'i ma'bel`wn zgsts'\n[[/chorus]]\n\nRsi t'ebiban t'bebenya\nFthi zewts' qnu' danya\nBe'al grma’yu zteferhe\nMst'ir 'mqotu zsefhe\nHaylun qlts'mun tedegifna\nSmu ts'ewi'na dhinna ina\nMen’yu zqawem zefrhana\nTb'at zesnq abo alona\n\nHayalan ferhu kbru ryom\nNefsat zelelu kab mot wets'iom\nMets'n'ina’yu tmkhtna\nZfanu ybts'ah msganana",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 123,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

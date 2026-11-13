@@ -1,0 +1,53 @@
+{
+  "id": "h_7fpvi8xz3in",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ውሰድ ጐይታ",
+    "ti_ro": "ውሰድ ጐይታ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከቢብካኒ ብማዕረግ ክብሪ\nሰሊምካኒ ኣኽሊል ናይ ክብሪ\nዋላ ይውሓድ ጉልበት ምስጋናይ\nውሰድ ጐይታ እቲ ዝርካበይ\nጣዕሚ ኢኻ ንሕይወተይ\nምኡዝ ሽቶ ጽጌረዳይ\nዘሪፍካዮ ነዚ ልበይ\nይኹን ናትካ ኵለንተናይ\nርውራዌኻ ሕልፊ ኣደ\nፍጹም ሰላም እናሰደደ\nኣብጺሑኒ ናብዚ ዕለት\nፍስኅ ኢለ ኮይኑ ሃሴት /2/\n[[/chorus]]\n\nተኸዲነ ልብሲ ጸጋ\nደሚቐ’የ ብፍሽኽታ\nእንታይ ክብል ደስ ኢሉኒ\nተባሪኸ ረዲእካኒ\nቅብኣትካ’ዩ ተንኪፉኒ\nዓወት ሰላም ሰፊኑኒ\nተዘለልኩ ብኸበሮ\nውዕለት ናትካ ኣይዝርዝሮ /2/\nደስታ ሓቂ ዘገንፈሎ\nዓይነይ ንብዓት ቋጺሩ’ሎ\nይውረድ ይፍሰስ ኣብ ምዕጉርተይ\nኣይክልክሎን ሓጎስ ልበይ\nይዛረብ’ዩ ይብል ከማን\nቋንቋ ገጸይ ልዕሊ ልሳን\nኣጽጊብካኒ ብበረኸት\nሰናይ ኢኻ በዓል ውዕለት\nዘውዲ ወርቂ ደፊኤ’የ\nኣኽሊል ክብሪ ተቐጺለ\nክፈቱለይ በሪ ሓቂ\nከመስግኖ ነቦ ጽድቂ /2/",
+    "ti_ro": "[[chorus]]\nKebibkani bma'reg kbri\nSelimkani akhlil nay kbri\nWala ywhad gulbet msganay\nWsed gwayta ti zrkabey\nT'a'mi ikha nhywetey\nMuz shto ts'gereday\nZerifkayo nezi lbey\nYkhun natka kwlentenay\nRwrawekha hlfi ade\nFts'um selam nasedede\nAbts'ihuni nabzi 'let\nFsh ile koynu haset /2/\n[[/chorus]]\n\nTekhedine lbsi ts'ega\nDemiqe’ye bfshkhta\nNtay kbl des iluni\nTebarikhe redikani\nQbatka’yu tenkifuni\n'Awet selam sefinuni\nTezelelku bkhebero\nW'let natka ayzrzro /2/\nDesta haqi zegenfelo\n'Ayney nb'at qwats'iru’lo\nYwred yfses ab m'gurtey\nAyklklon hagos lbey\nYzareb’yu ybl keman\nQwanqwa gets'ey l'li lsan\nAts'gibkani bberekhet\nSenay ikha be'al w'let\nZewdi werqi defie’ye\nAkhlil kbri teqets'ile\nKfetuley beri haqi\nKemesgno nebo ts'dqi /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 480,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_czj0gsa2l7r",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኪዳነ ምሕረት እመቤት",
+    "ti_ro": "ኪዳነ ምሕረት እመቤት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኪዳነ ምሕረት እመቤት እመቤት /2/\nንዒ /4/ ሰኣሊተ ምሕረት /2/\nኣብ ልዕሊ ሰማያት ካብ ዘሎ ማሕደርኪ /2/\nዝማሬ ዝመልኦ ናይ ዘልዓለም ቤትኪ\nፍጥረታት ናይ ምድሪ ማርያም ማርያም ይብል/2/\nብሰረገላ እሙ ለቃል ምጽና ድንግል /2/\n[[/chorus]]\n\nካብ ናይ ህድኣት ወደብ ካብ ናይ ፍቕሪ ዓውዲ/2/\nካብ ከተማ ሓቂ ካብ ናይ ሰላም ዓዲ\nሰኣሊ ለነ ቅድስት ውዳሴ እንክስማዕ /2/\nምስ ሚካኤል ምስ ገብርኤል ምጽና ካብ ራማ /2/\nበኣማላድነትኪ ፍጥረት ንክድሕን /2/\nኣማኑኤል ሂቡኪ ናይ ዘልዓለም ኪዳን\nበዚ'ውን ወለዶ ብጽእቲ ይብለኪ /2/\nኣደየ ትምክሕተይ ምርኩሰይ ኮይንኪ’ኺ /2/\nናይ ልቢ እንክነግሩኺ ሰሚዕኪ ኣይተጽቅጥን /2/\nንጽጉም ርእዩ'ውን ልብኺ ኣይጭክንን\nከም ቅጽበት ዓይኒ ቀልጢፍኪ ትረድኢ/2/\nካብ ሓዘን ካብ መከራ ንስኺ ተዕርፊ /2/\n\nዘማሪት ዘርፌ ከበደ",
+    "ti_ro": "[[chorus]]\nKidane mhret mebet mebet /2/\nN'i /4/ sealite mhret /2/\nAb l'li semayat kab zelo mahderki /2/\nZmare zmelo nay zel'alem betki\nFt'retat nay mdri maryam maryam ybl/2/\nBseregela mu leqal mts'na dngl /2/\n[[/chorus]]\n\nKab nay hdat wedeb kab nay fqri 'awdi/2/\nKab ketema haqi kab nay selam 'adi\nSeali lene qdst wdase nksma' /2/\nMs mikael ms gebrel mts'na kab rama /2/\nBeamaladnetki ft'ret nkdhn /2/\nAmanuel hibuki nay zel'alem kidan\nBezi'wn weledo bts'ti ybleki /2/\nAdeye tmkhtey mrkusey koynki’khi /2/\nNay lbi nknegrukhi semi'ki aytets'qt'n /2/\nNts'gum ryu'wn lbkhi aych'knn\nKem qts'bet 'ayni qelt'ifki tredi/2/\nKab hazen kab mekera nskhi te'rfi /2/\n\nZemarit zerfe kebede",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 137,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

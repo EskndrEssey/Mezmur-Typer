@@ -1,0 +1,53 @@
+{
+  "id": "h_m1tc6tr1nrh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰባኬ ወንጌል",
+    "ti_ro": "ሰባኬ ወንጌል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰባኬ ወንጌል ሐዋርያ ትንቢት\nለቤተክርስቲያን ዘይደምፅ ቀርን ነባቤ ለቤተክርስቲያን\nዮሐንስ ኮከብ ዘኤፌሶን ዓምደ ብርሃን ዘፍጥሞ መልአክ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSebake wengel hewarya tnbit\nLebetekrstiyan zeydemts' qern nebabe lebetekrstiyan\nYohens kokeb zeefeson 'amde brhan zeft'mo melek\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 152,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

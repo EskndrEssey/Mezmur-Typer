@@ -1,0 +1,54 @@
+{
+  "id": "h_bij836ur783",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብዓል ጸጋ ኣደ",
+    "ti_ro": "ብዓል ጸጋ ኣደ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብዓል ጸጋ ኣደ ብዓል ጸጋ እመቤት\nሓፊስና ካባኺ ብዙሕ በረኸት\nንማዕበል ሓሊፍና ኢልና ማርያም\nክንዝምር’ውን ኢና ክሳብ ዘለዓለም /2/\nሰብ ኣብ ዘይብሉ ከተማ ሞት ኣብ ዝኸበቦ ጸልማት\nመጎስ ገንዘበይ ዘመደይ ጸሎትኪ ኣቕንዐ መንገደይ\nእስኪ ክዛረብ ተግባራ ኣደ ምሕረት ምዃና\nጽዮን ኣእዳዋ ዘርጊሓ ዓሪቓትኒ’ያ ምስ ጐይታ\nመልክዕ ግራማይ’ኺ ጽባቐይ ናብ መቕደሱ መእተዊተይ\nንዓኺ ሕዘ ጠበቓ ት’ናይ ሞት ታሪኽ ኣብቀዐ\nዕልል ክብልየ ካብ ልበይ ሰሚሩ ኵሉ ሓሳበይ\nድንግል ፈቃር እያ ሰላም ንኽብራ ይስገድ ዓለም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nB'al ts'ega ade b'al ts'ega mebet\nHafisna kabakhi bzuh berekhet\nNma'bel halifna ilna maryam\nKnzmr’wn ina ksab zele'alem /2/\nSeb ab zeyblu ketema mot ab zkhebebo ts'elmat\nMegos genzebey zemedey ts'elotki aqn'e mengedey\nSki kzareb tegbara ade mhret mkhwana\nTs'yon adawa zergiha 'ariqatni’ya ms gwayta\nMelk' gramay’khi ts'baqey nab meqdesu metewitey\nN'akhi hze t'ebeqa t’nay mot tarikh abqe'e\n'Ll kblye kab lbey semiru kwlu hasabey\nDngl feqar ya selam nkhbra ysged 'alem\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 41,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

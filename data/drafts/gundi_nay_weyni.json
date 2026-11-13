@@ -1,0 +1,53 @@
+{
+  "id": "h_ehi78urztjh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጉንዲ ናይ ወይኒ",
+    "ti_ro": "ጉንዲ ናይ ወይኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጉንዲ ናይ ወይኒ መስተ ናይ ሕይወት\nመገዲ ሓቂ ጐይታ ናይ ጎይቶት\nኣባኻ ምንባር መድኃኔ ዓለም\nብሥጋ ብነፍሲ ኣለዎ ሰላም /2/\n[[/chorus]]\n\nንስኻ ዋናይ ኣይናወጽን\nተኹላ እንተመጸ ኣይፈርሕን\nስለ ዝፈልጥ ከምተፍቅረኒ\nኣይፈርሕን'የ ከይትገድፈኒ/2/\nጽልግልግ ይኹን ይበርትዕ ጸልማት\nባሕሪ ይናወጽ ይንደድ'ቲ እሳት\nካብ መን ክፈርሕ ኣይሰግእን\nወላዲ ናተይ ኣይታኸስን /2/\n\nብጾር ናይ ዓለም እትሳቐዩ\nንዑ ኣዕርፉ ቃሉ ስተዩ\nጾርኩም ሃብዎ ክሽከመልኩም\nኣይትጨነቑ ምስኡ ይሕሸኩም/2/",
+    "ti_ro": "[[chorus]]\nGundi nay weyni meste nay hywet\nMegedi haqi gwayta nay goytot\nAbakha mnbar medhane 'alem\nBssga bnefsi alewo selam /2/\n[[/chorus]]\n\nNskha wanay aynawets'n\nTekhula ntemets'e ayferhn\nSle zfelt' kemtefqreni\nAyferhn'ye keytgedfeni/2/\nTs'lglg ykhun ybert' ts'elmat\nBahri ynawets' ynded'ti sat\nKab men kferh aysegn\nWeladi natey aytakhesn /2/\n\nBts'or nay 'alem tsaqeyu\nN'u a'rfu qalu steyu\nTs'orkum habwo kshkemelkum\nAytch'enequ msu yhshekum/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 358,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

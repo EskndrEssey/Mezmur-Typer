@@ -1,0 +1,53 @@
+{
+  "id": "h_6kv2by3q4ii",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ማርያም ንበል",
+    "ti_ro": "ማርያም ንበል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዓይኒ ማይ ገነት ኢኺ ድንግል\nተኽሊ ሕይወተይ ንዘጥልል\nመትንታት ልበይ ተመጊቡ\nእስትንፋስ ድኅነት ተዋሂቡ\nተቐቢለየ በረኸት ጽጌኺ\nማርያም ኢለ ንኽውድሰኪ\nመድኃኒተ ናሆም ንቑስለይ ፈዋሲት\nዒላ ቅድስና ጽድቂ ኣፈልፋሊት\nውቅያኖስ ኃጢኣት ዝሰግረላ መርከብ\nብኣኺ እበጽሖ ዘዕርፈሉ ወደብ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል\n[[/chorus]]\n\nራእየ ሕዝቅኤል ዘይትርሖ ማዕጾ\nንድንግልናኺ ብምንታይ ክገልጾ\nብራና ፍሒቖም ድርሳናት ክደርሱ\nምሳሌ ስኢኖም ኣበዉ ክውድሱ\nእኔኹ ኣብ ቅድሜኺ ሃሴት ተመሊኤ\nክዝምር ከም ዳዊት መሰንቆይ ኣልዒለ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል",
+    "ti_ro": "[[chorus]]\n'Ayni may genet ikhi dngl\nTekhli hywetey nzet'll\nMetntat lbey temegibu\nStnfas dhnet tewahibu\nTeqebileye berekhet ts'gekhi\nMaryam ile nkhwdseki\nMedhanite nahom nqusley fewasit\n'Ila qdsna ts'dqi afelfalit\nWqyanos hat'iat zsegrela merkeb\nBakhi bets'ho ze'rfelu wedeb\n'Bet kbra nmeskr sq aynbel nzemr 'll nbel\nMesenqona qanina keberona al'ilna maryam nbel\n[[/chorus]]\n\nRaye hzqel zeytrho ma'ts'o\nNdnglnakhi bmntay kgelts'o\nBrana fhiqom drsanat kdersu\nMsale sinom abewu kwdsu\nNekhu ab qdmekhi haset temelie\nKzmr kem dawit mesenqoy al'ile\n'Bet kbra nmeskr sq aynbel nzemr 'll nbel\nMesenqona qanina keberona al'ilna maryam nbel",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 265,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

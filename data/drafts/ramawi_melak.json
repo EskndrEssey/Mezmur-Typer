@@ -1,0 +1,53 @@
+{
+  "id": "h_rxzndck48nh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ራማዊ መልኣክ",
+    "ti_ro": "ራማዊ መልኣክ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nራማዊ መልኣኽ ናይ መላእኽት ሓለቓ\nመጋቢብሉይ ኩነና ጠበቓ\nቅዱስ ሚካኤል ኩነና ጠበቓ\nመን ከም እግዚኣብሔር ትርጓሜ ስምካ\nብትሕትናኻ ሳጥናኤል ዘሕፈርካ\nብጽኑዕ እምነት ሽመት ዝወረስካ\nቅዱስ ሚካኤል ረዳኢ ሕዝብኻ/2/\n[[/chorus]]\n\nድርሳንካ እንክንበብ ይፍጸም ተኣምር\nስምካ ተጸዊዑ ሰይጣን ይባረር\nክዳንካ መብረቕ ሓዊ መቐነትካ\nሕዝብኻ ተውጽእ ካብ ጸልማት ስሒብካ/2/\n\nብስምካ ይድሕን ዝሳቐ ብሕማም\nጸበልካ መድኃኒ ኮይንና ምስክር\nሰኣሌ ምሕረት ብዙኅ ውህብቶኻ\nጸጋ በረኸትካ ይኹን ኣብ ደቅኻ/2/",
+    "ti_ro": "[[chorus]]\nRamawi melakh nay melakht haleqa\nMegabibluy kunena t'ebeqa\nQdus mikael kunena t'ebeqa\nMen kem gziabher trgwame smka\nBthtnakha sat'nael zehferka\nBts'nu' mnet shmet zwereska\nQdus mikael redai hzbkha/2/\n[[/chorus]]\n\nDrsanka nknbeb yfts'em teamr\nSmka tets'ewi'u seyt'an ybarer\nKdanka mebreq hawi meqenetka\nHzbkha tewts' kab ts'elmat shibka/2/\n\nBsmka ydhn zsaqe bhmam\nTs'ebelka medhani koynna mskr\nSeale mhret bzuh whbtokha\nTs'ega berekhetka ykhun ab deqkha/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 429,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

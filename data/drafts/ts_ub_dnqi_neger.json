@@ -1,0 +1,53 @@
+{
+  "id": "h_w8nm4h8ggrd",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕፁብ ድንቂ ነገር",
+    "ti_ro": "ዕፁብ ድንቂ ነገር",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕፁብ ድንቂ ነገር ልደት ናይ ጎይታና /2/\nካብ ጽዮን ተረኽበ ካብ ማርያም ኣዴና\nካብ ድንግል ተወልደ ካብ ማርያም ኣዴና\n[[/chorus]]\n\nኣብ ልዕሊ ኪሩቤል ዝፋኑ ኣብ ሰማያት\nዝምስገን ዝምለኽ ብኣእላፍ መላእክት\nደሚቓ ብብርሃን ቤተልሔም ብዕልልታ\nዝማሬ ተሰምዐ ኣብ ምድረ ኤፍራታ\n\nትንቢት ናይ ነቢያት ክፍጽም ኣምላኽና\nብፍቕሪ ወረደ ከድሕን ንዓና\nኣማኑኤል ኢዩ መጸውዒ ስሙ\nመስፍን ሰላም ኮይኑ ሂቡና ሰላሙ\nኦ ዝመንክር በለ ኤፍሬም ተገሪሙ\nበቲ ዓቢይ ምስጢር ፍጹም ተስደሚሙ\nሰማይ ዘይክእሎ ዘይትጾሮ ምድርና\nስለዝተወልደ ካብ ማርያም ኣዴና",
+    "ti_ro": "[[chorus]]\n'Ts'ub dnqi neger ldet nay goytana /2/\nKab ts'yon terekhbe kab maryam adena\nKab dngl tewelde kab maryam adena\n[[/chorus]]\n\nAb l'li kirubel zfanu ab semayat\nZmsgen zmlekh balaf melakt\nDemiqa bbrhan betelhem b'llta\nZmare tesem'e ab mdre efrata\n\nTnbit nay nebiyat kfts'm amlakhna\nBfqri werede kedhn n'ana\nAmanuel iyu mets'ew'i smu\nMesfn selam koynu hibuna selamu\nO zmenkr bele efrem tegerimu\nBeti 'abiy mst'ir fts'um tesdemimu\nSemay zeyklo zeytts'oro mdrna\nSleztewelde kab maryam adena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 169,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

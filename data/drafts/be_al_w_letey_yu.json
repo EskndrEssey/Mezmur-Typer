@@ -1,0 +1,53 @@
+{
+  "id": "h_4bupxzza8um",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በዓል ውዕለተይ’ዩ",
+    "ti_ro": "በዓል ውዕለተይ’ዩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጉሓፍ ዝነበርኩ ተመስገን ጐይታየይ\nኣፍደገ ተዓጽወ ስምዖን ጨከነለይ\nሃንደበት ተኸፍተ ልበይ ፈሊጡለይ\nናብኡ ንኽቐርብ ኣዘዘኒ ጐይታይ\nእግሩ ሓጺበዮ ወዲቐ ብምብካይ /2/\n[[/chorus]]\n\nእምኒ ዝጨበጡ ፈረድቲ ከቢቦም\nፊት ጐይታ ኣቖሙኒ ንነውረይ ዘርዚሮም\nፈሪዳቶም`ውን ሕጊ ንዓኣቶም\nምሒሩኒ እዩ ንጉሥ ዘለዓለም /2/\nኣይሁድ ከበቡኒ እምኒ ተሰኪሞም\nብብዝሒ ሓጢኣተይ ሓጢኣቶም ረሲዖም\nሕሊና ዝወቅስ ናይ ኣምላኽና መሰል\nሰላሙ ሂቡኒ ንጉሥ ዘለዓለም /2/\n\nመድኃኔ ዓለም ዝገበሮ ንዓይ\nኣብ ኵሉ ዘመነይ ንዝራህርሃለይ\nሕይወተይ ምሉእ እዩ ናይ ፍቕሩ ውዕለታት\nኣይፍለዮን እየ ክሳዕ መወዳእታ /2/",
+    "ti_ro": "[[chorus]]\nGuhaf zneberku temesgen gwaytayey\nAfdege te'ats'we sm'on ch'ekeneley\nHandebet tekhefte lbey felit'uley\nNabu nkhqerb azezeni gwaytay\nGru hats'ibeyo wediqe bmbkay /2/\n[[/chorus]]\n\nMni zch'ebet'u feredti kebibom\nFit gwayta aqomuni nnewrey zerzirom\nFeridatom`wn hgi n'aatom\nMhiruni yu nguss zele'alem /2/\nAyhud kebebuni mni tesekimom\nBbzhi hat'iatey hat'iatom resi'om\nHlina zweqs nay amlakhna mesel\nSelamu hibuni nguss zele'alem /2/\n\nMedhane 'alem zgebero n'ay\nAb kwlu zemeney nzrahrhaley\nHywetey mlu yu nay fqru w'letat\nAyfleyon ye ksa' mewedata /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 20,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_9r8gkavdv48",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘይሴባሕ",
+    "ti_ro": "ዘይሴባሕ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘይሴባሕ በትሑታን ወየዓርፍ ዲበ ቅዱሳን /2/\nሰዳዴ ጽልመት ወሃቤ ብርሃን ብርሃን ኢየሱስ ክርስቶስ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nZeysebah bethutan weye'arf dibe qdusan /2/\nSedade ts'lmet wehabe brhan brhan iyesus krstos /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 282,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

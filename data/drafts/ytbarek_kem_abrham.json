@@ -1,0 +1,53 @@
+{
+  "id": "h_fo0wnto0929",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ይትባረክ ከም ኣብርሃም",
+    "ti_ro": "ይትባረክ ከም ኣብርሃም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nይትባረክ ከም ኣብርሃም /2/\nእህ ዘለዓለም /4/ ይትባረክ ከም ኣብርሃም\nደስ ይበለና’ሞ        ከም ኣብርሃም\nበዚ ቅዱስ መርዓ       >>  >>\nፍጹም ቅኑዕ እዩ        >>  >>\nናይ ተኽሊል መርዓና   >>  >>\n[[/chorus]]\n\nጸጋ መንፈስቅዱስ       ከም ኣብርሃም\nሰለዝተዋህቦም           >>  >>\nመርዓውን መርዓትን     >>  >>\nብርሃን ኮይኑ ገጾም      >>  >>\nናይ ኣምላኽ ህያቡ      ከም ኣብርሃም\nኣይኮነን ከም ዓለም      >>  >>\nተረኸቢ   >>   ኣብ ማእከልና\nንወድኺ   >>  ለምንልና\nንመርዓና   >>  ክባርኸልና\nባህ ዘበለ   >>  ክኾነልና\nኣብ እምነትኪ እህ  ኣጽንዕልና\nብኺዳንኪ     >>   ሓልውልና\nኣብቲ ቤትኪ   >>  ኣሕድርልና\nብፍቕርኺ     >>   ጥመርልና\nካብ ፍሬኺ    >>   መግብልና",
+    "ti_ro": "[[chorus]]\nYtbarek kem abrham /2/\nH zele'alem /4/ ytbarek kem abrham\nDes ybelena’mo        kem abrham\nBezi qdus mer'a       >>  >>\nFts'um qnu' yu        >>  >>\nNay tekhlil mer'ana   >>  >>\n[[/chorus]]\n\nTs'ega menfesqdus       kem abrham\nSeleztewahbom           >>  >>\nMer'awn mer'atn     >>  >>\nBrhan koynu gets'om      >>  >>\nNay amlakh hyabu      kem abrham\nAykonen kem 'alem      >>  >>\nTerekhebi   >>   ab makelna\nNwedkhi   >>  lemnlna\nNmer'ana   >>  kbarkhelna\nBah zebele   >>  kkhonelna\nAb mnetki h  ats'n'lna\nBkhidanki     >>   halwlna\nAbti betki   >>  ahdrlna\nBfqrkhi     >>   t'merlna\nKab frekhi    >>   megblna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 442,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

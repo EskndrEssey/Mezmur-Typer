@@ -1,0 +1,53 @@
+{
+  "id": "h_8e7vq3j1g19",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍቕራ ዝጠዓመ",
+    "ti_ro": "ፍቕራ ዝጠዓመ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍቕራ ዝጠዓመ ናይ ማርያም\nድንግል ርህርህቲ ኣዴና\nናይ ኢዳ በረኸት ፍጹም ጸጊቡ ኵሉ ዝኣምና\nኣየቋርጽን ንምስጋናኣ ኣይስልችዎን`ውን ናታ ምስጋና\nክብራ ክብ ዝበለ ካብ ኩሎም ፍጥረታት\nብየማን ናይ ወዳ ነጊሳ ኣብ ሰማይ\nምልጃኣ ጸሎታ ይውሕዝ ዘልዓለም\nይሓፍር ጸላኢ ስሌና ክትቀውም\nካብ መዓር ዝጥዕም ስማ እናጸውዐ\nክንደይ ተፈወሰ ክንደይ ሕይወት ዘርአ\nቲ’ናይ ኣደ ምስላ ኣይጠፍእን ካብ ቤቱ\nፍቕራ’ውን ይንበብ ኣብ ደሙ ኣብ ፊቱ\n[[/chorus]]\n\nድምጻ ሓያል’ዩ ጽንሲ ዘሰራስር\nምልጃኣ ንነፍሳት ካብ ኣፍ ሞት ዝስውር\nእስኪ ንዘምረላ ይብዝሓላ ዕልልታ\nኣብ ኣፍ ኵሉ ትውልድ ሓቲምዋ ጐይታ\n\nዘማሪት ለምለም ከበደ",
+    "ti_ro": "[[chorus]]\nFqra zt'e'ame nay maryam\nDngl rhrhti adena\nNay ida berekhet fts'um ts'egibu kwlu zamna\nAyeqwarts'n nmsganaa ayslchwon`wn nata msgana\nKbra kb zbele kab kulom ft'retat\nByeman nay weda negisa ab semay\nMljaa ts'elota ywhz zel'alem\nYhafr ts'elai slena ktqewm\nKab me'ar zt''m sma nats'ew'e\nKndey tefewese kndey hywet zere\nTi’nay ade msla ayt'efn kab betu\nFqra’wn ynbeb ab demu ab fitu\n[[/chorus]]\n\nDmts'a hayal’yu ts'nsi zeserasr\nMljaa nnefsat kab af mot zswr\nSki nzemrela ybzhala 'llta\nAb af kwlu twld hatimwa gwayta\n\nZemarit lemlem kebede",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 134,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

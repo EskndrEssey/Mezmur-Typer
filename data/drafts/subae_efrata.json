@@ -1,0 +1,53 @@
+{
+  "id": "h_wazdgg6lbqu",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሱባኤ ኤፍራታ",
+    "ti_ro": "ሱባኤ ኤፍራታ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማሕላ ቅዱሳን ሱባኤ ኤፍራታ\nጽርሐ ኣርያም እግዚአብሔር ዝብሕታ\nድንግል ማርያም ጽዮናዊት ኣደ\nማዕከን ቅድስና ዝወቀበት ደገ\nድንኳን ቤቱ ምርጋጽ ብፍጹም ዘቕበጸ\nተሓሲሙ ምቾት ኩርኳሕ ዝመረጸ\nመዕለቢ ክረክብ ዝተሰወረ ዛዕባ\nስብሐት እንብለሉ ናይ ሰማያት ዋዕላ /2/\n[[/chorus]]\n\nቅድስና ነቢያት ጉዕዞ ንሱባኤ\nበቂዕና ክንርእዮ’ቲ ሰናይ ጉባኤ\nልዳት ተሰርሓሉ ትርኢት ኲኖ ማዕዶ\nጓሉ ምስ ኣዲኡ ከመስግን ብግህዶ /2/\n\nባህጊ ልቢ ኣምላኽ ተሰምዐ ኣብ ኤፍራታ\nንጹር እምበር ነይሩ ዘይለበሰ ኢንታ\nሓቅነት ዘሟሙቕ ዘይተረኽቦ ማእረ\nሕሊና ዘቕሰነ ልሳን’ውን መስከረ /2/\nዓለም ብዓለማ ኮይንዋ ኣምስጥሮ\nግድል ዝተሓስበ ተመሊሱ ድሮ\nተረኺባ ኣዴና ጸጋዊት ናጽነት\nብክርስቶስ ወዳ ትልግስ ሓርነት /2/",
+    "ti_ro": "[[chorus]]\nMahla qdusan subae efrata\nTs'rhe aryam gziebher zbhta\nDngl maryam ts'yonawit ade\nMa'ken qdsna zweqebet dege\nDnkwan betu mrgats' bfts'um zeqbets'e\nTehasimu mchot kurkwah zmerets'e\nMe'lebi krekb ztesewere za'ba\nSbhet nblelu nay semayat wa'la /2/\n[[/chorus]]\n\nQdsna nebiyat gu'zo nsubae\nBeqi'na knryo’ti senay gubae\nLdat teserhalu trit kwino ma'do\nGwalu ms adiu kemesgn bghdo /2/\n\nBahgi lbi amlakh tesem'e ab efrata\nNts'ur mber neyru zeylebese inta\nHaqnet zeሟmuq zeyterekhbo mare\nHlina zeqsene lsan’wn meskere /2/\n'Alem b'alema koynwa amst'ro\nGdl ztehasbe temelisu dro\nTerekhiba adena ts'egawit nats'net\nBkrstos weda tlgs harnet /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 300,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

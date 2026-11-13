@@ -1,0 +1,53 @@
+{
+  "id": "h_w21xld68etq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ደቂቀ ሰላም",
+    "ti_ro": "ደቂቀ ሰላም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትግሁ እስከ ይትፌጸም ተስፋሁ /2/\nሃሌ ሃሌ ሉያ ይሠርቅ ኮከብ እምያዕቆብ\nወአነሂ በኩርየ እሬስዮ ወአነሂ\n[[/chorus]]\n\nልዑል ውእቱ እም ነገስተ ምድር ወኣነሂ\nወኣነሂ በኩርየ እሬስዮ ወኣነሂ\nዲ/ን ሙሉእ ሓጎስ",
+    "ti_ro": "[[chorus]]\nTghu ske ytfets'em tesfahu /2/\nHale hale luya ysserq kokeb mya'qob\nWeenehi bekurye resyo weenehi\n[[/chorus]]\n\nL'ul wtu m negeste mdr weanehi\nWeanehi bekurye resyo weanehi\nDi/n mulu hagos",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 356,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_7sf80flfk3m",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እስከ ንገርኒ",
+    "ti_ro": "እስከ ንገርኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእስከ ንገርኒ ደብረ ጽጌ\nዜና ጽድቁ ንእንድርያስ ፈታው ኣዶናይ/2/\nመታን ክነግሮም ንዘይሰምዑ ኲሎም\nዜና ጽድቁ ተስፋ ነዳይ ንእንድርያስ ቅዱስ ፍሉይ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSke ngerni debre ts'ge\nZena ts'dqu nndryas fetaw adonay/2/\nMetan knegrom nzeysem'u kwilom\nZena ts'dqu tesfa neday nndryas qdus fluy\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 165,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_h8xgr1mtc9r",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምረት ናይ ስደትኪ",
+    "ti_ro": "ምረት ናይ ስደትኪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣዘክሪ ድንግል አንብዐ መሪረ ዘውኅዘ እምኣዕይንትኪ\nወወረደ ዲበ ገጸ ፍቁር ወልድኪ\n[[/chorus]]\n\nምረት ናይ ስደትኪ ክበጽሖ ኣእምሮይ\nብኽያት ናይ ወድኺ ክደግሞ ብቓለይ\nንጎቦ ሓጢኣተይ ከፍርሶ ንብዓተይ\nብሕሊና ምለስኒ\nኣብ ስደትኪ ኣደይ ጸንብርኒ\nሽውሽውታ ‘ቲ ንፋስ ኣእዛንካ ዘናውጽ\nረጽሚ ማዕበላቱ ቈርበትካ ዝልሕጽጽ\nንስለ ድኅነትና ዝመረረ ጸይራ\nሰጊራቶ ሕሰም ምስ ብዙኅ መከራ\nበብዝኃ ግፍዕኪ ዘበእንቲኣነ\nማርያም ኣስተምሕሪ ለነ\n\nዝናማት ዘዝንም ኵሉ ዝከኣሎ\nጐይታና ኢየሱስ ኣብ ሑቝፋ እንከሎ\nጽምኢ ጸኒዕዋ ክትልምን ኣምሪራ\nረዳኢ ስኢና ዝመልስ ንኽብራ\nመዓስ ተሳኢንዎ ጽምኣታ ከጥልል\nፍቓዱ ኮይኑ ‘ምበር መከራ ክትቅበል\nበብዝኃ ግፍዕኪ ዘበእንቲኣነ\nማርያም ኣስተምሕሪ ለነ\nርእየዮ ማርያመይ ‘ቲ መሪር ስደትኪ\nምጻር ስኢነዮ ቃንዛ ስቅያትኪ\nብሓላፊ ሽግር ፍጹም ከየማርር\n‘ቲ መሪር ስደትኪ ኮይንኒ ‘ሎ መምህር\nስለ ‘ቲ ቍስልኺ መከራ ጭንቀትኪ\nኣዘክሪ ድንግል ምእንቲ ደቅኺ\nበብዝኃ ግፍዕኪ ዘበእንቲኣነ\nማርያም ኣስተምሕሪ ለነ",
+    "ti_ro": "[[chorus]]\nAzekri dngl enb'e merire zewhze ma'yntki\nWewerede dibe gets'e fqur weldki\n[[/chorus]]\n\nMret nay sdetki kbets'ho amroy\nBkhyat nay wedkhi kdegmo bqaley\nNgobo hat'iatey kefrso nb'atey\nBhlina mlesni\nAb sdetki adey ts'enbrni\nShwshwta ‘ti nfas azanka zenawts'\nRets'mi ma'belatu qwarbetka zlhts'ts'\nNsle dhnetna zmerere ts'eyra\nSegirato hsem ms bzuh mekera\nBebzha gf'ki zebentiane\nMaryam astemhri lene\n\nZnamat zeznm kwlu zkealo\nGwaytana iyesus ab huqwfa nkelo\nTs'mi ts'eni'wa ktlmn amrira\nRedai sina zmels nkhbra\nMe'as tesainwo ts'mata ket'll\nFqadu koynu ‘mber mekera ktqbel\nBebzha gf'ki zebentiane\nMaryam astemhri lene\nRyeyo maryamey ‘ti merir sdetki\nMts'ar sineyo qanza sqyatki\nBhalafi shgr fts'um keyemarr\n‘Ti merir sdetki koynni ‘lo memhr\nSle ‘ti qwslkhi mekera ch'nqetki\nAzekri dngl mnti deqkhi\nBebzha gf'ki zebentiane\nMaryam astemhri lene",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 412,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

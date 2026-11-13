@@ -1,0 +1,53 @@
+{
+  "id": "h_zejb0zkosah",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘይባረኽካዮ የለን",
+    "ti_ro": "ዘይባረኽካዮ የለን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘይባረኽካዮ የለን ንስኻ\nከምዛ ዋዛ መጺኡ ዓጊቡልካ\nየመስግኑኻ መርዓት መርዓዊ\nሕያውነት ፍቕርኻ’ዩ ፍትዊ\nበረኸት ናትካ መሊኡ ይተርፍ\nኣይጭነቕን’የ ልበይ ብኣኻ ይዓርፍ\nናይ ጽባሕ ድማ ትፈልጥ ንስኻ\nኣብ ልሙዕ ሸኻ ከተውዕለኒ’ኻ /2/\n[[/chorus]]\n\nሕይወት’ቲ ምስኪን ለዊጥካ ንስኻ\nኵሉ ካብኡ’ዩ ኢሉ የመስግነካ\nጥዒማትና ቁራስ እንጌራኻ\nለዊጡና’ዩ ‘ቲ ዓቢይ ፍቕርኻ /2/\n\nመን ባረኸኩም እስከ ተናገሩ\nድንቂ ስራሑ ምድኃኑ መስክሩ\nየብርህ’ት ቤት እግዚአብሔር ኣቲዎ\nዘይከውን የለን ጐይታ እንተ ሓሊፍዎ /2/",
+    "ti_ro": "[[chorus]]\nZeybarekhkayo yelen nskha\nKemza waza mets'iu 'agibulka\nYemesgnukha mer'at mer'awi\nHyawnet fqrkha’yu ftwi\nBerekhet natka meliu yterf\nAych'neqn’ye lbey bakha y'arf\nNay ts'bah dma tfelt' nskha\nAb lmu' shekha ketew'leni’kha /2/\n[[/chorus]]\n\nHywet’ti mskin lewit'ka nskha\nKwlu kabu’yu ilu yemesgneka\nT''imatna quras ngerakha\nLewit'una’yu ‘ti 'abiy fqrkha /2/\n\nMen barekhekum ske tenageru\nDnqi srahu mdhanu meskru\nYebrh’t bet gziebher atiwo\nZeykewn yelen gwayta nte halifwo /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 439,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

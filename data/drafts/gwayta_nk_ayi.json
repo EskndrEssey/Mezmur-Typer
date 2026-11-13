@@ -1,0 +1,53 @@
+{
+  "id": "h_00aoflwmvxp",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጐይታ እንክዓዪ",
+    "ti_ro": "ጐይታ እንክዓዪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእዚ መከራ ንሰናይ'ዩ /2/\nማእከሉ'ኳ እንተዘይተነግረ\nራእይ ዘለዎ ነይሓፈረ /2/\nሳኦል ኵናቱ እንተመዘዘ\nጎልያድ ሰይፊ እንተሓዘ\nዳዊት ኣይሞተን ከምቲ ቃሉ\nተፈተነ'ምበር ኣብ ማእከሉ\n[[/chorus]]\n\nብተንኮል ተተሸጠ ዮሴፍ\nሕልሙ ከይተፈጸመ ኣይተርፍ\nልዕል ክብል'ዩ ምስ ግርማ\nክነግስ እዩ ኣብ ከተማ\nንኡስ ተኾነ ምጅማርና\nክዓቢ እዩ ፍጻሜና\nማንም ኣይተርፍን ኣብ ማዕዶ\nከእትወና'ዩ ርስቲ ዓዱ\n\nይኣክል ራሄል እቲ ብኽያት\nኪሓልፍ እዩ እቲ ኣውያት\nግብጺ ኣይተርፉን'ዮም  'ቶም ወገንኪ\nባሕሪ ኣይሓልፉን ጸላእትኺ",
+    "ti_ro": "[[chorus]]\nZi mekera nsenay'yu /2/\nMakelu'kwa ntezeytenegre\nRay zelewo neyhafere /2/\nSaol kwnatu ntemezeze\nGolyad seyfi ntehaze\nDawit aymoten kemti qalu\nTefetene'mber ab makelu\n[[/chorus]]\n\nBtenkol teteshet'e yosef\nHlmu keytefets'eme ayterf\nL'l kbl'yu ms grma\nKnegs yu ab ketema\nNus tekhone mjmarna\nK'abi yu fts'amena\nManm ayterfn ab ma'do\nKetwena'yu rsti 'adu\n\nYakl rahel ti bkhyat\nKihalf yu ti awyat\nGbts'i ayterfun'yom  'tom wegenki\nBahri ayhalfun ts'elatkhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 144,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_g49olivqwr2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከበሮ ኣልዕሉ",
+    "ti_ro": "ከበሮ ኣልዕሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንጐይታ ክብሪ ኣመስግኑ\nኩልኺ ምድሪ ተገዝእዮ\nንኣምላኽ ምድሓን ፍለጥዮ /2/\nኣዳም ዘለለ ብሓጎስ ደስታ\nሔዋን ዓለለት ድሙቕ ዕልልታ\nነፍሳት ዘለሉ ኣብ ማእከል ገነት\nስለዘብቅዐ ሕሱም ባርነት\n[[/chorus]]\n\nናይ ጥንቲ ገበል ጸረ ድኅነትና\nተሳዒሩ እዩ ብደም ጐይታና\nኮይኑልና ኣሎ ፍሥሐ ሓጎስ\nብምድሓን ኣምላኽ ጐይታ ክርስቶስ\nሞት ምስ መቓብር ዓስቢ ሓጢኣት\nርሒቑልና’ዩ ብናይ ጐይታ ሞት\nውህበት ኣምላኽኪ ናይ ቀራንዮ\nነፍሰይ ብጸጋ ተቐበልዮ\n\nምት ምስ መቓብር . . .",
+    "ti_ro": "[[chorus]]\nNgwayta kbri amesgnu\nKulkhi mdri tegezyo\nNamlakh mdhan flet'yo /2/\nAdam zelele bhagos desta\nHewan 'alelet dmuq 'llta\nNefsat zelelu ab makel genet\nSlezebq'e hsum barnet\n[[/chorus]]\n\nNay t'nti gebel ts'ere dhnetna\nTesa'iru yu bdem gwaytana\nKoynulna alo fsshe hagos\nBmdhan amlakh gwayta krstos\nMot ms meqabr 'asbi hat'iat\nRhiqulna’yu bnay gwayta mot\nWhbet amlakhki nay qeranyo\nNefsey bts'ega teqebelyo\n\nMt ms meqabr . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 197,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

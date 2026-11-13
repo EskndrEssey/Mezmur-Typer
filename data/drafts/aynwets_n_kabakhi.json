@@ -1,0 +1,53 @@
+{
+  "id": "h_lfqs5bojo7k",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣይንወጽእን ካባኺ",
+    "ti_ro": "ኣይንወጽእን ካባኺ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣይንወፅእን ካባኺ ኢየሩሳሌም ከመይ ኢልና ክንክእሎ\nምሥጢረ ድኅነትና ሓቀኛ ኣምልኾ ኣባኺ እንድዩ ዘሎ\nብዘመን ዘይብጻሕ ዝረቐቐ ፍልጠት\nብዕድመ ዘይርከብ ማኃደረ ጥበባት\nኣባኺ ወሪዱ ማዕጾ ከይተራሕወ\nብተኣምራቱ ኣይሁድ ዘደንጸወ\nቀያሲ ህንፃኺ ሕሊና እግዚአብሔር\nሠረት ህላዌኺ ቅድሚ ምፍጣር ዓለም\nዕፅብት ህያብና ኣትሮንስ ቃል ሓቂ\nመሣልል ሎዛ ንመገዲ ጽድቂ\n[[/chorus]]\n\nምንጪ ርቱዕ ወንጌል መኣዛ ቅዳሴ\nዓንዲ ቅኑዕ እምነት መቐረት ህላዌ\nኣባኺ ምጽናሕ’ዩ እንኮ ኣማራጺ\nብኣኺ ንወርስ ሰማያዊ ርስቲ\nቀያሲ ህንፃኺ . . .",
+    "ti_ro": "[[chorus]]\nAynwets'n kabakhi iyerusalem kemey ilna knklo\nMsst'ire dhnetna haqenya amlkho abakhi ndyu zelo\nBzemen zeybts'ah zreqeqe flt'et\nB'dme zeyrkeb mahadere t'bebat\nAbakhi weridu ma'ts'o keyterahwe\nBteamratu ayhud zedents'ewe\nQeyasi hnts'akhi hlina gziebher\nSseret hlawekhi qdmi mft'ar 'alem\n'Ts'bt hyabna atrons qal haqi\nMessall loza nmegedi ts'dqi\n[[/chorus]]\n\nMnch'i rtu' wengel meaza qdase\n'Andi qnu' mnet meqeret hlawe\nAbakhi mts'nah’yu nko amarats'i\nBakhi nwers semayawi rsti\nQeyasi hnts'akhi . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 268,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

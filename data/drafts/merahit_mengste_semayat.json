@@ -1,0 +1,53 @@
+{
+  "id": "h_562yzdzkz2x",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መራሒት መንግስተ ሰማያት",
+    "ti_ro": "መራሒት መንግስተ ሰማያት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመራሒት መንግስተ ሰማያት ድንግል ማርያም /2/\nኣድሕንና ንዓና ደቅኺ ካብ ገሃነም /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMerahit mengste semayat dngl maryam /2/\nAdhnna n'ana deqkhi kab gehanem /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 341,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

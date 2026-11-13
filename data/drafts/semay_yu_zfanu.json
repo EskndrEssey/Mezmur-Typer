@@ -1,0 +1,53 @@
+{
+  "id": "h_8rkrezq3z9y",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰማይ’ዩ ዝፋኑ",
+    "ti_ro": "ሰማይ’ዩ ዝፋኑ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\nካህናት ናይ ሰማይ ኩሎም ብሓድነት\nይዓጥኑ ኣለዉ መንበረ ጸባኦት\nኣኽሊሎም ኣውሪዶም ሰጊዶም ብፍርሓት\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n[[/chorus]]\n\nቅዱስ /3/ ክብሉ ኣብ ኣርያም\nንገንሸል ፋሲካ ዝተዋሕሰ ብደም\nቅዱሳን መላእክት ኣኽናፎም ዘርጊሖም\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\nከም ደሃይ ብዙሕ ማያት ከም ብርቱዕ ነጎድጓድ\nህጻናት ቤተልሔም ኮይኖም ሓደ ነገድ\nየቕርቡ ኣለዉ ማህሌት ብመረግድ\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n\nሰረገላ እሳት እዩ መንኮርኮሩ\nይሕምበብ ኣብ ንፋሳት ኣብ ማያት ጠፈሩ\nመንክር’ዩ ኣምላኽና ዕጹብ’ዩ ነገሩ\nንኤልሻዳይ ኣምላኽ ቅዱስ እናበልኩም\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ",
+    "ti_ro": "[[chorus]]\nSemay’yu zfanu mdri mergets' gru\nYmsgen nzel'alem l'ul ab menberu\nKahnat nay semay kulom bhadnet\nY'at'nu alewu menbere ts'ebaot\nAkhlilom awridom segidom bfrhat\nSemay’yu zfanu mdri mergets' gru\nYmsgen nzel'alem l'ul ab menberu\n[[/chorus]]\n\nQdus /3/ kblu ab aryam\nNgenshel fasika ztewahse bdem\nQdusan melakt akhnafom zergihom\nSemay’yu zfanu mdri mergets' gru\nYmsgen nzel'alem l'ul ab menberu\nKem dehay bzuh mayat kem brtu' negodgwad\nHts'anat betelhem koynom hade neged\nYeqrbu alewu mahlet bmeregd\nSemay’yu zfanu mdri mergets' gru\nYmsgen nzel'alem l'ul ab menberu\n\nSeregela sat yu menkorkoru\nYhmbeb ab nfasat ab mayat t'eferu\nMenkr’yu amlakhna 'ts'ub’yu negeru\nNelshaday amlakh qdus nabelkum\nSemay’yu zfanu mdri mergets' gru\nYmsgen nzel'alem l'ul ab menberu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 318,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_8qlgsdnn7xr",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "ተወከፍ ጸሎቶሙ ለኣግብርቲከ ወለኣእማቲከ\nእለ ጻመዉ ወመጽኡ ጽርሐ መቅደስከ ጊዮርጊስ ሰማዕት\nጸሎቶም ተቐበል ንኣገበልገልትኻ ንኣሽቱን ዓበይትን /2/\nብብዙሕ ድኻም ዝመጹ ናብዚ ቤት መቕደስካ\nጊዮርጊስ ሰማዕት",
+    "ti_ro": "Tewekef ts'elotomu leagbrtike weleamatike\nLe ts'amewu wemets'u ts'rhe meqdeske giyorgis sema't\nTs'elotom teqebel nagebelgeltkha nashtun 'abeytn /2/\nBbzuh dkham zmets'u nabzi bet meqdeska\nGiyorgis sema't",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 751,
+    "needs_review": []
+  }
+}

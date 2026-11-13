@@ -1,0 +1,53 @@
+{
+  "id": "h_gkdx6qy7cj0",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ርህሩህ ሳምራዊ",
+    "ti_ro": "ርህሩህ ሳምራዊ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልዕሊ ኣእምሮ ፍቕሩ መስተንክር\nዝደለዮ ኵሉ ይገብር\nፍቕርኻ መዓር’ዩ ወለላ\nከም ፈልፋሊ ማይ ንሕይወት የጥልላ\nካብ ምውዳቐይ ኣተንሲኡ ርህሩህ ሳምራዊ\nንድኻመይ ዝደገፈ\nቁስሊ ሕይወተይ ብጸጋኡ ርህሩህ ሳምራዊ\nብምዝናን ዝፈወሰ\nካብ ኢየሩሳሌም ናብ ኢያሪኮ\nክኸይድ ኢለ ምስ ተበገስኩ\nዘይሓሰብክዎ ልበይ ዘይጸንሐ\nኣብ ፍርቂ ጉዕዞ እናሃለኹ\nብድሕረይ መጺኦም ሸፈኑኒ\nብዙሓት ኮይኖም ኣውደቑኒ\nኣጨነቑኒ እናፋጠጡ ምሉእ ኣካለይ\nብራዕዲ ተወሓጥኩ\nብኹርማጅ ጌሮም ገረፉኒ\nምሉእ ኣካለይ ኣቑሰሉኒ\nኵሉ ገንዘበይ ኣግደፉኒ\nሞይቱ ኢሎም ከኣ ገደፉኒ\nኣብቲ እዋን እቲ ኣብቲ ጊዜ ሽግር\nጎሮረይ ነቐጸ ስኢነ ሕፍነ ማይ\nብጊዜ ቐትሪ ‘ቲ ብሩህ ገጸይ\nጸልማት ተኸድነ ብሃሩር ጸሓይ\nከብደይ ብጥሜት ተላገበ\nእቲ ጽኑዕ ሕቖይ ተሓጎበ\nክልቲኡ ኣእዛነይ ገው በለኒ\nኵሉ ነገር’ውን ጸልመተኒ\n[[/chorus]]\n\nወዲቐ ከለኹ ብእኡ ዝሓልፉ\nገጾም ከዊሎም ጎስዮሙኒ ከዱ\nሓደ ካብኣቶም ክርስቶስ ሳምራዊ\nጥቓይ ቀረበ ምስ ገልገል ኣድጉ\nንቑስለይ ብምርኣይ ደንገጸለይ\nብዘይቲ ጌሩ ደረዘለይ\nብናቱ ጸጋ ተፈወስኩ\nናብ ቤተይ ከኣ ተመለስኩ",
+    "ti_ro": "[[chorus]]\nL'li amro fqru mestenkr\nZdeleyo kwlu ygebr\nFqrkha me'ar’yu welela\nKem felfali may nhywet yet'lla\nKab mwdaqey atensiu rhruh samrawi\nNdkhamey zdegefe\nQusli hywetey bts'egau rhruh samrawi\nBmznan zfewese\nKab iyerusalem nab iyariko\nKkheyd ile ms tebegesku\nZeyhasebkwo lbey zeyts'enhe\nAb frqi gu'zo nahalekhu\nBdhrey mets'iom shefenuni\nBzuhat koynom awdequni\nAch'enequni nafat'et'u mlu akaley\nBra'di tewehat'ku\nBkhurmaj gerom gerefuni\nMlu akaley aquseluni\nKwlu genzebey agdefuni\nMoytu ilom kea gedefuni\nAbti wan ti abti gize shgr\nGororey neqets'e sine hfne may\nBgize qetri ‘ti bruh gets'ey\nTs'elmat tekhedne bharur ts'ehay\nKebdey bt'met telagebe\nTi ts'nu' hqoy tehagobe\nKltiu azaney gew beleni\nKwlu neger’wn ts'elmeteni\n[[/chorus]]\n\nWediqe kelekhu bu zhalfu\nGets'om kewilom gosyomuni kedu\nHade kabatom krstos samrawi\nT'qay qerebe ms gelgel adgu\nNqusley bmray dengets'eley\nBzeyti geru derezeley\nBnatu ts'ega tefewesku\nNab betey kea temelesku",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 254,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

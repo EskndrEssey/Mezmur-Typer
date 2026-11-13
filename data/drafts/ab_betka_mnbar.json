@@ -1,0 +1,53 @@
+{
+  "id": "h_0w3a6jc7bj8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ቤትካ ምንባር",
+    "ti_ro": "ኣብ ቤትካ ምንባር",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቅዱስ መቕደስካ እናሓሎና\nሳህልኻ ጐይታ ክንጽበ ኢና\nብዘይካኻ’ሞ መን ኣሎና\nመና ሰማያት መጊቡና’ዩ\nከውሒ ጨዲዱ ማይ ሂቡና’ዩ\nስለቲ መልክዕ ሰናይ ግብሩ\nኣብ ቤቱ ንንበር ንሓዋሩ\n[[/chorus]]\n\nንዑ ብኣምላኽ ደስ ይበለና\nዘይጸባጸብ በደል ኃጢኣትና\nንኹራ ደንጓይ ርሕሩሕ’ዩ ፍጹም\nስሙ ይመስገን ኣብ ላዕሊ ኣርያም\nመከራ ስቓይ እንተበዝሓና\nኣብ ቤትካ ጐይታ ክንእከብ ኢና\nንቕዱስ ስምካ ክንውድስ ኢና\nስለዝኾነ ስንቂ ሕይወትና\n\nንጉሥ ነገስታት ልዑል ፈጣሪ\nጥዑም ዜማታት ልብና ይዛሪ\nዕልል ንብለልካ ኣብ ሰማይ ምድሪ\nኣምላኽ ኣማልኽት ክበር ብኽብሪ",
+    "ti_ro": "[[chorus]]\nQdus meqdeska nahalona\nSahlkha gwayta knts'be ina\nBzeykakha’mo men alona\nMena semayat megibuna’yu\nKewhi ch'edidu may hibuna’yu\nSleti melk' senay gbru\nAb betu nnber nhawaru\n[[/chorus]]\n\nN'u bamlakh des ybelena\nZeyts'ebats'eb bedel hat'iatna\nNkhura dengway rhruh’yu fts'um\nSmu ymesgen ab la'li aryam\nMekera sqay ntebezhana\nAb betka gwayta knkeb ina\nNqdus smka knwds ina\nSlezkhone snqi hywetna\n\nNguss negestat l'ul fet'ari\nT''um zematat lbna yzari\n'Ll nblelka ab semay mdri\nAmlakh amalkht kber bkhbri",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 279,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

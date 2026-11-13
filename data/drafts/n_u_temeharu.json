@@ -1,0 +1,53 @@
+{
+  "id": "h_9xv7nk669yg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንዑ ተመሓሩ",
+    "ti_ro": "ንዑ ተመሓሩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘይተማሕረ የለን ፍጹም ዝተነጽገ\nናባኻ ቀሪቡ ብጽድቂ ዘይማዕረገ\nይሓልፍ ኣሎ ወዲ ዳዊት ለዋህ መሓሪ\nኣቦ ሽጉራት ሸፋኒ ነውሪ\nምስ ሰማዕኩ ስምካ ‘ናቃላሕኩ ናባኻ ገስገስኩ\nኣብርሃለይ ኢለ በቲ ለጋስ ኢድካ ብርሃን ተዓደልኩ\nንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ\nዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ\nንዑ ተመሐሩ\n[[/chorus]]\n\nጽባቐ መልክዐይ ፍጹም ጠቢሩኒ\nማኅደር ጋኔን ኮይነ ኣብ ጥፍኣት ከዕነኒ\nቍንጅናይ ከድንቕ ኣብ ቅድሚ መስትያት ምስ ቆምኩ\nሓላፊ መልክዐይ ርእየ ሓዘንኩ\nከም ዕንበባ መሮር ብፀሓይ ዝቕምስል ሓሪረ ከይተርፍ\nከሊልካኒ ጐይታ ብኃያል ፍቕርኻ ብርኽሰት ከይጸድፍ\nንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ\nዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ\nንዑ ተመሐሩ\nዘመድ ገንዘብ ኮይነ ረብሐ ኣዕዊሩኒ\nብዓመጽ ክህብትም ሰላም ሃዲሙኒ\nስምካ ሰሚዐ ነዛ ክርእየካ ብሂገ\nቁመት ሓጺሩኒ ኣብ ኦም ዓሪገ\nዘይትፍንፍን ኣምላኽ ገበነይ ጐሲኻ ናብ ቤተይ ኣቲኻ\nተመስገን ክበረለይ ተባሪኹ ቤተይ በቲ ቅዱስ ስምካ\nንዑ ተመሓሩ /2/ ኣርዑትኩም ኣፍኵሱ\nዝደንዘዘ ልቢ ኢየሱስ እዩ ፈውሱ\nንዑ ተመሐሩ",
+    "ti_ro": "[[chorus]]\nZeytemahre yelen fts'um ztenets'ge\nNabakha qeribu bts'dqi zeyma'rege\nYhalf alo wedi dawit lewah mehari\nAbo shgurat shefani newri\nMs sema'ku smka ‘naqalahku nabakha gesgesku\nAbrhaley ile beti legas idka brhan te'adelku\nN'u temeharu /2/ ar'utkum afkwsu\nZdenzeze lbi iyesus yu fewsu\nN'u temeheru\n[[/chorus]]\n\nTs'baqe melk'ey fts'um t'ebiruni\nMahder ganen koyne ab t'fat ke'neni\nQwnjnay kednq ab qdmi mestyat ms qomku\nHalafi melk'ey rye hazenku\nKem 'nbeba meror bts'ehay zqmsl harire keyterf\nKelilkani gwayta bhayal fqrkha brkhset keyts'edf\nN'u temeharu /2/ ar'utkum afkwsu\nZdenzeze lbi iyesus yu fewsu\nN'u temeheru\nZemed genzeb koyne rebhe a'wiruni\nB'amets' khbtm selam hadimuni\nSmka semi'e neza kryeka bhige\nQumet hats'iruni ab om 'arige\nZeytfnfn amlakh gebeney gwasikha nab betey atikha\nTemesgen kbereley tebarikhu betey beti qdus smka\nN'u temeharu /2/ ar'utkum afkwsu\nZdenzeze lbi iyesus yu fewsu\nN'u temeheru",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 417,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

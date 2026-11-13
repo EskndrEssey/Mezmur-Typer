@@ -1,0 +1,53 @@
+{
+  "id": "h_8ae0hevxyte",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጸዳል ምድሪ ሎዛ",
+    "ti_ro": "ጸዳል ምድሪ ሎዛ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጸዳል ምድሪ ሎዛ ሰማያዊት ብርሃን\nቤትኤል መጸግዒት እምባ ናይ ክርስቲያን\nዘልዓለም ንበሪ ንውሉድ ወለዶ\nመርዓት ናይ ክርስቶስ ኣኽሊል ተዋህዶ\nኣጥባትኪ ዝጥዕም መዓር ወለላ\nሰትየ ዓጊበ ካብ ቃልኪ ዘለላ\nየለን እቲ ዝኾኖ በጀካኺ ንዓይ\nቤትኤል ሰማያዊት ወትሩ ክበርለይ\nጾረይ ከቢዱኒ ሸኸመይ በዚሑ\nመጽሓፍ ዕዳ ሞተይ ቅድመይ ተዘርጊሑ\nየእዳውኪ ጨቢጠ ሰጊረዮ ማዕበል\nኣራራት በጺሐ ብሓጎስ ክዘልል\n[[/chorus]]\n\nተቐቢለ ፍቕሪ ዘይመውት ሰላም\nኣብ ዓውደ ምሕረታ ወዲቐ ክሳለም\nደብረ ጽዮን ቅድስት ኢየሩሳሌም\nልዕል ልዕል በሊ ንዘልዓለም",
+    "ti_ro": "[[chorus]]\nTs'edal mdri loza semayawit brhan\nBetel mets'eg'it mba nay krstiyan\nZel'alem nberi nwlud weledo\nMer'at nay krstos akhlil tewahdo\nAt'batki zt''m me'ar welela\nSetye 'agibe kab qalki zelela\nYelen ti zkhono bejekakhi n'ay\nBetel semayawit wetru kberley\nTs'orey kebiduni shekhemey bezihu\nMets'haf 'da motey qdmey tezergihu\nYedawki ch'ebit'e segireyo ma'bel\nArarat bets'ihe bhagos kzell\n[[/chorus]]\n\nTeqebile fqri zeymewt selam\nAb 'awde mhreta wediqe ksalem\nDebre ts'yon qdst iyerusalem\nL'l l'l beli nzel'alem",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 240,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

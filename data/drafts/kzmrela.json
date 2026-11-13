@@ -1,0 +1,54 @@
+{
+  "id": "h_o2l1fmlrz1w",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክዝምረላ",
+    "ti_ro": "ክዝምረላ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመብራህቲ ድኅነት መሕደሪት ጸግዒ\nይግብኣ'ዩ ክብሪ ንዓኣ\nእግዚአብሔር ባዕሉ ልዕል ዘበላ /2/\nተመሪጻ ድንግል ለካ ተሓሲባ\nንእሳት ክትጸውር ብንጹህ ከርሳ\nለጋሲት ንብርሃን ወርሒ ዝበልዋ\nንጸሓይ ወለደት ብግርማ ኣጊጻ\nሰላም ነጒዱ ድምጺ ፍቕሪ\nጽድቂ ክቑጸር ከም ግብሪ ጽድቂ\nመድኅን ወሪዱ ማእከል ምድሪ\nመዓር ወለላ ከፍስስ ከዛሪ\n[[/chorus]]\n\nኣመና ውቅብቲ ወርቂ ስልማታ\nዘፈርፈር ዝልብሳ ኣኽሊላ ማዕሪጋ\nፍጹም ቅድስና ብኽልተ ወገና\nምልክቱ ጽድቂ ፈጣሪ ምውላዳ\nመንክር በሪቑ ብርሃን ወሊዑ\nዓለም ከድሕን ብክቡር ደሙ\nሓርነት ኮይኑ ኣዋጅ ድኅነት\nነፍሳት ዘመሩ ብሓጎስ ነፈሩ\nንጽህቲ ኣዳራሽ በረኸት ዘይጎድላ\nንዓለም መኽበሪት ምቁር ጽዋኣ\nዘይትፈርስ መቕደስ ዘይትጠፍእ ፋና\nቅዱሳን ትድግፍ ከውሒ እምባ ኮይና\nዘደንቕ ምስጢር ምድሓን ፈጺማ\nውሉድ ወለዶ ብጽእት ይብልዋ\nትምክሕቲ ኣበው ምንጪ ማይ ሕይወት\nድንግል ማርያም ፈውሲ ከቢድ ሕማም\n\nዘይትልወጥ በትሪ መሰረት ሃይማኖት\nመዝገብ ክውንን ዘይመውት ሰላም\nድንግል ተረስርስ ልበይ ተሐጉስ\nወትሩ ክዝምር ስማ ከስተማቕር",
+    "ti_ro": "[[chorus]]\nMebrahti dhnet mehderit ts'eg'i\nYgba'yu kbri n'aa\nGziebher ba'lu l'l zebela /2/\nTemerits'a dngl leka tehasiba\nNsat ktts'ewr bnts'uh kersa\nLegasit nbrhan werhi zbelwa\nNts'ehay weledet bgrma agits'a\nSelam negwidu dmts'i fqri\nTs'dqi kquts'er kem gbri ts'dqi\nMedhn weridu makel mdri\nMe'ar welela kefss kezari\n[[/chorus]]\n\nAmena wqbti werqi slmata\nZeferfer zlbsa akhlila ma'riga\nFts'um qdsna bkhlte wegena\nMlktu ts'dqi fet'ari mwlada\nMenkr beriqu brhan weli'u\n'Alem kedhn bkbur demu\nHarnet koynu awaj dhnet\nNefsat zemeru bhagos neferu\nNts'hti adarash berekhet zeygodla\nN'alem mekhberit mqur ts'waa\nZeytfers meqdes zeytt'ef fana\nQdusan tdgf kewhi mba koyna\nZedenq mst'ir mdhan fets'ima\nWlud weledo bts't yblwa\nTmkhti abew mnch'i may hywet\nDngl maryam fewsi kebid hmam\n\nZeytlwet' betri meseret haymanot\nMezgeb kwnn zeymewt selam\nDngl teresrs lbey tehegus\nWetru kzmr sma kestemaqr",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 354,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_2_possible_page_split"
+    ]
+  }
+}

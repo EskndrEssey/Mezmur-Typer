@@ -1,0 +1,53 @@
+{
+  "id": "h_9l40ktz3w12",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጐይታ ብመገሻ",
+    "ti_ro": "ጐይታ ብመገሻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብጻዕቂ ኣገልግሎት ኣዝያ ደኸመት\nማርታ ስለ ብዙሕ ኣይትሕሰቢ በላ\nውሑድ ከምዘድሊ ኣጥቢቑ ነገራ\nማርያም ጸውዓታ ክትሕግዛ ስራሕ\nስለ ዝተቐምጠት ምስ ጐይታ ሓቢራ\nማርያም ሰናይ ነገር እያ ዝመረጸት\nኣብ እግሩ ብምዃን ቃሉ’ያ ዝሰምዐት /2/\n[[/chorus]]\n\nኣብ ትሕቲ ኣእጋሩ ማርያም ስለ ዝረኣያ\nሰናይ ሓሪኺ ዘይውሰድ ካባኺ በላ\nኣብ ትሕቲ ኣእጋሩ ቃሉ ንኽንሰምዕ\nጐይታ ይሃበና ከም ናይ ማርያም ዕድል /2/\nጐይታ ዝደለናዮ ኣብሊጹ ክህበና\nብጥብቂ ንለምን ንክርስቶስ ኣምላኽና\nናይ ክርስቶስ ኣምላኽ ወረስቲ ክንከውን\nካብ ሕጂ ንለምን ውዕለቱ ንለምን /2/\n\nመንገድና ንሓዝ ጎደናና ነቕንዕ\nቃሉ ብምስማዕና ሕይወት ንኽንረክብ\nንለምን ንጐይታ ብንጹህ ልብና\nኣብ መስቀል ዝሞተ ክድምስስ ኃጢአትና /2/",
+    "ti_ro": "[[chorus]]\nBts'a'qi agelglot azya dekhemet\nMarta sle bzuh aythsebi bela\nWhud kemzedli at'biqu negera\nMaryam ts'ew'ata kthgza srah\nSle zteqemt'et ms gwayta habira\nMaryam senay neger ya zmerets'et\nAb gru bmkhwan qalu’ya zsem'et /2/\n[[/chorus]]\n\nAb thti agaru maryam sle zreaya\nSenay harikhi zeywsed kabakhi bela\nAb thti agaru qalu nkhnsem'\nGwayta yhabena kem nay maryam 'dl /2/\nGwayta zdelenayo ablits'u khbena\nBt'bqi nlemn nkrstos amlakhna\nNay krstos amlakh weresti knkewn\nKab hji nlemn w'letu nlemn /2/\n\nMengedna nhaz godenana neqn'\nQalu bmsma'na hywet nkhnrekb\nNlemn ngwayta bnts'uh lbna\nAb mesqel zmote kdmss hat'ietna /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 88,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

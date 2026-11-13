@@ -1,0 +1,53 @@
+{
+  "id": "h_2y8460admmi",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኃድፈኒ",
+    "ti_ro": "ኃድፈኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኃድፈኒ እምተሰጥሞ ጌጋይ ክቡድ /2/\nናሁ በላዕሌየ ተንሥአ ሞገድ /2/\nኣድሕነኒ ንኸይጠፍእ ወዲቐ ብኃጢኣት /2/\nኣባይ ወሪዱ'ሎ ናይ ቁጥዓ መዓት /2/\nኃድፈኒ ካብ ገሃነም ሓዊ ከቶ ካብዘይጠፍእ\n>>   ዝኸፍአ ኣውራ ካብቲ ዘፍርሕ\n>>   መፈንጠራ ሓጢኣት ንዓይ ከይሕዘኒ\n>>  ካብ ቤትካ ከይወጽእ ኣምላኽ ሓግዘኒ\n[[/chorus]]\n\nኃድፈኒ ካብ ዝወረደኒ ካብ ሽግር ካብ መዓት\n>>    ካብ ዝፍረደሉ ካብ ዳግማይ ምጽኣት\n>>   ጐይታይ ዝሓዝነሉ ካብ ድፍረት ኃጢአት\n>>   ካብ ተንኮል ካብ ቅንኢ ካብ ዘለዎ ክፍኣት\n\nኃድፈኒ ካብ ክፉእ ፈተና ካብ ዘማርረሉ\n>>  ካብ ዝሙት ካብ ርኽሰት ፍቕሪ ካብ ዘይብሉ\n>>  ካብ ምግባር ኃጢኣት ንዓይ ሓልወኒ\n>>  እግዚአብሔር ኣምላኸይ ካብ ኵሉ ኣድሕነኒ",
+    "ti_ro": "[[chorus]]\nHadfeni mteset'mo gegay kbud /2/\nNahu bela'leye tensse moged /2/\nAdhneni nkheyt'ef wediqe bhat'iat /2/\nAbay weridu'lo nay qut''a me'at /2/\nHadfeni kab gehanem hawi keto kabzeyt'ef\n>>   Zkhefe awra kabti zefrh\n>>   Mefent'era hat'iat n'ay keyhzeni\n>>  Kab betka keywets' amlakh hagzeni\n[[/chorus]]\n\nHadfeni kab zweredeni kab shgr kab me'at\n>>    Kab zfredelu kab dagmay mts'at\n>>   Gwaytay zhaznelu kab dfret hat'iet\n>>   Kab tenkol kab qni kab zelewo kfat\n\nHadfeni kab kfu fetena kab zemarrelu\n>>  Kab zmut kab rkhset fqri kab zeyblu\n>>  Kab mgbar hat'iat n'ay halweni\n>>  Gziebher amlakhey kab kwlu adhneni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 459,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

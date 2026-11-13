@@ -1,0 +1,53 @@
+{
+  "id": "h_rl8y271oyu2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣማኑኤል",
+    "ti_ro": "ኣማኑኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣማኑኤል /2/ ምሳና ኮነ እግዚአብሔር\nተወሊዱልና ኣብ ቤተልሔም\nዙርያኡ በሪሁ ቤተልሔም\nጐይታ እንክውለድ መድኃኔ ዓለም\nብርሃን ይከደን’ቲ ብርቱዕ ጸልማት\nምውላድ ኣምላኽና ድምጹ እንክስማዕ\n[[/chorus]]\n\nቲ ዝሓለፈ ናይ ጥፍኣት ጊዜ\nኣሕሊፍናዮ ኢና ኮይንና ኣብ  ትካዜ\nተሓጺብና ኢና ብክቡር ደሙ\nኣውሪሱና እዩ ፍቕሩ ሰላሙ\nምስ ርሓቕናዮ ሕጉ ገዲፍና\nፈትዩና እዩ’ሞ መጺኡ ኣድኂኑና\nሞገስ ኮይኑና ክብሪ ረኺብና\nንሓያል ጐይታ ንኣምኖ ኢና",
+    "ti_ro": "[[chorus]]\nAmanuel /2/ msana kone gziebher\nTewelidulna ab betelhem\nZuryau berihu betelhem\nGwayta nkwled medhane 'alem\nBrhan ykeden’ti brtu' ts'elmat\nMwlad amlakhna dmts'u nksma'\n[[/chorus]]\n\nTi zhalefe nay t'fat gize\nAhlifnayo ina koynna ab  tkaze\nTehats'ibna ina bkbur demu\nAwrisuna yu fqru selamu\nMs rhaqnayo hgu gedifna\nFetyuna yu’mo mets'iu adhinuna\nMoges koynuna kbri rekhibna\nNhayal gwayta namno ina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 121,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

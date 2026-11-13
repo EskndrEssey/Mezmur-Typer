@@ -1,0 +1,53 @@
+{
+  "id": "h_f1zhbz91vft",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣሰይ ኣሰይ ኣማላዲት",
+    "ti_ro": "ኣሰይ ኣሰይ ኣማላዲት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግል ማርያም ረዳኢት\nመንግስተ ሰማይ መራሒት\nሓያል እግዚአብሔር ጸዋሪት\nኣዳም ምስ ኣበሰ ተሰጐ ካብ ገነት\nወረደ ካብ ክብሪ ናይቶም መላእክት\nውልድነት ስኢኑ ናብ ምድሪ እክድርበ\nብድንግል ማርያም ምድኃኑ ረኸበ\n[[/chorus]]\n\nሰሎሞን’ውን በለ ኣብቲ ምሳሌኡ\nክገልጻ ንድንግል መንፈስ ተመሊኡ\nዝተሓትመት ዒላ ማይ ሕይወት ዝወጻ\nኣክሊል ኮኮብ ጌራ ወርሒ ብትርጋጻ\nካብ ብርሃን ከዋክብት ግርማኺ ኣንጸብሪቑ\nክርስቶስ መድኃኒት ጸሓይኪ በሪቑ\nሃብቲ ናይ ሰማያት ንዓኺ ምስ ሃበ\nፍጡር ወዲ ኣዳም ኣባኺ ኣጽለለ\n\nእግዚአብሔር  ጠመተ ናብዛ ምድሪ ገጹ\nመሕደሪት ክትኮኖ ካብ ሰባት መሪጹ\nብነፍስን ብስጋን አምላክ ዝሰመራ\nንጽህቲ ኣዳራሽ ልዑል ዝሓደራ",
+    "ti_ro": "[[chorus]]\nDngl maryam redait\nMengste semay merahit\nHayal gziebher ts'ewarit\nAdam ms abese tesegwa kab genet\nWerede kab kbri naytom melakt\nWldnet sinu nab mdri kdrbe\nBdngl maryam mdhanu rekhebe\n[[/chorus]]\n\nSelomon’wn bele abti msaleu\nKgelts'a ndngl menfes temeliu\nZtehatmet 'ila may hywet zwets'a\nAklil kokob gera werhi btrgats'a\nKab brhan kewakbt grmakhi ants'ebriqu\nKrstos medhanit ts'ehayki beriqu\nHabti nay semayat n'akhi ms habe\nFt'ur wedi adam abakhi ats'lele\n\nGziebher  t'emete nabza mdri gets'u\nMehderit ktkono kab sebat merits'u\nBnefsn bsgan emlak zsemera\nNts'hti adarash l'ul zhadera",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 485,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

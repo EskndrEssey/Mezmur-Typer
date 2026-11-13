@@ -1,0 +1,53 @@
+{
+  "id": "h_jegzw5qwgy0",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ቀራንዮ በረኸተይ",
+    "ti_ro": "ናይ ቀራንዮ በረኸተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ቀራንዮ በረኸተይ\nመን ኢለ ክሰምያ እመቤተይ\nክገልጻ ስኢነ ቋንቋ\nዕጹብ'ያ ኢለያ በቃ /2/\nመሃረኒ'ባ ኣባ ሕርያቆስ\nጽዮን ንኽብላ ስማ ክቕድስ\nኤፍሬም ኣርእየኒ ናታ ምስጋና\nናታ ውዕለታት ስኢኑ መዘና\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ/2/\nህያብነትኪ ተቐቢለየ\nከም ዮሓንስ ወዲ ተሰምየ\nትሕቲ መስቀሉ ኣለኒ ኪዳን\nእንሀት ክብል ሰሚዐ በእዛን\nኣነስ ኢለኪ ኣደይ\nኢኺ'ሞ በረኸተይ/2/\n[[/chorus]]\n\nዙፋን እግዚአብሔር ቅድስት ከተማ\nቤልሆር ይርዕድ ድምጻ ክስማዕ\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ/2/",
+    "ti_ro": "[[chorus]]\nNay qeranyo berekhetey\nMen ile ksemya mebetey\nKgelts'a sine qwanqwa\n'Ts'ub'ya ileya beqa /2/\nMehareni'ba aba hryaqos\nTs'yon nkhbla sma kqds\nEfrem aryeni nata msgana\nNata w'letat sinu mezena\nThti semay men ma'rekhi\nQalat sine 'ts'ub bleki\nNskhis flyti ikhi\nAb zemeney reki/2/\nHyabnetki teqebileye\nKem yohans wedi tesemye\nThti mesqelu aleni kidan\nNhet kbl semi'e bezan\nAnes ileki adey\nIkhi'mo berekhetey/2/\n[[/chorus]]\n\nZufan gziebher qdst ketema\nBelhor yr'd dmts'a ksma'\nThti semay men ma'rekhi\nQalat sine 'ts'ub bleki\nNskhis flyti ikhi\nAb zemeney reki/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 145,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

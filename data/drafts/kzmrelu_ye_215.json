@@ -1,0 +1,53 @@
+{
+  "id": "h_e6ox3z3gpl5",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክዝምረሉ’የ",
+    "ti_ro": "ክዝምረሉ’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክዝምረሉ’የ ብዓውታ ዝማሬ\nነቲ ፈጣርየይ ምስ ሰበይ ሓቢረ\nንሱ’ዩ `ቲ ኣምላኽ ሓቀኛ ጐይታ\nብርሃነይ ምድሓነይ እቲ ጽኑዕ ዋልታ/2/\nሸተት እንከይብል ኣብ ዓዘቕቲ ኃጢኣት\nብፍጹም ከይጥሕል ኣብ ዘልዓለም ጥፍኣት\nርድኣኒ ጐይታየ ንቑስለይ ፈውሶ\nኣህድኣዮ ልበይ ሓዘነይ ደብሶ /2/\n[[/chorus]]\n\nብሓቂ ክገድፎ ‘ቲ ሕማቕ ኣመለይ\nመዋእለይ ኵሉ ፍቕሪ ክኾነለይ\nብርሃንካ ኣብርሃለይ ከይዕንቀፍ ከይወድቕ\nደግፈኒ ጐይታይ ብፍቕሪ ክማሙቕ /2/\nፍረ ንኽፈሪ መርኣያ እምነተይ\nኵሉ ንኽሓድጎ ሕሱም ምግባራተይ\nመን’ዩ ዝመስለካ መስፍን ዘልዓለም\nደስታ ሓጎስ ልበይ ክበር መድኃኔ ዓለም /2/",
+    "ti_ro": "[[chorus]]\nKzmrelu’ye b'awta zmare\nNeti fet'aryey ms sebey habire\nNsu’yu `ti amlakh haqenya gwayta\nBrhaney mdhaney ti ts'nu' walta/2/\nShetet nkeybl ab 'azeqti hat'iat\nBfts'um keyt'hl ab zel'alem t'fat\nRdani gwaytaye nqusley fewso\nAhdayo lbey hazeney debso /2/\n[[/chorus]]\n\nBhaqi kgedfo ‘ti hmaq ameley\nMewaley kwlu fqri kkhoneley\nBrhanka abrhaley key'nqef keywedq\nDegfeni gwaytay bfqri kmamuq /2/\nFre nkhferi meraya mnetey\nKwlu nkhhadgo hsum mgbaratey\nMen’yu zmesleka mesfn zel'alem\nDesta hagos lbey kber medhane 'alem /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 215,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

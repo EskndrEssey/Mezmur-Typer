@@ -1,0 +1,53 @@
+{
+  "id": "h_aezv5hqh6d4",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሚካኤል",
+    "ti_ro": "ሚካኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ እግዚአብሔር ልኡኽ\nረዳኢ ድኹም\nነዓና ተማልድ ንደቂ ሰባት                    ሚካኤል\nጸሎት ተቕርብ ንጹህ መስዋእቲ               >> >>\nስርየት ኅድገት ኃጢኣት ንኽንረክብ ጽድቅ   >> >>\nሕያዋይ ኣቦ ኢኻ ረዳኢ ብሓቂ               >> >>\n[[/chorus]]\n\nብቕጽበት ትመጽእ ካብ ሰማያት     ሚካኤል\nኣብ ምድሪ ትበጽሕ ንምሕረት       >> >>\nሽግር እትቕይር ናብ ፍጹም ሓጎስ    >> >>\nስምካ ንዝጽውዕ እትወሓስ           >> >>\nኦ ሚካኤል መልኣኽ ለዋህ ኢኻ    ሚካኤል\nነቲ ምስኪን ድኻ ዝረዳእኻ          >> >>\nነቲ ደብዳቤ ሞት መርዓ ዝቐየርካ   >> >>\nሕይወትና ቀይሮ ሎሚ ብጸሎትካ   >> >>",
+    "ti_ro": "[[chorus]]\nNay gziebher lukh\nRedai dkhum\nNe'ana temald ndeqi sebat                    mikael\nTs'elot teqrb nts'uh meswati               >> >>\nSryet hdget hat'iat nkhnrekb ts'dq   >> >>\nHyaway abo ikha redai bhaqi               >> >>\n[[/chorus]]\n\nBqts'bet tmets' kab semayat     mikael\nAb mdri tbets'h nmhret       >> >>\nShgr tqyr nab fts'um hagos    >> >>\nSmka nzts'w' twehas           >> >>\nO mikael melakh lewah ikha    mikael\nNeti mskin dkha zredakha          >> >>\nNeti debdabe mot mer'a zqeyerka   >> >>\nHywetna qeyro lomi bts'elotka   >> >>",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 214,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

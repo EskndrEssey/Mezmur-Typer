@@ -1,0 +1,53 @@
+{
+  "id": "h_lt2liedsyym",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሃሌ ሉያ",
+    "ti_ro": "ሃሌ ሉያ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሃሌ ሉያ ንእግዚአብሔር ኣመስግንዎ /2/\nንኣምላኽ እስራኤል ንእግዚአብሔር ኣመስግንዎ\nንሓያል ኣምላኽና     ኣመስግንዎ\nኣብ ቅዱስ መቕደሱ   >>  >>\nንግብርታት ሓይሉ    >>  >>\nንልዑል ዕቤቱ         >>  >>\n[[/chorus]]\n\nብድምጺ መለኸት  ኣመስግንዎ\nብጥዑም በገና      >>  >>\nብደሃይ እምብልታ  >>  >>\nብጥዑም መሰንቆ   >>  >>\nብናይ ቃና ኣውታር  ኣመስግንዎ\nብጥዑም ጸናጽል     >>  >>\nዜማ ጾመ ድጓ           >>  >>\nብኣርያምን ድጓን       >>  >>\nብጥዑም ማህሌት   ኣመስግንዎ\nብግሩም ዝማሜ    >>  >>\nብጥዑም መረግድ   >>  >>\nብዝማሬ ቅኔ         >>  >>\n\nሕያው ዘበለ ፍጥረት\nንእግዚአብሔር የመስግን ሃሌ ሉያ",
+    "ti_ro": "[[chorus]]\nHale luya ngziebher amesgnwo /2/\nNamlakh srael ngziebher amesgnwo\nNhayal amlakhna     amesgnwo\nAb qdus meqdesu   >>  >>\nNgbrtat haylu    >>  >>\nNl'ul 'betu         >>  >>\n[[/chorus]]\n\nBdmts'i melekhet  amesgnwo\nBt''um begena      >>  >>\nBdehay mblta  >>  >>\nBt''um mesenqo   >>  >>\nBnay qana awtar  amesgnwo\nBt''um ts'enats'l     >>  >>\nZema ts'ome dgwa           >>  >>\nBaryamn dgwan       >>  >>\nBt''um mahlet   amesgnwo\nBgrum zmame    >>  >>\nBt''um meregd   >>  >>\nBzmare qne         >>  >>\n\nHyaw zebele ft'ret\nNgziebher yemesgn hale luya",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 242,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

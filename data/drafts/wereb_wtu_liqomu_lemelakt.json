@@ -1,0 +1,51 @@
+{
+  "id": "h_n22h2qop0tc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "ውእቱ ሊቆሙ ለመላእክት\nወመልኣኮሙ ቅዱስ ሚካኤል\nልብሱ ዘመብረቅ ዓይኑ ዘርግብ ሊቀ መላእክት",
+    "ti_ro": "Wtu liqomu lemelakt\nWemelakomu qdus mikael\nLbsu zemebreq 'aynu zergb liqe melakt",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 691,
+    "needs_review": []
+  }
+}

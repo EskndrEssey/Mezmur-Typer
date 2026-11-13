@@ -1,0 +1,53 @@
+{
+  "id": "h_m0ve8lilfm7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘፍቀረና",
+    "ti_ro": "ዘፍቀረና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዝያዳ ኵሉ ፍጥረቱ ኣብሊጹ ንዘፍቀረና\nውሬታ ንምለሰሉ ብመዝሙር ምስጋና\nንምንጪ ሕይወት አምላክ ናይ ኣቦታትና\nብግብሪ ዓቢና ኣብ ቅድስት እምነትና /2/\nዘኽቲምና ክነብር ዘይሓደገና ኣቦ\nብርሃን’ዩ መርሓዊ ንኵሉ ዝጸበቦ\nብፍቕርን ሰላምን ንሕይወትና ዘጽለሎ\nንቕዱስ ኣምላኽና የብሉን ዝመስሎ /2/\n[[/chorus]]\n\nኣምላኽ ኣማልክት’ዩ ፍጹም ምሉእ ለዋህ\nመስፈር ኣልቦ ፍቕሩ ብሓሳብ ዘይብጻሕ\nብበረኸት ወንጌል ብቅዱስ ምስጢሩ\nሕይወትና ዘድሓነ ጸላኢ ኣሲሩ /2/\nቁስልና ዝዝንን ሕያዋይ ሳምራዊ\nንሱ’ዩ አምላክና ክርስቶስ ኖላዊ\nኣሰሩ ንርገጾ ንስዓቦ ሓቢርና\nትንሳኤ ክንረክብ ንዕኡ መሲልና /2/",
+    "ti_ro": "[[chorus]]\nZyada kwlu ft'retu ablits'u nzefqerena\nWreta nmleselu bmezmur msgana\nNmnch'i hywet emlak nay abotatna\nBgbri 'abina ab qdst mnetna /2/\nZekhtimna knebr zeyhadegena abo\nBrhan’yu merhawi nkwlu zts'ebebo\nBfqrn selamn nhywetna zets'lelo\nNqdus amlakhna yeblun zmeslo /2/\n[[/chorus]]\n\nAmlakh amalkt’yu fts'um mlu lewah\nMesfer albo fqru bhasab zeybts'ah\nBberekhet wengel bqdus mst'iru\nHywetna zedhane ts'elai asiru /2/\nQuslna zznn hyaway samrawi\nNsu’yu emlakna krstos nolawi\nAseru nrgets'o ns'abo habirna\nTnsae knrekb n'u mesilna /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 325,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

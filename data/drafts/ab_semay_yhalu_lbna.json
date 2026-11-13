@@ -1,0 +1,53 @@
+{
+  "id": "h_cllo3m9o6z2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ሰማይ ይሃሉ ልብና",
+    "ti_ro": "ኣብ ሰማይ ይሃሉ ልብና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ሰማይ ይሃሉ ልብና\nምስ’ቲ ፈቃር ለዋህ ኣቦና\nምሕረቱን ሰላሙን ክውርደልና /2/\nወልደ ነጎድጓድ ዮሐንስ\nክብሪ ዝሃቦ መንፈስቅዱስ\nመስኮት ናይ ሰማይ ተኸፊቱ\nምሥጢር እግዚአብሔር ተመልኪቱ\n[[/chorus]]\n\nናብ ሣልሳይ ሰማይ ተመሲጡ\nናይ ሰማይ ምስጢር’ውን ፈሊጡ\nቅዱስ ጳውሎስ ብርሃን ዓለም\nክብሩ ዝነብር ንዘልዓለም\nዜማ መላእክት ተመሊኡ\nያሬድ ክዝምር ተቐቢኡ\nሽዱሽተ ኣኽናፍ ተዓዲሉ\nክብሪ ሱራፌል ተቐቢሉ",
+    "ti_ro": "[[chorus]]\nAb semay yhalu lbna\nMs’ti feqar lewah abona\nMhretun selamun kwrdelna /2/\nWelde negodgwad yohens\nKbri zhabo menfesqdus\nMeskot nay semay tekhefitu\nMsst'ir gziebher temelkitu\n[[/chorus]]\n\nNab Ssalsay semay temesit'u\nNay semay mst'ir’wn felit'u\nQdus p'awlos brhan 'alem\nKbru znebr nzel'alem\nZema melakt temeliu\nYared kzmr teqebiu\nShdushte akhnaf te'adilu\nKbri surafel teqebilu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 222,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_b2x6zktct84",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘኬዎስ ዘኬዎስ",
+    "ti_ro": "ዘኬዎስ ዘኬዎስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘኬዎስ ዘኬዎስ ንዓ ውረድ ካብ ሳግላ ንቤትካ ክውዕላ /2/\nብበረኸት በዓል ምሉእ ጸጋ ንኽትከውን ምስ ኣልፋ ኦሜጋ /2/\nነዚ ቃል ምስ ሰምዐ ብፍጥነት ወረደ\nጐይታ ንኽርኢ ድሌቱ ዛየደ\nኣብ ቤቱ ክምሳሕ ጐይታ ምስ ፈቐደ\n[[/chorus]]\n\nነንዝዓመጾም ዓጸፋ ክመልስ\nእናልዓለ ሳጹን ኣብ ቅድሚ ክርስቶስ\nብጥብኣት’ውን ቆመ ዘጉሃዮም ክኽሕስ\nብሓጎስ ብደስታ ንየው ነጀው እናበለ\nከም እተፈትሐት ብተይ ኮይኑ እናዘለለ\nናይ ሕይወቱ ራእይ ስለ ዘስተብሃለ\n\nንሕና’ውን ንደይብ ናብ ሳግላና ሕይወት\nቤት መቕደስ ኣምላኽያ ናይ እምነት መሰረት\nከም ዘኬዎስ ንኹን ንኽንረክብ ድኅነት\nንሕና’ውን ንደይብ . . .",
+    "ti_ro": "[[chorus]]\nZekewos zekewos n'a wred kab sagla nbetka kw'la /2/\nBberekhet be'al mlu ts'ega nkhtkewn ms alfa omega /2/\nNezi qal ms sem'e bft'net werede\nGwayta nkhri dletu zayede\nAb betu kmsah gwayta ms feqede\n[[/chorus]]\n\nNenz'amets'om 'ats'efa kmels\nNal'ale sats'un ab qdmi krstos\nBt'bat’wn qome zeguhayom kkhhs\nBhagos bdesta nyew nejew nabele\nKem tefethet btey koynu nazelele\nNay hywetu ray sle zestebhale\n\nNhna’wn ndeyb nab saglana hywet\nBet meqdes amlakhya nay mnet meseret\nKem zekewos nkhun nkhnrekb dhnet\nNhna’wn ndeyb . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 309,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

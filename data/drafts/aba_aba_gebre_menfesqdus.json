@@ -1,0 +1,53 @@
+{
+  "id": "h_f5ywnogjalc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣባ ኣባ ገብረ መንፈስቅዱስ",
+    "ti_ro": "ኣባ ኣባ ገብረ መንፈስቅዱስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣባ ኣባ ገብረ መንፈስቅዱስ\nኃበ ዓምደወርቅ /2/ ስሙ ጽሑፍ /2/\nቀሲስ ጸገዝኣብ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nAba aba gebre menfesqdus\nHabe 'amdewerq /2/ smu ts'huf /2/\nQesis ts'egezab\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 241,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

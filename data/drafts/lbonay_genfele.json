@@ -1,0 +1,53 @@
+{
+  "id": "h_6kk4l3pkr9y",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልቦናይ ገንፈለ",
+    "ti_ro": "ልቦናይ ገንፈለ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልቦናይ ገንፈለ ጽቡቕ ነገር ጥራይ\nኣነ ከመስግና ንማርያም ኣደይ\nብውሑድ ደኣ እምበር ብብዙሕ ኣይኮነን\nኣማላዲት ዓለም ድንግል ማርያም ኣደይ\nሰላምታ ንዓኺ ጽዮን ድንግል ኣደይ\nብልመና ናትኪ ድኂና ሕይወተይ\nርስቲ ናይ ቀራንዮ ኣደይ ኢኺ ናተይ\nከመስግነኪየ ኣብ ዘመን ሕይወተይ /2/\nሃብታማት ናይ ምድሪ ኣብ ፊትኪ ሰገዱ\nሓያላት ናይ ዓለም ኩሎም ተዋረዱ\nፍቕሪ ኣደነትኪ ስሒቡኒ እዩ\nእመ አምላክ ሓደራ ንዓይ ተመልከቲ /2/\n[[/chorus]]\n\nንጉሥ ጽባቐኺ ብሂጉ ኣፍቂሩ\nትሕትናኺ ርእዩ ኣባኺ ሓዲሩ\nወርቂ ተሰሊምኪ ኣብ ቅድሚኡ ቆይምኪ\nንዅሉ ወለዶ መመክሒት ኢኺ /2/",
+    "ti_ro": "[[chorus]]\nLbonay genfele ts'buq neger t'ray\nAne kemesgna nmaryam adey\nBwhud dea mber bbzuh aykonen\nAmaladit 'alem dngl maryam adey\nSelamta n'akhi ts'yon dngl adey\nBlmena natki dhina hywetey\nRsti nay qeranyo adey ikhi natey\nKemesgnekiye ab zemen hywetey /2/\nHabtamat nay mdri ab fitki segedu\nHayalat nay 'alem kulom tewaredu\nFqri adenetki shibuni yu\nMe emlak hadera n'ay temelketi /2/\n[[/chorus]]\n\nNguss ts'baqekhi bhigu afqiru\nThtnakhi ryu abakhi hadiru\nWerqi teselimki ab qdmiu qoymki\nNkhwlu weledo memekhit ikhi /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 89,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_m9h6vt8hdxl",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ደጌታት ጽዮን",
+    "ti_ro": "ደጌታት ጽዮን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nደጌታት ጽዮን ቅኔ ተመልኡ\nንክብሪ ድንግል ዕልል እናበሉ\nከም ጻዕዳ ዑንቂ ንዘብርህ\nስማ እንክንጽውዕ ንፍሣህ /2/\nሓይሊ ንዘለዎ ነቲ ፍትው ስምኪ\nንዋያተ ዜማ ድንግል ኣልዓልናልኪ\nካብ ማዕሙቕ ወጻእና መንኮብኪ ጼሩና\nንጽዮን ብዕልልታ ብዜማ ሸፈንና\nምኽሪ ናይ ጠቢባን ጠፍአ ተሰዊሩ\nምስጢር ተገሊጹ ንህጻናት ኣእምሮ\nቤተልሔም ሰምዐት ናይ ብስራት ዜማ\nፍቕሪ ተፈነወ ካብ ናይ ልዑል ከተማ\n[[/chorus]]\n\nምስ ሓያል ወድኺ ክርስቶስ ጸባዖት\nሓሊፍናዮ ኢና ነቲ ጎቦታት ሞት\nፍሬኺ ክንጥዕም ልብና ይረግእ\nሰላም’ዩ ካብ ሕጂ የብልናን ዘስግእ\n\nዘማሪት ብርትኳን መለስ",
+    "ti_ro": "[[chorus]]\nDegetat ts'yon qne temelu\nNkbri dngl 'll nabelu\nKem ts'a'da 'unqi nzebrh\nSma nknts'w' nfssah /2/\nHayli nzelewo neti ftw smki\nNwayate zema dngl al'alnalki\nKab ma'muq wets'ana menkobki ts'eruna\nNts'yon b'llta bzema shefenna\nMkhri nay t'ebiban t'efe tesewiru\nMst'ir tegelits'u nhts'anat amro\nBetelhem sem'et nay bsrat zema\nFqri tefenewe kab nay l'ul ketema\n[[/chorus]]\n\nMs hayal wedkhi krstos ts'eba'ot\nHalifnayo ina neti gobotat mot\nFrekhi knt''m lbna yreg\nSelam’yu kab hji yeblnan zesg\n\nZemarit brtkwan meles",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 158,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

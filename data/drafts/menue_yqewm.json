@@ -1,0 +1,53 @@
+{
+  "id": "h_90ti0aa4fj2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መኑአ ይቀውም",
+    "ti_ro": "መኑአ ይቀውም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመኑአ ይቀውም ቅድመ መንበሩ ለልዑል\nአመ ምጽአቱ ዳግመ ይኰንና ለምድር\nጐይታ ክመጽእ’ዩ ብመዓልቲ ፍርዲ\nግርማኡ ለቢሱ ደፊኡ’ውን ዘውዲ\nብድምጺ መለኸት ብዘፍርሕ ነውጺ\nንፍጥረት ናይ ኣዳም ዓስቦም ንኽፈዲ\nኩሎም ክቖሙ’ዮም ዘርኢ ደቂ ኣዳም\nኣብ ቅድሚ ጐይታኦም መድኃኔ ዓለም\nመንግስተይ ውረሱ ዕጡቓት ንጽህና\nንዑ ናባይ ደቀይ ምሉኣት ትሕትና\nንኃጥኣን’ውን ይብሎም ብቓል ናይ ወቐሳ\nሕገይ ዘይሓለኹም ምሉኣት ኣበሳ\nዘየፍረኹም መኽሊት ናይ ስሳ ሰላሳ\nካብ ቅድመይ ረሓቑ ውሉዳት ዲያብሎስ\n[[/chorus]]\n\nሽዑ ክኸውን’ዩ ብኽያትን ሓዘንን\nኣዴታት ኣይሰምዓን ኣውያት ናይ ውሉደን\nንብዓት ክውሕዝ’ዩ ከም ፈለገ ግዮን\nእዚ ክኸውን’ዩ ብጽሒት ኃጥኣን\nንምሕጸን ኣለና ብስጋኻ ደምካ\nንምሕጸን ኦ ጐይታ ብማርያም ኣዴኻ\nንምሕጸን ኣሎና በቶም ቅዱሳንካ\nኩላትና ክንኣቱ ኣብ ሰማያዊት ቤትካ",
+    "ti_ro": "[[chorus]]\nMenue yqewm qdme menberu lel'ul\nEme mts'etu dagme ykwanna lemdr\nGwayta kmets'’yu bme'alti frdi\nGrmau lebisu defiu’wn zewdi\nBdmts'i melekhet bzefrh newts'i\nNft'ret nay adam 'asbom nkhfedi\nKulom kqomu’yom zeri deqi adam\nAb qdmi gwaytaom medhane 'alem\nMengstey wresu 't'uqat nts'hna\nN'u nabay deqey mluat thtna\nNhat'an’wn yblom bqal nay weqesa\nHgey zeyhalekhum mluat abesa\nZeyefrekhum mekhlit nay Ssa selasa\nKab qdmey rehaqu wludat diyablos\n[[/chorus]]\n\nSh'u kkhewn’yu bkhyatn hazenn\nAdetat aysem'an awyat nay wluden\nNb'at kwhz’yu kem felege gyon\nZi kkhewn’yu bts'hit hat'an\nNmhts'en alena bsgakha demka\nNmhts'en o gwayta bmaryam adekha\nNmhts'en alona betom qdusanka\nKulatna knatu ab semayawit betka",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 860,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

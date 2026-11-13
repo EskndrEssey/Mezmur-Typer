@@ -1,0 +1,53 @@
+{
+  "id": "h_szibehdfvu1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተሓቲምኪ",
+    "ti_ro": "ተሓቲምኪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተሓቲምኪ ኣብ ልቦና ሰብ\nናይ ድኹማት ኢኺ’ሞ ምርኩስ\nክውድስ’የ ብሓድሽ ምስጋና\nኣደ ጐይታይ ጌና’ዩ ፍቕረይ\nሕያዋይ ልብኺ መዕረፊ ድኻታት\nንንፋስ ውቅያኖስ ንማዕበል መስገሪት\nወሪስና ንስምኪ ካብቲ መዝገብ ወርቂ\nወሊድክልና ድንግል ንጸሓይ ጽድቂ\nወድኺ ኣሚነ እንታይ ይጎድለኒ\nዝጨንቀኒ ኵሉ ይእዘዘኒ\nጽዮን ኢልና ኢና ብሓደራ ናትኪ\nሞት ኣይንርእን ኣዴና ከለኺ\nጽዮን ኢልና ኢና ኢኺ መዕቆቢትና\nሞት ኣይንርእን ከለኺ ኣዴና\nተኸቢቡ’ቲ እምባ ብብሩህ ደመና\nወልደኣብ ክርስቶስ ካባኺ መጺኡልና\nኣፍና’ውን መሊኡ ምስጋና ዕልልታ\nብዘይካኺ ኣይረኣኹን መቕደስ ኣደ ጐይታ\nጽዮን ኢልና ኢና ብሓደራ ናትኪ\nሞት ኣይንርእን ኣዴና ከለኺ\nጽዮን ኢልና ኢና ኢኺ መዕቆቢትና\nሞት ኣይንርእን ከለኺ ኣዴና\n[[/chorus]]\n\nጉልበት ጸላእየይ ጽንዓቱ ሰቢርኪ\nወዲ ሰብ ካብ ሲኦል ካብ ሞት ወጺኦሙልኪ\nጥዒምዋ ነፍሰይ ናይ ማህጸንኪ ፍረ\nክጽውዓኪ እየ ብጥዑም  ዝማሬ\nጽዮን ኢልና ኢና ብሓደራ ናትኪ\nሞት ኣይንርእን ኣዴና ከለኺ\nጽዮን ኢልና ኢና ኢኺ መዕቆቢትና\nሞት ኣይንርእን ከለኺ ኣዴና",
+    "ti_ro": "[[chorus]]\nTehatimki ab lbona seb\nNay dkhumat ikhi’mo mrkus\nKwds’ye bhadsh msgana\nAde gwaytay gena’yu fqrey\nHyaway lbkhi me'refi dkhatat\nNnfas wqyanos nma'bel mesgerit\nWerisna nsmki kabti mezgeb werqi\nWelidklna dngl nts'ehay ts'dqi\nWedkhi amine ntay ygodleni\nZch'enqeni kwlu yzezeni\nTs'yon ilna ina bhadera natki\nMot aynrn adena kelekhi\nTs'yon ilna ina ikhi me'qobitna\nMot aynrn kelekhi adena\nTekhebibu’ti mba bbruh demena\nWeldeab krstos kabakhi mets'iulna\nAfna’wn meliu msgana 'llta\nBzeykakhi ayreakhun meqdes ade gwayta\nTs'yon ilna ina bhadera natki\nMot aynrn adena kelekhi\nTs'yon ilna ina ikhi me'qobitna\nMot aynrn kelekhi adena\n[[/chorus]]\n\nGulbet ts'elayey ts'n'atu sebirki\nWedi seb kab siol kab mot wets'iomulki\nT''imwa nefsey nay mahts'enki fre\nKts'w'aki ye bt''um  zmare\nTs'yon ilna ina bhadera natki\nMot aynrn adena kelekhi\nTs'yon ilna ina ikhi me'qobitna\nMot aynrn kelekhi adena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 60,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_wdo44adiks0",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "ኣማህኩኪ ቅድስት ቤተክርስቲያን /2/\nከብካብ ኮነ በቃና ዘገሊላ\nደምጸ እንዚራ ውስተ ቤተእግዚአብሔር",
+    "ti_ro": "Amahkuki qdst betekrstiyan /2/\nKebkab kone beqana zegelila\nDemts'e nzira wste betegziebher",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 826,
+    "needs_review": []
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "h_0rwn5z9qswl",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ግሩም ድንቂ’ዩ",
+    "ti_ro": "ግሩም ድንቂ’ዩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nግሩም ድንቂ’ዩ ኣምላኸይ ግሩም ድንቂ’ዩ\nግሩም ድንቂ’ዩ ጐይታየይ ግሩም ድንቂ’ዩ\nሰብ ንዝድርብዮ ካብ ምድሪ የልዕሎ እዩ\nንርሱዕ`ውን ኣምላኸይ ይዝክር እዩ\nኣብ ቤተ ሳይዳ ዘልዓለ ኣብ ዓራት ዘሎ\nመጺኡ ሎሚ ክረድእ ንወገን ዘይብሉ\nእንዳ ኃጥእ ሰብ ይኣቱ ድራር ክበልዕ\nፈቃር ኣምላኽ’ዩ ዘልዓለም ሰላም ዝዘርእ\nከም ኣምላኽና’ሲ ማንም የለን (2)\nከም እግዚአብሔር ማንም የለን (2)\nከም ፈጣሪና ማንም የለን (2)\nከም ኣማኑኤል ማንም የለን (2)\nዝተደርበየ ኣልዒሉ ሸይሙ የኽብሮ\nምሕረት`ውን ይህቦ ደምሲሱ ንዝገበሮ\nኣኽሊል የልብስ ኣቕኒዑ ንዝደነነ\nጸግዒ ይኸውን ኣምላኸይ ንዝሰኣነ\nየጸናንዖ ንሕዙን ፍቕሩ ለጊሱ\nጭንቂ ዘርሕቕ ኣምላኸይ ኣኽራን ኣፍሪሱ\nካብ ሕጂ የለን ቅድሚኡ ገዛኢ ሲኦል\nነቲ ዝቖመ ብእምነት ኣብ እግሪ መስቀል\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nGrum dnqi’yu amlakhey grum dnqi’yu\nGrum dnqi’yu gwaytayey grum dnqi’yu\nSeb nzdrbyo kab mdri yel'lo yu\nNrsu'`wn amlakhey yzkr yu\nAb bete sayda zel'ale ab 'arat zelo\nMets'iu lomi kred nwegen zeyblu\nNda hat' seb yatu drar kbel'\nFeqar amlakh’yu zel'alem selam zzer\nKem amlakhna’si manm yelen (2)\nKem gziebher manm yelen (2)\nKem fet'arina manm yelen (2)\nKem amanuel manm yelen (2)\nZtederbeye al'ilu sheymu yekhbro\nMhret`wn yhbo demsisu nzgebero\nAkhlil yelbs aqni'u nzdenene\nTs'eg'i ykhewn amlakhey nzseane\nYets'enan'o nhzun fqru legisu\nCh'nqi zerhq amlakhey akhran afrisu\nKab hji yelen qdmiu gezai siol\nNeti zqome bmnet ab gri mesqel\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 81,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

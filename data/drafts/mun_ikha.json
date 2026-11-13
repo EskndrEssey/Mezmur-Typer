@@ -1,0 +1,53 @@
+{
+  "id": "h_e66jf70luaz",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እሙን ኢኻ",
+    "ti_ro": "እሙን ኢኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትርከበሎም ንዝደልዩኻ\nርሑው’ዩ ቤትካ ንዝኵሕኩሑ\nድምጾም ትሰምዖ ንዝጭርሑ /2/\nመሓረኒ ጐይታ ኢለ ምስ ጨራሕኩ\nናብኡ ወሰዱኒ ኣብ ቅድሚኡ ቆምኩ\nዕዉራት የዒንተይ ብእኡ ተፈወስኩ\nንብርሃን ዓለም ብኣዒንተይ ረኣኹ\n[[/chorus]]\n\nክዱን ሽቶ ሒዘ ምስ ብዙሕ ርኽሰተይ\nንእግሩ ሓጸብኩ ብብዙሕ ንብዓተይ\nማርያም ኃጥእት ኢሉ ጸዊዑ ንስመይ\nጐይታ ኣተንስኣኒ ሓዲጉ ኃጢአተይ\nንብዙሕ ዘመናት ሓይለይ ደኺሙኒ\nይነብር ነበርኩ ኵሉ ፈንፊኑኒ\nበቲ ናቱ ትእዛዝ ናይ ጐይታይ መድኃኒ\nካብ ዓራት ተንሳእኩ ተንስእ ምስ በለኒ\n\nዘደንቕ’ዩ ግብሩ በሓቂ መስተንክር\nንዝኣመንዎ ንዅሉ ይምሕር\nንዓይ ከንኣናዊት ጠሚቱ ብፍቕሪ\nንጓለይ ኣድሓና ክርስቶስ ፈጣሪ",
+    "ti_ro": "[[chorus]]\nTrkebelom nzdelyukha\nRhuw’yu betka nzkwhkuhu\nDmts'om tsem'o nzch'rhu /2/\nMehareni gwayta ile ms ch'erahku\nNabu weseduni ab qdmiu qomku\n'Wurat ye'intey bu tefewesku\nNbrhan 'alem ba'intey reakhu\n[[/chorus]]\n\nKdun shto hize ms bzuh rkhsetey\nNgru hats'ebku bbzuh nb'atey\nMaryam hat't ilu ts'ewi'u nsmey\nGwayta atensani hadigu hat'ietey\nNbzuh zemenat hayley dekhimuni\nYnebr neberku kwlu fenfinuni\nBeti natu tzaz nay gwaytay medhani\nKab 'arat tensaku tens ms beleni\n\nZedenq’yu gbru behaqi mestenkr\nNzamenwo nkhwlu ymhr\nN'ay kenanawit t'emitu bfqri\nNgwaley adhana krstos fet'ari",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 257,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_v9n494km8i1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣማኑኤል ከመስግነካ",
+    "ti_ro": "ኣማኑኤል ከመስግነካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\n160 ኣማኑኤል ከመስግነካ\nኣማኑኤል ከመስግነካ\nኦ ኣምላኸይ ክዝምረልካ\nተኸፊቱ ልሳን ባርያኻ\nብዝማሬ ክውድሰካ /2/\nኤፍታህ ኢሉኒ ቅዱስ ልሳንካ\nቅንዕ’ውን በልኩ ብርህራሄኻ\nምርሳዕ የለን ፍጹም ብኣኻ\nክብርን ውዳሴን ንቅዱስ ስምካ\n[[/chorus]]\n\nገፊፍካዮ’ኻ ነቲ ጸልማት\nንዓኻ ጐይታይ ነፍሰይ ዘመረት\nብዘይ ብኣኻ ከንቱ’ያ ሕይወት\nንብዓት ምስ ሓዘን ጭንቂ ዝመልአት\nሆሣዕና ክብል ይከፈት ኣፈይ\nጽላለይ ኮንካ ሸኻ ዕረፍተይ\nንገስ ኣብ ልበይ ባርኽ ሕይወተይ\nኣይነዓቕካዮን ንንእስነተይ\n\nበዓል ጸጋ ኢኻ በዓል ምሕረት’ውን\nኣመስገንትኻ ቁጽሪ የብሎምን\nበዓል በገና ቅድሜኻ ኣሎ\nንቅዱስ ስምካ ዘወትር ዘልዕሎ",
+    "ti_ro": "[[chorus]]\n160 Amanuel kemesgneka\nAmanuel kemesgneka\nO amlakhey kzmrelka\nTekhefitu lsan baryakha\nBzmare kwdseka /2/\nEftah iluni qdus lsanka\nQn'’wn belku brhrahekha\nMrsa' yelen fts'um bakha\nKbrn wdasen nqdus smka\n[[/chorus]]\n\nGefifkayo’kha neti ts'elmat\nN'akha gwaytay nefsey zemeret\nBzey bakha kentu’ya hywet\nNb'at ms hazen ch'nqi zmelet\nHossa'na kbl ykefet afey\nTs'laley konka shekha 'reftey\nNges ab lbey barkh hywetey\nAyne'aqkayon nnsnetey\n\nBe'al ts'ega ikha be'al mhret’wn\nAmesgentkha quts'ri yeblomn\nBe'al begena qdmekha alo\nNqdus smka zewetr zel'lo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 160,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_a5khfc0z1yv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣደ ጐይታና",
+    "ti_ro": "ኣደ ጐይታና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣደ ጐይታና ማርያም\nምንጪ በረኸት ናይ ሰላም\nመከራ ኮይኑ ተጨኒቕና\nድንግል ንዒ ኢልና ተማህጺና\nጠዋሪ የብሎም `ቶም ዓበይቲ\nሜዳ ወዲቖም ህጻውንቲ\nሃልሃልታ ሓዊ ደው ንኽብል\nኣማልዲ ኢኺ ማርያም ድንግል\n[[/chorus]]\n\nርሑቕ ሰላምና ንኽቐርብ\nፍቕሪ ሓድነት ንኽንክበብ\nናይ ኤርትራ ኣደ እመቤት\nባርኽያ ኢኺ ብረድኤት\n\nድፍረት ጭካነ ዓመጽ ኮይኑ\nፍጹም ቅዱስ ሰብ ተሳኢኑ\nንሰናይ መን’ዩ ዘርእየና\nናብ ቤት ኣምላኽ ተላዒልና",
+    "ti_ro": "[[chorus]]\nAde gwaytana maryam\nMnch'i berekhet nay selam\nMekera koynu tech'eniqna\nDngl n'i ilna temahts'ina\nT'ewari yeblom `tom 'abeyti\nMeda wediqom hts'awnti\nHalhalta hawi dew nkhbl\nAmaldi ikhi maryam dngl\n[[/chorus]]\n\nRhuq selamna nkhqerb\nFqri hadnet nkhnkbeb\nNay ertra ade mebet\nBarkhya ikhi bredet\n\nDfret ch'kane 'amets' koynu\nFts'um qdus seb tesainu\nNsenay men’yu zeryena\nNab bet amlakh tela'ilna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 124,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

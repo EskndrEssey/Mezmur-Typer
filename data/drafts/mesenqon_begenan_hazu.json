@@ -1,0 +1,53 @@
+{
+  "id": "h_phl4e8im8ku",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መሰንቆን በገናን ሓዙ",
+    "ti_ro": "መሰንቆን በገናን ሓዙ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመሰንቆን በገናን ሓዙ\nዕልልታ ውዳሴ ኣዕዝዙ\nሰማይን ምድርን የቕልቡ\nንማርያም ምስጋና ኣቕርቡ\nእጹብ ድንቂ’ዩ ናይ ደቂ ኣሳፍ ጸጋ\nዓስቢ ዘመርቲ ናይ ዘየምቲ ዋጋ\nዳዊት ጸውዓ በገና ኣልዒሉ\nንኽብራ ዘኪሩ\nቤታ ዓቢና ኣብ ቀጽሪ ድንኳና\nምስኣ እንክንነብር እንታይ ጎዲሉና\nእንተዘመርና ኣይንረውን ኮታ\nእንተቕረብና ዕልልታ\n[[/chorus]]\n\nኣብ ባዕዲ ኣይኮነን ኣብ ርስትና ኣለና\nነውርዶ ሕጂ ስቑል መሰንቆና\nኣብ ቤት ግሽነት ንዓና ቀዲማ\nመልኣትና ዜማ\n\nዘማሪት ፍቅርተ ፈለቀ",
+    "ti_ro": "[[chorus]]\nMesenqon begenan hazu\n'Llta wdase a'zzu\nSemayn mdrn yeqlbu\nNmaryam msgana aqrbu\nTs'ub dnqi’yu nay deqi asaf ts'ega\n'Asbi zemerti nay zeyemti waga\nDawit ts'ew'a begena al'ilu\nNkhbra zekiru\nBeta 'abina ab qets'ri dnkwana\nMsa nknnebr ntay godiluna\nNtezemerna aynrewn kota\nNteqrebna 'llta\n[[/chorus]]\n\nAb ba'di aykonen ab rstna alena\nNewrdo hji squl mesenqona\nAb bet gshnet n'ana qedima\nMelatna zema\n\nZemarit fqrte feleqe",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 142,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

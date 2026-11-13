@@ -1,0 +1,53 @@
+{
+  "id": "h_2d40x5qijim",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ምሕረት ኪዳን",
+    "ti_ro": "ናይ ምሕረት ኪዳን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንስኺ ኢኺ ናይ ምሕረት ኪዳን\nኣደ አምላክ ኣንቀጸ ብርሃን\nተስፋ ኣዳም ንድኅነት ሰገማ\nድንግል ማርያም ጸጋዊተ ግርማ\nናይ ዳዊት ዝማሬ በውታራት ዝቃነ\nንሰማእታት ፍረ ንዓና ዘድሓነ\nክእለት ሓጺሩና ንዓኺ ክንውድስ\nኤልሻዳይ’ዩ ባዕሉ ማሕደሩ ዝቕድስ\n[[/chorus]]\n\nትንቢት ናይ ኤፍራታ ወሪስክዮ ስብሓት\nሪመ እግዚአብሔር ኣይሰፍሮንዩ ምትሓት (2)\nጠቢብ ሰሎሞን ክሰምየኪ ጋማ\nዘይነጽፍ መኣዛኺ ሃያብ መሬት ጻማ\nንሕና’ውን ክንስዕቦ ነቲ ሰናይ ጉዕዞ\nምንባርና ክርሁ ሰላምኪ ክዓዞ\n\nኪዳን ምሕረትኪ ፈንውልና ማርያም\nባህታ’ውን ክንረክብ ከም ኣቦና ኣዳም (2)\nልሳን ቅዱስ ኤፍሬም ብጥዑም ላዛኡ\nቃና ኣባ ሕርያቆስ የልዝብ ድርሳኑ\nህላዌ ሰሪትኪ ኣብ ሕሊና ጐይታ\nፈቲልካ ዘይውዳእ ኣሊምኪ ውሬታ\nደስታ ዓሲሉና ክንምካሕ ብኣኺ\nፍቓድኪ ይኹነልና ክንሓብር ምሳኺ\n\nውዕለትኪ ዘኪርና ክንስስን ኣመና\nብምብራቕ ናይ ጸሓይ ነመስግን ኩልና(2)",
+    "ti_ro": "[[chorus]]\nNskhi ikhi nay mhret kidan\nAde emlak anqets'e brhan\nTesfa adam ndhnet segema\nDngl maryam ts'egawite grma\nNay dawit zmare bewtarat zqane\nNsematat fre n'ana zedhane\nKlet hats'iruna n'akhi knwds\nElshaday’yu ba'lu mahderu zqds\n[[/chorus]]\n\nTnbit nay efrata weriskyo sbhat\nRime gziebher aysefronyu mthat (2)\nT'ebib selomon ksemyeki gama\nZeynets'f meazakhi hayab meret ts'ama\nNhna’wn kns'bo neti senay gu'zo\nMnbarna krhu selamki k'azo\n\nKidan mhretki fenwlna maryam\nBahta’wn knrekb kem abona adam (2)\nLsan qdus efrem bt''um lazau\nQana aba hryaqos yelzb drsanu\nHlawe seritki ab hlina gwayta\nFetilka zeywda alimki wreta\nDesta 'asiluna knmkah bakhi\nFqadki ykhunelna knhabr msakhi\n\nW'letki zekirna knssn amena\nBmbraq nay ts'ehay nemesgn kulna(2)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 297,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

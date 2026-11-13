@@ -1,0 +1,53 @@
+{
+  "id": "h_mt7fgcp2db1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰፈር መንፈስቅዱስ",
+    "ti_ro": "ሰፈር መንፈስቅዱስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰፈር መንፈስቅዱስ ማኅደረ መለኮት\nመዕረጊት ናይ ጸሎት ምዕራፈ ጸባዖት\nሐመረ ሰላም ኢየሩሳሌም /2/\nብኣኺ ኣምሊጠ ካብ ናይ ኣይሂ መዓት\nመድኅን ናይ ሕይወተይ ናይ ክርስቶስ ቤት\nንመንግስቲ ኣምላኽ ድልድል መሳገሪት\nወሃቢት መጋቢት መኣዲ ናይ ሕይወት /2/\n[[/chorus]]\n\nመሳልል መላእክት ያዕቆብ ዝረኣያ\nፈልፋሊት ናይ ፍቕሪ ኣምላኽ ዝሓረያ\nደጌታት ናይ ሲኦል ኣይክሕይሉኽን\nንዘልዓለም'ውን ፍጹም ዘይትናወጽ /2/\n\nንዑ ንትኣከብ ኣብ ውሽጣ ነጽልል\nካብ ውቅያኖስ ሓጢኣት በኣጋ ነግልል\nኣብ ኢየሩሳሌም ንጽናሕ ኣብ ደገ ሰላሙ\nንድኅነት ክንበቅዕ ንሥጋ ወደሙ /2/",
+    "ti_ro": "[[chorus]]\nSefer menfesqdus mahdere melekot\nMe'regit nay ts'elot m'rafe ts'eba'ot\nHemere selam iyerusalem /2/\nBakhi amlit'e kab nay ayhi me'at\nMedhn nay hywetey nay krstos bet\nNmengsti amlakh dldl mesagerit\nWehabit megabit meadi nay hywet /2/\n[[/chorus]]\n\nMesall melakt ya'qob zreaya\nFelfalit nay fqri amlakh zhareya\nDegetat nay siol aykhylukhn\nNzel'alem'wn fts'um zeytnawets' /2/\n\nN'u ntakeb ab wsht'a nets'll\nKab wqyanos hat'iat beaga negll\nAb iyerusalem nts'nah ab dege selamu\nNdhnet knbeq' nssga wedemu /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 201,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

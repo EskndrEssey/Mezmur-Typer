@@ -1,0 +1,53 @@
+{
+  "id": "h_x6bzkx3a8qh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክብርኺ ተገሊጹ",
+    "ti_ro": "ክብርኺ ተገሊጹ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክብርኺ ተገሊጹ\nፍጥረት ኩሎም ብኣኺ ይድነቑ\nብርሃን ዓለም ካባኺ ምብራቑ\nድንግል ብወድኺ ንዘልዓለም ትነብሪ ከቢርኪ\nወለዶታት ኩሎም ብጽእቲ ይብሉኺ\nደቂ ጠቓዕትኺ እናደነኑ ክመጹኺ\nንጉሥ ዝበሃጎ ንፍሉይ ውህበትኪ\nጸጋ መሊኡኪ ፈጣሪ ወሊድኪ  /2/\nኣብ ኣርያም ኣብ ሰማይ ትነብሪ ብኽብሪ\nጸሎትና ተዕርጊ ናብ ልዑል ፈጣሪ\n[[/chorus]]\n\nዘልኣለማዊ’ዩ ናትኪ ድንግልና\nፍጹም ዘይቅይሮ ክቡር ልደት ናይ ጐይታና\nሕፍቲ’ውን ዘይብልኪ ንጽህቲ ኣዴና\nመመክሒት ኣዳም ተስፋናይ ኩልና /2/\nናይ ዘመናት ሓጢኣት ክድምስስ ጐይታና\nካባኺ ተወልደ ብፍጹም ድንግልና\nተኣምርኪ ክንበብ ኣብ ቅዱስ ሰፈሩ\nዝሰምዕዎ ኩሎም ንውዕለትኪ የስተንክሩ\nውዳሴኺ ዓብዩ ኣብ ሰማይ ኣብ ምድሪ\nንዓኺ ይውድሱ ፍጡራን ብኽብሪ /2/\nድንግል ድንግል ይብሉ ክብርኺ ይነግሩ\nቃልኪዳን ዘለኪ ጠበቓ ንዓና\nኣማላዲት ኣደ ኣምላኽ ዝሃበና /2/\nኣምላኽ ዘኽበረኪ መን’ዩ ዘሕስረኪ\nናይ ብዙሓት ኣደ ድንግል ንስኺ’ኢኺ",
+    "ti_ro": "[[chorus]]\nKbrkhi tegelits'u\nFt'ret kulom bakhi ydnequ\nBrhan 'alem kabakhi mbraqu\nDngl bwedkhi nzel'alem tnebri kebirki\nWeledotat kulom bts'ti yblukhi\nDeqi t'eqa'tkhi nadenenu kmets'ukhi\nNguss zbehago nfluy whbetki\nTs'ega meliuki fet'ari welidki  /2/\nAb aryam ab semay tnebri bkhbri\nTs'elotna te'rgi nab l'ul fet'ari\n[[/chorus]]\n\nZelalemawi’yu natki dnglna\nFts'um zeyqyro kbur ldet nay gwaytana\nHfti’wn zeyblki nts'hti adena\nMemekhit adam tesfanay kulna /2/\nNay zemenat hat'iat kdmss gwaytana\nKabakhi tewelde bfts'um dnglna\nTeamrki knbeb ab qdus seferu\nZsem'wo kulom nw'letki yestenkru\nWdasekhi 'abyu ab semay ab mdri\nN'akhi ywdsu ft'uran bkhbri /2/\nDngl dngl yblu kbrkhi ynegru\nQalkidan zeleki t'ebeqa n'ana\nAmaladit ade amlakh zhabena /2/\nAmlakh zekhbereki men’yu zehsreki\nNay bzuhat ade dngl nskhi’ikhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 195,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

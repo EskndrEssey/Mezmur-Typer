@@ -1,0 +1,53 @@
+{
+  "id": "h_tr1cs1msbus",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንኽንሳሕ",
+    "ti_ro": "ንኽንሳሕ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰላምካን ፍቕርኻን ኣይፈለየና\nኣብ ቅዱስ እምነትና ኣጽንዓና /2/\nምእንቲ ክንወርስ ተስፋ መንግስትኻ /2/\nልመናና ስማዕ ፈጣሪና\nበዲልናካ ኢና’ሞ ሓላዊና\nጐይታ እሙን ቅዱስ ምሕረትካ ሃበና\nሰላምካን ፍቕርኻን ኣይፈለየና\n[[/chorus]]\n\nሓረገ ወይን /2/\nሓረገ ወይን ኣንቲ ማርያም\nኣጸደ ወይን /2/\nኣጸደ ወይን ኣንቲ ማርያም\nትመስሊ ፊደለ ወትወልዲ ወንጌለ\nዘታገምሪ ነበልባለ\nትመስሊ ሰማየ  ወትወልዲ ጸሓየ\nዘታገምሪ ኣዶናየ\nትመስሊ መሶበ ወትወልዲ ኮኮበ\nዘታጸግቢ ርሁበ\nትመስሊ ገራህተ ወትወልዲ ሰዊተ\nዘታጸድቂ ነፍሳተ\nትመስሊ ደመና ወትወልዲ ሕብስተ መና\nዘታገምሪ ጥዒና\nትመስሊ ስኂነ ወትወልዲ መድኅነ\nወትፌውሲ ዱያነ\nትመስሊ ምሥራቀ ወትወልዲ መብረቀ\nወታለብሲ ዕሩቀ\nለኣብ መርዓቱ ወለወልድ ወላዲቱ\nወለመንፈስ ቅዱስ ጽርሐ ቤቱ\nስብሐት ለኪ እምዘበላዕነ ሥጋ ወልድኪ\nወእምዘሰተይነ ደመ መሲሕኪ\nኣግብርትኪ ወኣእማትኪ\nለዓለመ ዓለም ኣሜን /2/\n\n339. ኦ ጐይታና\nኦ ጐይታና መን ኣሎ ከማኻ /2/\nንዓና ክትብል ኣብ መስቀል ተሰቐልካ /2/\n\n340. ንኽንሳሕ\nንኽንሳሕ መንፈስ ቅዱስ ኣይትፈለየና\nኣይትፈለየና/2/ ሓይልኻ ሃበና",
+    "ti_ro": "[[chorus]]\nSelamkan fqrkhan ayfeleyena\nAb qdus mnetna ats'n'ana /2/\nMnti knwers tesfa mengstkha /2/\nLmenana sma' fet'arina\nBedilnaka ina’mo halawina\nGwayta mun qdus mhretka habena\nSelamkan fqrkhan ayfeleyena\n[[/chorus]]\n\nHarege weyn /2/\nHarege weyn anti maryam\nAts'ede weyn /2/\nAts'ede weyn anti maryam\nTmesli fidele wetweldi wengele\nZetagemri nebelbale\nTmesli semaye  wetweldi ts'ehaye\nZetagemri adonaye\nTmesli mesobe wetweldi kokobe\nZetats'egbi rhube\nTmesli gerahte wetweldi sewite\nZetats'edqi nefsate\nTmesli demena wetweldi hbste mena\nZetagemri t''ina\nTmesli shine wetweldi medhne\nWetfewsi duyane\nTmesli mssraqe wetweldi mebreqe\nWetalebsi 'ruqe\nLeab mer'atu weleweld weladitu\nWelemenfes qdus ts'rhe betu\nSbhet leki mzebela'ne Ssga weldki\nWemzeseteyne deme mesihki\nAgbrtki weamatki\nLe'aleme 'alem amen /2/\n\n339. O gwaytana\nO gwaytana men alo kemakha /2/\nN'ana ktbl ab mesqel teseqelka /2/\n\n340. Nkhnsah\nNkhnsah menfes qdus aytfeleyena\nAytfeleyena/2/ haylkha habena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 340,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

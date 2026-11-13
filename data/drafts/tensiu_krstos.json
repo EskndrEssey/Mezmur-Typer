@@ -1,0 +1,54 @@
+{
+  "id": "h_tsllfddtxdq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተንሲኡ ክርስቶስ",
+    "ti_ro": "ተንሲኡ ክርስቶስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተንሲኡ ክርስቶስ ብዘደንቕ ክብሪ/2/\nዜና ትንሳኤኡ ተዋህዶ መስክሪ/2/\nንኣዳም ንምድኃን  ተንሲኡ ብክብሪ\nቃልኪዳን ኣትዩሉ   >>         >>\nጊዜኡ ሓልዩ         >>         >>\nካሕሳ ከፊሉሉ       >>         >>\nንብሕታ ከደት        >>         >>\nክትደሊ ኣምላኻ      >>         >>\nዝተንገላትዐ ኣብቲ ጎልጎታ\nምስረኸበቶ ተመሊኣ ደስታ\nሓለውቲ መቓብር ተንሲኡ ብክብሪ\nእቶም ኣይሁዳውያን  >>         >>\nክርስቶስ ክሕዙ       >>         >>\nመኺርዎም ሰይጣን   >>         >>\nዙርያ እቲ መቓብር ብዙኃት ከቢቦም\nፍጹም ኣይከኣሉን ከም ቆጽሊ ረጊፎም\nምስጋና ነቕርብ ተንሲኡ ብክብሪ\nንፈጣሪ ኢየሱስ   >>         >>\nንሞት ዝሰዓረ     >>         >>\nንደቁ ክቕድስ     >>         >>\nደስ ይበለና ንዘምር ኩልና\nብርሃን ተኸዲኑ ጎይታ ተንሲኡልና\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTensiu krstos bzedenq kbri/2/\nZena tnsaeu tewahdo meskri/2/\nNadam nmdhan  tensiu bkbri\nQalkidan atyulu   >>         >>\nGizeu halyu         >>         >>\nKahsa kefilulu       >>         >>\nNbhta kedet        >>         >>\nKtdeli amlakha      >>         >>\nZtengelat'e abti golgota\nMsrekhebeto temelia desta\nHalewti meqabr tensiu bkbri\nTom ayhudawyan  >>         >>\nKrstos khzu       >>         >>\nMekhirwom seyt'an   >>         >>\nZurya ti meqabr bzuhat kebibom\nFts'um aykealun kem qots'li regifom\nMsgana neqrb tensiu bkbri\nNfet'ari iyesus   >>         >>\nNmot zse'are     >>         >>\nNdequ kqds     >>         >>\nDes ybelena nzemr kulna\nBrhan tekhedinu goyta tensiulna\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 428,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

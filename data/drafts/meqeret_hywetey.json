@@ -1,0 +1,53 @@
+{
+  "id": "h_4lzwqyl64hc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መቐረት ሕይወተይ",
+    "ti_ro": "መቐረት ሕይወተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመቐረት ሕይወተይ መብራህቲ ናይ ገዛይ\nረዳኢት ድኹማት ዋሕሳ ንነፍሰይ /2/\nንስኺ'ኺ ድንግል ኣደ ኣምላኽ ኣደ ኣማኑኤል\nጥራዩ ጋዝ ሒዘ ዘይተይ ተወዲኡ\nመብራህቲ ዘይብለይ መርዓዊ መጺኡ\nግዳም ንኸይተርፍ ከይትጠፍእ ነፍሰይ\nሎሚ ደግፍኒ ጸግዒ ናይ ሕይወተይ\nንገርዮ ኢኺ ንፈቃር ኣዶናይ\n[[/chorus]]\n\nውራይ ንኽገብር ኣጋይሽ ዓዲመ\nዝብላዕ ዝስተ ሽሻየይ ቀሪበ\nወይኒ ተወዲኡ ዓቕለይ ከይጸበኒ\nእንትርፎ ጭንቀትሲ ገለኳ ኣይነፍርን\nወድኺ ዘይብሉ ፈጺሙ ኣይመልእን\nንገርልና ደኣ መታን ንኽንድሕን",
+    "ti_ro": "[[chorus]]\nMeqeret hywetey mebrahti nay gezay\nRedait dkhumat wahsa nnefsey /2/\nNskhi'khi dngl ade amlakh ade amanuel\nT'rayu gaz hize zeytey tewediu\nMebrahti zeybley mer'awi mets'iu\nGdam nkheyterf keytt'ef nefsey\nLomi degfni ts'eg'i nay hywetey\nNgeryo ikhi nfeqar adonay\n[[/chorus]]\n\nWray nkhgebr agaysh 'adime\nZbla' zste shshayey qeribe\nWeyni tewediu 'aqley keyts'ebeni\nNtrfo ch'nqetsi gelekwa aynefrn\nWedkhi zeyblu fets'imu aymeln\nNgerlna dea metan nkhndhn",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 348,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

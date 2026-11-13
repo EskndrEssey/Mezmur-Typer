@@ -1,0 +1,53 @@
+{
+  "id": "h_rb7agllssjx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኤቨን ኤዘር",
+    "ti_ro": "ኤቨን ኤዘር",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንዘምር ኤቨን ኤዘር እልና /2/ ንጸውዕ ጐይታና\nዘምሩ ኤቨን ኤዘር ኢልኩም /2/ ዘክሩ ጐይታኹም\nጠሚትካኒ ኢኻ'ሞ ብውሽጣዊ ሰበይ\nመዚንካኒ ኢኻ'ሞ ብዅሉ ተግባረይ\nኃጥእን በደለኛን ኮይነ ተረኺበ\nብሕሰም ናብራ ዓለም ፍጹም ዝረብረበ /2/ ኮይነ\nሎሚ ግና ጐይታየ ረዲእካኒ\nካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ\nጸዊዕካኒ ሰሚዐ ጻውዒትካ\nመጺኤ'ለኹ ክርኢ ምድኃንካ\nትሕዝቶ ናይዛ ዓለም እናሓደረ ይጎድል\nኣነ ግን ኣይነቓሕኩን ተገዚኤ ይነብር /2/ ኔረ\nሎሚ ግና ጐይታየ ረዲእካኒ\nካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ\nጸዊዕካኒ ሰሚዐ ጻውዒትካ\nመጺኤ'ለኹ ክርኢ ምድኃንካ\nረዲእካኒ ብሓቂ ረዲእካኒ /2/\nረዲእካና ብሓቂ ረዲእካና /2/\nብዕብዳን ስኽራን ጓይላ ኣሕሊፈ ዘመነይ\nባህታ ልበይ ኢለዮ ስጋዊ ትምኒተይ\nኣብ መንበር መላገጽቲ ደፊረ ዝቕመጥ\nብምኽሪ ናይ ረሲኣን ሓሳበይ ዝልወጥ /2/ ኔረ\nሎሚ ግና ጐይታየ ረዲእካኒ\nካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ\nጸዊዕካኒ ሰሚዐ ጻውዒትካ\nመጺኤ'ለኹ ክርኢ ምድኃንካ\nረዲእካኒ ብሓቂ ረዲእካኒ /2/\n[[/chorus]]\n\nረዲእካና ብሓቂ ረዲእካና /2/",
+    "ti_ro": "[[chorus]]\nNzemr even ezer lna /2/ nts'ew' gwaytana\nZemru even ezer ilkum /2/ zekru gwaytakhum\nT'emitkani ikha'mo bwsht'awi sebey\nMezinkani ikha'mo bkhwlu tegbarey\nHat'n bedelenyan koyne terekhibe\nBhsem nabra 'alem fts'um zrebrebe /2/ koyne\nLomi gna gwaytaye redikani\nKab 'azeqti hat'iat awts'ikhani\nTs'ewi'kani semi'e ts'aw'itka\nMets'ie'lekhu kri mdhanka\nThzto nayza 'alem nahadere ygodl\nAne gn ayneqahkun tegezie ynebr /2/ nere\nLomi gna gwaytaye redikani\nKab 'azeqti hat'iat awts'ikhani\nTs'ewi'kani semi'e ts'aw'itka\nMets'ie'lekhu kri mdhanka\nRedikani bhaqi redikani /2/\nRedikana bhaqi redikana /2/\nB'bdan skhran gwayla ahlife zemeney\nBahta lbey ileyo sgawi tmnitey\nAb menber melagets'ti defire zqmet'\nBmkhri nay resian hasabey zlwet' /2/ nere\nLomi gna gwaytaye redikani\nKab 'azeqti hat'iat awts'ikhani\nTs'ewi'kani semi'e ts'aw'itka\nMets'ie'lekhu kri mdhanka\nRedikani bhaqi redikani /2/\n[[/chorus]]\n\nRedikana bhaqi redikana /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 380,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

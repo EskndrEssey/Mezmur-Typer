@@ -1,0 +1,54 @@
+{
+  "id": "h_2gmbq6bkvq9",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሳሙኤል",
+    "ti_ro": "ሳሙኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንልበይ ዘረስርስ ንዓኻ ዘገልግል\nውሉድ እንዶ ሃበኒ ሓዘነይ ዘገልል\nማህጸነይ ክፈቶ በጃኻ ስምዓኒ\nብዘይካኻ ኣምላኽ መን እሞ ኣሎኒ /2/\nክሓዘን ክትክዝ ንብዓተይ ከፍስስ\nዓመታት ኣቑጺረ ዘወትር እንክትክዝ\nንፍረ ናይ ከርሰይ ብዓይነይ ክርእዮ\nኣምላኸ ንሕማመይ በጃኻ ስምዓዮ\nኣምላኸ ንጸሎተይ በጃኻ ስምዓዮ\nንምንታይ ጓለ’የ ትፍጽሚ ነውሪ\nመታን ክረድኣኒ ሓዘነይ ክርሕቕ\nመርቑኒ ኣቦይ ውርደተይ ክጽንቀቕ /2/\nኣምላከ እስራኤል ይስማዕኪ\nድሌት ናይ ልብኺ ፍጻሜ የርኢኺ\nጓለ’የ እግዚአብሔር ኢዱ የንብረልኪ\nከምቲ ዝበልኩሞ ከምኡ ይኹነለይ\nደጊም ተሓጒሰ ሃዲኡ መንፈሰይ\nፍጻሜ ኣለዎ ‘ቲ ናይ ተስፋ ቃላት\nክብሪ ንእግዚአብሔር ኣብ ምድሪ ኣብ ሰማያት /2/\nእግዚአብሔር በጺሑኒ\nውርደት ጸበባይ ርእዩ ንዓይ ደቢሱኒ\nእሙን’ዩ ኣምላኽና ለዋህ ተለማኒ\nሳሙኤል ክብሎ’የ ሳሙኤል ስለ ዝሰምዓኒ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNlbey zeresrs n'akha zegelgl\nWlud ndo habeni hazeney zegell\nMahts'eney kfeto bejakha sm'ani\nBzeykakha amlakh men mo aloni /2/\nKhazen ktkz nb'atey kefss\n'Ametat aquts'ire zewetr nktkz\nNfre nay kersey b'ayney kryo\nAmlakhe nhmamey bejakha sm'ayo\nAmlakhe nts'elotey bejakha sm'ayo\nNmntay gwale’ye tfts'mi newri\nMetan kredani hazeney krhq\nMerquni aboy wrdetey kts'nqeq /2/\nAmlake srael ysma'ki\nDlet nay lbkhi fts'ame yerikhi\nGwale’ye gziebher idu yenbrelki\nKemti zbelkumo kemu ykhuneley\nDegim tehagwise hadiu menfesey\nFts'ame alewo ‘ti nay tesfa qalat\nKbri ngziebher ab mdri ab semayat /2/\nGziebher bets'ihuni\nWrdet ts'ebebay ryu n'ay debisuni\nMun’yu amlakhna lewah telemani\nSamuel kblo’ye samuel sle zsem'ani\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 211,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

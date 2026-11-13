@@ -1,0 +1,53 @@
+{
+  "id": "h_mh37ml0k6l2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናተይ ሰኸም ተሰኪሙለይ",
+    "ti_ro": "ናተይ ሰኸም ተሰኪሙለይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጾረይ ብዅሉ ኣልዒሉለይ\nከመስግኖ'የ ኣብ ዘመነይ\nንጐይታ ጎይቶት ንኣምላኸይ\nኣነ ከምልኾ ጸዊዑኒ\nብጽኑዕ ፍቕሩ ፈዊሱኒ\nኣብ ቤተይ ኣትዩ ኣብሪሁለይ\nኣመቂሩኒ ኣብ ሕይወተይ\nኣነ ዝህቦ እንታይ ኣሎኒ\nስለ ‘ቲ ዅሉ ዝገበረለይ\nእሾኽ ኣብ ርእሱ ተሸኪሙ\nመርገም ካብ ነፍሰይ ኣልዒሉለይ\n[[/chorus]]\n\nደሙ ኣፍሲሱ ኣፍቂሩኒ\nመስቀል ሓዚሉ ደኺሙለይ\nጥፍጣፍ ናይ ሰባት ተቐቢሉ\nንመግረፍተይ ተገሪፉለይ\nንዓይ ዝግባእ መከራ ሞት\nተቐቢሉለይ ጐይታ ጎይቶት\nከይቀረብክዎ ቀሪቡኒ\nናብ ብርሃን ሕይወት ስሒቡኒ\nተታሒዘየ ተኣሲረ\nብለውሃት ፍቕሩ ተሰቢረ\nቀይርዎ'ዩ ንታሪኸይ\nምሉእ ሰብ ገይሩኒ ኣምላኸይ\nኣፈይ ዝማሬ መሊእዎ\nመንፈሳውነት ኣምሂሩኒ\nኣቦ ናይ ጥበብ ናይ ትሕትና\nምስኡ ምንባር ይሕሸኒ",
+    "ti_ro": "[[chorus]]\nTs'orey bkhwlu al'iluley\nKemesgno'ye ab zemeney\nNgwayta goytot namlakhey\nAne kemlkho ts'ewi'uni\nBts'nu' fqru fewisuni\nAb betey atyu abrihuley\nAmeqiruni ab hywetey\nAne zhbo ntay aloni\nSle ‘ti khwlu zgebereley\nShokh ab rsu teshekimu\nMergem kab nefsey al'iluley\n[[/chorus]]\n\nDemu afsisu afqiruni\nMesqel hazilu dekhimuley\nT'ft'af nay sebat teqebilu\nNmegreftey tegerifuley\nN'ay zgba mekera mot\nTeqebiluley gwayta goytot\nKeyqerebkwo qeribuni\nNab brhan hywet shibuni\nTetahizeye teasire\nBlewhat fqru tesebire\nQeyrwo'yu ntarikhey\nMlu seb geyruni amlakhey\nAfey zmare meliwo\nMenfesawnet amhiruni\nAbo nay t'beb nay thtna\nMsu mnbar yhsheni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 365,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

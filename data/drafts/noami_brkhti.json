@@ -1,0 +1,53 @@
+{
+  "id": "h_7qtvg2d416s",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኖኣሚ ብርኽቲ",
+    "ti_ro": "ኖኣሚ ብርኽቲ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኖኣሚ ብርኽቲ እንታይ ረኺቡኪ\nካብ ሓጎስ ርሒቕኪ ሓዘን ከቢቡኪ\nሰብኣይክን ደቅኽን እንታይ ረኺብዎም\nእንታይ’ዩ ጸገሞም ከመይ’ዩ ታሪኾም\nስደተኛ’የ ጋሻ ኣብቲ ሃገር\nንሞኣባውያን ዘይጠቅም ነገር\nንብዓተይ ኵሉ ይፈስስ ኣሎ\nረዳኢ ስኢኑ ኣጆኻ ዝብሎ\n[[/chorus]]\n\nመከራ’ውን እንተበዝሓካ\nተዓገሶ ክሓልፈልካ\nተስፋ ኣይትቑረጽ ኢኻ\nኖኣሚ ዓለምና ኣንቲ ዓባይ መሬት\nእንታይ ረኺቡኪ መሊኡኪ ሕውከት\nናይ መከራ መሬት ኮይንኪ ኣኬልዳማ\nክሳብ መዓስ’ዩ ከምዚ ኢልኪ ዓለምና\n\nመከራ ሽግር ኣጨኒቑኒ\nመንገደይ ኵሉ እሾኽ ኮይኑኒ\nከም ጊዜ’ዩ ታሪኽ ኵሉ ሓላፊ’ዩ\nእቲ ርሕሩሕ አምላክ ኣይክገድፈክን’ዩ\n\nስለ ኃጢአተይ ተቐጺዐ’የ\nሽግር ምስ ስቃይ ምጻር ስኢነ’የ\nክልቲኦም ደቀይ ሞት ወሲድዎም\nይሕሸና ኢሎም ምስ ወላዲኦም\nንሱ ዝፈቐዶ ብጊዜኡ ይኸውን\nነገር ንሰናይዩ ንዅሉ ዝኣምን\nናይ ኣሕዛብ ርኽሰት ክርሕቐልኪ’ዩ\nካብ ኣዝመራ ቦኤዝ ዳዊት ክውለድ’ዩ\n\nይግበረለይ ንኽጸናናዕ\nብመንፈስ ኣምላኽ ልበይ ይበርትዕ\nብሰላም ይሕደር መስኪን ወገነይ ‘\nናይ ሕዝበይ ጥፍኣት ከይርእዮ ብዓይነይ\n\nዘማሪት ወርቅነሽ ሃይሉ",
+    "ti_ro": "[[chorus]]\nNoami brkhti ntay rekhibuki\nKab hagos rhiqki hazen kebibuki\nSebaykn deqkhn ntay rekhibwom\nNtay’yu ts'egemom kemey’yu tarikhom\nSdetenya’ye gasha abti hager\nNmoabawyan zeyt'eqm neger\nNb'atey kwlu yfess alo\nRedai sinu ajokha zblo\n[[/chorus]]\n\nMekera’wn ntebezhaka\nTe'ageso khalfelka\nTesfa aytqurets' ikha\nNoami 'alemna anti 'abay meret\nNtay rekhibuki meliuki hwket\nNay mekera meret koynki akeldama\nKsab me'as’yu kemzi ilki 'alemna\n\nMekera shgr ach'eniquni\nMengedey kwlu shokh koynuni\nKem gize’yu tarikh kwlu halafi’yu\nTi rhruh emlak aykgedfekn’yu\n\nSle hat'ietey teqets'i'e’ye\nShgr ms sqay mts'ar sine’ye\nKltiom deqey mot wesidwom\nYhshena ilom ms weladiom\nNsu zfeqedo bgizeu ykhewn\nNeger nsenayyu nkhwlu zamn\nNay ahzab rkhset krhqelki’yu\nKab azmera boez dawit kwled’yu\n\nYgbereley nkhts'enana'\nBmenfes amlakh lbey ybert'\nBselam yhder meskin wegeney ‘\nNay hzbey t'fat keyryo b'ayney\n\nZemarit werqnesh haylu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 114,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

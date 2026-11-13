@@ -1,0 +1,53 @@
+{
+  "id": "h_jqe4tnn8xyx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቃላት ሕፃን",
+    "ti_ro": "ቃላት ሕፃን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከይልምን ከም ሰበይ ናባኺ ኣንቃዕሪረ ከምቲ ትደልዮ\nከይውሕደኪ እፈርሕ ቃላት ሕፃን ኮይኑ ብስለት ዘይቃነዮ\nጽላል እንከለኺ ኣይሰግርን’የ ማዕዶ\nጽላል እኳ ዚበሃግ ገረብ ዝእንግዶ/2/\n[[/chorus]]\n\nእንዳእቲ ህድኣተይ ከይብትኖ መዓት\nስርናይ ከየርኅቕ ካብ ናይ ቤተይ ቅርዓት\nከየሕለምልም ልበይ ጸላም ከይወርሶ\nእኔኹ ኣብ ቅድሜኺ ንብዓተይ አፍስሶ/2/\nእንታይ ከይከስበሉ ንዓለም ጽላላ\nስለይ ዘይትሽገር ጨካን እንድኣላ\nዝሃድመላ ጸግዐይ ገዳም ናይ ሕይወተይ\nበረኸት ቀራንዮ ጽዮን ማርያም ኣደይ/2/\n\nምስማዕሲ ይሰምዕ’የ ፍቕርኺ ክዝንቶ\nሕፃን እንዶሞ ኮይነ ክንደይ ከይግምቶ\nንገርኒ ኵሉ ነፍሰይ እትደልዮ\nነዚ ባዶ ልበይ ጸጋኺ ምልእዮ/2/",
+    "ti_ro": "[[chorus]]\nKeylmn kem sebey nabakhi anqa'rire kemti tdelyo\nKeywhdeki ferh qalat hts'an koynu bslet zeyqaneyo\nTs'lal nkelekhi aysegrn’ye ma'do\nTs'lal kwa zibehag gereb zngdo/2/\n[[/chorus]]\n\nNdati hdatey keybtno me'at\nSrnay keyerhq kab nay betey qr'at\nKeyehlemlm lbey ts'elam keywerso\nNekhu ab qdmekhi nb'atey efsso/2/\nNtay keykesbelu n'alem ts'lala\nSley zeytshger ch'ekan ndala\nZhadmela ts'eg'ey gedam nay hywetey\nBerekhet qeranyo ts'yon maryam adey/2/\n\nMsma'si ysem'’ye fqrkhi kznto\nHts'an ndomo koyne kndey keygmto\nNgerni kwlu nefsey tdelyo\nNezi bado lbey ts'egakhi mlyo/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 271,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

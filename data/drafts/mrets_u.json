@@ -1,0 +1,53 @@
+{
+  "id": "h_5rk30s8xjjf",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምረጹ",
+    "ti_ro": "ምረጹ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምረጹ ንመን ከምተገልግሉ\nወስኑ ምስ መን ከም እትነብሩ\nኣነን ቤተይን ንእግዚአብሔር ከነገልግል\nመሪጸ ኣለኹ ኣብ ቤትኤል ክነብር\n[[/chorus]]\n\nጨካን ንጉሥ ፈርኦን ልቡ ምስ ኣትረረ\nኣብ ልዕሌና’ውን ግፍዒ ምስ መረረ\nሓይልና ደኺሙ ከለና ኣብ ባርነት\nታሪኽና ለዊጡ ሂቡና ናጽነት\nብካህናተ ሰማይ ወትሩ ንዝምስገን\nሰባት ካብ መከራ ካብ ሞት ንዘድሕን\nነግዝእ ነፍስና ነገልግል ኣብ ቤቱ\nጸጋኡ ክህበና በቲ ረድኤቱ ጐይታ ብምሕረቱ\nኣብቲ ምድረበዳ ገለ’ውን ዘይብሉ\nንበልዖ ስኢንና ጭንቂ ከንጸላሉ\nግን ኣይሓደገናን ምስ ኵሉ ሽግርና\nሕይወት ዘሪኡልና እናመገበ መና\nከመይ ኢልካ ይርሳዕ ናይ ኣምላኽና ግብሪ\nምሕረቱን ለውሃቱን እቲ ናቱ ፍቕሪ\nግን ኵሉ ሓሊፉ ኣምላኽና ረድኣና\nከንኣን ኣእተወና ርስቲ ኣቦታትና\nድንቂ’ዩ  መስደምም ስራሕ እግዚአብሔር\nንትብዓት ኣስኒቑ ዘራግፍ ከቢድ ጾር\nሰላም ዝመልኦ ክኸውን ሕይወትና\nንደይብ ናብ ቤትኤል ናብ ቤት እግዚአብሔር ክሃድእ መንፈስና",
+    "ti_ro": "[[chorus]]\nMrets'u nmen kemtegelglu\nWesnu ms men kem tnebru\nAnen beteyn ngziebher kenegelgl\nMerits'e alekhu ab betel knebr\n[[/chorus]]\n\nCh'ekan nguss feron lbu ms atrere\nAb l'lena’wn gf'i ms merere\nHaylna dekhimu kelena ab barnet\nTarikhna lewit'u hibuna nats'net\nBkahnate semay wetru nzmsgen\nSebat kab mekera kab mot nzedhn\nNegz nefsna negelgl ab betu\nTs'egau khbena beti redetu gwayta bmhretu\nAbti mdrebeda gele’wn zeyblu\nNbel'o sinna ch'nqi kents'elalu\nGn ayhadegenan ms kwlu shgrna\nHywet zeriulna namegebe mena\nKemey ilka yrsa' nay amlakhna gbri\nMhretun lewhatun ti natu fqri\nGn kwlu halifu amlakhna redana\nKenan atewena rsti abotatna\nDnqi’yu  mesdemm srah gziebher\nNtb'at asniqu zeragf kebid ts'or\nSelam zmelo kkhewn hywetna\nNdeyb nab betel nab bet gziebher khad menfesna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 261,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

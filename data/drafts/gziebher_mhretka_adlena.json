@@ -1,0 +1,53 @@
+{
+  "id": "h_mj6ran0w0aq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እግዚአብሔር ምሕረትካ ዓድለና",
+    "ti_ro": "እግዚአብሔር ምሕረትካ ዓድለና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእግዚአብሔር ምሕረትካ ዓድለና /2/\nንዓና ደቅኻ ይቕሬታ ሃበና /2/\nልመናና ስማዕ ፈጣሪና\nበዲልናካ ኢና’ሞ ሓላዊና\nልመናና ስማዕ ፈጣሪና\nበዲልናካ ኢና’ሞ ሓላዊና\nጐይታ እሙን ቅዱስ ምሕረትካ ሃበና\nሰላምካን ፍቕርኻን ኣይፈለየና\n[[/chorus]]\n\nድንግል ማርያም ምሕረት ለምንልና /2/\nፍቕሪ ንኽህበና እግዚአብሔር ኣምላኽና /2/\nልመናና ስማዕ ፈጣሪና\nበዲልናካ ኢና’ሞ ሓላዊና\nጐይታ እሙን ቅዱስ ምሕረትካ ሃበና\nሰላምካን ፍቕርኻን ኣይፈለየና\nኣብ ቅዱስ እምነትና ኣጽንዓና /2/\nምእንቲ ክንወርስ ተስፋ መንግስትኻ /2/\nልመናና ስማዕ ፈጣሪና\nበዲልናካ ኢና’ሞ ሓላዊና\nጐይታ እሙን ቅዱስ ምሕረትካ ሃበና\nሰላምካን ፍቕርኻን ኣይፈለየና",
+    "ti_ro": "[[chorus]]\nGziebher mhretka 'adlena /2/\nN'ana deqkha yqreta habena /2/\nLmenana sma' fet'arina\nBedilnaka ina’mo halawina\nLmenana sma' fet'arina\nBedilnaka ina’mo halawina\nGwayta mun qdus mhretka habena\nSelamkan fqrkhan ayfeleyena\n[[/chorus]]\n\nDngl maryam mhret lemnlna /2/\nFqri nkhhbena gziebher amlakhna /2/\nLmenana sma' fet'arina\nBedilnaka ina’mo halawina\nGwayta mun qdus mhretka habena\nSelamkan fqrkhan ayfeleyena\nAb qdus mnetna ats'n'ana /2/\nMnti knwers tesfa mengstkha /2/\nLmenana sma' fet'arina\nBedilnaka ina’mo halawina\nGwayta mun qdus mhretka habena\nSelamkan fqrkhan ayfeleyena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 337,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

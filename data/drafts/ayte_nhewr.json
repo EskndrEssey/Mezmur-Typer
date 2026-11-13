@@ -1,0 +1,53 @@
+{
+  "id": "h_xcqmo1k7t9n",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣይቴ ንሐውር",
+    "ti_ro": "ኣይቴ ንሐውር",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣይቴኑ አሐውር እመንፈስከ ወአይቴ እጐይይ እምቅድመ ገጽከ\nእመኒ ዐረጉ ውስተ ሰማይ ህየኒ አንተ\n[[/chorus]]\n\nአይቴ ነሐውር ወአይቴ ንጐይይ እምቅድመ ገጽከ\nመነ ንሰምዕ ወመነ ናጸምዕ እንበለ ቃልከ\nበድምፀ ነጐድጓድ ወበድምፀ ማዕበል\nኃይለከ ከሠትከ በግብርከ ልዑል\n\nአባግዐ መርዔት በኃይል ገፋዕኩ\nበቅትለቶሙ ለጻድቃን ሠመርኩ\nሳውል ተመየጥ ብህልከኒ ሊተ\nወበትእዛዝከ ኃይልከ ተከሥተ\nበብሂሎትየ ኢይክሕደከ\nአላ እመውት በስቃይ ምስሌከ\nኢተቈጥዐ ወኢተቀየመ\nአመ ክሕድክዎ ሰምዓኒ ዳግመ\n\nሕይወተ ዚአነ ለደቀ ቤትከ\nአመ ተሌለየ እምነ ፍቅርከ\nእስመ ከመ ዓሣ ዘእንበለ ባሕር\nአልብነ ሕይወት በሰማይ ወምድር\n\nመስቀል መድኃኒትና",
+    "ti_ro": "[[chorus]]\nAytenu ehewr menfeske weeyte gwayy mqdme gets'ke\nMeni 'eregu wste semay hyeni ente\n[[/chorus]]\n\nEyte nehewr weeyte ngwayy mqdme gets'ke\nMene nsem' wemene nats'em' nbele qalke\nBedmts'e negwadgwad webedmts'e ma'bel\nHayleke kessetke begbrke l'ul\n\nEbag'e mer'et behayl gefa'ku\nBeqtletomu lets'adqan Ssemerku\nSawl temeyet' bhlkeni lite\nWebetzazke haylke tekesste\nBebhilotye iykhdeke\nEla mewt besqay msleke\nIteqwat''e weiteqeyeme\nEme khdkwo sem'ani dagme\n\nHywete ziene ledeqe betke\nEme teleleye mne fqrke\nSme keme 'assa zenbele bahr\nElbne hywet besemay wemdr\n\nMesqel medhanitna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 421,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

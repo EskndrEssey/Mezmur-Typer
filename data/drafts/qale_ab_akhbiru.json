@@ -1,0 +1,53 @@
+{
+  "id": "h_w7f64v33n1x",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቃለ ኣብ ኣኽቢሩ",
+    "ti_ro": "ቃለ ኣብ ኣኽቢሩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቃለ ኣብ ኣኽቢሩ ኣደ ገበረኪ\nእግዚአብሔር ብቓሉ ፍጹም ዘኽበረኪ\nእንምክሓልኪ መሳልልና ኢኺ\nቅድስና ናትኪ ጽድቂ’ውን ለበስኪ\nዓለም ዝፈጠረ ወሊድኪ ንስኺ\nፍሬ ገነት ኢኺ ንሕይወት ዘፍረኺ\nንዓኺ ዝመረጸ ልዕል ዘበለኪ\nምስጋና ይብጽሓዮ ክርስቶስ ወድኺ\n[[/chorus]]\n\nገነት ኤዶም ኢኺ ኣዳም ዝነበረልኪ\nሩባ ኤፌሶን ወርቂ’ውን ዘለኪ\nውሒዝ ጊዮን ኢኺ ሃገርና ከበብኪ\nዮርዳኖስ’ውን ኢኺ ኣሕዛብ ፈወስኪ\nብቓልነት ናይ ወልድኣብ’ውን ዘኽበረኪ\nንኣሕዛብ ክብጆ ወልድ ክሓድረልኪ\nአብ ኣብ ሕሊናኡ ጽሒፉ ንዓኺ\nመሕደሪ ንቓል ናይ ጽላት ታቦት\nእትምሰሊ ኢኺ ደመና ብርህት\nካብ ስጋኺ ሥጋ ካብ ደምኪ ወሲዱ\nካብ ነፍስኺ ነፍሲ ፍጹም ተዋሂዱ /2/",
+    "ti_ro": "[[chorus]]\nQale ab akhbiru ade gebereki\nGziebher bqalu fts'um zekhbereki\nNmkhalki mesallna ikhi\nQdsna natki ts'dqi’wn lebeski\n'Alem zfet'ere welidki nskhi\nFre genet ikhi nhywet zefrekhi\nN'akhi zmerets'e l'l zebeleki\nMsgana ybts'hayo krstos wedkhi\n[[/chorus]]\n\nGenet edom ikhi adam zneberelki\nRuba efeson werqi’wn zeleki\nWhiz giyon ikhi hagerna kebebki\nYordanos’wn ikhi ahzab feweski\nBqalnet nay weldab’wn zekhbereki\nNahzab kbjo weld khadrelki\nEb ab hlinau ts'hifu n'akhi\nMehderi nqal nay ts'lat tabot\nTmseli ikhi demena brht\nKab sgakhi Ssga kab demki wesidu\nKab nefskhi nefsi fts'um tewahidu /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 842,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

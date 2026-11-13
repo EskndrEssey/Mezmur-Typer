@@ -1,0 +1,53 @@
+{
+  "id": "h_jfl7larfxvv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክዝምረልካ ክቓንየልካ",
+    "ti_ro": "ክዝምረልካ ክቓንየልካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክዝምረልካ ክቓንየልካ\nኣነ ባርያኻ ከኽብረካ\nኣብ ቤትካ ክኣቱ ናብ መቕደስካ\nአማኑኤለይ ተመስገን ክብለካ\nልሳነይ ንዓኻ ክዝምረልካ’ዩ\nኣፈይ ብዕልልታ ክቃንየልካ’ዩ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ\nኵሉ ሳዕ ክነቅሕ ንስምካ ክውድስ\nኣእጋረይ ኣቕኒዐ ናብ ቤትካ ክግስግስ\nኣብ ዓውደ ምሕረትካ ደው ኢለ ክዝምር\nናትካ ድንቂ ስራሕ ብኣፈይ ክምስክር\n[[/chorus]]\n\nኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ\nንዘይግብኣኒ ንዓይ ዓዲልካዮ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ",
+    "ti_ro": "[[chorus]]\nKzmrelka kqanyelka\nAne baryakha kekhbreka\nAb betka katu nab meqdeska\nEmanueley temesgen kbleka\nLsaney n'akha kzmrelka’yu\nAfey b'llta kqanyelka’yu\nKab 'amets'a shtet balihka awts'ikhani\nTarikhey lewit'ka l'l abelkani\nKwlu sa' kneqh nsmka kwds\nAgarey aqni'e nab betka kgsgs\nAb 'awde mhretka dew ile kzmr\nNatka dnqi srah bafey kmskr\n[[/chorus]]\n\nAmlakh nw'letka bmntay kfedyo\nNzeygbani n'ay 'adilkayo\nKab 'amets'a shtet balihka awts'ikhani\nTarikhey lewit'ka l'l abelkani",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 96,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

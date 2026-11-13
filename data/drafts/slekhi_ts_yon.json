@@ -1,0 +1,53 @@
+{
+  "id": "h_jj3662980nb",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ስለኺ ጽዮን",
+    "ti_ro": "ስለኺ ጽዮን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nስለኺ ጽዮን ስቕ ኣይክብልን\nስለ ኢየሩሳሌም ኣይከዐርፍን\nጽድቅኺ ክነግር ክዝምር እየ ጌና\nምድሓንኪ ክደምቕ ከም ሃልሃልታ ፋና\nብጸሎትኪ ዝቖመ ቅዱስ ኪዳን ጎልጎታ\nበሪ ሕይወት ኣርሒቡ ኮይንና ጽኑዕ ዋልታ\nምሕረት ክትልምንልና ናባኺ ነንቃዕርር\nዝሰረበ መዓት ብኪዳንኪ ይቖርር\n[[/chorus]]\n\nእግዚአብሔር ንዓኺ እንተዘይገድፈልና ትርፊ\nተስፋና ምተቐብረ ኣብዚ ምድሪ ሓላፊ\nፈሪኺ ሕብስቲ ሕይወት ንዓለም ዝቕድስ\nማዕጾ ገነት ኣርሒኽልና ናብ ርስትና ክንምለስ\nጥበብ ምድሓና ብኣኺ ድንቂ'ዩ ልዕሊ ኣእምሮ\nዘይውሰን መለኮት ከመይ ከርስኺ ጾሮ\nእምነት ምልኣት የብሉን ብዘይብኣኺ ድንግል\nበረኸትና ኵሉ ካባኺ እዩ ዝፍልፍል",
+    "ti_ro": "[[chorus]]\nSlekhi ts'yon sq aykbln\nSle iyerusalem ayke'erfn\nTs'dqkhi knegr kzmr ye gena\nMdhanki kdemq kem halhalta fana\nBts'elotki zqome qdus kidan golgota\nBeri hywet arhibu koynna ts'nu' walta\nMhret ktlmnlna nabakhi nenqa'rr\nZserebe me'at bkidanki yqorr\n[[/chorus]]\n\nGziebher n'akhi ntezeygedfelna trfi\nTesfana mteqebre abzi mdri halafi\nFerikhi hbsti hywet n'alem zqds\nMa'ts'o genet arhikhlna nab rstna knmles\nT'beb mdhana bakhi dnqi'yu l'li amro\nZeywsen melekot kemey kerskhi ts'oro\nMnet mlat yeblun bzeybakhi dngl\nBerekhetna kwlu kabakhi yu zflfl",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 496,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

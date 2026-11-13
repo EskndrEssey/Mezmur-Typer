@@ -1,0 +1,53 @@
+{
+  "id": "h_r5calmrkvy5",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍኖተ ሎዛ",
+    "ti_ro": "ፍኖተ ሎዛ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍኖተ ሎዛ ኪዳነ ምሕረት ፍኖተ ሎዛ /2/\nኣብ መሪር ሕይወት ናትና መኣዛ\nዝፈረኽልና ናይ ዓለም ቤዛ\nኣስካላ ያዕቆብ ጉዕዞ መላእክት ምሳሌኺ\nንጉሥ ብምውላድ ንግስት ንምባል በቒዕኪ\nፍቕርኺ ንዓይ ከምሓዊ ኮይኑ ኣንዲዱኒ\nኪዳነ ምሕረት ቅዱስ ምልጃኺ ረዲኡኒ\n[[/chorus]]\n\nናይ ገነት ደገ ብስለ ሔዋን ምስ ተዓጽወ\nብምኽንያትኪ ጉዕዞ ዕረፍተይ ዝተራሕወ\nመሳልል ኢኺ ካብ ሞት ናብ ሕይወት ዝሰግረላ\nጐይታ ወሊድኪ ንነፍሰይ ካብ ጸልማት ዘልዕላ\nደገ ሰማያት ሓበን ዓሌትና ንፍጡራት\nማሕደር ናይ ኣምላኽ ግርማኦም ኢኺ ንቅዱሳት\nገብርኤል መጺኡ ሰላምታ ሂቡ ኣብሲሩኪ\nኪዳነ ምሕረት ቃላት ስኢኑ ንምግላጽኪ",
+    "ti_ro": "[[chorus]]\nFnote loza kidane mhret fnote loza /2/\nAb merir hywet natna meaza\nZferekhlna nay 'alem beza\nAskala ya'qob gu'zo melakt msalekhi\nNguss bmwlad ngst nmbal beqi'ki\nFqrkhi n'ay kemhawi koynu andiduni\nKidane mhret qdus mljakhi rediuni\n[[/chorus]]\n\nNay genet dege bsle hewan ms te'ats'we\nBmkhnyatki gu'zo 'reftey zterahwe\nMesall ikhi kab mot nab hywet zsegrela\nGwayta welidki nnefsey kab ts'elmat zel'la\nDege semayat haben 'aletna nft'urat\nMahder nay amlakh grmaom ikhi nqdusat\nGebrel mets'iu selamta hibu absiruki\nKidane mhret qalat sinu nmglats'ki",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 359,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

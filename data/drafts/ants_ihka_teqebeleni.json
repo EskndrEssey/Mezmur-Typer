@@ -1,0 +1,53 @@
+{
+  "id": "h_4xhpxhfn462",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣንጺሕካ ተቐበለኒ",
+    "ti_ro": "ኣንጺሕካ ተቐበለኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብሰሪ ጉንዲ ዓይነይ ብብርሃኑ ጸልሚቱኒ\nባርያኻስ ኣይትሕደጎ ጐይታይ ብኻዕቦ በደል ክዳነ\nተምሳል ካብቲ ምስልኻ ውሉድ ቤትካ’ንድየ ኣነ\nኣንታ መድኃኒት ነውጺ ልበይ ንስኻ ኢኻ ፈውሰይ\nባህ ኢልወን ክርእያ ኣዕንተይ ምሕረትካ ፈንወላ ነፍሰይ\n[[/chorus]]\n\nመፍቀር ንስሓ እንክንስኻ ርህሩህ ሓዳግ ኣበሳ\nሰኣን ድፍእ ምባለይ ብጀለምታ ንብዓት ጣዕሳ\nዛንታ ነቢይ ዮናስ ክደግም ካብ ገጽካ ክግለል ኢለ\nዋላ’ንተ ረሓቕኩኻ ብመርከብ ኃጢአት ኮብሊለ\n‘ታይከ’ሎ ዝሰኣን ነዓኻ ኣንታ ጐይታ ልግሲ ፍቕሪ\nሰፈር ድኅነተይ ለውጦ’ምበር ከርሢ ጨካን ዓሳ ነባሪ\nነፍሰይ ኣብዛ ጊዜያዊት ዓለም ነዓኻ ብምርካባ\nእንታይ’ዩ’ኸ ኣብ ቅድሚኣ ትቱዕ እሾኽ ተኾርባ\nክብል በቃ እናተመካሕኩ ብስምካ እናመስከርኩ\nዘይስገር ኵሉ ክሰግሮ ብኃይልኻ እናኣመንኩ\nስእነት ‘ዚ ውሽጣዊ ንጽሕናይ ካብ ሠናይካ ኣየትርፈኒ\nፈጢርካ’ንዶ ኣይትመንነኒ ኣንጺሕካ ’ባ ተቐበለኒ",
+    "ti_ro": "[[chorus]]\nBseri gundi 'ayney bbrhanu ts'elmituni\nBaryakhas aythdego gwaytay bkha'bo bedel kdane\nTemsal kabti mslkha wlud betka’ndye ane\nAnta medhanit newts'i lbey nskha ikha fewsey\nBah ilwen krya a'ntey mhretka fenwela nefsey\n[[/chorus]]\n\nMefqer nsha nknskha rhruh hadag abesa\nSean df mbaley bjelemta nb'at t'a'sa\nZanta nebiy yonas kdegm kab gets'ka kglel ile\nWala’nte rehaqkukha bmerkeb hat'iet koblile\n‘Tayke’lo zsean ne'akha anta gwayta lgsi fqri\nSefer dhnetey lewt'o’mber kerssi ch'ekan 'asa nebari\nNefsey abza gizeyawit 'alem ne'akha bmrkaba\nNtay’yu’khe ab qdmia ttu' shokh tekhorba\nKbl beqa natemekahku bsmka nameskerku\nZeysger kwlu ksegro bhaylkha naamenku\nSnet ‘zi wsht'awi nts'hnay kab Ssenayka ayetrfeni\nFet'irka’ndo aytmenneni ants'ihka ’ba teqebeleni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 856,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

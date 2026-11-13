@@ -1,0 +1,53 @@
+{
+  "id": "h_whkab6r57vg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቤተ ክርስቲያና",
+    "ti_ro": "ቤተ ክርስቲያና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቤተክርስቲያና ናይ ኣደ ፍቕሪ እዩ ዘለኪ ንዓና ኃጥኣን ደቅኺ /2/\nከይንጠሚ ኣብልዕና ከይንጸምእ’ውን ኣስትይና\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBetekrstiyana nay ade fqri yu zeleki n'ana hat'an deqkhi /2/\nKeynt'emi abl'na keynts'em’wn astyna\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 391,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

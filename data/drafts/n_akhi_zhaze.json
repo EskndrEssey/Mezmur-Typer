@@ -1,0 +1,53 @@
+{
+  "id": "h_96012x1q45z",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንዓኺ ዝሓዘ",
+    "ti_ro": "ንዓኺ ዝሓዘ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንዓኺ ዝሓዘ እንታ’ዩ ዝጎድሎ\nብምልጃኺ ኵሉ ቤቱ መሊእክሉ\nንዅሉ ዝምግብ ጸጋኺ ዘይጎድል\nስምኪ ጥዑም መግቢ ንጥሙይ ዝዕንግል/2/\n[[/chorus]]\n\nምስ ትመጺ ንስኺ ናብዛ ምስኪን ገዛይ\nከም ኣደ ናይ መጥምቕ በዚሑ ሓጎሰይ\nንቑርባን ሓዲስ ኪዳን ኢኺ ጠረጴዛ\nጽድቂ ናይ ሕይወትኪ ይሽትት መኣዛ /2/\nተጠራጢሩ ልበይ ኪዳንኪ ከይክሕድ\nድንግል ሓግዝኒ በረኸት ክረክብ\nኵሉ እናመላእኪ መግቢ ትምግቢ\nፈጺሙ ዘይውዳእ ጸጋ ሃብቲ ኣለኪ /2/\n\nመዕረፊ እግዚአብሔር ቆጥቋጥ ናይ ኮሬብ\nንጽድቂ  ተፍስሲ ምንጪ ናይ ሕይወት\nተወሃሂዱኪ እሳት ሙሴ ዝረኣየኪ\nኣሳእኑ ኣውጺኡ ሰጊዱ ኣብ ቅድሜኺ /2/\n\nዘማሪት ጽገሬዳ ጥላሁን",
+    "ti_ro": "[[chorus]]\nN'akhi zhaze nta’yu zgodlo\nBmljakhi kwlu betu meliklu\nNkhwlu zmgb ts'egakhi zeygodl\nSmki t''um megbi nt'muy z'ngl/2/\n[[/chorus]]\n\nMs tmets'i nskhi nabza mskin gezay\nKem ade nay met'mq bezihu hagosey\nNqurban hadis kidan ikhi t'erep'eza\nTs'dqi nay hywetki yshtt meaza /2/\nTet'erat'iru lbey kidanki keykhd\nDngl hagzni berekhet krekb\nKwlu namelaki megbi tmgbi\nFets'imu zeywda ts'ega habti aleki /2/\n\nMe'refi gziebher qot'qwat' nay koreb\nNts'dqi  tefssi mnch'i nay hywet\nTewehahiduki sat muse zreayeki\nAsanu awts'iu segidu ab qdmekhi /2/\n\nZemarit ts'gereda t'lahun",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 130,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

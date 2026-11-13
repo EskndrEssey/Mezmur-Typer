@@ -1,0 +1,53 @@
+{
+  "id": "h_9hvw3cvmzil",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሚካኤል ሊቀ መላእክት",
+    "ti_ro": "ሚካኤል ሊቀ መላእክት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣድሕነና ኣድሕነና ካብ ናይ ሲኦል እሳት\nእስኪ ነመስግኖ ናይ ጐይታ ኣገልጋላይ\nክብሪ ዝተዋህቦ ካብ ሄር እግዚአብሔር\nክብርኻ ብዙሕ’ዩ ግሩም ተኣምራትካ\nረዳኢ ምንዱባን መድኃኒት ንስኻ ሚካኤል\n[[/chorus]]\n\nሎሚ’ውን ንስኻ ከም ኩሎም ቅዱሳን\nንዓና ሓልወና ካብ ጸላኢ ሰይጣን\nንዝተማሕጸኑ በማላድነትካ\nፍጡነ ረድኤት ሚካኤል ኢኻ ሚካኤል\nስምካ ዝጽውዑ ዘኪሮም ዝኽርኻ\nረዳኢኦም ኢኻ ነቶም ዘኽብሩኻ\nጸበልካ ፈውሲ’ዩ ንዝቐረቡኻ\nሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+    "ti_ro": "[[chorus]]\nAdhnena adhnena kab nay siol sat\nSki nemesgno nay gwayta agelgalay\nKbri ztewahbo kab her gziebher\nKbrkha bzuh’yu grum teamratka\nRedai mnduban medhanit nskha mikael\n[[/chorus]]\n\nLomi’wn nskha kem kulom qdusan\nN'ana halwena kab ts'elai seyt'an\nNztemahts'enu bemaladnetka\nFt'une redet mikael ikha mikael\nSmka zts'w'u zekirom zkhrkha\nRedaiom ikha netom zekhbrukha\nTs'ebelka fewsi’yu nzqerebukha\nLiqe melakt adhnena ikha mikael",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 521,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_qm4h4edxywj",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንልበይ ኣላዒሉ",
+    "ti_ro": "ንልበይ ኣላዒሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንመድኃኔ ዓለም እመኖ ይብለኒ\nእመን /6/ ንኣሃዜ ኵሉ ንዝልመን\nልበይ ኣላዒሉ የመላኽተኒ\nንድንግል ማርያም እመና ይብለኒ\nእመን /6/ ንወላዲት ኣምላኽ ንትልመን\n[[/chorus]]\n\nልበይ ኣላዒሉ የመላኽተኒ\nንቅዱስ ሚካኤል እመኖ ይብለኒ\nእመን /6/ ንመልኣከ ሳኅል ንዝልመን\nልበይ ኣላዒሉ የመላኽተኒ\nንቅዱስ ዑራኤል እመኖ ይብለኒ\nእመን /6/ ንመልኣከ ሰላም ንዝልመን",
+    "ti_ro": "[[chorus]]\nNmedhane 'alem meno ybleni\nMen /6/ nahaze kwlu nzlmen\nLbey ala'ilu yemelakhteni\nNdngl maryam mena ybleni\nMen /6/ nweladit amlakh ntlmen\n[[/chorus]]\n\nLbey ala'ilu yemelakhteni\nNqdus mikael meno ybleni\nMen /6/ nmelake sahl nzlmen\nLbey ala'ilu yemelakhteni\nNqdus 'urael meno ybleni\nMen /6/ nmelake selam nzlmen",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 482,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

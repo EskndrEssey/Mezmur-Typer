@@ -1,0 +1,53 @@
+{
+  "id": "h_nk5rjnskt9t",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስጋና ይኹን ንሥላሴ",
+    "ti_ro": "ምስጋና ይኹን ንሥላሴ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስጋና ይኹን ንሥላሴ /2/\nካብ ፍጥረታት ኣኽቢርካኒ\nብምስልኻ ፈጢርካኒ\n[[/chorus]]\n\nንፈጣሪ ንሥላሴ\nከየሰልከየት ትዘምር ነፍሰይ\nስሙ ጸዊዐ ረዊየየ\nከም ጽቡቕ ኦም ለምሊመ’የ (2)\nዝወፍርም ዝኣትውን\nኵሉ ነገር ዝዓምም\nጀሚረ’ውን ዝፍጽም\nጸዊዐየ ናቱ ስም\n\nሥላሴ ይፈልጡ እዮም\nዘለዓለም ሕያዋን `ዮም\nብሥላሴ ከቢረየ\nውሉድነት ረኺበ’የ",
+    "ti_ro": "[[chorus]]\nMsgana ykhun nsslase /2/\nKab ft'retat akhbirkani\nBmslkha fet'irkani\n[[/chorus]]\n\nNfet'ari nsslase\nKeyeselkeyet tzemr nefsey\nSmu ts'ewi'e rewiyeye\nKem ts'buq om lemlime’ye (2)\nZwefrm zatwn\nKwlu neger z'amm\nJemire’wn zfts'm\nTs'ewi'eye natu sm\n\nSslase yfelt'u yom\nZele'alem hyawan `yom\nBsslase kebireye\nWludnet rekhibe’ye",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 43,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

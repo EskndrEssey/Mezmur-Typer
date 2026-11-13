@@ -1,0 +1,53 @@
+{
+  "id": "h_y3ks434bhou",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንድንግል ክውድስ",
+    "ti_ro": "ንድንግል ክውድስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንድንግል ክውድስ ስማ ደጋጊመ\nብዘመናት ፍጹም ዘይውሰን ብዕድመ\nደጋጊሙ ይሕጎስ ልበይ ከመስግና\nክዝምረላ’የ ጽባሕ ከሎ ጌና\nሓይሊ ልዑል ኣምላኽ ዘጽለለ ኣብ ልዕሌኣ\nቅድስቲ ድንግል’ያ ርኅሩኅ ዝባህሪኣ\nከዋኽብቲ ሰማይ ኩኑ ቃል ምስጋና\nነፍሰይ ከይትትክዝ እትብሎ ስኢና /2/\n[[/chorus]]\n\nኣትን ኣዕዋፍ ሰማይ ዘይማለይ ዜማ\nዘመነይ ከሕልፎ እናወደስኩ ስማ\nካብ ሥጋኣ ሥጋ ካብ ነፍሳ’ውን ነፍሲ\nዝወሰደ ኣምላኽ ኮይኑልና’ዩ ፈውሲ/2/\nማዕበል ባሕሪ ሃርህር ከም ድምፂ በገና\nመጺኣ ናብ ቤተይ ብተምሳል ደመና\nኣግራብ ስየ ጽሕዲ ኃዙለይ ጸናጽል\nህያብ ፍቕሪ ኣሎኒ ዝብርከት ንድንግል /2/",
+    "ti_ro": "[[chorus]]\nNdngl kwds sma degagime\nBzemenat fts'um zeywsen b'dme\nDegagimu yhgos lbey kemesgna\nKzmrela’ye ts'bah kelo gena\nHayli l'ul amlakh zets'lele ab l'lea\nQdsti dngl’ya rhruh zbahria\nKewakhbti semay kunu qal msgana\nNefsey keyttkz tblo sina /2/\n[[/chorus]]\n\nAtn a'waf semay zeymaley zema\nZemeney kehlfo nawedesku sma\nKab Ssgaa Ssga kab nefsa’wn nefsi\nZwesede amlakh koynulna’yu fewsi/2/\nMa'bel bahri harhr kem dmts'i begena\nMets'ia nab betey btemsal demena\nAgrab sye ts'hdi hazuley ts'enats'l\nHyab fqri aloni zbrket ndngl /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 269,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

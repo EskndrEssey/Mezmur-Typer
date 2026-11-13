@@ -1,0 +1,53 @@
+{
+  "id": "h_l079e0c29s7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ድንቅታቱ",
+    "ti_ro": "ድንቅታቱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንቅታቱ ፍሉይ’ዩ ውህበቱ\nጐይታ ናተይ ናይ ሊባኖስ ሽቱ\nጐይታይ ግን ኣኽቢሩ መሊኡ ብጥበብ\nሸይሙኒ ብጸጋ ጌሩ በዓል ማዕረግ\nኣማን ብኣማን ተገሊጹ ሎሚ\nኣማን ብኣማን ተወሊዓ ሓቂ\nኣማን ብኣማን ንጉሰይ ፈሪዱ\nኣማን ብኣማን ዓለም ተደነቒ\n[[/chorus]]\n\nምንቅጥቃጥ ናይ ከንፈር ወልደፍደፍ ምባሉ\nወይኒ ሰትዩ እዩ ኢሎም እንተበሉ\nናይ ልበይ ረዳኢ ኣልቢሱ ምስጋና\nሓጎስ መሊኡኒ ረኣዪ ፍናና\nኣማን ብኣማን ዕብየቱ ላዕሊ’ዩ\nኣማን ብኣማን ዝመስሎ’ውን የለን\nኣማን ብኣማን ተቐቢኡ ድኻ\nኣማን ብኣማን ወሊዳ’ውን መኻን\nፈሪሳዊ ግደፍ ንላዕሊ ኣይትድነን\nሱር ጨቢጥካ እዩ ጽጌረዳ ምዃን\nጸጋ ናይ ትሕትና ዕብየት መንፈስ ቅዱስ\nኣብ ርእሲ ነዳይ ‘ዩ መሊኡ ዝፈስስ\nኣማን ብኣማን ኣልዒልዎ እዩ\nኣማን ብኣማን ንድኻ ካብ ሓመድ\nኣማን ብኣማን ልዑል እግዚአብሔር\nኣማን ብኣማን ናይ ግፉዓት ዘመድ\n\nሕሬት ካብ ላዕሊ’ዩ ደቂ ቆሬ ስምዑ\nዝተናዕቀ እምኒ ርእሲ ማእዝን ኮይኑ\nምስጋና ጥራይ’ዩ ዘረባና ኵሉ\nንድንቂ ስርሑ ዕልል ዕልል በሉ\nኣማን ብኣማን ኣይውዳእን ከቶ\nኣማን ብኣማን ብዙሕ’ዩ ነገሩ",
+    "ti_ro": "[[chorus]]\nDnqtatu fluy’yu whbetu\nGwayta natey nay libanos shtu\nGwaytay gn akhbiru meliu bt'beb\nSheymuni bts'ega geru be'al ma'reg\nAman baman tegelits'u lomi\nAman baman teweli'a haqi\nAman baman ngusey feridu\nAman baman 'alem tedeneqi\n[[/chorus]]\n\nMnqt'qat' nay kenfer weldefdef mbalu\nWeyni setyu yu ilom ntebelu\nNay lbey redai albisu msgana\nHagos meliuni reayi fnana\nAman baman 'byetu la'li’yu\nAman baman zmeslo’wn yelen\nAman baman teqebiu dkha\nAman baman welida’wn mekhan\nFerisawi gdef nla'li aytdnen\nSur ch'ebit'ka yu ts'gereda mkhwan\nTs'ega nay thtna 'byet menfes qdus\nAb rsi neday ‘yu meliu zfess\nAman baman al'ilwo yu\nAman baman ndkha kab hamed\nAman baman l'ul gziebher\nAman baman nay gfu'at zemed\n\nHret kab la'li’yu deqi qore sm'u\nZtena'qe mni rsi mazn koynu\nMsgana t'ray’yu zerebana kwlu\nNdnqi srhu 'll 'll belu\nAman baman aywdan keto\nAman baman bzuh’yu negeru",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 238,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

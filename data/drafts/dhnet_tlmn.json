@@ -1,0 +1,53 @@
+{
+  "id": "h_toxbzlsa59u",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ድኅነት እትልምን",
+    "ti_ro": "ድኅነት እትልምን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድኅነት እትልምን ንደቅኻ ኵሉ (2)\nናዛዜ ሕዙናን ኣሜን /2/\nገብርኤል ለልዑል መልኣከ ኃይሉ\nብሰላምታ ገብርኤል ብብስራት ገብርኤል\nሰላምታ ይብጻሕኪ ኪዳነ ምሕረት\nንኣምን ብኣኻ ኣማላዲ ኢኻ\nንሰለስቱ ደቂቅ ካብ ሓዊ ዘውጻእካ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nDhnet tlmn ndeqkha kwlu (2)\nNazaze hzunan amen /2/\nGebrel lel'ul melake haylu\nBselamta gebrel bbsrat gebrel\nSelamta ybts'ahki kidane mhret\nNamn bakha amaladi ikha\nNselestu deqiq kab hawi zewts'aka\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 524,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

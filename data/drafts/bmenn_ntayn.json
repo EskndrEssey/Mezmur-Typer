@@ -1,0 +1,53 @@
+{
+  "id": "h_abf8w2ldoc3",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብመንን እንታይን",
+    "ti_ro": "ብመንን እንታይን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብመንን እንታይን ድንግል ክንምስለኪ\nወላዲተ አምላክ ተስፋና’ኺ ንስኺ\nኣደ ኣማኑኤል ምስጋና ይብጻሕኪ\nናይ ሲና ዕጸ ጳጦስ ሙሴ ዝረኣየኪ\nጐይታ ዝወለድኪ ድንግል ደስ ይበልኪ\nናይ ሔዋን መድኃኒት ድንግል ማርያም\nክብሪ ይግበኣኪ ክሳብ ዘልዓለም\n[[/chorus]]\n\nሐመረ ኖህ ድንግል ናይ ቃልኪዳን ኣርማ\nቀስተ ደመና’ያ ናይ ምሕረት ከተማ\nኣብ ገነት ትርከብ ናይ ክብሪ ቀንዴል\nንዒ ንዒ ድንግል ኣባኺ ነጽልል\n\nውዕለታ ብዙሕ’ዩ እንታይ’ለ ክነግር\nካብ ጭንቀት ተውጽእ ካብ መከራ ሽግር\nዓንጋሊት ከርሲ’ያ ናይ ሰማይ መና\nንማርያም ኣዴና ንዑ ነመስግና",
+    "ti_ro": "[[chorus]]\nBmenn ntayn dngl knmsleki\nWeladite emlak tesfana’khi nskhi\nAde amanuel msgana ybts'ahki\nNay sina 'ts'e p'at'os muse zreayeki\nGwayta zweledki dngl des ybelki\nNay hewan medhanit dngl maryam\nKbri ygbeaki ksab zel'alem\n[[/chorus]]\n\nHemere noh dngl nay qalkidan arma\nQeste demena’ya nay mhret ketema\nAb genet trkeb nay kbri qendel\nN'i n'i dngl abakhi nets'll\n\nW'leta bzuh’yu ntay’le knegr\nKab ch'nqet tewts' kab mekera shgr\n'Angalit kersi’ya nay semay mena\nNmaryam adena n'u nemesgna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 486,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

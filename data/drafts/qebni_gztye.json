@@ -1,0 +1,53 @@
+{
+  "id": "h_l6qsa9giei6",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕቀብኒ እግዝእትየ",
+    "ti_ro": "ዕቀብኒ እግዝእትየ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕቀብኒ እግዝእትየ እምነ አርዌ ዘሆጻ\nህየንተ ሰናይ ለሰብእ ዘይሁብ ዐመጻ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\n'Qebni gztye mne erwe zehots'a\nHyente senay leseb zeyhub 'emets'a\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 330,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "h_sbwwrdmz0vv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከመስግነኪ ብዘመነይ",
+    "ti_ro": "ከመስግነኪ ብዘመነይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግል ማርያም ኣደ ኣምላኽ\nከመስግነኪ ብዘመነይ\nንወድኺ’ውን ክብሪ ውዳሴ\nተቕርበሉ ወትሩ ንነፍሰይ /2/\nልበይ’ውን ተላዕለ ክቓኒ ፍቕርኺ\nብፍጹም ትሕትና ከመስግን ንዓኺ\nናይ ሰማይ ናይ ምድሪ ንግስቲ ዝኾነት\nክብሪ ይግበኣ ወትሩ ንግሆ ምሸት\nሓደራኺ ድንግል ኣደ ናይ ኩላትና\nብምልጃኺ ድንግል ኣይትፈለይና\nነቲ ባሕሪ ሓዊ ኣስግርና ድንግል\nንኸይንመውት ከይንርኢ ስቓይ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nDngl maryam ade amlakh\nKemesgneki bzemeney\nNwedkhi’wn kbri wdase\nTeqrbelu wetru nnefsey /2/\nLbey’wn tela'le kqani fqrkhi\nBfts'um thtna kemesgn n'akhi\nNay semay nay mdri ngsti zkhonet\nKbri ygbea wetru ngho mshet\nHaderakhi dngl ade nay kulatna\nBmljakhi dngl aytfeleyna\nNeti bahri hawi asgrna dngl\nNkheynmewt keynri sqay\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 29,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

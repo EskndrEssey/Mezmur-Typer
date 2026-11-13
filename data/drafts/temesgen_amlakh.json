@@ -1,0 +1,53 @@
+{
+  "id": "h_cn6268l9bi8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተመስገን ኣምላኽ",
+    "ti_ro": "ተመስገን ኣምላኽ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተመስገን ኣምላኽ ሰብ ‘ትምሕር\nተመስገን ኣምላኽ መስፍን ሰላም\nተመስገን ኣምላኽ ኣቦ ዘልዓለም\nጸሓይ እናብረቐ ዝናማት እናዝነመ\nንፍጥረቱ ዝምግብ ኣምላኽ\nብበረኸት ኣብዚኁ ፍረ\nጓሳ ኣባጊዕ ኣምላኽ እስራኤል\nብሰማይ ምድሪ ዝኸበረ\n[[/chorus]]\n\nፈውሲ ናይ ሕሙማት\nመግቢ ናይ ድኻታት\nምዕራፍ ኢኻ ነቶም ዝጽዕሩ\nኣርዑትካ ጸይሮም ሰላም ክነብሩ\nኣንታ ርህሩህ ሳምራዊ ኣምላኽ\nብግብሪ ኣእዳውካ ክበር ተባረኽ\nንምድሪ ተጽንዓ በሓይሊ ከሃልነት\nከይዘራእካ ትዓጽድ ኣምላኽ\nከይበተንካ ትእክብ ጐይታ\nኵሉ ትገብር ከምቲ ፍቓድካ\nንዓኻ እሞ እንታይ ይሰኣነካ",
+    "ti_ro": "[[chorus]]\nTemesgen amlakh seb ‘tmhr\nTemesgen amlakh mesfn selam\nTemesgen amlakh abo zel'alem\nTs'ehay nabreqe znamat nazneme\nNft'retu zmgb amlakh\nBberekhet abzihu fre\nGwasa abagi' amlakh srael\nBsemay mdri zkhebere\n[[/chorus]]\n\nFewsi nay hmumat\nMegbi nay dkhatat\nM'raf ikha netom zts''ru\nAr'utka ts'eyrom selam knebru\nAnta rhruh samrawi amlakh\nBgbri adawka kber tebarekh\nNmdri tets'n'a behayli kehalnet\nKeyzeraka t'ats'd amlakh\nKeybetenka tkb gwayta\nKwlu tgebr kemti fqadka\nN'akha mo ntay yseaneka",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 386,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_63jw6tv45j6",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መትሕተ ፈጣሪ",
+    "ti_ro": "መትሕተ ፈጣሪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመትሕተ ፈጣሪ መልዕልተ ፍጡራን\nኣልቦ ዘከማኪ እሙ ለኣዶናይ\nካብ ቤተይ ወጺኤ ገዛኺ ክሳለም\nናይ ልበይ ነጊረ ቅድሜኺ ክቐውም\nዝተቐደሰ’ዩ ኢድኪ ብበረኸት\nክዝምረልኪ’የ ኣንቲ ዕጸ ገነት\n[[/chorus]]\n\nንባብ ናይ ፍቕርኺ ነጢቡ ኣብ ልበይ\nንወርሒ ረጊጽኪ ነጊስኪ ኣብ ሰማይ\nከዋኽብቲ ልዕሌኺ ጸሓይ ተኸዲንኪ\nጽዮን ደስ ይበልኪ እግዚአብሔር ሓርዩኪ\nዘልኣለማዊ’ዩ ናትኪ ድንግልና\nልዑል ጌሩኪ’ዩ ናይ ጥበቡ ፋና\nኣደ ናይ ንጉሥ መመክሒት ፍጥረት\nሕጹር’ዩ ልብና ናይ ፍቕሪ ቀለቤት\n\nዲ/ን ሃዋዝ ተገኘ",
+    "ti_ro": "[[chorus]]\nMethte fet'ari mel'lte ft'uran\nAlbo zekemaki mu leadonay\nKab betey wets'ie gezakhi ksalem\nNay lbey negire qdmekhi kqewm\nZteqedese’yu idki bberekhet\nKzmrelki’ye anti 'ts'e genet\n[[/chorus]]\n\nNbab nay fqrkhi net'ibu ab lbey\nNwerhi regits'ki negiski ab semay\nKewakhbti l'lekhi ts'ehay tekhedinki\nTs'yon des ybelki gziebher haryuki\nZelalemawi’yu natki dnglna\nL'ul geruki’yu nay t'bebu fana\nAde nay nguss memekhit ft'ret\nHts'ur’yu lbna nay fqri qelebet\n\nDi/n hawaz tegenye",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 62,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "h_odijftd2cb1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልዕል ኣቢልክዮ",
+    "ti_ro": "ልዕል ኣቢልክዮ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰባት ነዚ ርእዮም ብጽእቲ ይብሉኺ\nትሕትና ተማህረ ኣምቢቡኪ ልበይ\nኣደየ ክብርኺ ኢዩ’ሞ ካብ ሰማይ\nናብ ድምጺ እቲ መልኣኽ ክጸልወን ኣእዛነይ\nነቲ ቃል ብስራት ይመላእ እዚ ልበይ\nፈውሰይ ንኽርእዮ ንኢየሱስ ተስፋይ\nክቖጽሮ ቀለሙ ናይ ገብርኤል ዜማ\nሰላም ለኪ ክብላ ናይ ጐይታይ ከተማ\nክኸውን ዘይክእል ስለዝኾነልኪ\nመንበር ንጉሥ ኢኺ ስብሓት ከቢቡኪ\nካብ ዓለም ማህጸንኪ ፈልፈለ መድኃኒት\nብደሙ ብሞቱ ዘጽደቐ ንፍጥረት\nንቕልጽም ቀታሊ ዝሰዓረ ንሞት\nኣዲኡ ንኣንበሳ ንናይ መስቀል ጅግና\nብሞት እቲ ሓደ ብዙሓት ደሓንና\nይግበኣኪ ክብሪ ይግበኣኪ ሞገስ\nክሳብ ቀራንዮ ስዒብኪ ንኢየሱስ\n`ተ ተተምነኺ’ኳ ምግልጋል ባርነት\nግን ኣይተኸልከልክን ካብ ምዃን እመቤት\nነገስት ኣይበልጽዋን ቤተልሔም ንእስት\nከም ዝሰማዕናዮ ርኢና ኣብ ኤፍራታ\nኣብ ሕቑፎኺ ኮይኑ ናይ ዓለማት ጐይታ\nክውለድ ማረኾ ትሕትናኺ ድንግል\nትሕት ምስ ትብል’ዩ ለካ ልዕል ምባል\nሓደ ክገብረና ደብረ ኤፍራታ ልደታ ለማርያም\n(ቃሓውታ)\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSebat nezi ryom bts'ti yblukhi\nThtna temahre ambibuki lbey\nAdeye kbrkhi iyu’mo kab semay\nNab dmts'i ti melakh kts'elwen azaney\nNeti qal bsrat ymela zi lbey\nFewsey nkhryo niyesus tesfay\nKqots'ro qelemu nay gebrel zema\nSelam leki kbla nay gwaytay ketema\nKkhewn zeykl slezkhonelki\nMenber nguss ikhi sbhat kebibuki\nKab 'alem mahts'enki felfele medhanit\nBdemu bmotu zets'deqe nft'ret\nNqlts'm qetali zse'are nmot\nAdiu nanbesa nnay mesqel jgna\nBmot ti hade bzuhat dehanna\nYgbeaki kbri ygbeaki moges\nKsab qeranyo s'ibki niyesus\n`Te tetemnekhi’kwa mglgal barnet\nGn aytekhelkelkn kab mkhwan mebet\nNegest aybelts'wan betelhem nst\nKem zsema'nayo rina ab efrata\nAb hqufokhi koynu nay 'alemat gwayta\nKwled marekho thtnakhi dngl\nTht ms tbl’yu leka l'l mbal\nHade kgebrena debre efrata ldeta lemaryam\n(Qahawta)\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 161,
+    "needs_review": [
+      "no_title_line_found",
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

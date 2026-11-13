@@ -1,0 +1,53 @@
+{
+  "id": "h_hvdihgvrbbo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መን ኣሎና",
+    "ti_ro": "መን ኣሎና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ሰማይ ኮነ ኣብ ኵሉ ምድሪ\nመን ኣሎና ብዘይ በኣኻ\nሎሚ ፈትዩ ጽባሕ ዝጸልእ\nሎሚ ሂቡ ጽባሕ ዝኸልእ\nናይ ሰብ ሕይወት ኣይእመንን’ዩ\nባህርኻ ግን ኣይልወጥን’ዩ\n[[/chorus]]\n\nመልክዕ ሕይወትና ተደዊኑ\nመንገድና ናይ ጥፍኣት ኮይኑ\nጸላኢና’ውን ከሳድደና\nኤልሻዳይ ግን ተዋጊእካልና\nናብራ ዓለም ኣሸኒፉና\nሓይሊ ሲኦል ኣናዊጹና\nማእሰር ኃጢኣት ክፍትሓልና\nኣጸብቆ መወዳእታና\n\nከይተለመንካ ትህብ ጐይታ\nኣይተሕፍርን ንወገናትካ\nሓሳብ ልብና ሰሚሩልና\nብሩህ ኮይኑ ተስፋ ሕይወትና\nናብራ ዓለም . . .",
+    "ti_ro": "[[chorus]]\nAb semay kone ab kwlu mdri\nMen alona bzey beakha\nLomi fetyu ts'bah zts'el\nLomi hibu ts'bah zkhel\nNay seb hywet aymenn’yu\nBahrkha gn aylwet'n’yu\n[[/chorus]]\n\nMelk' hywetna tedewinu\nMengedna nay t'fat koynu\nTs'elaina’wn kesaddena\nElshaday gn tewagikalna\nNabra 'alem ashenifuna\nHayli siol anawits'una\nMaser hat'iat kfthalna\nAts'ebqo mewedatana\n\nKeytelemenka thb gwayta\nAytehfrn nwegenatka\nHasab lbna semirulna\nBruh koynu tesfa hywetna\nNabra 'alem . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 34,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_t6s73oejs0z",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ቤትኪ ደው ኢለ",
+    "ti_ro": "ኣብ ቤትኪ ደው ኢለ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ቤትኪ ደው ኢለ ብምስጋና\nማርያም ጽዮን ክብል ብምስጋና\nንብዓትኪ ድንግል ማሊዱኒ\nውዕለትኪ ድንግል የዕብዩኒ\nብዘይ ብኣኺ መን ኣሎኒ\nትጸላም ደምበርበር ኣነስ ኣይክእሎን’የ\nተቕዋመይ ከለኺ ብርሃና ክርስቶስ ፋና ንመንገደይ /2/\nጽምዋ ኣፍሪሑኒ ከቢቡኒ እንከሎ ጫውጫውታ እዛ ዓለም\nድምጽኺ ኣስምዕኒ መንፈስ ክወርደኒ ከዕብየኪ ማርያም\nማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ\nዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/\n[[/chorus]]\n\nነዓኺ ጸዊዑ መን’ዩ ዝሓፈረ\nኣብ መዝገብ ናይ ልቡ ብዙሕ ውዕለት ኣሎ ፍቕርኺ ዘስፈረ /2/\nደንጋጺት ንድኻ ወገን ንዘይብሉ ናብራ ንዝኸበዶ\nተስፋ ተስንቕዮ ደጊም ንኸዕርፍ መሊእኪ ዝውሕዶ\nስደት ምስ መከራ ምስ ፍቑር ወድኺ ምእንታይ ጼርክዮ\nንብዓት ዘሪእኪ ኢኺ ብምድሓን እዛ ዓለም ሓጎስ ዓጺደዮ\nማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ\nዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/\n\nኣብዛ ስደት ዓለም ንነፍሰይ ከየድሕን\nስጋይ እናኸድዐ ከም ጋላቢ ፈረስ ንጥፍኣት ዝጠንን /2/\nማዕበል ክፉእ ሓሳብ ኣብ ልበይ ዓፊሩ ነፍሰይ ከየስጥማ\nድንግል ለምንለይ ጽድቂ ንኽለብስ ከም ናይ ጻድቃን ግርማ\nማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ\nዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/",
+    "ti_ro": "[[chorus]]\nAb betki dew ile bmsgana\nMaryam ts'yon kbl bmsgana\nNb'atki dngl maliduni\nW'letki dngl ye'byuni\nBzey bakhi men aloni\nTts'elam demberber anes ayklon’ye\nTeqwamey kelekhi brhana krstos fana nmengedey /2/\nTs'mwa afrihuni kebibuni nkelo ch'awch'awta za 'alem\nDmts'khi asm'ni menfes kwerdeni ke'byeki maryam\nMaryam maryam nabelku nsmki kts'w'o\nZlbey y'arfeley hagos’wn ysm'o /2/\n[[/chorus]]\n\nNe'akhi ts'ewi'u men’yu zhafere\nAb mezgeb nay lbu bzuh w'let alo fqrkhi zesfere /2/\nDengats'it ndkha wegen nzeyblu nabra nzkhebedo\nTesfa tesnqyo degim nkhe'rf meliki zwhdo\nSdet ms mekera ms fqur wedkhi mntay ts'erkyo\nNb'at zeriki ikhi bmdhan za 'alem hagos 'ats'ideyo\nMaryam maryam nabelku nsmki kts'w'o\nZlbey y'arfeley hagos’wn ysm'o /2/\n\nAbza sdet 'alem nnefsey keyedhn\nSgay nakhed'e kem galabi feres nt'fat zt'enn /2/\nMa'bel kfu hasab ab lbey 'afiru nefsey keyest'ma\nDngl lemnley ts'dqi nkhlebs kem nay ts'adqan grma\nMaryam maryam nabelku nsmki kts'w'o\nZlbey y'arfeley hagos’wn ysm'o /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 281,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_kjox07zhj8t",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እግዚአብሔር ይመስገን",
+    "ti_ro": "እግዚአብሔር ይመስገን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብምሕረቱ ንጨድር ንዘምር ብዓውታ\nበረኸት ዓዚዙ እቲ ቅዱስ ምርቓ /2/\n[[/chorus]]\n\nብጹኣን ጻድቃናት ዕልል እናበሉ\nትእምርቲ እግዚአብሔር እናጐስዐ ገንፊሉ\nእታ መዓልቲ መጺኣ ለዘብ ንቓንየሉ /2/\nይደሰቕ ከበሮ ኣውታራት ቅኒት\nጸናጽል ይለዓል ምኡዝ ክልግስ\nመቖምያ ይጋደም ማእገር ክትርኣስ /2/\n\nስብሐት ይብጽሓዮ ድርሳንና ናይ ሎሚ\nኤርትራ ሃገርና ብጸጋ ክትዓቢ\nኣምላኽ ብመንፈሱ ከሰርግዋ ዘውዲ /2/",
+    "ti_ro": "[[chorus]]\nBmhretu nch'edr nzemr b'awta\nBerekhet 'azizu ti qdus mrqa /2/\n[[/chorus]]\n\nBts'uan ts'adqanat 'll nabelu\nTmrti gziebher nagwas'e genfilu\nTa me'alti mets'ia lezeb nqanyelu /2/\nYdeseq kebero awtarat qnit\nTs'enats'l yle'al muz klgs\nMeqomya ygadem mager ktras /2/\n\nSbhet ybts'hayo drsanna nay lomi\nErtra hagerna bts'ega kt'abi\nAmlakh bmenfesu kesergwa zewdi /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 303,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

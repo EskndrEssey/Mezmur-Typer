@@ -1,0 +1,53 @@
+{
+  "id": "h_kekux96e493",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንዝለመኖ ይሰምዕ’ዩ",
+    "ti_ro": "ንዝለመኖ ይሰምዕ’ዩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንዝለመኖ ይሰምዕ’ዩ ጐይታ\nስሙ ዝጸውዐ ይረክብ እፎይታ\nኣብ ኢያሪኮ ኣዕይንተይ ከፊቱ\nሕይወት ክርኢ ኣቚሙኒ ኣብ ቤቱ /2/\nካብ ኣሕዛብ ምዃነይ እፈልጥ እየ ኣነ\nርስቲ ከም ዘይብለይ እንተዘይ ኣሚነ\nሕጂ ግን ተመሊሰ እግዚኣብሔር ይወደስ\nናተይ ኢኻ ኢሉኒ ደሙ ብምፍሳስ\n[[/chorus]]\n\nከየውጻኹ ቃላት ገለ ከይበልክዎ\n‘ቲ ናይ ልበይ ድሌት ኵሉ ፈሊጥዎ\nስመይ ባርያ ከሎ ንዕቕቲ ብሰባት\nኣውያተይ ብምስማዕ ሂቡኒ ማይ ሕይወት\n\nተስፋ ከይቆረጽና ኣብ እምነት ጸኒዕና\nንቕረብ ናብ ጐይታና ክሕደስ መንፈስና\nወሃቢ ኵሉ ነገር ከሎ መስፍን ሰላም\nኣእዳውና ኣይንዘርግሕ ናብ ምስሊ ‘ዛ ዓለም",
+    "ti_ro": "[[chorus]]\nNzlemeno ysem'’yu gwayta\nSmu zts'ew'e yrekb foyta\nAb iyariko a'yntey kefitu\nHywet kri aqwimuni ab betu /2/\nKab ahzab mkhwaney felt' ye ane\nRsti kem zeybley ntezey amine\nHji gn temelise gziabher ywedes\nNatey ikha iluni demu bmfsas\n[[/chorus]]\n\nKeyewts'akhu qalat gele keybelkwo\n‘Ti nay lbey dlet kwlu felit'wo\nSmey barya kelo n'qti bsebat\nAwyatey bmsma' hibuni may hywet\n\nTesfa keyqorets'na ab mnet ts'eni'na\nNqreb nab gwaytana khdes menfesna\nWehabi kwlu neger kelo mesfn selam\nAdawna aynzergh nab msli ‘za 'alem",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 400,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_ht212ikikuu",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናትና መመክሒት",
+    "ti_ro": "ናትና መመክሒት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኦ ድንግል ኣዴና ዝተባረኪ’ኺ\nኣማን ብኣማን /2/ ኣደ ናይ ጐይታና\nንኣምን በኣኺ ንምህጸን ብስምኪ ድንግል ኣማልድና\n[[/chorus]]\n\nነቢያት ኩላቶም ድንግል ዝበሉኺ /2/\nደመና ናይ ኤልያስ ማርያም ንስኺ’ኺ\nኣዲኦም ንጻድቃን ሓፍቶም ንመላእክት/2/\nብናትኪ ቃልኪዳን ረኺብና ሕይወት\n\nሓዊ ከየንደዳ ሙሴ ዝረኣያ /2/\nዝለምለመት ቆጽሊ ድንግል ማርያም እያ\nኣደ ድንግልና ኣምላኽ ዝሃበኪ /2/\nምሕረት ኣውርድልና ንዓና ደቅኺ",
+    "ti_ro": "[[chorus]]\nO dngl adena ztebareki’khi\nAman baman /2/ ade nay gwaytana\nNamn beakhi nmhts'en bsmki dngl amaldna\n[[/chorus]]\n\nNebiyat kulatom dngl zbelukhi /2/\nDemena nay elyas maryam nskhi’khi\nAdiom nts'adqan haftom nmelakt/2/\nBnatki qalkidan rekhibna hywet\n\nHawi keyendeda muse zreaya /2/\nZlemlemet qots'li dngl maryam ya\nAde dnglna amlakh zhabeki /2/\nMhret awrdlna n'ana deqkhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 500,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

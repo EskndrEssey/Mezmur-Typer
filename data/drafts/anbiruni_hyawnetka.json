@@ -1,0 +1,53 @@
+{
+  "id": "h_depgjfz2cgn",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣንቢሩኒ ሕያውነትካ",
+    "ti_ro": "ኣንቢሩኒ ሕያውነትካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣንቢሩኒ ሕያውነትካ\nዓቐን ኣልቦ ሰናያትካ\nኣበይ ኣሎ'ሞ ከማኻ\nትዝ ይብለኒ'ቲ ውዕለትካ\nትዝ ይብለኒ'ቲ ፍቕርኻ\nሎሚ ንዓይ ተዘርጊሓ `ታ ፈዋሲት ተድኅን ኢድካ\nርሒቐካ ንኸይጠፍእ ኣሲርካኒ ብውዕለትካ\nመንነተይ ከንቱ ነይሩ ተሰዓሪ ነዚ ዓለም\nግን ምስኡ ዝኾንካ ዝሓዝካዮ'ውን ይነብር ዘልዓለም\nኣብ መቕደስካ ተጸጊዐ ርእየ'ለኹ ብዙሕ ነገር\nውሽጢ ልበይ ዘንበርክዎ ብቐሊሉ ዘይንገር\nግን ዝኾነ ኵሉ ኮይኑ ሎሚ የለን ዝተረፈ\n'ቲ እሳት መከራ 'ቲ እሳት ፈተና ብኣኻ ሓለፈ\n[[/chorus]]\n\nኣይጠፍኣንን 'ቲ ፍሽኽታ ወደይ ኢልካ ዘርኣኻኒ\nዓመጸኛ እንከለኹ ኣብ መንኮብካ ዝጾርካኒ\nከምዚ ከኣ ፈታዊ'ሎ እናጸልእዎ ዘፍቅር\nስሙ'ውን ኢየሱስ'ዩ /2/ ናይ ጽድቅና ምስጢር\nእንክበኪ ክትገብረለይ ሐራይ ኢልካኒ ኵሉ ኮነ\nዘይኮነሉ ለካ የለን'ቲ በኣኻ ዝኣመነ\nምህዋኸይ ሸበድበደይ ኦ ኣምላኸይ ንኸንቱ'ዩ\nምዃኑ ዘይተርፎ /2/ጐይታ ዝበልካዮ",
+    "ti_ro": "[[chorus]]\nAnbiruni hyawnetka\n'Aqen albo senayatka\nAbey alo'mo kemakha\nTz ybleni'ti w'letka\nTz ybleni'ti fqrkha\nLomi n'ay tezergiha `ta fewasit tedhn idka\nRhiqeka nkheyt'ef asirkani bw'letka\nMennetey kentu neyru tese'ari nezi 'alem\nGn msu zkhonka zhazkayo'wn ynebr zel'alem\nAb meqdeska tets'egi'e rye'lekhu bzuh neger\nWsht'i lbey zenberkwo bqelilu zeynger\nGn zkhone kwlu koynu lomi yelen zterefe\n'Ti sat mekera 'ti sat fetena bakha halefe\n[[/chorus]]\n\nAyt'efann 'ti fshkhta wedey ilka zerakhani\n'Amets'enya nkelekhu ab menkobka zts'orkani\nKemzi kea fetawi'lo nats'elwo zefqr\nSmu'wn iyesus'yu /2/ nay ts'dqna mst'ir\nNkbeki ktgebreley heray ilkani kwlu kone\nZeykonelu leka yelen'ti beakha zamene\nMhwakhey shebedbedey o amlakhey nkhentu'yu\nMkhwanu zeyterfo /2/gwayta zbelkayo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 109,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

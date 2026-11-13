@@ -1,0 +1,53 @@
+{
+  "id": "h_7p6owii8f9b",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ካባኻ ተፈልየ",
+    "ti_ro": "ካባኻ ተፈልየ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nካባኻ ተፈልየ ናብራ ኣይክእሎን በይነይ\nብዘይ ንስኻ ጐይታይ ትሩፍ’ዩ ዓቕመይ\nኣብ ዓራት ደቂሰ ንዓመታት ሓይሊ ስኢነ\nተስፋይ ቅሂሙ በቃ ኢለ ሞተይ ለሚነ\nይናፍቕ ኣለኹ ኣነ ኣምላኽ ዛራ ቃላትካ\nምስ ሰተኻሉ ዘየጽምእ ዘሎ ኣብ ቤትካ\nካብ ቤትካ ወጺኤ ኣብ ዙርያ ዓለም ምስ በልኩ ኮለል\nሕሊናይ ዓሪቡኒ ኣነስ ኮይነ ሰንፈላል\nክጠፍእ ኣይፈቐድካን ጐይታ ፍጹም ክርሕቕ\nንኣንፈተይ ኣቕንዓዮ ሎሚ ፍጹም ክጸድቕ\n[[/chorus]]\n\nሩፍታ ተሰሚዑኒ ሎሚ ኮይነ ምሳኻ\nጾረይ ምስ ኣራገፍኩ ኵሉ ጐይታይ ቅድሜኻ\nሓጎስ ይሰፍን ኣሎ ኣብ ልበይ ዘይብሉ ደረት\nብነጻ ተዓዲለዮ’ለኹ ብዋጋ ዘይግመት",
+    "ti_ro": "[[chorus]]\nKabakha tefelye nabra ayklon beyney\nBzey nskha gwaytay truf’yu 'aqmey\nAb 'arat deqise n'ametat hayli sine\nTesfay qhimu beqa ile motey lemine\nYnafq alekhu ane amlakh zara qalatka\nMs setekhalu zeyets'm zelo ab betka\nKab betka wets'ie ab zurya 'alem ms belku kolel\nHlinay 'aribuni anes koyne senfelal\nKt'ef ayfeqedkan gwayta fts'um krhq\nNanfetey aqn'ayo lomi fts'um kts'edq\n[[/chorus]]\n\nRufta tesemi'uni lomi koyne msakha\nTs'orey ms aragefku kwlu gwaytay qdmekha\nHagos ysefn alo ab lbey zeyblu deret\nBnets'a te'adileyo’lekhu bwaga zeygmet",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 323,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_60ycg1prg0r",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንግሥተ ሰማይ",
+    "ti_ro": "ንግሥተ ሰማይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nገነይኩ ለኪ ኦ ንግሥተ ሰማይ\nለባሲተ ብሩህ ፀሓይ\nከመ ርእሰ ኃምሳ ሣልሳይ\nኣስተበቁዐኪ ድንግል እመ ኣዶናይ\nበቅድሜኪ ነፍስየ ትዕበይ\nንዑ ንስግድ ቅድመ ሥዕላ\nንዑ ንስግድ ለማርያም ድንግል ርግበ ገሊላ\nንዑ ንስግድ እስመ ወለደት ለነ ኣምላከ ተድላ\n[[/chorus]]\n\nንዑ ንስግድ ለክብረ ንግሣ\nንዑ ንስግድ  አምላክ ኃደረ በውስተ ከርሣ\nንዑ ንስግድ  ሠራዬ ኃጢኣት ወአበሳ\nንዑ ንስግድ  ቅድመ ሥላሴ\nንዑ ንስግድ እስመ ተስፋነ ንረክብ እምይእቲ\nንዑ ንስግድ ለባሕቲታ\nንዑ ንስግድ ለማርያም ድንግል ርግበ ኤፍራታ\nንዑ ንስግድ ጸሎታ በረከታ ይክድነነ ወልታ",
+    "ti_ro": "[[chorus]]\nGeneyku leki o ngsste semay\nLebasite bruh ts'ehay\nKeme rse hamsa Ssalsay\nAstebequ'eki dngl me adonay\nBeqdmeki nefsye t'bey\nN'u nsgd qdme Ss'la\nN'u nsgd lemaryam dngl rgbe gelila\nN'u nsgd sme weledet lene amlake tedla\n[[/chorus]]\n\nN'u nsgd lekbre ngssa\nN'u nsgd  emlak hadere bewste kerssa\nN'u nsgd  Sseraye hat'iat weebesa\nN'u nsgd  qdme Sslase\nN'u nsgd sme tesfane nrekb myti\nN'u nsgd lebahtita\nN'u nsgd lemaryam dngl rgbe efrata\nN'u nsgd ts'elota bereketa ykdnene welta",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 328,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

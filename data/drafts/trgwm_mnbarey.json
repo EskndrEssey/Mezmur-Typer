@@ -1,0 +1,53 @@
+{
+  "id": "h_3tgm43n2ukj",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ትርጕም ምንባረይ",
+    "ti_ro": "ትርጕም ምንባረይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣሎ’ንድ’ዩ ንሱ ኣብ መንበሩ ብንግሥነቱ\nማንም ዘይቀርቦ ነበልባሉ እሳተ መለኮቱ\n‘ዚዅሉ ልሳን ልሳን ምስጋና: ዝነውነወ ልበይ፡\nትርጕም ምንባረይ እንድዩ ነይሩ: ናይ’ዚ ኽብሪ ህያበይ\nኪሩቤል ሱራፌል ሥልጣናት ደቂ ኤል\nከምኡ’ውን  ኣብ ምድሪ በሉ ምስ ደቂ ሰባት\n[[/chorus]]\n\nንነፍሱ ኣሕሲኡ ነፍስና ከፍቅር\nጐይታ እንተ ፈተወ ኣብ መብልዕ ማል ክሓድር\nድምቀት ጸርጊ ብርሃን ኮኾብ ቤተልሔም\nሕያው ምስክር’ዩ ክብሩ ነዛ ዓለም\nሃሌ  ሃሌሉያ  በሉ ዕልል በሉሉ\nሃሌ  ሃሌሉያ  በሉ ዘምሩሉ\nስቕታ ውሒጥዎ ምስ ሓንገደ ልቢ\nኣእማን ቢታንያ’ሎ ሕያው ተዛራቢ\nክበሃል ሰሚዐ ምስ ተረትዐ ልበይ\nከመይ ዘይድርጕሖ ናይ ምስጋና ቃለይ\nብጊዜ ንእስነትና ምድሪ ከይመሰየ\nሆሣዕና  ንበለሉ  ብቖጽሊ   ስየ\n\nማኅሌት ሊቃውንቲ ያሬዳዊ ልሳን\nጠጠው’ኮ  ኣይበለን  ቅኔ መዘምራን\nዜማታት ተቓንዩ ብሓባር ክዝመም\nመንኮን’ዩ ናፊቑ ናብ ቤቱ ዘይስጉም\nቅዱስ ቅዱስ ቅዱስ በሉ ንዑ ኣመስግንዎ\nቅዱስ ቅዱስ ቅዱስ በሉ ኣምልኽዎ",
+    "ti_ro": "[[chorus]]\nAlo’nd’yu nsu ab menberu bngssnetu\nManm zeyqerbo nebelbalu sate melekotu\n‘Zikhwlu lsan lsan msgana: znewnewe lbey፡\nTrgwm mnbarey ndyu neyru: nay’zi khbri hyabey\nKirubel surafel Sslt'anat deqi el\nKemu’wn  ab mdri belu ms deqi sebat\n[[/chorus]]\n\nNnefsu ahsiu nefsna kefqr\nGwayta nte fetewe ab mebl' mal khadr\nDmqet ts'ergi brhan kokhob betelhem\nHyaw mskr’yu kbru neza 'alem\nHale  haleluya  belu 'll belulu\nHale  haleluya  belu zemrulu\nSqta whit'wo ms hangede lbi\nAman bitanya’lo hyaw tezarabi\nKbehal semi'e ms teret'e lbey\nKemey zeydrgwho nay msgana qaley\nBgize nsnetna mdri keymeseye\nHossa'na  nbelelu  bqots'li   sye\n\nMahlet liqawnti yaredawi lsan\nT'et'ew’ko  aybelen  qne mezemran\nZematat teqanyu bhabar kzmem\nMenkon’yu nafiqu nab betu zeysgum\nQdus qdus qdus belu n'u amesgnwo\nQdus qdus qdus belu amlkhwo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 176,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

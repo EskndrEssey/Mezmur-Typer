@@ -1,0 +1,53 @@
+{
+  "id": "h_e69ayj4rr3i",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍሉይ መኣዛ",
+    "ti_ro": "ፍሉይ መኣዛ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍሉይ መኣዛ ጥዑም ጨናኺ\nቅድሚ ኵሉ ሰብ ክዝምረልኪ\nተለዊጡ’ዩ እቲ ሕይወተይ\nምስ ጸዋዕኩኺ ንዒ ማርያመይ\nኣምሳል ዘይብልኪ    ንዒ ማርያመይ\nዘመደይ ኢኺ         >>     >>\nቲ’ክፉእ ዘመን         >>     >>\nሓላፊ’ዩ ኵሉ           >>     >>\nብዙሕ ፍቕርኺ        >>     >>\nልበይ ኣንደደ          >>     >>\nኣደይ ምዃንኪ        >>     >>\nብምፍላተይ            >>     >>\n[[/chorus]]\n\nናይ ሰብ ጉልበት       ንዒ ማርያመይ\nእንታይ ከርብሓኒ          >>     >>\nሰረገላይ’ውን               >>     >>\nመዓስ የድኅን               >>     >>\nካብ ስዉር                  >>     >>\nክፉእ መከራ               >>     >>\nእንሆ ይትክዝ        >>     >>\nስለ በደለይ           >>     >>\nነዘራርባይ            >>     >>\nመመቀሪተይ          >>     >>\nተሰሚዔ`የ        >>     >>\nድንግል ምስ በልኩ   >>     >>\n\nዘማሪት ቅድስት ምትኩ",
+    "ti_ro": "[[chorus]]\nFluy meaza t''um ch'enakhi\nQdmi kwlu seb kzmrelki\nTelewit'u’yu ti hywetey\nMs ts'ewa'kukhi n'i maryamey\nAmsal zeyblki    n'i maryamey\nZemedey ikhi         >>     >>\nTi’kfu zemen         >>     >>\nHalafi’yu kwlu           >>     >>\nBzuh fqrkhi        >>     >>\nLbey andede          >>     >>\nAdey mkhwanki        >>     >>\nBmflatey            >>     >>\n[[/chorus]]\n\nNay seb gulbet       n'i maryamey\nNtay kerbhani          >>     >>\nSeregelay’wn               >>     >>\nMe'as yedhn               >>     >>\nKab swur                  >>     >>\nKfu mekera               >>     >>\nNho ytkz        >>     >>\nSle bedeley           >>     >>\nNezerarbay            >>     >>\nMemeqeritey          >>     >>\nTesemi'e`ye        >>     >>\nDngl ms belku   >>     >>\n\nZemarit qdst mtku",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 155,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

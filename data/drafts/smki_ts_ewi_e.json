@@ -1,0 +1,53 @@
+{
+  "id": "h_bes4qsg151n",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ስምኪ ጸዊዐ",
+    "ti_ro": "ስምኪ ጸዊዐ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nስምኪ ጸዊዐ መዓስ ሓፊረ\nማርያም ኢለ ኣበይ ወዲቐ\nስምኪ እዩ’ሞ ስንቂ ኮይኑኒ\nእነሆ ምስጋና ተቐበልኒ\nጸላኢ መጺኡ ክቃወመኒ\nንብዙሕ ዘመን ከሸግረኒ\nሰይጣን ማሪኹ ከሳቕየኒ\nወላዲት አምላክ ንሳ ኣላትኒ\nናይ ለውሃት ኣደ ናይ ፍቕሪ ኣርኣያ\nናይ ድኹም ዘራይ ድንግል ንሳ’ያ\nኃጥእ ኢኻ ኢላ ኣይትንዕቀንን\nንዓኣ ሒዘስ ገለ ኣይከውንን\n[[/chorus]]\n\nመርዓ ምስ ኮነ ሰብ ምስ መልአ\nዝቕረብ ሽሻይ ምስ ተወድአ\nእንታይ ክቕርብ ኢሉ ክሽገር\nንዓኺ ሒዙ ግን ኣይሓፈረን\nጐይታ ሰሚዑ ንልማኖኺ\nባህ እናበሎ ብርህራሄኺ\nስምኪ ክጽውዕ ጊዜ ሓዘነይ\nምሳይ ልገቢ እምባ ጽዮን ጸግዐይ\nመታን ከይጠፍእ ዘኽታም ከይከውን\nእግዚአብሔር ስቕ ኣይበለንን\nኣምላኽ ይመስገን ዕድል ኣሎኒ\nወላዲት ኣምላኽ ኣደ ኣላትኒ",
+    "ti_ro": "[[chorus]]\nSmki ts'ewi'e me'as hafire\nMaryam ile abey wediqe\nSmki yu’mo snqi koynuni\nNeho msgana teqebelni\nTs'elai mets'iu kqawemeni\nNbzuh zemen keshegreni\nSeyt'an marikhu kesaqyeni\nWeladit emlak nsa alatni\nNay lewhat ade nay fqri araya\nNay dkhum zeray dngl nsa’ya\nHat' ikha ila aytn'qenn\nN'aa hizes gele aykewnn\n[[/chorus]]\n\nMer'a ms kone seb ms mele\nZqreb shshay ms tewede\nNtay kqrb ilu kshger\nN'akhi hizu gn ayhaferen\nGwayta semi'u nlmanokhi\nBah nabelo brhrahekhi\nSmki kts'w' gize hazeney\nMsay lgebi mba ts'yon ts'eg'ey\nMetan keyt'ef zekhtam keykewn\nGziebher sq aybelenn\nAmlakh ymesgen 'dl aloni\nWeladit amlakh ade alatni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 377,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

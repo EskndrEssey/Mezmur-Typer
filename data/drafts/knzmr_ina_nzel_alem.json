@@ -1,0 +1,53 @@
+{
+  "id": "h_u6rqpml65eg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክንዝምር ኢና ንዘልዓለም",
+    "ti_ro": "ክንዝምር ኢና ንዘልዓለም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንማርያም /2/\nክንዝምር ኢና ንዘልዓለም /2/\nዕጽውቲ ማዕጾ      ንዘልዓለም\nኢሉ ሕዝቅኤል      >>  >>\nንጽህቲ አያ          >>  >>\nፍጹም ድንግል      >>  >>\nኣብነት ጌርና         >>  >>\nንሕና’ውን ንዑ      >>  >>\nብፍጹም ፍቕሪ ክንዝምር ኢና /2/\n[[/chorus]]\n\nለዋህ ርግቢት       ንዘልዓለም\nሰላም ኣብሳሪት      >>  >>\nንጸልማት ሕይወተይ   >>  >>\nብርሃን ወላዒት      >>  >>\nክምህጸነኪ’የ         >>  >>\nኣይትፈለይኒ           >>  >>\nድንግል ንጽህቲ        >>  >>\nዕጹብ (2) ኢሎም    >>  >>\nኣመስጊኖማ            >>  >>\nክብራ ክገልጹ ሰኣኑ ቃላት /2/",
+    "ti_ro": "[[chorus]]\nNmaryam /2/\nKnzmr ina nzel'alem /2/\n'Ts'wti ma'ts'o      nzel'alem\nIlu hzqel      >>  >>\nNts'hti eya          >>  >>\nFts'um dngl      >>  >>\nAbnet gerna         >>  >>\nNhna’wn n'u      >>  >>\nBfts'um fqri knzmr ina /2/\n[[/chorus]]\n\nLewah rgbit       nzel'alem\nSelam absarit      >>  >>\nNts'elmat hywetey   >>  >>\nBrhan wela'it      >>  >>\nKmhts'eneki’ye         >>  >>\nAytfeleyni           >>  >>\nDngl nts'hti        >>  >>\n'Ts'ub (2) ilom    >>  >>\nAmesginoma            >>  >>\nKbra kgelts'u seanu qalat /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 502,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

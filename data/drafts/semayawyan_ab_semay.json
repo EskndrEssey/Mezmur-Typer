@@ -1,0 +1,53 @@
+{
+  "id": "h_pbejxrirc4q",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰማያውያን ኣብ ሰማይ",
+    "ti_ro": "ሰማያውያን ኣብ ሰማይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰማያውያን ኣብ ሰማይ\nኩሎም ፍጥረታት ኣብ ዓለም\nይዝምሩልካ ንዓኻ ጐይታና\nይዝምሩልካ ንዓኻ ኣምላኽና\nለይትን መዓልትን ዘየዕርፉ\nቅድሚ ዙፋኑ ዘመስግኑ\nሰራዊት ሰማይ መላእክቲ\nንኽብርኻ እዮም ኣመስገንቲ\nኵሉ ዝሓዝካ ጐይታ ኢኻ\nኣብ ሰማይ ምድሪ ዝነገስካ\nኣምልኾ ቅኔ ንግሆ ምሸት\nንኽብርኻ እዩ ጐይታ ጎይቶት\nውዕለት መስቀልካ በዚሑልና\nጣዕሚ ፍቕርኻ መሲጡና\nከመይ ስቕ ይብል እቲ ልሳና\nውዕለትካ ኮይኑ ኣብ ልብና\nለይትን መዓልትን ዘየዕርፉ\nቅድሚ ዙፋኑ ዘመስግኑ\nሰራዊት ሰማይ መላእክቲ\nንኽብርኻ እዮም ኣመስገንቲ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSemayawyan ab semay\nKulom ft'retat ab 'alem\nYzmrulka n'akha gwaytana\nYzmrulka n'akha amlakhna\nLeytn me'altn zeye'rfu\nQdmi zufanu zemesgnu\nSerawit semay melakti\nNkhbrkha yom amesgenti\nKwlu zhazka gwayta ikha\nAb semay mdri znegeska\nAmlkho qne ngho mshet\nNkhbrkha yu gwayta goytot\nW'let mesqelka bezihulna\nT'a'mi fqrkha mesit'una\nKemey sq ybl ti lsana\nW'letka koynu ab lbna\nLeytn me'altn zeye'rfu\nQdmi zufanu zemesgnu\nSerawit semay melakti\nNkhbrkha yom amesgenti\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 63,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

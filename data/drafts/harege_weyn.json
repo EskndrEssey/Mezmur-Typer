@@ -1,0 +1,53 @@
+{
+  "id": "h_aohmfu4fes7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሓረገ ወይን",
+    "ti_ro": "ሓረገ ወይን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓረገ ወይን /2/\nሓረገ ወይን ኣንቲ ማርያም\nኣጸደ ወይን /2/\nኣጸደ ወይን ኣንቲ ማርያም\nትመስሊ ፊደለ ወትወልዲ ወንጌለ\nዘታገምሪ ነበልባለ\nትመስሊ ሰማየ  ወትወልዲ ጸሓየ\nዘታገምሪ ኣዶናየ\n[[/chorus]]\n\nትመስሊ መሶበ ወትወልዲ ኮኮበ\nዘታጸግቢ ርሁበ\nትመስሊ ገራህተ ወትወልዲ ሰዊተ\nዘታጸድቂ ነፍሳተ\n\nትመስሊ ደመና ወትወልዲ ሕብስተ መና\nዘታገምሪ ጥዒና\nትመስሊ ስኂነ ወትወልዲ መድኅነ\nወትፌውሲ ዱያነ\nትመስሊ ምሥራቀ ወትወልዲ መብረቀ\nወታለብሲ ዕሩቀ\nለኣብ መርዓቱ ወለወልድ ወላዲቱ\n\nወለመንፈስ ቅዱስ ጽርሐ ቤቱ\nስብሐት ለኪ እምዘበላዕነ ሥጋ ወልድኪ\nወእምዘሰተይነ ደመ መሲሕኪ\nኣግብርትኪ ወኣእማትኪ\nለዓለመ ዓለም ኣሜን /2/",
+    "ti_ro": "[[chorus]]\nHarege weyn /2/\nHarege weyn anti maryam\nAts'ede weyn /2/\nAts'ede weyn anti maryam\nTmesli fidele wetweldi wengele\nZetagemri nebelbale\nTmesli semaye  wetweldi ts'ehaye\nZetagemri adonaye\n[[/chorus]]\n\nTmesli mesobe wetweldi kokobe\nZetats'egbi rhube\nTmesli gerahte wetweldi sewite\nZetats'edqi nefsate\n\nTmesli demena wetweldi hbste mena\nZetagemri t''ina\nTmesli shine wetweldi medhne\nWetfewsi duyane\nTmesli mssraqe wetweldi mebreqe\nWetalebsi 'ruqe\nLeab mer'atu weleweld weladitu\n\nWelemenfes qdus ts'rhe betu\nSbhet leki mzebela'ne Ssga weldki\nWemzeseteyne deme mesihki\nAgbrtki weamatki\nLe'aleme 'alem amen /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 338,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

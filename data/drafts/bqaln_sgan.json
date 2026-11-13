@@ -1,0 +1,53 @@
+{
+  "id": "h_rq2kae9a382",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብቃልን ስጋን",
+    "ti_ro": "ብቃልን ስጋን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብቃልን ስጋን ፍጹም ዝተወሃሃደት\nቅዱሳን ኣቦታት ዘቖምዋ ደረት\nሓልወኒ አምላክ ካልኢት ከይተረፈ\nንዓኣቶም ከይመስል ተዋሕዶ ገዲፈ /2/\n[[/chorus]]\n\nተዃሉ እንከለዉ ኣባጊዕ ዝመስሉ\nክፋእ ተኾልኲሎም ምሳና ዘጽልሉ\nምስኦም ንኸይሓብር ኪዳንካ ከጽንዕ\nኣጽኒዕካ ሓዘኒ ኣንፈተይ ከቕንዕ /2/\nደጊኦም ትሕትና ፍቕሪ ዝተኳሕሉ\nውሽጦም ግን ዝናኸስ ነፍሲ ዝምንጥሉ\nምፍላዮም ስኢነ ኣብ ሰልፎም ከይሓብር\nጸጋኻ ሃበኒ ጉዕዞይ ንኸነጽር /2/\n\nዝንቕንቓ የለን ድልዱል’ዩ ሰረታ\nዝሕደስ ኣይኮነን ጽኑዕ’ዩ ደረታ\nርስትና ንሓሉ ንኹነላ ዋልታ\nነታ ዘይትሓልፍ ክንከውን ወረስታ /2/",
+    "ti_ro": "[[chorus]]\nBqaln sgan fts'um ztewehahadet\nQdusan abotat zeqomwa deret\nHalweni emlak kalit keyterefe\nN'aatom keymesl tewahdo gedife /2/\n[[/chorus]]\n\nTekhwalu nkelewu abagi' zmeslu\nKfa tekholkwilom msana zets'llu\nMsom nkheyhabr kidanka kets'n'\nAts'ni'ka hazeni anfetey keqn' /2/\nDegiom thtna fqri ztekwahlu\nWsht'om gn znakhes nefsi zmnt'lu\nMflayom sine ab selfom keyhabr\nTs'egakha habeni gu'zoy nkhenets'r /2/\n\nZnqnqa yelen dldul’yu sereta\nZhdes aykonen ts'nu'’yu dereta\nRstna nhalu nkhunela walta\nNeta zeythalf knkewn weresta /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 327,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

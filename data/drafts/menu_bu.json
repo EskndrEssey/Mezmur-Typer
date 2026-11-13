@@ -1,0 +1,53 @@
+{
+  "id": "h_hp28hmzlv0p",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እመኑ ብኡ",
+    "ti_ro": "እመኑ ብኡ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእመኑ ብኡ በቲ ሓያል ጐይታ\nንዕኡ ዝመስል ማንም የለን ኮታ\nውቅያኖስ ባሕሪ ዋላ እንተተንስአ\nክዝሕል እዩ ዝኾነ እንተኾነ\nእመኑ ብኡ ነደደ ‘ቲ እምባ\n>>  >>  ተሃውከ ‘ቲ ሩባ\n>>  >>  ‘ቲ ጽሕዲ ተሰብረ\n>>  >>  ‘ቲ ከውሒ ተጨድደ\n>>  >>  ጣዖታት ኣህዛብ\n>>  >>  ቅድሚኡ ረገፉ\n>>   >>  ከኣሊ ኵሉ ዩ\n>>   >>  ጐይታ መድኃኔዓለም\n>>   >>  ፍቕሪ’ዩ ዘለዓለም\n>>   >>  ፍሉይ ርህራሄኡ\n>>   >>  ይነብራ ኣእዳዉ\n>>   >>  ተዘርጊሔን ወትሩ\nእመኑ ብኡ ማዕበል ዘይሰብሮ\n>>  >>  ጽኑዕዩ መርከብና\n>>  >>  ፍርሒ የለን ራዕዲ\n>>  >>  ኣብ ጎኑ ከለና\n>>  >>  ተጻይ ተሳዒሩ\n>>  >>  ሰይጣን’ውን ሓፊሩ\n>>  >>  ብመዝሙር ምስጋና\n>>  >>  ይመሰጥ ልብና\n[[/chorus]]\n\nእመኑ ብኡ ፈኸራ ጸላኢ\n>>  >>  ዋጋ የብሉን\n>>  >>  ዘይገድፈና ኣምላኽ\n>>  >>  ምሳና’ዩ መድኅን\n>>  >>  መሊኡ እናኣንጀርበበ\n>>  >>  ጸጋኡ ካብ በዝሐ\n>>  >>  ንሞት እናረገጽና\n>>  >>  ንዝምር ጌና",
+    "ti_ro": "[[chorus]]\nMenu bu beti hayal gwayta\nN'u zmesl manm yelen kota\nWqyanos bahri wala ntetense\nKzhl yu zkhone ntekhone\nMenu bu nedede ‘ti mba\n>>  >>  Tehawke ‘ti ruba\n>>  >>  ‘Ti ts'hdi tesebre\n>>  >>  ‘Ti kewhi tech'edde\n>>  >>  T'a'otat ahzab\n>>  >>  Qdmiu regefu\n>>   >>  Keali kwlu yu\n>>   >>  Gwayta medhane'alem\n>>   >>  Fqri’yu zele'alem\n>>   >>  Fluy rhraheu\n>>   >>  Ynebra adawu\n>>   >>  Tezergihen wetru\nMenu bu ma'bel zeysebro\n>>  >>  Ts'nu'yu merkebna\n>>  >>  Frhi yelen ra'di\n>>  >>  Ab gonu kelena\n>>  >>  Tets'ay tesa'iru\n>>  >>  Seyt'an’wn hafiru\n>>  >>  Bmezmur msgana\n>>  >>  Ymeset' lbna\n[[/chorus]]\n\nMenu bu fekhera ts'elai\n>>  >>  Waga yeblun\n>>  >>  Zeygedfena amlakh\n>>  >>  Msana’yu medhn\n>>  >>  Meliu naanjerbebe\n>>  >>  Ts'egau kab bezhe\n>>  >>  Nmot naregets'na\n>>  >>  Nzmr gena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 104,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

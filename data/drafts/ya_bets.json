@@ -1,0 +1,53 @@
+{
+  "id": "h_q8xamrgso45",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ያዕቤጽ",
+    "ti_ro": "ያዕቤጽ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nካብ ኩሎም ኣሕዋቱ  ዝኸበረ\nሓረግ ናይ ትውልዱ ዝሰበረ\nካብ በረኸትካ ንኽትዕድለኒ\nእስራኤል ክበሃል ኣምላኽ ደግፈኒ\n[[/chorus]]\n\nጾረይ ክቐልል ንስኻ ምሳይ ኩን\nባሕሪ ክምቀል ብዅሉ ክሰግር\nሓዊ ክዝሕል ግብርኻ ከስተንትን\nኣምላኸይ ንጉሰይ ግብርኻ መስተንክር\nካብ ክፉእ ጭንቀት ነጻ ግበረኒ\nናይ ሳኦል መንፈስ መታን ከይገዝኣኒ\nኣነ ከይሽበር ድምጽኻ ኣስምዓኒ\nብቓልካ ክጸንዕ ሰላም ክመልኣኒ\n\nተለዊጠ'የ ዳግም ተሓዲሰ\nብኽቡር ደምካ ዶባተይ መሊሰ\nስመይ ኣይኮነን ሕይወተይ ቀይርካ\nመቕደስካ ጌርካኒ ሕይወትካ ለጊስካ",
+    "ti_ro": "[[chorus]]\nKab kulom ahwatu  zkhebere\nHareg nay twldu zsebere\nKab berekhetka nkht'dleni\nSrael kbehal amlakh degfeni\n[[/chorus]]\n\nTs'orey kqell nskha msay kun\nBahri kmqel bkhwlu ksegr\nHawi kzhl gbrkha kestentn\nAmlakhey ngusey gbrkha mestenkr\nKab kfu ch'nqet nets'a gbereni\nNay saol menfes metan keygezani\nAne keyshber dmts'kha asm'ani\nBqalka kts'en' selam kmelani\n\nTelewit'e'ye dagm tehadise\nBkhbur demka dobatey melise\nSmey aykonen hywetey qeyrka\nMeqdeska gerkani hywetka legiska",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 367,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

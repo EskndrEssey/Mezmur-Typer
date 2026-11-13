@@ -1,0 +1,53 @@
+{
+  "id": "h_jlxo6eracnc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ጊዜ መርዓና",
+    "ti_ro": "ኣብ ጊዜ መርዓና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ጊዜ መርዓና ንኽትባርኸልና\nንጽውዕ ኣሎና ጐይታ ክትሰምዓና /2/\nምስ ድንግል ማርያም ምስ ርህርህቲ ኣዴና\nምስ ኩሎም መላእክቲ ነዓ ናብዚ ዳስና\nምስ ኩሎም ሓዋርያት ነዓ ናብ መርዓና\nምስ ኩሎም ቅዱሳን ነዓ ናብ መርዓና\n[[/chorus]]\n\nቃና ዘገሊላ ከም ዝተረኸብካ\nነዓ ናብዚ ዳስና ጐይታ ኣብ ማእከልና\nንጽውዕ ኣሎና ክትህሉ ምሳና\nድንግል ንገርዮ ገንኢ ክመልኣልና\nበረኸት ናቱ’ዩ ይምላእ ‘ቲ ገዛና\n\nዝጎደለ ኵሉ እናመላእክልና\nሓደራኺ ድንግል በረኸት ኩንና\nነቶም ኣገልገልቲ ድንግል ንገርዮም\nጸዊዕና ከይንሓፍር ሽሻይና ኣብዝሕዮ",
+    "ti_ro": "[[chorus]]\nAb gize mer'ana nkhtbarkhelna\nNts'w' alona gwayta ktsem'ana /2/\nMs dngl maryam ms rhrhti adena\nMs kulom melakti ne'a nabzi dasna\nMs kulom hawaryat ne'a nab mer'ana\nMs kulom qdusan ne'a nab mer'ana\n[[/chorus]]\n\nQana zegelila kem zterekhebka\nNe'a nabzi dasna gwayta ab makelna\nNts'w' alona kthlu msana\nDngl ngeryo geni kmelalna\nBerekhet natu’yu ymla ‘ti gezana\n\nZgodele kwlu namelaklna\nHaderakhi dngl berekhet kunna\nNetom agelgelti dngl ngeryom\nTs'ewi'na keynhafr shshayna abzhyo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 433,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

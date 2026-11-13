@@ -1,0 +1,53 @@
+{
+  "id": "h_wth1odblv9j",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንእግዚአብሔር ጸዋዕክዎ",
+    "ti_ro": "ንእግዚአብሔር ጸዋዕክዎ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንእግዚአብሔር ጸዋዕክዎ ክድግፈኒ\nኣብ ውድቀት ድኻመይ ሓይሊ ክኾነኒ\nኤልሻዳይ ኢዩ ጐይታይ ኵሉ ዝከኣሎ\nብዅሉ መሉእ እዩ የለን ዝጎደሎ\nስግር ደረት ቤትካ ጋሪዱኒ ድነ\nጩራ ባና ሕይወት ንተስፋ ስኢነ\nከም እከይ በደለይ ምስ ሰኣንኩ ስፍራ\nይቕረ እንዶ’ሞ ኢልካለይ ክንዲ ሕነ ኩራ\nብስቡር ልቦና ብንጹሕ ሕሊና\nብዜማ ናይ ያሬድ ናይ ዳዊት በገና\nነቲ ቅዱስ ስምካ ምስጋና ከቕርብ\nኣምላኽ ልግሲ ኢኻ’ሞ ጸጋኻ እትህብ\n[[/chorus]]\n\nነዛ ሓጻር ዕድመይ ሓጎስ ተመንየ\nፋሉል ንኸይከይድ ካባኻ ተፈልየ\nመፈጸምታ ጉዕዞይ ንኽጽብቐለይ\nስጉሚ ጉያ እግረይ ናብ ቤትካ ኣብለለይ",
+    "ti_ro": "[[chorus]]\nNgziebher ts'ewa'kwo kdgfeni\nAb wdqet dkhamey hayli kkhoneni\nElshaday iyu gwaytay kwlu zkealo\nBkhwlu melu yu yelen zgodelo\nSgr deret betka gariduni dne\nCh'ura bana hywet ntesfa sine\nKem key bedeley ms seanku sfra\nYqre ndo’mo ilkaley kndi hne kura\nBsbur lbona bnts'uh hlina\nBzema nay yared nay dawit begena\nNeti qdus smka msgana keqrb\nAmlakh lgsi ikha’mo ts'egakha thb\n[[/chorus]]\n\nNeza hats'ar 'dmey hagos temenye\nFalul nkheykeyd kabakha tefelye\nMefets'emta gu'zoy nkhts'bqeley\nSgumi guya grey nab betka ableley",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 468,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "h_kfxr7e4a3qx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብጽሒ በሰረገላ",
+    "ti_ro": "ብጽሒ በሰረገላ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከመታሕድርኒ /2/ በብሔር ዘተድላ /2/\nማርያም ድንግል        በሰረገላ\nተስፋኡ ንኣዳም        >>  >>\nለውሃቱ ንኣቤል        >>  >>\nታቦት ጽድቂ ናይ ኖህ >>  >>\nመኣዛ ናይ ይስሓቅ     >>  >>\nሰዋስው ናይ ያዕቆብ   >>  >>\n[[/chorus]]\n\nከመታሕድርኒ /2/ በብሔር ዘተድላ\nማርያም ድንግል      በሰረገላ\nናዛዚት ናይ ዮሴፍ    >>  >>\nጽላት ሕጊ ሙሴ     >>  >>\nበትሪ ናይ ኣሮን       >>  >>\nጸምሪ ናይ ጌዴዎን    >>  >>\nመሰንቆ ናይ ዳዊት    >>  >>\nማርያም ድንግል         በሰረገላ\nኣኽሊል ናይ ሰሎሞን   >>  >>\nመሶብ ወርቂ ኤልያስ    >>  >>\nቀርኒ ናይ ሳሙኤል      >>  >>\nዕጽው ማዕጾ ምብራቕ   >>  >>\nናይ ነቢይ ሕዝቅኤል    >>  >>\n\nማርያም ድንግል     በሰረገላ\nጓል ኢያቄም ሃና      >>  >>\nጸናጽል ናይ ኣሮን     >>  >>\nናይ ዘካርያስ ሓጎስ    >>  >>\nንጽህቲ ኣዳራሽ        >>  >>\nናይ ነቢይ ሚልክያስ  >>  >>\nማርያም ድንግል        በሰረገላ\nዕንጸይቲ ናይ ሕይወት  >>  >>\nናይ ሲሎንዲስ ጠቢብ  >>  >>\nፈዋሲት ኣቑሳሉ          >>  >>\nኣብ መርዓ ዶኪማስ  >>  >>\nከምዝተረኸብኪ      >>  >>\nሎሚ እውን ንዒ       >>  >>\nመርዓና ባርኺ       >>  >>",
+    "ti_ro": "[[chorus]]\nKemetahdrni /2/ bebher zetedla /2/\nMaryam dngl        beseregela\nTesfau nadam        >>  >>\nLewhatu nabel        >>  >>\nTabot ts'dqi nay noh >>  >>\nMeaza nay yshaq     >>  >>\nSewasw nay ya'qob   >>  >>\n[[/chorus]]\n\nKemetahdrni /2/ bebher zetedla\nMaryam dngl      beseregela\nNazazit nay yosef    >>  >>\nTs'lat hgi muse     >>  >>\nBetri nay aron       >>  >>\nTs'emri nay gedewon    >>  >>\nMesenqo nay dawit    >>  >>\nMaryam dngl         beseregela\nAkhlil nay selomon   >>  >>\nMesob werqi elyas    >>  >>\nQerni nay samuel      >>  >>\n'Ts'w ma'ts'o mbraq   >>  >>\nNay nebiy hzqel    >>  >>\n\nMaryam dngl     beseregela\nGwal iyaqem hana      >>  >>\nTs'enats'l nay aron     >>  >>\nNay zekaryas hagos    >>  >>\nNts'hti adarash        >>  >>\nNay nebiy milkyas  >>  >>\nMaryam dngl        beseregela\n'Nts'eyti nay hywet  >>  >>\nNay silondis t'ebib  >>  >>\nFewasit aqusalu          >>  >>\nAb mer'a dokimas  >>  >>\nKemzterekhebki      >>  >>\nLomi wn n'i       >>  >>\nMer'ana barkhi       >>  >>",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 250,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_2_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_nercj00hphn",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክዝምር’የ",
+    "ti_ro": "ክዝምር’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክዝምር’የ ስቕ ኣይብልን\nጐይታ ዝገበሮ ኣይውዳእን\nስሙ ጸዊዐ ወዲቖም እዮም ኵሎም ጸላእተይ\nነፍሰይ ድኂና ሞገስ ኮይኑኒ ብርሃን ሕይወተይ\nምሒሉለይ ዳግም ከይጠፍእ ኪዳን ኣትዩለይ\nፍቕሩ ኣርእዩኒ እናራህረሀ ሸኸመይ ጸይሩለይ\nነፍሰይ ድኂና ካብ ብርቱዕ ጸልማት ብንጹህ ደሙ\nመዓር ዝኾነ ቃል መጊቡኒ ጐይታ ብኣእዳዉ\nናብዚ ኣብጺሑኒ እናደገፈ ብናቱ ምሕረት\nጽሒፉኒ’ዩ ብቅዱስ ኢዱ ኣብ መዝገብ ሕይወት\nምስ ቅዱሳኑ ሓደ ጌርዎ ዕጫ ዕድለይ\nከምልኾ እየ ንዘድሓነኒ ብሩኽ ኣምላኸይ\n[[/chorus]]\n\nኣየቋርጽን ኣፈይ ምስጋና ንዘልዓለም\nባርያ ኣይኮንኩን ተዓዲገ’የ ብናይ ጐይታ ደም\nንርእሱ ኣሕሊፉ መግቢ ኮይኑኒ ምጥማየይ ርእዩ\nኣጽጊቡኒ’ዩ ብበረኸቱ ቤተይ መሊኡ",
+    "ti_ro": "[[chorus]]\nKzmr’ye sq aybln\nGwayta zgebero aywdan\nSmu ts'ewi'e wediqom yom kwlom ts'elatey\nNefsey dhina moges koynuni brhan hywetey\nMhiluley dagm keyt'ef kidan atyuley\nFqru aryuni narahrehe shekhemey ts'eyruley\nNefsey dhina kab brtu' ts'elmat bnts'uh demu\nMe'ar zkhone qal megibuni gwayta badawu\nNabzi abts'ihuni nadegefe bnatu mhret\nTs'hifuni’yu bqdus idu ab mezgeb hywet\nMs qdusanu hade gerwo 'ch'a 'dley\nKemlkho ye nzedhaneni brukh amlakhey\n[[/chorus]]\n\nAyeqwarts'n afey msgana nzel'alem\nBarya aykonkun te'adige’ye bnay gwayta dem\nNrsu ahlifu megbi koynuni mt'mayey ryu\nAts'gibuni’yu bberekhetu betey meliu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 85,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_qtrh34pgsxo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ካባኻ እሞ ናበይ",
+    "ti_ro": "ካባኻ እሞ ናበይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nካባኻ እሞ ናበይ ጐይታይ ካብ ጽኑዕ ፍቕርኻ\nፈልፋሊ ዛራ ሕይወተይ ዕረፍቲ ነፍሰይ ኢኻ\nሃልየ ምሳኻ ምሳኻ’ውን ሞተይ መጸናንዕየይ ካባኻ’ሞ ናበይ\nካብ ጉድጓድ ናይ ጥፍኣት  ዘስጥም ታኼላ\nብጥበብ ተውጽኣኒ ካብቲ ጽዩፍ ናብራ\nንመዓሙቕ ልበይ ባዕልኻ ትምርምሮ\nቃል ከየተንባህኩ ሓሳበይ ትፈልጦ\nሰማይ እንተደየብኩ ኣብኡ ትጸንሓኒ\nኣብ መንጸፍ  ናይ ሲኦል ኢድካ ትረኽበኒ\nካባኻ ፈጺመ ክኽወል ኣይክእልን\nምሳኻ መሪጸ ሕይወት ከስተማቕር\n[[/chorus]]\n\nንዓኻ ስዒበ ፈጺመ ኣይሓፍርን\nሕይወተይ ካባኻ ክፈልያ ኣይክእልን\nኢድካ ትጓስየኒ በጊዕካ’የ ኣነ\nኣብ ደምበ ጉስነትካ ማሚቐ ሓዲረ\nተስፋይ ኢኻ ንዓይ ጉልበተይ ብርተዐይ\nሓይሊ ትኾነኒ ልዕል ዘብል ከውሐይ\nብርሃን ንመንገደይ መብራህቲ ንኣእጋረይ\nኣምላኸይ ንስኻ ደራዚ ንብዓተይ",
+    "ti_ro": "[[chorus]]\nKabakha mo nabey gwaytay kab ts'nu' fqrkha\nFelfali zara hywetey 'refti nefsey ikha\nHalye msakha msakha’wn motey mets'enan'yey kabakha’mo nabey\nKab gudgwad nay t'fat  zest'm takhela\nBt'beb tewts'ani kabti ts'yuf nabra\nNme'amuq lbey ba'lkha tmrmro\nQal keyetenbahku hasabey tfelt'o\nSemay ntedeyebku abu tts'enhani\nAb ments'ef  nay siol idka trekhbeni\nKabakha fets'ime kkhwel aykln\nMsakha merits'e hywet kestemaqr\n[[/chorus]]\n\nN'akha s'ibe fets'ime ayhafrn\nHywetey kabakha kfelya aykln\nIdka tgwasyeni begi'ka’ye ane\nAb dembe gusnetka mamiqe hadire\nTesfay ikha n'ay gulbetey brte'ey\nHayli tkhoneni l'l zebl kewhey\nBrhan nmengedey mebrahti nagarey\nAmlakhey nskha derazi nb'atey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 233,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

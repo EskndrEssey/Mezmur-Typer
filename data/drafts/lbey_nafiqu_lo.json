@@ -1,0 +1,53 @@
+{
+  "id": "h_a1o94cczgix",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልበይ ናፊቑ’ሎ",
+    "ti_ro": "ልበይ ናፊቑ’ሎ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልበይ ናፊቑ’ሎ ኣደ ጐይታ ድንግል ማርያም\nድምጺ ሰላምታኺ ካብ ሰማይ ኣርያም\nወድኺ ሓቚፍኪ መስፍን ሰላም\nምጽኒ ድንግለይ እመ ብርሃን\nወለላ መልክዓ ውልዶ ነፍሰይ ምስላ ተደዊኑ\n‘ቲ ደግለል ጉልበታ መኣዛ ስኢኑ\nሕሱም ጻህያይ ሥጋ ሒዝዋ ከርዲኑ\nናዝዝያ ድንግል ጌና ብእዋኑ\n[[/chorus]]\n\nምልሙላን ኣጓብዝ ቆልዑ ቤተይ በዓል ዓይኒ ልቢ\nንኡስ ዝዕድሚኦም ዘይርከቦም ዓቢ\nኣይጠዓሞን ውሽጦም ነጸብራቕ ከባቢ\nሓልውዮም ድንግል ካብ ሰላቢ ቀልቢ\nትምኒት ህንጡይ ልበይ ሃረርትኡ ኣብ ቤቱ ከገልግል\nላዕልን ታሕትን ኢለ ጽድቂ ንኸዋህልል\nሕሹኽታ ይመጻኒ ንባህገይ ዝኽልክል\nክሓስቦ እገርመኒ ይኾነኒ ግድል\n\nሃለኽለኽ ናይ  ሥጋ ከንቱ ድኻም ትርጉም ኣልቦ  እቶት\nመቐረት ዘይብሉ ጣዕሚ ናይ ትሩፋት\nግሩም ጸሓይ ድኅነት ክርኢ በሪቑ\nተመነየ ልበይ ኣመና ናፊቑ",
+    "ti_ro": "[[chorus]]\nLbey nafiqu’lo ade gwayta dngl maryam\nDmts'i selamtakhi kab semay aryam\nWedkhi haqwifki mesfn selam\nMts'ni dngley me brhan\nWelela melk'a wldo nefsey msla tedewinu\n‘Ti deglel gulbeta meaza sinu\nHsum ts'ahyay Ssga hizwa kerdinu\nNazzya dngl gena bwanu\n[[/chorus]]\n\nMlmulan agwabz qol'u betey be'al 'ayni lbi\nNus z'dmiom zeyrkebom 'abi\nAyt'e'amon wsht'om nets'ebraq kebabi\nHalwyom dngl kab selabi qelbi\nTmnit hnt'uy lbey harertu ab betu kegelgl\nLa'ln tahtn ile ts'dqi nkhewahll\nHshukhta ymets'ani nbahgey zkhlkl\nKhasbo germeni ykhoneni gdl\n\nHalekhlekh nay  Ssga kentu dkham trgum albo  tot\nMeqeret zeyblu t'a'mi nay trufat\nGrum ts'ehay dhnet kri beriqu\nTemeneye lbey amena nafiqu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 193,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

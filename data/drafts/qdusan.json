@@ -1,0 +1,53 @@
+{
+  "id": "h_fj1v1280e35",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱሳን",
+    "ti_ro": "ቅዱሳን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣስምዑነ ቃለ /2/\nበበሂለ ኦሆ /0/ ቅዱሳን\nዓለምን ፍትወታን ብሓቂ መኒንካ\nብጸሎትን ጾምን ፍጹም ተጸሚድካ\nንገድሊ መሪጽካ ንምብራቕ ጠሚትካ\nወንጌል ተሰኪምካ ኣብ እምነት ጸኒዕካ\nከሣቴ ሃይማኖት ሓበን ናይ እምነትና\nጻድቕ ዋሕስና ኢኻ’ሞ ሰላም ለምነልና /2/\n[[/chorus]]\n\nጥዑመ ዝክር ኣቡነ ሰላማ\nኣቡነ ሰላማ /0/ ጥዑመ ዝክር\nኣብርሀን ኣፅብሐን ዓስቢ’ቲ ገድልኹም\nንስጋ ገዚእኩም ብመንፈስ ምምራሕኩም\nመዓር ጸባ ተውሕዝ ብማያ ትፍውስ\nኣግዚምኩም ጐይታ ሕንፃ መንፈስ ቅዱስ\nኣብቲ ቅዱስ ሕንፃ ምሳኹም ክንህሉ\nጸሎት /2/ ጸጋኹም ኣብ ልዕሌና ኣጽልሉ /2/\nብርሃን ናይ ዕውራን መራሒ ንጽድቂ\nትሩፋት ገድልኻ ይኹነና ስንቂ\nሰላማ ኣቡነ ምርኩስ ናይ ኃጥኣን\nጸጋ /2/ ረድኤትካ ኣብ ልዕሌና ይኹን /2/\n\nጥዑመ ዝክር ኣቡነ ሰላማ\nኣቡነ ሰላማ /0/ ጥዑመ ዝክር\nኣብነት ናይ ፍቕሪ ኣብ መንበር ንግሥነት\nብኢደ ሰላማ ተቐቢልኩም ጥምቀት\nወንጌል ንኸስፋሕፍሕ ናይ ጐይታ ብሥራት\nንምድረ አግአዚ ኴንኩማ ሓዋርያት\nብሓሳብ ናይ ዓለም መታን ከይንስሕት\nኣበው /2/ ቅዱሳን ለምኑልና ምሕረት /2/\n\nቅዱሳን ኣብርሀን ኣፅብሐን\nኣብርሀን ኣፅብሐን /0/ ቅዱሳን",
+    "ti_ro": "[[chorus]]\nAsm'une qale /2/\nBebehile oho /0/ qdusan\n'Alemn ftwetan bhaqi meninka\nBts'elotn ts'omn fts'um tets'emidka\nNgedli merits'ka nmbraq t'emitka\nWengel tesekimka ab mnet ts'eni'ka\nKessate haymanot haben nay mnetna\nTs'adq wahsna ikha’mo selam lemnelna /2/\n[[/chorus]]\n\nT''ume zkr abune selama\nAbune selama /0/ t''ume zkr\nAbrhen ats'bhen 'asbi’ti gedlkhum\nNsga gezikum bmenfes mmrahkum\nMe'ar ts'eba tewhz bmaya tfws\nAgzimkum gwayta hnts'a menfes qdus\nAbti qdus hnts'a msakhum knhlu\nTs'elot /2/ ts'egakhum ab l'lena ats'llu /2/\nBrhan nay 'wran merahi nts'dqi\nTrufat gedlkha ykhunena snqi\nSelama abune mrkus nay hat'an\nTs'ega /2/ redetka ab l'lena ykhun /2/\n\nT''ume zkr abune selama\nAbune selama /0/ t''ume zkr\nAbnet nay fqri ab menber ngssnet\nBide selama teqebilkum t'mqet\nWengel nkhesfahfh nay gwayta bssrat\nNmdre egezi kwenkuma hawaryat\nBhasab nay 'alem metan keynsht\nAbew /2/ qdusan lemnulna mhret /2/\n\nQdusan abrhen ats'bhen\nAbrhen ats'bhen /0/ qdusan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 419,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

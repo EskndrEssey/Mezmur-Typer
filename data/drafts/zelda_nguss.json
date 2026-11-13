@@ -1,0 +1,53 @@
+{
+  "id": "h_klg92a4dp76",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘልዳ ንጉሥ",
+    "ti_ro": "ዘልዳ ንጉሥ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/\nውስተ ኵሉ ምድር ተሰምዐ ዜናከ\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/\n[[/chorus]]\n\nወውስተ ፀሐይ ሴመ ጽላሎትከ\nቅዱስ ጊዮርጊስ ዘልዳ ንጉሥ /2/\n\nደብረ ግእዛን መድኃኒ ዓለም (ገዛ ባንዳ)",
+    "ti_ro": "[[chorus]]\nQdus giyorgis zelda nguss /2/\nWste kwlu mdr tesem'e zenake\nQdus giyorgis zelda nguss /2/\n[[/chorus]]\n\nWewste ts'ehey seme ts'lalotke\nQdus giyorgis zelda nguss /2/\n\nDebre gzan medhani 'alem (geza banda)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 260,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

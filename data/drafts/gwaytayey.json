@@ -1,0 +1,53 @@
+{
+  "id": "h_oh5xexe8ff6",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጐይታየይ",
+    "ti_ro": "ጐይታየይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመድኃኒት ዓለም ሲሳይ ዓለም ሰቐሉኻየ /2/\nንጹህ ክርስቶስ ኮንካ በደለኛ ኢልካ ነዓና\nናይ ኣዳም በደል ገበረ ንዓኻ ንኽትቅተል\nናይ ሔዋን ስሕተት ኣብቅዓካ ንሞት ጐይታ ጎይቶት\n[[/chorus]]\n\nንጹህ ክርስቶስ ኮንካ በደለኛ ነዓና ኢልካ\nመስቀል ኣሰኪሞም ብምእሳር ገረፉ ንኣካላትካ /2/\nግቡዛት ኣይሁድ ንዓኻ ብምግፋዕ ኣሳቐዩኻ\nጥፍጣፎም ብምትፋእ እናባጨዉ ኣላገጹልካ /2/\n\nጸጋዊ ማያት ማይ ጸማእኩ እንክትብል\nንኽትሰትዮ ሃቡኻ ሓዊሶም ሓሞትን ከርበን    /2/\nመሓሪ ኢኻ’ሞ ንዅሉ ኃጢኣትና ከይረኣኻ\nይቕረበል ባዕልኻ በቲ ክፍኣትና ከይተቐየምካ /2/",
+    "ti_ro": "[[chorus]]\nMedhanit 'alem sisay 'alem seqelukhaye /2/\nNts'uh krstos konka bedelenya ilka ne'ana\nNay adam bedel gebere n'akha nkhtqtel\nNay hewan shtet abq'aka nmot gwayta goytot\n[[/chorus]]\n\nNts'uh krstos konka bedelenya ne'ana ilka\nMesqel asekimom bmsar gerefu nakalatka /2/\nGbuzat ayhud n'akha bmgfa' asaqeyukha\nT'ft'afom bmtfa nabach'ewu alagets'ulka /2/\n\nTs'egawi mayat may ts'emaku nktbl\nNkhtsetyo habukha hawisom hamotn kerben    /2/\nMehari ikha’mo nkhwlu hat'iatna keyreakha\nYqrebel ba'lkha beti kfatna keyteqeyemka /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 841,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

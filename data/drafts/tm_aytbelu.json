@@ -1,0 +1,53 @@
+{
+  "id": "h_pue8dgnf4u0",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ትም ኣይትበሉ",
+    "ti_ro": "ትም ኣይትበሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትም ኣይትበሉ ንእግዚአብሔር ኣመስግኑ\nንኣምላኽ ንዘምር ኩላትና ብዕልልታ\nምስጋና ይኹኖ ናይ ሰራዊት ጐይታ /2/\n[[/chorus]]\n\nኩላትና ንዘምር ንክብሪ እግዚአብሔር\nውዕለቱ ብዙሕ’ዩ ናይ መስቀሉ ነገር\nካህናት ዘምሩ ኩላትኩም ብዕልልታ\nንጐይታ እግዚአብሔር ናይ ሰራዊት ጐይታ /2/\nንባሕሪ ከፊሉ ዘሰጋገረኩም\nንከውሒ ኣንቂዑ ማይ ዘስተየኩም\nምእመናን ዘምሩ ኩላትኩም ብዓውታ\nንንጉሥ ክርስቶስ ንዘምር ብዕልልታ /2/",
+    "ti_ro": "[[chorus]]\nTm aytbelu ngziebher amesgnu\nNamlakh nzemr kulatna b'llta\nMsgana ykhuno nay serawit gwayta /2/\n[[/chorus]]\n\nKulatna nzemr nkbri gziebher\nW'letu bzuh’yu nay mesqelu neger\nKahnat zemru kulatkum b'llta\nNgwayta gziebher nay serawit gwayta /2/\nNbahri kefilu zesegagerekum\nNkewhi anqi'u may zesteyekum\nMmenan zemru kulatkum b'awta\nNnguss krstos nzemr b'llta /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 70,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

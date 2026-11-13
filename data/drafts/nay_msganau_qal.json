@@ -1,0 +1,53 @@
+{
+  "id": "h_n02u3sk5bkd",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ምስጋናኡ ቃል",
+    "ti_ro": "ናይ ምስጋናኡ ቃል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ምስጋናኡ ቃል ካብኡ ይመጽእ\nናይ ውዳሴ ምንጪ ካብኡ ይወጽእ /2/\nኵሉ ብእኡን ካብኡን ንዕኡን\nኣሜን ስብሐት ይኹኖ ብውዳሴኡ /2/\nኣምላከ ቅዱሳን ኣሎ ምሳና\nእቲ ዝሃበና ናይ ጥበቡ ዜና\nበረኸት ሂቡና ምሉእ ጸጋኡ\nክብሪ ንዘልዓለም ነቕርብ ንዕዑ\nናብ ጽርሓ ኣርያም ንዑ ገስግሱ\nሃሌሉያ ንበል ኣብ ቅዱስ መቕደሱ\nኣብ ጠፈር ስልጣኑ ንሱ ነጊሱ\nጐይታ ክህበና ምሉእ ሞገሱ\n[[/chorus]]\n\nናብ ጽርሓ ኣርያም . . .",
+    "ti_ro": "[[chorus]]\nNay msganau qal kabu ymets'\nNay wdase mnch'i kabu ywets' /2/\nKwlu bun kabun n'un\nAmen sbhet ykhuno bwdaseu /2/\nAmlake qdusan alo msana\nTi zhabena nay t'bebu zena\nBerekhet hibuna mlu ts'egau\nKbri nzel'alem neqrb n''u\nNab ts'rha aryam n'u gesgsu\nHaleluya nbel ab qdus meqdesu\nAb t'efer slt'anu nsu negisu\nGwayta khbena mlu mogesu\n[[/chorus]]\n\nNab ts'rha aryam . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 387,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

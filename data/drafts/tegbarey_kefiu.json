@@ -1,0 +1,54 @@
+{
+  "id": "h_5mcb2t9vo8x",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተግባረይ ከፊኡ",
+    "ti_ro": "ተግባረይ ከፊኡ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተግባረይ ከፊኡ ጸላም ደፊኑኒ\nሕሊናይ ደንዚዙ ኵሉ ሓርቢቱኒ\nፍጹም’የ በዲለ እከይ ዝገበርኩ\nከይትምህምን እዛ ነፍሰይ\nቀድሰኒ ብሕይወተይ\n[[/chorus]]\n\nዓይነይ እና ረኣኹ ኣብ ሓዊ ከይኣቱ\nጸወዓኒ ኣምላኽ ብጥዑም ቃላቱ\nኣይፋል በልኩ ኣነ ከየስተውዓልክዎ\nሰላም ምስ ሰኣንኩ ሎሚ ፈለጥክዎ /2/\nራህርሃለይ ለዋህ ኢኻ\nደንግጸለይ ሓደራኻ\nከይትምህምን እዛ ነፍሰይ\nቀድሰኒ ብሕይወተይ\n\nጊዜ ናይ ድሕነተይ ሕይወት ዝረኽበሉ\nብዕብዳን ዕንደራ ከይተጠቀምኩሉ\nሽግር ምስ በጽሓኒ ክሓስብ ጀመርኩ\nብፍረ ተግባረይ ካብ ኣምላኽ ረሓቕኩ/2/\nራህርሃለይ ለዋህ ኢኻ\nደግጸለይ ሓደራኻ\nከይትምህምን እዛ ነፍሰይ\nቀድሰኒ ብሕይወተይ\n\nትእዛዝካ ንዒቐ ንዓለም ክፈቱ\nንበራሲ ነገር ናይ ከንቱነት ከንቱ\nተመኔዮ ሎሚ ‘ቲ ጥዑም ቃላትካ\nጊዜ ከይወሰድኩ ክምለስ ናባኻ /2/\nራህርሃለይ ለዋህ ኢኻ\nደንግጸለይ ሓደራኻ\nከይትምህምን እዛ ነፍሰይ\nቀድሰኒ ብሕይወተይ\n\nኣሕዋት ኣስተብህሉ ዘረባይ ስምዕዎ\nዕጫይ ከይበጽሓኩም ቲ’ዝነበርክዎ\nከይትምህምን እዛ ነፍሰይ\nቀድሰኒ ብሕይወተይ",
+    "ti_ro": "[[chorus]]\nTegbarey kefiu ts'elam definuni\nHlinay denzizu kwlu harbituni\nFts'um’ye bedile key zgeberku\nKeytmhmn za nefsey\nQedseni bhywetey\n[[/chorus]]\n\n'Ayney na reakhu ab hawi keyatu\nTs'ewe'ani amlakh bt''um qalatu\nAyfal belku ane keyestew'alkwo\nSelam ms seanku lomi felet'kwo /2/\nRahrhaley lewah ikha\nDengts'eley haderakha\nKeytmhmn za nefsey\nQedseni bhywetey\n\nGize nay dhnetey hywet zrekhbelu\nB'bdan 'ndera keytet'eqemkulu\nShgr ms bets'hani khasb jemerku\nBfre tegbarey kab amlakh rehaqku/2/\nRahrhaley lewah ikha\nDegts'eley haderakha\nKeytmhmn za nefsey\nQedseni bhywetey\n\nTzazka n'iqe n'alem kfetu\nNberasi neger nay kentunet kentu\nTemeneyo lomi ‘ti t''um qalatka\nGize keywesedku kmles nabakha /2/\nRahrhaley lewah ikha\nDengts'eley haderakha\nKeytmhmn za nefsey\nQedseni bhywetey\n\nAhwat astebhlu zerebay sm'wo\n'Ch'ay keybets'hakum ti’zneberkwo\nKeytmhmn za nefsey\nQedseni bhywetey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 217,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "verse_4_possible_page_split"
+    ]
+  }
+}

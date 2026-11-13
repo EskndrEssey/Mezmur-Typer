@@ -1,0 +1,54 @@
+{
+  "id": "h_hd68tkdb065",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዑራኤል’ዩ ዋልታ",
+    "ti_ro": "ዑራኤል’ዩ ዋልታ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዑራኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፊየይ\nካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ\nንእዝራ ስቱኤል ዝተገለጽካ\nብጽዋዕ እሳት ጥበብ ዝሃብካ\nዝምክሓሉ ዘኽብሮ ኣነ\nዑራኤል`ዩ ምሳይ ዝቖመ\nብሕማም ደዌ ዝተታሓዝኩ\nሰላም ዘይብለይ ከርተት ዝበልኩ\nብዑራኤል እየ ዝተፈወስኩ\nኣመስግኑለይ ዕልል እናበልኩም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\n'Urael’yu walta nay hywetey degafiyey\nKab mekera qelt'ifu zewts'a nhywetey\nNzra stuel ztegelets'ka\nBts'wa' sat t'beb zhabka\nZmkhalu zekhbro ane\n'Urael`yu msay zqome\nBhmam dewe ztetahazku\nSelam zeybley kertet zbelku\nB'urael ye ztefewesku\nAmesgnuley 'll nabelkum\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 526,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

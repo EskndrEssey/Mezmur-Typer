@@ -1,0 +1,53 @@
+{
+  "id": "h_s8brag9csix",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ሕይወት ፈልፋሊ",
+    "ti_ro": "ናይ ሕይወት ፈልፋሊ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብብርሃንካ ብርሃን ንርኢ ኣሎና /2/\nዓለማተ ዓለም ግብሪ ናይ ኣእዳውካ\nምስክር ጎይትነትካ ናይ ኣምላኽነትካ\nመን’ዶ ኣሎ እዩ ንዓኻ ዝመስለካ\nብርሃናዊ ኣምላኽ ፍጹም ልዑል ኢኻ /2/\n[[/chorus]]\n\nሓደ ኔረ ነደይ ነፍሰይ’ውን ምስ ወጸት\nተንስእ ጎበዝ ኢልካ ትንፋሰይ ተመልሰት\nእታ መበለት ኣደይ ኣመስጊና ነዓኻ\nሕይወት ተቐቢላ ከም ህያብ ካባኻ /2/\nበኣኻ በሪሁ እቲ ጸልማት ዘመን\nደጊም ደቅኻ ኢና ደቂ እመ ብርሃን\nነዓኻ ሒዝና ኢና ዘፍርህ የብልናን\nእግዚአብሔር ክበር ተመስገን /2/\n\nኣንፈት ናይ መንገደይ ጐይታይ ሓብረኒ\nመድኅን ናይ ሕይወተይ ቃልካ መግበኒ\nኣብ ቤትካ ክጸንዕ ምስቶም ቅዱሳንካ\nኣይፈለየኒ ጥበብ ምስትውዓልካ /2/",
+    "ti_ro": "[[chorus]]\nBbrhanka brhan nri alona /2/\n'Alemate 'alem gbri nay adawka\nMskr goytnetka nay amlakhnetka\nMen’do alo yu n'akha zmesleka\nBrhanawi amlakh fts'um l'ul ikha /2/\n[[/chorus]]\n\nHade nere nedey nefsey’wn ms wets'et\nTens gobez ilka tnfasey temelset\nTa mebelet adey amesgina ne'akha\nHywet teqebila kem hyab kabakha /2/\nBeakha berihu ti ts'elmat zemen\nDegim deqkha ina deqi me brhan\nNe'akha hizna ina zefrh yeblnan\nGziebher kber temesgen /2/\n\nAnfet nay mengedey gwaytay habreni\nMedhn nay hywetey qalka megbeni\nAb betka kts'en' mstom qdusanka\nAyfeleyeni t'beb mstw'alka /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 200,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

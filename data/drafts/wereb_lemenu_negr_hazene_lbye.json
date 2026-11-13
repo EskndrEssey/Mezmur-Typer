@@ -1,0 +1,51 @@
+{
+  "id": "h_qzg97emrppn",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "ለመኑ እነግር ኃዘነ ልብየ\nእንበሌኪ ማርያም እግዝእትየ /2/\nወፍጡነ ስምዕኒ ጸሎትየ /2/\nለኵልነ ቤዛ /4/ ማርያም",
+    "ti_ro": "Lemenu negr hazene lbye\nNbeleki maryam gztye /2/\nWeft'une sm'ni ts'elotye /2/\nLekwlne beza /4/ maryam",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 642,
+    "needs_review": []
+  }
+}

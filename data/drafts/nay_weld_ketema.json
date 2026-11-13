@@ -1,0 +1,53 @@
+{
+  "id": "h_79kp1tjv85a",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ወልድ ከተማ",
+    "ti_ro": "ናይ ወልድ ከተማ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግል ማርያም ንግስትና\nድንቂ ፍጥረት ናይ ወልድ ከተማ\nጥፍኣት ዓለም መዐገሢት\nሰላማዊት ናይ ቅዱሳን ግርማ\nሃብቲ ናይ ሰማያት ኵሉ ተዓዲልኪ\nጸግዒ ናይ ኵልና ብፅዕቲ ንብለኪ\nብርኽትን ቅድስትን ንጽህት ኣደ ኢኺ\nከምታ ናይ ኖህ መርከብ መድኃኒትና ኢኺ\n[[/chorus]]\n\nሰላም ለኪ ኢልና ክንጽውዕ ንስምኪ\nብቓላትኪ ጌርኪ ኣብድና ኢኺ\nንዓና’ውን ተስፋ ነዞም ዝደኸምና\nናይ ስምኪ መቐረት ያም’ዩ ንነፍስና\n\nንዓኺ ዘይኣምኑ ዋላ እንተተንስኡ\nቅዱስ ቃል ጠዋውዮም ንነፍሶም የጥፍኡ\nክብርኺ ምስ ረኣዩ ጸጋኺ መሊኡ\nሰምቢዶም ርዒዶም ቅድሜኺ ይድፍኡ",
+    "ti_ro": "[[chorus]]\nDngl maryam ngstna\nDnqi ft'ret nay weld ketema\nT'fat 'alem me'egessit\nSelamawit nay qdusan grma\nHabti nay semayat kwlu te'adilki\nTs'eg'i nay kwlna bts''ti nbleki\nBrkhtn qdstn nts'ht ade ikhi\nKemta nay noh merkeb medhanitna ikhi\n[[/chorus]]\n\nSelam leki ilna knts'w' nsmki\nBqalatki gerki abdna ikhi\nN'ana’wn tesfa nezom zdekhemna\nNay smki meqeret yam’yu nnefsna\n\nN'akhi zeyamnu wala ntetensu\nQdus qal t'ewawyom nnefsom yet'fu\nKbrkhi ms reayu ts'egakhi meliu\nSembidom r'idom qdmekhi ydfu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 226,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

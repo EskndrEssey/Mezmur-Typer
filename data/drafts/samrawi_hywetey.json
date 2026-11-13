@@ -1,0 +1,53 @@
+{
+  "id": "h_eocx7t88x3n",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሳምራዊ ሕይወተይ",
+    "ti_ro": "ሳምራዊ ሕይወተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዋልታይ ክብረይ ኢኻ ሳምራዊ ሕይወተይ\nሓያል ተበጃዊ ኣምላኽ ረድኤተይ\nንዓኻ ከመስግን ሰቒለ ሕሊናይ\nእንሆ ክልተ ኣእዳወይ ዘርጊሔ ናብ ሰማይ\nኣብ ሕሱም ደልሃመት ብግፍዒ ወዲቐ\nበይነይ እና’ቕባሕባሕኩ ረዳኢ ናፊቐ\nድሙቕ ብርሃን መስቀልካ ምስ ኣብርሀ ኣብ ልዕለይ\nፍጹም’የ ተለዊጠ ተዘኒኑ ኵሉ ቁስለይ\n[[/chorus]]\n\nኤልሻዳይ ኣምላኽ በዓል  ርህሩህ ልቢ\nከም ሕያዋይ ጓሳ ንነፍሰይ ክትናቢ\nመዓስከ ተታኺስካ ሓለዋይ ምስ ነቓሕካ\nእነሆ’ንዶ ቲ’ለውሃትካ የንብረኒ ኣብ ሕቝፍኻ\nነፍሰይ ምስ ረኸበት ሕይወት ምስ ተረፋ\nስምካ ጥራይ ኮይኑ መውጽኢ ቃል ኣፋ\nኵሉ ብስምካ ክሰግሮ ዓቐብን ገደልን\nምልክኻ የዕቲርካኒ ምልኪ ሰይጣን ንኸብንን\nናይ ሰንሰለት መቑሕ ጾረይ ካብ ተራግፍ\nሕልፊ ሞት ፍቕርኻ ልበይ ካብ ዝትንክፍ\nሰለም ኣይከብልን እየ ኣካለይ ንኽዛነ\nክንብርከኸልካ’የ ጐይታይ ብፍቕርኻ ተኣሚነ",
+    "ti_ro": "[[chorus]]\nWaltay kbrey ikha samrawi hywetey\nHayal tebejawi amlakh redetey\nN'akha kemesgn seqile hlinay\nNho klte adawey zergihe nab semay\nAb hsum delhamet bgf'i wediqe\nBeyney na’qbahbahku redai nafiqe\nDmuq brhan mesqelka ms abrhe ab l'ley\nFts'um’ye telewit'e tezeninu kwlu qusley\n[[/chorus]]\n\nElshaday amlakh be'al  rhruh lbi\nKem hyaway gwasa nnefsey ktnabi\nMe'aske tetakhiska haleway ms neqahka\nNeho’ndo ti’lewhatka yenbreni ab hqwfkha\nNefsey ms rekhebet hywet ms terefa\nSmka t'ray koynu mewts'i qal afa\nKwlu bsmka ksegro 'aqebn gedeln\nMlkkha ye'tirkani mlki seyt'an nkhebnn\nNay senselet mequh ts'orey kab teragf\nHlfi mot fqrkha lbey kab ztnkf\nSelem aykebln ye akaley nkhzane\nKnbrkekhelka’ye gwaytay bfqrkha teamine",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 208,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

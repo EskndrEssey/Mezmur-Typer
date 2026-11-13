@@ -1,0 +1,53 @@
+{
+  "id": "h_x5thaezbbqc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ስለቲ ዘይንገር ውህበቱ",
+    "ti_ro": "ስለቲ ዘይንገር ውህበቱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nስለቲ ዘይንገር ውህበቱ /2/\nንየማን ንጸጋም ቁሊሕ ተበልኩ\nለካ ንስኻ ኢኻ ወናኒ ኵሉ\n[[/chorus]]\n\nደሃይካ ሰሚዐ ኣብ ቤተ መቕደስካ\nንልበይ ዘድነነ ወንጌል ስብከትካ\nእንሆ ብሓቂ ሎሚ ከቢረ\nብድርዒ ናይ ስምካ ተሰራሲረ\nኣካለይ ወቂቡ ገጸይ ደሚቑ\nብጽባቐ ናትካ ጉዕዞይ በሪቑ\nሰላም’የ ዘለኹ ሰላምካ ይብዛሕ\nውዳሴ ከንፈረይ ሰማያት ይብጻሕ\n\nንጉሥ መሬት ሰማይ ገደብ ዘይብሉ\nስለይ እንታይ ዘይኮነ ገዲፉ ኵሉ\nእሞ እንታይ ክብል’የ ስለ ውዕለቱ\nተመስገን’የ ዝብሎ ህያብ ንፍቕሩ",
+    "ti_ro": "[[chorus]]\nSleti zeynger whbetu /2/\nNyeman nts'egam qulih tebelku\nLeka nskha ikha wenani kwlu\n[[/chorus]]\n\nDehayka semi'e ab bete meqdeska\nNlbey zednene wengel sbketka\nNho bhaqi lomi kebire\nBdr'i nay smka teserasire\nAkaley weqibu gets'ey demiqu\nBts'baqe natka gu'zoy beriqu\nSelam’ye zelekhu selamka ybzah\nWdase kenferey semayat ybts'ah\n\nNguss meret semay gedeb zeyblu\nSley ntay zeykone gedifu kwlu\nMo ntay kbl’ye sle w'letu\nTemesgen’ye zblo hyab nfqru",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 456,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

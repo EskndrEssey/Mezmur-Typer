@@ -1,0 +1,53 @@
+{
+  "id": "h_i0akokw6kr8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሕያወይቲ ኣደ",
+    "ti_ro": "ሕያወይቲ ኣደ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሕያወይቲ ኣደ ዝኾንክኒ /2/\nክበርለይ ደብረይ ደብረ ወይኒ\nሰላማዊት ቤተይ ደብረ ቤትኤል\nሰላም ክብለኪ ማሕደር ልዑል\nርእሰ ኣድባር ደብረ ቤትኤል\nእግዚአብሔር ዝሰመራ\nግርማ መንፈስቅዱስ ዝሓጸራ\nበቲ ቅዱስ ደሙ ዝቐደሳ\nንውሉድ ወለዶ ክብርቲ’ያ ንሳ\n[[/chorus]]\n\nካብ ህፃንነተይ ዘዕበኽኒ\nዝማሬን ማህሌትን ዘስነቕክኒ\nሕያወይቲ ኣደ ዝኾንክኒ\nክበርለይ ደብረይ ደብረ ወይኒ\nሰይጣን ተበገሰ ንዕንወትኪ\nማንም መሲልክዮ ከጥፍኣኪ\nካብ መዓር ወለላ ዝሕረ ውህበትኪ\nኣዳራሽ ኢየሱስ ንስኺ ኢኺ",
+    "ti_ro": "[[chorus]]\nHyaweyti ade zkhonkni /2/\nKberley debrey debre weyni\nSelamawit betey debre betel\nSelam kbleki mahder l'ul\nRse adbar debre betel\nGziebher zsemera\nGrma menfesqdus zhats'era\nBeti qdus demu zqedesa\nNwlud weledo kbrti’ya nsa\n[[/chorus]]\n\nKab hts'annetey ze'bekhni\nZmaren mahletn zesneqkni\nHyaweyti ade zkhonkni\nKberley debrey debre weyni\nSeyt'an tebegese n'nwetki\nManm mesilkyo ket'faki\nKab me'ar welela zhre whbetki\nAdarash iyesus nskhi ikhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 212,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

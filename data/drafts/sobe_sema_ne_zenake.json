@@ -1,0 +1,53 @@
+{
+  "id": "h_a430bumvolo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሶበ ሰማዕነ ዜናከ",
+    "ti_ro": "ሶበ ሰማዕነ ዜናከ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሶበ ሰማዕነ ዜናከ\nመጻእነ ሃቤከ /2/ መጻእነ /2/\nኣንቲ ቤተልሔም ከተማ ናይ ዳዊት\nኣባኺ ተሰምዐ እቲ ቃል ናይ ብስራት\nምስጋና ኣብ ሰማይ ንእግዚአብሔር ይኩኖ\nሰላም ደቂ ሰባት ኣብ ምድሪ ሰፊኑ\nኣደ ምስ ውላዳ ተራእዮም ደሚቖም\nመላእክት እግዚአብሔር ኣብ ቅድሚኦም ወዲቖም\nኣብ ደምበ ናይ ከብቲ ኣምላኽ ተወሊዱ\nናይ ነገስታት ንጉሥ ንሞት ኣወጊዱ\n[[/chorus]]\n\nናይ ሰማይ ሓለቓ መካር ሓያል ኢኻ\nእቲ መግዛእቲ ኣብቂዑ ኦ ጐይታ ብስምካ\nንሰላም ዝዕድል ኣልፋ ወኦሜጋ\nናይ እስራኤል ኣምላኽ ተገሊጹ ብስጋ",
+    "ti_ro": "[[chorus]]\nSobe sema'ne zenake\nMets'ane habeke /2/ mets'ane /2/\nAnti betelhem ketema nay dawit\nAbakhi tesem'e ti qal nay bsrat\nMsgana ab semay ngziebher ykuno\nSelam deqi sebat ab mdri sefinu\nAde ms wlada terayom demiqom\nMelakt gziebher ab qdmiom wediqom\nAb dembe nay kebti amlakh tewelidu\nNay negestat nguss nmot awegidu\n[[/chorus]]\n\nNay semay haleqa mekar hayal ikha\nTi megzati abqi'u o gwayta bsmka\nNselam z'dl alfa weomega\nNay srael amlakh tegelits'u bsga",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 462,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

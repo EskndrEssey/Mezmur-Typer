@@ -1,0 +1,53 @@
+{
+  "id": "h_p2zlhkq14iw",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰኣሊ ለነ ቅድስት",
+    "ti_ro": "ሰኣሊ ለነ ቅድስት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግል ማርያም\nሰኣሊ ኣብ መከራ ጊዜ\nሰኣሊ ኣጸናንዕኒ\nሰኣሊ ኣፈይ ንምስጋና\nሰኣሊ ኣነቓቕሕኒ\nሰኣሊ ከምቶም ኣቦታተይ\nሰኣሊ ብጸጋ ምልእኒ ኣደ ብዙሓት\n[[/chorus]]\n\nሰኣሊ ፍቕርኺ ኣብ ልበይ\nሰኣሊ ዕረፍቲ ኮይኑኒ\nሰኣሊ ካብቲ ጽኑዕ ጸልማት\nሰኣሊ ጐይታ ከውጽኣኒ\nሰኣሊ ዝቖሰለ ልበይ\nሰኣሊ ፈውሰይ ክኾነኒ ናተይ መድኃኒት\nሰኣሊ መደገፊ ምርኩስ\nሰኣሊ ኩንኒ ጉልበተይ\nሰኣሊ ጣዕሚ ናይ ፍቕርኺ\nሰኣሊ ክነግሮም ነሕዋተይ\nሰኣሊ ንዓኺ ምስ ሓዝኩ\nሰኣሊ በሪሁ'ሎ ገጸይ ብርሃን ናይ ገዛይ\n\nሰኣሊ ኣደይ ምስ በልኩኺ\nሰኣሊ ዝወደይ በልኒ\nሰኣሊ መብራህተይ ከይጠፍእ\nሰኣሊ ናብ ጐይታ ለምኒ\nሰኣሊ ኣደ ነፍሰይ ኢኺ\nሰኣሊ ደገፍ ትኾንኒ ማርያም ድንግል",
+    "ti_ro": "[[chorus]]\nDngl maryam\nSeali ab mekera gize\nSeali ats'enan'ni\nSeali afey nmsgana\nSeali aneqaqhni\nSeali kemtom abotatey\nSeali bts'ega mlni ade bzuhat\n[[/chorus]]\n\nSeali fqrkhi ab lbey\nSeali 'refti koynuni\nSeali kabti ts'nu' ts'elmat\nSeali gwayta kewts'ani\nSeali zqosele lbey\nSeali fewsey kkhoneni natey medhanit\nSeali medegefi mrkus\nSeali kunni gulbetey\nSeali t'a'mi nay fqrkhi\nSeali knegrom nehwatey\nSeali n'akhi ms hazku\nSeali berihu'lo gets'ey brhan nay gezay\n\nSeali adey ms belkukhi\nSeali zwedey belni\nSeali mebrahtey keyt'ef\nSeali nab gwayta lemni\nSeali ade nefsey ikhi\nSeali degef tkhonni maryam dngl",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 366,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

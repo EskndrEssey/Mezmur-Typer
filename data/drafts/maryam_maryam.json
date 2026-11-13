@@ -1,0 +1,53 @@
+{
+  "id": "h_gkhu9agnt4b",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ማርያም ማርያም",
+    "ti_ro": "ማርያም ማርያም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ማርያም ክብለኪ ደጊመ\nኣብ ትሕቴኺ ኣብ መቕደስኪ ቆይመ\nብምእማነይ ናትኪ ኣማላድነት\nኣምሊጠ’የ ናይ ጸላኢ ኵናት\nይመጽእ ይኸይድ ፍጥረት\nወትሩ ኣብ ልሳን ስምኪ’ያ ሕትምት\nኣብቲ ቅዱስ ናይ ወለዶ ሓረግ\nተጸብጺብና ምስጋናኺ ይዕረግ\n[[/chorus]]\n\nመሳልል ናይ ሎዛ ተኣምር\nናይ ነጻነት ናይ ሕይወት ሃገር\nንደቂ ሰብ ምኽንያት ድኅነት ኮይንኪ\nኪዳንኪ’ሎ ነቲ ዝፈትወኪ\nንጽህናኺ ዘይብሉ ጉድለት\nምልጃኺ’ውን ዘድሓነ ነፍሳት\nሓይሉኒ ብርቱዕ ናፍቖትኪ\nክረጋጋእ ኣደየ ርኤኪ\n\nዘማሪት ህጻን ቃልኪዳን",
+    "ti_ro": "[[chorus]]\nMaryam maryam kbleki degime\nAb thtekhi ab meqdeski qoyme\nBmmaney natki amaladnet\nAmlit'e’ye nay ts'elai kwnat\nYmets' ykheyd ft'ret\nWetru ab lsan smki’ya htmt\nAbti qdus nay weledo hareg\nTets'ebts'ibna msganakhi y'reg\n[[/chorus]]\n\nMesall nay loza teamr\nNay nets'anet nay hywet hager\nNdeqi seb mkhnyat dhnet koynki\nKidanki’lo neti zfetweki\nNts'hnakhi zeyblu gudlet\nMljakhi’wn zedhane nefsat\nHayluni brtu' nafqotki\nKregaga adeye reki\n\nZemarit hts'an qalkidan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 159,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_5et3l92k1hc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክርስቶስ ሕያዋይ ጓሳና",
+    "ti_ro": "ክርስቶስ ሕያዋይ ጓሳና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክርስቶስ ሕያዋይ ጓሳና ኣቦና\nስለ ዘፍቀረና ሞይቱ ኣድኂኑና\nጸልማት ናይ ኩነኔ መታን ከኽትም\nተገሊጹልና’ዩ ንጉሥ ናይ ሰላም\n[[/chorus]]\n\nሓሙሽተ ሽሕን ሓሙሽተ ሚእትን\nናይ መርገም ዓመታት ናይ ፍዳ ዘመን\nክርስቶስ ምስ መጸ ፍጹም ተቐይሩ\nግዝኣት ናይ ዲያብሎስ ኣሰይ ተሳዒሩ\nኣብ ክንዲ ጻድቕ የለን ዝመውት\nስለ ፈታዊኡ ይህሉ ምናልባት\nጐይታ ግና ጌና ኣብ ኃጢኣት ከለና\nስለ ዘፍቀረና ሞይቱ ኣብ ክንዳና\n\nንዝገፍዓና ገፊዑልና ጐይታ\nሰላም እናብሰረ ንሲኦል ዘመታ\nሓዘን የለን ሕጂ ኮይኑ’ዩ ዕልልታ\nዝተዓጽወት ገነት ኣሰይ ተኸፊታ",
+    "ti_ro": "[[chorus]]\nKrstos hyaway gwasana abona\nSle zefqerena moytu adhinuna\nTs'elmat nay kunene metan kekhtm\nTegelits'ulna’yu nguss nay selam\n[[/chorus]]\n\nHamushte shhn hamushte mitn\nNay mergem 'ametat nay fda zemen\nKrstos ms mets'e fts'um teqeyru\nGzat nay diyablos asey tesa'iru\nAb kndi ts'adq yelen zmewt\nSle fetawiu yhlu mnalbat\nGwayta gna gena ab hat'iat kelena\nSle zefqerena moytu ab kndana\n\nNzgef'ana gefi'ulna gwayta\nSelam nabsere nsiol zemeta\nHazen yelen hji koynu’yu 'llta\nZte'ats'wet genet asey tekhefita",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 475,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

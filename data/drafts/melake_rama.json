@@ -1,0 +1,53 @@
+{
+  "id": "h_xc1or5pb9f1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መልኣከ ራማ",
+    "ti_ro": "መልኣከ ራማ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመልኣከ ራማ ሰማያዊ\nሄር ለዋህ ኣቦ ሰላማዊ\nስሙ ጸውዑ ክረድኣና\nሚካኤል በሉ ክንፉ ከጽልለልና\nኣቦ ሓሶት ጉርሒ ቀናእ ብባህሪኡ\nኣምላኽነት ጐይታ ዘውትር ሃረርታኡ\nምስሉይ ውቁብ ሕብሩ ቆይሙ ኣብ ቅድሜና\nየኽመስምስ’ዩ ዘሎ ክሰልብ ቀልብና /2/\nነዓ ሚካኤል ተገለጽ ብኽብሪ\nነዓ ሚካኤል  ሓዘና ዛዛሚ\nሃልኪ ድኻም ጉዕዞ ኣንጻር’ዩ ንባህረይ\nፍርደይ ዘንጊዐዮ መስኪን እንታይ ግደይ /2/\nነዓ ሚካኤል ኣእምሮይ ክፈቶ\nነዓ ሚካኤል ሕይወተይ ለውጦ\nነዓ ሚካኤል ኣምሳል ሕይወት ባህራን\nነዓ ሚካኤል ነፍሲ ወድኻ ኣድሕን\nኣምሳል ሽፍታ መሮር ኣንፈተይ ወሲና\nከም ዕምኮ ንጫቚት ንስጉመይ ከርዲና\nኣምርሕ ትብል ዓለም ጉዕዞይ ከተፈልም\nናብ ኣድማስ ዓዘቕቲ መንክር’ዩ መስደምም /2/\nነዓ ሚካኤል ቀልስ ኣንፈት ጉዕዞይ\nነዓ ሚካኤል  ኣንፈት ርስቲ ቤተይ\nነዓ ሚካኤል  እሙን መሪሕ እስራኤል\nነዓ ሚካኤል ዙርያ ጉዕዞይ ከልል\n[[/chorus]]\n\nደብረ ገነት ኪዳነ ምሕረት (ሰምበል)",
+    "ti_ro": "[[chorus]]\nMelake rama semayawi\nHer lewah abo selamawi\nSmu ts'ew'u kredana\nMikael belu knfu kets'llelna\nAbo hasot gurhi qena bbahriu\nAmlakhnet gwayta zewtr harertau\nMsluy wqub hbru qoymu ab qdmena\nYekhmesms’yu zelo kselb qelbna /2/\nNe'a mikael tegelets' bkhbri\nNe'a mikael  hazena zazami\nHalki dkham gu'zo ants'ar’yu nbahrey\nFrdey zengi'eyo meskin ntay gdey /2/\nNe'a mikael amroy kfeto\nNe'a mikael hywetey lewt'o\nNe'a mikael amsal hywet bahran\nNe'a mikael nefsi wedkha adhn\nAmsal shfta meror anfetey wesina\nKem 'mko nch'aqwit nsgumey kerdina\nAmrh tbl 'alem gu'zoy ketefelm\nNab admas 'azeqti menkr’yu mesdemm /2/\nNe'a mikael qels anfet gu'zoy\nNe'a mikael  anfet rsti betey\nNe'a mikael  mun merih srael\nNe'a mikael zurya gu'zoy kell\n[[/chorus]]\n\nDebre genet kidane mhret (sembel)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 295,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

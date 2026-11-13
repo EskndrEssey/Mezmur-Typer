@@ -1,0 +1,53 @@
+{
+  "id": "h_oi1qja9oh9d",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መሰረተ ዜማ",
+    "ti_ro": "መሰረተ ዜማ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመሰረተዜማ ብርሃነዓለም/2/\nያሬድ ካህን ጥዑመልሳን/3/\nመሰረተዜማ ኩርዓት ኢትዮጵያ\nፍረተዋህዶ ንዓለም ምርኣያ\nውዳሴ እግዚአብሔር ብምስጋና ቃና\nንዓኻ ዝመስል ብሓቂ ናፊቕና/2/\nምድራዊ መልኣኽ ምስጋና ዝምግቡ\nብከበሮ መዝሙር ገላጺ ንፍቕሩ\nብፍሉይ ተመስጦ ሰማይ ተመልኪቱ\nምስጋና ጀሚሩ ከምቶም መላእኽቱ/2/\nተስፋ ዘይቖርጽ ቃሉ ዝሰነቐ\nጥዑም ዝልሳኑ ፍጥረት ዘደነቐ\nመኣዲ ማኅሌትካ ንነፍሳት መጊቡ\nጸጋኻ ያሬደይ ዓለም ኣዛሪቡ/2/\nጸናጽል ሃበኒ ወርቃዊ መቖምያ\nለግሰኒ መምህር እቲ ጥዑም ዜማ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMeseretezema brhane'alem/2/\nYared kahn t''umelsan/3/\nMeseretezema kur'at ityop'ya\nFretewahdo n'alem mraya\nWdase gziebher bmsgana qana\nN'akha zmesl bhaqi nafiqna/2/\nMdrawi melakh msgana zmgbu\nBkebero mezmur gelats'i nfqru\nBfluy temest'o semay temelkitu\nMsgana jemiru kemtom melakhtu/2/\nTesfa zeyqorts' qalu zseneqe\nT''um zlsanu ft'ret zedeneqe\nMeadi mahletka nnefsat megibu\nTs'egakha yaredey 'alem azaribu/2/\nTs'enats'l habeni werqawi meqomya\nLegseni memhr ti t''um zema\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 423,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_u3bgpa4n4b1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መርዓዊ ሰማያዊ",
+    "ti_ro": "መርዓዊ ሰማያዊ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመርዓዊ ሰማያዊ /2/\nንወንጌል ሒዞም’ዮም ኩልና ንስዓቦም\nፍቕሪ ንኽረኽቡ ኣምላኽ ይባርኮም\n[[/chorus]]\n\nጻማ ናይ ድኻሞም /2/\nብርሃን ከብርህ’ዩ በዚ ሃይማኖቶም",
+    "ti_ro": "[[chorus]]\nMer'awi semayawi /2/\nNwengel hizom’yom kulna ns'abom\nFqri nkhrekhbu amlakh ybarkom\n[[/chorus]]\n\nTs'ama nay dkhamom /2/\nBrhan kebrh’yu bezi haymanotom",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 444,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

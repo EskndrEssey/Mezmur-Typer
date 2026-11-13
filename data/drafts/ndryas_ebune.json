@@ -1,0 +1,53 @@
+{
+  "id": "h_5nm6nqty0oo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እንድርያስ አቡነ",
+    "ti_ro": "እንድርያስ አቡነ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣባ /2/ እንድርያስ አቡነ /2/\nበለኒ /2/ ወልድየ\nኣባ ኣባ     ሰባኺ ምድራዊ\n>>  >>      ጾምካ ዘየሕድር\n>>  >>      ኣምላከ እንድርያስ\n>>  >>      ኢልና ኣይንሓፍር\n>>  >>      ፈዋሲ ዱውያን\n>>  >>      ነቢይወሓዋርያ\n>>  >>      በረኸት ክንቅበል\n>>  >>      ፍቕርኻ ኣጽንዓልና\n>>  >>      ጸበልካ ጥዒምና\n>>  >>      ገድልኻ ሰሚዕና\n>>  >>      ጸላኢ ክንስዕር\n>>  >>      እምነትካ ሃበና\nኣባ ኣባ ስምዓና ንብለካ\n>>  >>      ኣብ ገነት ዘለኻ\n>>  >>      ምስ ኩሎም ቅዱሳን\n>>  >>      ምስ መላእክት ቆይምካ\n>>  >>      ንስምካ ክንጽውዕ\n>>  >>      ገድልኻ ክንሰምዕ\n>>  >>      ዕጹብ ድንቂ የብል\n>>  >>      ናይ እምነት ተኣምር\nኣባ ኣባ       ኣቦይ ኢለ ክጽውዕ\n>>  >>      ወደይ በለኒ\n>>  >>      ናይ ኣቦን ውሉድን\n>>  >>      ፍቕርኻ ሃበኒ\n>>  >>      ጸበልካ ልሒሰ\n>>  >>      እነሆ ተፈዊሰ\n>>  >>      ተመን ዕንቅርቢት\n>>  >>      ብእግረይ ረጊጸ\nኣባ  ኣባ   ገድልኻ እነግር\n>>  >>    ዕጹብ ድንቂ ነገር\n>>  >>    ነቲ ዓቢይ ጎቦ\n>>  >>    ብእምነት ተግዕዞ\n>>  >>    ብዓባይ እምነትካ\n>>  >>    ትእምርቲ ርኢና\n>>  >>      ይሰምዕ ኣቦና\n>>  >>      ጸሎት ምህለላና\n>>  >>      ሸኸም ከቢዱና\n>>  >>      ብዙሕ ምስ ተከዝና\n>>  >>      ሽግርና ፈቲሑ\n>>  >>      ባሪኹና ኣቦና\n[[/chorus]]\n\nሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+    "ti_ro": "[[chorus]]\nAba /2/ ndryas ebune /2/\nBeleni /2/ weldye\nAba aba     sebakhi mdrawi\n>>  >>      Ts'omka zeyehdr\n>>  >>      Amlake ndryas\n>>  >>      Ilna aynhafr\n>>  >>      Fewasi duwyan\n>>  >>      Nebiywehawarya\n>>  >>      Berekhet knqbel\n>>  >>      Fqrkha ats'n'alna\n>>  >>      Ts'ebelka t''imna\n>>  >>      Gedlkha semi'na\n>>  >>      Ts'elai kns'r\n>>  >>      Mnetka habena\nAba aba sm'ana nbleka\n>>  >>      Ab genet zelekha\n>>  >>      Ms kulom qdusan\n>>  >>      Ms melakt qoymka\n>>  >>      Nsmka knts'w'\n>>  >>      Gedlkha knsem'\n>>  >>      'Ts'ub dnqi yebl\n>>  >>      Nay mnet teamr\nAba aba       aboy ile kts'w'\n>>  >>      Wedey beleni\n>>  >>      Nay abon wludn\n>>  >>      Fqrkha habeni\n>>  >>      Ts'ebelka lhise\n>>  >>      Neho tefewise\n>>  >>      Temen 'nqrbit\n>>  >>      Bgrey regits'e\nAba  aba   gedlkha negr\n>>  >>    'Ts'ub dnqi neger\n>>  >>    Neti 'abiy gobo\n>>  >>    Bmnet teg'zo\n>>  >>    B'abay mnetka\n>>  >>    Tmrti rina\n>>  >>      Ysem' abona\n>>  >>      Ts'elot mhlelana\n>>  >>      Shekhem kebiduna\n>>  >>      Bzuh ms tekezna\n>>  >>      Shgrna fetihu\n>>  >>      Barikhuna abona\n[[/chorus]]\n\nLiqe mezemran tedros yosef",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 18,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

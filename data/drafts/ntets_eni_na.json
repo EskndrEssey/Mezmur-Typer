@@ -1,0 +1,53 @@
+{
+  "id": "h_6yjiqgjsqok",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እንተጸኒዕና",
+    "ti_ro": "እንተጸኒዕና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእንተጸኒዕና ኣብ ጽውዓኻ\nመን’ዩ’ሞ ዝፈልየና ካብ ጽኑዕ ፍቕርኻ\nጥሜት ድዩ ስደት መከራ ዓለም\nክፈልየና ኣይክእልን ከቶ ንዘልዓለም\nጸላኢ እንተነደረን እንተ ጓዘመን\nሃነፍነፍ እንተበለን እንተዕዘምዘመን\nከውሒ ምድኃነይ ሒዘስ ገለ ኣይከውንን\nኣባኻ ተጸጊዐስ ኣይምንጥለንን\nምሳኻ ምንባር ይሕሸና ምሳኻ ምንባር\nምሳኻ ምንባር ይሕሸና\nኣብ ሰማይ’ዩ ተስፋና\n[[/chorus]]\n\nሓላፊ ጥሪት ዓለም ወርቅን ብሩርን\nብልዒ ንኸብዲ እምበር ሕይወት የብሉን\nንዓይ ግን ኣጥሪኻኒ ብኽቡር ደምካ\nኣነ’ውን ፈትየ ’ለኹ ደጊም ምሳኻ\nምሳኻ ምንባር ይሕሸና ምሳኻ ምንባር\nምሳኻ ምንባር ይሕሸና\nኣብ ሰማይ’ዩ ተስፋና\nጉስነትካ ከይመኑ ከይስልኪ ኣነ\nምሳኻ ምንባር ይሕሸና\nኣብ ሰማይ’ዩ ተስፋና",
+    "ti_ro": "[[chorus]]\nNtets'eni'na ab ts'w'akha\nMen’yu’mo zfelyena kab ts'nu' fqrkha\nT'met dyu sdet mekera 'alem\nKfelyena aykln keto nzel'alem\nTs'elai ntenederen nte gwazemen\nHanefnef ntebelen nte'zemzemen\nKewhi mdhaney hizes gele aykewnn\nAbakha tets'egi'es aymnt'lenn\nMsakha mnbar yhshena msakha mnbar\nMsakha mnbar yhshena\nAb semay’yu tesfana\n[[/chorus]]\n\nHalafi t'rit 'alem werqn brurn\nBl'i nkhebdi mber hywet yeblun\nN'ay gn at'rikhani bkhbur demka\nAne’wn fetye ’lekhu degim msakha\nMsakha mnbar yhshena msakha mnbar\nMsakha mnbar yhshena\nAb semay’yu tesfana\nGusnetka keymenu keyslki ane\nMsakha mnbar yhshena\nAb semay’yu tesfana",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 388,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

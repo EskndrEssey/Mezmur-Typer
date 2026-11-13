@@ -1,0 +1,54 @@
+{
+  "id": "h_3dwfxtnz2ma",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልዕሊ መላእክት ራማ",
+    "ti_ro": "ልዕሊ መላእክት ራማ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልዕሊ ልዕልና ሰማይ ልዕል ኢላ ጽዮን\nልዕሊ መላእክት ራማ\nድንግል ብኽብሪ ብግርማ ትነብር ተሰሊማ /2/\nዓይኒ ካብ ዝመልኦም ካብ ኪሩቤል\nክንፎም ካብ ዝበዝሐ ካብ ሱራፌል\nካብ ሊቃነ መላእክት በለጸት\nመለኮታዊ እሳት ኣብ ከርሳ ስለ ‘ተሰከመት\n[[/chorus]]\n\nንንጉስ ዝነብር ኣብ ዙፋኑ\n‘ታ ንግስቲ ትቐውም ብየማኑ\nናይ ቃል ኪዳን ክዳና ተሰሊማ\nምእንታና ትልምን ድንግል’ያ ናይ ኵልና ተስፋ\nተቐሚጣ’ላ ኣብ መንበር ናይ ብርሃን\nበቲ ኣእጋራ ወርሒ ረገጸት’ውን\nጽባቐ ቅድስና ተሰሊማ\nኣዝያ ዝደመቐት ንሳ’ያ ናይ ልዑል ከተማ\n\nካብ ዕብራውያን ኣንስት ፍልይቲ’ያ\nካብ ደቂ ሔዋን ኵለን ብልጽቲ’ያ\nሸውዓተ ቀንዴል የብርህ ወዳ\nስጋኣ ተዋሂዱ ብፍቕሪ መሰለ ንዓና\n\nዘማሪት ምርትነሽ ጥላሁን",
+    "ti_ro": "[[chorus]]\nL'li l'lna semay l'l ila ts'yon\nL'li melakt rama\nDngl bkhbri bgrma tnebr teselima /2/\n'Ayni kab zmelom kab kirubel\nKnfom kab zbezhe kab surafel\nKab liqane melakt belets'et\nMelekotawi sat ab kersa sle ‘tesekemet\n[[/chorus]]\n\nNngus znebr ab zufanu\n‘Ta ngsti tqewm byemanu\nNay qal kidan kdana teselima\nMntana tlmn dngl’ya nay kwlna tesfa\nTeqemit'a’la ab menber nay brhan\nBeti agara werhi regets'et’wn\nTs'baqe qdsna teselima\nAzya zdemeqet nsa’ya nay l'ul ketema\n\nKab 'brawyan anst flyti’ya\nKab deqi hewan kwlen blts'ti’ya\nShew'ate qendel yebrh weda\nSgaa tewahidu bfqri mesele n'ana\n\nZemarit mrtnesh t'lahun",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 101,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_3_possible_page_split"
+    ]
+  }
+}

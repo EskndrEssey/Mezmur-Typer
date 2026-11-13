@@ -1,0 +1,53 @@
+{
+  "id": "h_ioetruxht4y",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሚካኤል መልኣክ",
+    "ti_ro": "ሚካኤል መልኣክ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሚካኤል መልኣክ እመላእክት መኑ ከማከ ልዑል\nሐመልማለ ወርቅ ልብሱ ዘመብረቅ ሊቀ መላእክት\nዲ/ን ኤፍሬም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMikael melak melakt menu kemake l'ul\nHemelmale werq lbsu zemebreq liqe melakt\nDi/n efrem\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 306,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

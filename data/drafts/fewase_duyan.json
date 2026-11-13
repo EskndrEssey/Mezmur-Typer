@@ -1,0 +1,53 @@
+{
+  "id": "h_cru9r2pag7i",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፈዋሴ ዱያን",
+    "ti_ro": "ፈዋሴ ዱያን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣንተ ፈዋሴ ዱያን\nይደልወከ (4) ስብሐት ዘምስለጋዳ\nአቡነ እንድርያስ አቡነ እንድርያስ\nፈዋሴ ዱያን (2)\nከዘንቱ ገድልኻ አቡነ እንድርያስ\nየለን ዝመስለካ ፈዋሴ ዱያን\nበቲ ገድልኻ (4) ሓሊፍካ ፍጹም ጅግንነት\n[[/chorus]]\n\nዳግማይ ሙሴ አቡነ እንድርያስ\nስርናይ ኣርያም ፈዋሴ ዱያን\nመና ዝመገብካ አቡነ እንድርያስ\nንኹሎም ደቅኻ ፈዋሴ ዱያን\nመግበና ኢኻ (4) ንዓና ሕብስተ ሕይወት\nጎቦ ዓርበ ረቡዕ አቡነ እንድርያስ\nኣዚዝካ ብእምነት ፈዋሴ ዱያን\nእምነትካ ሃበና አቡነ እንድርያስ\nናይ ዮርዳኖስ ማይ’ውን አቡነ እንድርያስ\nኣሎ ኣብ ደብርኻ ፈዋሴ ዱያን\nኣንጽሃና ኢኻ (4) ካብ ኵሉ በደል ኃጢኣትና",
+    "ti_ro": "[[chorus]]\nAnte fewase duyan\nYdelweke (4) sbhet zemslegada\nEbune ndryas ebune ndryas\nFewase duyan (2)\nKezentu gedlkha ebune ndryas\nYelen zmesleka fewase duyan\nBeti gedlkha (4) halifka fts'um jgnnet\n[[/chorus]]\n\nDagmay muse ebune ndryas\nSrnay aryam fewase duyan\nMena zmegebka ebune ndryas\nNkhulom deqkha fewase duyan\nMegbena ikha (4) n'ana hbste hywet\nGobo 'arbe rebu' ebune ndryas\nAzizka bmnet fewase duyan\nMnetka habena ebune ndryas\nNay yordanos may’wn ebune ndryas\nAlo ab debrkha fewase duyan\nAnts'hana ikha (4) kab kwlu bedel hat'iatna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 529,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

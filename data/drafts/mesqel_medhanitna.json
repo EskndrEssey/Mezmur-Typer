@@ -1,0 +1,53 @@
+{
+  "id": "h_gl73h2eyb39",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መስቀል መድኃኒትና",
+    "ti_ro": "መስቀል መድኃኒትና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመስቀል መድኃኒትና ኃይሊ እግዚ አብሔር/2/\nብማኅሌት መኣዲ ብመዝሙር ይወደስ/2/\nወጺኡ መስቀልና  ኃይሊ እግዚአብሔር\nብርሃን ተመሊኡ    >>         >>\nጎይታ ዝቐደሶ       >>         >>\nብወርቃዊ ደሙ    >>         >>\nእሰይ/3/ነቕርብ ዕልልታ\nመስቀል ተረኺቡ ፍረ ጎልጎታ\n[[/chorus]]\n\nኣምላኽና ናትና በደል ኃይሊ እግዚአብሔር\nዝተሰከመሉ             >>         >>\nዝኸበረ ደሙ\n>>         >>\n\nበዓሉ ዘፍሰሰሉ\n>>         >>\nምርኩስ ክርስቲያን   >>         >>\nሰይጣን መባረሪ      >>         >>\nዘደንቕ ማሕተምና ፍሉይ ውህብቶና\nተቐሪጽካ ኢኻ ኣብ ፅላት ልብና\n\nኣርማ ክርስቲያን ኃይሊ እግዚአብሔር\nጸጋ ተመሊኡ       >>         >>\nምስክር ድሕነት’ዩ  >>         >>\nዓለም ኣጋዊሑ     >>         >>\nንዓና እንኣምን ምልክት ድሕነትና\nመስቀል ኃይልና እዩ ኣምላኽ ዝሃበና",
+    "ti_ro": "[[chorus]]\nMesqel medhanitna hayli gzi ebher/2/\nBmahlet meadi bmezmur ywedes/2/\nWets'iu mesqelna  hayli gziebher\nBrhan temeliu    >>         >>\nGoyta zqedeso       >>         >>\nBwerqawi demu    >>         >>\nSey/3/neqrb 'llta\nMesqel terekhibu fre golgota\n[[/chorus]]\n\nAmlakhna natna bedel hayli gziebher\nZtesekemelu             >>         >>\nZkhebere demu\n>>         >>\n\nBe'alu zefseselu\n>>         >>\nMrkus krstiyan   >>         >>\nSeyt'an mebareri      >>         >>\nZedenq mahtemna fluy whbtona\nTeqerits'ka ikha ab ts'lat lbna\n\nArma krstiyan hayli gziebher\nTs'ega temeliu       >>         >>\nMskr dhnet’yu  >>         >>\n'Alem agawihu     >>         >>\nN'ana namn mlkt dhnetna\nMesqel haylna yu amlakh zhabena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 422,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

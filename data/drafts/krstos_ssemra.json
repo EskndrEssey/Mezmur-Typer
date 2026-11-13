@@ -1,0 +1,53 @@
+{
+  "id": "h_78mwuqn2dxv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክርስቶስ ሠምራ",
+    "ti_ro": "ክርስቶስ ሠምራ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብቃል ኪዳንኪ ተማሕጺነ\nስምኪ ጸዊዐ ካብ ሞት ድኂነ\nካብ ሕጂ የለን ሽግር መከራ\nንዓኺ ሒዘ ክርስቶስ ሠምራ\nብሓያል ኪዳንኪ ካብ ሞት ተናግፊ\nንኃጥእ ደጊፍኪ ካብ ሲኦል ተትርፊ\n“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”`\nናይ ምሕረት ልማኖ መሊኡ ልብኺ\nምሕረት ንጸላኢ ካብ ጐይታ ለመንኪ\nከምዚ ዝለመነ ኣብ መላእ ዘመና\nከቶ ኣይሰማዕናን ኦ ቅድስት ኣዴና\n“በትረ ማርያም ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”\n[[/chorus]]\n\nፍጹም ደምሲስክዮ ናይ ጸላኢ ውዲት\nብጽኑዕ ትሕትና ብስግደት ብጸሎት\nዳግም ምስ ሚካኤል ንሰይጣን ስዒርኪ\nካብ ልዑል ፈጣሪ ኣኽሊል ተቐበልኪ\n“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”\nመንፈሳዊት ኣደ ኲሉ እተሥምሪ\nመታን ከይተርፈክስ ንጐይታ ኣዘክሪ\nከምቶም ኣቦታተይ ናባኺ ኣንቃዕሪረ\nምሕረትኪ እጽበ ኪዳንኪ ዘኪረ\n“በትረ ማርያም ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”",
+    "ti_ro": "[[chorus]]\nBqal kidanki temahts'ine\nSmki ts'ewi'e kab mot dhine\nKab hji yelen shgr mekera\nN'akhi hize krstos Ssemra\nBhayal kidanki kab mot tenagfi\nNhat' degifki kab siol tetrfi\n“Krstos Ssemra redaitey amaladitey\nMhret lemni kab amlakhey”`\nNay mhret lmano meliu lbkhi\nMhret nts'elai kab gwayta lemenki\nKemzi zlemene ab mela zemena\nKeto aysema'nan o qdst adena\n“Betre maryam redaitey amaladitey\nMhret lemni kab amlakhey”\n[[/chorus]]\n\nFts'um demsiskyo nay ts'elai wdit\nBts'nu' thtna bsgdet bts'elot\nDagm ms mikael nseyt'an s'irki\nKab l'ul fet'ari akhlil teqebelki\n“Krstos Ssemra redaitey amaladitey\nMhret lemni kab amlakhey”\nMenfesawit ade kwilu tessmri\nMetan keyterfeks ngwayta azekri\nKemtom abotatey nabakhi anqa'rire\nMhretki ts'be kidanki zekire\n“Betre maryam redaitey amaladitey\nMhret lemni kab amlakhey”",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 168,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

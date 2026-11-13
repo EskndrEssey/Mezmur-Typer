@@ -1,0 +1,53 @@
+{
+  "id": "h_7t9ew10dgyz",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ለዋህ ፈቃር ኢኻ",
+    "ti_ro": "ለዋህ ፈቃር ኢኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nለዋህ ፈቃር ኢኻ ንኃጥኣን ተፍቅር\nናብ ቤቶም ትኣቱ ኣብ መኣዶም ትነብር\nዜናኻ ሰሚዕና ኣብዚ ጽርሐ መቕደስካ\nናባይ ንዑ ዝብል ቅዱስ ደሃይካ\nሶበ ሰማዕነ ዜናከ /3/ መጻእነ ሃቤከ\nመቓልሕ ሰሚዐ ኣብ ኣጸድካ ኣብ ቅዱስ መቕደስካ\nስብሓት ጸኒሑኒ ተኣምራትካ ዜና ውዳሴኻ\nበዚ ይሓልፍ ኣሎ ምስ በሉኒ ክርኢ ንዓኻ\nኣብ ሳግላ ሓዅረ ኣማዕደኹ ነቲ ብርሃን ገጽካ\nቃላትካ ሰሚዐ መኔ ቴቄል ኦፋርሲን ተባህለ\nሕይወተይ ኣብ ሚዛን ተመዚኑ ኣዝዩ ምስ ቀለለ\nንሜዶን ንፋርስ ንባርነት ተዋህበት መንግስተይ\nአምላኽ ግን ብምሕረት መሊስካያ ነታ ውልድነተይ\n[[/chorus]]\n\nህንጻኻ ከፍርስ ተላዒለ መዶሻ ኣልዒለ\nኣውታር ናይ ብርሃንካ ኣንጸብሪቑ ኣዕይንተይ ኣዕወረ\nሳውል ግደፍ ደኣ ኣይትጋገ ኣይተሳድደኒ\nደጊም ጳውሎስ ኢኻ ሕሩይ ኣቕሓይ ስመይ ጹር በልካኒ",
+    "ti_ro": "[[chorus]]\nLewah feqar ikha nhat'an tefqr\nNab betom tatu ab meadom tnebr\nZenakha semi'na abzi ts'rhe meqdeska\nNabay n'u zbl qdus dehayka\nSobe sema'ne zenake /3/ mets'ane habeke\nMeqalh semi'e ab ats'edka ab qdus meqdeska\nSbhat ts'enihuni teamratka zena wdasekha\nBezi yhalf alo ms beluni kri n'akha\nAb sagla hakhwre ama'dekhu neti brhan gets'ka\nQalatka semi'e mene teqel ofarsin tebahle\nHywetey ab mizan temezinu azyu ms qelele\nNmedon nfars nbarnet tewahbet mengstey\nEmlakh gn bmhret meliskaya neta wldnetey\n[[/chorus]]\n\nHnts'akha kefrs tela'ile medosha al'ile\nAwtar nay brhanka ants'ebriqu a'yntey a'were\nSawl gdef dea aytgage aytesaddeni\nDegim p'awlos ikha hruy aqhay smey ts'ur belkani",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 370,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_23z5mw9254i",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱስ ሚካኤል",
+    "ti_ro": "ቅዱስ ሚካኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣኽናፍካ ይዘርጋሕ ቀቅድሜና ምራሕ /2/\nቅዱስ ሚካኤል /3/ ናይ እስራኤል መሪሕ /2/\nኣብ ሓቀኛ መጽሓፍ ዝተጻሕፈ ኵሉ\nከፍልጠና በለ ዳንኤል ከምዚ ኢሉ\nዝረድኣኒ ነዓይ መስፍን ናይ እስራኤል\nሚካኤል’ዩ ዝሕልወኒ ሚካኤል’ዩ\nዘጽንዓኒ መልኣኽ ናይቲ ልዑል\n[[/chorus]]\n\nከም ዳንኤል ንኹን ንፍለጥ ረድኤቱ\nቅድሜና ንግበሮ ክንወፍር ክንኣቱ\nንነቢይ ሙሴ ከም ዝበሎ ኣምላኽ\nቀቅድሜኻ መልኣኸይ ኣሎ\nከተመቅሮ ሃሉ ኣብ ቅድሜና\nከይንዕንቀፍ ኣኽናፍካ ዘርግሕ\nባልሃና ካብቲ ዘፍርሕ ዘይድንግጽ ዘይርህርህ\n\nኣብ በረኻ ሲና ኣብቲ ናይ ትማሊ\nንሕዝቢ እስራኤል ዝኾንካ መጽለሊ\nሎሚ’ ውን ከምኡ ቅዱስ ሚካኤል\nክትድግፎም ነሕዋትና ኩሎም\nንዘለዉ ዓቕሎም ኣጽቢቦም ርድኣዮም /2/",
+    "ti_ro": "[[chorus]]\nAkhnafka yzergah qeqdmena mrah /2/\nQdus mikael /3/ nay srael merih /2/\nAb haqenya mets'haf ztets'ahfe kwlu\nKeflt'ena bele danel kemzi ilu\nZredani ne'ay mesfn nay srael\nMikael’yu zhlweni mikael’yu\nZets'n'ani melakh nayti l'ul\n[[/chorus]]\n\nKem danel nkhun nflet' redetu\nQdmena ngbero knwefr knatu\nNnebiy muse kem zbelo amlakh\nQeqdmekha melakhey alo\nKetemeqro halu ab qdmena\nKeyn'nqef akhnafka zergh\nBalhana kabti zefrh zeydngts' zeyrhrh\n\nAb berekha sina abti nay tmali\nNhzbi srael zkhonka mets'leli\nLomi’ wn kemu qdus mikael\nKtdgfom nehwatna kulom\nNzelewu 'aqlom ats'bibom rdayom /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 317,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

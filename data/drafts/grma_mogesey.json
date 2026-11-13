@@ -1,0 +1,53 @@
+{
+  "id": "h_lu2zk6aosbt",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ግርማ ሞገሰይ",
+    "ti_ro": "ግርማ ሞገሰይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nግርማ ሞገሰይ ኢኺ ኣደ ጐይታይ\nሰረት እምነት መትከል ተዋሕዶይ\nኣማላድነትኪ ንዓይ ረዲኡኒ\nፍቕርኺ ከመስግን ገዲዱኒ/2/\nልበይ ህዱእ ኣይርበሽን\nኣይፈራረቕን ኣይጐድልን\nኢድኪ ኣንቢርክለይ ኢድኪ ሰላም\nኣይጭነቕን ኣነ ንዘለዓለም /2/\n[[/chorus]]\n\nንኸሰስተይ እናረታዕኺ\nነቲ ዓማጺ’ውን እናሞገትኪ\nደጊፍክኒ ኢኺ ኣብ ዘመነይ\nውዕለትኪ ድንግለይ በዚኁለይ\nውዕለትኪማርያመይ በዚኁለይ\nንምስጢረይ እትፈልጢ\nውሽጣዊ ኃዘነይ እትልውጢ\nዓወት ብምርካበይ ተሸበሩ\nእቶም ጸላእተይ ፍጹም ተሰዓሩ /2/",
+    "ti_ro": "[[chorus]]\nGrma mogesey ikhi ade gwaytay\nSeret mnet metkel tewahdoy\nAmaladnetki n'ay rediuni\nFqrkhi kemesgn gediduni/2/\nLbey hdu ayrbeshn\nAyferareqn aygwadln\nIdki anbirkley idki selam\nAych'neqn ane nzele'alem /2/\n[[/chorus]]\n\nNkhesestey nareta'khi\nNeti 'amats'i’wn namogetki\nDegifkni ikhi ab zemeney\nW'letki dngley bezihuley\nW'letkimaryamey bezihuley\nNmst'irey tfelt'i\nWsht'awi hazeney tlwt'i\n'Awet bmrkabey tesheberu\nTom ts'elatey fts'um tese'aru /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 170,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

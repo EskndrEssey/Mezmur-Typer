@@ -1,0 +1,54 @@
+{
+  "id": "h_cb7m569y7ug",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ገሊላ እተዊ",
+    "ti_ro": "ገሊላ እተዊ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተሰዲድኪ እትነብሪ\nገሊላ እተዊ /4/ ናብ ሃገርኪ ገሊላ እተዊ\nድንግል ማርያም ኣደይ  ገሊላ እተዊ\nስደት ይኣኽለኪ           >>   >>\nሄሮድስ ምስ ሞተ         >>   >>\nገብርኤል ኢሉኪ         >>   >>\nናብ ሃገርኪ ንዒ           >>   >>\nካብ ባዕድ ሃገር ውጺ     >>    >>\nብሰረገላ እሳት              >>   >>\nዑራኤል ቅድሜኺ        >>   >>\nናብ ሃገርኪ ገሊላ እተዊ /2/\n[[/chorus]]\n\nንጐይታ ዝናማት      ገሊላ እተዊ\nኣዲኡ እንከለኺ          >>   >>\nሰይጣን ኣብ ሰብ ኮይኑ  >>  >>\nንማይ ከልኪሉኪ        >>  >>\nጽምእኺ ጸኒዑ           >>  >>\nመከራ በርቲዑ           >>  >>\nይኣክል መከራ           >>   >>\nጽምኢ ጥሜት ኵሉ     >>   >>\nናብ ገሊላ ንዒ           >>   >>\nንስደት ባሪኽኪ          >>   >>\nናብ ሃገርኪ ገሊላ እተዊ/2/\nናይ ሰማእታት ኣኽሊል  ገሊላ እተዊ\nሞገስ ናይ ቅዱሳን         >>   >>\nናባይ’ውን ይብጻሕ        >>   >>\nቲ’ናትኪ በረኸት          >>   >>\nንዓኺ እመብርሃን         >>   >>\nንወላዲተ ቃል             >>   >>\nናብ ሃገርኪ ገሊላ እትዊ /2/",
+    "ti_ro": "[[chorus]]\nTesedidki tnebri\nGelila tewi /4/ nab hagerki gelila tewi\nDngl maryam adey  gelila tewi\nSdet yakhleki           >>   >>\nHerods ms mote         >>   >>\nGebrel iluki         >>   >>\nNab hagerki n'i           >>   >>\nKab ba'd hager wts'i     >>    >>\nBseregela sat              >>   >>\n'Urael qdmekhi        >>   >>\nNab hagerki gelila tewi /2/\n[[/chorus]]\n\nNgwayta znamat      gelila tewi\nAdiu nkelekhi          >>   >>\nSeyt'an ab seb koynu  >>  >>\nNmay kelkiluki        >>  >>\nTs'mkhi ts'eni'u           >>  >>\nMekera berti'u           >>  >>\nYakl mekera           >>   >>\nTs'mi t'met kwlu     >>   >>\nNab gelila n'i           >>   >>\nNsdet barikhki          >>   >>\nNab hagerki gelila tewi/2/\nNay sematat akhlil  gelila tewi\nMoges nay qdusan         >>   >>\nNabay’wn ybts'ah        >>   >>\nTi’natki berekhet          >>   >>\nN'akhi mebrhan         >>   >>\nNweladite qal             >>   >>\nNab hagerki gelila twi /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 15,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_1_possible_page_split"
+    ]
+  }
+}

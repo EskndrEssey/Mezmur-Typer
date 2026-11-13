@@ -1,0 +1,53 @@
+{
+  "id": "h_j8daqon1l4c",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዮም ፍሥሐ ኮነ",
+    "ti_ro": "ዮም ፍሥሐ ኮነ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበእንተ መርዓት ለመርዓዊሃ\nቆይሙ መሰረቶም     ፍሥሐ ኮነ\nብእምነት ተሃኒጾም     >>   >>\nብርሃን ይረአ’ሎ        >>   >>\nገዝኦም መሊእሎም    >>   >>\n[[/chorus]]\n\nመኣዶም ተባሪኹ     ፍሥሐ ኮነ\nጽዋኡ መሊኡ         >>  >>\nብድኻም ዝዘርእዎ     >>  >>\nሎሚ በዚሕሎም      >>  >>\nብሥጋ ወደሙ        ፍሥሐ ኮነ\nተጸምደ ስጋኦም       >>   >>\nምሒሎም ብቓሉ      >>  >>\nማንም ከይፈላልዮም  >>  >>\n\nሰረገላ እምነት      ፍሥሐ ኮነ\nተሰቒሎም በጽሑ     >>   >>\nልብሲ ቅድስና       >>  >>\nተኸዲኖም በርሁ   >>  >>",
+    "ti_ro": "[[chorus]]\nBente mer'at lemer'awiha\nQoymu meseretom     fsshe kone\nBmnet tehanits'om     >>   >>\nBrhan yree’lo        >>   >>\nGezom melilom    >>   >>\n[[/chorus]]\n\nMeadom tebarikhu     fsshe kone\nTs'wau meliu         >>  >>\nBdkham zzerwo     >>  >>\nLomi bezihlom      >>  >>\nBssga wedemu        fsshe kone\nTets'emde sgaom       >>   >>\nMhilom bqalu      >>  >>\nManm keyfelalyom  >>  >>\n\nSeregela mnet      fsshe kone\nTeseqilom bets'hu     >>   >>\nLbsi qdsna       >>  >>\nTekhedinom berhu   >>  >>",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 438,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

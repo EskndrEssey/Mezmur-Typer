@@ -1,0 +1,53 @@
+{
+  "id": "h_0j43oj4jgkf",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣይረሳዕካንን",
+    "ti_ro": "ኣይረሳዕካንን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nገዲፈካ ኣይገደፍካንን\nረሲዐካስ ኣይረሳዕካንን\nምሳይ ኔርካ ሕያው ኣምላኸይ\nሎሚ ረኺበካ ኣፍሲሰ ንብዓተይ\nምልኣት መሲሉኒ እቲ ባዶነተይ\nኣብ ሓይለይ ጌረዮ ንዅሉ ትውክልተይ\nዘይምንባር ምሳኻ ሓጢኣት በዚሑኒ\nንኸንቱ’የ ጎየ ገለ ዘይጠቕመኒ\n[[/chorus]]\n\nሰላመይ ጠፊኡ ጭንቀተይ ዓዚዙ\nናብራ መሪሩኒ ብርሃነይ ደብዚዙ\nኣብ ዘይፈለጥኩኻ ምሕረትካ ውሒዙ\nመሪሑኒ ቤትካ በኣእዳወይ ሒዙ\nምስጢርካ ክፈልጥ ነቲ ዘይብጻሕ\nተመራሚረ’የ ገናጺለ ብዙሕ\nንበይነይ ዛዊነ ንስኻ ዘይብሉ\nሕይወተይ ምዃንካ መዓስ ኣቕሊበሉ",
+    "ti_ro": "[[chorus]]\nGedifeka aygedefkann\nResi'ekas ayresa'kann\nMsay nerka hyaw amlakhey\nLomi rekhibeka afsise nb'atey\nMlat mesiluni ti badonetey\nAb hayley gereyo nkhwlu twkltey\nZeymnbar msakha hat'iat bezihuni\nNkhentu’ye goye gele zeyt'eqmeni\n[[/chorus]]\n\nSelamey t'efiu ch'nqetey 'azizu\nNabra meriruni brhaney debzizu\nAb zeyfelet'kukha mhretka whizu\nMerihuni betka beadawey hizu\nMst'irka kfelt' neti zeybts'ah\nTemeramire’ye genats'ile bzuh\nNbeyney zawine nskha zeyblu\nHywetey mkhwanka me'as aqlibelu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 283,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

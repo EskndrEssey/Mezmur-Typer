@@ -1,0 +1,54 @@
+{
+  "id": "h_1j0azysm072",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከም ኣባ ሕርያቆስ",
+    "ti_ro": "ከም ኣባ ሕርያቆስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከም ኣባ ሕርያቆስ ልሳን ዓድልኒ\nስምኪ ንኽውድስ ጸጋኺ ሃብኒ\nጎስዐ ልብየ ኢለ ክጅምር ምስጋና\nንውዳሴኺ ክቓኒ በገና\nንውዳሴኺ ድንግል ክቓኒ በገና\nስምኪ ምስ ጸዋዕኩ ኣብ ጊዜ ጸበባይ\nተኻፋሊት ምስጢር ናተይ ናይ ብሕተይ\nንዅሉ ፈጸምኪ ተስፋ ናይ ሕይወተይ\nቃላት ይሓጽረኒ ክገልጾ ብኣፈይ\nኣብ ማእሰርቲ ኃጢኣት ኣብ ዝረኣኽኒ\nንዓይ ንውሉድኪ ኃጢኣት ዝበዝሓኒ\nሓይሊ ናይ ስምኦን’ውን ምስ ኣናወጾም\nከም ዳታን ኣቤሮን መሬት ወሓጠቶም\nብምንታይ ክገልጾ ነቲ ርህራሄኺ\nኣባይ ዝተፈጸመ ‘ቲ ሓያል ፍቕርኺ\nከም ዘይተሕፍርዮም ነቶም ወገናትኪ\nብዓይነይ ርእየዮ ‘ቲ ፍሉይ ፍቕርኺ\nከመይ ‘ሉ ኮነለይ እዚ ክቡር ዕጫ\nብኣኺ ኣደ ጐይታ ነፍሰይ ተመሪጻ\nእንታይ ኣሎ እዩ’ሞ ካብዚ ዝበለጸ\nኣብ ሕቑፎኺ ይነብር ብኣኺ ዝተመርጸ\nንዅሉ ውዕለትኪ ብኣፈይ ክነግር\nከምቶም ኣቦታተይ ብትብዓት ክምስክር\nኣማናዊት ጽዮን ድንግል ማርያም\nልሳን ዓድልኒ ክነግራ ንዓለም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nKem aba hryaqos lsan 'adlni\nSmki nkhwds ts'egakhi habni\nGos'e lbye ile kjmr msgana\nNwdasekhi kqani begena\nNwdasekhi dngl kqani begena\nSmki ms ts'ewa'ku ab gize ts'ebebay\nTekhafalit mst'ir natey nay bhtey\nNkhwlu fets'emki tesfa nay hywetey\nQalat yhats'reni kgelts'o bafey\nAb maserti hat'iat ab zreakhni\nN'ay nwludki hat'iat zbezhani\nHayli nay smon’wn ms anawets'om\nKem datan aberon meret wehat'etom\nBmntay kgelts'o neti rhrahekhi\nAbay ztefets'eme ‘ti hayal fqrkhi\nKem zeytehfryom netom wegenatki\nB'ayney ryeyo ‘ti fluy fqrkhi\nKemey ‘lu koneley zi kbur 'ch'a\nBakhi ade gwayta nefsey temerits'a\nNtay alo yu’mo kabzi zbelets'e\nAb hqufokhi ynebr bakhi ztemerts'e\nNkhwlu w'letki bafey knegr\nKemtom abotatey btb'at kmskr\nAmanawit ts'yon dngl maryam\nLsan 'adlni knegra n'alem\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 253,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

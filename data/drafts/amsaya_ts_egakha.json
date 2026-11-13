@@ -1,0 +1,53 @@
+{
+  "id": "h_7dey0cnje8d",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣምሳያ ጸጋኻ",
+    "ti_ro": "ኣምሳያ ጸጋኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣምሳያ ጸጋኻ ወትሩ ዝዕደሎ\nመለሳ ብርሃንካ ንነፍሰይ ዝዓስሎ\nስለቲ ፍቕርኻ ምኾነ ንማለት\nበገናይ ኣልዒለ መሰንቆ መለኸት\nብመዝሙር ምስጋና ክኸፍቶ ልሳነይ\nክፍሳህ ክሕጎስ ብኣኻ ኣምላኸይ\nምሕረትካ ዓዚዙ በዚሑ ሰላመይ\nኣብ ስቕታ ካብ ምንባር ድኂና’ያ ነፍሰይ /2/\n[[/chorus]]\n\nኃጥእ እንክነሰይ ረሲእ መላገጺ\nንስለ ድሕነተይ ተኪእኻ ዓማጺ\nልበይ ዝኣዘዞ ልሳነይ ቃላቱ\nስምካ ክውድስ’ዩ ዕቤትካ ከዘንቱ /2/\n\nክበረለይ ጐይታይ ኣምላኸይ ተመስገን\nፍቓድ ልብኻ’ዩ ምንባረይ ዝውስን\nቃልካ’ዩ መዝሙረይ ሕማመይ ዝፍውስ\nወሃቢ ንሩፍታ ኣእምሮይ ዘሐድስ /2/",
+    "ti_ro": "[[chorus]]\nAmsaya ts'egakha wetru z'delo\nMelesa brhanka nnefsey z'aslo\nSleti fqrkha mkhone nmalet\nBegenay al'ile mesenqo melekhet\nBmezmur msgana kkhefto lsaney\nKfsah khgos bakha amlakhey\nMhretka 'azizu bezihu selamey\nAb sqta kab mnbar dhina’ya nefsey /2/\n[[/chorus]]\n\nHat' nknesey resi melagets'i\nNsle dhnetey tekikha 'amats'i\nLbey zazezo lsaney qalatu\nSmka kwds’yu 'betka kezentu /2/\n\nKbereley gwaytay amlakhey temesgen\nFqad lbkha’yu mnbarey zwsn\nQalka’yu mezmurey hmamey zfws\nWehabi nrufta amroy zeheds /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 287,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

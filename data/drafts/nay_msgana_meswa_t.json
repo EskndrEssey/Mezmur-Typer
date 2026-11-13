@@ -1,0 +1,53 @@
+{
+  "id": "h_l547ua0ow1k",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ምስጋና መስዋዕት",
+    "ti_ro": "ናይ ምስጋና መስዋዕት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ምስጋና መስዋዕት ማኅሌት ውዳሴ\nይግባእ ንኽብሩ ንቅድስት ሥላሴ /2/\nንሰብ ዝፈጠረ ብኣምሳሉ ጌሩ\nስጋ ዘዳለወ ኣዕጽምቲ ሰዂዑ\nንዝፈጠረና ብከሃልነቱ\nክንዝምር ኢና ስለ ጐይትነቱ /2/\n[[/chorus]]\n\nንሰማይ ዝሰርሐ ብዓቢይ ጥበቡ\nምድሪ ዝዘርግሐ ብቕዱስ ሓሳቡ\nቤቱ እንክዕጠን መፍርሕ ሕልፍኝኡ\nመላእኽቲ ዘመሩ ቅኔ እናቃነዩ /2/\n\nሓዊ ኣዳራሹ ማይ እዩ ጠፈሩ\nምድሪ መርገጽ እግሩ ሰማይ እዩ መንበሩ\nክቕደስ ይነብር ብሰማይ መንበሩ\nውዳሴ ዝማሬ ይግባእ ንኽብሩ /2/",
+    "ti_ro": "[[chorus]]\nNay msgana meswa't mahlet wdase\nYgba nkhbru nqdst Sslase /2/\nNseb zfet'ere bamsalu geru\nSga zedalewe a'ts'mti sekhwi'u\nNzfet'erena bkehalnetu\nKnzmr ina sle gwaytnetu /2/\n[[/chorus]]\n\nNsemay zserhe b'abiy t'bebu\nMdri zzerghe bqdus hasabu\nBetu nk't'en mefrh hlfnyu\nMelakhti zemeru qne naqaneyu /2/\n\nHawi adarashu may yu t'eferu\nMdri mergets' gru semay yu menberu\nKqdes ynebr bsemay menberu\nWdase zmare ygba nkhbru /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 373,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

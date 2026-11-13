@@ -1,0 +1,53 @@
+{
+  "id": "h_rl5phdr0hwi",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ዝባነ ኪሩብ",
+    "ti_ro": "ኣብ ዝባነ ኪሩብ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ዝባነ ኪሩብ ዝቕመጥ ከቢሩ\nብነበልባል እሳት ዝተሓጽረ ቀጽሩ\nዘምሩ ንእግዚአብሔር ንጐይታ ዘምሩ\nዝኸበረ እዩ ኣብ ሰማይ ኣብ ምድሩ /2/\n[[/chorus]]\n\nኢሳይያስ ርእዩ ብዙሕ ሓፈረ\nዝተፈርሐ እዩ ዝተኸብረ\nበል ፍቐደልና በቲ ፍቕርኻ\nቤትካ ክንኣቱ ንምስጋናኻ\n\nዙፋንካ ርእየ ኣምላኸይ ጐይታይ\nከመስግኑኻ ኣብ ላዕላይ ሰማይ\nዝተሓጎሰ እንከመስግነካ\nዘኽታም ኣይኹን እንበር ኣብ ቤትካ\nቅኔ ውዳሴ ኣብ ዝመልኦ ቤት\nክሕወስ ጐይታ ነፍሰይ በሃገት\nክዝምር ተዘይ-ተገብኣኒ\nስቕ ትብል ልሳን ኣይዓደልካንን",
+    "ti_ro": "[[chorus]]\nAb zbane kirub zqmet' kebiru\nBnebelbal sat ztehats're qets'ru\nZemru ngziebher ngwayta zemru\nZkhebere yu ab semay ab mdru /2/\n[[/chorus]]\n\nIsayyas ryu bzuh hafere\nZteferhe yu ztekhebre\nBel fqedelna beti fqrkha\nBetka knatu nmsganakha\n\nZufanka rye amlakhey gwaytay\nKemesgnukha ab la'lay semay\nZtehagose nkemesgneka\nZekhtam aykhun nber ab betka\nQne wdase ab zmelo bet\nKhwes gwayta nefsey behaget\nKzmr tezey-tegebani\nSq tbl lsan ay'adelkann",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 25,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

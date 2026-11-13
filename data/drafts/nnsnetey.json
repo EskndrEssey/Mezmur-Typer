@@ -1,0 +1,53 @@
+{
+  "id": "h_7udr8n5mx9y",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንንእስነተይ",
+    "ti_ro": "ንንእስነተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንንእስነተይ ናብ ቤትካ ዘእተኻ\nካብ ሓላፊ ነገር ባርያኻ ዝኸወልካ\nኣምላከ እስራኤል ከመስግነካ\nምስጋና ውዳሴ ይኹን ነዓኻ\nነዓኻ ሒዘ ምስ ሓያል ገጢመ\nስምካ እናጸዋዕኩ ንጎልያድ ኣውዲቐ\nብደመና ሰማይ ቃል ኣምላኽ መጸኒ\nኃረይኩከ እምከርሰ እምከ በለኒ\nዕሸል ልሳነይ ፊደል ከይቆጸረ\nልበይ ብንኡሱ ኣባኻ ከበረ\nኣብ መቕደስ ክብርኻ ዘልዓለም ደው ክብል\nሳሙኤል’ዩ ነይሩ ጻውዒትካ ክዝክር\n[[/chorus]]\n\nሰዊርካኒ’ኻ ካብ ጓይላን ዓለምን\nናይ ንእስነት ዕብዳን ኣሕሊፍካ ኣይሃብካንን\nኣብ ቤትካ ኣስፊርካኒ ነዓኻ ከመስግን\nቅዱስ ኢኻ ዝወዳደረካ’ውን የለን",
+    "ti_ro": "[[chorus]]\nNnsnetey nab betka zetekha\nKab halafi neger baryakha zkhewelka\nAmlake srael kemesgneka\nMsgana wdase ykhun ne'akha\nNe'akha hize ms hayal get'ime\nSmka nats'ewa'ku ngolyad awdiqe\nBdemena semay qal amlakh mets'eni\nHareykuke mkerse mke beleni\n'Shel lsaney fidel keyqots'ere\nLbey bnusu abakha kebere\nAb meqdes kbrkha zel'alem dew kbl\nSamuel’yu neyru ts'aw'itka kzkr\n[[/chorus]]\n\nSewirkani’kha kab gwaylan 'alemn\nNay nsnet 'bdan ahlifka ayhabkann\nAb betka asfirkani ne'akha kemesgn\nQdus ikha zwedadereka’wn yelen",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 192,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

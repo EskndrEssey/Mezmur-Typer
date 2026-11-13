@@ -1,0 +1,54 @@
+{
+  "id": "h_v7m1hacy8fq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣማናዊት ጽዮን",
+    "ti_ro": "ኣማናዊት ጽዮን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድምጺ ሰላምታኺ ኣደየ ኣእዛነይ ሰምዓ\nእንምሕጸነልኪ ከተማ ድኻታት\nተሓሊኺ ኔርኪ ብግርማ መለኮት\nከጽልል ክመጽእ ድንግል ፍቐድለይ\nጸላእየይ ሰይጣን ከይጻወተለይ (2)\n[[/chorus]]\n\nኣይጠፍእን ኪዳንኪ ዘይዓኑ ማሕላ\nፈጺማ ኣይትወድቕ ወድኺ ዝበላ\nእግስግስ ኣለኩ ናብ ኣፍደጌታትኪ\nከጸናንዓኒ መሓሪ ወድኺ (2)\nኲናት ጸላእየይ ፈጺሙ ተሰብረ\nደብዳቤ ናይ ሞተይ ብመስቀል ተሳዕረ\nሕይወተይ ዘፍረኺ ኢኺ’ሞ ምኽንያተይ\nፈጺመ ኣይሓፈርኩን ኣብ ቅድሚ ከሰስተይ (2)\n\nኣይስልችወንን’ዩ ቅድሜኺ እቐውም\nእጸግብ እረዊ እንኪጽውዕ ናትኪ ስም\nድኻመይ ቀሊሉ እንክኣቱ ቤተይ\nክዝክረኪ’የ ድንግል ኣደ ጐይታይ (2)\n\nዘማሪ ይልማ ሃይሉ",
+    "ti_ro": "[[chorus]]\nDmts'i selamtakhi adeye azaney sem'a\nNmhts'enelki ketema dkhatat\nTehalikhi nerki bgrma melekot\nKets'll kmets' dngl fqedley\nTs'elayey seyt'an keyts'aweteley (2)\n[[/chorus]]\n\nAyt'efn kidanki zey'anu mahla\nFets'ima aytwedq wedkhi zbela\nGsgs aleku nab afdegetatki\nKets'enan'ani mehari wedkhi (2)\nKwinat ts'elayey fets'imu tesebre\nDebdabe nay motey bmesqel tesa're\nHywetey zefrekhi ikhi’mo mkhnyatey\nFets'ime ayhaferkun ab qdmi kesestey (2)\n\nAyslchwenn’yu qdmekhi qewm\nTs'egb rewi nkits'w' natki sm\nDkhamey qelilu nkatu betey\nKzkreki’ye dngl ade gwaytay (2)\n\nZemari ylma haylu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 68,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_3_possible_page_split"
+    ]
+  }
+}

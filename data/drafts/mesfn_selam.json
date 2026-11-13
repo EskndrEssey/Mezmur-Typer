@@ -1,0 +1,53 @@
+{
+  "id": "h_iddv55mb3pb",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መስፍን ሰላም",
+    "ti_ro": "መስፍን ሰላም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልዑል እግዚአብሔር ዝፋንካ ጸባኦት\nመላእክት ዘብጽሑልካ ስብሓት ኮነ ጸሎት\nተለመን ኣምላኸይ ናይ ድኅነት ጐይታ\nኣነ በዓል ኣበሳ ዝረኽበሉ ጸጋ\nብግብረይ ክጽዋዕ ክነብር ከቢረ\nፍርሓት ለኣኸለይ ከመስግን ቀዲመ\nመስፍን ሰላም ክብል ዓቢይ ስም ክጠቅስ\nሳላ ውዕለትካ ሓጢኣተይ ክነቅስ\n[[/chorus]]\n\nብስደት ክራማት ጉዕዞይ ከይጸልመተ\nጸላኢ ሠናያት ነዓይ ከይጨመተ\nናይ ሰማይ ሓዲገ ከይሓስብ ምድራዊ\nምሕረትካ ጠሚተ ሕያዋይ ሳምራዊ\n\nብፍጡን ሳህልኻ ዘይሓለፈት ናብራ\nዘበት’ዩ ክርህዋ ቀዱዩላ ንቡራ\nመስፍን ሰላም ኢኻ ቀላሲ ናይ ፍጥረት\nሕይወተይ ዓቅባ ከይትሰግሮ ደረት",
+    "ti_ro": "[[chorus]]\nL'ul gziebher zfanka ts'ebaot\nMelakt zebts'hulka sbhat kone ts'elot\nTelemen amlakhey nay dhnet gwayta\nAne be'al abesa zrekhbelu ts'ega\nBgbrey kts'wa' knebr kebire\nFrhat leakheley kemesgn qedime\nMesfn selam kbl 'abiy sm kt'eqs\nSala w'letka hat'iatey kneqs\n[[/chorus]]\n\nBsdet kramat gu'zoy keyts'elmete\nTs'elai Ssenayat ne'ay keych'emete\nNay semay hadige keyhasb mdrawi\nMhretka t'emite hyaway samrawi\n\nBft'un sahlkha zeyhalefet nabra\nZebet’yu krhwa qeduyula nbura\nMesfn selam ikha qelasi nay ft'ret\nHywetey 'aqba keytsegro deret",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 296,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

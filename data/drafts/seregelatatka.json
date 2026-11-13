@@ -1,0 +1,53 @@
+{
+  "id": "h_rk0gl9tvu2d",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰረገላታትካ",
+    "ti_ro": "ሰረገላታትካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰረገላታትካ ነበልባልዮም\nጭፍራታት ሌጌዎን ዘይክእልዎም\nደጌታት ናይ ሲኦል ዘይዓግትዎም\nድፋዕ ጸላእትና ብቃሉ ይፈርስ\nቲ’ምሳና ዘሎ ካብኣቶም ይበልጽ\n[[/chorus]]\n\nካብ ኣኽራን ናይ ቴማን ካብ ፋራን እንኪወርድ\nጸላኢ ይሽበር ብድምጺ ነጎድጓድ\nሳምሶም ብጸላእቲ ፍጹም ምስ ተታሕዘ\nብመንጋጋ ኣድጊ ሽሕ ሰብኣይ ቀተለ\nንሰረት ‘ቲ ማዕሙቕ ብንፋስ ኣሰረ\nኣብ ልዕሊ ሰማያት ዝፋኑ ገበረ\nልምሉም ስየ ሒዝኩም ንዑ ናብ መቕደሱ\nበቲ ቅዱስ ስርዓት ፍጹም ክትቅደሱ\n\nቁጽሪ ጸላእትና ኣእላፍ እንተኾነ\nሴፍ ኣይነልዕልን ንክንፈዲ ሕነ\nኣምላኽና ክሕጎስ እንጌራ መጊብና\nክንፍንዎም ኢና ቂም በቐል ገዲፍና",
+    "ti_ro": "[[chorus]]\nSeregelatatka nebelbalyom\nCh'fratat legewon zeyklwom\nDegetat nay siol zey'agtwom\nDfa' ts'elatna bqalu yfers\nTi’msana zelo kabatom ybelts'\n[[/chorus]]\n\nKab akhran nay teman kab faran nkiwerd\nTs'elai yshber bdmts'i negodgwad\nSamsom bts'elati fts'um ms tetahze\nBmengaga adgi shh sebay qetele\nNseret ‘ti ma'muq bnfas asere\nAb l'li semayat zfanu gebere\nLmlum sye hizkum n'u nab meqdesu\nBeti qdus sr'at fts'um ktqdesu\n\nQuts'ri ts'elatna alaf ntekhone\nSef aynel'ln nknfedi hne\nAmlakhna khgos ngera megibna\nKnfnwom ina qim beqel gedifna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 103,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

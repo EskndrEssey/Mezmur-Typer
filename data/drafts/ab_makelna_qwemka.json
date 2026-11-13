@@ -1,0 +1,53 @@
+{
+  "id": "h_eoxp04us8hs",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ማእከልና ቌምካ",
+    "ti_ro": "ኣብ ማእከልና ቌምካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕልል /2/ ንበል ብናይ ኣርያም ዝማሬ\nህዝበይ ኢልካ ጐይታ ከይረኣኻ ፍረ\nኣብ ማእከልና ቆይምካ ኣምላኽና ክትከውን\nብሽግር መከራ ሥጋና እንተ ማኅመነት\nውሽጥና ይሕደስ በቲ ናትካ ምሕረት /2/\n[[/chorus]]\n\nመስፍን ሰላም ኢኻ ሰላም እተስፍን\nከም ብዝሒ በደልና ፍጹም ዘትጭክን\nሠራይ ኃጢኣትና ከሎኻና ኣልፋ\nኵሉሳዕ ነመስግን ተመሊእና ተስፋ  /2/\nእንምክሓሉ እግዚአብሔር ኣሎና\nንሕና እንተወደቕና ንሱ የልዕለና\nኣብ ሰማይን ምድርን ምሉእ ምስጋናኡ\nመን ኣሎ ከም ጐይታ ፍቕሪ ዝባኅሪኡ   /2/\n\nመስፍን ሰላም ኢኻ ሰላም እተስፍን\nከም ብዝሒ በደልና ፍጹም ዘይትጭክን\nሠራይ ኃጢኣትና ከሎኻና ኣልፋ\nኵሉሳዕ ነመስግን ተመሊእና ተስፋ  /2/",
+    "ti_ro": "[[chorus]]\n'Ll /2/ nbel bnay aryam zmare\nHzbey ilka gwayta keyreakha fre\nAb makelna qoymka amlakhna ktkewn\nBshgr mekera Ssgana nte mahmenet\nWsht'na yhdes beti natka mhret /2/\n[[/chorus]]\n\nMesfn selam ikha selam tesfn\nKem bzhi bedelna fts'um zetch'kn\nSseray hat'iatna kelokhana alfa\nKwlusa' nemesgn temelina tesfa  /2/\nNmkhalu gziebher alona\nNhna ntewedeqna nsu yel'lena\nAb semayn mdrn mlu msganau\nMen alo kem gwayta fqri zbahriu   /2/\n\nMesfn selam ikha selam tesfn\nKem bzhi bedelna fts'um zeytch'kn\nSseray hat'iatna kelokhana alfa\nKwlusa' nemesgn temelina tesfa  /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 225,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_1mse51jgxt1",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በዝማሬ",
+    "ti_ro": "በዝማሬ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበዝማሬ ወበመሰንቆ ግነዩ ለእግዚአብሔር\nእስመ ባሕቱ ኣድኃነነ በብዝኃ ምሕረቱ /2/\nአምላክነ ኣምላከ ክብር\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBezmare webemesenqo gneyu legziebher\nSme bahtu adhanene bebzha mhretu /2/\nEmlakne amlake kbr\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 374,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

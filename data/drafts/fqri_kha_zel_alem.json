@@ -1,0 +1,53 @@
+{
+  "id": "h_04x5bb9dd6z",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍቕሪ’ኻ ዘልዓለም",
+    "ti_ro": "ፍቕሪ’ኻ ዘልዓለም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍቕሪ’ኻ ዘልዓለም ከማኻ የለን\nከሃሊ ኢኻ ጐይታ ፍጹም ዘይርታዕ\n`ቶም ሰረገላታቱ ፈጠኑ\nፍላጻ እሳት ሓዛ ኣእዳዉ\nኣይሓልፍን’ዩ ኣይሰዓርን\nንእግዚአብሔር ኣምላኽ ዝመስል የለን\n[[/chorus]]\n\nነጎዳ ይነጉድ ሰማይ ጸልሚቱ\nንኽብሩ ርእዮም ኣሕሉቕ ሃደሙ\nዘፍርሕ ሓያል መብረቕ’ዩ ድምጹ\nደጌታት ሲኦል ተነዋወጹ\nከምቲ በደልና ኣይትፍረደና\nሞይትካ ኢኻ’ሞ ከተድሕነና\nምሕረት ትልግስ ንዅሉ ዓለም\nፍቕሪ ኢኻ’ሞ ንዘልዓለም\n\nኣብ  ዕጹው ገዛ ምእታው ትፈልጥ\nጐይታይ ካብ ኢድካ መን’ዩ ዘምልጥ\nሓጎስ ናይ ቤተይ ምንጪ ዕልልታይ\nበቲ ቅብእኻ በሪሁ ገጸይ",
+    "ti_ro": "[[chorus]]\nFqri’kha zel'alem kemakha yelen\nKehali ikha gwayta fts'um zeyrta'\n`Tom seregelatatu fet'enu\nFlats'a sat haza adawu\nAyhalfn’yu ayse'arn\nNgziebher amlakh zmesl yelen\n[[/chorus]]\n\nNegoda ynegud semay ts'elmitu\nNkhbru ryom ahluq hademu\nZefrh hayal mebreq’yu dmts'u\nDegetat siol tenewawets'u\nKemti bedelna aytfredena\nMoytka ikha’mo ketedhnena\nMhret tlgs nkhwlu 'alem\nFqri ikha’mo nzel'alem\n\nAb  'ts'uw geza mtaw tfelt'\nGwaytay kab idka men’yu zemlt'\nHagos nay betey mnch'i 'lltay\nBeti qbkha berihu gets'ey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 55,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

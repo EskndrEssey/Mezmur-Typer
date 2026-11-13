@@ -1,0 +1,54 @@
+{
+  "id": "h_eaz20v898ny",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጸላእየይ ኣምሊጠካ",
+    "ti_ro": "ጸላእየይ ኣምሊጠካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጸላእየይ ኣምሊጠካ /2/ብተኣምር\nቀታልየይ ኣምሊጠካ/2/ ብተእምር\nኣቤት ስራሕ እግዚአብሔር\nኣቤት ናቱ ተኣምር\nፍጹም ኣይሓሰብኩን ክሰግሮ’ኢየ ኢለ\nለካስ ጎነይ ኣሎ ጐይታ እናጽለለ\nሳኦል ኵናት እንከልዕል እናበልኩ ድንን\nክንደይ ሓሊፈዮ ዘይሕለፍ የለን\nብስሙ ኣሚነ ጀሚረ እየ ቅልስ\nፍጹም ክብርትዕ’የ ብመስቀሉ ቅዱስ\nካብ ዋልታ ጎልያድ መዚኑ ጸጸረይ\nሕቡእ ስም ኣምላኸይ ኣሎ ኣብ ግንባረይ\nኣንታ እንባ ኣብ ቅድመይ ዘለኻ እንታይ’ኻ\nወዲ ድንግል ማርያም እዩ ሰዓሪኻ\nተረፈ ጭንቀተይ ቀሰነ ት’ልበይ\nዳኛ ፈረደለይ ተዓጽወ መዝገበይ\nዝተሰንደወልና ፍላጻ ተዓጽፈ\nከምዘይሓልፍ የለን ቲ’ዘመን ተሓልፈ\nካብ ሕቕፉ ኣውጺኡ መን’ዩ ዝቐትለና\nማንም ዘይደፍረና ደቂ ንጉሥ ኢና\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTs'elayey amlit'eka /2/bteamr\nQetalyey amlit'eka/2/ btemr\nAbet srah gziebher\nAbet natu teamr\nFts'um ayhasebkun ksegro’iye ile\nLekas goney alo gwayta nats'lele\nSaol kwnat nkel'l nabelku dnn\nKndey halifeyo zeyhlef yelen\nBsmu amine jemire ye qls\nFts'um kbrt'’ye bmesqelu qdus\nKab walta golyad mezinu ts'ets'erey\nHbu sm amlakhey alo ab gnbarey\nAnta nba ab qdmey zelekha ntay’kha\nWedi dngl maryam yu se'arikha\nTerefe ch'nqetey qesene t’lbey\nDanya feredeley te'ats'we mezgebey\nZtesendewelna flats'a te'ats'fe\nKemzeyhalf yelen ti’zemen tehalfe\nKab hqfu awts'iu men’yu zqetlena\nManm zeydefrena deqi nguss ina\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 116,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

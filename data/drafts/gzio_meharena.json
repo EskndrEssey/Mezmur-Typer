@@ -1,0 +1,54 @@
+{
+  "id": "h_9pej5gyxjzs",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እግዚኦ መሓረና",
+    "ti_ro": "እግዚኦ መሓረና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእግዚኦ መሓረና ኃጢኣትና ስረየልና\nእግዚኦ መሓረና ፍቕርኻ ለግሰልና\nናባኻ ንጠርዕ ንስምካ ንጽውዕ\nናባኻ ንጠርዕ ቅድሜኻ ንነብዕ\nጾርና ከቢዱና ኣካልና ደንዚዙ\nብማእሰርቲ ኃጢኣት ፍጹም ተታሒዙ\nሰንከልከል ኮይኑና ናብራ ናይዛ ዓለም\nቀልጢፍካ ርድኣና ሕያው መድኃኔ ዓለም\nንብዓትና ክሕበስ ንኽንጸናናንዕ\nጐይታ መሓረና ንጸሎትና ስማዕ\nሓደ ኣብ ልዕሊ ሓደ ንረብሓ ክሕሱ\nርድኡና ሥላሴ ምሕረትኩም ኣፍስሱ\nከም ሰብኣ ነነዌ ንንበርከኽ ኩልና\nማቕ ዘይኮነ ፍቕሪ ስኒት ተቐኒትና\nየእዳውና ምልዓልና ንኸንቱ ከይከውን\nንበኪ ኣሎና ኤልማስ ተለመን\nኣብ ሲና ትማሊ መና ነይሩ ቀለብ\nሕጂ ግን ጐይታና መከራ ኽንምገብ\nንረብሓ ተሼጥና ንዘለና ኣብ መሓዩር\nፍትሒ ኣውጽኣልና ብሰላም ክንነብር\nስደት ጻዕጺዑና ጊዜኡ ነዊሑ\nውጽኢት ኃጢኣትና መከራ በዚሑ\nንሱ ድዩ ኮይንዎ በዚ ድዩ ክድምደም\nኣይፋልካን ጐይታና ለግሰልና ሰላም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nGzio meharena hat'iatna sreyelna\nGzio meharena fqrkha legselna\nNabakha nt'er' nsmka nts'w'\nNabakha nt'er' qdmekha nneb'\nTs'orna kebiduna akalna denzizu\nBmaserti hat'iat fts'um tetahizu\nSenkelkel koynuna nabra nayza 'alem\nQelt'ifka rdana hyaw medhane 'alem\nNb'atna khbes nkhnts'enanan'\nGwayta meharena nts'elotna sma'\nHade ab l'li hade nrebha khsu\nRduna Sslase mhretkum afssu\nKem seba nenewe nnberkekh kulna\nMaq zeykone fqri snit teqenitna\nYedawna ml'alna nkhentu keykewn\nNbeki alona elmas telemen\nAb sina tmali mena neyru qeleb\nHji gn gwaytana mekera khnmgeb\nNrebha teshet'na nzelena ab mehayur\nFthi awts'alna bselam knnebr\nSdet ts'a'ts'i'una gizeu newihu\nWts'it hat'iatna mekera bezihu\nNsu dyu koynwo bezi dyu kdmdem\nAyfalkan gwaytana legselna selam\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 864,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

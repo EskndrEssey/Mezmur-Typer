@@ -1,0 +1,53 @@
+{
+  "id": "h_rre3vhoat41",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱስ ገብርኤል መልአከ",
+    "ti_ro": "ቅዱስ ገብርኤል መልአከ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቅዱስ ገብርኤል መልአከ ኃይል መልኣከ ፍሥሓ በእሳት ሥኡል\nሰበካ ለድንግል ምጽኣቶ ለቃል ወርቀ ወሜላተ እንዘ ትፈትል።\nሰበካ ለድንግል ምጽአቶ ለቃል\nመልኣከ ፍሥሐ በእሳት ሥኡል /0/ ቅዱስ ገብርኤል።\nወርቀ ወሜላት እንዘ ትፈትል\nመልኣከ ፍሥሐ በእሳት ሥኡል /0/ ቅዱስ ገብርኤል።\nአመ ይነግሥ ወልድ በደብረ ጽዮን\nክፍልኒ ድንግል እቁም በየማን ድንግል ድንግል እቁም በየማን።\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nQdus gebrel meleke hayl melake fssha besat Ssul\nSebeka ledngl mts'ato leqal werqe wemelate nze tfetl.\nSebeka ledngl mts'eto leqal\nMelake fsshe besat Ssul /0/ qdus gebrel.\nWerqe wemelat nze tfetl\nMelake fsshe besat Ssul /0/ qdus gebrel.\nEme ynegss weld bedebre ts'yon\nKflni dngl qum beyeman dngl dngl qum beyeman.\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 416,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

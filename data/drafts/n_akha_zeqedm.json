@@ -1,0 +1,53 @@
+{
+  "id": "h_8d4jnw6iyah",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንዓኻ ዘቐድም",
+    "ti_ro": "ንዓኻ ዘቐድም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር\nልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ\nሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ\nልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን\nይሰብከካ ደምካ ንምድሪ ዝሽፍን\nንብዝሒ ክብርኻ መግለጺ የብለይን\nፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን /2/\n[[/chorus]]\n\nኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ\nኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ\nከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ\nብድሕሪት እጎዪ ኣሚነ ኢየሱስ\nብድሕሪት እጉዪ ኣሚነ ክርስቶስ\nጉድጓደይ ብተንኮል ኣጽራር ተተፋሕረ\nልዕሊ ሞት ደው በልኩ ሓያል ስምካ ጸይረ\nእናሰዓብኩኻ ገይረካ ብቕድሚት\nእናባረኽኩኻ ይቑጸር ዘመናት /2/",
+    "ti_ro": "[[chorus]]\nNbrtu' ma'bel bqlts'mka ysegr\nL'li bahri qoymka ryatka 'ayney\nMotey regits'ka ikha iyesus medhney\nL'li qwanqwa iyu natkas ayznton\nYsebkeka demka nmdri zshfn\nNbzhi kbrkha meglets'i yebleyn\nFqrkha meghadi iyu natey lsan /2/\n[[/chorus]]\n\nAb dahreway zemen bakha tezaribu\nAbokha nnefsey nabakha aqribu\nKemey ile sq bl ndmts'u semi'es\nBdhrit goyi amine iyesus\nBdhrit guyi amine krstos\nGudgwadey btenkol ats'rar tetefahre\nL'li mot dew belku hayal smka ts'eyre\nNase'abkukha geyreka bqdmit\nNabarekhkukha yquts'er zemenat /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 851,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

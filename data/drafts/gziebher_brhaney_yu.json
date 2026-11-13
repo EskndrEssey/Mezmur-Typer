@@ -1,0 +1,53 @@
+{
+  "id": "h_q01wuflyy9f",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እግዚአብሔር ብርሃነይ’ዩ",
+    "ti_ro": "እግዚአብሔር ብርሃነይ’ዩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእግዚአብሔር ብርሃነይ’ዩ ንጸላም ዘብርሆ\nመድኃኒየይ ዕረፍቲ ናይ ልበይ  ናይ ሽግረይ መርሖ\nንምድረ በዳ ሰንጢቐዮ\nማዕበል ፈተና ሰጊረዮ\nምሕረቱ ካባይ ኣይረሓቐን\nፍቕሩ ካብ ልዕለይ ኣይጎደለን /2/\n[[/chorus]]\n\nጠሚቱኒ’ዩ ርእሱ ኣድኒኑ\nተማጊቱለይ ኣፈይ ኮይኑ\nገዛእቲ ጸላም ተሳዒሮም\nብርሃን ኮይኑለይ ንዘልዓለም /2/\n\nካብ ጸላም ኃጢኣት ኣርሒቑኒ\nብብርሃን ጽድቂ መሪሑኒ\nኣምበላይ ፈረስ ተወጢሑ\nስዒሩ ጸላመይ ጋሊሁ /2/",
+    "ti_ro": "[[chorus]]\nGziebher brhaney’yu nts'elam zebrho\nMedhaniyey 'refti nay lbey  nay shgrey merho\nNmdre beda sent'iqeyo\nMa'bel fetena segireyo\nMhretu kabay ayrehaqen\nFqru kab l'ley aygodelen /2/\n[[/chorus]]\n\nT'emituni’yu rsu adninu\nTemagituley afey koynu\nGezati ts'elam tesa'irom\nBrhan koynuley nzel'alem /2/\n\nKab ts'elam hat'iat arhiquni\nBbrhan ts'dqi merihuni\nAmbelay feres tewet'ihu\nS'iru ts'elamey galihu /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 453,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

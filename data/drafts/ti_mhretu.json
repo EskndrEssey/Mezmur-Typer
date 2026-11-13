@@ -1,0 +1,53 @@
+{
+  "id": "h_d1gtxkq6sev",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "‘ቲ ምሕረቱ",
+    "ti_ro": "‘ቲ ምሕረቱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\n‘ቲ ምሕረቱ ዘይነጽፍ ዒላ'ዩ\nዘይጎድል ዘይውዳእ\nርህራሄኡ ኣይውዳእን'ዩ\nይቕረ'ሉኒ ኣምላኸይ ጸዊዑ /2/\nኃጢኣት እንክሰርሕ ብገዛእ ፍቓደይ\nኣብ ዓለም ኮብለልኩ መኻሪ ዘይብለይ\nብብዝሒ ምሕረቱ ነዓይ ጠሚቱኒ\nጐይታ ብጻውዒት ፍቕሩ ኣጥዒሙኒ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/\n[[/chorus]]\n\nብዝናም ኣብቊሉ ብጸሓይ ኣብሲሉ\nመጊቡኒ ነዓይ ጓለይ ኢኺ ኢሉ\nጐይታ ቀረበኒ ከይተጸየፈኒ\nታሪኸይ ቀይሩ ጸጋኡ ሂቡኒ\nመሪር ሓሞት ሰትዩ ናተይ ሞት ሞተለይ\nኣምላኽ መድኃኔ ዓለም ፍቕሩ ገሊጹለይ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/\n\nብፍርሃት ክኸይድ ናብ ቅዱስ ከረኑ\nከምቶም ኣቦታተይ ቅዱሳን ዝኾኑ\nከመስግኖ ኣነ ኣብ ቤተ መቕደሱ\nውዕለቱ ክነግር ታሪኹ ከዘንቱ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/",
+    "ti_ro": "[[chorus]]\n‘Ti mhretu zeynets'f 'ila'yu\nZeygodl zeywda\nRhraheu aywdan'yu\nYqre'luni amlakhey ts'ewi'u /2/\nHat'iat nkserh bgeza fqadey\nAb 'alem koblelku mekhari zeybley\nBbzhi mhretu ne'ay t'emituni\nGwayta bts'aw'it fqru at''imuni\nAmlakhey bmhret t'emituni\nGwaytay'si ts'egau hibuni /2/\n[[/chorus]]\n\nBznam abqwilu bts'ehay absilu\nMegibuni ne'ay gwaley ikhi ilu\nGwayta qerebeni keytets'eyefeni\nTarikhey qeyru ts'egau hibuni\nMerir hamot setyu natey mot moteley\nAmlakh medhane 'alem fqru gelits'uley\nAmlakhey bmhret t'emituni\nGwaytay'si ts'egau hibuni /2/\n\nBfrhat kkheyd nab qdus kerenu\nKemtom abotatey qdusan zkhonu\nKemesgno ane ab bete meqdesu\nW'letu knegr tarikhu kezentu\nAmlakhey bmhret t'emituni\nGwaytay'si ts'egau hibuni /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 352,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_n84jvwv1x2w",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንከተሎም",
+    "ti_ro": "ንከተሎም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\n“ ጻድቅሰ ከመ በቀልት ይፈሪ\nወይበዝኅ ከመ ዘግባ ዘሊባኖስ\nትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ”\nከም ከዋኽብቲ ሰማይ ኮይኑ እቲ ምብዛሖም\nከም ብርሃን ፀሓይ ደሚቑ እምነቶም\nጽሕዲ ሊባኖስ ብዙኅ በረኸቶም\nቅዱሳን ጻድቃን ብእግዚአብሔር ከቢሮም\nዛርዩ ኣይነጽፍን ድርሳን ሰብ ንኽብሩ\nቀለም’ውን ኣይኣኽሎን ኵሉ ገድልታቱ\nብርሃን ምድረ ኣግኣዚት ናይ ጳጳሳት ግርማ\nተርጓሜ መጻሕፍት መጥምቀ ምእመናን አቡነ ሰላማ\n[[/chorus]]\n\nናይ ሃይማኖት በትሪ ኣብ ኢዱ ጨቢጡ\nሰጊርዎ ባሕሪ ምንጻፍ ተተርጊጹ\nፍጹም ከይኃፈረ ቃል ኣምላኽ መስኪሩ\nእነሆ ንዘልዓለም /2/ ኣብ ምድሪ ብርሃኑ\n\nንዓለም መኒኖም ጣዕማ ምስ ንብረታ\nፍቕሩ ስሒብዎም ቀሪቦም ናብ ጐይታ\nኣብ ገነት ኣለዉ ብርሃን ተወንዚፎም\nፍጹም ኣኽቢርዎም /2/ ጐይታ መድኃኔ ዓለም\nንከተሎም እግሪ እግሮም ኣሰር ቅዱሳን\nንከተሎም ከምኦም ንምዃን\nዝኃለፉ ስለ ሃይማኖት\nንጽናዕ ንትባዕ ኣብ ኦርቶዶክስ እምነት\nንጽናዕ ንትባዕ ኣብ ተዋሐዶ እምነት",
+    "ti_ro": "[[chorus]]\n“ Ts'adqse keme beqelt yferi\nWeybezh keme zegba zelibanos\nTkulan muntu wste bete gziebher ”\nKem kewakhbti semay koynu ti mbzahom\nKem brhan ts'ehay demiqu mnetom\nTs'hdi libanos bzuh berekhetom\nQdusan ts'adqan bgziebher kebirom\nZaryu aynets'fn drsan seb nkhbru\nQelem’wn ayakhlon kwlu gedltatu\nBrhan mdre agazit nay p'ap'asat grma\nTergwame mets'ahft met'mqe mmenan ebune selama\n[[/chorus]]\n\nNay haymanot betri ab idu ch'ebit'u\nSegirwo bahri mnts'af tetergits'u\nFts'um keyhafere qal amlakh meskiru\nNeho nzel'alem /2/ ab mdri brhanu\n\nN'alem meninom t'a'ma ms nbreta\nFqru shibwom qeribom nab gwayta\nAb genet alewu brhan tewenzifom\nFts'um akhbirwom /2/ gwayta medhane 'alem\nNketelom gri grom aser qdusan\nNketelom kemom nmkhwan\nZhalefu sle haymanot\nNts'na' ntba' ab ortodoks mnet\nNts'na' ntba' ab tewahedo mnet",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 272,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

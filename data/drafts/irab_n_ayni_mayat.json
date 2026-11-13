@@ -1,0 +1,53 @@
+{
+  "id": "h_fzamjvva5fy",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኢራብ ንዓይኒ ማያት",
+    "ti_ro": "ኢራብ ንዓይኒ ማያት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኢራብ ንዓይኒ ማያት ከምትብህጎ\nመሬት ንዝናም ሰማይ ከም ትጸምኦ\nናባኻ’ዩ ልበይ ሃረርታኡ\nስምካ ንዘልዓለም መግበይ ኮይኑ እግዚአብሔር\nእግዚኣብሔር ስምካ . . .\nህብስተ ሕይወት’ዩ ንዝበልዖ\nጽዋእ መድኃኒት ንዝሰትዮ\nካብ መዓር ካብ ወርቂ ዝሕረ’ዩ\nንውሽጢ ነፍሰይ’ውን ሰላመይ`ዩ\n[[/chorus]]\n\nእግዚኣብሔር ስምካ . . .\nካብ ነገስታት ምድሪ እዛ ዓለም\nዝመሳሰሎ`ውን ከቶ የለን\nእግዚኣብሔር ስምካ . . .\nእናሻዕ ክጽውዕ ይጥዕመኒ\nከምኡ ዝበለ’ሞ መን አሎኒ\nእግዚኣብሔር ስምካ . . .\nኣነስ ክጽውዖ ንዘልዓለም\nጸግዐይ ከውለይ እምባይ ኣብዚ ዓለም\nእግዚኣብሔር ስምካ . . .\nንፋስ ማዕበል ባሕሪ ዘህድእ’ዩ\nጽኑዕ ግንቢ እዩ ንድሕነሉ\nእግዚኣብሔር ስምካ . . .\nስምካ ካብ ተሰምየ ኣብ ልዕሌና\nመን’ዩ ዝቃወሞ ዘፍርሓና\nእግዚኣብሔር ስምካ . . .\nምስ ንስጉም ስምካ ተመርኲስና\nዕንቅፋት የብልናን ኣብ ቅድሜና\nኦ እግዚአብሔር ስምካ ኦ እግዚአብሔር /2/",
+    "ti_ro": "[[chorus]]\nIrab n'ayni mayat kemtbhgo\nMeret nznam semay kem tts'emo\nNabakha’yu lbey harertau\nSmka nzel'alem megbey koynu gziebher\nGziabher smka . . .\nHbste hywet’yu nzbel'o\nTs'wa medhanit nzsetyo\nKab me'ar kab werqi zhre’yu\nNwsht'i nefsey’wn selamey`yu\n[[/chorus]]\n\nGziabher smka . . .\nKab negestat mdri za 'alem\nZmesaselo`wn keto yelen\nGziabher smka . . .\nNasha' kts'w' yt''meni\nKemu zbele’mo men eloni\nGziabher smka . . .\nAnes kts'w'o nzel'alem\nTs'eg'ey kewley mbay abzi 'alem\nGziabher smka . . .\nNfas ma'bel bahri zehd’yu\nTs'nu' gnbi yu ndhnelu\nGziabher smka . . .\nSmka kab tesemye ab l'lena\nMen’yu zqawemo zefrhana\nGziabher smka . . .\nMs nsgum smka temerkwisna\n'Nqfat yeblnan ab qdmena\nO gziebher smka o gziebher /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 191,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

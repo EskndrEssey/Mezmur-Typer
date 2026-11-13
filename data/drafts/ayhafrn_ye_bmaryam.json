@@ -1,0 +1,53 @@
+{
+  "id": "h_r5xhkdy9oyz",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣይሓፍርን`የ ብማርያም",
+    "ti_ro": "ኣይሓፍርን`የ ብማርያም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣይሓፍርን’የ ብማርያም /2/\nኣብ ጊዜ ሽግር ኣብ ጊዜ ጭንቂ\nከማኺ የለን መተዓረቒ\n[[/chorus]]\n\nማርያም/2/ በሉ ምእመናን ኵሉ\nማርያም /2/ ኢልና ክንድሕን ኢና\nጸላእየይ እን-ከሳቕየኒ\nኣይጠቅምን ኢሉ እንክንዕቐኒ\nመለለይተይ ንስኺ ኢኺ\nከይዱ ጠፊኡ ርእዩ ስእልኺ\n\nማርያም/2/ በሉ ምእመናን ኵሉ\nማርያም /2/ ኢልና ክንድሕን ኢና\nኵሉ ሓሳበይ ተጀሚሩዩ\nይጽበለኹ ዘመን ነዊሑ\nፍጻመ ክርኢ ድንግል ርድእኒ\nይልምን ኣለኹ ኣብ ኣፍደጌኺ\n\nማርያም/2/ በሉ ምእመናን ኵሉ\nማርያም /2/ ኢልና ክንድሕን ኢና\nጸላእየይ እን-ከሳቕየኒ\nኣይጠቅምን ኢሉ እንክንዕቐኒ\nመለለይተይ ንስኺ ኢኺ\nከይዱ ጠፊኡ ርእዩ ስእልኺ\n\nማርያም/2/ በሉ ምእመናን ኵሉ\nማርያም /2/ ኢልና ክንድሕን ኢና",
+    "ti_ro": "[[chorus]]\nAyhafrn’ye bmaryam /2/\nAb gize shgr ab gize ch'nqi\nKemakhi yelen mete'areqi\n[[/chorus]]\n\nMaryam/2/ belu mmenan kwlu\nMaryam /2/ ilna kndhn ina\nTs'elayey n-kesaqyeni\nAyt'eqmn ilu nkn'qeni\nMeleleytey nskhi ikhi\nKeydu t'efiu ryu slkhi\n\nMaryam/2/ belu mmenan kwlu\nMaryam /2/ ilna kndhn ina\nKwlu hasabey tejemiruyu\nYts'belekhu zemen newihu\nFts'ame kri dngl rdni\nYlmn alekhu ab afdegekhi\n\nMaryam/2/ belu mmenan kwlu\nMaryam /2/ ilna kndhn ina\nTs'elayey n-kesaqyeni\nAyt'eqmn ilu nkn'qeni\nMeleleytey nskhi ikhi\nKeydu t'efiu ryu slkhi\n\nMaryam/2/ belu mmenan kwlu\nMaryam /2/ ilna kndhn ina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 151,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

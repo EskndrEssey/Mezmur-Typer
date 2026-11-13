@@ -1,0 +1,53 @@
+{
+  "id": "h_img1biuc04c",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ርእየያ ብዓይነይ",
+    "ti_ro": "ርእየያ ብዓይነይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nርእየያ ብዓይነይ ኣማዕድየ\nናይ ያሬድ ጥዕምቲ ዝማሬ\nሰለም ‘ተበልኩ ንስኺ ሓሳበይ\nኣይተኸወልክን ነጊስኪ ኣብ ልበይ (2)\n[[/chorus]]\n\nመደያይቦ ናይ ሎዛ መሳልል\nናይ ዜማ ቤተይ ናይ መቕደስ ጸናጽል\nንጉሥ ናይ ሰማይ ኣሎ ብልዕሌኺ\nንስኺ ድንኳን ንሱ ተኻሊኺ (2)\nስምኪ ኣብ ኵሉ ስለዝተፈትወ\nስለክብርኺ ፍቕሪ ተፈነወ\nካብቶም ዘይኣምኑ ተኾነኳ ስቕታ\nካብ ገብርኤል’ዩ ናይ ስምኪ ሰላምታ (2)\n\nገንጺለ መጽሓፍ ውዳሴ እንከብጽሕ\nተመልኪተኪ እናነባዕኩ ብዙሕ\nእዝራ መሰንቆ ዳዊት’ውን በገና\nሂቦሙኒ’ዮም ክህበኪ ምስጋና (2)",
+    "ti_ro": "[[chorus]]\nRyeya b'ayney ama'dye\nNay yared t''mti zmare\nSelem ‘tebelku nskhi hasabey\nAytekhewelkn negiski ab lbey (2)\n[[/chorus]]\n\nMedeyaybo nay loza mesall\nNay zema betey nay meqdes ts'enats'l\nNguss nay semay alo bl'lekhi\nNskhi dnkwan nsu tekhalikhi (2)\nSmki ab kwlu sleztefetwe\nSlekbrkhi fqri tefenewe\nKabtom zeyamnu tekhonekwa sqta\nKab gebrel’yu nay smki selamta (2)\n\nGents'ile mets'haf wdase nkebts'h\nTemelkiteki naneba'ku bzuh\nZra mesenqo dawit’wn begena\nHibomuni’yom khbeki msgana (2)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 61,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_vfrl2np7hsb",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናባኻ መጻእኩ",
+    "ti_ro": "ናባኻ መጻእኩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናባኻ መጻእኩ ይቕረ ክትብለለይ\nስምካ እናጸዋዕኩ በቲ ርኹስ ኣፈይ\nግቡአይ’ውን ሒዘ ወጻእኩ ካብ ቤቶም\nቀልጢፈ ኣተኹ ናብ ኃጢኣት ዓለም\n[[/chorus]]\n\nብዘብለጭልጭ ነገር ኵሉ ተሳሓብኩ\nንዅሉ ገንዘበይ ክዘሩ ጀመርኩ\nኣብ ግብሪ ኃጢኣት ገንዘበይ ወዳእኩ\nዝገብሮ ስኢነ ብዙሕ’ውን ነባዕኩ\nዘዝረኣዩኒ ኩሎም ፈንፈኑኒ\nእንተቐረብክዎም ኩሎም ረሓቑኒ\nብምሒር ዓጸቦ ዓቕለይ ጸበበኒ\nክደሊ ጀመርኩ ዕሱብ ዝቖጽረኒ\n\nድሕሪ ነዊሕ ድኻም ድሕሪ ነዊሕ ኮለል\nዕሱብ ተቖጸርኩ ከም ባርያ ከገልግል\nምጥዓም ሰኣነኒ ብግፍዒ ብበደል\nዝበልዖ ሰኣንኩ ንኸብደይ ዘዐንግል\nብሓዘንን ጣዕሳን ተመለስኩ ቤተይ\nርእዩ ሰዓመኒ እቲ ርህሩህ ኣቦይ\nኣነ’ውን በልክዎ ወድኻ ክስመ\nኣይበቅዕን’የ ኣነ እንትርፎ ኣገልጋላይ\n\nኣቦይ’ውን በለኒ ብጥዑማት ቃላት\nሜትካ’ውን ነበርካ ሓወኻ’ውን ካብ ሞት\nጠፊእካ ነበርካ ደሓንካ ካብ ጥፍኣት\nእቶ ጥራይ ወደይ ብሓጎስ ብትብዓት\nዕልል ዕልል ኢሎም መግለጺ ናይ ሓጎስ\nኣብ ማእከል ኣተኹ ምስ ዕዱማት ናብ ዳስ\nደጊሞም ዓለሉ ከደኑኒ ኣልባስ\nምስኦም ተጸምበርኩ ምስ ስድራ ክርስቶስ",
+    "ti_ro": "[[chorus]]\nNabakha mets'aku yqre ktbleley\nSmka nats'ewa'ku beti rkhus afey\nGbuey’wn hize wets'aku kab betom\nQelt'ife atekhu nab hat'iat 'alem\n[[/chorus]]\n\nBzeblech'lch' neger kwlu tesahabku\nNkhwlu genzebey kzeru jemerku\nAb gbri hat'iat genzebey wedaku\nZgebro sine bzuh’wn neba'ku\nZezreayuni kulom fenfenuni\nNteqerebkwom kulom rehaquni\nBmhir 'ats'ebo 'aqley ts'ebebeni\nKdeli jemerku 'sub zqots'reni\n\nDhri newih dkham dhri newih kolel\n'Sub teqots'erku kem barya kegelgl\nMt''am seaneni bgf'i bbedel\nZbel'o seanku nkhebdey ze'engl\nBhazenn t'a'san temelesku betey\nRyu se'ameni ti rhruh aboy\nAne’wn belkwo wedkha ksme\nAybeq'n’ye ane ntrfo agelgalay\n\nAboy’wn beleni bt''umat qalat\nMetka’wn neberka hawekha’wn kab mot\nT'efika neberka dehanka kab t'fat\nTo t'ray wedey bhagos btb'at\n'Ll 'll ilom meglets'i nay hagos\nAb makel atekhu ms 'dumat nab das\nDegimom 'alelu kedenuni albas\nMsom tets'emberku ms sdra krstos",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 248,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_7vxc9lip3z7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ነዓ ባርኸና",
+    "ti_ro": "ነዓ ባርኸና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nነዓ ባርኸና ቅዱስ ሚካኤል ኣይትርሓቕ ካባና\nሰይጣን ከይውሕጠና\nናይ ምሕረት መልእኽቲ ሒዝካ ካብ ኣምላኽና\nኣብ ዙርያና ሃሉ ካባና ኣይትርሓቕ ካብቶም ንፈርሓካ\nሓላዊና ኢኻ ናይ ረድኤት መልኣኽ ጽላል'ዩ ክንፍኻ\nኣብ ምድሪ ስደት ኣብ ቃዴስ ኣብ ሲና ኣብ ዘመን ጉዕዞና\nብናትካ ረድኤት ቅዱስ ሚካኤል መከራ ሓሊፍና\n[[/chorus]]\n\nባሕሪ ተኸፊቱ ሙሴ ኢድ ዘርጊሑ ኣብ ማእከልና ኔርካ\nብኣኻ ክንእዘዝ ተነጊሩና'ዩ ክንሰምዕ ተግሳጽካ\nረዳኢ ዳንኤል ጉልበት  ዝኾንካዮ ብምልጃ ብጸሎት\nሰይፍኻ ክግተር ንሰይጣን የርዕዶ ይብተኽ ሰንሰለት\n\nብዲያብሎስ ኣይንናወጽን እምንቶ ኣሎና\nናይ ጐይታ መልኣኽ ቅዱስ ሚካኤል ፍቕሩ ኣኽሊሉልና\nዋሕስና ኢኻ ኣብ ጊዜ መከራ ሓላዊና መልኣኽ\nትርፊ ገዲፉልና ይመስገን እግዚአብሔር ናይ ሚካኤል ኣምላኽ",
+    "ti_ro": "[[chorus]]\nNe'a barkhena qdus mikael aytrhaq kabana\nSeyt'an keywht'ena\nNay mhret melkhti hizka kab amlakhna\nAb zuryana halu kabana aytrhaq kabtom nferhaka\nHalawina ikha nay redet melakh ts'lal'yu knfkha\nAb mdri sdet ab qades ab sina ab zemen gu'zona\nBnatka redet qdus mikael mekera halifna\n[[/chorus]]\n\nBahri tekhefitu muse id zergihu ab makelna nerka\nBakha knzez tenegiruna'yu knsem' tegsats'ka\nRedai danel gulbet  zkhonkayo bmlja bts'elot\nSeyfkha kgter nseyt'an yer'do ybtekh senselet\n\nBdiyablos aynnawets'n mnto alona\nNay gwayta melakh qdus mikael fqru akhlilulna\nWahsna ikha ab gize mekera halawina melakh\nTrfi gedifulna ymesgen gziebher nay mikael amlakh",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 361,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

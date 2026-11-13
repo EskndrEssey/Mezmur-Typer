@@ -1,0 +1,53 @@
+{
+  "id": "h_km7x4yab5bm",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ይፈልጦ’ንዴ",
+    "ti_ro": "ይፈልጦ’ንዴ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nይፈልጦ’ንዴ ጐይታይ ሓዳግ’ዩ መሓሪ\nሕዙናት ናይ መንፈስ ንብዓት ካብ ገጾም ዝኣሊ\nሓዘነይ ክቕንጠጥ ኮታ ንኽድበስ\nኢድካ ዘርግሓለይ ፍጹም ልበይ ንኽጥዓስ\nበረኸቱ ርእየ ኣብ ዘመን ሕይወተይ\nኣቦ ምሕረት ፍቕሪ ገጹ እክመልሰለይ\nክንደይ’ውን ሓሊፉ ክፉእ ሕሰም ናብራ\nኵሉ ሰጊረዮ ናይ ጉዕዞይ መከራ\n[[/chorus]]\n\nዘይታኸስ ጓሳ ሕያዋይ ሳምራዊ\nወትሩ ምሳይ እዩ ኣምላኽ ናይ ነፍሰይ ሓላዊ\nታይ ኮይነ ኢለ ደኣ ዘይነብር ቀሲነ\nብሕይወት ምስጋና ድንግል ጸሎትኪ ኣሚነ\nደረት ኣልቦ ፍቕሩ ማንም ዘይልክዖ\nጽዋእ ከርበ ሓሞት ክሰቲ ዘብጽሖ\nጉዕዞይ ክሰምረለይ ክሳብ መፈጸምታ\nኣሳልይኒ ድንግል (3) ኣደ ጐይታ",
+    "ti_ro": "[[chorus]]\nYfelt'o’nde gwaytay hadag’yu mehari\nHzunat nay menfes nb'at kab gets'om zali\nHazeney kqnt'et' kota nkhdbes\nIdka zerghaley fts'um lbey nkht''as\nBerekhetu rye ab zemen hywetey\nAbo mhret fqri gets'u kmelseley\nKndey’wn halifu kfu hsem nabra\nKwlu segireyo nay gu'zoy mekera\n[[/chorus]]\n\nZeytakhes gwasa hyaway samrawi\nWetru msay yu amlakh nay nefsey halawi\nTay koyne ile dea zeynebr qesine\nBhywet msgana dngl ts'elotki amine\nDeret albo fqru manm zeylk'o\nTs'wa kerbe hamot kseti zebts'ho\nGu'zoy ksemreley ksab mefets'emta\nAsalyni dngl (3) ade gwayta",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 479,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

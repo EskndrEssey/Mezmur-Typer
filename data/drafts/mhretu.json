@@ -1,0 +1,53 @@
+{
+  "id": "h_gn95mp6j4na",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምሕረቱ",
+    "ti_ro": "ምሕረቱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምሕረቱ ንዘለዓለም እዩ’ሞ\nእግዚአብሔር ይመስገን (2)\nምሕረቱ ንኣዕይንተይ ካብ ንብዓት ካብ ሓዘን ፈልዩ\nምሕረቱ ኣብ ኵሉ ዘመነይ የጽንዓኒ እዩ\nምሕረቱ ብቑጽሪ ብዙሕ’ዩ ኣእምሮዘይሓስቦ\nምሕረቱ ዘመን ዘይስዕሮ ዘለዓለማዊ ኣቦ\n[[/chorus]]\n\nምሕረቱ ኣብ ግደ ነገስታት ንዓይ ዕድል ሂቡ\nምሕረቱ ተኸናኺንኒ ሓቒፉ ሓብሒቡ\nምሕረቱ ንእሽተይ ጸሎተይ ምስ ብቑዕ ቆጺሩ\nምሕረቱ ኣእተወኒ ከንኣን ብፍቕሪ ሓንጒሩ\nካብ ማዕሙቕ ይስሕብ የድኅን ካብ ጥፍኣት\nኣብ ሞት ንዘለዉ ይኸውን ብስራት\nምሕረቱ ክሳብ እንስይብ ክሳብ እንኣርግ\nምሕረቱ ኣብ ኵሉ ዘመንና ንሱ ይረድኣና",
+    "ti_ro": "[[chorus]]\nMhretu nzele'alem yu’mo\nGziebher ymesgen (2)\nMhretu na'yntey kab nb'at kab hazen felyu\nMhretu ab kwlu zemeney yets'n'ani yu\nMhretu bquts'ri bzuh’yu amrozeyhasbo\nMhretu zemen zeys'ro zele'alemawi abo\n[[/chorus]]\n\nMhretu ab gde negestat n'ay 'dl hibu\nMhretu tekhenakhinni haqifu habhibu\nMhretu nshtey ts'elotey ms bqu' qots'iru\nMhretu ateweni kenan bfqri hangwiru\nKab ma'muq yshb yedhn kab t'fat\nAb mot nzelewu ykhewn bsrat\nMhretu ksab nsyb ksab narg\nMhretu ab kwlu zemenna nsu yredana",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 83,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

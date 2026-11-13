@@ -1,0 +1,53 @@
+{
+  "id": "h_y753g2wsy4o",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰባት ፈረዱኒ",
+    "ti_ro": "ሰባት ፈረዱኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰባት ፈረዱኒ ንስኻ ኣድሓንካኒ /2/\nኣምላኸይ ተመስገነለይ\nጐይታየይ ተመስገነለይ ካልእ ቃል የብለይን\nክሓልፉ ኣይፈተዉን ነውረይ ክስውሩ\nሰባት ተጎየዩ በደለይ ከውርዩ\nንስኻ ግን ጐይታ ብፍቕሪ ሸፊንካ\nኣይፈንፈንካንን'ውን ሓጢኣት ጌርካ ኢልካ\n'ዚ ፍጹም ፍቕርኻ ምሳኻ ኣልጊቡኒ\nወትሩ እናጎተተ ቤትካ የምጽኣኒ/2/\n[[/chorus]]\n\nምርካሰይ ኣዊጆም ምስ ኣልዓሉ እምኒ\nተኣምርካ ካብ ስቓይ ንዓይ ሰዊሩኒ\nስለዝመሓርካኒ ክፉኣት ተከዙ\nእዚ ኣይኮነን ኢሎም ንሓጢኣት ደሞዙ\nከም ናይ ሰብ ኣይኮነን ፍሉይ'ዩ ፍርድኻ\nብምሕረት ሓርነት ንዓይ ፈሪድካ ኢኻ\nፍቕሪ እናጸጎኻ መንገደይ ጸረግካ\nጽድቂ ንድሕነተይ ፈሪድካለይ ኢኻ /2/\n\nኣነ ኣይፈርደካን’የ ብሰላም ኪድ በልካ\nዳግም ንኸይብድል ብፍቕሪ ጠሚትካ\nናብ ሕጊ ጽድቅኻ አፍስሳ ንነፍሰይ\nከምዚ ካብ ኣፍቀርካ ካባኻ'ሞ ናበይ\nካብ መድረኽ ናይ ፍቕረይ ካብኻ ኣይፍለይን\nተምበርኪኸ አምልኽ ንዓኻ አመስግን/2/",
+    "ti_ro": "[[chorus]]\nSebat fereduni nskha adhankani /2/\nAmlakhey temesgeneley\nGwaytayey temesgeneley kal qal yebleyn\nKhalfu ayfetewun newrey kswru\nSebat tegoyeyu bedeley kewryu\nNskha gn gwayta bfqri shefinka\nAyfenfenkann'wn hat'iat gerka ilka\n'Zi fts'um fqrkha msakha algibuni\nWetru nagotete betka yemts'ani/2/\n[[/chorus]]\n\nMrkasey awijom ms al'alu mni\nTeamrka kab sqay n'ay sewiruni\nSlezmeharkani kfuat tekezu\nZi aykonen ilom nhat'iat demozu\nKem nay seb aykonen fluy'yu frdkha\nBmhret harnet n'ay feridka ikha\nFqri nats'egokha mengedey ts'eregka\nTs'dqi ndhnetey feridkaley ikha /2/\n\nAne ayferdekan’ye bselam kid belka\nDagm nkheybdl bfqri t'emitka\nNab hgi ts'dqkha efssa nnefsey\nKemzi kab afqerka kabakha'mo nabey\nKab medrekh nay fqrey kabkha ayfleyn\nTemberkikhe emlkh n'akha emesgn/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 849,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

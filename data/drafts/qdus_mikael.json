@@ -1,0 +1,53 @@
+{
+  "id": "h_3vfw51o9uaf",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱስ ሚካኤል",
+    "ti_ro": "ቅዱስ ሚካኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቅዱስ ሚካኤል ፈታዊ ንዅሉ\nምሕረት ይረክብ ኪዳንካ ዝሕሉ /2/\nቅልጽምካ ዘርግሕ ሚካኤል ምራሕ መንገደይ\nከይመሰየኒ ብጊዜ ክበጽሕ ቤተይ\nኣብ ክብሩ የለን `ቲ ውዱቕ ርጉም ጸላኢ\nሚካኤል ግና ተሸይሙ ብዓቢይ ክብሪ /2/\nድኅነት ረኺቡ ዳንኤል ኣናጊፍካዮ\nንኣፍ ኣናብስ ዓጺኻ ሞገስ ሂብካዮ\nሓያል ቅልጽምካ ተዘርጊሑ ባሕሪ ኣናዊጹ\nጐይታ ነጊሱ ዲያብሎስ ግን ኣንደልሂጹ /2/\n[[/chorus]]\n\nትዝታ ኣሎኒ ኣብ ቤትካ ካብ ቁልዕነተይ\nብጸጋ ምሕረት ከተዕብያ ንሕይወተይ\nክዝምር እምበር ንኣምላኸይ ከመስግን ኣነስ\nዝሓለወኒ ብኣኻ ናብ ሞት ከይምለስ /2/",
+    "ti_ro": "[[chorus]]\nQdus mikael fetawi nkhwlu\nMhret yrekb kidanka zhlu /2/\nQlts'mka zergh mikael mrah mengedey\nKeymeseyeni bgize kbets'h betey\nAb kbru yelen `ti wduq rgum ts'elai\nMikael gna tesheymu b'abiy kbri /2/\nDhnet rekhibu danel anagifkayo\nNaf anabs 'ats'ikha moges hibkayo\nHayal qlts'mka tezergihu bahri anawits'u\nGwayta negisu diyablos gn andelhits'u /2/\n[[/chorus]]\n\nTzta aloni ab betka kab qul'netey\nBts'ega mhret kete'bya nhywetey\nKzmr mber namlakhey kemesgn anes\nZhaleweni bakha nab mot keymles /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 113,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

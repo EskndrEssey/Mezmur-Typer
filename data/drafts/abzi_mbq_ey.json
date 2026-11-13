@@ -1,0 +1,54 @@
+{
+  "id": "h_l0l2i47x7ps",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብዚ ምብቅዐይ",
+    "ti_ro": "ኣብዚ ምብቅዐይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብዚ ምብቅዐይ እዩ ብኣኻ\nኮይንካ ሞገሰይ በቲ ጸጋኻ\nተሓቲሙ'ዩ ስምካ ኣብ ልበይ\nምስጢር ናይ ክብረይ እንዲኻ ጐይታይ\nሃብታም ዝበልካኒ ካብ ዓለም ሓሪኻ\nመዓስ ከም ካልኦት መልክዐይ ርኢኻ\nኣብቂዑኒ እምበር በቒዐ ኣይብልን ኣነ መሊአ ኣፈይ\nኣብ ምሉእ ዘመነይ ኢድካ እንክትዓዪ\nርእያ እያ'ሞ ዓይነይ\nንሰብ ዘገርም'ዩ ልዕልና ባርያኻ\nምስጢር'ዩ ንሥጋ ዘይፍታሕ መርሚርካ\nከመይ ሰለጦ ኢሉ ንዓኻ ረሲዑ ይድነቕ ሰብ ብኣይ\nዝዅሉ ግን ናትካ ካባኻ\nስሌኻ ብኣኻ'ዩ ጐይታይ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nAbzi mbq'ey yu bakha\nKoynka mogesey beti ts'egakha\nTehatimu'yu smka ab lbey\nMst'ir nay kbrey ndikha gwaytay\nHabtam zbelkani kab 'alem harikha\nMe'as kem kalot melk'ey rikha\nAbqi'uni mber beqi'e aybln ane melie afey\nAb mlu zemeney idka nkt'ayi\nRya ya'mo 'ayney\nNseb zegerm'yu l'lna baryakha\nMst'ir'yu nssga zeyftah mermirka\nKemey selet'o ilu n'akha resi'u ydneq seb bay\nZkhwlu gn natka kabakha\nSlekha bakha'yu gwaytay\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 76,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

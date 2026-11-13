@@ -1,0 +1,53 @@
+{
+  "id": "h_p8pv1gi15es",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንግሥተ ሰማይ",
+    "ti_ro": "ንግሥተ ሰማይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nገነይኩ ለኪ ኦ ንግሥተ ሰማይ\nለባሲተ ብሩህ ጸሓይ /2/\nከመ ርእሰ ኃምሳ ሣልሳይ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nGeneyku leki o ngsste semay\nLebasite bruh ts'ehay /2/\nKeme rse hamsa Ssalsay /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 256,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

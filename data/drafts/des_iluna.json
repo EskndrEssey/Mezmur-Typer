@@ -1,0 +1,53 @@
+{
+  "id": "h_0rsmd1cbo25",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ደስ ኢሉና",
+    "ti_ro": "ደስ ኢሉና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nደስ ኢሉና ደስ ይበልኩም ሎሚ /2/\nናብዚ ቅዱስ ዕለት ስለዘብጽሓና\nእግዚአብሔር ይመስገን ርህሩህ ፈጣሪና /2/\nደስ ኢሉና ከይተጸባጸበ\nደስ ኢሉና ንዅሉ በደልና\nደስ ኢሉና ናብዚ ቅዱስ ዕለት ኣብጺሑና ጐይታ\nደስ ኢሉና ለይቲ ይኹን ቀትሪ\nደስ ኢሉና ምሳና ይሰርሕ\nደስ ኢሉና ከም ብርሃን ናይ ጸሓይ ንገጽና የብርህ\n[[/chorus]]\n\nደስ ኢሉና ጥበበኛ ንጉሥ\nደስ ኢሉና በዓል ጸጋ ጐይታ\nደስ ኢሉና ብንእሽተይ ዓቢይ\nደስ ኢሉና ልብና ምስ ሰግአ\nደስ ኢሉና ከም ፍቓድ እግዚአብሔር ኵሉ ነገር ኮነ\nደስ ኢሉና ኣኽሊል ምረቓና\nደስ ኢሉና ጸቢቑዩ ሎሚ\nደስ ኢሉና ንዓቢይ ዝማሬ ተቃልሕ ምድሪ\n\nደስ ኢሉና መን’ዩ ከም እግዚአብሔር\nደስ ኢሉና መን’ዩ ከም ኣምላኽና\nደስ ኢሉና ኣብ ሓዘን ኣብ ሓጎስ መጸናንዒና\nደስ ኢሉና ክብሪ ይኹን ንዓኻ\nደስ ኢሉና ዝደመቐ ዕልልታ\nደስ ኢሉና ነዚ ክቡር ዕለት ዝሃብካ ባሪኽካ",
+    "ti_ro": "[[chorus]]\nDes iluna des ybelkum lomi /2/\nNabzi qdus 'let slezebts'hana\nGziebher ymesgen rhruh fet'arina /2/\nDes iluna keytets'ebats'ebe\nDes iluna nkhwlu bedelna\nDes iluna nabzi qdus 'let abts'ihuna gwayta\nDes iluna leyti ykhun qetri\nDes iluna msana yserh\nDes iluna kem brhan nay ts'ehay ngets'na yebrh\n[[/chorus]]\n\nDes iluna t'bebenya nguss\nDes iluna be'al ts'ega gwayta\nDes iluna bnshtey 'abiy\nDes iluna lbna ms sege\nDes iluna kem fqad gziebher kwlu neger kone\nDes iluna akhlil mreqana\nDes iluna ts'ebiquyu lomi\nDes iluna n'abiy zmare teqalh mdri\n\nDes iluna men’yu kem gziebher\nDes iluna men’yu kem amlakhna\nDes iluna ab hazen ab hagos mets'enan'ina\nDes iluna kbri ykhun n'akha\nDes iluna zdemeqe 'llta\nDes iluna nezi kbur 'let zhabka barikhka",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 115,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

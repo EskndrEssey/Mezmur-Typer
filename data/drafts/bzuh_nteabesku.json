@@ -1,0 +1,53 @@
+{
+  "id": "h_zko6sjoyv6x",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብዙሕ እንተኣበስኩ",
+    "ti_ro": "ብዙሕ እንተኣበስኩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብዙሕ እንተኣበስኩ ዋላ እንተበደልኩ\nከምቀደምኪ ኩኒ ድንግል ተለመኒ\nምእንቲ ሓዘንኪ ስቓይ መከራኺ\nኣደይ ተለመኒ ዘክሪ ኪዳንኪ\nስለ እቲ ዕድሜኺ ኵሉ ከይረኣኺ\nፍቕሪ ናይ ስድራቤት ከየስተማቐርኪ\nፍጹም ከይሰሓቕኪ ምስ ቆልዓ ጎረቤት\nጓል መብጽዓ ኮይንኪ ዘሕለፍክዮ ሕይወት\nብናትኪ ፍቕሪ እንከይጸገቡ\nቃሎም ከኽብሩ ጓሎም ዝሃቡ\nዝዛረየ ደምኪ ኣብ በረኻ ግብጺ\nዝጾርክዮ ኵሉ ናይ ሃልሃልታ ፈልጺ\nእናስተንተንኩ ስቓይ ስደትኪ\nሓዘን ልብኺ ውዑይ ንብዓትኪ\nእኔኹ ቆይመ ስምኪ ይጽውዕ\nካብ ጉሁይ ልበይ ዓይነይ ይነብዕ\nበቲ ነዊሕ ጉዕዞ ኣዝዩ ምስሰልከየ\nንኽትሕግዝዮ ገጽኪ እናረኣየ\nውላድኪ ክበኪ ንኽዳንኪ ሒዙ\nኣእዳውኪ ወስ ክብሉ ንብዓቱ ክደርዙ\nመድኃኔ ዓለም ኵሉ ዝኽእል\nረዳኢ እንከሎ ርድእኒ ክብል\nመሪር ሓዘንኪ ዘኪርኪ ድንግል\nቤዛይ ክትኮኒ ኣእዳወይ የልዕል\n[[/chorus]]\n\nመታን ንኸሕልፎ ካብ ሓጢኣት ርሒቐ\nኣብዛ ዓለም ምንባር ፈንፊነ ንዒቐ\nሓግዝኒ ድንግል ብጽድቂ ክነብር\nዘመነይ ከሕልፎ ብሕይወት ቁምነገር\nካባኺ እሞ ናብ መን ክኸይድ\nዋላ እንተኾነ ሓጢኣተይ ከቢድ\nንስኺ ኢኺ ጸግዐይ ዋሕሰይ\nበደለይ ደምሲስኪ ኣደ ኩንለይ",
+    "ti_ro": "[[chorus]]\nBzuh nteabesku wala ntebedelku\nKemqedemki kuni dngl telemeni\nMnti hazenki sqay mekerakhi\nAdey telemeni zekri kidanki\nSle ti 'dmekhi kwlu keyreakhi\nFqri nay sdrabet keyestemaqerki\nFts'um keysehaqki ms qol'a gorebet\nGwal mebts''a koynki zehlefkyo hywet\nBnatki fqri nkeyts'egebu\nQalom kekhbru gwalom zhabu\nZzareye demki ab berekha gbts'i\nZts'orkyo kwlu nay halhalta felts'i\nNastentenku sqay sdetki\nHazen lbkhi w'uy nb'atki\nNekhu qoyme smki yts'w'\nKab guhuy lbey 'ayney yneb'\nBeti newih gu'zo azyu msselkeye\nNkhthgzyo gets'ki nareaye\nWladki kbeki nkhdanki hizu\nAdawki wes kblu nb'atu kderzu\nMedhane 'alem kwlu zkhl\nRedai nkelo rdni kbl\nMerir hazenki zekirki dngl\nBezay ktkoni adawey yel'l\n[[/chorus]]\n\nMetan nkhehlfo kab hat'iat rhiqe\nAbza 'alem mnbar fenfine n'iqe\nHagzni dngl bts'dqi knebr\nZemeney kehlfo bhywet qumneger\nKabakhi mo nab men kkheyd\nWala ntekhone hat'iatey kebid\nNskhi ikhi ts'eg'ey wahsey\nBedeley demsiski ade kunley",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 204,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

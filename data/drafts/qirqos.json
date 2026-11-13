@@ -1,0 +1,53 @@
+{
+  "id": "h_ucy2zpr9v6h",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቂርቆስ",
+    "ti_ro": "ቂርቆስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብሩህ ኣእምሮ ቂርቆስ  ዑንቂ ባሕሪ ጽሩይ\nመንፈሳዊ ህፃን ኮኾብ ኣንጌቤናይ\nመራሒ ህፃናት ምሕረት እዩ ስምካ\nቅድሚ ነገሥታት’ውን ክርስቲያን’የ በልካ\nመዓጹ ናይ ቤትካ ምስ ኳሕኩሐት\nኣምላኸይ ኣምላኸይ ኢላ ‘ና ጸውዐት\nኢየሉጣ ረኺባ ፍረ ማኅፀና\nትዕግስቲ ዝምህር መሪሕ’ውን ዝኾና\nብዘይካ ክርስቶስ መላኺ ዘይብሉ\nቂርቆስ ሕፃን ኢዩ ፀዋሪ መስቀሉ /2/\n[[/chorus]]\n\nኦሪትን ሓዲስን ኢዩ ዝጠቡ\nጥበበኛ ሕፃን ዝጸረየ ልቡ\nተስፋ ሰኒቑ ኣብነት ንሕዝቡ\nኣብ እቶነ እሳት ምስጋና ከቕርቡ\nብዘይካ ክርስቶስ መላኺ ዘይብሉ\nቂርቆስ ሕፃን ኢዩ ፀዋሪ መስቀሉ /2/\nዕዉራት ዝመርሕ ሓቀኛ ሰማዕት\nጽንዓት እምነቱ ’ዩ ተኣምር ዝሰርሕ\nበይኑ ኣይደለዮን ሰማያዊ ክብሪ\nንዅሉ ክርስቲያን ጽንዓት’ዩ ፍቕሪ\nኣኽሊል ዝለበሰ ናይ ሰማእታት ኣካል\nሰማይ ዝሃገሩ ናይ ክርስቶስ ኣዛል\nብዘይካ ክርስቶስ መላኺ ዘይብሉ\nቂርቆስ ሕፃን ኢዩ ፀዋሪ መስቀሉ /2/",
+    "ti_ro": "[[chorus]]\nBruh amro qirqos  'unqi bahri ts'ruy\nMenfesawi hts'an kokhob angebenay\nMerahi hts'anat mhret yu smka\nQdmi negesstat’wn krstiyan’ye belka\nMe'ats'u nay betka ms kwahkuhet\nAmlakhey amlakhey ila ‘na ts'ew'et\nIyelut'a rekhiba fre mahts'ena\nT'gsti zmhr merih’wn zkhona\nBzeyka krstos melakhi zeyblu\nQirqos hts'an iyu ts'ewari mesqelu /2/\n[[/chorus]]\n\nOritn hadisn iyu zt'ebu\nT'bebenya hts'an zts'ereye lbu\nTesfa seniqu abnet nhzbu\nAb tone sat msgana keqrbu\nBzeyka krstos melakhi zeyblu\nQirqos hts'an iyu ts'ewari mesqelu /2/\n'Wurat zmerh haqenya sema't\nTs'n'at mnetu ’yu teamr zserh\nBeynu aydeleyon semayawi kbri\nNkhwlu krstiyan ts'n'at’yu fqri\nAkhlil zlebese nay sematat akal\nSemay zhageru nay krstos azal\nBzeyka krstos melakhi zeyblu\nQirqos hts'an iyu ts'ewari mesqelu /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 397,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

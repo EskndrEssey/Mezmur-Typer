@@ -1,0 +1,53 @@
+{
+  "id": "h_58unkvccwbf",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ማርያም ኢለ",
+    "ti_ro": "ማርያም ኢለ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ኢለ ክዝምር’የ\nከም ኣቦታተይ ክጽውዓ’የ\nብዜማ ያሬድ ብሓድሽ ምስጋና\nክዝምር’የ ምሉእ ዘመነይ\nማርያም ኢለ በዓል ቅኔ እንሆ ተዓጢቑ ፍጹም\n>>     >>  መንፈስካ ይማርኽ ማሕሌት ክቕወም\n>>     >>  ኣብቲ ማዕጠንተ ወርቅ ዓሪጉ ጸሎተይ\n>>     >>  ብኣደ ኢየሱስ ብኣኺ ድንግለይ\n[[/chorus]]\n\nማርያም ኢለ መሊኡ መቕደሱ ናይ ክብሪ ደመና\n>>     >>  ድንግል ናትኪ ምልጃ ናብኡ ስሒቡና\n>>     >>  ጸጋኺ ኣብ ቤተይ መሊኡ ፈሲሱ\n>>     >>  ሓዘነይ ብኽያተይ ጠፊኡ ሓሲሱ\n\nማርያም ኢለ ፈጺሙ ፈሪሱ ዕርዲ ጸላእየይ\n>>     >>  ብመስቀል ተደርዘ ንብዓት ናይ ኣዒንተይ\n>>     >>  ኣይፈርሕን ኣነስ ኣላትኒ ዋልታ\n>>     >>  ቁስለይ እትፍውስ ጸላኢ መኪታ\n\nዲ/ን እንዳልካቸው ዳኘው",
+    "ti_ro": "[[chorus]]\nMaryam ile kzmr’ye\nKem abotatey kts'w'a’ye\nBzema yared bhadsh msgana\nKzmr’ye mlu zemeney\nMaryam ile be'al qne nho te'at'iqu fts'um\n>>     >>  Menfeska ymarkh mahlet kqwem\n>>     >>  Abti ma't'ente werq 'arigu ts'elotey\n>>     >>  Bade iyesus bakhi dngley\n[[/chorus]]\n\nMaryam ile meliu meqdesu nay kbri demena\n>>     >>  Dngl natki mlja nabu shibuna\n>>     >>  Ts'egakhi ab betey meliu fesisu\n>>     >>  Hazeney bkhyatey t'efiu hasisu\n\nMaryam ile fets'imu ferisu 'rdi ts'elayey\n>>     >>  Bmesqel tederze nb'at nay a'intey\n>>     >>  Ayferhn anes alatni walta\n>>     >>  Qusley tfws ts'elai mekita\n\nDi/n ndalkachew danyew",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 66,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

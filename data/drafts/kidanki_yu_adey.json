@@ -1,0 +1,53 @@
+{
+  "id": "h_8imvpsheqo7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኪዳንኪ’ዩ ኣደይ",
+    "ti_ro": "ኪዳንኪ’ዩ ኣደይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኪዳንኪ ’ዩ ኣደይ ንዓይ ዘድኃነኒ\nምልጃኺ በዚሑ ዋሕስ’ውን ኮይኑኒ\nመከራይ ኣጥፊኡ ሰላም ኣፍሲሱለይ\nማርያም ንብዓትኪ’ዩ ዕርቂ ኣውሪዱለይ\nተስፋ ናይ ኣዳም ናዛዚት ኃዘኑ\nነቢያት ተነበዩ ፍጻሜ ዘመኑ\nካብ ድንግል ዝውለድ ኣማኑኤል ግሩም\nሓቀኛ መድኃኒት ኮነላ ንዓለም\n[[/chorus]]\n\nሥርወ እሴይ መንግሥት ዘርአ አሮን ክህነት\nኑሃሚን ውሉድኪ በሃገረ ስደት\nዳግማዊ ኣዳም ወሊድክልና ድኅነት\nትንሣኤ ኮይኑልና ሲኦል’ውን ተዘምተት\n\nኣብ ቀራንዮ ቦታ ጐይታ ክብሪ ኣምላኽ\nንድኅነትና ኢሉ ክግረፍ ብጭጕራፍ\nውዕለቱ ዘኪረ ንዕኡ ከምልኽ\nብዓውታ እዝምር ማኅሌት ኪሩብ መልኣኽ",
+    "ti_ro": "[[chorus]]\nKidanki ’yu adey n'ay zedhaneni\nMljakhi bezihu wahs’wn koynuni\nMekeray at'fiu selam afsisuley\nMaryam nb'atki’yu 'rqi awriduley\nTesfa nay adam nazazit hazenu\nNebiyat tenebeyu fts'ame zemenu\nKab dngl zwled amanuel grum\nHaqenya medhanit konela n'alem\n[[/chorus]]\n\nSsrwe sey mengsst zere eron khnet\nNuhamin wludki behagere sdet\nDagmawi adam welidklna dhnet\nTnssae koynulna siol’wn tezemtet\n\nAb qeranyo bota gwayta kbri amlakh\nNdhnetna ilu kgref bch'gwraf\nW'letu zekire n'u kemlkh\nB'awta zmr mahlet kirub melakh",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 396,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

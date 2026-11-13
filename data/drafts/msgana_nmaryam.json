@@ -1,0 +1,53 @@
+{
+  "id": "h_ko8d9e0d2fr",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስጋና ንማርያም",
+    "ti_ro": "ምስጋና ንማርያም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስጋና ንማርያም ካብ ሞት\nኣድኂና ብሕይወት ዘንበረትና\nናይ ቅዱሳን ሕይወት ኣደ መድኃኒና /2/\nንዓኺ መሪጹ ከይተፈጥረ ዓለም\nንዓና ንኸድሕን ሕያው መድኃኔ ዓለም\nብኣኺ ኢና’ሞ ሕይወት ዝረኸብና\nምስጋና ይብጻሕኪ ማርያም ኣዴና\n[[/chorus]]\n\nካብ ሰማይ ወሪዱ መድኃኔ ዓለም\nብሓቂ ይመስገን ይኽበር ንዘልዓለም\nንዘምር ኩልና ንጐይታ ፈጣሪ\nክንዲ ዝሃበና ናይ ዘልዓለም ክብሪ\nሓጢኣትና በዚሑ ሸኽሙ ከቢዱና\nኣቃልልና’ዶ ርህርህቲ ኣዴና\nንዓና ደቅኺ ሓጢኣት ዝበዝሓና\nካብ ፍቑር ወድኺ ምሕረት ለምንልና\nመሰረት ሕይወትና ድኅነት ናይ ነፍስና\nኣምላኽ ብምውላድኪ ካብ ጸልማት ወጺና\nካብ መከራ ኣውጺኡ ክህበና ሰላም\nተወሊዱ ጐይታ ካብ ድንግል ማርያም",
+    "ti_ro": "[[chorus]]\nMsgana nmaryam kab mot\nAdhina bhywet zenberetna\nNay qdusan hywet ade medhanina /2/\nN'akhi merits'u keytefet're 'alem\nN'ana nkhedhn hyaw medhane 'alem\nBakhi ina’mo hywet zrekhebna\nMsgana ybts'ahki maryam adena\n[[/chorus]]\n\nKab semay weridu medhane 'alem\nBhaqi ymesgen ykhber nzel'alem\nNzemr kulna ngwayta fet'ari\nKndi zhabena nay zel'alem kbri\nHat'iatna bezihu shekhmu kebiduna\nAqallna’do rhrhti adena\nN'ana deqkhi hat'iat zbezhana\nKab fqur wedkhi mhret lemnlna\nMeseret hywetna dhnet nay nefsna\nAmlakh bmwladki kab ts'elmat wets'ina\nKab mekera awts'iu khbena selam\nTewelidu gwayta kab dngl maryam",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 335,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

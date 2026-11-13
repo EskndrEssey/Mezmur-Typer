@@ -1,0 +1,53 @@
+{
+  "id": "h_y11io59w6x0",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕግበት ፍቕራ ዘንቀሎ",
+    "ti_ro": "ዕግበት ፍቕራ ዘንቀሎ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕግበት ፍቕራ ዘንቀሎ\nልበይ ይጐስዕ ኣሎ\nመዝሙር ምስጋና ፣\nበረኸት ስማ  ዘሕደረሉ\nድንግል ማርያም ክብል ነቒሉ\nኣደ መድኅነይ ክብል ዘወትር ወግሐ ጸብሐ\nነናሻዕ እድሰት ጭንቀት ውሽጠይ ገኒሐ (2)\nግን ኵሉ ክርስዖ ድምጻ ምስ ሰማዕኩ\nትዝ’ብለኒ ዅሉ ከምዛ ብተይ ‘ናዘለልኩ(2)\nዕቅብቲ መርዓት መጸት መርዓዊ ‘ኸቲላ\nብደመና ሰማይ ክቡር ስሉም ሠረገላ(2)\nወላዲት ጸሓይ ‘ያ ‘ኮ  ወርሒ’ዛ ድምቕቲ\nዘምርላ ነፍሰይ ብዝማሬ መላእኽቲ(2)\n[[/chorus]]\n\nንዘይትመውት ነፍሰይ መን ኣለዋ ተስፋ\nብዘይካ ዋሕሳ ዋሕስ መን ተደጊፋ(2)\nሥጋይ’ኳ እንተቕበጸት ከይሰምር ፍታዋ\nነፍሰይ ኣሚናላ ካብ ጸልማት ክትሕልዋ(2)\nትጽቢት ርህርህቲ ጽዮን ቅድስቲ ከተማ\nሃንቀውታኣ ’ንድዩ ንኽብሕቶ ሰላማ(2)\nወሲነ ኣለኹ ኣነስ ከይጥምት ንድሕረይ\nስም ወዳ ከመስግን ፈልፋሊ‘ዩ መዝሙረይ(2)",
+    "ti_ro": "[[chorus]]\n'Gbet fqra zenqelo\nLbey ygwas' alo\nMezmur msgana ,\nBerekhet sma  zehderelu\nDngl maryam kbl neqilu\nAde medhney kbl zewetr weghe ts'ebhe\nNenasha' dset ch'nqet wsht'ey genihe (2)\nGn kwlu krs'o dmts'a ms sema'ku\nTz’bleni khwlu kemza btey ‘nazelelku(2)\n'Qbti mer'at mets'et mer'awi ‘khetila\nBdemena semay kbur slum Sseregela(2)\nWeladit ts'ehay ‘ya ‘ko  werhi’za dmqti\nZemrla nefsey bzmare melakhti(2)\n[[/chorus]]\n\nNzeytmewt nefsey men alewa tesfa\nBzeyka wahsa wahs men tedegifa(2)\nSsgay’kwa nteqbets'et keysemr ftawa\nNefsey aminala kab ts'elmat kthlwa(2)\nTts'bit rhrhti ts'yon qdsti ketema\nHanqewtaa ’ndyu nkhbhto selama(2)\nWesine alekhu anes keyt'mt ndhrey\nSm weda kemesgn felfali‘yu mezmurey(2)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 177,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

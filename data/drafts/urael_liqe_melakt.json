@@ -1,0 +1,53 @@
+{
+  "id": "h_4s04co1532e",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዑራኤል ሊቀ መላእክት",
+    "ti_ro": "ዑራኤል ሊቀ መላእክት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክብርኻ ብዙሕ’ዩ እስከ ክዛረብ\nዑራኤል    ንእዝራ ሱቱኤል\n>>   >>     ጽዋእ ዘስተኻ\n>>   >>     ስዩመ እግዚአብሔር\n>>   >>     ንስኻ እኳ ኢኻ\n[[/chorus]]\n\nዑራኤል    ንቅድስት ድንግል\n>>   >>     ምስቲ ፍቁር ወዳ\n>>   >>     በረኻ በረኻ\n>>   >>     መሪሕካ ንስኻ\nዑራኤል     ካብ ኣእላፍ መላእክት\n>>   >>     ትበልጽ ንስኻ\n>>   >>    ብክብርኻ ፍሉይ\n>>   >>     ናይ ነገድ ኣዛዛይ\n\nዑራኤል    መብረቕ ነጎድጓድ\n>>   >>     ንኽግዝኡልካ\n>>   >>     ካብ ኵሎም መላእክት\n>>   >>     ንዓኻ ሃበካ\nዑራኤል     እሙን ኣገልጋላይ\n>>   >>     ወተሃደር ናይ ሰማይ\n>>   >>     ትለኣኽ ንሳህል\n>>   >>     ካብ ኣምላኽና ልዑል",
+    "ti_ro": "[[chorus]]\nKbrkha bzuh’yu ske kzareb\n'Urael    nzra sutuel\n>>   >>     Ts'wa zestekha\n>>   >>     Syume gziebher\n>>   >>     Nskha kwa ikha\n[[/chorus]]\n\n'Urael    nqdst dngl\n>>   >>     Msti fqur weda\n>>   >>     Berekha berekha\n>>   >>     Merihka nskha\n'Urael     kab alaf melakt\n>>   >>     Tbelts' nskha\n>>   >>    Bkbrkha fluy\n>>   >>     Nay neged azazay\n\n'Urael    mebreq negodgwad\n>>   >>     Nkhgzulka\n>>   >>     Kab kwlom melakt\n>>   >>     N'akha habeka\n'Urael     mun agelgalay\n>>   >>     Wetehader nay semay\n>>   >>     Tleakh nsahl\n>>   >>     Kab amlakhna l'ul",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 525,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

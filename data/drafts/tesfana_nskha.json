@@ -1,0 +1,53 @@
+{
+  "id": "h_gogrubcl405",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተስፋና ንስኻ",
+    "ti_ro": "ተስፋና ንስኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተስፋና ንስኻ ንዘለዓለም /2/\nወዲ ድንግል ማርያም መድኃኔ ዓለም /2/\nደምካ ዝነጸገ መልኣከ ሰላም /2/\nቅዱስ ዑራኤል ኢዩ ይኽበር መድኃኔ ዓለም /2/\n[[/chorus]]\n\nተስፋና ንስኻ ንዘለዓለም /2/\nወዲ ድንግል ማርያም መድኃኔ ዓለም /2/\nኣሜን ኣሜን ኣሜን ንብል ብሓበራ /2/\nሰላምካ ለኣኽ ንመላእ ኤርትራ /2/",
+    "ti_ro": "[[chorus]]\nTesfana nskha nzele'alem /2/\nWedi dngl maryam medhane 'alem /2/\nDemka znets'ege melake selam /2/\nQdus 'urael iyu ykhber medhane 'alem /2/\n[[/chorus]]\n\nTesfana nskha nzele'alem /2/\nWedi dngl maryam medhane 'alem /2/\nAmen amen amen nbl bhabera /2/\nSelamka leakh nmela ertra /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 844,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

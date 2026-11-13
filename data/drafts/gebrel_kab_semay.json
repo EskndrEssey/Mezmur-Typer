@@ -1,0 +1,53 @@
+{
+  "id": "h_r2fo5909ro4",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ገብርኤል ካብ ሰማይ",
+    "ti_ro": "ገብርኤል ካብ ሰማይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nገብርኤል ካብ ሰማይ ኤልሳቤጥ ካብ ምድሪ (2)\nይምስክሩ ድንግል ነቲ ናትኪ ክብሪ\nብጽእት ንብል ንሕና ፍጹም ተዓጢቕና\nንልዑል ናይ ራማ ኣብነትና ጌርና\nሱርኪ ኣብ ምድሪ’ዩ ሓረግኪ ኣብ ሰማይ\nንጹህ መሶበ ወርቅ ዝመልኣኪ ሲሳይ\nንፍረ ማህጸንኪ በላዕና ሰቴና\nሰሚዕና ኣብ ኤፍራታ ኣብ ዱር ረኺብና\nነቲ ስዉር መና በሊዕና ጸጊብና\nምስቶም ሕሩያቱ ብጽዕት ኢልና’ና\nልዕሊ ተፈጥሮ ንጽንሲ ዘዝለለ\nኣዕኑድ ናይ ሓዊ ኣባኺ ተተኽለ\nሃገረ እግዚአብሔር ቤት ናይ እንጌራና\nክንደይ የደንቕ’ዩ ክብርኺ ኣዴና\nብጽዕት ንብል ንሕና ፍጹም ተዓጢቕና\nንቅድስት ኤልሳቤጥ ኣብነትና ጌርና\nኣብ መብልዕ ማል ኮይኑ ስለዝረኣይዎ\nሰብን መላእኽትን ሽዑ ኣመስገንዎ\nንመንደቕ ናይ ባእሲ ወድኺ ኣፍረሰ\nብዳግሚት ሔዋን ወድሰብ ተኻሕሰ\n[[/chorus]]\n\nሰላምታ ነቕርብ ትሕትና ኣሰኒና\nክብርኺ ምምስካር ኢዩ’ሞ ክብርና",
+    "ti_ro": "[[chorus]]\nGebrel kab semay elsabet' kab mdri (2)\nYmskru dngl neti natki kbri\nBts't nbl nhna fts'um te'at'iqna\nNl'ul nay rama abnetna gerna\nSurki ab mdri’yu haregki ab semay\nNts'uh mesobe werq zmelaki sisay\nNfre mahts'enki bela'na setena\nSemi'na ab efrata ab dur rekhibna\nNeti swur mena beli'na ts'egibna\nMstom hruyatu bts''t ilna’na\nL'li tefet'ro nts'nsi zezlele\nA'nud nay hawi abakhi tetekhle\nHagere gziebher bet nay ngerana\nKndey yedenq’yu kbrkhi adena\nBts''t nbl nhna fts'um te'at'iqna\nNqdst elsabet' abnetna gerna\nAb mebl' mal koynu slezreaywo\nSebn melakhtn sh'u amesgenwo\nNmendeq nay basi wedkhi afrese\nBdagmit hewan wedseb tekhahse\n[[/chorus]]\n\nSelamta neqrb thtna asenina\nKbrkhi mmskar iyu’mo kbrna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 28,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

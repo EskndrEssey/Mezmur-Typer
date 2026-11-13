@@ -1,0 +1,54 @@
+{
+  "id": "h_f7f8rgqz9dv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣነ’ውን ክውድስ",
+    "ti_ro": "ኣነ’ውን ክውድስ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣነ’ውን ክውድስ ብምስጋና\nንድንግል ማርያም ብምስጋና\nምስጋና ኣሎኒ ጌና /2/ ንድንግል ምስጋና\nምልአተ ጸጋ ጸዋሪት መለኮት\nወላዲት ኣምላኽ መልዕልተ መላእክት\nኣምላኽ እዩ’ኮ ተገሊጹ መሲሕ\nልዕሊ ኣአምሮ ኮይኑ ድንቂ ስራሕ\nዘደንቕ ስራሕ ዘደንቕ ኣምላኽና ሰብ ኮነ\nዘደንቕ ስራሕ ዘይውሰን ፍጹም ተወሰነ\nኣነስ ክምሰጥ ሕሊናይ ሰቒለ\nንምስጋናኺ ፍጹም ተላዒለ\nምስጋና ኣሎኒ ፈልፋሊ ከም ዓይኒ ማይ\nምስጋና ኣሎኒ ፍቕርኺ ዘሕደረለይ\nምስጋና ኣሎኒ ኣብ እዝኒ ኣሕዛብ ዝበጽሕ\nምስጋና ኣሎኒ በረኸተይ ዘብዝኅ /2/\nካበይ ኮነለይ ዜናኺ ክነግር\nቅድስናኺ ብኣፈይ ክምስክር\nግንከ ኣይክእሎን በየናይ ልሳነይ\nንውዳሴኺ ይሓጽረኒ ቃለይ\nኣንሰ ጽሒፈ ለውዳሴኪ እምኢኃልቀ\nሶበ ኮነ ጥቀ ዝናመ ክረምት ቀለመ ወሰማይ ረቀ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nAne’wn kwds bmsgana\nNdngl maryam bmsgana\nMsgana aloni gena /2/ ndngl msgana\nMlete ts'ega ts'ewarit melekot\nWeladit amlakh mel'lte melakt\nAmlakh yu’ko tegelits'u mesih\nL'li aemro koynu dnqi srah\nZedenq srah zedenq amlakhna seb kone\nZedenq srah zeywsen fts'um tewesene\nAnes kmset' hlinay seqile\nNmsganakhi fts'um tela'ile\nMsgana aloni felfali kem 'ayni may\nMsgana aloni fqrkhi zehdereley\nMsgana aloni ab zni ahzab zbets'h\nMsgana aloni berekhetey zebzh /2/\nKabey koneley zenakhi knegr\nQdsnakhi bafey kmskr\nGnke ayklon beyenay lsaney\nNwdasekhi yhats'reni qaley\nAnse ts'hife lewdaseki mihalqe\nSobe kone t'qe zname kremt qeleme wesemay reqe /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 381,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

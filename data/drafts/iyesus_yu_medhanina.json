@@ -1,0 +1,53 @@
+{
+  "id": "h_j4tfzyns749",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኢየሱስ’ዩ መድኃኒና",
+    "ti_ro": "ኢየሱስ’ዩ መድኃኒና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንጹህ ደሙ ዘፍሰሰልና\nኢየሱስ’ዩ መድኃኒና\nገንሸል ፋሲካና ምንጪ ናይ ሓጎስና\nካብ ጸልማት ባርነት ዝተበጀወና\nቆሲሉ ደኣ ‘ምበር ኣቑሲሉ ኣይኮነን\nማሪኹ ልብና ዝበልና ንኣምን\n[[/chorus]]\n\nንሱ’ዩ ኣምላኽና መድኅን ናይ ሕይወትና\nዝተወሃሃደ ለቢሱ ሥጋና\nፍጡር’ዩ ኣይንብልን ከምቶም ዝዓሸዉ\nኣብ ዕንደራ ሰይጣን ፍጹም ዝዓለዉ\nነስተውዕል ኵልና ዝተኸፍለ ዋጋ\nፈንቂሉ ዘውጽኣና ካብ ሰይጣን መንጋጋ\nተፈዊስና ኢና ቁስልና ሃሲሱ\nብመከራ ጐይታ ፍጹም ተደቢሱ\n\nኣማላዲ ኣይኮነን ኣምላኽ’ዩ ዘልዓለም\nንርእሱ ዘትሓተ ክህበና ሰላም\nልቦና ግበሩ ኣይትጠራጠሩ\nኣብ ቅኑዕ ጎደና ብጥበብ ንበሩ",
+    "ti_ro": "[[chorus]]\nNts'uh demu zefseselna\nIyesus’yu medhanina\nGenshel fasikana mnch'i nay hagosna\nKab ts'elmat barnet ztebejewena\nQosilu dea ‘mber aqusilu aykonen\nMarikhu lbna zbelna namn\n[[/chorus]]\n\nNsu’yu amlakhna medhn nay hywetna\nZtewehahade lebisu Ssgana\nFt'ur’yu aynbln kemtom z'ashewu\nAb 'ndera seyt'an fts'um z'alewu\nNestew'l kwlna ztekhefle waga\nFenqilu zewts'ana kab seyt'an mengaga\nTefewisna ina quslna hasisu\nBmekera gwayta fts'um tedebisu\n\nAmaladi aykonen amlakh’yu zel'alem\nNrsu zethate khbena selam\nLbona gberu aytt'erat'eru\nAb qnu' godena bt'beb nberu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 320,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

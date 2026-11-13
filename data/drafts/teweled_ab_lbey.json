@@ -1,0 +1,54 @@
+{
+  "id": "h_35i90fy18p2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተወለድ ኣብ ልበይ",
+    "ti_ro": "ተወለድ ኣብ ልበይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nወሃቢ ኢኻ'ሞ ለጋስ ምሉእ ኢዱ\nሃብታም ሓላይ ድኻ ሽጉር ዝዘመዱ\nፍቕርኻ'ዩ በል ስእነት ውሽጢ ቤተይ\nሰማያዊ ንጉሥ ተወለድ ኣብ ልበይ\nክንደይ ከይጸንሓካ ልበይ ብጽፉፉ እላሙ ተሰፍዩ\nጠቐር መሊእዎ ኣብኡ'ሎ ተደርብዩ\nክንደይ ከይጸንሓካ ኩስቱር ምድሪ ቤቱ ሰቲ ‘ተነስነሶ\nምኡዝ ቅዱይ ቅብኢ ሽቶ ዝፈሰሶ\nመን ኣሎኒዩ’ሞ ገጹ ዝመልሰለይ ብጊዜ ጸበባ\nነፍሰይ ዝቕበላ ከላ ምስ ሰበባ\nክደምቕ ብርሃነይ ከምታ ጸሓይ ብራቕ ዘብህግ ትርኢታ\nኣይድብዝዝ ኣይሃስስ ኣየወ ምልኣታ\nተወለድ ኣብ ልበይ ክኸውን ባርያኻ እምነት ዝጸገዎ\nልበይ ከይሰልከየ ቃልካ ክረርዎ\nተወለድ ኣብ ልበይ ቃልካ እቲ መድኃኒ ክኸውን መዝሙረይ\nፍቕሪ ምስ ተስፋኣ ክመልኦ ንልበይ\nምዃንካ እፈልጥ'የ ዝደነነት ልቢ ንስኻ ተቕንዓ\nዝተሰደት ነፍሲ ምዃንካ ዑቕባኣ\nምዃንካ እፈልጥ'የ ሕያው ብዘለዎ ጸጋኻ የጽግቦ\nሽጉር ብዙርያኡ ምሕረትካ ይኸቦ\nከመይ 'ለ ትም ክብል መናድቐይ ከሎ ብኾረት ተዃንዩ\nሓሳበይ ዘበለ ብኽፋእ ተነንዩ\nከመይ 'ለ ትም ክብል ከም ብዝሒ ምሕረትካ ስምዓኒ ጸሎተይ\nመብልዕ ማል ይኹንካ ተወለድ ኣብ ልበይ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nWehabi ikha'mo legas mlu idu\nHabtam halay dkha shgur zzemedu\nFqrkha'yu bel snet wsht'i betey\nSemayawi nguss teweled ab lbey\nKndey keyts'enhaka lbey bts'fufu lamu tesefyu\nT'eqer meliwo abu'lo tederbyu\nKndey keyts'enhaka kustur mdri betu seti ‘tenesneso\nMuz qduy qbi shto zfeseso\nMen aloniyu’mo gets'u zmelseley bgize ts'ebeba\nNefsey zqbela kela ms sebeba\nKdemq brhaney kemta ts'ehay braq zebhg trita\nAydbzz ayhass ayewe mlata\nTeweled ab lbey kkhewn baryakha mnet zts'egewo\nLbey keyselkeye qalka krerwo\nTeweled ab lbey qalka ti medhani kkhewn mezmurey\nFqri ms tesfaa kmelo nlbey\nMkhwanka felt''ye zdenenet lbi nskha teqn'a\nZtesedet nefsi mkhwanka 'uqbaa\nMkhwanka felt''ye hyaw bzelewo ts'egakha yets'gbo\nShgur bzuryau mhretka ykhebo\nKemey 'le tm kbl menadqey kelo bkhoret tekhwanyu\nHasabey zebele bkhfa tenenyu\nKemey 'le tm kbl kem bzhi mhretka sm'ani ts'elotey\nMebl' mal ykhunka teweled ab lbey /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 286,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

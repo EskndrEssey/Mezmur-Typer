@@ -1,0 +1,53 @@
+{
+  "id": "h_m42985txvwl",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እግዚአብሔር ይመስገን",
+    "ti_ro": "እግዚአብሔር ይመስገን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእግዚአብሔር ይመስገን ነዚ ዘብቅዓና\nካብቲ ጸልማት ሕይወት ሓራ ዘውጽኣና\nጸልማት ተጎልቢቡ እንከንደልህጽ ልብና\nንሱ ግን ጋሊሁ ብርሃን ኣርኣየና\nከተማታት ግብጺ `ቶም ዝነደቕናዮም\nናትና ኣይኮኑን እሞ ፍጹም ሓዲግናዮም\nናትና ኣይኮነን’ሞ ሓዲግናዮ ኬድና\nቃላትካ እንክንሰምዕ ኣዚና ንረብሕ\nካብ ክፉእ ንድሕን ብኣኻ ንምካሕ\nጠፊኦም ተባሂሉ ፍጹም ተረሲዕና\nተስፋና ማሲኑ ፍጹም ምስ ሰጋእና\nኣምላኽ ግን መሓሪ ኣለኹ ኢልካና\nናይ ዘልዓለም ሕይወት ብስራት ሰሚዕና\n[[/chorus]]\n\nኣኽሊል ናይ ሽመትና ኢኻ መዓርግና\nመስቀልካ `ቲ ሞትካ ሕይወት ዓዲሉና\nምውዳቕ ምትንሳእካ ናትካ ምክልባት\nኣቚሙና እዩ`ሞ ንዓኻ ስብሐት",
+    "ti_ro": "[[chorus]]\nGziebher ymesgen nezi zebq'ana\nKabti ts'elmat hywet hara zewts'ana\nTs'elmat tegolbibu nkendelhts' lbna\nNsu gn galihu brhan arayena\nKetematat gbts'i `tom znedeqnayom\nNatna aykonun mo fts'um hadignayom\nNatna aykonen’mo hadignayo kedna\nQalatka nknsem' azina nrebh\nKab kfu ndhn bakha nmkah\nT'efiom tebahilu fts'um teresi'na\nTesfana masinu fts'um ms segana\nAmlakh gn mehari alekhu ilkana\nNay zel'alem hywet bsrat semi'na\n[[/chorus]]\n\nAkhlil nay shmetna ikha me'argna\nMesqelka `ti motka hywet 'adiluna\nMwdaq mtnsaka natka mklbat\nAqwimuna yu`mo n'akha sbhet",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 35,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

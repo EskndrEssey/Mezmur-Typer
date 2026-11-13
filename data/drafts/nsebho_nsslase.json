@@ -1,0 +1,53 @@
+{
+  "id": "h_o37e8v56u2p",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንሴብሖ ንሥላሴ",
+    "ti_ro": "ንሴብሖ ንሥላሴ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንሴብሖ ንሥላሴ (2)\nክበር ተመስገን ኣምላከ ሙሴ (2)\nኣማላዲትና ኣዴና (2)\nንዒ ንዒ ንግስትና\nተረኸቢ ኣብ ማእከልና\n[[/chorus]]\n\nነዓ ነዓ ሚካኤል (2)\nኣብ ትሕቲ ኣክናፍካ ኣጽልለና (2)\n\nነዓ ነዓ ዑራኤል (2)\nከም ቅዱስ እዝራ ሱቱኤል\nሃበና ጥበብ ምስትውዓል (2)\nነዓ ነዓ ጊዮርጊስ(2)\nንጉሥ ዘልዳ ጊዮርጊስ\nገድልኻ ሰሚዕና ንፍወስ (2)\n\nነዓ ነዓ ተክለሃይማኖት (2)\nይሓልወና ናትካ ጸሎት\nንኽንጸንዕ ኣብ ሃይማኖት (2)\nነዓ ነዓ በኣናብስት (2)\nኣቦ ኩላትና ገብረሕይወት\nደቀይ በለና ኣብ ሰማያት (2)",
+    "ti_ro": "[[chorus]]\nNsebho nsslase (2)\nKber temesgen amlake muse (2)\nAmaladitna adena (2)\nN'i n'i ngstna\nTerekhebi ab makelna\n[[/chorus]]\n\nNe'a ne'a mikael (2)\nAb thti aknafka ats'llena (2)\n\nNe'a ne'a 'urael (2)\nKem qdus zra sutuel\nHabena t'beb mstw'al (2)\nNe'a ne'a giyorgis(2)\nNguss zelda giyorgis\nGedlkha semi'na nfwes (2)\n\nNe'a ne'a teklehaymanot (2)\nYhalwena natka ts'elot\nNkhnts'en' ab haymanot (2)\nNe'a ne'a beanabst (2)\nAbo kulatna gebrehywet\nDeqey belena ab semayat (2)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 465,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

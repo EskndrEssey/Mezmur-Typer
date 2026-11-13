@@ -1,0 +1,53 @@
+{
+  "id": "h_6brmcv9h5hj",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕጹብ ድንቂ’ዩ",
+    "ti_ro": "ዕጹብ ድንቂ’ዩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕጹብ  ድንቂ’ዩ እቲ ውዕለቱ\nኣምላኽ ንዓና ዝገበሮ\nከቶ ኣይሓድገናን ንዘልዓለም\nከም እግዚአብሔር ማንም የለን\nወዲቕና ኔርና ኣተንሲኡ\nባሕሪ ከፊሉ ኣሳጊሩ\nናይ እምነት መርከብ እና ኣንሰፈፈ\nሩባ ድነ ሞት እናኣሕለፈ\n[[/chorus]]\n\nዝጠፍአት በጊዕ ንኽደሊ\nንገዛእ ርእሱ ኣዋሪዱ\nኣብ ሓዘን ሽግር ተኻፋሊ\nለዋህ ኣምላኽ’ዩ ተለማኒ\n\nመታን ክንረክብ ጽኑዕ ሕይወት\nኣፍቂሩና’ዩ ክሳዕ ብሞት\nደጊም እሞ እንታይ የፍርሓና\nንኽፉእ ዘይህብ ኣቦ ኣሎና",
+    "ti_ro": "[[chorus]]\n'Ts'ub  dnqi’yu ti w'letu\nAmlakh n'ana zgebero\nKeto ayhadgenan nzel'alem\nKem gziebher manm yelen\nWediqna nerna atensiu\nBahri kefilu asagiru\nNay mnet merkeb na ansefefe\nRuba dne mot naahlefe\n[[/chorus]]\n\nZt'efet begi' nkhdeli\nNgeza rsu awaridu\nAb hazen shgr tekhafali\nLewah amlakh’yu telemani\n\nMetan knrekb ts'nu' hywet\nAfqiruna’yu ksa' bmot\nDegim mo ntay yefrhana\nNkhfu zeyhb abo alona",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 38,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

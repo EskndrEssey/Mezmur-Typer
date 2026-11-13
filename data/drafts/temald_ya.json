@@ -1,0 +1,54 @@
+{
+  "id": "h_4v0alr75ryl",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተማልድ’ያ",
+    "ti_ro": "ተማልድ’ያ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ድንግል ርህርህት ኣዴና\nተማልድያ ናብ ፈጣሪና\nኣይንጠራጠርን ተማልድያ ማርያም ኣዴና/2/\nመሰረት ሕይወትና መውጽኢት ናይ ጸሓይ\nዋሕስ ናይ ኵሉኺ ብምድሪ ብሰማይ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMaryam dngl rhrht adena\nTemaldya nab fet'arina\nAynt'erat'ern temaldya maryam adena/2/\nMeseret hywetna mewts'it nay ts'ehay\nWahs nay kwlukhi bmdri bsemay\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 491,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

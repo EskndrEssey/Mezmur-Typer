@@ -1,0 +1,53 @@
+{
+  "id": "h_be2qgv8ojr9",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ከንፈረይ ፍረ",
+    "ti_ro": "ናይ ከንፈረይ ፍረ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ከንፈረይ ፍረ ብጥዑም ዝማሬ\nክዝምር ንጐይታ በገናይ ኣልዒለ\nክውድስ ንስሙ ውዕለቱ ዘኪረ\nቃላት ይሓጽረኒ እምበር ኣይደክምን ኣነ\nመስክሪ ጌርጌሴኖን ዝረኣኽዮ ውዕለት\nምሓዝ ክስእኑኒ ሰባት ብሰንሰለት\nሕያዋይ ሳምራዊ ሽግረይ ጼርካዮ\nዘይንገር ውዕለትካ ፍቕርኻ ርኤዮ\nኣደ ከምዘይብሉ ህፃን ኣይትሕደገኒ\nዘመድ ከምዘይብሉ ጓና ኣይትግበረኒ\nከም ፍቑር ወድኻ ኣለኹ በለኒ\nኣብ ኵሉ መንገደይ ባዕልኻ ምርሓኒ\n[[/chorus]]\n\nተስፋ ምድሓን እምበር ክፉእ ዘይርከቦ\nርውየቱ ድኅነትና ፍቕርና ዝስሕቦ\nንዑ ከተዕርፉ ጾር ዝኸበደኩም\nይድንግጽ’ዩ እግዚአብሔር ይርኢ ድኻምኩም",
+    "ti_ro": "[[chorus]]\nNay kenferey fre bt''um zmare\nKzmr ngwayta begenay al'ile\nKwds nsmu w'letu zekire\nQalat yhats'reni mber aydekmn ane\nMeskri gergesenon zreakhyo w'let\nMhaz ksnuni sebat bsenselet\nHyaway samrawi shgrey ts'erkayo\nZeynger w'letka fqrkha reyo\nAde kemzeyblu hts'an aythdegeni\nZemed kemzeyblu gwana aytgbereni\nKem fqur wedkha alekhu beleni\nAb kwlu mengedey ba'lkha mrhani\n[[/chorus]]\n\nTesfa mdhan mber kfu zeyrkebo\nRwyetu dhnetna fqrna zshbo\nN'u kete'rfu ts'or zkhebedekum\nYdngts'’yu gziebher yri dkhamkum",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 274,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_a4aalfu9ur7",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኤፍታሕ ኢልካኒ",
+    "ti_ro": "ኤፍታሕ ኢልካኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኤፍታሕ ኢልካኒ ጐይታይ መን ይኣስረኒ\nንስኻ ትምሕረኒ ንስኻ ይቕረ ትብለኒ\nንስኻ ትረድኣኒ ባዕልኻ ትድግፈኒ\nኣብ መገዲ ኢያሪኮ ዘይገደፍካኒ\nዑረት ልበይ ርኢኻ ዝረዳእካኒ\nኤልሻዳይ ጐይታ ንዓይ ኤፍታሕ ኢልካኒ\nብርሃን ቅድስናኻ ቤትካ ኣርእዩኒ\n[[/chorus]]\n\nቁመተይ ሓጺሩኒ ኣብ ሳግላ ኮይነ\nነቲ ግሩም መልክዕኻ ምርኣይ ስኢነ\nድሌተይ ፈሊጥካዮ ቤተይ ኣቲኻ\nባሪኽዋ ንቤተይ ቅዱስ መንፈስካ\nሰኸመይ ተሰኪምካ ቅንዕ ከይበልካ\nክሳብ ቀራንዮ ጐይታ ኃጢኣተይ ጼርካ\nምእንታይ ተገሪፍካ በጃይ ዝሞትካ\nከም ግብረይ ከይፈረድካ ሰላመይ ኣዊጅካ\n\nድኹም ኃጥእ’ዩ ኢልካ ዘይነዓቕካኒ\nብናይ ምሕረት ዓይንኻ ዝጠመትካኒ\nብምንታ’የ ዝመልሶ ናትካ ውሬታ\nልበይ ሓጎስ መሊኡ ልሳነይ ዕልልታ",
+    "ti_ro": "[[chorus]]\nEftah ilkani gwaytay men yasreni\nNskha tmhreni nskha yqre tbleni\nNskha tredani ba'lkha tdgfeni\nAb megedi iyariko zeygedefkani\n'Uret lbey rikha zredakani\nElshaday gwayta n'ay eftah ilkani\nBrhan qdsnakha betka aryuni\n[[/chorus]]\n\nQumetey hats'iruni ab sagla koyne\nNeti grum melk'kha mray sine\nDletey felit'kayo betey atikha\nBarikhwa nbetey qdus menfeska\nSekhemey tesekimka qn' keybelka\nKsab qeranyo gwayta hat'iatey ts'erka\nMntay tegerifka bejay zmotka\nKem gbrey keyferedka selamey awijka\n\nDkhum hat'’yu ilka zeyne'aqkani\nBnay mhret 'aynkha zt'emetkani\nBmnta’ye zmelso natka wreta\nLbey hagos meliu lsaney 'llta",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 263,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

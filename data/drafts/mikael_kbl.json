@@ -1,0 +1,53 @@
+{
+  "id": "h_f5bu5hnnyh2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሚካኤል ክብል",
+    "ti_ro": "ሚካኤል ክብል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብርሃን ኣምላኸይ ልዕለይ ይበርህ\nሓላዪ እዩ ፍጹም ሓላዪ\nዝሕልወኒ ዘበርትዓኒ /2/\nሕዝቡ ዝመርሕ ምስ ሓለቓታት\nዝመላለስ ኣብ እምባ እሳት\nካብቲ ቦታኣ ባሕሪ ሃደመት\nብመልኣክ ጐይታ ምስ ተናወጸት\nንገበል ኣሰነፈ\nስሙ ብኽብሪ ጽሓፈ /2/\n[[/chorus]]\n\n‘ቲ ከቢድ እምባ ሜዳ ኮይኑለይ\nእቲ ቤት ማእሰርቲ ተኸፊቱለይ\nኣይናወጽን ከቶ ኣይፈርሕን\nሚካኤል ከሎ ገለ ኣይከውንን\nንትዕቢተኛ ስዒርዎ እዩ\nሰይጣን ሓፊሩ ዕጥቁ ኣውሪዱ\nምሉእ ጸጥታ ኣብ ሰማይ ኮነ\nእግዚአብሔር ጥራይ ስሙ ገነነ\n\nቀልጢፉ መጸ ሚካኤል ናባይ\nዝቃወሙኒ ርሓቑ ካባይ\nሊቀ መላእክት ኣብ ቅድመይ ኮነ\nንብዓተይ ጠፍአ ታሪኽ ተሰርሐ",
+    "ti_ro": "[[chorus]]\nBrhan amlakhey l'ley yberh\nHalayi yu fts'um halayi\nZhlweni zebert'ani /2/\nHzbu zmerh ms haleqatat\nZmelales ab mba sat\nKabti botaa bahri hademet\nBmelak gwayta ms tenawets'et\nNgebel asenefe\nSmu bkhbri ts'hafe /2/\n[[/chorus]]\n\n‘Ti kebid mba meda koynuley\nTi bet maserti tekhefituley\nAynawets'n keto ayferhn\nMikael kelo gele aykewnn\nNt'bitenya s'irwo yu\nSeyt'an hafiru 't'qu awridu\nMlu ts'et'ta ab semay kone\nGziebher t'ray smu genene\n\nQelt'ifu mets'e mikael nabay\nZqawemuni rhaqu kabay\nLiqe melakt ab qdmey kone\nNb'atey t'efe tarikh teserhe",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 112,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

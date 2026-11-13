@@ -1,0 +1,53 @@
+{
+  "id": "h_48vjtdri9pa",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከማሃ ኃዘን",
+    "ti_ro": "ከማሃ ኃዘን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከማሃ ኃዘን /3/\nወተሰዶ ከማሃ ኃዘን /2/\nከማሃ ኃዘን ወተሰዶ /2/\nሶበ በኩለሄ ረከቦ ርእዮ ለይብኪ ዐይነልብ ዘቦ\nሄሮድስ እቲ ተመን ክቐትሎ ምስ በለ\nህፃን ምስ አዲኡ ናብ ስደት ተላዕለ\nኣብ ሕቑፊ ዝባና ኔው ነጀው እናበለ\nኣድከማ እቲ ጉዕዞ ኣእጋራ ቆሰለ /2/\n[[/chorus]]\n\nኣብቲ ዘይትፈልጦ ሃገር ባዕዲ ኮይና\nኣብ ቁሪ ኣብ ሃሩር መዕቆቢ ስኢና\nጨካናት ሸፋቱ ሕሰም ወሰኹኺ\nንሓዘን ብሓዘን ድንግል ደበሱኺ /2/\n\nብቓላት ዘይግለጽ ኵሉ እቲ ጸገማ\nምፈተኹ ኣነስ ክካፈል ሕማማ\nክሓዝሎ ክሓቑፎ ከብርያ ኣብ ድኻማ\nግፍዓ ክሳተፎ ክኾነኒ ጻማ /2/\nሓዘንኪ ዘኪረ ክበኪ’የ ኣነ\nሽግርኪ መሪር’ዩ ንማል`ውን ዘሕዘነ\nሓዘን ዝፈተንኪ ኣደይ ተለመኒ\nብናይ ስደት ሓዘን ንዒ ናዝዝኒ /2/",
+    "ti_ro": "[[chorus]]\nKemaha hazen /3/\nWetesedo kemaha hazen /2/\nKemaha hazen wetesedo /2/\nSobe bekulehe rekebo ryo leybki 'eynelb zebo\nHerods ti temen kqetlo ms bele\nHts'an ms ediu nab sdet tela'le\nAb hqufi zbana new nejew nabele\nAdkema ti gu'zo agara qosele /2/\n[[/chorus]]\n\nAbti zeytfelt'o hager ba'di koyna\nAb quri ab harur me'qobi sina\nCh'ekanat shefatu hsem wesekhukhi\nNhazen bhazen dngl debesukhi /2/\n\nBqalat zeyglets' kwlu ti ts'egema\nMfetekhu anes kkafel hmama\nKhazlo khaqufo kebrya ab dkhama\nGf'a ksatefo kkhoneni ts'ama /2/\nHazenki zekire kbeki’ye ane\nShgrki merir’yu nmal`wn zehzene\nHazen zfetenki adey telemeni\nBnay sdet hazen n'i nazzni /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 198,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

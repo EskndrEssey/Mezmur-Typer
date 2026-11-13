@@ -1,0 +1,53 @@
+{
+  "id": "h_sj2jvsmc5r9",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መጽአ ውስተ ዓለም",
+    "ti_ro": "መጽአ ውስተ ዓለም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኢየሱስ ክርስቶስ መጽአ ውስተ ዓለም /2/\nበብርሃኑ ንዑ ናንሶሱ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nIyesus krstos mets'e wste 'alem /2/\nBebrhanu n'u nansosu /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 390,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

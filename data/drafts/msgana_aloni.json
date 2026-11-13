@@ -1,0 +1,53 @@
+{
+  "id": "h_8oa5w10c4w6",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስጋና ኣሎኒ",
+    "ti_ro": "ምስጋና ኣሎኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስጋና ኣሎኒ ብዙሕ ውዳሴ\nንውዕለት ክብሩ ዕልል ክብል እየ\nከለይ ፈቲሑ ሓጎስ ጌሩለይ\nክኽልክል እየ ስቕ ከይብል ኣፈይ\nዘኽታም ክኸውን ኣይሓደገንን\nሓብሒቡኒ’ዩ ከም ኣቦን ኣደን\nዛርዩ ንብዓተይ መስፈሪ ኣልቦ\nርእየ ምሕረቱ ማንም ዘይረኽቦ\nብቕንኣት ቤትካ ኣብ ምድሪ ጓና\nቃዚነ’ለኹ ልበይ ሓዚና\nዓንያ ርእየያ ኢየሩሳሌመይ\nክሃንጻ እየ ጐይታ ኣቕንዓለይ\n[[/chorus]]\n\nድምጸይ ኣልዒለ ስምካ ጸዊዐ\nበዲለካ ኢለስ ብዙሕ ነቢዐ\nምስናይ ልበይ ኢደይ ኣልዒለ\nምስ ሰማዕካንስ ሃሌሉያ ኢለ",
+    "ti_ro": "[[chorus]]\nMsgana aloni bzuh wdase\nNw'let kbru 'll kbl ye\nKeley fetihu hagos geruley\nKkhlkl ye sq keybl afey\nZekhtam kkhewn ayhadegenn\nHabhibuni’yu kem abon aden\nZaryu nb'atey mesferi albo\nRye mhretu manm zeyrekhbo\nBqnat betka ab mdri gwana\nQazine’lekhu lbey hazina\n'Anya ryeya iyerusalemey\nKhants'a ye gwayta aqn'aley\n[[/chorus]]\n\nDmts'ey al'ile smka ts'ewi'e\nBedileka iles bzuh nebi'e\nMsnay lbey idey al'ile\nMs sema'kans haleluya ile",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 280,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

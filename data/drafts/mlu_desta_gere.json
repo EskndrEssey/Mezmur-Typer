@@ -1,0 +1,54 @@
+{
+  "id": "h_n346agmvkac",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምሉእ ደስታ ጌረ",
+    "ti_ro": "ምሉእ ደስታ ጌረ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓላፊ መከራይ ክስዕሮ\nሓይሊ ብዝህበኒ ብጐይታ\nንልበይ ከበርትዖ ኮታ /2/\n\nምስ ደርበየኒ ዝፋን ዓለም\nጐይታ መንኮብካ ንዓይ ይስከም\nኣየማርርን ብዝኾነ\nስራሕካ ስለዘይቀነነ\nናይ ሓዘን ኣይኮነን ንብዓተይ\nበርቲዑኒ እምበር ሓጎሰይ\nምሳኻ በረኻ ለምለም’ዩ\nምንባር’ውን ንበይኑ እኹል’ዩ\nትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ\nትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/\n[[/chorus]]\n\nብጸባብ ደገ ዝሰጎሙ\nንጊዚኡ’ኳ ተተጸገሙ\nፈለማ ተበዝሐ ስቓይ\nፍጻሜ ሓጎስ’ዩ ኣብ ሰማይ\nወንጌል ምጽዋዕ’ዩ ምፍላይ\nካብ ሓሶት ንሓቂ ምሕራይ\nካብ ቤት ፍርዲ ምውጻእ ብሓጎስ\nእናዕበኻ ንስም ክርስቶስ\nትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ\nትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/\n\nሰረገላ እሳት ዝቕመጥ\nንዓለም ብኢዱ ዝጭብጥ\nስቓይ ተጸመመ ብፍቕሪ\nከይበለ ተመንጢለ ክብሪ\nትማል ሓሊፉ’ዩ ሎሚ’ውን ክሓልፍ’ዩ\nትማል ሓሊፉ’ዩ ጐይታ ክስዕር’ዩ  /2/\n\nዘማሪ ዳግማዊ ደርቤ",
+    "ti_ro": "[[chorus]]\nHalafi mekeray ks'ro\nHayli bzhbeni bgwayta\nNlbey kebert'o kota /2/\n\nMs derbeyeni zfan 'alem\nGwayta menkobka n'ay yskem\nAyemarrn bzkhone\nSrahka slezeyqenene\nNay hazen aykonen nb'atey\nBerti'uni mber hagosey\nMsakha berekha lemlem’yu\nMnbar’wn nbeynu khul’yu\nTmal halifu’yu lomi’wn khalf’yu\nTmal halifu’yu gwayta ks'r’yu  /2/\n[[/chorus]]\n\nBts'ebab dege zsegomu\nNgiziu’kwa tetets'egemu\nFelema tebezhe sqay\nFts'ame hagos’yu ab semay\nWengel mts'wa'’yu mflay\nKab hasot nhaqi mhray\nKab bet frdi mwts'a bhagos\nNa'bekha nsm krstos\nTmal halifu’yu lomi’wn khalf’yu\nTmal halifu’yu gwayta ks'r’yu  /2/\n\nSeregela sat zqmet'\nN'alem bidu zch'bt'\nSqay tets'ememe bfqri\nKeybele tement'ile kbri\nTmal halifu’yu lomi’wn khalf’yu\nTmal halifu’yu gwayta ks'r’yu  /2/\n\nZemari dagmawi derbe",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 78,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_2_possible_page_split"
+    ]
+  }
+}

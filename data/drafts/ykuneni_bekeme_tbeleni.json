@@ -1,0 +1,53 @@
+{
+  "id": "h_qpok07byye8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ይኩነኒ በከመ ትቤለኒ",
+    "ti_ro": "ይኩነኒ በከመ ትቤለኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nይኩነኒ በከመ ትቤለኒ /2/\nበለት ኣዴና ብትሕትና\nብስጋን ብነፍስን ንጽህት ብምዃና\nድንግል በክልኤ ንጽህት ብምዃና\nናይ ኣዳም ቃልኪዳን ፍጻሜኡ እንኪበጽሕ\nገብርኤል ተላእከ ናብ ቤተ መቅደስ\nኣብ ሕሊና እግዚአብሔር ተሳኢላ ነበረት\nካብ ሰማይ ዝወጸ ቃሉ ተቐበለት\nዳግሚት ሰማይ ኣርያም ኮነት\nይኹነኒ ኢላ ብትሕትና ተቐበለት\n[[/chorus]]\n\nኦ ማርያም ኣይትፍርሒ ኢሉ ኣረጋግኣ\nካባኺ ዝውለድ መድኃኒት’ዩ በላ\nወዲ ዘይፈልጥ’ሲ ከመይ ኢሉ ይኸውን\nኢላ ሓተተቶ ድንግል ተደነቐት\nካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ\nብሕጊ ኣይኮነን ብድንግልና ክትወልዲ ኢኺ\nቃልካ ይፍጸም ይኩነኒ ኢላ\nተኣምር ተሰምዐ ኢየሩሳሌም ናዝሬት ገሊላ\n\nገሪሙና’ዩ ብስራት ገብርኤል\nከም ናይ ዘካርያስ ከቶ ኣይኮነን\nዝተመርጸት’ያ ዝበጽሓ ብስራት\nንዓለም ካብ ሙማት ካብ መርገም ዘድሓነት\nካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ\nብሕጊ ኣይኮነን ብድንግልና ክትጸንሲ ኢኺ",
+    "ti_ro": "[[chorus]]\nYkuneni bekeme tbeleni /2/\nBelet adena bthtna\nBsgan bnefsn nts'ht bmkhwana\nDngl bekle nts'ht bmkhwana\nNay adam qalkidan fts'ameu nkibets'h\nGebrel telake nab bete meqdes\nAb hlina gziebher tesaila neberet\nKab semay zwets'e qalu teqebelet\nDagmit semay aryam konet\nYkhuneni ila bthtna teqebelet\n[[/chorus]]\n\nO maryam aytfrhi ilu aregaga\nKabakhi zwled medhanit’yu bela\nWedi zeyfelt'’si kemey ilu ykhewn\nIla hateteto dngl tedeneqet\nKab ansti kulen flyti ikhi\nBhgi aykonen bdnglna ktweldi ikhi\nQalka yfts'em ykuneni ila\nTeamr tesem'e iyerusalem nazret gelila\n\nGerimuna’yu bsrat gebrel\nKem nay zekaryas keto aykonen\nZtemerts'et’ya zbets'ha bsrat\nN'alem kab mumat kab mergem zedhanet\nKab ansti kulen flyti ikhi\nBhgi aykonen bdnglna ktts'ensi ikhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 26,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

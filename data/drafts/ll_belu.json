@@ -1,0 +1,53 @@
+{
+  "id": "h_xdah03886h2",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕልል በሉ",
+    "ti_ro": "ዕልል በሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዕልል በሉ ንስሙ ዘምሩ\nኣመስግኑ ዕቤቱ ንገሩ\nእግዚአብሔር ጻድቕ’ዩ ብግብሩ\nእናበልኩም ወትሩ ኣበሥሩ\nዕልል በሉ ንስእነት ሰላምና\n‘’     ‘’  ሎሚ ተኻሒስና\n‘’     ‘’  ብርሃን’ውን ረኣና\n‘’     ‘’  ብሓያል ኣምላኽና\n[[/chorus]]\n\nዕልል በሉ ከም ሓፍቱ ንሙሴ\n‘’     ‘’  ንጀምር ውዳሴ\n‘’     ‘’  ብማህሌት ቅዳሴ\n‘’     ‘’  ነመስግን ስላሴ\nዕልል በሉ ንልዑል ኣምላኽና\n‘’     ‘’  ሰላም ዘንገሠልና\n‘’     ‘’  ኣርሒቑ ጥፍኣትና\n‘’     ‘’  ምሕረት ዘልበሰና\n\nዕልል በሉ ብጓሳ ነፍስና\n‘’     ‘’  ደጊም ሓራ ኢና\n‘’     ‘’  ሓይሉ ይተኣመን\n‘’     ‘’  ንዘልኣለም ኣሜን",
+    "ti_ro": "[[chorus]]\n'Ll belu nsmu zemru\nAmesgnu 'betu ngeru\nGziebher ts'adq’yu bgbru\nNabelkum wetru abessru\n'Ll belu nsnet selamna\n‘’     ‘’  Lomi tekhahisna\n‘’     ‘’  Brhan’wn reana\n‘’     ‘’  Bhayal amlakhna\n[[/chorus]]\n\n'Ll belu kem haftu nmuse\n‘’     ‘’  Njemr wdase\n‘’     ‘’  Bmahlet qdase\n‘’     ‘’  Nemesgn slase\n'Ll belu nl'ul amlakhna\n‘’     ‘’  Selam zengesselna\n‘’     ‘’  Arhiqu t'fatna\n‘’     ‘’  Mhret zelbesena\n\n'Ll belu bgwasa nefsna\n‘’     ‘’  Degim hara ina\n‘’     ‘’  Haylu yteamen\n‘’     ‘’  Nzelalem amen",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 166,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

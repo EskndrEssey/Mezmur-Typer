@@ -1,0 +1,53 @@
+{
+  "id": "h_uatzq3o19ky",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንስኻስ ንስኻ ኢኻ",
+    "ti_ro": "ንስኻስ ንስኻ ኢኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንስኻስ ንስኻ ኢኻ ጸባኦት ዘለካ /2/\nዘልዓለም ትነብር ንዅሉ ኣሕሊፍካ\nወናኒ ናይ ኵሉ ንስኻ በይንኻ\nደመና ኣይሃሉ ዋላ'ውን ኣይዝነም\nወርሕን ጸሓይ'ውን ብርሃን እንተዘይሂቦም\nጠባይ ናይ ፍጥረታት ዋላ ይቀያየር\nከም ዘለኻያ ኢኻ ሕያው እግዚአብሔር\n[[/chorus]]\n\nሓያላን ናይ ምድሪ ትማል ዝነበሩ\nብሓይሊ ብስልጣን ኣዝዮም ዝተፈርሑ\nኣብ ጸጽባሕ'ውን ሓድሽ'ዩ እቲ ስምካ\nንስኻ በይንኻ ጊዜ ዘይቆጽረካ\n\nኣማልኽቲ ግሪኽ ኮይኖም’ዮም ሓመድ\nብወርቂ ብብሩር ዝተሰርሑ ብኢድ\nፍጹም ዘይትሓልፍ ዘመን ዘይስዕረካ\nንስኻ በይንኻ ትገዝእ ፈጢርካ",
+    "ti_ro": "[[chorus]]\nNskhas nskha ikha ts'ebaot zeleka /2/\nZel'alem tnebr nkhwlu ahlifka\nWenani nay kwlu nskha beynkha\nDemena ayhalu wala'wn ayznem\nWerhn ts'ehay'wn brhan ntezeyhibom\nT'ebay nay ft'retat wala yqeyayer\nKem zelekhaya ikha hyaw gziebher\n[[/chorus]]\n\nHayalan nay mdri tmal zneberu\nBhayli bslt'an azyom zteferhu\nAb ts'ets'bah'wn hadsh'yu ti smka\nNskha beynkha gize zeyqots'reka\n\nAmalkhti grikh koynom’yom hamed\nBwerqi bbrur zteserhu bid\nFts'um zeythalf zemen zeys'reka\nNskha beynkha tgez fet'irka",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 45,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

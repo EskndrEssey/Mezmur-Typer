@@ -1,0 +1,53 @@
+{
+  "id": "h_g5qag085ef3",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቀርነይ ተሰልዐ",
+    "ti_ro": "ቀርነይ ተሰልዐ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓይሊ’ዛ ኣበሳ ቀርነይ ዝሰልዓታ /2/\n‘ናመሰለት ቀላል ናይ ቀረባ ግላል /2/\nነይራ እታ ዕለት ብኣጋ ትግሃድ\nንልበይ ኣቑሲላ ጫሌዳ ፈጢራ\nእታ ዝተተኽለት ጽልኢ ናይ ፈለማ\nምሉእ ኣካለይ ሕሊናይ ለቒማ /2/\n[[/chorus]]\n\nንዓይ ‘ያ ‘ታ ዕለት ንቐርነይ ሰሊዓ\nመትከል ዓንዲ ልበይ ምንባረይ ኣዕሪባ\nዝጋበዘትኒ ሕሉፍ‘ዩ ’ቲ ነውጺ\nዝወገረትኒ ብስሑል ፈልጺ  /2/\nተጎዲአ ምትራፍ ኣስዒቡለይ ጻንታ\nመፈለምታ በደል ኮነ ናይ ውዲታ\nከምቲ ግብሪ ቃኤል ንሓዉ ዘጥፍአ\nኣነ’ውን ኣቢሰ ንዓኣ መሪጸ /2/\n\nዘመን ኣካሒዳ ክብላ ነታ ጊዜ\nኣንፈተይ ኣጥፊኣ ጐድነይ ተገዲዐ\nሕይወተይ ክናወጽ በዚሑ እቲ ሓሳር\nእግዚአብሔር ይደሊ ካብ ጌጋይ ክመሃር /2/",
+    "ti_ro": "[[chorus]]\nHayli’za abesa qerney zsel'ata /2/\n‘Nameselet qelal nay qereba glal /2/\nNeyra ta 'let baga tghad\nNlbey aqusila ch'aleda fet'ira\nTa ztetekhlet ts'li nay felema\nMlu akaley hlinay leqima /2/\n[[/chorus]]\n\nN'ay ‘ya ‘ta 'let nqerney seli'a\nMetkel 'andi lbey mnbarey a'riba\nZgabezetni hluf‘yu ’ti newts'i\nZwegeretni bshul felts'i  /2/\nTegodie mtraf as'ibuley ts'anta\nMefelemta bedel kone nay wdita\nKemti gbri qael nhawu zet'fe\nAne’wn abise n'aa merits'e /2/\n\nZemen akahida kbla neta gize\nAnfetey at'fia gwadney tegedi'e\nHywetey knawets' bezihu ti hasar\nGziebher ydeli kab gegay kmehar /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 301,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

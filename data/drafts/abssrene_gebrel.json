@@ -1,0 +1,53 @@
+{
+  "id": "h_iggyhm1vzuq",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብሥረነ ገብርኤል",
+    "ti_ro": "ኣብሥረነ ገብርኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእምነ ኣምላክ ተፈናዊ\nመጋቤ ሐዲስ ብሥራታዊ\nከመ ይትባረክ ሕይወተ ዚአነ\nብሥራተ ጽድቅ ልማደከ አስምዐነ\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ\n[[/chorus]]\n\nሊሉይ ውእቱ ግብረ እንቲአከ\nወኢይትረከብ ፍሡሕ ከማከ\nሰአሎ ለኣምላክ ምስሌሁ ነሀሉ\nፍና እግሩ እንዘ ፍጹመ ንተሉ\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ\nሠለስተ ደቂቀ ዘኣድኃንከ ግብተ\nሰፊሐከ ክንፈ አቍረርከ እሳተ\nበሰይፈ ዚአከ ኲናተ ፀራዊ\nአርሕቅ ለነ ገብርኤል ብሥራታዊ\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ\n\nዲያብሎስሀ ውስተ ነድ ወደይከ\nዘካርያስሀ በሃመ ረሰይከ\nአንቅሐነ ለነ እምነ ንዋም\nኀበ ጽድቅ ከመ ንሑር በሰላም\nኣብሥረነ ገብርኤል ኣብሥረነ (2)\nብሥራተ ጽድቅ ኣብሥረነ",
+    "ti_ro": "[[chorus]]\nMne amlak tefenawi\nMegabe hedis bssratawi\nKeme ytbarek hywete ziene\nBssrate ts'dq lmadeke esm'ene\nAbssrene gebrel abssrene (2)\nBssrate ts'dq abssrene\n[[/chorus]]\n\nLiluy wtu gbre ntieke\nWeiytrekeb fssuh kemake\nSeelo leamlak mslehu nehelu\nFna gru nze fts'ume ntelu\nAbssrene gebrel abssrene (2)\nBssrate ts'dq abssrene\nSseleste deqiqe zeadhanke gbte\nSefiheke knfe eqwrerke sate\nBeseyfe zieke kwinate ts'erawi\nErhq lene gebrel bssratawi\nAbssrene gebrel abssrene (2)\nBssrate ts'dq abssrene\n\nDiyabloshe wste ned wedeyke\nZekaryashe behame reseyke\nEnqhene lene mne nwam\nHebe ts'dq keme nhur beselam\nAbssrene gebrel abssrene (2)\nBssrate ts'dq abssrene",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 414,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

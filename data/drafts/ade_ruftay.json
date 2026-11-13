@@ -1,0 +1,53 @@
+{
+  "id": "h_gpkanj7du8s",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣደ ሩፍታይ",
+    "ti_ro": "ኣደ ሩፍታይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእንታይ’ሞ ክብል’የ ስለዚ ልግሲ ወትሩ ዚምስገኖ\nካብዚ ፍቕሩ ፍቕርኺ ትርፊ ምስ ሃበ ነዓኺ ፈቃር እኖ(2)\n‘ታዝኽእላ ግን ክብል ስለኺ ድንግል ኣደ ሩፍታይ ምስጋናይ እንሆ\nተምሳል ዑፍ ንደቃ ክንፋ ዘይትበቆ\n‘ናበልኩ ከስተንክር ሓልዮትኪ ከድንቖ\nመዓስ’ሞ’ለዮ ንቦቕቧቕ ከርሥኺ\nሕልፊ’ለዎ ናትክስ ኣብ ትሕቲ ወድኺ\nቅኒተይ እንዲኺ ወስታ ጸናጽለይ\nጥበብ ወስኽኒ ከመስግን ኣኽሊለይ(2)\nሳርማ ጠሊ ሄርሞን ከርሡ ዘፈልፈሎ\nኣይበቐቕክን ምቕሉ ዝባንኪ እንክሓዝሎ\nኣይኮነን ሰብ ዝኣነ ንጽምአይ ሓታቲ\nእንስሳ’ኳ ኣጥሊልክስ ኮይኑ’ሎ ትምህርቲ\nሸንሃት ኵልንትናይ ምስጢር መቐረተይ\nልመናይ እንሆ ኣሥምሪ ጸሎተይ (2)\n‘ዛ ውጽዕቲ ነፍሰይ ትብሎ’ኳ ዘይብላ\nሥጋይ ናብ ተብሎ ዶ’ይኮነን ምዓላ\nቤቱ እንተምረጽኩዋ ከንብራ ኣብ ሰላሙ\nዘይብደገፍኪ’ያ  እትሕሉ  ስጕሙ\nኢድ’ናነሳእኩ ሰላም ለኪ ክብል\nኣዘክሪ እመብርሃን ስብሐተይ ናብ ልዑል (2)\nሕሰም ስደት ግብፂ ገና ከይረስዐ\nብሴፍ ስቓይ ጐይታ ልብኺ ተበስዐ\nስቕለቱን እንክብል ለውሃትክን ሂቡኒ\nሽፋን ድርብ ፍቕሪ ከም ንመርዓት ዓይኒ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNtay’mo kbl’ye slezi lgsi wetru zimsgeno\nKabzi fqru fqrkhi trfi ms habe ne'akhi feqar no(2)\n‘Tazkhla gn kbl slekhi dngl ade ruftay msganay nho\nTemsal 'uf ndeqa knfa zeytbeqo\n‘Nabelku kestenkr halyotki kednqo\nMe'as’mo’leyo nboqቧq kersskhi\nHlfi’lewo natks ab thti wedkhi\nQnitey ndikhi westa ts'enats'ley\nT'beb weskhni kemesgn akhliley(2)\nSarma t'eli hermon kerssu zefelfelo\nAybeqeqkn mqlu zbanki nkhazlo\nAykonen seb zane nts'mey hatati\nNssa’kwa at'lilks koynu’lo tmhrti\nShenhat kwlntnay mst'ir meqeretey\nLmenay nho assmri ts'elotey (2)\n‘Za wts''ti nefsey tblo’kwa zeybla\nSsgay nab teblo do’ykonen m'ala\nBetu ntemrets'kuwa kenbra ab selamu\nZeybdegefki’ya  thlu  sgwmu\nId’nanesaku selam leki kbl\nAzekri mebrhan sbhetey nab l'ul (2)\nHsem sdet gbts'i gena keyres'e\nBsef sqay gwayta lbkhi tebes'e\nSqletun nkbl lewhatkn hibuni\nShfan drb fqri kem nmer'at 'ayni\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 180,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

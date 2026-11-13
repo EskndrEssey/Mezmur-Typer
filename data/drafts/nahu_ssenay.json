@@ -1,0 +1,53 @@
+{
+  "id": "h_5m1l74o711a",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናሁ ሠናይ",
+    "ti_ro": "ናሁ ሠናይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናሁ ሠናይ ወናሁ ኣዳም\nሶበ ይሄልዉ ኣኃው ኅቡረ\nእነሆ ኣኅዋት ኃቢሮም ክነብሩ\nክንደይ ሰናይ ኢዩ ግሩም ጥዑም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNahu Ssenay wenahu adam\nSobe yhelwu ahaw hbure\nNeho ahwat habirom knebru\nKndey senay iyu grum t''um\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 427,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

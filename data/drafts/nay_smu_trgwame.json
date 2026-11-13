@@ -1,0 +1,53 @@
+{
+  "id": "h_f54f19uw04h",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ስሙ ትርጓሜ",
+    "ti_ro": "ናይ ስሙ ትርጓሜ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ስሙ ትርጓሜ መን ከም እግዚአብሔር’ዩ\nናይ ሰባት ናብ ኣምላኽ ናይ ኣምላኽ ናብ ሰባት\nንዓና’ውን ርዳእ ሸለል ኣይትበለና\nሰይጣን ብተንኮሉ ውዲት ከይኣልመልና\n[[/chorus]]\n\nናይ ክፉእ ሰብ ስራሕ ክፉእ ሓሳብ እዩ’ሞ\nብቕኑዕ መገዲ ኣይከይድን’ዩሞ\nናይ ሞቱ ደብዳቤ ንባህራን ክህቦ\nሚካኤል ደምሲሱ ናብ ደስታ ቀየሮ\nጌና ብቑልዕነተይ ናብ ቤቱ መጺኤ\nኵሉ እንክንዕቀኒ ምስጋና ጀሚረ\nጸጋኡ ኣብዚሑ ንኽብሪ ዘብቅዓኒ\nናይ ሚካኤል ኣምላኽ ይመስገን እግዚአብሔር\n\nጌና ብቑልዕነተይ . . .",
+    "ti_ro": "[[chorus]]\nNay smu trgwame men kem gziebher’yu\nNay sebat nab amlakh nay amlakh nab sebat\nN'ana’wn rda shelel aytbelena\nSeyt'an btenkolu wdit keyalmelna\n[[/chorus]]\n\nNay kfu seb srah kfu hasab yu’mo\nBqnu' megedi aykeydn’yumo\nNay motu debdabe nbahran khbo\nMikael demsisu nab desta qeyero\nGena bqul'netey nab betu mets'ie\nKwlu nkn'qeni msgana jemire\nTs'egau abzihu nkhbri zebq'ani\nNay mikael amlakh ymesgen gziebher\n\nGena bqul'netey . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 376,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

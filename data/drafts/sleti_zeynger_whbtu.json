@@ -1,0 +1,53 @@
+{
+  "id": "h_2mal48fszdc",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ስለቲ ዘይንገር ውህብቱ",
+    "ti_ro": "ስለቲ ዘይንገር ውህብቱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nስለቲ ዘይንገር ውህበቱ እግዚአብሔር ይመስገን\nሸለል ዘይበለና ኣምላኽና ክነብር ብኃጢአት\nስለቲ ዘይንገር ውህበቱ እግዚአብሔር ይመስገን\nናይ ሕይወት እስትንፋስ ዘሪኡ ሕያዋን ክንከውን\nነዚ ዝገበረ ኣምላኽና እግዚአብሔር  ይመስገን\nስለቲ ዘይንገር ውህበቱ  እግዚአብሔር ይመስገን\n[[/chorus]]\n\nንንፋስ ገሲጹ ንማዕበል ከፊሉ ዘስገረና\nስለቲ ዘይንገር ውህበቱ እግዚአብሔር ይመስገን\n\nካብ ማእሰርቲ ሲኦል ተፈቲሕና ናጻ ዝወጻናሉ\nመስቀሉ ሂቡና ኣምላኽና ንዘምር ብዓውታ\nስለቲ ዘይንገር ውህበቱ እግዚአብሔር ይመስገን",
+    "ti_ro": "[[chorus]]\nSleti zeynger whbetu gziebher ymesgen\nShelel zeybelena amlakhna knebr bhat'iet\nSleti zeynger whbetu gziebher ymesgen\nNay hywet stnfas zeriu hyawan knkewn\nNezi zgebere amlakhna gziebher  ymesgen\nSleti zeynger whbetu  gziebher ymesgen\n[[/chorus]]\n\nNnfas gesits'u nma'bel kefilu zesgerena\nSleti zeynger whbetu gziebher ymesgen\n\nKab maserti siol tefetihna nats'a zwets'analu\nMesqelu hibuna amlakhna nzemr b'awta\nSleti zeynger whbetu gziebher ymesgen",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 93,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

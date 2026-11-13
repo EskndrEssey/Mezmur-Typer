@@ -1,0 +1,53 @@
+{
+  "id": "h_tsl7a5d5dr3",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ናይ ጸልማት ዘመን",
+    "ti_ro": "ናይ ጸልማት ዘመን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nናይ ጸልማት ዘመን ተወዲኡ\nብርሃን ኣብ ዓለም ተወሊዑ\nከምሓፍቲ ሙሴ ብከበሮ\nንዘምር ንበል ንሴብሖ /2/\nነጸብራቕ ብርሃን ፍሉይ ፋና\nጸዳል ኣለዎ ድምቀት ባና\nቀዲዱ ጸልማት መስቀል ጐይታ\nብርሃን ወሊዑ ጎልጎታ\n[[/chorus]]\n\nየእዳውካ ዘርግሕ ኣመሳቕል\nባርኽ እስራኤል ባርያ ልዑል\nሙሴ በትርኻ ላዕሊ ግበር\nኣመሌቃዊ ሞት ክሰዓር\nየለን ባርነት ተሳዒሩ\nዜና ናይ ሰላም ተበሲሩ\nጽንዓትና እንድዩ ትውክልትና\nመስቀል ናይ ጐይታ በጃ ናትና",
+    "ti_ro": "[[chorus]]\nNay ts'elmat zemen tewediu\nBrhan ab 'alem teweli'u\nKemhafti muse bkebero\nNzemr nbel nsebho /2/\nNets'ebraq brhan fluy fana\nTs'edal alewo dmqet bana\nQedidu ts'elmat mesqel gwayta\nBrhan weli'u golgota\n[[/chorus]]\n\nYedawka zergh amesaql\nBarkh srael barya l'ul\nMuse betrkha la'li gber\nAmeleqawi mot kse'ar\nYelen barnet tesa'iru\nZena nay selam tebesiru\nTs'n'atna ndyu twkltna\nMesqel nay gwayta beja natna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 234,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

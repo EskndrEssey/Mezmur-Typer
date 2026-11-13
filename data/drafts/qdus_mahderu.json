@@ -1,0 +1,54 @@
+{
+  "id": "h_byvbsms1ope",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱስ ማሕደሩ",
+    "ti_ro": "ቅዱስ ማሕደሩ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጐይታ ንደቁ ኣዝዩ ኣብዚሑ\nዝበጽሓኩም  ብግሩም ግብሩ\nደስ ደስ ይበልኩም ታሪኽ ተሰሪሑ /2/\nጸጋን ምሕረትን ፍቕሩ ኣባና\nጥንቲ  ኣትሒዙ መሊኡ ተሪፉ\nሞት ኣይሕዘናን ሓሊና ጐይታ\nቀዛፊ መልኣክ ከይዱ ሓሊፉ\nፒራሚዳትን ቀጽርን ሓሊፉ\nእቲ ሕሱም ክፉእ መዓልቲ\nቅዱስ እስራኤል ዋልታና ኮይኑ\nዓቂብና’ዩ መዓልቲ ለይቲ\n[[/chorus]]\n\nኣብ ድኽነት’ውን እንተሃሊና\nሃብታማት ኢና ዘይጎደለና\nኣይነማርርን ምስኡ እንተኾይና\nካብዚ ዝበልጽ ክብሪ ኣለና\nመጸግዒና መመክሒና እዩ\nንጉሥ ናይ ክብሪ ግኑን ጐይታ\nተራእዩ ኣብ መስቀል ኢዱ ዘርጊሑ\nእሙን ኣምላኽ’ዩ በዓል ውዕለታት\nቤተመቕደሱ ጽድቁ ይነግር\nይእውጅ ሎሚ ዓቢይ ብስራት\nፍጹም ትም ኢልካ ምምራኽ የለን\nጐይታ ንደቁ ኣይህብን ንሞት\nሰዓርቲ ኢና ሰራዊት እምነት\nታህዲድ ጸላኢ ዘየፍርሓና\nምስ ጌዴዎን ፍጹም ሰሚርና\nሽግ እንክውላዕ ተዓዊትና ኢና\n\nእቲ መድረኽ ክመልእ እዩ\nተጎናጺፍና ብለጋስ ጐይታ\nዕጽፊ በዚሕና ካብ ማዕሙቕ\nወጺእና  ኢና ሰይጣን ክርታዕ",
+    "ti_ro": "[[chorus]]\nGwayta ndequ azyu abzihu\nZbets'hakum  bgrum gbru\nDes des ybelkum tarikh teserihu /2/\nTs'egan mhretn fqru abana\nT'nti  athizu meliu terifu\nMot ayhzenan halina gwayta\nQezafi melak keydu halifu\nPiramidatn qets'rn halifu\nTi hsum kfu me'alti\nQdus srael waltana koynu\n'Aqibna’yu me'alti leyti\n[[/chorus]]\n\nAb dkhnet’wn ntehalina\nHabtamat ina zeygodelena\nAynemarrn msu ntekhoyna\nKabzi zbelts' kbri alena\nMets'eg'ina memekhina yu\nNguss nay kbri gnun gwayta\nTerayu ab mesqel idu zergihu\nMun amlakh’yu be'al w'letat\nBetemeqdesu ts'dqu ynegr\nYwj lomi 'abiy bsrat\nFts'um tm ilka mmrakh yelen\nGwayta ndequ ayhbn nmot\nSe'arti ina serawit mnet\nTahdid ts'elai zeyefrhana\nMs gedewon fts'um semirna\nShg nkwla' te'awitna ina\n\nTi medrekh kmel yu\nTegonats'ifna blegas gwayta\n'Ts'fi bezihna kab ma'muq\nWets'ina  ina seyt'an krta'",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 118,
+    "needs_review": [
+      "no_title_line_found",
+      "verse_2_possible_page_split"
+    ]
+  }
+}

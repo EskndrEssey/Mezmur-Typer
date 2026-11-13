@@ -1,0 +1,53 @@
+{
+  "id": "h_0n0ifewz3j9",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሕይወቱ ምሉእ",
+    "ti_ro": "ሕይወቱ ምሉእ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሕይወቱ ምሉእ ኣብ እግዚአብሔር ተወኪሉ\nንእግዚአብሔር ኣሚኑ ንስሙ ኣልዒሉ\nኣይተጻሕፈን ኣየንበብናን\nኣቦታትና'ውን ካብ ቀደም ካብ ጥንቲ ኣይነገሩናን\nተስፋ ቆሪጹ'ቲ ድኹም ልብና ጓሂ ክድፍኦ\nኵሉ እንክጸምም ጸገምና ከይሰምዖ\nኣይሓደገናን ኣይመነነናን /2/\nከምዚ'ኻ ከምቲ ከይበለ ኮይኑና'ዩ መድኅን\n[[/chorus]]\n\nዑረት የዒንተይ ብወገን ዘመደይ ከም መርገም ክቑጸር\nስመይ ምግዱር ኮይኑ ብሰባት ክምረር\nጸልማት ሕይወተይ በኣኻ በሪሁ /2/\nኣብ ውሽጠይ የንጀርብብ ኣሎ ሕሰመይ ጋሊሁ\nዓለም መሪራ ብነፍሲ ብሥጋ ጾራ ክኸብደኒ\nእሾኽ ኣሚከላ ዙርያይ ክኸበኒ\nሽኽመይ ኣቕሊልካ ኣናጊፍካኒ /2/\nንዓኻ ዝህቦ ጐይታይ ኣነ እንታይ ኣሎኒ\n\nጉድጓድ ኣናብስ ክወርድ ክስንዶ ብምኽሪ ረሲኣን\nዳኒኤል ሞይቱ'ዩ ክውረ ኣብ ባቢሎን\nንግደ ኣስናኖም ኣይወፈየንን /2/\nብዓይነይ ርእየዮ'ለኹ ናይ ኣምላኸይ ምድሓን",
+    "ti_ro": "[[chorus]]\nHywetu mlu ab gziebher tewekilu\nNgziebher aminu nsmu al'ilu\nAytets'ahfen ayenbebnan\nAbotatna'wn kab qedem kab t'nti aynegerunan\nTesfa qorits'u'ti dkhum lbna gwahi kdfo\nKwlu nkts'emm ts'egemna keysem'o\nAyhadegenan aymenenenan /2/\nKemzi'kha kemti keybele koynuna'yu medhn\n[[/chorus]]\n\n'Uret ye'intey bwegen zemedey kem mergem kquts'er\nSmey mgdur koynu bsebat kmrer\nTs'elmat hywetey beakha berihu /2/\nAb wsht'ey yenjerbb alo hsemey galihu\n'Alem merira bnefsi bssga ts'ora kkhebdeni\nShokh amikela zuryay kkhebeni\nShkhmey aqlilka anagifkani /2/\nN'akha zhbo gwaytay ane ntay aloni\n\nGudgwad anabs kwerd ksndo bmkhri resian\nDaniel moytu'yu kwre ab babilon\nNgde asnanom aywefeyenn /2/\nB'ayney ryeyo'lekhu nay amlakhey mdhan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 206,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

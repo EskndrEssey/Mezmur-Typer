@@ -1,0 +1,53 @@
+{
+  "id": "h_eh6svy8vayd",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጌርካለይ ኢኻ’ሞ",
+    "ti_ro": "ጌርካለይ ኢኻ’ሞ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጌርካለይ ኢኻ’ሞ ነዓይ ብምሕረትካ\nየመስግነካ’ለኹ ዕልል ዕልል\nለዓለመ ዓለም ኣማኑኤል\nክግዝኣካየ መድኃኔ ዓለም\nቀትሪ ጸልሚቱኒ ጸድፊ ከቢቡኒ\nሽግርን መከራን ንዓይ ከቢዱኒ\nከምዘይትገድፈኒ ሎሚ ፈሊጠ’የ\nካብ ኵሉ ንላዕሊ ብኣኻ ኣሚነ’የ\nንውሑድ ኣብዚሕካ እትምግብ ጐይታ\nእንታይ`ሞ ኣሎኒ ንዓኻ ዝህበካ\nለይቲ ምስ መዓልቲ ኵሉ ሳዕ ተብርህ\nመንክር ብባህሪኻ ብስራሕካ ዕጹብ\n[[/chorus]]\n\nኦ ኣምላኽ ምስጋና ይግባእ ንዓኻ\nነዛ ምስኪን ገዛ በረኸት ዝሃብካ\nድኻ’የ ኣይብልን ሽሻየይ ንስኻ\nዕትሮይ መሊእካዮ ኣይተጉድሎን ኢኻ",
+    "ti_ro": "[[chorus]]\nGerkaley ikha’mo ne'ay bmhretka\nYemesgneka’lekhu 'll 'll\nLe'aleme 'alem amanuel\nKgzakaye medhane 'alem\nQetri ts'elmituni ts'edfi kebibuni\nShgrn mekeran n'ay kebiduni\nKemzeytgedfeni lomi felit'e’ye\nKab kwlu nla'li bakha amine’ye\nNwhud abzihka tmgb gwayta\nNtay`mo aloni n'akha zhbeka\nLeyti ms me'alti kwlu sa' tebrh\nMenkr bbahrikha bsrahka 'ts'ub\n[[/chorus]]\n\nO amlakh msgana ygba n'akha\nNeza mskin geza berekhet zhabka\nDkha’ye aybln shshayey nskha\n'Troy melikayo aytegudlon ikha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 450,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

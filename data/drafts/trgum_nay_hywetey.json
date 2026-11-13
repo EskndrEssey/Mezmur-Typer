@@ -1,0 +1,53 @@
+{
+  "id": "h_x703hztf8av",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ትርጉም ናይ ሕይወተይ",
+    "ti_ro": "ትርጉም ናይ ሕይወተይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትርጉም ናይ ሕይወተይ ጣዕሚ መቐረተይ\nወላዲት አምላክ ኣደ ልዑል ጐይታይ\nከመስግነኪ’የ ኣነ ንዘመነይ\nዓንቢቡ ክፈሪ ተኽሊ ሰብነተይ\nትእዛዙ ጥሒሰ ሞተይ ምስ ኣወጅኩ\nካብ ክብሪ ሰማያት ጸጋ ምስ ጎደልኩ\nተስፋይ ኔራ ድንግል ምኽንያት ድሕነተይ\nሕይወተይ ኢለያ ኣባዲት ሓዘነይ\n[[/chorus]]\n\nትርጉም ስኢነሉ ናብራ እዚ ዓለም\nክጭነቕ ብብዙሕ ስኢነ ንሰላም\nዕትሮ ውሽጢ ልበይ መሊኣ ምስጋና\nደስታይ ኣዊጃቶ ኣብ ገሊላ ቃና\nሓጎስ ኮይኑለ’ዩ ጸጋይ ተወሲኹ\nብፍቕራ ሰራዊት ልበይ ተማሪኹ\nገጸበረኸተይ በሊ ተቐበሊ\nጌና ንኽብርኺ ዝህቦ ኣሎኒ",
+    "ti_ro": "[[chorus]]\nTrgum nay hywetey t'a'mi meqeretey\nWeladit emlak ade l'ul gwaytay\nKemesgneki’ye ane nzemeney\n'Anbibu kferi tekhli sebnetey\nTzazu t'hise motey ms awejku\nKab kbri semayat ts'ega ms godelku\nTesfay nera dngl mkhnyat dhnetey\nHywetey ileya abadit hazeney\n[[/chorus]]\n\nTrgum sinelu nabra zi 'alem\nKch'neq bbzuh sine nselam\n'Tro wsht'i lbey melia msgana\nDestay awijato ab gelila qana\nHagos koynule’yu ts'egay tewesikhu\nBfqra serawit lbey temarikhu\nGets'eberekhetey beli teqebeli\nGena nkhbrkhi zhbo aloni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 231,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

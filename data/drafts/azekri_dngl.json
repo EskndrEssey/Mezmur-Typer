@@ -1,0 +1,53 @@
+{
+  "id": "h_jxs1d005pa3",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣዘክሪ ድንግል",
+    "ti_ro": "ኣዘክሪ ድንግል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንጐይታ ሓብሪ ኣዘክሪ\nንኃጥኣን ኣይኮነን ንጻድቃን /2/\nከም ዝወለድክዮ        ኣዘክሪ\nኣብ ቤተልሔም         >> >>\nከም ዘደቀስክዮ          >> >>\nኣብ መብልዒ ማል      >> >>\nንኃጥኣን ኣይኮነን ንጻድቃን\n[[/chorus]]\n\nበቲ ጊዜ ቁሪ              ኣዘክሪ\nከም ዝገበርክሉ            >> >>\nናይ በጊዕን ላምን          >> >>\nእስትንፋሶም ኵሉ         >> >>\nንኃጥኣን ኣይኮነን ንጻድቃን\nኣብ በረኻ ግብጺ        ኣዘክሪ\nከም ዝተሰደድኪ         >> >>\nናይቲ መሪር ሃሩር       >> >>\nእቲ ኵሉ ጸገምኪ        >> >>\nንኃጥኣን ኣይኮነን ንጻድቃን\n\nኣብ መከራ ጐይታ         ኣዘክሪ\nንብዓት ከምዘፍሰስኪ     >> >>\nገነት ንኽንኣቱ             >> >>\nንሕና ደቅኺ               >> >>\nንኃጥኣን ኣይኮነን ንጻድቃን",
+    "ti_ro": "[[chorus]]\nNgwayta habri azekri\nNhat'an aykonen nts'adqan /2/\nKem zweledkyo        azekri\nAb betelhem         >> >>\nKem zedeqeskyo          >> >>\nAb mebl'i mal      >> >>\nNhat'an aykonen nts'adqan\n[[/chorus]]\n\nBeti gize quri              azekri\nKem zgeberklu            >> >>\nNay begi'n lamn          >> >>\nStnfasom kwlu         >> >>\nNhat'an aykonen nts'adqan\nAb berekha gbts'i        azekri\nKem ztesededki         >> >>\nNayti merir harur       >> >>\nTi kwlu ts'egemki        >> >>\nNhat'an aykonen nts'adqan\n\nAb mekera gwayta         azekri\nNb'at kemzefseski     >> >>\nGenet nkhnatu             >> >>\nNhna deqkhi               >> >>\nNhat'an aykonen nts'adqan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 9,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

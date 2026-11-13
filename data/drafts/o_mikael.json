@@ -1,0 +1,53 @@
+{
+  "id": "h_gfenlrxh9pg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኦ ሚካኤል",
+    "ti_ro": "ኦ ሚካኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ኃጢአት ኣቲና ከይንመውት\nተራድኣና ኣጽንዓና ብእምነት\nነጸብራቓዊ        ሚካኤል\nዓይኑ ዘብርህ        >>\nሃመልማላዊ         >>\nልብሱ ዘብረቕርቕ   >>\nሃበና ድኅነት ምሕረት\nቅዱስ ሚካኤል ሊቀ መላእክት/2/\n[[/chorus]]\n\nቅዱስ          ሚካኤል\nተራድኣና ኢኻ   >>\nንዝቐረበካ        >>\nተድሕኖ ኢኻ    >>\nከም ዘድሓንካዮም ካብ ኢድ ፈርኦን\nንዓና ኣድኅነና ከይንኹነን/2/\nንሕና ደቅኻ   ሚካኤል\nስምካ ንኣምን    >>\nንቃል ኪዳንካ    >>\nተስፋ ንገብር     >>\nፍጡን ረዳኢ ሓያል መልኣኽ\nተራድኣና ከይንጸንት/2/",
+    "ti_ro": "[[chorus]]\nAb hat'iet atina keynmewt\nTeradana ats'n'ana bmnet\nNets'ebraqawi        mikael\n'Aynu zebrh        >>\nHamelmalawi         >>\nLbsu zebreqrq   >>\nHabena dhnet mhret\nQdus mikael liqe melakt/2/\n[[/chorus]]\n\nQdus          mikael\nTeradana ikha   >>\nNzqerebeka        >>\nTedhno ikha    >>\nKem zedhankayom kab id feron\nN'ana adhnena keynkhunen/2/\nNhna deqkha   mikael\nSmka namn    >>\nNqal kidanka    >>\nTesfa ngebr     >>\nFt'un redai hayal melakh\nTeradana keynts'ent/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 523,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

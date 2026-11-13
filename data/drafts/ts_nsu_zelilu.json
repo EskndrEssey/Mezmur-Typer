@@ -1,0 +1,53 @@
+{
+  "id": "h_of3srgz6cgx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፅንሱ ዘሊሉ",
+    "ti_ro": "ፅንሱ ዘሊሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፅንሱ ዘሊሉ መንፈስ መሊኡ\nናትኪ ሰላምታ ድምጽኺ ሰሚዑ\nናይ ጸጋ ስግደት ይስገድ ጉልበተይ\nንኣደ ጐይታይ ንማርያመይ\nኩሎም ፍጥረታት ይሰግዱልኪዮም\nረዳኢት ኩሎም ዋልታ ኮይንክሎም\nንድኹም ኵሉ ረዳኢት ኢኺ\nንዝሸገሮ ደጋፊት ኢኺ/2/\n[[/chorus]]\n\nኢደይ ክዝርግሕ ወትሩ ኣብ ቅድሜኺ\nሽልማት ናተይ ኣምሳል ዘይብልኪ\nስሙር ጸሎትኪ ጠቒሙና’ዩ\nኣይምነወናን ስምኪ እንክጽውዕ/2/\nነገስታት ንዓኺ ክብሪ ክህቡ\nከገልግሉኺ ቅድሜኺ መጹ\nተንኮል ናይ ተመን ስዒርክዮ ኢኺ\nልበይ ንዓኺ ይዝምረልኪ/2/",
+    "ti_ro": "[[chorus]]\nTs'nsu zelilu menfes meliu\nNatki selamta dmts'khi semi'u\nNay ts'ega sgdet ysged gulbetey\nNade gwaytay nmaryamey\nKulom ft'retat ysegdulkiyom\nRedait kulom walta koynklom\nNdkhum kwlu redait ikhi\nNzshegero degafit ikhi/2/\n[[/chorus]]\n\nIdey kzrgh wetru ab qdmekhi\nShlmat natey amsal zeyblki\nSmur ts'elotki t'eqimuna’yu\nAymnewenan smki nkts'w'/2/\nNegestat n'akhi kbri khbu\nKegelglukhi qdmekhi mets'u\nTenkol nay temen s'irkyo ikhi\nLbey n'akhi yzmrelki/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 3,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

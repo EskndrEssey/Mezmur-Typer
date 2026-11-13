@@ -1,0 +1,53 @@
+{
+  "id": "h_pmlsrgahcok",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክዝምረሉ’የ",
+    "ti_ro": "ክዝምረሉ’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nክዝምረሉ’የ ከመስግኖ እየ\nክግዝኦ እየ ምድሓኑ ከውሪ\nኣቤት ናቱ ስራሕ ድንቂ ናቱ ፍቕሪ\n[[/chorus]]\n\nምሕረቱ ኣርእዩኒ ካብቲ ግሩም ክብሩ\nከም ኣእጋር ናይ ኢራብ ኣእጋረይ ኣጽኒዑ\nብቓሉ ገሰጸ ንፋስን ማዕበልን\nለይቲ ምስ መዓልቲ `ቲ ስሙ ይመስገን\nካብቲ ጸልማት ዓለም ካብ ፈታኒ ጉዕዞ\nካብ ሓዊ ኣውጺኡኒ ኢደይ እግረይ ሒዙ\nኢድ ሰብ ከይተንከፎ ፈረሰ `ቲ ቐጽሪ\nከምዚ ከኣ ኣሎ ዕጹብ`ዩ ፈጣሪ\n\nትብዓት ንኽረክብ ጸጋ ዝመልኣኒ\nኣብ ቅድሚ ጸላእተይ ክብሪ ዝሃበኒ\nዘለዓለማዊ ኣቦ ንሱ’ዩ ኣምላኸይ\nከመስግኖ እየ ብዘለኒ ዓቕመይ",
+    "ti_ro": "[[chorus]]\nKzmrelu’ye kemesgno ye\nKgzo ye mdhanu kewri\nAbet natu srah dnqi natu fqri\n[[/chorus]]\n\nMhretu aryuni kabti grum kbru\nKem agar nay irab agarey ats'ni'u\nBqalu gesets'e nfasn ma'beln\nLeyti ms me'alti `ti smu ymesgen\nKabti ts'elmat 'alem kab fetani gu'zo\nKab hawi awts'iuni idey grey hizu\nId seb keytenkefo ferese `ti qets'ri\nKemzi kea alo 'ts'ub`yu fet'ari\n\nTb'at nkhrekb ts'ega zmelani\nAb qdmi ts'elatey kbri zhabeni\nZele'alemawi abo nsu’yu amlakhey\nKemesgno ye bzeleni 'aqmey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 120,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

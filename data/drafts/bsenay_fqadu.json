@@ -1,0 +1,53 @@
+{
+  "id": "h_awihmlb1w0h",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብሰናይ ፍቓዱ",
+    "ti_ro": "ብሰናይ ፍቓዱ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብሰናይ ፍቓዱ ኵሉ ብኡ ኮነ /2/\nኵሉ ነገር ብኡ ተፈጸመ\nሰማይ ኮነ ምድሪ የዘንትዉ ግብሩ\nፈጢርዎም እዩሞ ንኽግለጽ ክብሩ\nብዅሉ ፍጥረታት ዝተኣምነ ንሱ\nፍቓዱ ኢዩ’ሞ ኵሉ ጽቡቕ ነገር\nፈጢሩ ሂቡና ብሓይሉ እግዚአብሔር\nሓጋይ ምስ ክረምቲ ለይቲ ይኹን ቀትሪ\nኵሉ ኣዳልዩ ምሂሩና ፈጣሪ\nዝገበሮ ኵሉ ጎደሎ ኣይርከቦን\nነዚ ቅዱስ ኣምላኽ ምሳሌ የብሉን\n[[/chorus]]\n\nንሕዝቡ ዝናዝዝ ናብ ልቡ ዝመልስ\nንኃጥእ ዘፍቅር ህይወቱ ዝሕድስ\nብሰናይ ፍቓዱ ፍቕሩ ዘንግስ\nስለ ክቡር ግብሩ ሓቢርና ንወድስ\nንሱ ዘይፈጠሮ . . .",
+    "ti_ro": "[[chorus]]\nBsenay fqadu kwlu bu kone /2/\nKwlu neger bu tefets'eme\nSemay kone mdri yezentwu gbru\nFet'irwom yumo nkhglets' kbru\nBkhwlu ft'retat zteamne nsu\nFqadu iyu’mo kwlu ts'buq neger\nFet'iru hibuna bhaylu gziebher\nHagay ms kremti leyti ykhun qetri\nKwlu adalyu mhiruna fet'ari\nZgebero kwlu godelo ayrkebon\nNezi qdus amlakh msale yeblun\n[[/chorus]]\n\nNhzbu znazz nab lbu zmels\nNhat' zefqr hywetu zhds\nBsenay fqadu fqru zengs\nSle kbur gbru habirna nweds\nNsu zeyfet'ero . . .",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 2,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

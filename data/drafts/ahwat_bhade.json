@@ -1,0 +1,53 @@
+{
+  "id": "h_oc0nhhh1jbh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣሕዋት ብሓደ",
+    "ti_ro": "ኣሕዋት ብሓደ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣሕዋት ብሓደ ሓቢሮም ክነብሩ\nነቲ ልዑል ኣምላኽ ስሙ እናዘከሩ\nሰናይን ጥዑምን ክኾነልና ሓጎስ\nብመንገዱ ንንበር ሓሳብና ነሐድስ\n[[/chorus]]\n\nኣብ ረብሓ ነውዕሎ ወርቃዊ ጊዜና\nካብቲ ከቢድ ድቃስ ንተንስእ ኩልና\nሓቢርና ክንነብር ኣምላኽ እናመስገንና\nኣይርከብን እዩ ምስ ተፈላለና\nፍቕሪ ዝመልኣ ጐይታ’ውን ዝፈትዋ\nዓቢይ ምስ ንእሽቶ ኵሉ ይሕልዋ\nሕብረት እያ ኣደይ ቅሳነት ዘለዋ\nንግሆ ኮነ ምሸት ትዕንግል’ያ ራህዋ\n\nምእካብ ብዙሕ’ዩ ሓደራ ነስተውዕል\nብጓይላ ብባእሲ ብዘጸይፍ ዕላል\nዳሕራዩ ዝኸፍእ ሰላምካ ዘርሕቕ\nስለዚ ንፍለጦ ኣኼባ ዘጽድቕ\n\nድንቂ ፍቕሪ ደብረ ሰላም መድኃኔ ዓለም(ደቀምሓረ)",
+    "ti_ro": "[[chorus]]\nAhwat bhade habirom knebru\nNeti l'ul amlakh smu nazekeru\nSenayn t''umn kkhonelna hagos\nBmengedu nnber hasabna neheds\n[[/chorus]]\n\nAb rebha new'lo werqawi gizena\nKabti kebid dqas ntens kulna\nHabirna knnebr amlakh namesgenna\nAyrkebn yu ms tefelalena\nFqri zmela gwayta’wn zfetwa\n'Abiy ms nshto kwlu yhlwa\nHbret ya adey qsanet zelewa\nNgho kone mshet t'ngl’ya rahwa\n\nMkab bzuh’yu hadera nestew'l\nBgwayla bbasi bzets'eyf 'lal\nDahrayu zkhef selamka zerhq\nSlezi nflet'o akheba zets'dq\n\nDnqi fqri debre selam medhane 'alem(deqemhare)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 219,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

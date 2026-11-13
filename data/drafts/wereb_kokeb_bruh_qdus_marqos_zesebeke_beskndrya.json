@@ -1,0 +1,51 @@
+{
+  "id": "h_dcmntkfzday",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "ኮከብ ብሩህ ቅዱስ ማርቆስ ዘሰበከ በእስክንድርያ\nቤተ ክርስቲያን ዘንሰመያ /2/\nኮኖሙ ኣበ ለሰብአ ግብጽ ወኤርትራ ዘከመ ጳውሎስ ሓዋርያ",
+    "ti_ro": "Kokeb bruh qdus marqos zesebeke beskndrya\nBete krstiyan zensemeya /2/\nKonomu abe lesebe gbts' weertra zekeme p'awlos hawarya",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 758,
+    "needs_review": []
+  }
+}

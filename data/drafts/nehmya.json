@@ -1,0 +1,53 @@
+{
+  "id": "h_bo1qi22jova",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ነህምያ",
+    "ti_ro": "ነህምያ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nነህምያ እየ ንበል ሎሚ ኣብዚ ዘመን\nንሕነጻ ነዛ ቤት ከም ሳሌም ክትከውን /2/\nንግደፎ ምዕዛብ ኣእዳውና ኣጣሚርና\nደሓር ከይንጠዓስ ርስትና ስኢንና\nሳንባላጥ ምስ ጌሸም መላገጽቲ ኣብ ወንበር\nእንታይ ጽቡቕ ረኺቦም ስሞም ተሓከ 'ምበር\n[[/chorus]]\n\nእግዚአብሔር ደልዩ'ሎ ከም'ቲ ናይ ኢሳይያስ\nዝለኣኾ ሎሚ ኣብዛ ቤት ምዅስኳስ\nኣንጊህና ንተንስእ ሎሚ ኣይንደቅስ\n'ት ሕዙን ልብና ብሓጎስ ክድበስ\n\nኵልና ወረስቲ አእጃምና ነልዕል\nኣብ ምምራቕ'ዛ ቤት ብሓደ ክንውዕል\nእቲ ቅዱስ ኣምላኽ ብፍቕሩ ዝፍለጥ\nሎሚ ምሳና'ሎ ዕዮና ከስልጥ",
+    "ti_ro": "[[chorus]]\nNehmya ye nbel lomi abzi zemen\nNhnets'a neza bet kem salem ktkewn /2/\nNgdefo m'zab adawna at'amirna\nDehar keynt'e'as rstna sinna\nSanbalat' ms geshem melagets'ti ab wenber\nNtay ts'buq rekhibom smom tehake 'mber\n[[/chorus]]\n\nGziebher delyu'lo kem'ti nay isayyas\nZleakho lomi abza bet mkhwskwas\nAngihna ntens lomi ayndeqs\n'T hzun lbna bhagos kdbes\n\nKwlna weresti ejamna nel'l\nAb mmraq'za bet bhade knw'l\nTi qdus amlakh bfqru zflet'\nLomi msana'lo 'yona keslt'",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 517,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

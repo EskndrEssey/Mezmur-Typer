@@ -1,0 +1,53 @@
+{
+  "id": "h_q3jekgebver",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መን’ዩ ዝኸሰረ",
+    "ti_ro": "መን’ዩ ዝኸሰረ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመን’ዩ ዝኸሰረ መን’ዩ ዝሓፈረ /2/\nንዓኻ ከስምር ኢሉ ምስ ሓሰበ\nንዓኻ ክስዕብ ኢሉ ምስ ወፈረ\nኣብርሃም ምስ ወጸ ኣዝማዱ ሓዲጉ\nጣኦታት ገዲፉ ፍቕርኻ ብሂጉ\nከም ሑጻ ናይ ምድሪ ከም ናይ ከዋኽብት\nዘርኡ በዚሕሉ ክበር ጐይታ ጎይቶት\n[[/chorus]]\n\nያዕቆብ ኣብ ሎዛ እምኒ ተተርኢሱ\nረኣየ ዙፋንካ ግርማኡ ለቢሱ\nበይኑ ተሰዲዱ በዝሐን ከበረን\nክቃለስ ኣንጊሁ ክባረኽ ሓደረ\nቲ’ንእሽተይ ዳዊት ከሎ ኣብ ጉስነት\nእናዘመረልካ ከገልግል ብኡነት\nዝጨነወ ሬሳ ኣልኣዛር ተንስአ\nወዲቑ ኣይተርፍን ጐይታ ዝኣመነ\nእንሆ ኣብ መድረኽ ጐይታ እቚሙና\nብመዝሙር ውዳሴ መሊኡ ልሳንና\nሎሚ’ውን ስዒብናዮ ንመስቀሉ ሒዝና\nክንጽበዮ ኢና ክሳዕ ዝፈርደልና",
+    "ti_ro": "[[chorus]]\nMen’yu zkhesere men’yu zhafere /2/\nN'akha kesmr ilu ms hasebe\nN'akha ks'b ilu ms wefere\nAbrham ms wets'e azmadu hadigu\nT'aotat gedifu fqrkha bhigu\nKem huts'a nay mdri kem nay kewakhbt\nZeru bezihlu kber gwayta goytot\n[[/chorus]]\n\nYa'qob ab loza mni teterisu\nReaye zufanka grmau lebisu\nBeynu tesedidu bezhen keberen\nKqales angihu kbarekh hadere\nTi’nshtey dawit kelo ab gusnet\nNazemerelka kegelgl bunet\nZch'enewe resa alazar tense\nWediqu ayterfn gwayta zamene\nNho ab medrekh gwayta qwimuna\nBmezmur wdase meliu lsanna\nLomi’wn s'ibnayo nmesqelu hizna\nKnts'beyo ina ksa' zferdelna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 32,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

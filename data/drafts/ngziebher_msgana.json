@@ -1,0 +1,53 @@
+{
+  "id": "h_5okpejq5xpb",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንእግዚአብሔር ምስጋና",
+    "ti_ro": "ንእግዚአብሔር ምስጋና",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ሰማይ ንእግዚአብሔር ምስጋና\nኣብ ምድሪ ንወዲ ሰብ ሰላም\nተወሊዱ’ዩ’ሞ መድኅኔ ዓለም /2/\nቲ’ናይ ሞት ዘመን ጊዜኡ ከብቅዕ\nሕይወት ወድሰብ ካብ ሓጢኣት ክነጽህ\nካብ ድንግል ማርያም ጐይታ ተወሊዱ\nቂምን በቐልን ኵሉ ተለዊጡ\n[[/chorus]]\n\nኮይኑዩ ሰላም ናጽነት ንሕይወት\nተወሊዱ’ዩ ናይ ዓለም መድኃኒት\nማሕላኡ ጽኑዕ ዝበሎ ዝፍጽም\nዘድሓነና ኣምላኽ ዕልል ንበለሉ\n\nኣጽናዒ ድምጺ ሰሚዕና ኣብ ኤፍራታ\nኣብ ዱር ርኢናዩ ናይ ፍጥረታት ጐይታ\nኣብ ዝቖመሉን ዝሓድረሉን ቦታ\nክንሰግድ ኢና ዳግም ኢልና ጐይታ",
+    "ti_ro": "[[chorus]]\nAb semay ngziebher msgana\nAb mdri nwedi seb selam\nTewelidu’yu’mo medhne 'alem /2/\nTi’nay mot zemen gizeu kebq'\nHywet wedseb kab hat'iat knets'h\nKab dngl maryam gwayta tewelidu\nQimn beqeln kwlu telewit'u\n[[/chorus]]\n\nKoynuyu selam nats'net nhywet\nTewelidu’yu nay 'alem medhanit\nMahlau ts'nu' zbelo zfts'm\nZedhanena amlakh 'll nbelelu\n\nAts'na'i dmts'i semi'na ab efrata\nAb dur rinayu nay ft'retat gwayta\nAb zqomelun zhadrelun bota\nKnsegd ina dagm ilna gwayta",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 56,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_qp3mze9h4lh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ውሬታ የብለይን",
+    "ti_ro": "ውሬታ የብለይን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nውሬታ የብለይን ጐይታ ንውዕለትካ\nቃላት የብለይን ዝገልጽ ፍቕርኻ\nምሕረትካ'ዩ ቤትካ ዘንበረኒ\nጸጋኻ'ውን ልዕል ዘበለኒ /2/\nጊልያ ዓለም ኮይነ ኣብ ናይ ኃጢአት ባሕሪ\nፍታዋ መሊአ ሞት ንእትፈርደኒ\nከዕቢ ሕሊና ቆይመ ኣብ ቅድሜኻ\nከሰስተይ ኣሕፊርካ ኢልካኒ ይቕረይኹንካ /2/\n[[/chorus]]\n\nኤማሁስ ከቕንዕ ንቤትካ ሕቖይ ሂበ\nእናሰጎምካ ጎነይ ምልላይካ ስኢነ\nኣይፈልጠካን እንክብል ደርሆ ምስ ነቀወ\nብጀለምታ ንብዓት ምሕረትካ ለሚነ /2/\n\nክነብር ይብህግ ወሲነ ኣብ ቤትካ\nይፈራረቕ ልበይ ብናይ ዓለም ረብሓ\nግዙእ ክልተ ምዃን ሎምስ ኣድኪሙኒ\nሓላፊት'ያ ዓለም ምሳኻ ይሕሸኒ /2/",
+    "ti_ro": "[[chorus]]\nWreta yebleyn gwayta nw'letka\nQalat yebleyn zgelts' fqrkha\nMhretka'yu betka zenbereni\nTs'egakha'wn l'l zebeleni /2/\nGilya 'alem koyne ab nay hat'iet bahri\nFtawa melie mot ntferdeni\nKe'bi hlina qoyme ab qdmekha\nKesestey ahfirka ilkani yqreykhunka /2/\n[[/chorus]]\n\nEmahus keqn' nbetka hqoy hibe\nNasegomka goney mllayka sine\nAyfelt'ekan nkbl derho ms neqewe\nBjelemta nb'at mhretka lemine /2/\n\nKnebr ybhg wesine ab betka\nYferareq lbey bnay 'alem rebha\nGzu klte mkhwan loms adkimuni\nHalafit'ya 'alem msakha yhsheni /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 476,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

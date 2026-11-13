@@ -1,0 +1,53 @@
+{
+  "id": "h_f0bgea4zvvh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣቦና ቅዱስ ኣረጋዊ",
+    "ti_ro": "ኣቦና ቅዱስ ኣረጋዊ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣቦና ቅዱስ ኣረጋዊ ዓለም ዝመነንካ ባሕታዊ /2/\nኣምሳል ኤልያስ /3/ ገዳማዊ /2/\nኣቦ ናይ እምነት ተጋዳሊ\nኣኽሊል ተዓዲልካ እቲ ዘይበሊ\nረዳኢ ዘኽታማት ትጉህ መምህር\nፍጹም ዝቐደሶ እግዚኣብሔር\n[[/chorus]]\n\nደብርኻ ትንገር እቲ ገድልኻ\nዕጹብ መንክር እዩ ትሕትናኻ\nገብርሄር ብዓል ብዙሕ ምክሊት\nኖላዊ ትጉህ ፍጡን ንረዲኤት\nሕሙማት ይሓውዩ ዕዉራት ይርእዩ\nብልማኖኻ ፍጹም ዝኣመኑ\nስለቲ ምሕረት ድኅነት ሕዝብኻ\nካብ ልዑል ፈጣሪ ለምነልና ኢኻ\n\nዲ/ን ኤፍሬም",
+    "ti_ro": "[[chorus]]\nAbona qdus aregawi 'alem zmenenka bahtawi /2/\nAmsal elyas /3/ gedamawi /2/\nAbo nay mnet tegadali\nAkhlil te'adilka ti zeybeli\nRedai zekhtamat tguh memhr\nFts'um zqedeso gziabher\n[[/chorus]]\n\nDebrkha tnger ti gedlkha\n'Ts'ub menkr yu thtnakha\nGebrher b'al bzuh mklit\nNolawi tguh ft'un nrediet\nHmumat yhawyu 'wurat yryu\nBlmanokha fts'um zamenu\nSleti mhret dhnet hzbkha\nKab l'ul fet'ari lemnelna ikha\n\nDi/n efrem",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 314,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

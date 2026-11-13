@@ -1,0 +1,53 @@
+{
+  "id": "h_5e63v147svr",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣማኑኤል",
+    "ti_ro": "ኣማኑኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተወሊዱልና ኣብ ቤተልሔም\nዙርያኡ ኣብሪሁ ኣብ ቤተልሔም\nጐይታ ክውለድ መድኃኔ ዓለም\nብርሃን ይኽደን እቲ ብርቱዕ ጸልማት\nምውላድ ኣምላኽና ድምጹ ክስማዕ\n[[/chorus]]\n\nናይ ዝሓለፈ ናይ ጥፍኣት ጊዜ\nኣሕሊፍናዮ ኢና ሓዘን ትካዜ\nተሓዲስና ኢና ብኽቡር ደሙ\nኣውሪሱና ኢዩ ፍቕሩን ሰላሙን\nሕጉ ገዲፍና ካብኡ ርሒቕና\nፈቲናዩ’ሞ መጺኡ ኣድሓነና\nሰብ ኮይኑ እዩ’ሞ ከምዚ ከማና\nምሳና ኢዩ መን ክስዕረና\n\nርሑቕ ኣይኮነን ቅሩብ`ዩ ጐይታ\nዝሕልወና ኣብ ኵሉ ቦታ\nሞገስ ኮይኑና ክብሪ ረኺብና\nንሓያል ጐይታ ንኣምኖ ኢና",
+    "ti_ro": "[[chorus]]\nTewelidulna ab betelhem\nZuryau abrihu ab betelhem\nGwayta kwled medhane 'alem\nBrhan ykhden ti brtu' ts'elmat\nMwlad amlakhna dmts'u ksma'\n[[/chorus]]\n\nNay zhalefe nay t'fat gize\nAhlifnayo ina hazen tkaze\nTehadisna ina bkhbur demu\nAwrisuna iyu fqrun selamun\nHgu gedifna kabu rhiqna\nFetinayu’mo mets'iu adhanena\nSeb koynu yu’mo kemzi kemana\nMsana iyu men ks'rena\n\nRhuq aykonen qrub`yu gwayta\nZhlwena ab kwlu bota\nMoges koynuna kbri rekhibna\nNhayal gwayta namno ina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 458,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

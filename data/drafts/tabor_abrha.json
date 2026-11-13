@@ -1,0 +1,53 @@
+{
+  "id": "h_hv76tm6h8ux",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ታቦር ኣብርሃ",
+    "ti_ro": "ታቦር ኣብርሃ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nታቦር ኣብርሃ ደመና መሬተ ከደነ\nኣልብነ ንዋም ዓቢይ ነጎድጓድ እስመ ኮነ\nለስብሓት ነቃሕነ\nሙሴ እቲ ቀዳማዊ ኤልያስ እቲ ብርቱዕ\nተረኺቦም ኣብ ታቦር ምስክር ኮይኖም ሳምዕ\nንሕና'ውን ካብቲ ግርማ ሰሚዕና ቃል ናይ ኣብ\nበረድ ኮይኑ'ዩ ልብሱ ዕጹብ ኢልና ኢና ዕጹብ\n[[/chorus]]\n\nከተርእየኒ ክብርኻ ቃል ኣቲኻለይ ኔርካ\nንገስ ካብ ሞት ገስጊስካ ሕጂ /2/ ርእየካ\nታ'ተዋጋኢ ጐይታ ኣፍራስ እሳት ዘለካ\nኣርሞንኤም ደስ በሎ ሲሳራ ብምውቃዕካ\nኣብ ትሓልፈሉ ቆይመ ክጽበየካ እየ\nኣብሪሀ ንቀንዴለይ ክዳነይ ኣጻዕድየ\nንግሆ ዝተጸውዐ ዝመጸ ኣጋ ምሸት\nኩሎም ረኺቦም ዓስቢ ካብቲ ብዙሕ ህያባት\nዝረዳእካዮ ይዛረብ ዝባረኽካ ሕይወቱ\nኤቨን ኤዘር እናበለ ይዘምር ተዓዊቱ\nኣብ መዓልቲ ሓጎሰይ ርእየካ'የ ኣብ ጎነይ\nምሳይ በኺኻ ኢኻ ኣሕዚኑካ ሓዘነይ",
+    "ti_ro": "[[chorus]]\nTabor abrha demena merete kedene\nAlbne nwam 'abiy negodgwad sme kone\nLesbhat neqahne\nMuse ti qedamawi elyas ti brtu'\nTerekhibom ab tabor mskr koynom sam'\nNhna'wn kabti grma semi'na qal nay ab\nBered koynu'yu lbsu 'ts'ub ilna ina 'ts'ub\n[[/chorus]]\n\nKeteryeni kbrkha qal atikhaley nerka\nNges kab mot gesgiska hji /2/ ryeka\nTa'tewagai gwayta afras sat zeleka\nArmonem des belo sisara bmwqa'ka\nAb thalfelu qoyme kts'beyeka ye\nAbrihe nqendeley kdaney ats'a'dye\nNgho ztets'ew'e zmets'e aga mshet\nKulom rekhibom 'asbi kabti bzuh hyabat\nZredakayo yzareb zbarekhka hywetu\nEven ezer nabele yzemr te'awitu\nAb me'alti hagosey ryeka'ye ab goney\nMsay bekhikha ikha ahzinuka hazeney",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 110,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

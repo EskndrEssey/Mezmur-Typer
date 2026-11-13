@@ -1,0 +1,54 @@
+{
+  "id": "h_fizaqx8ug7p",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣሎ ኣብ ዝፋኑ",
+    "ti_ro": "ኣሎ ኣብ ዝፋኑ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመንጎ ክልተ ኣንስቲ ብምኽንያት ሓደ ህፃን\nንምዉት ገዲፈን ይበኣሳ ብህልው\nእዚኣን እቲኣን ናተይ’ዩ ብምባል\nእግዚአብሔር ኣሎ ኣብ ዝፋኑ\nንጉሥ ኣሎ ኣብ ዝፋኑ\nይፈርድ’ዩ ኣብ ገጊዜኡ (2)\nኣብታ ከውታ ለይቲ ማዕጾ ብዕጽው\nኣደንጋጺ ድምጺ ውሽጠይ ኣፋጽዩ\nወደይ ወደይ ኢላ ሰሚዐ ክትበኪ\nኣተሓዚነያ ብምልእታ ለይቲ\nንጉሰይ ሽሕ ዓመት ንገስ\nሓስየ ኣይኮንኩን ንኣዓ ዝኸስስ\nብድልቲ’የ ሓቂ’ለኒ\nፍትሒኻ’ያ ተንብረኒ\nርግጽ ወዳ ሞይቱ ነፍሱ ምስ ተዓዝረ\nነዚ እፈልጥ’የ ምስኣ’የ ሓዲረ\nምናልባት ዝ’ህፃን ተመሰላ ናታ\nሓሳዊት’ያ ንሳ ብፍላጥ ስሒታ\nወደይ ኢዩ ወደይ ኢዩ\nጐይታ ይፈልጥ ምቃለይ’ዩ\nፍረደለይ ኣይሓሰኹን\nኣይትሰድዮ ኣይጠቕመክን\nብሓቂ ቅኑዕ’ዩ ኵሉ ዝተፈርደ\nት’ህፃን ይጨደድ ይመቐል ት’ሓደ\nንክልቴና ኣይኹን ልበይ ብምምራሩ\nወድ መን ይነብር ናይ መን ተቐቢሩ\nብዘይ ኃጢኣት ስለምንታይ\nይመውት እዚ ወደይ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMengo klte ansti bmkhnyat hade hts'an\nNmwut gedifen ybeasa bhlw\nZian tian natey’yu bmbal\nGziebher alo ab zfanu\nNguss alo ab zfanu\nYferd’yu ab gegizeu (2)\nAbta kewta leyti ma'ts'o b'ts'w\nAdengats'i dmts'i wsht'ey afats'yu\nWedey wedey ila semi'e ktbeki\nAtehazineya bmlta leyti\nNgusey shh 'amet nges\nHasye aykonkun na'a zkhess\nBdlti’ye haqi’leni\nFthikha’ya tenbreni\nRgts' weda moytu nefsu ms te'azre\nNezi felt'’ye msa’ye hadire\nMnalbat z’hts'an temesela nata\nHasawit’ya nsa bflat' shita\nWedey iyu wedey iyu\nGwayta yfelt' mqaley’yu\nFredeley ayhasekhun\nAytsedyo ayt'eqmekn\nBhaqi qnu'’yu kwlu zteferde\nT’hts'an ych'eded ymeqel t’hade\nNkltena aykhun lbey bmmraru\nWed men ynebr nay men teqebiru\nBzey hat'iat slemntay\nYmewt zi wedey\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 140,
+    "needs_review": [
+      "no_title_line_found",
+      "chorus_only_no_verses"
+    ]
+  }
+}

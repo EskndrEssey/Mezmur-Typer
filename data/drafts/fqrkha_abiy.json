@@ -1,0 +1,53 @@
+{
+  "id": "h_g8t0ji91alu",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍቕርኻ ዓቢይ",
+    "ti_ro": "ፍቕርኻ ዓቢይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፍቕርኻ ዓቢይ’ዩ ክኸፍሎ ከቢዱ\nጐይታይ ‘ቲ ምሕረትካ ካብ ሰማይ ወሪዱ\nንስኻ ግን /2/ ጐይታይ ናባይ ነዓ ኢልካኒ\nኣብ ትሕቲ ኣእዳውካ ፍጹም ኣዕቚብካኒ\nኣብ ውሽጢ ሕቑፎኻ ፍቕሪ መሊእካኒ\nመዓስ እሞ ጐይታይ ተረዲኤ ኣነ\nዓመታት ከቑጽር ኣብ ኣጸድካ ኮይነ\nሕጂ ግና /2/ ፍቕርኻ ሰሪጹ ኣብ ልበይ\nጨው ተወሲኽዋ መቂራ ሕይወተይ\nጐይታየ ተመስገን ናተይ መድኃኒየይ\nብርሃን እዩ ገጽካ ዝተመልአ ፍቕሪ\nናብ ሓጥኣን ዝጥምት ርስሓቶም ከጽሪ\nብርሃጽካ /2/ ጐይታይ ከፊልካለይ ዋጋ\nበቲ ቅዱስ ደምካ ነፍሰይ ተዓዲጋ\nካብ ሲኦል ወጺኣ ናብ ገነት ዓሪጋ\nዕልልታን መዝሙርን ካብ ልበይ ገንፊሉ\nብደሃይ ቃላትካ ኣካለይ ዘሊሉ\nእወ ኵሉ /2/ ካባኻ እንድዩ ‘ቲ ነባሪ ሕይወት\nዓይኒ ዘይረኣዮ ብልቢ ሰብ ዘይግመት\nእዝኒ ዘይሰምዖ ናይ ፍቕርኻ ውህበት\n[[/chorus]]\n\nንዑ ተመሓሩ ደብረ ፀሐይ ቅዱስ ገብርኤል (ሠላሳ\nኣምስተኛ)",
+    "ti_ro": "[[chorus]]\nFqrkha 'abiy’yu kkheflo kebidu\nGwaytay ‘ti mhretka kab semay weridu\nNskha gn /2/ gwaytay nabay ne'a ilkani\nAb thti adawka fts'um a'qwibkani\nAb wsht'i hqufokha fqri melikani\nMe'as mo gwaytay teredie ane\n'Ametat kequts'r ab ats'edka koyne\nHji gna /2/ fqrkha serits'u ab lbey\nCh'ew tewesikhwa meqira hywetey\nGwaytaye temesgen natey medhaniyey\nBrhan yu gets'ka ztemele fqri\nNab hat'an zt'mt rshatom kets'ri\nBrhats'ka /2/ gwaytay kefilkaley waga\nBeti qdus demka nefsey te'adiga\nKab siol wets'ia nab genet 'ariga\n'Lltan mezmurn kab lbey genfilu\nBdehay qalatka akaley zelilu\nWe kwlu /2/ kabakha ndyu ‘ti nebari hywet\n'Ayni zeyreayo blbi seb zeygmet\nZni zeysem'o nay fqrkha whbet\n[[/chorus]]\n\nN'u temeharu debre ts'ehey qdus gebrel (Sselasa\nAmstenya)",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 410,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_2lmlrqm5uhw",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተመስገን",
+    "ti_ro": "ተመስገን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተመስገን ምስጋናኻ ይብዛሕ\nተመስገን ከምዛራ ማይ ይውሓዝ\nጸገመይ ኵሉ ቀሊል’ዩ ኣብ ቅድሜኻ\nእንሆ እንዶ ሎሚ ቀይርካዮ ራህዋ\n[[/chorus]]\n\nነቲ ምስኪን ድኻ ክብሪ ኣልቢስካዮ\nነቲ ሕሙም ውዱቕ ካብ ምድሪ ኣልዒልካዮ\nልበይ ኣይከኣለን ክሰግሮ ብስቕታ\nኣመስግን ይብለኒ’ሎ ዘምር ብዓውታ\nመን ይኽልክለኒ ክነግር ክብርኻ\nውሽጠይ እናገንፈለ ሰናይ ምስጋናኻ\nኣነስ ከቢረ’የ ብኣኻ ኣማኑኤል\nእዝምር ኣለኹ እናበልኩ ዕልል\n\nኣቤት ቲ’ፍቕርኻ ጐይታ እቲ ውዕለትካ\nደረት ኣልቦ ምሕረት መን’ዩ ዝመስለካ\nቃላት ኣይረኸብኩን ዘዘንቱ ክብርኻ\nጌና ክዝምር’የ ዘልዓለም ኣብ ቤትካ\n\nዲ/ን ኣብርሃም መሓሪ",
+    "ti_ro": "[[chorus]]\nTemesgen msganakha ybzah\nTemesgen kemzara may ywhaz\nTs'egemey kwlu qelil’yu ab qdmekha\nNho ndo lomi qeyrkayo rahwa\n[[/chorus]]\n\nNeti mskin dkha kbri albiskayo\nNeti hmum wduq kab mdri al'ilkayo\nLbey aykealen ksegro bsqta\nAmesgn ybleni’lo zemr b'awta\nMen ykhlkleni knegr kbrkha\nWsht'ey nagenfele senay msganakha\nAnes kebire’ye bakha amanuel\nZmr alekhu nabelku 'll\n\nAbet ti’fqrkha gwayta ti w'letka\nDeret albo mhret men’yu zmesleka\nQalat ayrekhebkun zezentu kbrkha\nGena kzmr’ye zel'alem ab betka\n\nDi/n abrham mehari",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 285,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

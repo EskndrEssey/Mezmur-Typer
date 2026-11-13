@@ -1,0 +1,53 @@
+{
+  "id": "h_t4r2z56k7nx",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዮም ፍሥሐ ኮነ",
+    "ti_ro": "ዮም ፍሥሐ ኮነ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዮም ፍሥሐ ኮነ /2/\nበእንተ ልደታ ለማርያም\nኣብ ትሕቲ መግዛእቲ       ፍሥሐ ኮነ\nኣብ ኃጢኣት ከለና           >>  >>\nብናይ ድንግል ምውላድ      >>  >>\nበደልና ተሓድገልና            >>  >>\nእግዚአብሔር ሓርዩኪ        >>  >>\nክትኮኒ ወላዲት                 >>  >>\nሕጂ ተፈጸመ                    >>  >>\nናይ ዳዊት ትንቢት             >>  >>\n[[/chorus]]\n\nናይ ሔዋን ተስፋኣ               ፍሥሐ ኮነ\nናይ ኣዳም ሕይወት                 >>  >>\nናይ ኢያቄም ናይ ሃና             >>  >>\nፍረ በረኸት                       >>  >>\nምኽንያት ናይ ድኅነትና          >>  >>\nኪዳነ ምሕረት                    >>  >>\nሎሚ ረኺብናዮ               >>  >>\nብድንግል ማርያም             >>  >>\nነቲ ብስራት ንንገር             >>  >>\nሓዘና ገዲፍና                   >>  >>\nተወሊዳ’ያሞ                   >>  >>\nተስፋ ናይ ዓለምና             >>  >>\n\nዘማሪ ቸርነት ሰናይ",
+    "ti_ro": "[[chorus]]\nYom fsshe kone /2/\nBente ldeta lemaryam\nAb thti megzati       fsshe kone\nAb hat'iat kelena           >>  >>\nBnay dngl mwlad      >>  >>\nBedelna tehadgelna            >>  >>\nGziebher haryuki        >>  >>\nKtkoni weladit                 >>  >>\nHji tefets'eme                    >>  >>\nNay dawit tnbit             >>  >>\n[[/chorus]]\n\nNay hewan tesfaa               fsshe kone\nNay adam hywet                 >>  >>\nNay iyaqem nay hana             >>  >>\nFre berekhet                       >>  >>\nMkhnyat nay dhnetna          >>  >>\nKidane mhret                    >>  >>\nLomi rekhibnayo               >>  >>\nBdngl maryam             >>  >>\nNeti bsrat nnger             >>  >>\nHazena gedifna                   >>  >>\nTewelida’yamo                   >>  >>\nTesfa nay 'alemna             >>  >>\n\nZemari chernet senay",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 90,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_qp2z32zx2bv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሓያል’ዩ ኣምላኸይ",
+    "ti_ro": "ሓያል’ዩ ኣምላኸይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓያል’ዩ ኣምላኸይ ዋልታይ ክብረተይ እዩ\nሓያል’ዩ ኣምላኸይ ንባሕሪ ዝመቅል\nንዓይ ምስ ኣሕለፈ ንፈርኦን ዘጥሕል\n[[/chorus]]\n\nኣስራዚ  ክዳኑ እንተተመክሐ\nንሕዝቢ ናይ ኣምላኽ እንተፈራርሐ\nብናይ ሩባ ጸጸር ግንባሩ ከንህሎ\nኣምላኽ ሂቡኒ’ዩ ኵሉ ዝከኣሎ\nንስሙ ምምስጋን ስለ ክብሩ ምስጋድ\nበደል እንተኾይኑ ዘደርቢ ናብ ጉድጓድ\nበቲ ግሩም ሓይሊ በቲ ዝርጉሕ ቅልጽም\nኣፍ ኣናብስ ዓጽዩ ተደነቒ ዓለም\n\nብፈተና ዓለም ተወደቕኩ ኣብ ጸልማት\nትንሳኤ’ዩ ተስፋይ ኣይፈርሕን ንሞት\nንሞተይ ብሞቱ ደምሲሱ ዘጥፍኦ\nኤልሻዳይ’ዩ ንሱ ክብሪ ዝግብኦ",
+    "ti_ro": "[[chorus]]\nHayal’yu amlakhey waltay kbretey yu\nHayal’yu amlakhey nbahri zmeql\nN'ay ms ahlefe nferon zet'hl\n[[/chorus]]\n\nAsrazi  kdanu ntetemekhe\nNhzbi nay amlakh nteferarhe\nBnay ruba ts'ets'er gnbaru kenhlo\nAmlakh hibuni’yu kwlu zkealo\nNsmu mmsgan sle kbru msgad\nBedel ntekhoynu zederbi nab gudgwad\nBeti grum hayli beti zrguh qlts'm\nAf anabs 'ats'yu tedeneqi 'alem\n\nBfetena 'alem tewedeqku ab ts'elmat\nTnsae’yu tesfay ayferhn nmot\nNmotey bmotu demsisu zet'fo\nElshaday’yu nsu kbri zgbo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 230,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

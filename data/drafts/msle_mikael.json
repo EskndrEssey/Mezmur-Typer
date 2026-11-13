@@ -1,0 +1,54 @@
+{
+  "id": "h_31pfofwngip",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስለ ሚካኤል",
+    "ti_ro": "ምስለ ሚካኤል",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትናዝዝኒ እምላህ ትናዝዝኒ\nምስ ሚካኤልን ምስ ገብርኤልን ንዒ/2/\nከተጸናንዕኒ ሓዘን ልበይ ከተጸናንዕኒ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTnazzni mlah tnazzni\nMs mikaeln ms gebreln n'i/2/\nKetets'enan'ni hazen lbey ketets'enan'ni\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 424,
+    "needs_review": [
+      "no_title_line_found",
+      "chorus_only_no_verses"
+    ]
+  }
+}

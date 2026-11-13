@@ -1,0 +1,53 @@
+{
+  "id": "h_uzlkbaie3ew",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፈተና ስቓይ",
+    "ti_ro": "ፈተና ስቓይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፈተና ስቓይ’ውን ይብዛሕ\nርኢና ሕዝቡ ከብዝሕ\nንሕይወት ጽዉዓት ኢና\nእግዚአብሔር ኣይጥንጥነናን /2/\nፍቕር’ዩ ናይ ናርዶስ ሽቱ\nፈትዩና ኣብ መስቀል ሞይቱ\nተራጊፉ’ዩ ሸኸምና\nምሕረቱ ምስ ፈሰሰልና /2/\nተጸናኒዑ ልብና\nብእሳት ሕጹር ቀጽርና\nውድቀት ስዕረት የለን\nከለና ኢየሱስ መድኅን /2/\n[[/chorus]]\n\nሕይወት’ዩ ናይ ጽድቂ ጽላል\nኢየሱስ ዘእግዚአብሔር ቃል\nኢኻ’ሞ ምቁር መግብና\nእግዚአብሔር ርህሩህ ኣምላኽና /2/",
+    "ti_ro": "[[chorus]]\nFetena sqay’wn ybzah\nRina hzbu kebzh\nNhywet ts'wu'at ina\nGziebher ayt'nt'nenan /2/\nFqr’yu nay nardos shtu\nFetyuna ab mesqel moytu\nTeragifu’yu shekhemna\nMhretu ms feseselna /2/\nTets'enani'u lbna\nBsat hts'ur qets'rna\nWdqet s'ret yelen\nKelena iyesus medhn /2/\n[[/chorus]]\n\nHywet’yu nay ts'dqi ts'lal\nIyesus zegziebher qal\nIkha’mo mqur megbna\nGziebher rhruh amlakhna /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 127,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

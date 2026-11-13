@@ -1,0 +1,54 @@
+{
+  "id": "h_hk36jfsl3xr",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰላም ለኪ",
+    "ti_ro": "ሰላም ለኪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰላም ለኪ ማርያም\nወለተሃና ወኢያቄም\nመሰረቱ ለዓለም\nወጥንተ መድኃኒት ዘእምቅድም\nንሕና ንኽንድሕን እንተዘይፈጥር ንዓኺ\nእንተዘየድሕነና ነይሩ ተወሊዱ ካባኺ\nከም ሰዶምን ከም ጎመራን\nምጠፋእና ኔርና ካብዚኣ ዓለም ሰላም ለኪ\nናይ ጥፍኣት ማይ ምዘነመ እውን\nኖህ’ውን ናብ ምድሪ ርግቢት ለኣኸ\nናይ ኣይሂ ፍጻሜ ምልክት ዝኾንኪ\nሐመልማላዊት ድንግል ንስኺ’ኺ ሰላም ለኪ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSelam leki maryam\nWeletehana weiyaqem\nMeseretu le'alem\nWet'nte medhanit zemqdm\nNhna nkhndhn ntezeyfet'r n'akhi\nNtezeyedhnena neyru tewelidu kabakhi\nKem sedomn kem gomeran\nMt'efana nerna kabzia 'alem selam leki\nNay t'fat may mzeneme wn\nNoh’wn nab mdri rgbit leakhe\nNay ayhi fts'ame mlkt zkhonki\nHemelmalawit dngl nskhi’khi selam leki\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 10,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_xs0rm4d1m0g",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ያሬድ ካህን ዘመረ",
+    "ti_ro": "ያሬድ ካህን ዘመረ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nያሬድ ካህን ዘመረ /2/\nዘመረ ያሬድ ዘመረ\nንኣምላኽ ኣመስገነ /2/\nኣርያም ብማለት   ያሬድ ዘመረ\nማህሌት ጀመረ      >>   >>\nዜማ ምስ ምልክት ፍጹም እናስመረ\nኣቕረበ  ምስጋና    ያሬድ ዘመረ\nብንዋየ ዜማ         >>    >>\nጸናጽል ኣልዓለ ከበሮ መቆምያ\n[[/chorus]]\n\nብግእዝ ብእዝል     ያሬድ ዘመረ\nብኣራራይ ዜማ       >>     >>\nካብ ብሉይ ካብ ሓዲስ ምስጢር ኣሳነየ\nብምልክት ዜማ      ያሬድ ዘመረ\nናይ ኣምላኽ መከራ   >>     >>\nናይ መስቀል ነገር ናይ ምድሓኑ ስራሕ\nደሙ እናፈሰሰ     ያሬድ ዘመረ\nብኹናት ተወጊኡ   >>     >>\nሊቀ ማህሌታት ብመንፈስ ተቓንዩ\nብጥዑም ልሳኑ    ያሬድ ዘመረ\nብዝተዋህቦ ጸጋ     >>     >>\nንንጉሥ ክርስቶስ ኣልፋ ወኦሜጋ\n\nድጓ ጾመድጓ        ያሬድ ዘመረ\nምዕራፍ መዋሥዕት    >>    >>\nምስጢር ተገልጸሉ ዜማ መላእክት\nናይ ዜማ መሰረት   ያሬድ ዘመረ\n ወረብ እግዚአብሔር",
+    "ti_ro": "[[chorus]]\nYared kahn zemere /2/\nZemere yared zemere\nNamlakh amesgene /2/\nAryam bmalet   yared zemere\nMahlet jemere      >>   >>\nZema ms mlkt fts'um nasmere\nAqrebe  msgana    yared zemere\nBnwaye zema         >>    >>\nTs'enats'l al'ale kebero meqomya\n[[/chorus]]\n\nBgz bzl     yared zemere\nBararay zema       >>     >>\nKab bluy kab hadis mst'ir asaneye\nBmlkt zema      yared zemere\nNay amlakh mekera   >>     >>\nNay mesqel neger nay mdhanu srah\nDemu nafesese     yared zemere\nBkhunat tewegiu   >>     >>\nLiqe mahletat bmenfes teqanyu\nBt''um lsanu    yared zemere\nBztewahbo ts'ega     >>     >>\nNnguss krstos alfa weomega\n\nDgwa ts'omedgwa        yared zemere\nM'raf mewass't    >>    >>\nMst'ir tegelts'elu zema melakt\nNay zema meseret   yared zemere\n Wereb gziebher",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 530,
+    "needs_review": [
+      "verse_2_possible_page_split"
+    ]
+  }
+}

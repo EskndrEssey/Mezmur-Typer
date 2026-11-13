@@ -1,0 +1,53 @@
+{
+  "id": "h_5u1zmtrhm0k",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በኃይለ መንክርኪ",
+    "ti_ro": "በኃይለ መንክርኪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበኃይለ መንክርኪ ከመ እትመየጥ\nወእምነደ ነበልባል ከመ አምስጥ\nማርያም ቤዛ ኩንኒ\nማርያም ዕቀብኒ\nመርዓዊ ምስ መጽአ ከይሓፍር ከይደንን\nዋሕስ ነፍሰይ ኩኒ ክቐውም ብየማን\n[[/chorus]]\n\nኪዳንኪ እዩ ኃይለይ ድኻመይ ዘሰንፍ\nጕያይ ንኽዛዝም ቤት ኤል ንኸዕርፍ\nጣዕሚ ገነት ኤዶም ኣብ ልበይ ኣንብሪ\nንኃጢኣት ፈንፊነ ንሕይወት ክሓሪ\nትምክሕተይ ርእየዮ ከእትወኒ ጸበባ\nባዕለይ ዘምጻእክዎ ወሊዱ ሰበባ\nብዘይ ወድኺ ኣደይ ኣይመልእን ሰላመይ\nከምቲ ናይ ገሊላ ንገርዮ ስለይ\n\nእግረይ ይስጕም ኣሎ ናብ ጽርሐ መቕደስኪ\nልበይ ብሂጉ’ሎ ክነብር ምሳኺ\nከማዕዱ ንምብራቕ ጸጋኺ የጽልለኒ\nመርኆ ሰማይ ድንግል መራሒት ኩንኒ",
+    "ti_ro": "[[chorus]]\nBehayle menkrki keme tmeyet'\nWemnede nebelbal keme emst'\nMaryam beza kunni\nMaryam 'qebni\nMer'awi ms mets'e keyhafr keydenn\nWahs nefsey kuni kqewm byeman\n[[/chorus]]\n\nKidanki yu hayley dkhamey zesenf\nGwyay nkhzazm bet el nkhe'rf\nT'a'mi genet edom ab lbey anbri\nNhat'iat fenfine nhywet khari\nTmkhtey ryeyo ketweni ts'ebeba\nBa'ley zemts'akwo welidu sebeba\nBzey wedkhi adey aymeln selamey\nKemti nay gelila ngeryo sley\n\nGrey ysgwm alo nab ts'rhe meqdeski\nLbey bhigu’lo knebr msakhi\nKema'du nmbraq ts'egakhi yets'lleni\nMerho semay dngl merahit kunni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 415,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_g25nmvak7mv",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እንተዝሕተት",
+    "ti_ro": "እንተዝሕተት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእንታይ ምበልኩ ብህላወይ\nክሓልፈኒ እዋን ብባዕለይ ዝፍሕሶ\nፍስሓ ወሰላም ክፋእ እንክወርሶ\nንሓቂ ነገር’ዶ ሰሪ ምባል ጐይታ\nብኽዉን ዘይክዉን ክላበስ ኣበሳ\n[[/chorus]]\n\nቃድራ መሬት እወ ዘይእንታዩ ራህዲ\nስርናይ ምስ ክርዳድ ‘ናተባህለ ጽርዲ\nዘለኹ ክመስል ኣእጋረይ ተኺለ\nኣካል ብዘይውነ እንታይ ምወሸለ\nነዓ ናተይ ቅዱስ ክሰምዓ ኣእዛነይ\nባህ ኢልወን ክርእያ ፍሬአን ኣዒንተይ\nኣኻእሎ ክረክብ ሕይወተይ ክሰትር\nብእግዚአብሔር ወለዶይ ኣብ ኣርያም ክስድር\n\nመላፍንቲ ጸጋ ኣብ ምድረ ሕያዋን\nንእግዚአብሔር ኣሚነ ክእንፍቶ ስካን\nኣእዳወይ ከይጠምር እጅገይ ክኸፍሶ\nህንጸት ናይ ተስፋይ ዳግም ከሐድሶ",
+    "ti_ro": "[[chorus]]\nNtay mbelku bhlawey\nKhalfeni wan bba'ley zfhso\nFsha weselam kfa nkwerso\nNhaqi neger’do seri mbal gwayta\nBkhwun zeykwun klabes abesa\n[[/chorus]]\n\nQadra meret we zeyntayu rahdi\nSrnay ms krdad ‘natebahle ts'rdi\nZelekhu kmesl agarey tekhile\nAkal bzeywne ntay mweshele\nNe'a natey qdus ksem'a azaney\nBah ilwen krya freen a'intey\nAkhalo krekb hywetey ksetr\nBgziebher weledoy ab aryam ksdr\n\nMelafnti ts'ega ab mdre hyawan\nNgziebher amine knfto skan\nAdawey keyt'emr jgey kkhefso\nHnts'et nay tesfay dagm kehedso",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 299,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

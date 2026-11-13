@@ -1,0 +1,53 @@
+{
+  "id": "h_9swpu0ttytu",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰላምኪ ኣውርድለይ",
+    "ti_ro": "ሰላምኪ ኣውርድለይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nስምኪ ክጽውዕ ኣንቃዕሪረ\nማርያመይ እናበልኩ ተስፋ ገይረ\nባህጊ ልበይ ፍለጥለይ\nሰላምኪ ኣውርድለይ /2/\nካብ ኃጢኣት ምፍላይ ኣዝዩ ከቢዱኒ\nብጽድቂ ከይግስግስ ሓይለይ ደኺሙኒ\nጠበቓ ኩንኒ ኣበሳይ ከጽሪ\nኣምላኻዊ ፍቕሩ ንልበይ ምሃሪ\nቅድመይ ዘማዕድዎ ድቕድቕ ቀላይ ጥፍኣት\nዕላማይ ዘረስዕ ዘፍርህ ድነ ሞት\nብጽድቂ መሪሕኪ ሰውርለይ መዓት\nደጊመ ከይምለስ ኣስንቕኒ'ቲ ናትኪ ትብዓት\n[[/chorus]]\n\nትርጉም ኣልቦ ከይከውን ምንባረይ\nጸሎት ጾመይ ከይሕነቕ ብግብረይ\nኣንፊ ጕዕዞይ መንቅብ ከይርከቦ\nቅዱስ ቃሉ ነእዛነይ ከይፈርዶ\nከይዕበ ልበይ ብጸጋኡ\nንኸይምካሕ ብውህበት መንፈሱ\nካብ ሰብ ዓስቢ ከይፍደዮ ጉያይ\nኦ ድንግለይ ሓደራ በልለይ /2/",
+    "ti_ro": "[[chorus]]\nSmki kts'w' anqa'rire\nMaryamey nabelku tesfa geyre\nBahgi lbey flet'ley\nSelamki awrdley /2/\nKab hat'iat mflay azyu kebiduni\nBts'dqi keygsgs hayley dekhimuni\nT'ebeqa kunni abesay kets'ri\nAmlakhawi fqru nlbey mhari\nQdmey zema'dwo dqdq qelay t'fat\n'Lamay zeres' zefrh dne mot\nBts'dqi merihki sewrley me'at\nDegime keymles asnqni'ti natki tb'at\n[[/chorus]]\n\nTrgum albo keykewn mnbarey\nTs'elot ts'omey keyhneq bgbrey\nAnfi gw'zoy menqb keyrkebo\nQdus qalu nezaney keyferdo\nKey'be lbey bts'egau\nNkheymkah bwhbet menfesu\nKab seb 'asbi keyfdeyo guyay\nO dngley hadera belley /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 495,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

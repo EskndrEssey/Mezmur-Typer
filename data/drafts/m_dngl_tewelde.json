@@ -1,0 +1,54 @@
+{
+  "id": "h_4fmq2ih6719",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እም ድንግል ተወልደ",
+    "ti_ro": "እም ድንግል ተወልደ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእም ድንግል /3/ ተወልደ ኣማኑኤል /2/\nነቢያት ኵሎም    ኣማኑኤል ተወልደ ኣማኑኤል\nትንቢት ተዛረቡ        >>     >>       >>\nናይ ሰራዊት ጐይታ     >>     >>       >>\nክወርድ`ዩ በሉ        >>     >>       >>\nወሪዱ ካብ ሰማይ      >>     >>       >>\nካብ ነፍሳ ነፍሲ ገይሩ  >>     >>       >>\nካብ ድንግልማርያም   ኣማኑኤል ተወልደ ኣማኑኤል\nናይ ፍጥረታት ጐይታ       >>      >>       >>\nድምጹ ሰሚዕናዮ           >>      >>       >>\nኣብ ዓዲ ኤፍራታ          >>      >>       >>\nተወሲኑ ርኢናዮ      >>      >>      >>\nኣብ መብልዕ ማል    >>      >>      >>\nሰብኣ ሰገል መጹ      >>      >>      >>\nኮኾብ መሪሕዎም     >>      >>      >>\nዕጣን ወርቂ ከርበ    ኣማኑኤል ተወልደ ኣማኑኤል\nዕጣን ንክህነቱ         >>      >>      >>\nወርቂ ንመንግስቱ     >>      >>      >>\nከርበ’ውን ንሞቱ      >>      >>      >>\nጓሶት ዘመሩሉ         >>      >>      >>\nተወሊዱ እናበሉ      >>      >>      >>\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nM dngl /3/ tewelde amanuel /2/\nNebiyat kwlom    amanuel tewelde amanuel\nTnbit tezarebu        >>     >>       >>\nNay serawit gwayta     >>     >>       >>\nKwerd`yu belu        >>     >>       >>\nWeridu kab semay      >>     >>       >>\nKab nefsa nefsi geyru  >>     >>       >>\nKab dnglmaryam   amanuel tewelde amanuel\nNay ft'retat gwayta       >>      >>       >>\nDmts'u semi'nayo           >>      >>       >>\nAb 'adi efrata          >>      >>       >>\nTewesinu rinayo      >>      >>      >>\nAb mebl' mal    >>      >>      >>\nSeba segel mets'u      >>      >>      >>\nKokhob merihwom     >>      >>      >>\n'T'an werqi kerbe    amanuel tewelde amanuel\n'T'an nkhnetu         >>      >>      >>\nWerqi nmengstu     >>      >>      >>\nKerbe’wn nmotu      >>      >>      >>\nGwasot zemerulu         >>      >>      >>\nTewelidu nabelu      >>      >>      >>\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 471,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

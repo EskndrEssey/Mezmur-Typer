@@ -1,0 +1,53 @@
+{
+  "id": "h_wvu58q4dftw",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እመ ብርሃን ክብለኪ",
+    "ti_ro": "እመ ብርሃን ክብለኪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእመብርሃን ክብለኪ ምጽኒ ምስ ወድኺ\nቅረቢ ናብ ሕይወተይ ኣደይ ክጽውዓኪ\nናብራይ ተዘናቢሉ ደኺመለኹ ኣነ\nናባይ ቅረቢ ኣደይ ክጸናናዕ በጃኺ\nሰላም ኮይኑሎ ገዛይ ንስኺ ብምእታውኪ\nቲ ኣባይ ዝነበረ ሓዘነይውን ለዊጥኪ\n[[/chorus]]\n\nዘይምኖ ኣደነትኪ ፍቕርኺ ጥዒሙኒ\nወትሩ ኣብ ጎንኻየ ‘ናበልኪ ኣቕስንኒ\nብየማነይ ኩንለይ ኣደ ኣምላኽ ኣብ ዘመነይ\nሓደራ ኣይትርሓቒ ጠበቓ ኩኒ ንዓይ\n\nኣብ ጎነይ ምስ ትኾኒ ድምጽኺ የጽንዓኒ\nንስኺ ኢኺ ምርኩሰይ ኣብ ሓዘነይ ሽግረይ\nኣብ ዘለኹሉ ቦታ ኣብ ዝጉዓዘሉ ኵሉ\nናባኺየ ዝጠርዕ ኣንቲ ቤዛዊት ኵሉ\n\nዘማሪ ገብረአምላክ\n99. ብንጹህ ደሙ ዘድኃነና\nተመጦነ /2/ እምስጋሁ /2/ ቅዱስ\nወእምደሙ /2/ ክቡር\n\nብንጹህ ደሙ ዘድሓነና\nካብ ወድቀትና ዘልዓለና /2/\nብዙሕ እዩ ናቱ ውዕለታት\nክንዝምር ኢና ንጐይታ\nቀኒዕና ኣለና ብኽብሪ\nምስ ኣድነነልና ብፍቕሪ\nስሌና ብዙሕ ኮይኑልና\nኣኽሊል ናይ ብርሃን ደፊኡልና\nንጸላኢና ተጻዩ መድኃኒት ዓለም ጐይታ'ዩ/2/",
+    "ti_ro": "[[chorus]]\nMebrhan kbleki mts'ni ms wedkhi\nQrebi nab hywetey adey kts'w'aki\nNabray tezenabilu dekhimelekhu ane\nNabay qrebi adey kts'enana' bejakhi\nSelam koynulo gezay nskhi bmtawki\nTi abay znebere hazeneywn lewit'ki\n[[/chorus]]\n\nZeymno adenetki fqrkhi t''imuni\nWetru ab gonkhaye ‘nabelki aqsnni\nByemaney kunley ade amlakh ab zemeney\nHadera aytrhaqi t'ebeqa kuni n'ay\n\nAb goney ms tkhoni dmts'khi yets'n'ani\nNskhi ikhi mrkusey ab hazeney shgrey\nAb zelekhulu bota ab zgu'azelu kwlu\nNabakhiye zt'er' anti bezawit kwlu\n\nZemari gebreemlak\n99. Bnts'uh demu zedhanena\nTemet'one /2/ msgahu /2/ qdus\nWemdemu /2/ kbur\n\nBnts'uh demu zedhanena\nKab wedqetna zel'alena /2/\nBzuh yu natu w'letat\nKnzmr ina ngwayta\nQeni'na alena bkhbri\nMs adnenelna bfqri\nSlena bzuh koynulna\nAkhlil nay brhan defiulna\nNts'elaina tets'ayu medhanit 'alem gwayta'yu/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 98,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_w22lflhn80m",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ክብረ ቅዱሳን",
+    "ti_ro": "ክብረ ቅዱሳን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሙዳየ መና ጎሞር ሙዳየ መና /2/\nክብረ ቅዱሳን ስለዝኾንኪ\nቅኔ ምስጋና ይግበኣኪ\nዝወለድክዮ ናይ ሕይወት መና\nዝናም ዘለኪ ፈጣን ደመና\n[[/chorus]]\n\nትሕትና ፍቕሪ ክዳን መልክዕኪ\nጥንሲ የዝልል ሰላምታ ናትኪ\nእሳት ወሊድኪ እሳት ሓቚፍኪ\nኣይወግሕን’ዩ ከይዘመርናልኪ\nናይ ጸሓይ ምብራቕ ስለዝኾንኪ\nርኢና ብርሃን ማርያም ብኣኺ\nኣይጽልምትን’ዩ  ከቶ ሕይወትና\nወድኺ ከሎ ብርሃን ጸሓይና\n\nሰኣሊ ለነ ሰላም ለኪ\nተማሕጸነ በኪዳንኪ\nንዒ ርግብየ ምስለ ወልድኪ\nሰማይ ወምድር ይዌድሱኪ",
+    "ti_ro": "[[chorus]]\nMudaye mena gomor mudaye mena /2/\nKbre qdusan slezkhonki\nQne msgana ygbeaki\nZweledkyo nay hywet mena\nZnam zeleki fet'an demena\n[[/chorus]]\n\nThtna fqri kdan melk'ki\nT'nsi yezll selamta natki\nSat welidki sat haqwifki\nAyweghn’yu keyzemernalki\nNay ts'ehay mbraq slezkhonki\nRina brhan maryam bakhi\nAyts'lmtn’yu  keto hywetna\nWedkhi kelo brhan ts'ehayna\n\nSeali lene selam leki\nTemahts'ene bekidanki\nN'i rgbye msle weldki\nSemay wemdr ywedsuki",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 508,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

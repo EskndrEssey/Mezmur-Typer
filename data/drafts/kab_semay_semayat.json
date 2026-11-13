@@ -1,0 +1,53 @@
+{
+  "id": "h_gjxdjsntas4",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ካብ ሰማይ ሰማያት",
+    "ti_ro": "ካብ ሰማይ ሰማያት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nካብ ሰማይ ሰማያት ናብ ምድሪ ወሪዱ\nንደቂ ሰባት ኢሉ ተዋሪዱ\nሓጢኣት ዘይባህሪኡ ብኣምላኽነቱ\nእንታይ እዩ ጌሩ እንታይ’ዩ በዲሉ\nመላእ ኣካላቱ ብገመድ ቆሲሉ\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ\n[[/chorus]]\n\nቀላያት ኩሎም  ዝግዝኡሉ\nንደቂ ሰባት ማይ ጸሚኡኒ ኢሉ\nደምን ረሃጽን ብገጹ እናወረደ\nክትበኪ ረአያ እታ ርህርህቲ ኣደ\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ\nመከራ ከይፈርሐ ዝተኸተለ\nዮሓንስ በኸየ ወይለይ እናበለ\nክሳብ መወዳእታ ብትብዓት ዝሰዓቦ\nእንሀት ኣዴኻ ኢሉ ንዮሓንስ ሃቦ\n\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ",
+    "ti_ro": "[[chorus]]\nKab semay semayat nab mdri weridu\nNdeqi sebat ilu tewaridu\nHat'iat zeybahriu bamlakhnetu\nNtay yu geru ntay’yu bedilu\nMela akalatu bgemed qosilu\nNatna fqri shibwo teseqilu ab qeranyo gobo\n[[/chorus]]\n\nQelayat kulom  zgzulu\nNdeqi sebat may ts'emiuni ilu\nDemn rehats'n bgets'u nawerede\nKtbeki reeya ta rhrhti ade\nNatna fqri shibwo teseqilu ab qeranyo gobo\nMekera keyferhe ztekhetele\nYohans bekheye weyley nabele\nKsab mewedata btb'at zse'abo\nNhet adekha ilu nyohans habo\n\nNatna fqri shibwo teseqilu ab qeranyo gobo",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 334,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

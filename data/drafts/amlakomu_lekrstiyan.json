@@ -1,0 +1,53 @@
+{
+  "id": "h_ashmw57uqrg",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣምላኮሙ ለክርስቲያን",
+    "ti_ro": "ኣምላኮሙ ለክርስቲያን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nአምላኮሙ ለክርስቲያን ተመሲሎ ሰብአ መጽአ ኃቤየ\nወይቤላ ቅዱስ ጊዮርጊስ\nኣንሰ ኢኮንኩ አምላከ ኣላ ገብረ አምላክ ኣነ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nEmlakomu lekrstiyan temesilo sebe mets'e habeye\nWeybela qdus giyorgis\nAnse ikonku emlake ala gebre emlak ane\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 404,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_uvgkuz1za5x",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እቲ ንምክሖ",
+    "ti_ro": "እቲ ንምክሖ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእቲ ንምክሖ ብእግዚአብሔር ይኹን ብኃይሉ ንመካሕ\nንኽንድሕን’ውን ኣብ ኢየሩሳሌም ኣብ መቕደሱ ንጽናሕ\nናብ ቤትና ክኣቱ ይዅሕኩሕ እዩ ዘሎ ንሰምዕ እንተለና\nናይ ልብና ማዕጾ ሕጂ ንኽፈተሉ ክነብር ምሳና\nፍጻሜ ሓሳብና ምስጢር ናይ ዓወትና\nስራሕ ኣምላኽና’ዩ ኣይኮነን ካባና\nእፎይታ ክትረክብ ናብኡ ነማዕቁባ\nሓደ ኢልና ንህነጻ ብቓሉ ንንደቃ /2/\nልዕሊ’ቲ ንሓስቦ ዘፍቀረና ጐይታ\nንጾርና ዝጾረ ክሳብ ጎልጎታ\nሕጂ’ውን እንተኾነ ከራገፍ ሸኸምና\nድሉው እዩ ዘሎ ክሓድግ ኃጢኣትና /2/\n[[/chorus]]\n\nንክርስቶስ ዝገብሮ ምንጪ ናይ ትምክሕቱ\nብትሕትና ይስዕሮ ንውዲት ጸላእቱ\nብሰላም ይንደቕ መንፈሱ ይረግእ\nንጭንቀት’ዛ ዓለም ሓግሒጉ የውጽእ /2/",
+    "ti_ro": "[[chorus]]\nTi nmkho bgziebher ykhun bhaylu nmekah\nNkhndhn’wn ab iyerusalem ab meqdesu nts'nah\nNab betna katu ykhwhkuh yu zelo nsem' ntelena\nNay lbna ma'ts'o hji nkhfetelu knebr msana\nFts'ame hasabna mst'ir nay 'awetna\nSrah amlakhna’yu aykonen kabana\nFoyta ktrekb nabu nema'quba\nHade ilna nhnets'a bqalu nndeqa /2/\nL'li’ti nhasbo zefqerena gwayta\nNts'orna zts'ore ksab golgota\nHji’wn ntekhone keragef shekhemna\nDluw yu zelo khadg hat'iatna /2/\n[[/chorus]]\n\nNkrstos zgebro mnch'i nay tmkhtu\nBthtna ys'ro nwdit ts'elatu\nBselam yndeq menfesu yreg\nNch'nqet’za 'alem haghigu yewts' /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 264,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

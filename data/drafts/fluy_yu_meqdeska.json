@@ -1,0 +1,53 @@
+{
+  "id": "h_8pi6fj5fviz",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፍሉይ’ዩ መቕደስካ",
+    "ti_ro": "ፍሉይ’ዩ መቕደስካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ዝፋን ኪሩቤል መንበሪኻ\nኣምላከ እስራኤል መን ኣሎ ከማኻ (2)\nካብ ሰማይ ወሪድካ ናብ ምድሪ መጺእካ\nሰብ  ከተድሕን ብሕያው ቃልካ\nብዙሕ ምሒርካና ንስኻ ብሞትካ\nዝመረረት ሕይወት ብፍቕሪ ለዊጥካ\n[[/chorus]]\n\nሕይወተይ ስኢና መጽለሊ\nብተስፋ ምቁራጽ ነዊሕዋ ዕምሪ\nንስኻ መጺእካ ሓጎስ ተዓዲላ\nተስፋ ምስ ረኸበት ብሓቂ ዓሊላ\nንዝፈጠርካዮ ካብ ክፉእ ተድሕን\nሓቀኛ ጓሳ ዘይትጭክን\nምሕረትካ ብዙሕ’ዩ እንታይ ክንከፍለካ\nኣምላከ እስራኤል መን ኣሎ ከማኻ",
+    "ti_ro": "[[chorus]]\nAb zfan kirubel menberikha\nAmlake srael men alo kemakha (2)\nKab semay weridka nab mdri mets'ika\nSeb  ketedhn bhyaw qalka\nBzuh mhirkana nskha bmotka\nZmereret hywet bfqri lewit'ka\n[[/chorus]]\n\nHywetey sina mets'leli\nBtesfa mqurats' newihwa 'mri\nNskha mets'ika hagos te'adila\nTesfa ms rekhebet bhaqi 'alila\nNzfet'erkayo kab kfu tedhn\nHaqenya gwasa zeytch'kn\nMhretka bzuh’yu ntay knkefleka\nAmlake srael men alo kemakha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 478,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

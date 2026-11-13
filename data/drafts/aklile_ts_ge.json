@@ -1,0 +1,53 @@
+{
+  "id": "h_34naplan6ie",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣክሊለ ጽጌ",
+    "ti_ro": "ኣክሊለ ጽጌ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣክሊለ ጽጌ /2/\nስማ ማርያም’ዩ    ኣክሊለ ጽጌ\nኣደ ኣምላኽና        >>     >>\nኣቦኣን ኣዴኣን        >>    >>\nዝሰመይዋ            >>    >>\nካብ ምድሪ መዓር    >>    >>\nካብ ሰማይ ያም      >>    >>\nኢሎም ሰመይዋ      >>    >>\nድንግል ማርያም     >>    >>\n[[/chorus]]\n\nካብ መዓር ይበልጽ  ኣክሊለ ጽጌ\nመኣዛ ናይ ስምኪ       >>    >>\nመን ኣሎ ድንግል       >>    >>\nዝመስል ንዓኺ         >>    >>\nናይ ፍቕሪ መዝገብና    >>    >>\nንሳያ ኣዴና              >>    >>\nጐይታ ኣብ ቀራንዮ      >>    >>\nዝሃበና ንዓና            >>     >>\nኣክሊለ ሰማእታት   ኣክሊለ ጽጌ\nሕይወተ ቅዱሳን        >>   >>\nጨና ናይ ሊባኖስ       >>   >>\nኣደ ናይ መድኅና       >>   >>\nገዛና ንስኺ              >>   >>\nመዕረፊት ኩላትና       >>   >>\nኖህ ዝደሓነላ            >>   >>\nመርከብ ሰላም ኢኺ    >>   >>\n\nኣብ ቤተ መቕደስ   ኣክሊለ ጽጌ\nብንጽህና ኔርኪ        >>   >>\nፋኑኤል መልኣክ      >>   >>\nእናመገበኪ          >>   >>\nኩሎም መላእክቲ     >>   >>\nእናጸናንዑኺ          >>   >>",
+    "ti_ro": "[[chorus]]\nAklile ts'ge /2/\nSma maryam’yu    aklile ts'ge\nAde amlakhna        >>     >>\nAboan adean        >>    >>\nZsemeywa            >>    >>\nKab mdri me'ar    >>    >>\nKab semay yam      >>    >>\nIlom semeywa      >>    >>\nDngl maryam     >>    >>\n[[/chorus]]\n\nKab me'ar ybelts'  aklile ts'ge\nMeaza nay smki       >>    >>\nMen alo dngl       >>    >>\nZmesl n'akhi         >>    >>\nNay fqri mezgebna    >>    >>\nNsaya adena              >>    >>\nGwayta ab qeranyo      >>    >>\nZhabena n'ana            >>     >>\nAklile sematat   aklile ts'ge\nHywete qdusan        >>   >>\nCh'ena nay libanos       >>   >>\nAde nay medhna       >>   >>\nGezana nskhi              >>   >>\nMe'refit kulatna       >>   >>\nNoh zdehanela            >>   >>\nMerkeb selam ikhi    >>   >>\n\nAb bete meqdes   aklile ts'ge\nBnts'hna nerki        >>   >>\nFanuel melak      >>   >>\nNamegebeki          >>   >>\nKulom melakti     >>   >>\nNats'enan'ukhi          >>   >>",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 506,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

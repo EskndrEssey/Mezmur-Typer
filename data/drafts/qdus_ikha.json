@@ -1,0 +1,54 @@
+{
+  "id": "h_9e1qporwzz4",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቅዱስ ኢኻ",
+    "ti_ro": "ቅዱስ ኢኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቅዱስ ኢኻ ቅዱስ ቅዱስ ዘለዓለም\nፈቃር ኢኻ ሕያው መስፍን ሰላም\nመላእክተ ሰማይ ቆይሞም ኣብ ቅድሜኻ\nምስጋና የቕርቡ ንኽብርኻ\nዘርጊሔ ኣእዳወይ ምስቶም መላእክቲ\nምስግና ክምገብ ሰማያዊ ሃብቲ ኣማኑኤል\nዙርያይ ክኽልሎ ሓጹር ናይ ፍቕርኻ\nናቱ እየ ክብል ኣብቲ ስሉም ዳስካ ኣማኑኤል\nተሰሊመ ሰማያዊ ልብሲ\nብምሕረት ፍቕርኻ ክኸውን ወራሲ\nፍቕርኻ ኣንጀርቢቡ ዝባነይ ክፈሶ\nቀኒዐ ክርእይ ምሕረትካ ክሓፍሶ እወ ጐይታይ\nተኣሚነ ከገልግል ንስምካ\nብፍታወይ ክግዛእ ንዓኻ\nባርኸኒ ውሉድካ ክስመ\nከይተርፈካ ብሓጢኣት ደኺመ /2/ እወ ጐይታይ\nፍቕርኻ ዓቢይ እዩ ተበጃውየይ ጐይታ\nመኣዛኻ ክሽትት መስዋእቲ ጎልጎታ መድኃኔ ዓለም\nብናብራ ናይ ዓለም ወዲቐ ከይተርፍ\nኣማዕድየ ክርኢ ነቲ ንጹህ ምንጻፍ መድኃኔ ዓለም\nንኽሰትዮ ፍሳስ ናይ ጎንኻ\nሕልናይ ክምሰጥ ብጣዕሚ መስቀልካ\nማርኸኒ ሕይወተይ ሓድሶ\nኣብ ውሽጠይ ኣቲኻ ባርኮ ቀድሶ /2/ መድኃኔ ዓለም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nQdus ikha qdus qdus zele'alem\nFeqar ikha hyaw mesfn selam\nMelakte semay qoymom ab qdmekha\nMsgana yeqrbu nkhbrkha\nZergihe adawey mstom melakti\nMsgna kmgeb semayawi habti amanuel\nZuryay kkhllo hats'ur nay fqrkha\nNatu ye kbl abti slum daska amanuel\nTeselime semayawi lbsi\nBmhret fqrkha kkhewn werasi\nFqrkha anjerbibu zbaney kfeso\nQeni'e kry mhretka khafso we gwaytay\nTeamine kegelgl nsmka\nBftawey kgza n'akha\nBarkheni wludka ksme\nKeyterfeka bhat'iat dekhime /2/ we gwaytay\nFqrkha 'abiy yu tebejawyey gwayta\nMeazakha kshtt meswati golgota medhane 'alem\nBnabra nay 'alem wediqe keyterf\nAma'dye kri neti nts'uh mnts'af medhane 'alem\nNkhsetyo fsas nay gonkha\nHlnay kmset' bt'a'mi mesqelka\nMarkheni hywetey hadso\nAb wsht'ey atikha barko qedso /2/ medhane 'alem\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 399,
+    "needs_review": [
+      "chorus_possible_page_split",
+      "chorus_only_no_verses"
+    ]
+  }
+}

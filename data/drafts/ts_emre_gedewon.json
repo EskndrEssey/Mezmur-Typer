@@ -1,0 +1,53 @@
+{
+  "id": "h_ru9x47pyai8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ፀምረ ጌዴዎን",
+    "ti_ro": "ፀምረ ጌዴዎን",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nፀምረ ጌዴዎን ጠለለት ብብሥራት ገብርኤል/2/\nወላዲቱ ኮነት ንእግዚአብሔር ቃል\nትስመ ዘለዓለም እመ ኣማኑኤል\nጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ\nኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ\nየለን ዝሰኣኖ በለ ቅዱስ ገብርኤል\nባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል\nከም ምርኣይ ከም ዓይኒ ከም ምስማዕ ከም እዝኒ\nኣብ ድንግል ኃደረ ናይ ኲሉ ፈጣሪ\nንበይና ጠለለት ልክዕ ከምቲ ጸምሪ\nዕፀ ጳጦስ ሙሴ ዝረኣያ ኣብ ሲና\nሓዊ እናነደደት ምንም ዘይምዃና\nድንግል ንመለኮት መሕደሪቱ ኮነት\nዳዊት ከም ዝበሎ ስለ ዝተባህገት\nከተማ እግዚአብሔር ጽዮን’ውን ተሰምየት\n[[/chorus]]\n\nጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ\nኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ\nየለን ዝሰኣኖ በለ ቅዱስ ገብርኤል\nባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል\nከመስግን ጀመረ ኣዳም’ውን ኪዕልል",
+    "ti_ro": "[[chorus]]\nTs'emre gedewon t'elelet bbssrat gebrel/2/\nWeladitu konet ngziebher qal\nTsme zele'alem me amanuel\nGizeu akhele tnbite isayyas\nAb dngl hadere welde gziebher qdus\nYelen zseano bele qdus gebrel\nBarnet abq'e maserti nay siol\nKem mray kem 'ayni kem msma' kem zni\nAb dngl hadere nay kwilu fet'ari\nNbeyna t'elelet lk' kemti ts'emri\n'Ts'e p'at'os muse zreaya ab sina\nHawi nanededet mnm zeymkhwana\nDngl nmelekot mehderitu konet\nDawit kem zbelo sle ztebahget\nKetema gziebher ts'yon’wn tesemyet\n[[/chorus]]\n\nGizeu akhele tnbite isayyas\nAb dngl hadere welde gziebher qdus\nYelen zseano bele qdus gebrel\nBarnet abq'e maserti nay siol\nKemesgn jemere adam’wn ki'll",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 163,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

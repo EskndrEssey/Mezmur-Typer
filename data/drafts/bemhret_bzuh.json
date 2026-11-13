@@ -1,0 +1,53 @@
+{
+  "id": "h_a5p7pwa7ha5",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በምሕረት ብዙህ",
+    "ti_ro": "በምሕረት ብዙህ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሐውጸነ በምሕረት ብዙኅ ሐውጸነ\nበምሕረት ብዙኅ /3/ ሐውጸነ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nHewts'ene bemhret bzuh hewts'ene\nBemhret bzuh /3/ hewts'ene\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 329,
+    "needs_review": [
+      "chorus_only_no_verses"
+    ]
+  }
+}

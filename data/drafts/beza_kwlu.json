@@ -1,0 +1,53 @@
+{
+  "id": "h_y60az0atzg3",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቤዛ ኵሉ",
+    "ti_ro": "ቤዛ ኵሉ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቤዛ ኵሉ ናይ ኵሉ ቤዛ /2/\nዓዲግካና ብክቡር ደምካ\nኣማኑኤል ሕይወትካ ሂብካ\nቀራንዮ ብድኻም በጽሐ\nኣፍቂሩና ደሙ እናኣፍሰሰ\nተረዲኤ ናይ ፍቕሪ ትርጉም\nምስ ሞተለይ መድኃኔ ዓለም\n[[/chorus]]\n\nዋጋ ሂቡ ነፍሱ ኣሕሊፉ\nፈቲሑና ሰይጣን ኣሲሩ\nኪዳኑ’ዩ ዘናብረኩም\nትም ከይብል እቲ ልሳንኩም\n\nብመከራ ተበጅዩና\nዳግም ሕዝቡ ደቁ ገይሩና\nኣይገዝኣናን መቓብር ሞት\nኣውሪሱና ሓድሽ ሕይወት\nቀራንዮ ብድኻም በጽሐ\nኣፍቂሩና ደሙ እናፍሰሰ\nተረዲኤ ናይ ፍቕሪ ትርጉም\nምስ ሞተለይ መድኃኔ ዓለም",
+    "ti_ro": "[[chorus]]\nBeza kwlu nay kwlu beza /2/\n'Adigkana bkbur demka\nAmanuel hywetka hibka\nQeranyo bdkham bets'he\nAfqiruna demu naafsese\nTeredie nay fqri trgum\nMs moteley medhane 'alem\n[[/chorus]]\n\nWaga hibu nefsu ahlifu\nFetihuna seyt'an asiru\nKidanu’yu zenabrekum\nTm keybl ti lsankum\n\nBmekera tebejyuna\nDagm hzbu dequ geyruna\nAygezanan meqabr mot\nAwrisuna hadsh hywet\nQeranyo bdkham bets'he\nAfqiruna demu nafsese\nTeredie nay fqri trgum\nMs moteley medhane 'alem",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 131,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

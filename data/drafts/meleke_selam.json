@@ -1,0 +1,53 @@
+{
+  "id": "h_g0tc1z6rauo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መልአከ ሰላም",
+    "ti_ro": "መልአከ ሰላም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመልአከ ሰላም ቅዱስ ዑራኤል\nሐመልማለ ብርሃን ናይ ራማ ልዑል\nብፍሉይ ጸጋኻ ትፍውስ ሕዝብኻ\nዑራኤል መልኣክ ፍሉይ’ዩ ፍቅርኻ\nሕማመይ በዚሑ ፈውሲ ምስ ሰኣንኩ\nዑራኤል እናበልኩ ንስምካ  ጸዋዕኩ\nብዘስደምም ፍጥነት መልሲ ረኺበ’የ\nብረድኤት ዑራኤል ጥዑይ ሰብ ኮይነ’የ\n[[/chorus]]\n\nንስምካ ይጽውእ ሕዝብኻ ይምስክር\nስለዝተጋህደ ኲሉ ናትካ ተኣምር\nኣእዳውካ ዘርግሕ ናይ ምሕረት ጽዋእኻ\nዑራኤል ክብለካ ፈውስ ንባርያኻ\nዑራኤል ዑራኤል ክብልየ ብዓውታ\nዋሕስ ናይ ሕይወተይ ክትኮነኒ ዋልታ\nሕይወተይ ክትዕንገል ክትረክብ ጸጋኻ\nዑራኤል ኣብ ልበይ ሕተሞ ፍቕርኻ",
+    "ti_ro": "[[chorus]]\nMeleke selam qdus 'urael\nHemelmale brhan nay rama l'ul\nBfluy ts'egakha tfws hzbkha\n'Urael melak fluy’yu fqrkha\nHmamey bezihu fewsi ms seanku\n'Urael nabelku nsmka  ts'ewa'ku\nBzesdemm ft'net melsi rekhibe’ye\nBredet 'urael t''uy seb koyne’ye\n[[/chorus]]\n\nNsmka yts'w hzbkha ymskr\nSleztegahde kwilu natka teamr\nAdawka zergh nay mhret ts'wakha\n'Urael kbleka fews nbaryakha\n'Urael 'urael kblye b'awta\nWahs nay hywetey ktkoneni walta\nHywetey kt'ngel ktrekb ts'egakha\n'Urael ab lbey htemo fqrkha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 164,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

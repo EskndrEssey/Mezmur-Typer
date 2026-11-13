@@ -1,0 +1,53 @@
+{
+  "id": "h_qrhhc42l4ow",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሃገረ ሕይወት",
+    "ti_ro": "ሃገረ ሕይወት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመግቢ ቃላትካ ግሩም መድኃኒት\nመታን ክሰግር ንማዕበል ብእምነት\nደጊፉኒ’ዩ ‘ቲ ናትካ ምሕረት\nኤልሻዳይ ኢኻ ተስፋ እስራኤል\nፍጡር ዘይክእሎ ንዓኻ ቀሊል\nብደመና ሰማይ ህዝብኻ ተጽልል\nድንቂ’ዩ ስራሕካ ንከውሒ ዘፈልፍል\n[[/chorus]]\n\nንሥጋን ነፍስን ብጸጋ ትቕድስ\nንሬሳ ኣልኣዛር ሰዂዕካሉ ትንፋስ\nመልቀስ ናይ ማርታ ረኺቡ ደበስ\nሎሚ’ውን ንዓይ ኃጢኣተይ ደምስስ\nኢዮብ ብጓሂ ልብሱ ክቐድድ\nብስቓይ ኣብ ቁስሉ ክንስንስ ሓመድ\nሰይጣን መኺሩ እምነቱ ከኽሕድ\nልሳኑ መስኪራ ናይ ጐይታ ፈቓድ\n\nከም ወዲ እሴይ ክኸውን ልበይ\nዳግማይ ክሕደስ ብኣኻ መንፈሰይ\nኣብ ጉዕዞ ምሳይ ክትሓልፍ ብቕድመይ\nርስቲ ኣብርሃም ክኸውን ርስተይ",
+    "ti_ro": "[[chorus]]\nMegbi qalatka grum medhanit\nMetan ksegr nma'bel bmnet\nDegifuni’yu ‘ti natka mhret\nElshaday ikha tesfa srael\nFt'ur zeyklo n'akha qelil\nBdemena semay hzbkha tets'll\nDnqi’yu srahka nkewhi zefelfl\n[[/chorus]]\n\nNssgan nefsn bts'ega tqds\nNresa alazar sekhwi'kalu tnfas\nMelqes nay marta rekhibu debes\nLomi’wn n'ay hat'iatey demss\nIyob bgwahi lbsu kqedd\nBsqay ab quslu knsns hamed\nSeyt'an mekhiru mnetu kekhhd\nLsanu meskira nay gwayta feqad\n\nKem wedi sey kkhewn lbey\nDagmay khdes bakha menfesey\nAb gu'zo msay kthalf bqdmey\nRsti abrham kkhewn rstey",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 228,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_9tawxv354ys",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብማእሰር ፍቕሪ",
+    "ti_ro": "ብማእሰር ፍቕሪ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብማእሰር ፍቕሪ ተጠሚርኩም\nሰላም ሰማያት ተኻፊልኩም /2/\nንዘልዓለም ብስኒት የንብርኩም\nንዘልዓለም ኣብሪሁ ሓዳርኩም\nዮሃና /2/ ርሑስ ጋማ በሉ\nስድራቤት ብዓውታ ንጐይታ ዘምሩ\n[[/chorus]]\n\nድምጺ ፈታዊኺ መዝገብ ብዙሕ ደስታ\nከም ደሃይ መሰንቆ ማራኺ ትርግታ\nመርዓዊ ፍሥሐ ኣምሳል ልዑል ጐይታ\nተቓንዩ ብቃሉ ናይ ፍቕሪ እምብልታ\nብርሃን ወዲ ኣምላኽ ንጸላም ስዒሩ\nጽኑዕ ሓለዋኡ ይግለጸልኩም ባዕሉ\nስግኣት የለን ፍርሒ ኢዱ ተተርኢስካ\nንሽግር ትጥሕሶ ስሙ ተኣሚንካ\n\nናይ ምስጋና መዝሙር ልብና ጎሲዑ\nብተኽሊል ኣሕዋትና ሓጎስ ተመሊኡ\nኣምላኽና ይሃብኩም ሓይሉ መመሊሱ\nተጓዓዙ ብተስፋ መንግስቱ ክትወርሱ",
+    "ti_ro": "[[chorus]]\nBmaser fqri tet'emirkum\nSelam semayat tekhafilkum /2/\nNzel'alem bsnit yenbrkum\nNzel'alem abrihu hadarkum\nYohana /2/ rhus gama belu\nSdrabet b'awta ngwayta zemru\n[[/chorus]]\n\nDmts'i fetawikhi mezgeb bzuh desta\nKem dehay mesenqo marakhi trgta\nMer'awi fsshe amsal l'ul gwayta\nTeqanyu bqalu nay fqri mblta\nBrhan wedi amlakh nts'elam s'iru\nTs'nu' halewau yglets'elkum ba'lu\nSgat yelen frhi idu teteriska\nNshgr tt'hso smu teaminka\n\nNay msgana mezmur lbna gosi'u\nBtekhlil ahwatna hagos temeliu\nAmlakhna yhabkum haylu memelisu\nTegwa'azu btesfa mengstu ktwersu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 441,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

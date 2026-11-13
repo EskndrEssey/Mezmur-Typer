@@ -1,0 +1,53 @@
+{
+  "id": "h_cr6b4ivjokj",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣብ ቤት መቕደስካ",
+    "ti_ro": "ኣብ ቤት መቕደስካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣብ ቤት መቕደስካ ዘዕበኻኒ\nናይ ልቦና ጥበብ ዝመሃርካኒ\nጸላኢ ኣብ ልዕለይ ዓብሊሉ\nሎሚ ንበይነይ ኮይነ ኣለኹ\n[[/chorus]]\n\nነግራም እምበር ኮይነ ዓመጸኛ\nኃጢኣት ዘይፈርህ ጉዳመኛ\nነፍሰይ ተዋረደት ብመከራ\nመን የራኽባ ምስ ኣምላኻ\nወሃቢ ሰላመይ መድኃኒተይ\nፍቕርን ስኒትን ኣውሪድካለይ\nዓለም ከይትወስደኒ ከምዛ ዋዛ\nሓድሰኒባ ብቓላትካ\n\n‘ቶም በደለኛታት ኩሎም መጹ\nምሕረት ፍቕርኻ ‘ናሓሰቡ\nኣእዳውካ ዘርጊሕካ ሓቚፍካዮም\nሎሚ ብኣኻ ተፈዊሶም",
+    "ti_ro": "[[chorus]]\nAb bet meqdeska ze'bekhani\nNay lbona t'beb zmeharkani\nTs'elai ab l'ley 'ablilu\nLomi nbeyney koyne alekhu\n[[/chorus]]\n\nNegram mber koyne 'amets'enya\nHat'iat zeyferh gudamenya\nNefsey tewaredet bmekera\nMen yerakhba ms amlakha\nWehabi selamey medhanitey\nFqrn snitn awridkaley\n'Alem keytwesdeni kemza waza\nHadseniba bqalatka\n\n‘Tom bedelenyatat kulom mets'u\nMhret fqrkha ‘nahasebu\nAdawka zergihka haqwifkayom\nLomi bakha tefewisom",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 105,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

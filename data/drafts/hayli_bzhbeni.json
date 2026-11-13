@@ -1,0 +1,53 @@
+{
+  "id": "h_791db8wkuzh",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሓይሊ ብዝህበኒ",
+    "ti_ro": "ሓይሊ ብዝህበኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓይሊ ብዝህበኒ ብክርስቶስ ኵሉ ክኽእሎየ/2/\nፈተና እንተመጸ ንሰናይ’ዩ ይኣምን’የ\nመከራ እንተመጸ ንሰናይ’ዩ ይኣምን’የ\nሰንሰለት ኣሲሮም እንተደርበዩኒ\nመከራ ኣብዚሖም እንተጨነቑኒ\nንሰናይዩ ኢለ ተተስፌካ ኣለኹ\nይኹን ዝበልካዮ ተገዚኤ ኣለኹ\n[[/chorus]]\n\nትማሊ ንስኻ ሎሚ ንስኻ ኢኻ\nምስ ጊዜ ዘይቅየር ዘይሃስስ ፍቕርኻ\nነገር ይኹን ኣይኹን ከኽብረካ’የ\nብዙሕ እተፍቅረኒ ጐይታይ ናትካ እየ\n\nካብ ሃገር ወጻኢ በረኻ ምስዳደይ\nናብ ባዕዳውያን ሃገር ርሒቐ ምኻደይ\nንሰናይ እዩ መዓስ ጠፊኡኒ\nኣርሒቐ ከይጠፍእ ሓይልኻ ሒዙኒ",
+    "ti_ro": "[[chorus]]\nHayli bzhbeni bkrstos kwlu kkhloye/2/\nFetena ntemets'e nsenay’yu yamn’ye\nMekera ntemets'e nsenay’yu yamn’ye\nSenselet asirom ntederbeyuni\nMekera abzihom ntech'enequni\nNsenayyu ile tetesfeka alekhu\nYkhun zbelkayo tegezie alekhu\n[[/chorus]]\n\nTmali nskha lomi nskha ikha\nMs gize zeyqyer zeyhass fqrkha\nNeger ykhun aykhun kekhbreka’ye\nBzuh tefqreni gwaytay natka ye\n\nKab hager wets'ai berekha msdadey\nNab ba'dawyan hager rhiqe mkhadey\nNsenay yu me'as t'efiuni\nArhiqe keyt'ef haylkha hizuni",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 21,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

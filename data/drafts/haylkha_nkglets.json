@@ -1,0 +1,53 @@
+{
+  "id": "h_aolpii816ol",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሓይልኻ እንክግለጽ",
+    "ti_ro": "ሓይልኻ እንክግለጽ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሓይልኻ እንክግለጽ ኣብ ሰማይ /2/\nጐይታይ መን’ዩ ደው ዝብል\nቅድሜኻ መን’ዩ ደው ዝብል /2/\nኣቤት ቀርኒ መለኸት እንክንፋሕ\nኣዋጅ እንክእወጅ ብገፊሕ\nጻድቃን እንክቖሙ ብየማን\nእንታ’ዩ እቲ ናትና ዕድል\n[[/chorus]]\n\nኣቤት ሸውዓተ ንፋስ ነፊሶም\nእንክህውኹ ንዅሉ ዓለም\nዘዋህለልዎ ትሩፋት\nእንከቕርቡ ናብ ኣምላኽ ስብሓት\n\nኣቤት ኃጥኣን እንክጽውዑ ንፍርዲ\nእንክኣትዉ ገሃነም ነዳዲ\nዘይጠቅም ብኽያት ኮይኑ\nውርደት እንክኸውን ሓዘኑ\nኣቤት ማዕጾ ሰማያት እንክኽፈት\nመላእክት እንክነፍሑ መለኸት\nዘይተራእየ ፍሉይ ግርማ\nድምጺ እንክስማዕ ኣብ ራማ",
+    "ti_ro": "[[chorus]]\nHaylkha nkglets' ab semay /2/\nGwaytay men’yu dew zbl\nQdmekha men’yu dew zbl /2/\nAbet qerni melekhet nknfah\nAwaj nkwej bgefih\nTs'adqan nkqomu byeman\nNta’yu ti natna 'dl\n[[/chorus]]\n\nAbet shew'ate nfas nefisom\nNkhwkhu nkhwlu 'alem\nZewahlelwo trufat\nNkeqrbu nab amlakh sbhat\n\nAbet hat'an nkts'w'u nfrdi\nNkatwu gehanem nedadi\nZeyt'eqm bkhyat koynu\nWrdet nkkhewn hazenu\nAbet ma'ts'o semayat nkkhfet\nMelakt nknefhu melekhet\nZeyteraye fluy grma\nDmts'i nksma' ab rama",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 852,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

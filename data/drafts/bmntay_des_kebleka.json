@@ -1,0 +1,53 @@
+{
+  "id": "h_kp2esfs6ijs",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብምንታይ ደስ ከብለካ",
+    "ti_ro": "ብምንታይ ደስ ከብለካ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብምንታይ ደስ ከብለካ ኦ ጐይታየ\nብምንታይ ደስ ከብለካ ኣምላኸየ\nድንቂ መካር ሓያል ኤልሻዳይ ኢኻሞ\nንጽኑዕ ፍቕርኻ ኣብ ውሽጠይ ሕተሞ/2/\n[[/chorus]]\n\nንጹህ መስዋእቲ’ዩ ዝፈቱ ኣምላኸይ\nእንታይ ሒዘ ክቐርብ ናብዚ ልዑል ጐይታይ\nኣብ ላዕሊ ሰማያት ኣብ መሬት ኣብ ታሕቲ\nኣምላኽ ዘይርከቦ የለን ዋላ ሓንቲ/2/\nብኪዳን ብጸሎት ቅዳሴ ሰዓታት\nባዕልኻ ሃበና ሓይሊ መንፈስቅዱስ\nናባኻ ክንምለስ ኣምላኽ ደግፈና\nምሳኻ’ዩ ዘሎ መጻኢ ሕይወትና/2/\n\nሃብተይ ምስ ንብረተይ ጉልበተይ እንታዩ\nጥዕና ዝህበኒ ብዘይካኻ መን’ዩ\nክጨንቀኒ ከሎ ኣብ ምሉእ ዘመነይ\nንዓኻ’የ ዝሕዝ ከውሕሳ ሕይወተይ/2/",
+    "ti_ro": "[[chorus]]\nBmntay des kebleka o gwaytaye\nBmntay des kebleka amlakheye\nDnqi mekar hayal elshaday ikhamo\nNts'nu' fqrkha ab wsht'ey htemo/2/\n[[/chorus]]\n\nNts'uh meswati’yu zfetu amlakhey\nNtay hize kqerb nabzi l'ul gwaytay\nAb la'li semayat ab meret ab tahti\nAmlakh zeyrkebo yelen wala hanti/2/\nBkidan bts'elot qdase se'atat\nBa'lkha habena hayli menfesqdus\nNabakha knmles amlakh degfena\nMsakha’yu zelo mets'ai hywetna/2/\n\nHabtey ms nbretey gulbetey ntayu\nT''na zhbeni bzeykakha men’yu\nKch'enqeni kelo ab mlu zemeney\nN'akha’ye zhz kewhsa hywetey/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 80,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

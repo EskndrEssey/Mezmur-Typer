@@ -1,0 +1,51 @@
+{
+  "id": "h_ykwqzleuf9f",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "እምልማደ ሣህልከ ግበር ሣህለ\nገብርኤል ነደ ወነበልባለ /2/\nከመ ለኣናንያ ወኣዛርያ ወሚሳኤል ዘኣውረድከ ጠለ",
+    "ti_ro": "Mlmade Ssahlke gber Ssahle\nGebrel nede wenebelbale /2/\nKeme leananya weazarya wemisael zeawredke t'ele",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 695,
+    "needs_review": []
+  }
+}

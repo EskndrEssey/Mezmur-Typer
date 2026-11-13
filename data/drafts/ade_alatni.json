@@ -1,0 +1,53 @@
+{
+  "id": "h_g9h51nbxqse",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣደ ኣላትኒ",
+    "ti_ro": "ኣደ ኣላትኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣደ ኣላትኒ ኣነስ ኣደ ኣላትኒ\nኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበኒ /2/\nኣደ ኣላትና ንሕናስ ኣደ ኣላትና\nኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበና\nድንግል ማርያም ብጽእቲ ኣዴና\nናይ ሓደራ ቃልኪዳን ኣዴና’ያ ደቃ ኢና\nንሕና’ስ ኣደ ኣላትና ኣይኮናን ዘኽታማት\nመልዕልተ ፍጡራን ኪዳነ ምሕረት /2/\n[[/chorus]]\n\nኣብ ጊዜ ጭንቀትና እትናዝዘና\nኣብ ጊዜ መከራ እትሕልወና\nኣብ ጎድንና ኮይና እትረድኣና\nክንበኪ ከለና ኣብ እግራ ወዲቕና\nኣብ ሕቑፎኣ ሓቚፋ እትእብደና\nንብዓትና ሓንሲሳ ተረስርስ ልብና\nዓሳ ብዘይ ማይ ዝኽሕድ ንዓኺ\nክቃጸል ይነብር ኣብ ዘይጠፍእ ሓዊ /2/\nኣተዓርቕና ምስ ፍቑር ወድኺ\nመልዕልተ ፍጡራን ኪዳነ ምሕረት /2/",
+    "ti_ro": "[[chorus]]\nAde alatni anes ade alatni\nAb mesqelu koynu gwayta zhabeni /2/\nAde alatna nhnas ade alatna\nAb mesqelu koynu gwayta zhabena\nDngl maryam bts'ti adena\nNay hadera qalkidan adena’ya deqa ina\nNhna’s ade alatna aykonan zekhtamat\nMel'lte ft'uran kidane mhret /2/\n[[/chorus]]\n\nAb gize ch'nqetna tnazzena\nAb gize mekera thlwena\nAb godnna koyna tredana\nKnbeki kelena ab gra wediqna\nAb hqufoa haqwifa tbdena\nNb'atna hansisa teresrs lbna\n'Asa bzey may zkhhd n'akhi\nKqats'el ynebr ab zeyt'ef hawi /2/\nAte'arqna ms fqur wedkhi\nMel'lte ft'uran kidane mhret /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 489,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_66b42hemyii",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ውዳሴ ማርያም",
+    "ti_ro": "ውዳሴ ማርያም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nውዳሴ ማርያም ክደግም’የ\nንድንግል ኣደይ ክጽውዕ’የ\nከም ኣባ ኤፍሬም ባርኽኒ\nወድስኒ ወደይ በልኒ\nውዳሴ ማርያም  ኣብ ቅድሚኣ ኮይንና\n>>      >>     ንሕና ክንውድስ\n>>      >>     ድንግል ትመጽእ\n>>      >>     ካብ ቤተ መቕደስ\n>>      >>     ናይ ብርሃን ምንጽፍ\n>>      >>     ኣብ እግራ ተገይሩ\n>>      >>     ኣባ ቅዱስ ኤፍሬም\n>>      >>     የመስግና ኔይሩ\n[[/chorus]]\n\nውዳሴማርያም  ኣባ ሕርያቆስ\n>>      >>     ምስጋና የቕርብ\n>>      >>     ናይ ቅዳሴ ዜና\n>>      >>     ንልቢ ይምስጥ\n>>      >>     ልበይ ሰናይ ነገር\n>>      >>     ኣውጺኡ እናበለ\n>>      >>     ዳዊት ብበገና\n>>      >>     ንዓኺ ዘመረ\n>>      >>     ውዳሴ ማርያም   ናይ ንጽህናና\n>>      >>        መሰረት ኢኺ’ሞ\n>>      >>        ንዓኺ ውዳሴ\n>>      >>        ልበይ መሊኡ’ሎ\n>>      >>       ተፈሥሒ ድንግል\n>>      >>       ኦ ቤተ ልሔም\n>>      >>     ኣባ ጊዮርጊስ\n>>      >>     ንዒ ድንግል ይብል\n>>      >>     ኣብ ናይ ወርቂ ዙፋን\n>>      >>     ኮፍ ኢልኪ ርእየኪ\n>>      >>     ልበይ ተሰዊሩ\n>>      >>     ድንግል ብግርማኺ",
+    "ti_ro": "[[chorus]]\nWdase maryam kdegm’ye\nNdngl adey kts'w'’ye\nKem aba efrem barkhni\nWedsni wedey belni\nWdase maryam  ab qdmia koynna\n>>      >>     Nhna knwds\n>>      >>     Dngl tmets'\n>>      >>     Kab bete meqdes\n>>      >>     Nay brhan mnts'f\n>>      >>     Ab gra tegeyru\n>>      >>     Aba qdus efrem\n>>      >>     Yemesgna neyru\n[[/chorus]]\n\nWdasemaryam  aba hryaqos\n>>      >>     Msgana yeqrb\n>>      >>     Nay qdase zena\n>>      >>     Nlbi ymst'\n>>      >>     Lbey senay neger\n>>      >>     Awts'iu nabele\n>>      >>     Dawit bbegena\n>>      >>     N'akhi zemere\n>>      >>     Wdase maryam   nay nts'hnana\n>>      >>        Meseret ikhi’mo\n>>      >>        N'akhi wdase\n>>      >>        Lbey meliu’lo\n>>      >>       Tefesshi dngl\n>>      >>       O bete lhem\n>>      >>     Aba giyorgis\n>>      >>     N'i dngl ybl\n>>      >>     Ab nay werqi zufan\n>>      >>     Kof ilki ryeki\n>>      >>     Lbey tesewiru\n>>      >>     Dngl bgrmakhi",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 7,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "h_cpd91mhvnae",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብዘይ ንስኻ",
+    "ti_ro": "ብዘይ ንስኻ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብዘይ ንስኻ መን ኣሎኒ\nጐይታይ ፍቕርኻ መቂሩኒ\nሕግኻ ንዓይ ይመርሓኒ\nፍጹም ዘይልወጥ ኣቦ ኣለኒ/2/\nክብረይ ክብለካ ስልማተይ\nቤተይ ናትካዩ ሰብነተይ\nብርሃን ጌርካዮ ንመንገደይ\nመራሒ ኢኻ ንሕይወተይ\n[[/chorus]]\n\nኣጣዒሱኒ’ቲ ሕይወተይ\nንመንገድኻ ዘይምፍላጠይ\nጽላል ኮይኑለይ ቲ ምሕረትካ\nክነብር እየ ኣብቲ ቤትካ\n\nንጸላኢና ስዒርካዮ\nጭንቀት ልብና ኣርሒቕካዮ\nኵሉ ኣብ ኢድካዩ ፍጥረት ዓለም\nክንዝምር ኢና ንዘልዓለም",
+    "ti_ro": "[[chorus]]\nBzey nskha men aloni\nGwaytay fqrkha meqiruni\nHgkha n'ay ymerhani\nFts'um zeylwet' abo aleni/2/\nKbrey kbleka slmatey\nBetey natkayu sebnetey\nBrhan gerkayo nmengedey\nMerahi ikha nhywetey\n[[/chorus]]\n\nAt'a'isuni’ti hywetey\nNmengedkha zeymflat'ey\nTs'lal koynuley ti mhretka\nKnebr ye abti betka\n\nNts'elaina s'irkayo\nCh'nqet lbna arhiqkayo\nKwlu ab idkayu ft'ret 'alem\nKnzmr ina nzel'alem",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 106,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

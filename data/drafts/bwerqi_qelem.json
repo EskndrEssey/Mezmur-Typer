@@ -1,0 +1,53 @@
+{
+  "id": "h_jm2wo9hlve9",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብወርቂ ቀለም",
+    "ti_ro": "ብወርቂ ቀለም",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግለይ ንዓይ ተዋሂብኪ\nከኽብረኪ`የ እመቤተይ\nጽዮን ተስፋ ኢኺ ንሕይወተይ\nተሰናኺለ ንኸይወድቕ\nዘይቲ ቀንዴለይ ንኸይጽንቀቕ\nድንግል ኩንለይ ብዙሕ ዋጋ\nንኸይወድቀኪ ኣብ ሓደጋ\n[[/chorus]]\n\nዘሎ ዝመስሎ ዝወደቐ\nናይ ክብሪ ስፍራ ዝለቐቐ\nቀኒዑ ርእየ ንዓኺ ሒዙ\nበትሪ ምልጃኺ ተመርኪሱ\nዓሪቐ ድንግል ከይተርፈኪ\nካብ ክብሪ ጐይታ ከይጠፍኣኪ\nቀዲምኪ ውጺ ኣብ ጉዕዞይ\nወድኺ እዩ’ሞ ዕላማይ\n\nእንተ ኣቕናዕክለይ ንጉልበተይ\nተባረኽክለይ ንሕይወተይ\nብጽእት ክብል’የ ዘወትር\nስለኺ ይኽበር እግዚአብሔር",
+    "ti_ro": "[[chorus]]\nDngley n'ay tewahibki\nKekhbreki`ye mebetey\nTs'yon tesfa ikhi nhywetey\nTesenakhile nkheywedq\nZeyti qendeley nkheyts'nqeq\nDngl kunley bzuh waga\nNkheywedqeki ab hadega\n[[/chorus]]\n\nZelo zmeslo zwedeqe\nNay kbri sfra zleqeqe\nQeni'u rye n'akhi hizu\nBetri mljakhi temerkisu\n'Ariqe dngl keyterfeki\nKab kbri gwayta keyt'efaki\nQedimki wts'i ab gu'zoy\nWedkhi yu’mo 'lamay\n\nNte aqna'kley ngulbetey\nTebarekhkley nhywetey\nBts't kbl’ye zewetr\nSlekhi ykhber gziebher",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 133,
+    "needs_review": [
+      "no_title_line_found"
+    ]
+  }
+}

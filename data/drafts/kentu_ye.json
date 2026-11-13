@@ -1,0 +1,53 @@
+{
+  "id": "h_cx5r1bxshfo",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከንቱ’የ",
+    "ti_ro": "ከንቱ’የ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከንቱ’የ ናይ ከንቱ ከንቱ’የ\nዋሕስን ጠበቓን ኣምላኽ ተዘይጌረ\nተስፋ ዝኾነኒ ሕይወት ዝህበኒ\nእግዚአብሔር ጥራይ’ዩ ዘጸናንዓኒ\nኣምላኸይ ጥራይ’ዩ ዘጸናንዓኒ\nኣነስ ንጉሥ ነይረ ብኽብሪ ዘጌጽኩ\nኵሉ ኣብዚ ምድሪ ብጥበብ ፈጸምኩ\nደስታ እዛ ዓለም ዋላ ኣየዋጽኣንን\nመዓልተይ ኣኺሉ ሞት`ውን ወሲዱኒ/2/\n[[/chorus]]\n\nኣብ ትሕቲ እዛ ጸሓይ ሓድሽ ነገር የለን\nሰባት ግን ይደኽሙ ካብ ዘመን ናብ ዘመን\nንጥበብ ክደሊ ደኺመየ ምሒር\nኵሉ ከንቱ ኮይኑ ተሪፉ ኣብ መቓብር /2/\nቅድመይ ዝነብሩ ክቡራት ናይ ዓለም\nኣለዉ ኣብ መቓብር ሓመድ ተደፊኖም\nጥበብ ብምብዝሐይ እነሆ ተኪዘ\nኣነስ ኣብዛ ዓለም ዘይጠቅም ፍጥረት’የ/2/\nብብዙሕ ታሕጓስ ልበይ ፈቲነዮ\nናይዚ ዓለም ለውጢ ኣስተማቒረዮ\nሰሓቕ’ውን ኣብ ውሽጠይ ይሰራሰር ነይሩ\nኣብ ሓመድ ተሪፉ ኵሉ ከንቱ ኮይኑ/2/",
+    "ti_ro": "[[chorus]]\nKentu’ye nay kentu kentu’ye\nWahsn t'ebeqan amlakh tezeygere\nTesfa zkhoneni hywet zhbeni\nGziebher t'ray’yu zets'enan'ani\nAmlakhey t'ray’yu zets'enan'ani\nAnes nguss neyre bkhbri zegets'ku\nKwlu abzi mdri bt'beb fets'emku\nDesta za 'alem wala ayewats'ann\nMe'altey akhilu mot`wn wesiduni/2/\n[[/chorus]]\n\nAb thti za ts'ehay hadsh neger yelen\nSebat gn ydekhmu kab zemen nab zemen\nNt'beb kdeli dekhimeye mhir\nKwlu kentu koynu terifu ab meqabr /2/\nQdmey znebru kburat nay 'alem\nAlewu ab meqabr hamed tedefinom\nT'beb bmbzhey neho tekize\nAnes abza 'alem zeyt'eqm ft'ret’ye/2/\nBbzuh tahgwas lbey fetineyo\nNayzi 'alem lewt'i astemaqireyo\nSehaq’wn ab wsht'ey yseraser neyru\nAb hamed terifu kwlu kentu koynu/2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 853,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

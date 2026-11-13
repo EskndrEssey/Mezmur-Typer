@@ -1,0 +1,53 @@
+{
+  "id": "h_vt40yrpy534",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዝደኸመት ነፍሰይ",
+    "ti_ro": "ዝደኸመት ነፍሰይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዝደኸመት ነፍሰይ ዕረፍቲ ረኺባ\nብመድኃኔ ዓለም ሰላም ተዋሂባ\nኣምላኽ ምስ ፈቐደ ቤተይ ሰላም መልኣ\nሕይወተይ ንምድሓን ክርስቶስ ሞተላ\nኣብ ልማድ ናይ ኣህዛብ እምነተይ ኣርዒመ\nዘይርኢ ዘይሰምዕ ጣኦት ተሰኪመ\nካብ ወርሕን ንፋስን ተስፋ ምስ ስኣንኩ\nፈጣሪ ናይ ጸሓይ ብኣኻ ረጋእኩ\n[[/chorus]]\n\nብስምካ ዝግበር ተኣምር ሰሚዐ\nንገጽካ ክርኢ ኣብ ሳግላ ሓኹረ\nብናይ ጐይታ ምሕረት ካብ ለምጺ ነጺህኩም\nመስክሩ ንዓለም ግሩም'ዩ እናበልኩም\n\nብስርቂ ብቕትለት ዘሕለፍኩ ዘመነይ\nኣብ መስቀል ኣብቅዐ ገበታ ሓጢኣተይ\nኣበሳይ ደምሲሱ ብፍቕሪ ጠሚቱ\nገነት ፈቐደለይ ምስኡ ንኽኣቱ",
+    "ti_ro": "[[chorus]]\nZdekhemet nefsey 'refti rekhiba\nBmedhane 'alem selam tewahiba\nAmlakh ms feqede betey selam mela\nHywetey nmdhan krstos motela\nAb lmad nay ahzab mnetey ar'ime\nZeyri zeysem' t'aot tesekime\nKab werhn nfasn tesfa ms sanku\nFet'ari nay ts'ehay bakha regaku\n[[/chorus]]\n\nBsmka zgber teamr semi'e\nNgets'ka kri ab sagla hakhure\nBnay gwayta mhret kab lemts'i nets'ihkum\nMeskru n'alem grum'yu nabelkum\n\nBsrqi bqtlet zehlefku zemeney\nAb mesqel abq'e gebeta hat'iatey\nAbesay demsisu bfqri t'emitu\nGenet feqedeley msu nkhatu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 86,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

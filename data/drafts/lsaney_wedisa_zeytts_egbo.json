@@ -1,0 +1,53 @@
+{
+  "id": "h_btddbrr3q1r",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልሳነይ ወዲሳ ዘይትጸግቦ",
+    "ti_ro": "ልሳነይ ወዲሳ ዘይትጸግቦ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልሳነይ ወዲሳ ዘይትጸግቦ ስምኪ ድንግል ማርያም\nብላዛ ዜማ ሰዓታት ውዳሴ ቅዱስ ኤፍሬም\nብማኅሌት ያሬድ ቅኔ ከመስግን ዘለዓለም\nበደ ልዑል ጐይታይ ክዝምር’የ ኣየዕርፍን ፍጹም\nየልቦን ዚመስለኪ ኣብ ትሕቲ ፈጣሪ\nድንግል ናይ ደናግል ክብል ገብርኤል መስካሪ(2)\nድርሰቶም ደጊመ ንስምኪ ክውድስ\nቅብዐ በረኸትኪ ኣብ ልሳነይ ይፍሰስ(2)።\nቅኒት ለዘብ  ሰማይ ኣብ ምድሪ ክዕለል\nቅዱስ ያሬድ ተንሲኡ ብመንፈስ ኪዘልል(2)\nልበይ ረስሪሱ ኣዕጽምተይ ክጠልል\nጸጋኡ ኣሕድርለይ ምስጋናይ ክፍልፍል(2)።\n[[/chorus]]\n\nጥበብ እግዚአብሔር ምድኃን ናይ መድኅነይ\nምስጢር ፍቕሩ ንኽርኢ ካብ ኣንቍሐ ዓይነይ(2)\nዓስቢ ሓጐስ ውሽጠይ ስለ እመ ብርሃነይ\nፍጹም ስፍሪ የብሉን ውሬታ ሓበነይ(2)።",
+    "ti_ro": "[[chorus]]\nLsaney wedisa zeytts'egbo smki dngl maryam\nBlaza zema se'atat wdase qdus efrem\nBmahlet yared qne kemesgn zele'alem\nBede l'ul gwaytay kzmr’ye aye'rfn fts'um\nYelbon zimesleki ab thti fet'ari\nDngl nay denagl kbl gebrel meskari(2)\nDrsetom degime nsmki kwds\nQb'e berekhetki ab lsaney yfses(2).\nQnit lezeb  semay ab mdri k'lel\nQdus yared tensiu bmenfes kizell(2)\nLbey resrisu a'ts'mtey kt'ell\nTs'egau ahdrley msganay kflfl(2).\n[[/chorus]]\n\nT'beb gziebher mdhan nay medhney\nMst'ir fqru nkhri kab anqwhe 'ayney(2)\n'Asbi hagwas wsht'ey sle me brhaney\nFts'um sfri yeblun wreta habeney(2).",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 185,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

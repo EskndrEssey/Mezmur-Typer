@@ -1,0 +1,53 @@
+{
+  "id": "h_b864dlkjbst",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እምባ መዕቆየብየይ",
+    "ti_ro": "እምባ መዕቆየብየይ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእምባ መዕቆየብየይ እግዚአብሔር ክበር\nዋልታ ናይ ምድሓነይ ኣምላኸይ ተመስገን\nከም ዝጸዋዕካኒ ብጸጋኻ ኣበርትዓኒ\nከም ዝጸዋዕካኒ ኣብ እምነተይ ኣጽንዓኒ\nብርሃን መሊእካየን ነዒንተይ\nኣበጊስካየን ንኣእጋረይ\nእምነት መሊእካዮ ንልበይ\nባሕሪ ጌርካዮ ንመንገደይ\nማዕበል ተላዒሉ ከይጎድል እምነተይ\nንንፋሳት ባሕሪ ብጸጋኻ ጐይታይ ገስጸለይ\n[[/chorus]]\n\nሚዶናውያን ንኽስዕር\nኣርዑት ባርነት ንኸራግፍ\nጸምሪ ሃበኒ ንምልክት\nኣብ ጎነይ ሃሉ ምሳይ ተሰለፍ\nኣብ ምብዛሕ ኣይኮነን ዚግለጽ ሓይልኻ\nንእሽቶ ኢየ ብዕድመ ጸጋ\nብዙሕ ኣለኒ ዚጎድለኒ\nሸለል ከይብለኒ ከይንዕቐኒ ኵሉ\nመድኃኒየይ ኣምላኽ ኣብ ሓሳበይ\nኣብ ቃላተይ ሃሉ\n\nብብርሃንካ'የ ኣንጸብሪቐ ብጨናኻ እንድየ ምዒዘ\nከይዕበ እሞ ከይርስዓካ ድሕሪት ከይጥምት ዕርፊ ሒዘ\nበሊሕ ንኸይረግጽ ንነፍሰይ ከይገዳ\nኣብ ቅድሚ ጸላእተይ ንመንገደይ ባዕልኻ መድምዳ",
+    "ti_ro": "[[chorus]]\nMba me'qoyebyey gziebher kber\nWalta nay mdhaney amlakhey temesgen\nKem zts'ewa'kani bts'egakha abert'ani\nKem zts'ewa'kani ab mnetey ats'n'ani\nBrhan melikayen ne'intey\nAbegiskayen nagarey\nMnet melikayo nlbey\nBahri gerkayo nmengedey\nMa'bel tela'ilu keygodl mnetey\nNnfasat bahri bts'egakha gwaytay gests'eley\n[[/chorus]]\n\nMidonawyan nkhs'r\nAr'ut barnet nkheragf\nTs'emri habeni nmlkt\nAb goney halu msay teselef\nAb mbzah aykonen ziglets' haylkha\nNshto iye b'dme ts'ega\nBzuh aleni zigodleni\nShelel keybleni keyn'qeni kwlu\nMedhaniyey amlakh ab hasabey\nAb qalatey halu\n\nBbrhanka'ye ants'ebriqe bch'enakha ndye m'ize\nKey'be mo keyrs'aka dhrit keyt'mt 'rfi hize\nBelih nkheyregts' nnefsey keygeda\nAb qdmi ts'elatey nmengedey ba'lkha medmda",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 472,
+    "needs_review": [
+      "verse_1_possible_page_split"
+    ]
+  }
+}

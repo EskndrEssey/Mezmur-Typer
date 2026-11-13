@@ -1,0 +1,53 @@
+{
+  "id": "h_z8taldpm6vt",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልሳን ዓድልኒ",
+    "ti_ro": "ልሳን ዓድልኒ",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nድንግል ፍሉይ ክብርኺ መን ኮን ’ዩ ዝገልጾ\nምሉእ ቃል የለን ስምኪ ዝውድሶ\nኣየናይ ብቕዓት’ዩ ፊትኪ ዘቑመኒ\nኣፈይ ክኸፍተልኪ ልሳን ዓድልኒ\nኦ ሓረገ ወይን ኣደ ጐይታይ ማርያም\nመዕቆቢተይ ከተማ ናይ ህድኣት ናይ ሰላም\nዕሸል ኣፈይ ወታእ’ዩ ክብርኺ ከዘንቱ\nልሳነይ ቅብኢ ድንግል ክጥዕም ቃላቱ /2/\nዕድሜኺ ይብል ውሽጠይ ብጽሕዮ ንስቕታይ\nካበይ ኮነለይ ኢለ ክዘልል ከም ብተይ /2/\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ /2/\nስሙር ቃል ቅዳሴኺ ብልግሲ ዝሃብኪ\nልሳን ሕርያቆስ ማርያም ንዕቐቱ ዘኽበርኪ\nፍሑኽታ ቃል ምስጋናይ እግሪ ንኽተክል\nባርኽዮ ንልበይ ዜማይ ከሰላስል /2/\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ /2/\n[[/chorus]]\n\nኣፈይ ምልኣት ምስጋና ፍረ ክርከቦ\nባህታ ሓጎስ ክዓስሎ ጽድቂ ንኽኸቦ\nስለ ክብሪ ግርማኺ ሓጎሰይ ክገልጽ\nልሳን ዓድልኒ’ዶ ዕልልታይ ክድርጉሕ /2/\nልበይ ጐሥዐ ቃል ምስጋና\nቃለ ዝማሬ ጣዕመ ዜማ /2/",
+    "ti_ro": "[[chorus]]\nDngl fluy kbrkhi men kon ’yu zgelts'o\nMlu qal yelen smki zwdso\nAyenay bq'at’yu fitki zequmeni\nAfey kkheftelki lsan 'adlni\nO harege weyn ade gwaytay maryam\nMe'qobitey ketema nay hdat nay selam\n'Shel afey weta’yu kbrkhi kezentu\nLsaney qbi dngl kt''m qalatu /2/\n'Dmekhi ybl wsht'ey bts'hyo nsqtay\nKabey koneley ile kzell kem btey /2/\nLbey gwass'e qal msgana\nQale zmare t'a'me zema /2/\nSmur qal qdasekhi blgsi zhabki\nLsan hryaqos maryam n'qetu zekhberki\nFhukhta qal msganay gri nkhtekl\nBarkhyo nlbey zemay keselasl /2/\nLbey gwass'e qal msgana\nQale zmare t'a'me zema /2/\n[[/chorus]]\n\nAfey mlat msgana fre krkebo\nBahta hagos k'aslo ts'dqi nkhkhebo\nSle kbri grmakhi hagosey kgelts'\nLsan 'adlni’do 'lltay kdrguh /2/\nLbey gwass'e qal msgana\nQale zmare t'a'me zema /2/",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 294,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}

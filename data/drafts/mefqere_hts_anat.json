@@ -1,0 +1,53 @@
+{
+  "id": "h_iw6hdwfy5nl",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መፍቀሬ ህጻናት",
+    "ti_ro": "መፍቀሬ ህጻናት",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከምቲ እሙን ቃልካ ንዑ’ባ በለና\nክንስጉም ናባኻ ኢድካ ትሕቆፈና\nመፍቀሬ ህጻናት ኢየሱስ ክርስቶስ\nቍልዕነትና ባርኽ ክንዓቢ ብመንፈስ\nከምቲ ብሩህ ሰማይ ደመና ዘይደየቦ\nከምቲ ንጹሕ ሓሪ ቀለም ዘይዓለቦ\nጻዕዳ እዩ ኣእምሮይ ነውሪ ዘይለገቦ\nልምሉማት ኣእዳወይ ኣልምደን ሸብሸባ\nሻቡ ብምስጋና ዕብየትካ ክትምስክር\nኣይክትደክምን’ያ ብስምካ ክትዝምር\nልበይ ብድንግሉ ንኽፍኣት እዛ ዓለም\nይቀደስ ሕደጎ ብቓልካ ይሰለም\nቃልካ እንድዩ ስንቀይ ኣምላኻዊ ቀለም\nእንታይ ሰናይ ኣሎ ንስኻ ዘይብሉ\nምሳኻ ይሕሸኒ ሕይወት ዝረኽበሉ\n[[/chorus]]\n\nትርጉም ምፍጣር ኣዳም ምስጋና እንተኾይኑ\nቁመት እንተወሰኽኩ ነፍሰይ ብድውኑ\nእንታይ ክዓብሰለይ ዕብየት ሥጋ በይኑ\nሕቖፈኒ ጐይታይ ብማሙቕ ፍቕርኻ\nምስ ጸጋን ጥበብን ክዓቢ ኣብ ቤትካ",
+    "ti_ro": "[[chorus]]\nKemti mun qalka n'u’ba belena\nKnsgum nabakha idka thqofena\nMefqere hts'anat iyesus krstos\nQwl'netna barkh kn'abi bmenfes\nKemti bruh semay demena zeydeyebo\nKemti nts'uh hari qelem zey'alebo\nTs'a'da yu amroy newri zeylegebo\nLmlumat adawey almden shebsheba\nShabu bmsgana 'byetka ktmskr\nAyktdekmn’ya bsmka ktzmr\nLbey bdnglu nkhfat za 'alem\nYqedes hdego bqalka yselem\nQalka ndyu snqey amlakhawi qelem\nNtay senay alo nskha zeyblu\nMsakha yhsheni hywet zrekhbelu\n[[/chorus]]\n\nTrgum mft'ar adam msgana ntekhoynu\nQumet ntewesekhku nefsey bdwnu\nNtay k'abseley 'byet Ssga beynu\nHqofeni gwaytay bmamuq fqrkha\nMs ts'egan t'bebn k'abi ab betka",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "draft",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-12T00:00:00.000Z",
+    "updated_at": "2026-11-12T00:00:00.000Z",
+    "source_id": 207,
+    "needs_review": [
+      "chorus_possible_page_split"
+    ]
+  }
+}
