@@ -1,0 +1,81 @@
+{
+  "id": 289,
+  "title": "ኣይገደፍካንን ኣምላኸይ",
+  "ti": {
+    "chorus": [
+      "ምሳይ ኢኻ ኣብ ኵሉ ካባይ ኣይረሓቕካን ኣብ ሕይወተይ",
+      "ነቲ መን ኣለዎ እዝጊ’ዩ ዘለዎ ክበሃል ሰሚዐ",
+      "ምሳይ ከምዘለኻ ብቓላት ዘይኮነስ ብዓይነይ’የ ርእየ",
+      "ብተምሳል ግብርኻ ምስልኻ ኣብ ዙርያይ ከቢቡኒ ይነብር",
+      "መንፈስካን ሓይልኻን ብእምነት ሰኒቐ ማዕበል ባሕሪ ይሰግር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብቲ ጉዕዞ ሕይወት ስቕታ ከም ጽላሎት ደድሕረይ ክመጽእ",
+          "ሰላም ርሒቑኒ ተደርሚሙ ልበይ ምፍጣረይ ክጸልእ",
+          "ብሃንደበት መጺኡ ድምጸይ ከይሰምዐ ማዕጾኡ መን ኣርሕዩ",
+          "ደበስ ኮይኑ ቃሉ ተስፋይ ዘሐደሰ ድሕነተይ ተመንዩ",
+          "ነፍሰይ ነይስኣነት ኣብ ሕቑፉ ዘሙቓ ዝሓልየላ ኣብሊጹ",
+          "ባዲመ ከይተርፍ ካብ ምልኣቱ ጸጋ ኣብ ውሽጠይ ኣስሪጹ",
+          "ኣምላኸይ መድኅነይ ኣይገድፈንን በይነይ ምሳይ ኣሎ ኣብ ኵሉ",
+          "ካብ በላዒ ብልዒ ካብቲ ሓያል ጥዑም ዘውጽእ እንድዩ ሓይሉ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መርዛም ቀስቲ ሰባት ቃላት ተጠሚዑ ሕሊናይ ከቑስል",
+          "ክብረት ከምዘይብሉ በቃ ዕዙም ኮይነ በይኑ ዘስተማስል",
+          "ሕያዋይ ሳምራዊ ገጽ ሰባት ክጥምት ኣይፈቐደን ልቡ",
+          "ምሒር ካብ ምፍቃሩስ ክብረት ከንግሰለይ ወዱ በጃ ሂቡ",
+          "ቤተይ ካብ መጻእካ ዘፈርፈር ክዳንካ ልበይ ክትንክዮ",
+          "ውሉድካ ክኸውን ካብ ሃብካኒ መሰል ብምስጢር ቀራንዮ",
+          "ንዘይገደፍካኒ ናይ ሰላም መንፈስካ ካባይ ንኽእለ",
+          "ቃለይ ቃል ልሳነይ ቃንየ’ለኹ ጐይታይ ንምስጋናኻ ኢለ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msay ikha ab kwlu kabay ayrehaqkan ab hywetey",
+      "Neti men alewo zgi’yu zelewo kbehal semi'e",
+      "Msay kemzelekha bqalat zeykones b'ayney’ye rye",
+      "Btemsal gbrkha mslkha ab zuryay kebibuni ynebr",
+      "Menfeskan haylkhan bmnet seniqe ma'bel bahri ysegr"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abti gu'zo hywet sqta kem ts'lalot dedhrey kmets'",
+          "Selam rhiquni tedermimu lbey mft'arey kts'el",
+          "Bhandebet mets'iu dmts'ey keysem'e ma'ts'ou men arhyu",
+          "Debes koynu qalu tesfay zehedese dhnetey temenyu",
+          "Nefsey neysanet ab hqufu zemuqa zhalyela ablits'u",
+          "Badime keyterf kab mlatu ts'ega ab wsht'ey asrits'u",
+          "Amlakhey medhney aygedfenn beyney msay alo ab kwlu",
+          "Kab bela'i bl'i kabti hayal t''um zewts' ndyu haylu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Merzam qesti sebat qalat tet'emi'u hlinay kequsl",
+          "Kbret kemzeyblu beqa 'zum koyne beynu zestemasl",
+          "Hyaway samrawi gets' sebat kt'mt ayfeqeden lbu",
+          "Mhir kab mfqarus kbret kengseley wedu beja hibu",
+          "Betey kab mets'aka zeferfer kdanka lbey ktnkyo",
+          "Wludka kkhewn kab habkani mesel bmst'ir qeranyo",
+          "Nzeygedefkani nay selam menfeska kabay nkhle",
+          "Qaley qal lsaney qanye’lekhu gwaytay nmsganakha ile"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

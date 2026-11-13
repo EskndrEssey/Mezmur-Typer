@@ -1,0 +1,55 @@
+{
+  "id": 505,
+  "title": "ኣህዛብን ህዝብን",
+  "ti": {
+    "chorus": [
+      "ኣህዛብን ህዝብን ዝተራኸቡልኪ",
+      "መና ካብ ሰማያት ኣምላኽ ዘውረደልኪ",
+      "ሰብን መላእክትን ስብሐት ዘብጽሑልኪ",
+      "ናይ ቅዱሳን ሕይወት ድንግል ማርያም ኢኺ",
+      "ንቆጽሊ በሊዓ ሔዋን ኣምጸአት ሞት",
+      "ብፍረ ማሕጸንኪ ተረኺቡ ሕይወት",
+      "ሰኣሊ ለነ ቅድስት ምሕረት ለምንልና",
+      "ካብ ፍቑር ወድኺ ካብ ልዑል ኣምላኽና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ያዕቆብ  ኣብ ሎዛ ብሕልሚ ርእዩኪ",
+          "ሰብን መላእክትን ዝተራኸቡልኪ",
+          "መቕረቢት ናብ ኣምላኽ ጽዮን ማርያም ኢኺ",
+          "ኣማናዊት ጽዮን ኪዳን ምሕረት ኢኺ",
+          "ውዳሴ ናይ ኤፍሬም ዜማ ቅዱስ ያሬድ",
+          "ምልእተ ጸጋ ልዕሊ ኵሉ ፍጥረት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ahzabn hzbn zterakhebulki",
+      "Mena kab semayat amlakh zewredelki",
+      "Sebn melaktn sbhet zebts'hulki",
+      "Nay qdusan hywet dngl maryam ikhi",
+      "Nqots'li beli'a hewan amts'eet mot",
+      "Bfre mahts'enki terekhibu hywet",
+      "Seali lene qdst mhret lemnlna",
+      "Kab fqur wedkhi kab l'ul amlakhna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ya'qob  ab loza bhlmi ryuki",
+          "Sebn melaktn zterakhebulki",
+          "Meqrebit nab amlakh ts'yon maryam ikhi",
+          "Amanawit ts'yon kidan mhret ikhi",
+          "Wdase nay efrem zema qdus yared",
+          "Mlte ts'ega l'li kwlu ft'ret"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

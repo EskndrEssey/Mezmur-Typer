@@ -1,0 +1,57 @@
+{
+  "id": 323,
+  "title": "ካባኻ ተፈልየ",
+  "ti": {
+    "chorus": [
+      "ካባኻ ተፈልየ ናብራ ኣይክእሎን በይነይ",
+      "ብዘይ ንስኻ ጐይታይ ትሩፍ’ዩ ዓቕመይ",
+      "ኣብ ዓራት ደቂሰ ንዓመታት ሓይሊ ስኢነ",
+      "ተስፋይ ቅሂሙ በቃ ኢለ ሞተይ ለሚነ",
+      "ይናፍቕ ኣለኹ ኣነ ኣምላኽ ዛራ ቃላትካ",
+      "ምስ ሰተኻሉ ዘየጽምእ ዘሎ ኣብ ቤትካ",
+      "ካብ ቤትካ ወጺኤ ኣብ ዙርያ ዓለም ምስ በልኩ ኮለል",
+      "ሕሊናይ ዓሪቡኒ ኣነስ ኮይነ ሰንፈላል",
+      "ክጠፍእ ኣይፈቐድካን ጐይታ ፍጹም ክርሕቕ",
+      "ንኣንፈተይ ኣቕንዓዮ ሎሚ ፍጹም ክጸድቕ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሩፍታ ተሰሚዑኒ ሎሚ ኮይነ ምሳኻ",
+          "ጾረይ ምስ ኣራገፍኩ ኵሉ ጐይታይ ቅድሜኻ",
+          "ሓጎስ ይሰፍን ኣሎ ኣብ ልበይ ዘይብሉ ደረት",
+          "ብነጻ ተዓዲለዮ’ለኹ ብዋጋ ዘይግመት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kabakha tefelye nabra ayklon beyney",
+      "Bzey nskha gwaytay truf’yu 'aqmey",
+      "Ab 'arat deqise n'ametat hayli sine",
+      "Tesfay qhimu beqa ile motey lemine",
+      "Ynafq alekhu ane amlakh zara qalatka",
+      "Ms setekhalu zeyets'm zelo ab betka",
+      "Kab betka wets'ie ab zurya 'alem ms belku kolel",
+      "Hlinay 'aribuni anes koyne senfelal",
+      "Kt'ef ayfeqedkan gwayta fts'um krhq",
+      "Nanfetey aqn'ayo lomi fts'um kts'edq"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Rufta tesemi'uni lomi koyne msakha",
+          "Ts'orey ms aragefku kwlu gwaytay qdmekha",
+          "Hagos ysefn alo ab lbey zeyblu deret",
+          "Bnets'a te'adileyo’lekhu bwaga zeygmet"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

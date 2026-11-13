@@ -1,0 +1,89 @@
+{
+  "id": 352,
+  "title": "‘ቲ ምሕረቱ",
+  "ti": {
+    "chorus": [
+      "‘ቲ ምሕረቱ ዘይነጽፍ ዒላ'ዩ",
+      "ዘይጎድል ዘይውዳእ",
+      "ርህራሄኡ ኣይውዳእን'ዩ",
+      "ይቕረ'ሉኒ ኣምላኸይ ጸዊዑ /2/",
+      "ኃጢኣት እንክሰርሕ ብገዛእ ፍቓደይ",
+      "ኣብ ዓለም ኮብለልኩ መኻሪ ዘይብለይ",
+      "ብብዝሒ ምሕረቱ ነዓይ ጠሚቱኒ",
+      "ጐይታ ብጻውዒት ፍቕሩ ኣጥዒሙኒ",
+      "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+      "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብዝናም ኣብቊሉ ብጸሓይ ኣብሲሉ",
+          "መጊቡኒ ነዓይ ጓለይ ኢኺ ኢሉ",
+          "ጐይታ ቀረበኒ ከይተጸየፈኒ",
+          "ታሪኸይ ቀይሩ ጸጋኡ ሂቡኒ",
+          "መሪር ሓሞት ሰትዩ ናተይ ሞት ሞተለይ",
+          "ኣምላኽ መድኃኔ ዓለም ፍቕሩ ገሊጹለይ",
+          "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+          "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብፍርሃት ክኸይድ ናብ ቅዱስ ከረኑ",
+          "ከምቶም ኣቦታተይ ቅዱሳን ዝኾኑ",
+          "ከመስግኖ ኣነ ኣብ ቤተ መቕደሱ",
+          "ውዕለቱ ክነግር ታሪኹ ከዘንቱ",
+          "ኣምላኸይ ብምሕረት ጠሚቱኒ",
+          "ጐይታይ'ሲ ጸጋኡ ሂቡኒ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "‘Ti mhretu zeynets'f 'ila'yu",
+      "Zeygodl zeywda",
+      "Rhraheu aywdan'yu",
+      "Yqre'luni amlakhey ts'ewi'u /2/",
+      "Hat'iat nkserh bgeza fqadey",
+      "Ab 'alem koblelku mekhari zeybley",
+      "Bbzhi mhretu ne'ay t'emituni",
+      "Gwayta bts'aw'it fqru at''imuni",
+      "Amlakhey bmhret t'emituni",
+      "Gwaytay'si ts'egau hibuni /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bznam abqwilu bts'ehay absilu",
+          "Megibuni ne'ay gwaley ikhi ilu",
+          "Gwayta qerebeni keytets'eyefeni",
+          "Tarikhey qeyru ts'egau hibuni",
+          "Merir hamot setyu natey mot moteley",
+          "Amlakh medhane 'alem fqru gelits'uley",
+          "Amlakhey bmhret t'emituni",
+          "Gwaytay'si ts'egau hibuni /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bfrhat kkheyd nab qdus kerenu",
+          "Kemtom abotatey qdusan zkhonu",
+          "Kemesgno ane ab bete meqdesu",
+          "W'letu knegr tarikhu kezentu",
+          "Amlakhey bmhret t'emituni",
+          "Gwaytay'si ts'egau hibuni /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

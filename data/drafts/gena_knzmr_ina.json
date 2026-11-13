@@ -1,0 +1,83 @@
+{
+  "id": 69,
+  "title": "ገና ክንዝምር ኢና",
+  "ti": {
+    "chorus": [
+      "ገና ክንዝምር ኢና (4)",
+      "ከም ናይ መላእክቱ ብርሃኑ ለቢስና",
+      "ገና ክንዝምር ኢና",
+      "ንኣምላኽ ናይ ዳዊት ቅድሜና ሰሪዕና",
+      "ብዝማሬ ያሬድ ናይ ዳዊት በገና",
+      "ከም ናይ መላእክቱ ብርሃኑ ለቢስና",
+      "ንኽብሪ ሥላሴ ክንገልጽ ፍቕርና",
+      "ገና ክንዝምር ኢና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ምስጋና ዜማ ጐይታ ሂቡና’ሎ",
+          "ከም ናይ መላእክቱ ንዑ ነመስግኖ",
+          "ዘይተሰምዐ ዜማ ካብ ሰብ’ውን ዘይኮነ",
+          "ብዘይምቍራጽ ልብና ፈልፈለ",
+          "ገና ክንዝምር ኢና",
+          "ብትዕቢት ዘይኮነስ ብዓቢይ ትሕትና",
+          "ንኽብሪ ክርስቶስ ክንገልጽ ፍቕርና",
+          "ስራሕና ኮይኑ`ሎ ንኣምላኽ ምስጋና",
+          "ስለዝኸፈለ ህይወቱ በጃና",
+          "ገና ክንዝምር ኢና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዳዊት ተመሲጡ እንከቕርብ ምስጋና",
+          "ሜልኮል ሰሓቐቶ ስኢና ልቦና",
+          "ኣምላኽ ግን ሓረዮ ኣኽበሮ ንዳዊት",
+          "ከቕርብ ኣዘዞ ናይ ምስጋና መስዋእት",
+          "ገና ክንዝምር ኢና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gena knzmr ina (4)",
+      "Kem nay melaktu brhanu lebisna",
+      "Gena knzmr ina",
+      "Namlakh nay dawit qdmena seri'na",
+      "Bzmare yared nay dawit begena",
+      "Kem nay melaktu brhanu lebisna",
+      "Nkhbri Sslase kngelts' fqrna",
+      "Gena knzmr ina"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay msgana zema gwayta hibuna’lo",
+          "Kem nay melaktu n'u nemesgno",
+          "Zeytesem'e zema kab seb’wn zeykone",
+          "Bzeymqwrats' lbna felfele",
+          "Gena knzmr ina",
+          "Bt'bit zeykones b'abiy thtna",
+          "Nkhbri krstos kngelts' fqrna",
+          "Srahna koynu`lo namlakh msgana",
+          "Slezkhefele hywetu bejana",
+          "Gena knzmr ina"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Dawit temesit'u nkeqrb msgana",
+          "Melkol sehaqeto sina lbona",
+          "Amlakh gn hareyo akhbero ndawit",
+          "Keqrb azezo nay msgana meswat",
+          "Gena knzmr ina"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

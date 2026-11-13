@@ -1,0 +1,131 @@
+{
+  "id": 213,
+  "title": "ርግብየ ሠናይተ",
+  "ti": {
+    "chorus": [
+      "ይቤላ ይቤላ ወይቤላ ንዒ /2/",
+      "ርግብየ ሠናይት",
+      "በስመኣብ ወወልድ ወመንፈስቅዱስ ወይቤላ ንዒ",
+      "ይደሉ ስባሔ ለሥሉስ ቅዱስ       ወይቤላ ንዒ",
+      "ውዳሴ ወግናይ ዓሰርቱ ቃላት      ወይቤላ ንዒ",
+      "ኣስተማሰልናኪ ተቅዋመ ማህቶት   ወይቤላ ንዒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዳዊትኒ ይቤ እግዚኦ እግዚኦ         ወይቤላ ንዒ",
+          "ሓይልኪ ፍጹም ለጽልመት ዘሞኦ   ወይቤላ ንዒ",
+          "ዳዊትኒ ይቤ ኣኮኑ ኣኮኑ",
+          "ወይቤላ ንዒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቃልኪ እምየ መናዝዝ ለኵሉ      ወይቤላ ንዒ",
+          "ዳዊትኒ ይቤ ፍካሬ ፍካሬ             ወይቤላ ንዒ",
+          "ለልዑል ኣዶናይ ዘኮንኪ ማህደረ     ወይቤላ ንዒ",
+          "ክበበ ገጽኪ ከመ ወርኀ ሰማይ       ወይቤላ ንዒ",
+          "ኣዕይንትኪ ብሩህ እምኮከበ ሰማይ   ወይቤላ ንዒ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ለክብረ ዚኣኪ እምርሑቅ መጽኡ",
+          "ወይቤላ ንዒ"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ውርዝዋን ደናግል ከመ ያንፈርዕጹ",
+          "ወይቤላ ንዒ"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "ጥበበ ቃልኪ ጎስዐ ልሳንየ",
+          "ወይቤላ ንዒ"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "ትፍስሕተ ወሃሴት ኮነኒ ሲሳየ",
+          "ወይቤላ ንዒ",
+          "ዖድክዋ ለዓለም ኃጣእኩ ከማኪ     ወይቤላ ንዒ",
+          "በታሕተ እግዚእ መኑ ይመስለኪ     ወይቤላ ንዒ",
+          "ራእይኪ ሰናይ መድኅነ ዕዉር       ወይቤላ ንዒ",
+          "ኢይበጽሖ ኣነ ክብርኪ በመዝሙር   ወይቤላ ንዒ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ybela ybela weybela n'i /2/",
+      "Rgbye Ssenayt",
+      "Besmeab weweld wemenfesqdus weybela n'i",
+      "Ydelu sbahe lesslus qdus       weybela n'i",
+      "Wdase wegnay 'asertu qalat      weybela n'i",
+      "Astemaselnaki teqwame mahtot   weybela n'i"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dawitni ybe gzio gzio         weybela n'i",
+          "Haylki fts'um lets'lmet zemoo   weybela n'i",
+          "Dawitni ybe akonu akonu",
+          "Weybela n'i"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qalki mye menazz lekwlu      weybela n'i",
+          "Dawitni ybe fkare fkare             weybela n'i",
+          "Lel'ul adonay zekonki mahdere     weybela n'i",
+          "Kbebe gets'ki keme werhe semay       weybela n'i",
+          "A'yntki bruh mkokebe semay   weybela n'i"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Lekbre ziaki mrhuq mets'u",
+          "Weybela n'i"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Wrzwan denagl keme yanfer'ts'u",
+          "Weybela n'i"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "T'bebe qalki gos'e lsanye",
+          "Weybela n'i"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "Tfshte wehaset koneni sisaye",
+          "Weybela n'i",
+          "'Odkwa le'alem hat'aku kemaki     weybela n'i",
+          "Betahte gzi menu ymesleki     weybela n'i",
+          "Rayki senay medhne 'wur       weybela n'i",
+          "Iybets'ho ane kbrki bemezmur   weybela n'i"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

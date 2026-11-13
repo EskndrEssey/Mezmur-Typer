@@ -1,0 +1,71 @@
+{
+  "id": 353,
+  "title": "ከውሐይ ምድኃነይ",
+  "ti": {
+    "chorus": [
+      "ንዓይ ትጽቢተይ ኣምላኽ ጥራይ እዩ",
+      "ከውሐይ ምድኃነይ እምባይ ንሱ እዩ",
+      "ፈጺመ ኣይክናወጽን 'የ /2/",
+      "ንመሬት ብዘይጭበጥ ሰረት ዝደኮኖ",
+      "ንሰማይ ብዘይዓንዲ ዘንጊ እውን ዘቖሞ",
+      "ንሱ'ኮ እዩ እቲ ኣምላኽ ቀደም",
+      "እግዚአብሔር ኮታ ዝሰኣኖ የለን /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዅሉ ይኹን እናበለ ዝፈጠሮ",
+          "ብቓሉ ልክዕ ከም ግቡኡ ደው ዘበሎ",
+          "ዘርዕድ ጸልማት ናብ ብርሃን ዝቕይር",
+          "ተኣምር ግብሩ በዓል ዓቢይ ምስጢር /2/",
+          "ኣብ ልቢ ዝተሓብአ ምስጢር ዝምርምሮ",
+          "ንዕረ ናብ መዓር ወለላ ዝቕይሮ",
+          "ሓላይ ሕዝቡ ማዕበል ዘሳግሮ",
+          "ሓያል ኣምላኽና እንታይ ይሽግሮ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብቑጽሪ ዝነዓቕ ባሪኹ ዘበርከቶ",
+          "ንሕዝቡ ብዘደንቕ ጥበብ ዝመገቦ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "N'ay tts'bitey amlakh t'ray yu",
+      "Kewhey mdhaney mbay nsu yu",
+      "Fets'ime ayknawets'n 'ye /2/",
+      "Nmeret bzeych'bet' seret zdekono",
+      "Nsemay bzey'andi zengi wn zeqomo",
+      "Nsu'ko yu ti amlakh qedem",
+      "Gziebher kota zseano yelen /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nkhwlu ykhun nabele zfet'ero",
+          "Bqalu lk' kem gbuu dew zebelo",
+          "Zer'd ts'elmat nab brhan zqyr",
+          "Teamr gbru be'al 'abiy mst'ir /2/",
+          "Ab lbi ztehabe mst'ir zmrmro",
+          "N're nab me'ar welela zqyro",
+          "Halay hzbu ma'bel zesagro",
+          "Hayal amlakhna ntay yshgro /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bquts'ri zne'aq barikhu zeberketo",
+          "Nhzbu bzedenq t'beb zmegebo"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

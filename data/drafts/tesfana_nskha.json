@@ -1,0 +1,45 @@
+{
+  "id": 844,
+  "title": "ተስፋና ንስኻ",
+  "ti": {
+    "chorus": [
+      "ተስፋና ንስኻ ንዘለዓለም /2/",
+      "ወዲ ድንግል ማርያም መድኃኔ ዓለም /2/",
+      "ደምካ ዝነጸገ መልኣከ ሰላም /2/",
+      "ቅዱስ ዑራኤል ኢዩ ይኽበር መድኃኔ ዓለም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ተስፋና ንስኻ ንዘለዓለም /2/",
+          "ወዲ ድንግል ማርያም መድኃኔ ዓለም /2/",
+          "ኣሜን ኣሜን ኣሜን ንብል ብሓበራ /2/",
+          "ሰላምካ ለኣኽ ንመላእ ኤርትራ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Tesfana nskha nzele'alem /2/",
+      "Wedi dngl maryam medhane 'alem /2/",
+      "Demka znets'ege melake selam /2/",
+      "Qdus 'urael iyu ykhber medhane 'alem /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tesfana nskha nzele'alem /2/",
+          "Wedi dngl maryam medhane 'alem /2/",
+          "Amen amen amen nbl bhabera /2/",
+          "Selamka leakh nmela ertra /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

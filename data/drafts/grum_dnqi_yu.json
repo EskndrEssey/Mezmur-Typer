@@ -1,0 +1,58 @@
+{
+  "id": 81,
+  "title": "ግሩም ድንቂ’ዩ",
+  "ti": {
+    "chorus": [
+      "ግሩም ድንቂ’ዩ ኣምላኸይ ግሩም ድንቂ’ዩ",
+      "ግሩም ድንቂ’ዩ ጐይታየይ ግሩም ድንቂ’ዩ",
+      "ሰብ ንዝድርብዮ ካብ ምድሪ የልዕሎ እዩ",
+      "ንርሱዕ`ውን ኣምላኸይ ይዝክር እዩ",
+      "ኣብ ቤተ ሳይዳ ዘልዓለ ኣብ ዓራት ዘሎ",
+      "መጺኡ ሎሚ ክረድእ ንወገን ዘይብሉ",
+      "እንዳ ኃጥእ ሰብ ይኣቱ ድራር ክበልዕ",
+      "ፈቃር ኣምላኽ’ዩ ዘልዓለም ሰላም ዝዘርእ",
+      "ከም ኣምላኽና’ሲ ማንም የለን (2)",
+      "ከም እግዚአብሔር ማንም የለን (2)",
+      "ከም ፈጣሪና ማንም የለን (2)",
+      "ከም ኣማኑኤል ማንም የለን (2)",
+      "ዝተደርበየ ኣልዒሉ ሸይሙ የኽብሮ",
+      "ምሕረት`ውን ይህቦ ደምሲሱ ንዝገበሮ",
+      "ኣኽሊል የልብስ ኣቕኒዑ ንዝደነነ",
+      "ጸግዒ ይኸውን ኣምላኸይ ንዝሰኣነ",
+      "የጸናንዖ ንሕዙን ፍቕሩ ለጊሱ",
+      "ጭንቂ ዘርሕቕ ኣምላኸይ ኣኽራን ኣፍሪሱ",
+      "ካብ ሕጂ የለን ቅድሚኡ ገዛኢ ሲኦል",
+      "ነቲ ዝቖመ ብእምነት ኣብ እግሪ መስቀል"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Grum dnqi’yu amlakhey grum dnqi’yu",
+      "Grum dnqi’yu gwaytayey grum dnqi’yu",
+      "Seb nzdrbyo kab mdri yel'lo yu",
+      "Nrsu'`wn amlakhey yzkr yu",
+      "Ab bete sayda zel'ale ab 'arat zelo",
+      "Mets'iu lomi kred nwegen zeyblu",
+      "Nda hat' seb yatu drar kbel'",
+      "Feqar amlakh’yu zel'alem selam zzer",
+      "Kem amlakhna’si manm yelen (2)",
+      "Kem gziebher manm yelen (2)",
+      "Kem fet'arina manm yelen (2)",
+      "Kem amanuel manm yelen (2)",
+      "Ztederbeye al'ilu sheymu yekhbro",
+      "Mhret`wn yhbo demsisu nzgebero",
+      "Akhlil yelbs aqni'u nzdenene",
+      "Ts'eg'i ykhewn amlakhey nzseane",
+      "Yets'enan'o nhzun fqru legisu",
+      "Ch'nqi zerhq amlakhey akhran afrisu",
+      "Kab hji yelen qdmiu gezai siol",
+      "Neti zqome bmnet ab gri mesqel"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

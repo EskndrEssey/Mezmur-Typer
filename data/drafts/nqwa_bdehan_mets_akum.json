@@ -1,0 +1,59 @@
+{
+  "id": 518,
+  "title": "እንቋዕ ብደሓን መጻእኩም",
+  "ti": {
+    "chorus": [
+      "እንቋዕ ብደሓን መጻእኩም /2/",
+      "ናባይ ናብ ቅድስት ኣዴኹም",
+      "ኢደይ ዘርጊሔ ክጽበየኩም /2/",
+      "ሽዱሽተ መዓልቲ እናሰራሕና",
+      "ሰንበት ነቕርብ ምስጋናና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንወለድኹም ከተኽብሩ",
+          "ቅዱስ ኣምላኽና ተዛሪቡ /2/",
+          "ኣሰር ኣቦታት ንኽትስዕቡ",
+          "ኣብ ሰንበተይ ተኣከቡ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከምዚ ኢለ ወትሩ ዝምዕደኩም",
+          "ቤተክርስቲያን’የ ወላዲትኩም /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nqwa' bdehan mets'akum /2/",
+      "Nabay nab qdst adekhum",
+      "Idey zergihe kts'beyekum /2/",
+      "Shdushte me'alti naserahna",
+      "Senbet neqrb msganana /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nweledkhum ketekhbru",
+          "Qdus amlakhna tezaribu /2/",
+          "Aser abotat nkhts'bu",
+          "Ab senbetey teakebu /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kemzi ile wetru zm'dekum",
+          "Betekrstiyan’ye weladitkum /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

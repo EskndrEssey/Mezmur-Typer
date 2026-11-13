@@ -1,0 +1,61 @@
+{
+  "id": 85,
+  "title": "ክዝምር’የ",
+  "ti": {
+    "chorus": [
+      "ክዝምር’የ ስቕ ኣይብልን",
+      "ጐይታ ዝገበሮ ኣይውዳእን",
+      "ስሙ ጸዊዐ ወዲቖም እዮም ኵሎም ጸላእተይ",
+      "ነፍሰይ ድኂና ሞገስ ኮይኑኒ ብርሃን ሕይወተይ",
+      "ምሒሉለይ ዳግም ከይጠፍእ ኪዳን ኣትዩለይ",
+      "ፍቕሩ ኣርእዩኒ እናራህረሀ ሸኸመይ ጸይሩለይ",
+      "ነፍሰይ ድኂና ካብ ብርቱዕ ጸልማት ብንጹህ ደሙ",
+      "መዓር ዝኾነ ቃል መጊቡኒ ጐይታ ብኣእዳዉ",
+      "ናብዚ ኣብጺሑኒ እናደገፈ ብናቱ ምሕረት",
+      "ጽሒፉኒ’ዩ ብቅዱስ ኢዱ ኣብ መዝገብ ሕይወት",
+      "ምስ ቅዱሳኑ ሓደ ጌርዎ ዕጫ ዕድለይ",
+      "ከምልኾ እየ ንዘድሓነኒ ብሩኽ ኣምላኸይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣየቋርጽን ኣፈይ ምስጋና ንዘልዓለም",
+          "ባርያ ኣይኮንኩን ተዓዲገ’የ ብናይ ጐይታ ደም",
+          "ንርእሱ ኣሕሊፉ መግቢ ኮይኑኒ ምጥማየይ ርእዩ",
+          "ኣጽጊቡኒ’ዩ ብበረኸቱ ቤተይ መሊኡ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kzmr’ye sq aybln",
+      "Gwayta zgebero aywdan",
+      "Smu ts'ewi'e wediqom yom kwlom ts'elatey",
+      "Nefsey dhina moges koynuni brhan hywetey",
+      "Mhiluley dagm keyt'ef kidan atyuley",
+      "Fqru aryuni narahrehe shekhemey ts'eyruley",
+      "Nefsey dhina kab brtu' ts'elmat bnts'uh demu",
+      "Me'ar zkhone qal megibuni gwayta badawu",
+      "Nabzi abts'ihuni nadegefe bnatu mhret",
+      "Ts'hifuni’yu bqdus idu ab mezgeb hywet",
+      "Ms qdusanu hade gerwo 'ch'a 'dley",
+      "Kemlkho ye nzedhaneni brukh amlakhey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ayeqwarts'n afey msgana nzel'alem",
+          "Barya aykonkun te'adige’ye bnay gwayta dem",
+          "Nrsu ahlifu megbi koynuni mt'mayey ryu",
+          "Ats'gibuni’yu bberekhetu betey meliu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

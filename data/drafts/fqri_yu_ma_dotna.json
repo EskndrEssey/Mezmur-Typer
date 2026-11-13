@@ -1,0 +1,81 @@
+{
+  "id": 184,
+  "title": "ፍቕሪ’ዩ ማዕዶትና",
+  "ti": {
+    "chorus": [
+      "ጕዕዞ መዋዕል ክርስትና ብፍቕሪ ክንዛዝሞ",
+      "ብጥበብ ፍቕሩ ንመላለስ ልቢ እግዚአብሔር ክንረትዖ",
+      "ፍቕሪ ‘ንድዩ ማዕዶትና ናብቲ ሰማያዊ እምባ ንጽግዖ",
+      "ህርፋን ትጽቢት ልበይ ምንፋቑ መርዓዊ ’ንተመጸ",
+      "ምስ ጽቡቕ ቀንዴለይ ኣብ ኣፍደገ እግረይ እንተረገጸ",
+      "‘ቲ ዘይተይ ዘይቲ ፍቕሪ ጽድቁ ካብ ኣንቀጽኩ",
+      "መን ደንጊጹ’ሞ  ይኽፈተኒ ብጻየይ ከየፍቀርኩ",
+      "ብግብርን በሓቅን’ምበር",
+      "ብቓልን ልሳንን ኣይንፋቐር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከም መጠን ነፍቅሮ  እንተኾይኑ ኢድና  ዝኽፈሎ",
+          "ከም መጠን ንትሕቶ‘ውን ‘ተኾይኑ ብጸጋ ንልዕሎ",
+          "ብልቃጥ ዕፍረት  ልብና  ናርዶሳዊ ጨና",
+          "ኣብ ትሕቲ እግሪ ጐይታና ንስበሮ ብትሕትና",
+          "ቀለም ብርዒ ኣእምሮይ ኣንጀርቢባ ዝርንዛሕ ክትነብዕ",
+          "‘ታይኮን ምጸሓፈት ስለ ፍቕሪ ብጥበብ ክትነዝዕ",
+          "ትብሎ ግን’ባ’ለዋ ብድሩት ክእለታ",
+          "ዘይከም ዛ’ግብዝቲ ልሳን ንፋቐር'ዩ መልእኽታ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቅናት ኵሉ ሕጊ ንውኅደተን ልክዕ ከም ሽሕ ፈልጺ",
+          "ፍቕሪ’ንድዩ ጥምረተን ከም እንዳእቲ ሥምረተን ኣብ ልሕጺ",
+          "ማእሰር ኵሉ ፍጻሜ ከዳኒት ኃጢአትና",
+          "ዋላ’ንተበዝሐ ሕብርና ፍቕሪ‘ንድያ ‘ታ ውኅደትና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gw'zo mewa'l krstna bfqri knzazmo",
+      "Bt'beb fqru nmelales lbi gziebher knret'o",
+      "Fqri ‘ndyu ma'dotna nabti semayawi mba nts'g'o",
+      "Hrfan tts'bit lbey mnfaqu mer'awi ’ntemets'e",
+      "Ms ts'buq qendeley ab afdege grey nteregets'e",
+      "‘Ti zeytey zeyti fqri ts'dqu kab anqets'ku",
+      "Men dengits'u’mo  ykhfeteni bts'ayey keyefqerku",
+      "Bgbrn behaqn’mber",
+      "Bqaln lsann aynfaqer"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kem met'en nefqro  ntekhoynu idna  zkhfelo",
+          "Kem met'en nthto‘wn ‘tekhoynu bts'ega nl'lo",
+          "Blqat' 'fret  lbna  nardosawi ch'ena",
+          "Ab thti gri gwaytana nsbero bthtna",
+          "Qelem br'i amroy anjerbiba zrnzah ktneb'",
+          "‘Taykon mts'ehafet sle fqri bt'beb ktnez'",
+          "Tblo gn’ba’lewa bdrut kleta",
+          "Zeykem za’gbzti lsan nfaqer'yu melkhta"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qnat kwlu hgi nwhdeten lk' kem shh felts'i",
+          "Fqri’ndyu t'mreten kem ndati Ssmreten ab lhts'i",
+          "Maser kwlu fts'ame kedanit hat'ietna",
+          "Wala’ntebezhe hbrna fqri‘ndya ‘ta whdetna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

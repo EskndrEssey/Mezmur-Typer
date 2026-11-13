@@ -1,0 +1,85 @@
+{
+  "id": 191,
+  "title": "ኢራብ ንዓይኒ ማያት",
+  "ti": {
+    "chorus": [
+      "ኢራብ ንዓይኒ ማያት ከምትብህጎ",
+      "መሬት ንዝናም ሰማይ ከም ትጸምኦ",
+      "ናባኻ’ዩ ልበይ ሃረርታኡ",
+      "ስምካ ንዘልዓለም መግበይ ኮይኑ እግዚአብሔር",
+      "እግዚኣብሔር ስምካ . . .",
+      "ህብስተ ሕይወት’ዩ ንዝበልዖ",
+      "ጽዋእ መድኃኒት ንዝሰትዮ",
+      "ካብ መዓር ካብ ወርቂ ዝሕረ’ዩ",
+      "ንውሽጢ ነፍሰይ’ውን ሰላመይ`ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እግዚኣብሔር ስምካ . . .",
+          "ካብ ነገስታት ምድሪ እዛ ዓለም",
+          "ዝመሳሰሎ`ውን ከቶ የለን",
+          "እግዚኣብሔር ስምካ . . .",
+          "እናሻዕ ክጽውዕ ይጥዕመኒ",
+          "ከምኡ ዝበለ’ሞ መን አሎኒ",
+          "እግዚኣብሔር ስምካ . . .",
+          "ኣነስ ክጽውዖ ንዘልዓለም",
+          "ጸግዐይ ከውለይ እምባይ ኣብዚ ዓለም",
+          "እግዚኣብሔር ስምካ . . .",
+          "ንፋስ ማዕበል ባሕሪ ዘህድእ’ዩ",
+          "ጽኑዕ ግንቢ እዩ ንድሕነሉ",
+          "እግዚኣብሔር ስምካ . . .",
+          "ስምካ ካብ ተሰምየ ኣብ ልዕሌና",
+          "መን’ዩ ዝቃወሞ ዘፍርሓና",
+          "እግዚኣብሔር ስምካ . . .",
+          "ምስ ንስጉም ስምካ ተመርኲስና",
+          "ዕንቅፋት የብልናን ኣብ ቅድሜና",
+          "ኦ እግዚአብሔር ስምካ ኦ እግዚአብሔር /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Irab n'ayni mayat kemtbhgo",
+      "Meret nznam semay kem tts'emo",
+      "Nabakha’yu lbey harertau",
+      "Smka nzel'alem megbey koynu gziebher",
+      "Gziabher smka . . .",
+      "Hbste hywet’yu nzbel'o",
+      "Ts'wa medhanit nzsetyo",
+      "Kab me'ar kab werqi zhre’yu",
+      "Nwsht'i nefsey’wn selamey`yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Gziabher smka . . .",
+          "Kab negestat mdri za 'alem",
+          "Zmesaselo`wn keto yelen",
+          "Gziabher smka . . .",
+          "Nasha' kts'w' yt''meni",
+          "Kemu zbele’mo men eloni",
+          "Gziabher smka . . .",
+          "Anes kts'w'o nzel'alem",
+          "Ts'eg'ey kewley mbay abzi 'alem",
+          "Gziabher smka . . .",
+          "Nfas ma'bel bahri zehd’yu",
+          "Ts'nu' gnbi yu ndhnelu",
+          "Gziabher smka . . .",
+          "Smka kab tesemye ab l'lena",
+          "Men’yu zqawemo zefrhana",
+          "Gziabher smka . . .",
+          "Ms nsgum smka temerkwisna",
+          "'Nqfat yeblnan ab qdmena",
+          "O gziebher smka o gziebher /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": 306,
+  "title": "ሚካኤል መልኣክ",
+  "ti": {
+    "chorus": [
+      "ሚካኤል መልኣክ እመላእክት መኑ ከማከ ልዑል",
+      "ሐመልማለ ወርቅ ልብሱ ዘመብረቅ ሊቀ መላእክት",
+      "ዲ/ን ኤፍሬም"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mikael melak melakt menu kemake l'ul",
+      "Hemelmale werq lbsu zemebreq liqe melakt",
+      "Di/n efrem"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

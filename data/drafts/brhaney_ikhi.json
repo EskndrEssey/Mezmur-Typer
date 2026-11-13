@@ -1,0 +1,91 @@
+{
+  "id": 403,
+  "title": "ብርሃነይ ኢኺ",
+  "ti": {
+    "chorus": [
+      "ምርኩሰይ እንባይ መዕቆቢት ሕይወተይ",
+      "ኣባዲት ሓዘነይ ሓባሲት ንብዓተይ",
+      "እመብርሃን ማርያም በረኸት ናይ ቤተይ",
+      "ኵሉ ጸልማት ኮይኑ ጽልግልግ ምስ በለ",
+      "ጭልምልም ናይ ብርሃን ካባይ ምስ ገለለ",
+      "ሓጢኣተይ በዚሑ ኣዝየ ሓዚነ",
+      "ክነብር ከለኹ ተስፋ ስኢነ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ስምኪ ቀንዴል ኮይኑ በሪሁ ኣብ ልበይ",
+          "ሓዘነይ ክርስዕ ባና ለጊስክለይ /2/",
+          "ካብ ዘመድ ካብ ሰበይ ምስ ተፈላለኹ",
+          "ኵሉ ፈንፊኑኒ ዓቕለይ ምስ ኣጽበብኩ",
+          "ንበይነይ ክሓስብ ክጭነቕ ክሓዝን",
+          "ፍርሒ ውሒጡኒ ንሰባት ክልምን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ስምኪ ጎነይ ኮይኑ ኣጸናኒዑኒ",
+          "ማርያም ማርያም ኢለ ኵሉ ፈዂሱኒ /2/",
+          "እቲ ናተይ ዝብሎ ኵሉ ምስ ሰኣንኩ",
+          "ናብራ ከቢዱኒ ምንባር ምስ ጸላእኩ",
+          "ኢሂን ምሂን ዝብሎ ምስጢረይ ዘዕልሎ",
+          "ዘማኽረኒ ንዓይ ሽግረይ ዘካፍሎ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "እንዳ ዘመድ ኮይኑ እንዳ ፈታውየይ",
+          "ስምኪ ሓጊዙኒ ከይከውን ንበይነይ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mrkusey nbay me'qobit hywetey",
+      "Abadit hazeney habasit nb'atey",
+      "Mebrhan maryam berekhet nay betey",
+      "Kwlu ts'elmat koynu ts'lglg ms bele",
+      "Ch'lmlm nay brhan kabay ms gelele",
+      "Hat'iatey bezihu azye hazine",
+      "Knebr kelekhu tesfa sine"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Smki qendel koynu berihu ab lbey",
+          "Hazeney krs' bana legiskley /2/",
+          "Kab zemed kab sebey ms tefelalekhu",
+          "Kwlu fenfinuni 'aqley ms ats'bebku",
+          "Nbeyney khasb kch'neq khazn",
+          "Frhi whit'uni nsebat klmn"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Smki goney koynu ats'enani'uni",
+          "Maryam maryam ile kwlu fekhwisuni /2/",
+          "Ti natey zblo kwlu ms seanku",
+          "Nabra kebiduni mnbar ms ts'elaku",
+          "Ihin mhin zblo mst'irey ze'llo",
+          "Zemakhreni n'ay shgrey zekaflo"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Nda zemed koynu nda fetawyey",
+          "Smki hagizuni keykewn nbeyney /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

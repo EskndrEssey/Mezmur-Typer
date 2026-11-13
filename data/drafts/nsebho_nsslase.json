@@ -1,0 +1,89 @@
+{
+  "id": 465,
+  "title": "ንሴብሖ ንሥላሴ",
+  "ti": {
+    "chorus": [
+      "ንሴብሖ ንሥላሴ (2)",
+      "ክበር ተመስገን ኣምላከ ሙሴ (2)",
+      "ኣማላዲትና ኣዴና (2)",
+      "ንዒ ንዒ ንግስትና",
+      "ተረኸቢ ኣብ ማእከልና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነዓ ነዓ ሚካኤል (2)",
+          "ኣብ ትሕቲ ኣክናፍካ ኣጽልለና (2)"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ነዓ ነዓ ዑራኤል (2)",
+          "ከም ቅዱስ እዝራ ሱቱኤል",
+          "ሃበና ጥበብ ምስትውዓል (2)",
+          "ነዓ ነዓ ጊዮርጊስ(2)",
+          "ንጉሥ ዘልዳ ጊዮርጊስ",
+          "ገድልኻ ሰሚዕና ንፍወስ (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ነዓ ነዓ ተክለሃይማኖት (2)",
+          "ይሓልወና ናትካ ጸሎት",
+          "ንኽንጸንዕ ኣብ ሃይማኖት (2)",
+          "ነዓ ነዓ በኣናብስት (2)",
+          "ኣቦ ኩላትና ገብረሕይወት",
+          "ደቀይ በለና ኣብ ሰማያት (2)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nsebho nsslase (2)",
+      "Kber temesgen amlake muse (2)",
+      "Amaladitna adena (2)",
+      "N'i n'i ngstna",
+      "Terekhebi ab makelna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ne'a ne'a mikael (2)",
+          "Ab thti aknafka ats'llena (2)"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ne'a ne'a 'urael (2)",
+          "Kem qdus zra sutuel",
+          "Habena t'beb mstw'al (2)",
+          "Ne'a ne'a giyorgis(2)",
+          "Nguss zelda giyorgis",
+          "Gedlkha semi'na nfwes (2)"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Ne'a ne'a teklehaymanot (2)",
+          "Yhalwena natka ts'elot",
+          "Nkhnts'en' ab haymanot (2)",
+          "Ne'a ne'a beanabst (2)",
+          "Abo kulatna gebrehywet",
+          "Deqey belena ab semayat (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

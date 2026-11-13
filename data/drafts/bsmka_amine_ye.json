@@ -1,0 +1,61 @@
+{
+  "id": 132,
+  "title": "ብስምካ ኣሚነ’የ",
+  "ti": {
+    "chorus": [
+      "ብስምካ ኣሚነ እየ ኣይትግደፈኒ",
+      "ናብ ዘሳድድ ጸላኢ ኣይትሃበኒ",
+      "ሕያዋይ ናተይ ጐይታ ሰላም ዕረፍተይ",
+      "ንጉዕዞይ ኣቕንዓለይ ቅድመይ ኩነለይ",
+      "በለስ `ተዘየፍረየ ዘይቲ`ውን ኣይሃሉ",
+      "ግን ምሳኻ ሕሊናይ ሙሉእ ሰላም`ዩ",
+      "ብበረኸት ኣቦታት ዝባረኽካኒ",
+      "ንእስራኤል ዘድሓንካዮም ክበረለይ",
+      "ዘልዓለም ተመስገን ልዕል በለለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ፈተና መውጽኢ መልሰይ ንስኻ",
+          "ንጸልማት ተስግረኒ ኵሉ ከፊትካ",
+          "ብምሕረትካ ይነብር ንብዙሕ ዘመን",
+          "ጸዊዑ መን ሓፊሩ ብኣኻ ዝኣምን",
+          "ከይሞተ ይነብር ብኣኻ ዝኣምን",
+          "ይቕሬታኻን ምሕረትካን ይመርሓኒ",
+          "ዓቐብን ዕንቅፋትን ከየድክመኒ",
+          "ብጽድቂ ሓሴት ሰላም እርከብ ብኣኻ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bsmka amine ye aytgdefeni",
+      "Nab zesadd ts'elai aythabeni",
+      "Hyaway natey gwayta selam 'reftey",
+      "Ngu'zoy aqn'aley qdmey kuneley",
+      "Beles `tezeyefreye zeyti`wn ayhalu",
+      "Gn msakha hlinay mulu selam`yu",
+      "Bberekhet abotat zbarekhkani",
+      "Nsrael zedhankayom kbereley",
+      "Zel'alem temesgen l'l beleley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab fetena mewts'i melsey nskha",
+          "Nts'elmat tesgreni kwlu kefitka",
+          "Bmhretka ynebr nbzuh zemen",
+          "Ts'ewi'u men hafiru bakha zamn",
+          "Keymote ynebr bakha zamn",
+          "Yqretakhan mhretkan ymerhani",
+          "'Aqebn 'nqfatn keyedkmeni",
+          "Bts'dqi haset selam rkeb bakha"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,149 @@
+{
+  "id": 312,
+  "title": "ንዒ ናባይ",
+  "ti": {
+    "chorus": [
+      "ምስ ፍቁር ወድኺ   ንዒ ናባይ",
+      "ምስ መድኃኔ ዓለም    >> >>",
+      "ምስ ኣዳም ምስ ሔዋን >> >>",
+      "ካብ ሰባት ቀዳሞት     >> >>",
+      "ክትባርኽኒ ንዒ ናባይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምስ መልኣከ ምሕረት   ንዒ ናባይ",
+          "ቅዱስ ሚካኤል",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምስ መልኣከ ብስራት     >> >>",
+          "ቅዱስ ገብርኤል           >> >>",
+          "ክትባርኽኒ ንዒ ናባይ",
+          "ምስ ኣቦና ኣብርሃም   ንዒ ናባይ",
+          "ምስ ይስሓቕ ያዕቆብ",
+          ">> >>",
+          "ብሰናይ ተግባሮም",
+          ">> >>",
+          "ዘስመሩ ኣምላኾም",
+          ">> >>",
+          "ክትባርኽኒ ንዒ ናባይ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ምስ ኤፍሬም ሶርያዊ  ንዒ ናባይ",
+          "ምስ ኣባ ሕርያቆስ",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ብውዳሴን ቅዳሴን",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "ዝሃንጹ ብመንፈስ",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "ክትባርኽኒ ንዒ ናባይ",
+          "ንዘይጠቐስክዎም      ንዒ ናባይ",
+          "ቅዱሳን ኵላቶም",
+          ">> >>",
+          "ብዓምደ ደመና",
+          ">> >>",
+          "ሓቢርኪ ምስኣቶም",
+          ">> >>",
+          "ክትባርኽኒ ንዒ ናባይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ms fqur wedkhi   n'i nabay",
+      "Ms medhane 'alem    >> >>",
+      "Ms adam ms hewan >> >>",
+      "Kab sebat qedamot     >> >>",
+      "Ktbarkhni n'i nabay"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ms melake mhret   n'i nabay",
+          "Qdus mikael",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ms melake bsrat     >> >>",
+          "Qdus gebrel           >> >>",
+          "Ktbarkhni n'i nabay",
+          "Ms abona abrham   n'i nabay",
+          "Ms yshaq ya'qob",
+          ">> >>",
+          "Bsenay tegbarom",
+          ">> >>",
+          "Zesmeru amlakhom",
+          ">> >>",
+          "Ktbarkhni n'i nabay"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Ms efrem soryawi  n'i nabay",
+          "Ms aba hryaqos",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Bwdasen qdasen",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "Zhants'u bmenfes",
+          ">> >>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "Ktbarkhni n'i nabay",
+          "Nzeyt'eqeskwom      n'i nabay",
+          "Qdusan kwlatom",
+          ">> >>",
+          "B'amde demena",
+          ">> >>",
+          "Habirki msatom",
+          ">> >>",
+          "Ktbarkhni n'i nabay"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

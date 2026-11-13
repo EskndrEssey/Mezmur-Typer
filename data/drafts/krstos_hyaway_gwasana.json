@@ -1,0 +1,71 @@
+{
+  "id": 475,
+  "title": "ክርስቶስ ሕያዋይ ጓሳና",
+  "ti": {
+    "chorus": [
+      "ክርስቶስ ሕያዋይ ጓሳና ኣቦና",
+      "ስለ ዘፍቀረና ሞይቱ ኣድኂኑና",
+      "ጸልማት ናይ ኩነኔ መታን ከኽትም",
+      "ተገሊጹልና’ዩ ንጉሥ ናይ ሰላም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓሙሽተ ሽሕን ሓሙሽተ ሚእትን",
+          "ናይ መርገም ዓመታት ናይ ፍዳ ዘመን",
+          "ክርስቶስ ምስ መጸ ፍጹም ተቐይሩ",
+          "ግዝኣት ናይ ዲያብሎስ ኣሰይ ተሳዒሩ",
+          "ኣብ ክንዲ ጻድቕ የለን ዝመውት",
+          "ስለ ፈታዊኡ ይህሉ ምናልባት",
+          "ጐይታ ግና ጌና ኣብ ኃጢኣት ከለና",
+          "ስለ ዘፍቀረና ሞይቱ ኣብ ክንዳና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዝገፍዓና ገፊዑልና ጐይታ",
+          "ሰላም እናብሰረ ንሲኦል ዘመታ",
+          "ሓዘን የለን ሕጂ ኮይኑ’ዩ ዕልልታ",
+          "ዝተዓጽወት ገነት ኣሰይ ተኸፊታ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Krstos hyaway gwasana abona",
+      "Sle zefqerena moytu adhinuna",
+      "Ts'elmat nay kunene metan kekhtm",
+      "Tegelits'ulna’yu nguss nay selam"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hamushte shhn hamushte mitn",
+          "Nay mergem 'ametat nay fda zemen",
+          "Krstos ms mets'e fts'um teqeyru",
+          "Gzat nay diyablos asey tesa'iru",
+          "Ab kndi ts'adq yelen zmewt",
+          "Sle fetawiu yhlu mnalbat",
+          "Gwayta gna gena ab hat'iat kelena",
+          "Sle zefqerena moytu ab kndana"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nzgef'ana gefi'ulna gwayta",
+          "Selam nabsere nsiol zemeta",
+          "Hazen yelen hji koynu’yu 'llta",
+          "Zte'ats'wet genet asey tekhefita"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

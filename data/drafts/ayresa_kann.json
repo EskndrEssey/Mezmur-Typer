@@ -1,0 +1,63 @@
+{
+  "id": 283,
+  "title": "ኣይረሳዕካንን",
+  "ti": {
+    "chorus": [
+      "ገዲፈካ ኣይገደፍካንን",
+      "ረሲዐካስ ኣይረሳዕካንን",
+      "ምሳይ ኔርካ ሕያው ኣምላኸይ",
+      "ሎሚ ረኺበካ ኣፍሲሰ ንብዓተይ",
+      "ምልኣት መሲሉኒ እቲ ባዶነተይ",
+      "ኣብ ሓይለይ ጌረዮ ንዅሉ ትውክልተይ",
+      "ዘይምንባር ምሳኻ ሓጢኣት በዚሑኒ",
+      "ንኸንቱ’የ ጎየ ገለ ዘይጠቕመኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰላመይ ጠፊኡ ጭንቀተይ ዓዚዙ",
+          "ናብራ መሪሩኒ ብርሃነይ ደብዚዙ",
+          "ኣብ ዘይፈለጥኩኻ ምሕረትካ ውሒዙ",
+          "መሪሑኒ ቤትካ በኣእዳወይ ሒዙ",
+          "ምስጢርካ ክፈልጥ ነቲ ዘይብጻሕ",
+          "ተመራሚረ’የ ገናጺለ ብዙሕ",
+          "ንበይነይ ዛዊነ ንስኻ ዘይብሉ",
+          "ሕይወተይ ምዃንካ መዓስ ኣቕሊበሉ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gedifeka aygedefkann",
+      "Resi'ekas ayresa'kann",
+      "Msay nerka hyaw amlakhey",
+      "Lomi rekhibeka afsise nb'atey",
+      "Mlat mesiluni ti badonetey",
+      "Ab hayley gereyo nkhwlu twkltey",
+      "Zeymnbar msakha hat'iat bezihuni",
+      "Nkhentu’ye goye gele zeyt'eqmeni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selamey t'efiu ch'nqetey 'azizu",
+          "Nabra meriruni brhaney debzizu",
+          "Ab zeyfelet'kukha mhretka whizu",
+          "Merihuni betka beadawey hizu",
+          "Mst'irka kfelt' neti zeybts'ah",
+          "Temeramire’ye genats'ile bzuh",
+          "Nbeyney zawine nskha zeyblu",
+          "Hywetey mkhwanka me'as aqlibelu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

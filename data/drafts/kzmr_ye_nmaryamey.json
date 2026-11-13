@@ -1,0 +1,89 @@
+{
+  "id": 95,
+  "title": "ክዝምር'የ ንማርያመይ",
+  "ti": {
+    "chorus": [
+      "ናይ ፍቕራ በረኸት ኣትዩ ቤተይ",
+      "ረዳኢተይ እያ ኣብ ጊዜ ሓዘነይ",
+      "ከመስግና እየ ንድንግል ማርያመይ",
+      "ንብዓተይ ካብ ዓይነይ ደሪዛትለይ'ያ",
+      "ኣነስ ክዝምርየ ንድንግል ማርያም",
+      "ክፍኣት ናይ ሕይወተይ ንኸየስዕብ ስቓይ",
+      "ባሪኻቶ ቤተይ ኣደ ናይ ብዙሓን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ድነ ናይ ጸልማት ተሪፈ ንበይነይ",
+          "ብናይ ፍቕሪ ኣእዳዋ ትድህስሶ ዓይነይ",
+          "ሓዘነይ ንብዓተይ ክነግር ንኣደይ",
+          "ሎሚ ብበረኸት መሊኣቶ ቤተይ",
+          "ዝዓነወ ሕይወተይ እቲ ዝፈረሰ",
+          "ብልመና ድንግል ኵሉ ተሓደሰ",
+          "ንብዓተይ ጸሎተይ ኣውያተይ ሰሚዓ",
+          "ድንግል ኣደ ጐይታ ንረዲኤት መጺኣ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሸኸም ከቢዱኒ ክሓዝን ክቑዝም",
+          "ድንግል መጺኣትኒ ደኺመ ከይተርፍ",
+          "ስለ ዘውጽኣትኒ ካብ መዓሙቕ ጉድጓድ",
+          "የእዳወይ ዘርጊሐ ንኽብራ ክዝምር"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዘማሪ ኣለማየሁ ኡርጌ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay fqra berekhet atyu betey",
+      "Redaitey ya ab gize hazeney",
+      "Kemesgna ye ndngl maryamey",
+      "Nb'atey kab 'ayney derizatley'ya",
+      "Anes kzmrye ndngl maryam",
+      "Kfat nay hywetey nkheyes'b sqay",
+      "Barikhato betey ade nay bzuhan"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab dne nay ts'elmat terife nbeyney",
+          "Bnay fqri adawa tdhsso 'ayney",
+          "Hazeney nb'atey knegr nadey",
+          "Lomi bberekhet meliato betey",
+          "Z'anewe hywetey ti zferese",
+          "Blmena dngl kwlu tehadese",
+          "Nb'atey ts'elotey awyatey semi'a",
+          "Dngl ade gwayta nrediet mets'ia"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Shekhem kebiduni khazn kquzm",
+          "Dngl mets'iatni dekhime keyterf",
+          "Sle zewts'atni kab me'amuq gudgwad",
+          "Yedawey zergihe nkhbra kzmr"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zemari alemayehu urge"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

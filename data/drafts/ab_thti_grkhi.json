@@ -1,0 +1,59 @@
+{
+  "id": 378,
+  "title": "ኣብ ትሕቲ እግርኺ",
+  "ti": {
+    "chorus": [
+      "ኣብ ትሕቲ እግርኺ ኣሕዛብ ክሰግዱ’ዮም",
+      "እቶም ዝነዓቑኺ ዝጸልኡኺ ኩሎም",
+      "ጸጋኺ ኣሚኖም ክብርኺ ኵሉ",
+      "ድንግል ለምንልና ዕረቕና ክብሉ /2/",
+      "ንኹሎም ቅዱሳን ትግለጺ ኢኺ",
+      "ርግቢት ናይ ሰላም ኣንቲ ተኽለ ወይኒ",
+      "ኃጢአት ዓለም በደል ዘይብልኪ ንጽህቲ",
+      "ናይ ምስጋና ኣዳራሽ ናይ ኣብ ውዳሴኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕዝብን ኣሕዛብን ሰገዱ ብፍርሓት",
+          "ጸጋ ምስ በረኸት ኵሉ ዝተዋህበት",
+          "መድኃኒት ናይ ሰባት ምልክት ናይ ድኅነት",
+          "ንአምላክ ያዕቆብ መሕደሪት ዝኾነት",
+          "ንጽዮን ክበብዋ ከም ዝበለ ኣቦና",
+          "ናትና ሞገስ ግርማ ኩኒ ኣብ ማእከልና",
+          "ጸጋን በረኸትን ኣውህብና ኢኺ",
+          "ሰላም ለኪ ኢልና ክንሰግድ ንዓኺ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab thti grkhi ahzab ksegdu’yom",
+      "Tom zne'aqukhi zts'elukhi kulom",
+      "Ts'egakhi aminom kbrkhi kwlu",
+      "Dngl lemnlna 'reqna kblu /2/",
+      "Nkhulom qdusan tglets'i ikhi",
+      "Rgbit nay selam anti tekhle weyni",
+      "Hat'iet 'alem bedel zeyblki nts'hti",
+      "Nay msgana adarash nay ab wdasekhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hzbn ahzabn segedu bfrhat",
+          "Ts'ega ms berekhet kwlu ztewahbet",
+          "Medhanit nay sebat mlkt nay dhnet",
+          "Nemlak ya'qob mehderit zkhonet",
+          "Nts'yon kbebwa kem zbele abona",
+          "Natna moges grma kuni ab makelna",
+          "Ts'egan berekhetn awhbna ikhi",
+          "Selam leki ilna knsegd n'akhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

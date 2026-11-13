@@ -1,0 +1,73 @@
+{
+  "id": 287,
+  "title": "ኣምሳያ ጸጋኻ",
+  "ti": {
+    "chorus": [
+      "ኣምሳያ ጸጋኻ ወትሩ ዝዕደሎ",
+      "መለሳ ብርሃንካ ንነፍሰይ ዝዓስሎ",
+      "ስለቲ ፍቕርኻ ምኾነ ንማለት",
+      "በገናይ ኣልዒለ መሰንቆ መለኸት",
+      "ብመዝሙር ምስጋና ክኸፍቶ ልሳነይ",
+      "ክፍሳህ ክሕጎስ ብኣኻ ኣምላኸይ",
+      "ምሕረትካ ዓዚዙ በዚሑ ሰላመይ",
+      "ኣብ ስቕታ ካብ ምንባር ድኂና’ያ ነፍሰይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኃጥእ እንክነሰይ ረሲእ መላገጺ",
+          "ንስለ ድሕነተይ ተኪእኻ ዓማጺ",
+          "ልበይ ዝኣዘዞ ልሳነይ ቃላቱ",
+          "ስምካ ክውድስ’ዩ ዕቤትካ ከዘንቱ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክበረለይ ጐይታይ ኣምላኸይ ተመስገን",
+          "ፍቓድ ልብኻ’ዩ ምንባረይ ዝውስን",
+          "ቃልካ’ዩ መዝሙረይ ሕማመይ ዝፍውስ",
+          "ወሃቢ ንሩፍታ ኣእምሮይ ዘሐድስ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Amsaya ts'egakha wetru z'delo",
+      "Melesa brhanka nnefsey z'aslo",
+      "Sleti fqrkha mkhone nmalet",
+      "Begenay al'ile mesenqo melekhet",
+      "Bmezmur msgana kkhefto lsaney",
+      "Kfsah khgos bakha amlakhey",
+      "Mhretka 'azizu bezihu selamey",
+      "Ab sqta kab mnbar dhina’ya nefsey /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hat' nknesey resi melagets'i",
+          "Nsle dhnetey tekikha 'amats'i",
+          "Lbey zazezo lsaney qalatu",
+          "Smka kwds’yu 'betka kezentu /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kbereley gwaytay amlakhey temesgen",
+          "Fqad lbkha’yu mnbarey zwsn",
+          "Qalka’yu mezmurey hmamey zfws",
+          "Wehabi nrufta amroy zeheds /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

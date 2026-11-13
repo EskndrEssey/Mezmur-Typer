@@ -1,0 +1,71 @@
+{
+  "id": 105,
+  "title": "ኣብ ቤት መቕደስካ",
+  "ti": {
+    "chorus": [
+      "ኣብ ቤት መቕደስካ ዘዕበኻኒ",
+      "ናይ ልቦና ጥበብ ዝመሃርካኒ",
+      "ጸላኢ ኣብ ልዕለይ ዓብሊሉ",
+      "ሎሚ ንበይነይ ኮይነ ኣለኹ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነግራም እምበር ኮይነ ዓመጸኛ",
+          "ኃጢኣት ዘይፈርህ ጉዳመኛ",
+          "ነፍሰይ ተዋረደት ብመከራ",
+          "መን የራኽባ ምስ ኣምላኻ",
+          "ወሃቢ ሰላመይ መድኃኒተይ",
+          "ፍቕርን ስኒትን ኣውሪድካለይ",
+          "ዓለም ከይትወስደኒ ከምዛ ዋዛ",
+          "ሓድሰኒባ ብቓላትካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "‘ቶም በደለኛታት ኩሎም መጹ",
+          "ምሕረት ፍቕርኻ ‘ናሓሰቡ",
+          "ኣእዳውካ ዘርጊሕካ ሓቚፍካዮም",
+          "ሎሚ ብኣኻ ተፈዊሶም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab bet meqdeska ze'bekhani",
+      "Nay lbona t'beb zmeharkani",
+      "Ts'elai ab l'ley 'ablilu",
+      "Lomi nbeyney koyne alekhu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Negram mber koyne 'amets'enya",
+          "Hat'iat zeyferh gudamenya",
+          "Nefsey tewaredet bmekera",
+          "Men yerakhba ms amlakha",
+          "Wehabi selamey medhanitey",
+          "Fqrn snitn awridkaley",
+          "'Alem keytwesdeni kemza waza",
+          "Hadseniba bqalatka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "‘Tom bedelenyatat kulom mets'u",
+          "Mhret fqrkha ‘nahasebu",
+          "Adawka zergihka haqwifkayom",
+          "Lomi bakha tefewisom"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

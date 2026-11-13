@@ -1,0 +1,57 @@
+{
+  "id": 487,
+  "title": "ናይ ኖህ ቃልኪዳኑ",
+  "ti": {
+    "chorus": [
+      "ናይ ኖህ ቃልኪዳኑ ምልክት ኣርምኡ",
+      "ናይ ምድሓኑ ምስጢር ናይ ሰላም ተስፋኡ",
+      "ድንግል ንስኺ ኢኺ ቀስተ ደመናኡ (2)",
+      "እታ ናይ ኣሮን በትሪ ከም ተኽሊ ዝኾነት",
+      "ግራት ሠሉስ ኢኺ ብዘይ ዘርኢ ዝፈረየት",
+      "ናይ ሲና ሓመልማል ናይ ተዋህዶ ምስጢር",
+      "ድንግል ማርያም ሃገረ እግዚአብሔር (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ዳዊት መሰንቆ ናይ ያሬድ ጸናጽል",
+          "ናይ ድኹማት ምርኩስ ናይ ሰሎሞን ኣኽሊል",
+          "ሰላም ተስፋይ ኢኺ በጻሒት ሓዘነይ",
+          "እምባ ጽዮን ኢኺ ናይ ዘልዓለም ጸግዐይ (2)",
+          "ዕትሮ ኤልሳእ ኢኺ ጨው ዝተረኽበኪ",
+          "ራእይ ናይ ሕዝቅኤል ዕጽውቲ ደገ ኢኺ",
+          "ኣንቲ ተስፋ ኣዳም ናይ ሕይወት መሳልል",
+          "ኣንቀጸ ብርሃን ኣደ ኣማኑኤል (2)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay noh qalkidanu mlkt armu",
+      "Nay mdhanu mst'ir nay selam tesfau",
+      "Dngl nskhi ikhi qeste demenau (2)",
+      "Ta nay aron betri kem tekhli zkhonet",
+      "Grat Sselus ikhi bzey zeri zfereyet",
+      "Nay sina hamelmal nay tewahdo mst'ir",
+      "Dngl maryam hagere gziebher (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay dawit mesenqo nay yared ts'enats'l",
+          "Nay dkhumat mrkus nay selomon akhlil",
+          "Selam tesfay ikhi bets'ahit hazeney",
+          "Mba ts'yon ikhi nay zel'alem ts'eg'ey (2)",
+          "'Tro elsa ikhi ch'ew zterekhbeki",
+          "Ray nay hzqel 'ts'wti dege ikhi",
+          "Anti tesfa adam nay hywet mesall",
+          "Anqets'e brhan ade amanuel (2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

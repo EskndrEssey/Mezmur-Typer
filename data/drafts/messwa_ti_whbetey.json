@@ -1,0 +1,77 @@
+{
+  "id": 178,
+  "title": "መሥዋዕቲ ውህበተይ",
+  "ti": {
+    "chorus": [
+      "መሥዋዕቲ ውህበተይ ምስጋና ካብ ኮነ",
+      "ብበገና፥ ብኸበሮ፥ ብጸናጽል ተወሲነ",
+      "ክዝምረልካየ ብሓድሽ ቅኔ(2)",
+      "ሰንከልከል ክብል ብፈተና ዓለም",
+      "ደጋፊ ዘይብለይ ኣብቲ ድቕድቕ ጸላም",
+      "ቀንዴል ፍኖተይ ኴንካ ጸልማተይ ጋሊህካዮ",
+      "መሪሕካስ ኣእቲኻኒ ቤትካ ንኽርእዮ",
+      "ብልግሲ ፍቕርኻ ጸጋ ተዓዲለ’የ  ባርያኻ",
+      "ብክቡር ደምካስ ጐይታይ ነፍሰይ ቀዲስካዮ",
+      "ኤልሻዳይ ንጉሥ ርትዒ ሰላመይ መሊስካዮ ‘"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብጕዕዞ ቃዴስ ረመጽ ምድረ በዳ",
+          "ሰሪ ጽምኢ ጽድቂ ኣብራኽ ክቕየዳ",
+          "ኣድኃነኒ ግን ጐይታይ ብተበጃውነቱ",
+          "እንሆ’ኳ አመስግን ከዘንቱ ውዕለቱ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትዕዝብቲ ልበይ ናይ ትማል ፍጻመ",
+          "ብፁዕ እንክበሃል ብእምነት ተኃቲመ",
+          "ብሞት ንጹሕ ገንሸል ሓጐስ ተደሪረ",
+          "ብርሃኑ’ኳ ወሊዐስ ከመስግን ሓዲረ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Messwa'ti whbetey msgana kab kone",
+      "Bbegena: bkhebero: bts'enats'l tewesine",
+      "Kzmrelkaye bhadsh qne(2)",
+      "Senkelkel kbl bfetena 'alem",
+      "Degafi zeybley abti dqdq ts'elam",
+      "Qendel fnotey kwenka ts'elmatey galihkayo",
+      "Merihkas atikhani betka nkhryo",
+      "Blgsi fqrkha ts'ega te'adile’ye  baryakha",
+      "Bkbur demkas gwaytay nefsey qediskayo",
+      "Elshaday nguss rt'i selamey meliskayo ‘"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bgw'zo qades remets' mdre beda",
+          "Seri ts'mi ts'dqi abrakh kqyeda",
+          "Adhaneni gn gwaytay btebejawnetu",
+          "Nho’kwa emesgn kezentu w'letu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "T'zbti lbey nay tmal fts'ame",
+          "Bts'u' nkbehal bmnet tehatime",
+          "Bmot nts'uh genshel hagwas tederire",
+          "Brhanu’kwa weli'es kemesgn hadire"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": 326,
+  "title": "ድንግል ማርያም",
+  "ti": {
+    "chorus": [
+      "ምንጪ ናይ በረኸት ዘይትነጽፍ ዒላ",
+      "ንዝተማሕጸና ኣደይ ንዝበላ",
+      "ሕይወት እትዕድል ሕይወት ኣፈልፊላ",
+      "ድንግል ማርያም’ያ እወ ድንግል ባዕላ",
+      "ጓል ካህናትን ነገስታትን ጠጥዒ ስርወ እሴይ",
+      "ሕልፊ ጸሓይ ድምቀታ ዳግማዊት ሰማይ /2/",
+      "ዋሕዛ ዘይነጽፍ’ዩ ፈልፋሊት ጽሩይ ማይ",
+      "ኣፍደገ ናይ ገነት ኣደ ኣዶናይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዕባይ ቤተመቅደስ ንጽሕና ጋምኣ",
+          "ብመልኣክ እትግልገል ፍሉይ ዝጸግኣ /2/",
+          "መሳልል ሰማያት ኵሉ በሃጊኣ",
+          "ሕልፊ ኵሉ ፍጡር’ያ የለን መዘናኣ /2/",
+          "ካብ ሔዋን ፍልይቲ ርስሓት ዘይለገባ",
+          "ሓድጊ ናይ ድኅነትና መርሃዊት ጸበባ /2/",
+          "ከነኣን ተዋሕዶ ቦታ መዓር ጸባ",
+          "ምቁር ዝፍሬኣ ምእዝቲ ዕንበባ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብመን ክንምስላ እንታይ’ከ ክንብላ",
+          "ኣደን ድንግልን አምላክ ዝዓደላ /2/",
+          "ዘይትነድድ ቆጥቋጥ ፈራይት ዘለላ",
+          "ምችእቲ መዕረፊት ልዑል ዘጽለለላ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mnch'i nay berekhet zeytnets'f 'ila",
+      "Nztemahts'ena adey nzbela",
+      "Hywet t'dl hywet afelfila",
+      "Dngl maryam’ya we dngl ba'la",
+      "Gwal kahnatn negestatn t'et''i srwe sey",
+      "Hlfi ts'ehay dmqeta dagmawit semay /2/",
+      "Wahza zeynets'f’yu felfalit ts'ruy may",
+      "Afdege nay genet ade adonay /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Bay betemeqdes nts'hna gama",
+          "Bmelak tglgel fluy zts'ega /2/",
+          "Mesall semayat kwlu behagia",
+          "Hlfi kwlu ft'ur’ya yelen mezenaa /2/",
+          "Kab hewan flyti rshat zeylegeba",
+          "Hadgi nay dhnetna merhawit ts'ebeba /2/",
+          "Kenean tewahdo bota me'ar ts'eba",
+          "Mqur zfrea mzti 'nbeba /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bmen knmsla ntay’ke knbla",
+          "Aden dngln emlak z'adela /2/",
+          "Zeytnedd qot'qwat' ferayt zelela",
+          "Mchti me'refit l'ul zets'lelela /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

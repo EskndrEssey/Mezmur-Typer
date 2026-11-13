@@ -1,0 +1,73 @@
+{
+  "id": 24,
+  "title": "ናብ መሕደሪኡ ኣትየ",
+  "ti": {
+    "chorus": [
+      "ናብ መሕደሪኡ ኣትየ",
+      "ክሰግድ ንእግዚብኣብሔር",
+      "ምስጋናይ ከቕርብ ስለ ክብሪ ስሙ",
+      "ጌርለይ እዩ’ሞ ከመስግኖ እየ",
+      "ኣብ ቤት መቕደሱ ክሰግደሉ እየ",
+      "ኣብ ቅድሚኡ ንምቛም ፈትየ ክነቅሕ’የ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ጊዜ መከራይ ዝኾነኒ ዋልታ",
+          "ኣብ ቤቱ ኣትየ ብፍጹም ብደስታ",
+          "ናይ ከንፈረይ ፍረ ክስውእ ብዕልልታ /2/",
+          "ብበዓል ዓሰርተ ኣውታር በገና",
+          "ኣብ ቅድሚ መላእክት ክህቦ ምስጋና",
+          "ኣፍና ዝለመኖ ስለ ዝሰምዓና /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክምስክረሉ’የ ንዑኡ ብዝግባእ",
+          "መብጽዓይ ክፍጽም ከቕርበሉ ሞባእ",
+          "ናብ ኣደባባዩ ብምስጋና እመጽእ/2/",
+          "ከሸብሽበሉ’የ ንድምጸይ ኣጉሊሐ",
+          "ኣብ ቤተ መቕደሱ ለይቲ ተፈሲሐ",
+          "ከምቶም ኣቦታተይ ኣእዳወይ ዘርጊሐ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nab mehderiu atye",
+      "Ksegd ngzibabher",
+      "Msganay keqrb sle kbri smu",
+      "Gerley yu’mo kemesgno ye",
+      "Ab bet meqdesu ksegdelu ye",
+      "Ab qdmiu nmqwam fetye kneqh’ye/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab gize mekeray zkhoneni walta",
+          "Ab betu atye bfts'um bdesta",
+          "Nay kenferey fre ksw b'llta /2/",
+          "Bbe'al 'aserte awtar begena",
+          "Ab qdmi melakt khbo msgana",
+          "Afna zlemeno sle zsem'ana /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kmskrelu’ye n'uu bzgba",
+          "Mebts''ay kfts'm keqrbelu moba",
+          "Nab adebabayu bmsgana mets'/2/",
+          "Keshebshbelu’ye ndmts'ey agulihe",
+          "Ab bete meqdesu leyti tefesihe",
+          "Kemtom abotatey adawey zergihe /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": 374,
+  "title": "በዝማሬ",
+  "ti": {
+    "chorus": [
+      "በዝማሬ ወበመሰንቆ ግነዩ ለእግዚአብሔር",
+      "እስመ ባሕቱ ኣድኃነነ በብዝኃ ምሕረቱ /2/",
+      "አምላክነ ኣምላከ ክብር"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bezmare webemesenqo gneyu legziebher",
+      "Sme bahtu adhanene bebzha mhretu /2/",
+      "Emlakne amlake kbr"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

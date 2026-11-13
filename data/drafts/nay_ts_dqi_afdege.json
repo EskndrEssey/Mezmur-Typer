@@ -1,0 +1,105 @@
+{
+  "id": 501,
+  "title": "ናይ ጽድቂ ኣፍደገ",
+  "ti": {
+    "chorus": [
+      "ናይ ጽድቂ ኣፍደገ ናይ ሙሴ ጽላት",
+      "ኣክሊል ናይ ሰማዕታት መዕረጊት ጸሎት",
+      "ናይ ጐይታና ኣደ ንጽህት ኣኽሊልና",
+      "ሓመልማለ ሲና ማርያም ኣዴና (2)",
+      "ማርያም ኣዴና መመክሒትና",
+      "ማርያም ኣዴና ምርኩስና ኢኺ",
+      "ማርያም ኣዴና ጸዋሪት ሓዊ",
+      "ማርያም ኣዴና እሳት ሓቚፍኪ",
+      "ማርያም ኣዴና ብርሃን ተኸዲንኪ",
+      "ማርያም ኣዴና ወርቂ ለቢስኪ",
+      "ማርያም ኣዴና ካብ ኵለን ኣንስቲ",
+      "ማርያም ኣዴና ኣብ መሪጹኪ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ማርያም ኣዴና ኣብ ኣጸድኪ ኮይኖም",
+          "ማርያም ኣዴና ስምኪ ይጽውዑ",
+          "ማርያም ኣዴና ስምኪ ንወለዶ",
+          "ማርያም ኣዴና የዘንትዉልኪ",
+          "ማርያም ኣዴና ብዘለኪ ጸጋ",
+          "ማርያም ኣዴና በማላድነትኪ",
+          "ማርያም ኣዴና ዝሓረያ ኣምላኽ",
+          "ማርያም ኣዴና ኣዲኡ ክትከውን",
+          "ማርያም ኣዴና ድንግል እመቤት’ያ",
+          "ማርያም ኣዴና ዘርኢ ዘይተዘርአት",
+          "ማርያም ኣዴና ዝሓረያ ኣምላኽ",
+          "ማርያም ኣዴና ኣዲኡ ክትከውን"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ማርያም ኣዴና ናይ ሓቂ ደመና",
+          "ማርያም ኣዴና ማይ ዝተራእያ",
+          "ማርያም ኣዴና ፍትውቲ ድንግል",
+          "ማርያም ኣዴና ዝተሓትመት ገነት",
+          "ማርያም ኣዴና ክብርቲ ዝኾነት",
+          "ማርያም ኣዴና ንዑ ንወድስ",
+          "ማርያም ኣዴና ደስ ይበልኪ ንበል",
+          "ማርያም ኣዴና ኣደ ናይ ብርሃን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay ts'dqi afdege nay muse ts'lat",
+      "Aklil nay sema'tat me'regit ts'elot",
+      "Nay gwaytana ade nts'ht akhlilna",
+      "Hamelmale sina maryam adena (2)",
+      "Maryam adena memekhitna",
+      "Maryam adena mrkusna ikhi",
+      "Maryam adena ts'ewarit hawi",
+      "Maryam adena sat haqwifki",
+      "Maryam adena brhan tekhedinki",
+      "Maryam adena werqi lebiski",
+      "Maryam adena kab kwlen ansti",
+      "Maryam adena ab merits'uki"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Maryam adena ab ats'edki koynom",
+          "Maryam adena smki yts'w'u",
+          "Maryam adena smki nweledo",
+          "Maryam adena yezentwulki",
+          "Maryam adena bzeleki ts'ega",
+          "Maryam adena bemaladnetki",
+          "Maryam adena zhareya amlakh",
+          "Maryam adena adiu ktkewn",
+          "Maryam adena dngl mebet’ya",
+          "Maryam adena zeri zeytezeret",
+          "Maryam adena zhareya amlakh",
+          "Maryam adena adiu ktkewn"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Maryam adena nay haqi demena",
+          "Maryam adena may zteraya",
+          "Maryam adena ftwti dngl",
+          "Maryam adena ztehatmet genet",
+          "Maryam adena kbrti zkhonet",
+          "Maryam adena n'u nweds",
+          "Maryam adena des ybelki nbel",
+          "Maryam adena ade nay brhan"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

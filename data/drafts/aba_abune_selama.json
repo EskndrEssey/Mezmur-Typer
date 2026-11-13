@@ -1,0 +1,115 @@
+{
+  "id": 431,
+  "title": "ኣባ ኣቡነ ሰላማ",
+  "ti": {
+    "chorus": [
+      "ሰባኺ ወንጌል ብርሃን ኢትዮጵያ",
+      "ኣባ ኣቡነ ሰላማ ክቡር ቅዱስ ግብሩ",
+      ">>     >>       ኣነስ ኣምሂሩኒ",
+      ">>     >>      ስበኽ ስበኽ ኢሉ",
+      ">>     >>      ፍቕሩ ቀስቂሱኒ",
+      "ኣባ ኣቡነ ሰላማ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላከ ሰላማ ዘልዓለም ይወደስ",
+          "ብነፍሲ ብስጋይ ፈጺመ ክፍወስ",
+          "ኣባ ኣቡነ ሰላማ ዝኽርኻ ዝዘከረ",
+          ">>     >>      ስምካ ዝጸውዐ",
+          ">>     >>      ገድልኻ እንትንበብ",
+          ">>     >>      ብልቢ ዝሰምዐ",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ምድራዊ ሕይወት ይስዕር ፈተና",
+          "ምስኡ ስለዘሎ ኣምላከሰላማ",
+          "ኣባ ኣቡነ ሰላማ  ይርዕዱ  ኣጋንንቲ",
+          ">>     >>      እንክጽዋዕ ስምካ",
+          ">>     >>       ተኣምር ይፍጸም",
+          ">>     >>      ብሕያው ገድልኻ",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ሰላማ ምስጢሩ ንዝገለጸልካ",
+          "እግዚኣብሔር ይመስገን እንቋዕ ደስ በለካ",
+          "ኣባ ኣቡነ ሰላማ ገዳምካ ዝመጸ",
+          ">>     >>      ብፍጽምት እምነት",
+          ">>     >>      ብኽብሪ ይነብር",
+          ">>     >>      ዘልዓለም ሕይወት",
+          "ኣባ ኣቡነ ሰላማ"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ሓዘን ዝኸበቦ ተስፋ ዝቖረጸ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Sebakhi wengel brhan ityop'ya",
+      "Aba abune selama kbur qdus gbru",
+      ">>     >>       Anes amhiruni",
+      ">>     >>      Sbekh sbekh ilu",
+      ">>     >>      Fqru qesqisuni",
+      "Aba abune selama"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlake selama zel'alem ywedes",
+          "Bnefsi bsgay fets'ime kfwes",
+          "Aba abune selama zkhrkha zzekere",
+          ">>     >>      Smka zts'ew'e",
+          ">>     >>      Gedlkha ntnbeb",
+          ">>     >>      Blbi zsem'e",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab mdrawi hywet ys'r fetena",
+          "Msu slezelo amlakeselama",
+          "Aba abune selama  yr'du  agannti",
+          ">>     >>      Nkts'wa' smka",
+          ">>     >>       Teamr yfts'em",
+          ">>     >>      Bhyaw gedlkha",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Selama mst'iru nzgelets'elka",
+          "Gziabher ymesgen nqwa' des beleka",
+          "Aba abune selama gedamka zmets'e",
+          ">>     >>      Bfts'mt mnet",
+          ">>     >>      Bkhbri ynebr",
+          ">>     >>      Zel'alem hywet",
+          "Aba abune selama"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Hazen zkhebebo tesfa zqorets'e"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

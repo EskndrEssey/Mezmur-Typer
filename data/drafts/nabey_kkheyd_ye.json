@@ -1,0 +1,77 @@
+{
+  "id": 100,
+  "title": "ናበይ ክኸይድ’የ",
+  "ti": {
+    "chorus": [
+      "ናበይ ክኸይድ’የ ናበይ /2/",
+      "ኣምላኸይ ካባኻ`ስ ህድማ ናበይ",
+      "ከም ንስሪ’ውን ላዕሊ ተነፈርኩ",
+      "ኣብኡ ኣለኻ ዋላ ተጎየኹ",
+      "ተኾብለልኩ ተሃደምኩ'ኳ ካብ ቅድሜኻ",
+      "መዓስ ተፍልዩኒ’ቲ  ዓቢይ ምሕረትካ",
+      "ኣውጺካኒ ብርህራሄኻ ካብ ዓዘቕቲ",
+      "ሰላመይ’ኻ እረዊ ፍቕርኻ ክሰቲ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ወሰን ደረት የብሉን ጐይታ ንዶባትካ",
+          "መርገጺት’ያ እዚኣ ምድሪ ንእግርኻ",
+          "ማንም ሃዲሙ ኣይክእልን ከምልጠካ",
+          "ነዛ ዓለም ዝሓዝካ እንዲኻ ዝጨበጥካ",
+          "ኣፍቂርካኒ ብፍጹም ፍቕሪ ንዘልዓለም",
+          "ብዘይካኻ በረኸት ሰላም ከቶ የለን",
+          "ኣዕሪፉሎ ወድኻ ሎሚ ኣብ ጽላልካ",
+          "ይኣኽለኒ ዝነበርክዎ ብዘይ በኣኻ",
+          "ፍጹም ጸላም ንዓኻ ግና ኣይጽልምትን",
+          "ነዛ ነፍሰይ ትከናኸናን ትሕልዋን",
+          "ክንደይ ጊዜ ምሒርካኒ ኢኻ ብይቕሬታ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክበረለይ መድኃኒት ኢኻ ናተይ ጐይታ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nabey kkheyd’ye nabey /2/",
+      "Amlakhey kabakha`s hdma nabey",
+      "Kem nsri’wn la'li teneferku",
+      "Abu alekha wala tegoyekhu",
+      "Tekhoblelku tehademku'kwa kab qdmekha",
+      "Me'as teflyuni’ti  'abiy mhretka",
+      "Awts'ikani brhrahekha kab 'azeqti",
+      "Selamey’kha rewi fqrkha kseti"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Wesen deret yeblun gwayta ndobatka",
+          "Mergets'it’ya zia mdri ngrkha",
+          "Manm hadimu aykln kemlt'eka",
+          "Neza 'alem zhazka ndikha zch'ebet'ka",
+          "Afqirkani bfts'um fqri nzel'alem",
+          "Bzeykakha berekhet selam keto yelen",
+          "A'rifulo wedkha lomi ab ts'lalka",
+          "Yakhleni zneberkwo bzey beakha",
+          "Fts'um ts'elam n'akha gna ayts'lmtn",
+          "Neza nefsey tkenakhenan thlwan",
+          "Kndey gize mhirkani ikha byqreta"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kbereley medhanit ikha natey gwayta"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

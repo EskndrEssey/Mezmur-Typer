@@ -1,0 +1,63 @@
+{
+  "id": 841,
+  "title": "ጐይታየይ",
+  "ti": {
+    "chorus": [
+      "መድኃኒት ዓለም ሲሳይ ዓለም ሰቐሉኻየ /2/",
+      "ንጹህ ክርስቶስ ኮንካ በደለኛ ኢልካ ነዓና",
+      "ናይ ኣዳም በደል ገበረ ንዓኻ ንኽትቅተል",
+      "ናይ ሔዋን ስሕተት ኣብቅዓካ ንሞት ጐይታ ጎይቶት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጹህ ክርስቶስ ኮንካ በደለኛ ነዓና ኢልካ",
+          "መስቀል ኣሰኪሞም ብምእሳር ገረፉ ንኣካላትካ /2/",
+          "ግቡዛት ኣይሁድ ንዓኻ ብምግፋዕ ኣሳቐዩኻ",
+          "ጥፍጣፎም ብምትፋእ እናባጨዉ ኣላገጹልካ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጸጋዊ ማያት ማይ ጸማእኩ እንክትብል",
+          "ንኽትሰትዮ ሃቡኻ ሓዊሶም ሓሞትን ከርበን    /2/",
+          "መሓሪ ኢኻ’ሞ ንዅሉ ኃጢኣትና ከይረኣኻ",
+          "ይቕረበል ባዕልኻ በቲ ክፍኣትና ከይተቐየምካ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Medhanit 'alem sisay 'alem seqelukhaye /2/",
+      "Nts'uh krstos konka bedelenya ilka ne'ana",
+      "Nay adam bedel gebere n'akha nkhtqtel",
+      "Nay hewan shtet abq'aka nmot gwayta goytot"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nts'uh krstos konka bedelenya ne'ana ilka",
+          "Mesqel asekimom bmsar gerefu nakalatka /2/",
+          "Gbuzat ayhud n'akha bmgfa' asaqeyukha",
+          "T'ft'afom bmtfa nabach'ewu alagets'ulka /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ts'egawi mayat may ts'emaku nktbl",
+          "Nkhtsetyo habukha hawisom hamotn kerben    /2/",
+          "Mehari ikha’mo nkhwlu hat'iatna keyreakha",
+          "Yqrebel ba'lkha beti kfatna keyteqeyemka /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

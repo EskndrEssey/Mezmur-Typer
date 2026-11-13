@@ -1,0 +1,69 @@
+{
+  "id": 385,
+  "title": "ከም ወርሒ ድምቕቲ",
+  "ti": {
+    "chorus": [
+      "ከም ወርሒ ድምቕቲ ከም ጸሓይ ብርህቲ",
+      "እነግረኪ ናይ ልበይ ድንግለይ ርህርህቲ",
+      "ካብ ቴክታን በጥሪቃን ሻውዓይ ወለዶ",
+      "ካብ ብሩኻት ዘርኢ ድንግል መጺእኪ'ዶ",
+      "ደጊም ሰላም'ዩ እንሕጐሰሉ",
+      "ዘመኑ ምሕረት'ዩ ዕልል ዕልል በሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ቃና ገሊላ ቅዱስ ልማኖኺ",
+          "ቅልጡፍ መልሲ ሒዙ መጺኡ ካብ ወድኺ",
+          "ዝሰኣነ የለን ለሚኑ ንዓኺ",
+          "ኣብ የማንኪ ይነብር ዝተማሕጸነኪ",
+          "ኩርዓት ሓበን ኢኺ ንክርስቲያን ወገን",
+          "እምባ ጽዮን ኢኺ ንዓና ንኣምን",
+          "ብተስፋ ንነብር ዘሎና ኣብ ጽላልኪ",
+          "ዘይበርስ ኪዳን'ዩ ኣምላኽ ዓዲሉኪ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተኽሊ ናይ ሊባኖስ ጥዑም ሽታ ናርዶስ",
+          "ጸጋኺ ብዚኁ ንዓና ክቕድስ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kem werhi dmqti kem ts'ehay brhti",
+      "Negreki nay lbey dngley rhrhti",
+      "Kab tektan bet'riqan shaw'ay weledo",
+      "Kab brukhat zeri dngl mets'iki'do",
+      "Degim selam'yu nhgwaselu",
+      "Zemenu mhret'yu 'll 'll belu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay qana gelila qdus lmanokhi",
+          "Qlt'uf melsi hizu mets'iu kab wedkhi",
+          "Zseane yelen leminu n'akhi",
+          "Ab yemanki ynebr ztemahts'eneki",
+          "Kur'at haben ikhi nkrstiyan wegen",
+          "Mba ts'yon ikhi n'ana namn",
+          "Btesfa nnebr zelona ab ts'lalki",
+          "Zeybers kidan'yu amlakh 'adiluki"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tekhli nay libanos t''um shta nardos",
+          "Ts'egakhi bzihu n'ana kqds"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": 451,
+  "title": "እንተዘይረዲእካኒ",
+  "ti": {
+    "chorus": [
+      "ተዘይረዲእካኒ ንበይነይ’የ",
+      "ኣማኑኤል ጐይታይ/2/",
+      "እልምነካ ኣለኹ",
+      "ኣይትርአ ድኽመተይ",
+      "ጐይታይ ኵሉ ጊዜ ናባኻ የእዊ ኣነ",
+      "ብሰንኪ ሓጢኣተይ ዕረፍቲ ስኢነ",
+      "ኣቦታት ለሚኖም መዓስ ኣሕፊርካዮም",
+      "ስለዝኣምኑኻ ካብ ሞት ኣድኂንካዮም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "የሽካዕልሉ’ለዉ ኩሎም ዝርኣዩኒ",
+          "ዘድሕነካ ኣምላኽ ኣበይ ኣሎ ይብሉኒ",
+          "ንኡስ’የ እፈልጥ ሓሰኻ ናይ ምድሪ",
+          "ብብርቱዕ ቅልጽምካ ጐይታይ ኣድሕነኒ",
+          "ኣማኑኤል ኣምላኸይ ጸሎተይ ስምዓኒ",
+          "ኣውያተይ’ውን ጽንበል ቀልጢፍካ ርድኣኒ",
+          "ንዝተጸግዑኻ መጸጊዖም ኢኻ",
+          "ነቶም ሽጉራት’ውን ትበጽሖም ባዕልኻ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ጊዜ ጸገመይ ረዳኢየይ ኢኻ",
+          "ተርክበለይ ኢኻ ጸሎተይ ሰሚዕካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Tezeyredikani nbeyney’ye",
+      "Amanuel gwaytay/2/",
+      "Lmneka alekhu",
+      "Aytre dkhmetey",
+      "Gwaytay kwlu gize nabakha yewi ane",
+      "Bsenki hat'iatey 'refti sine",
+      "Abotat leminom me'as ahfirkayom",
+      "Slezamnukha kab mot adhinkayom"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Yeshka'llu’lewu kulom zrayuni",
+          "Zedhneka amlakh abey alo ybluni",
+          "Nus’ye felt' hasekha nay mdri",
+          "Bbrtu' qlts'mka gwaytay adhneni",
+          "Amanuel amlakhey ts'elotey sm'ani",
+          "Awyatey’wn ts'nbel qelt'ifka rdani",
+          "Nztets'eg'ukha mets'egi'om ikha",
+          "Netom shgurat’wn tbets'hom ba'lkha"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab gize ts'egemey redaiyey ikha",
+          "Terkbeley ikha ts'elotey semi'ka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

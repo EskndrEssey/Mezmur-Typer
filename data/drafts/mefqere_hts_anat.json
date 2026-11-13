@@ -1,0 +1,69 @@
+{
+  "id": 207,
+  "title": "መፍቀሬ ህጻናት",
+  "ti": {
+    "chorus": [
+      "ከምቲ እሙን ቃልካ ንዑ’ባ በለና",
+      "ክንስጉም ናባኻ ኢድካ ትሕቆፈና",
+      "መፍቀሬ ህጻናት ኢየሱስ ክርስቶስ",
+      "ቍልዕነትና ባርኽ ክንዓቢ ብመንፈስ",
+      "ከምቲ ብሩህ ሰማይ ደመና ዘይደየቦ",
+      "ከምቲ ንጹሕ ሓሪ ቀለም ዘይዓለቦ",
+      "ጻዕዳ እዩ ኣእምሮይ ነውሪ ዘይለገቦ",
+      "ልምሉማት ኣእዳወይ ኣልምደን ሸብሸባ",
+      "ሻቡ ብምስጋና ዕብየትካ ክትምስክር",
+      "ኣይክትደክምን’ያ ብስምካ ክትዝምር",
+      "ልበይ ብድንግሉ ንኽፍኣት እዛ ዓለም",
+      "ይቀደስ ሕደጎ ብቓልካ ይሰለም",
+      "ቃልካ እንድዩ ስንቀይ ኣምላኻዊ ቀለም",
+      "እንታይ ሰናይ ኣሎ ንስኻ ዘይብሉ",
+      "ምሳኻ ይሕሸኒ ሕይወት ዝረኽበሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትርጉም ምፍጣር ኣዳም ምስጋና እንተኾይኑ",
+          "ቁመት እንተወሰኽኩ ነፍሰይ ብድውኑ",
+          "እንታይ ክዓብሰለይ ዕብየት ሥጋ በይኑ",
+          "ሕቖፈኒ ጐይታይ ብማሙቕ ፍቕርኻ",
+          "ምስ ጸጋን ጥበብን ክዓቢ ኣብ ቤትካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kemti mun qalka n'u’ba belena",
+      "Knsgum nabakha idka thqofena",
+      "Mefqere hts'anat iyesus krstos",
+      "Qwl'netna barkh kn'abi bmenfes",
+      "Kemti bruh semay demena zeydeyebo",
+      "Kemti nts'uh hari qelem zey'alebo",
+      "Ts'a'da yu amroy newri zeylegebo",
+      "Lmlumat adawey almden shebsheba",
+      "Shabu bmsgana 'byetka ktmskr",
+      "Ayktdekmn’ya bsmka ktzmr",
+      "Lbey bdnglu nkhfat za 'alem",
+      "Yqedes hdego bqalka yselem",
+      "Qalka ndyu snqey amlakhawi qelem",
+      "Ntay senay alo nskha zeyblu",
+      "Msakha yhsheni hywet zrekhbelu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Trgum mft'ar adam msgana ntekhoynu",
+          "Qumet ntewesekhku nefsey bdwnu",
+          "Ntay k'abseley 'byet Ssga beynu",
+          "Hqofeni gwaytay bmamuq fqrkha",
+          "Ms ts'egan t'bebn k'abi ab betka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

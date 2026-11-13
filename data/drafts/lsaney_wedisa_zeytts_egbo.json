@@ -1,0 +1,61 @@
+{
+  "id": 185,
+  "title": "ልሳነይ ወዲሳ ዘይትጸግቦ",
+  "ti": {
+    "chorus": [
+      "ልሳነይ ወዲሳ ዘይትጸግቦ ስምኪ ድንግል ማርያም",
+      "ብላዛ ዜማ ሰዓታት ውዳሴ ቅዱስ ኤፍሬም",
+      "ብማኅሌት ያሬድ ቅኔ ከመስግን ዘለዓለም",
+      "በደ ልዑል ጐይታይ ክዝምር’የ ኣየዕርፍን ፍጹም",
+      "የልቦን ዚመስለኪ ኣብ ትሕቲ ፈጣሪ",
+      "ድንግል ናይ ደናግል ክብል ገብርኤል መስካሪ(2)",
+      "ድርሰቶም ደጊመ ንስምኪ ክውድስ",
+      "ቅብዐ በረኸትኪ ኣብ ልሳነይ ይፍሰስ(2)።",
+      "ቅኒት ለዘብ  ሰማይ ኣብ ምድሪ ክዕለል",
+      "ቅዱስ ያሬድ ተንሲኡ ብመንፈስ ኪዘልል(2)",
+      "ልበይ ረስሪሱ ኣዕጽምተይ ክጠልል",
+      "ጸጋኡ ኣሕድርለይ ምስጋናይ ክፍልፍል(2)።"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጥበብ እግዚአብሔር ምድኃን ናይ መድኅነይ",
+          "ምስጢር ፍቕሩ ንኽርኢ ካብ ኣንቍሐ ዓይነይ(2)",
+          "ዓስቢ ሓጐስ ውሽጠይ ስለ እመ ብርሃነይ",
+          "ፍጹም ስፍሪ የብሉን ውሬታ ሓበነይ(2)።"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Lsaney wedisa zeytts'egbo smki dngl maryam",
+      "Blaza zema se'atat wdase qdus efrem",
+      "Bmahlet yared qne kemesgn zele'alem",
+      "Bede l'ul gwaytay kzmr’ye aye'rfn fts'um",
+      "Yelbon zimesleki ab thti fet'ari",
+      "Dngl nay denagl kbl gebrel meskari(2)",
+      "Drsetom degime nsmki kwds",
+      "Qb'e berekhetki ab lsaney yfses(2).",
+      "Qnit lezeb  semay ab mdri k'lel",
+      "Qdus yared tensiu bmenfes kizell(2)",
+      "Lbey resrisu a'ts'mtey kt'ell",
+      "Ts'egau ahdrley msganay kflfl(2)."
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "T'beb gziebher mdhan nay medhney",
+          "Mst'ir fqru nkhri kab anqwhe 'ayney(2)",
+          "'Asbi hagwas wsht'ey sle me brhaney",
+          "Fts'um sfri yeblun wreta habeney(2)."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

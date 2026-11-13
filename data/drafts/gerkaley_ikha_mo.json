@@ -1,0 +1,61 @@
+{
+  "id": 450,
+  "title": "ጌርካለይ ኢኻ’ሞ",
+  "ti": {
+    "chorus": [
+      "ጌርካለይ ኢኻ’ሞ ነዓይ ብምሕረትካ",
+      "የመስግነካ’ለኹ ዕልል ዕልል",
+      "ለዓለመ ዓለም ኣማኑኤል",
+      "ክግዝኣካየ መድኃኔ ዓለም",
+      "ቀትሪ ጸልሚቱኒ ጸድፊ ከቢቡኒ",
+      "ሽግርን መከራን ንዓይ ከቢዱኒ",
+      "ከምዘይትገድፈኒ ሎሚ ፈሊጠ’የ",
+      "ካብ ኵሉ ንላዕሊ ብኣኻ ኣሚነ’የ",
+      "ንውሑድ ኣብዚሕካ እትምግብ ጐይታ",
+      "እንታይ`ሞ ኣሎኒ ንዓኻ ዝህበካ",
+      "ለይቲ ምስ መዓልቲ ኵሉ ሳዕ ተብርህ",
+      "መንክር ብባህሪኻ ብስራሕካ ዕጹብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኦ ኣምላኽ ምስጋና ይግባእ ንዓኻ",
+          "ነዛ ምስኪን ገዛ በረኸት ዝሃብካ",
+          "ድኻ’የ ኣይብልን ሽሻየይ ንስኻ",
+          "ዕትሮይ መሊእካዮ ኣይተጉድሎን ኢኻ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gerkaley ikha’mo ne'ay bmhretka",
+      "Yemesgneka’lekhu 'll 'll",
+      "Le'aleme 'alem amanuel",
+      "Kgzakaye medhane 'alem",
+      "Qetri ts'elmituni ts'edfi kebibuni",
+      "Shgrn mekeran n'ay kebiduni",
+      "Kemzeytgedfeni lomi felit'e’ye",
+      "Kab kwlu nla'li bakha amine’ye",
+      "Nwhud abzihka tmgb gwayta",
+      "Ntay`mo aloni n'akha zhbeka",
+      "Leyti ms me'alti kwlu sa' tebrh",
+      "Menkr bbahrikha bsrahka 'ts'ub"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "O amlakh msgana ygba n'akha",
+          "Neza mskin geza berekhet zhabka",
+          "Dkha’ye aybln shshayey nskha",
+          "'Troy melikayo aytegudlon ikha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

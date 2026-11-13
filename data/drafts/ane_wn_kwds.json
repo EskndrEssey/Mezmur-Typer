@@ -1,0 +1,60 @@
+{
+  "id": 381,
+  "title": "ኣነ’ውን ክውድስ",
+  "ti": {
+    "chorus": [
+      "ኣነ’ውን ክውድስ ብምስጋና",
+      "ንድንግል ማርያም ብምስጋና",
+      "ምስጋና ኣሎኒ ጌና /2/ ንድንግል ምስጋና",
+      "ምልአተ ጸጋ ጸዋሪት መለኮት",
+      "ወላዲት ኣምላኽ መልዕልተ መላእክት",
+      "ኣምላኽ እዩ’ኮ ተገሊጹ መሲሕ",
+      "ልዕሊ ኣአምሮ ኮይኑ ድንቂ ስራሕ",
+      "ዘደንቕ ስራሕ ዘደንቕ ኣምላኽና ሰብ ኮነ",
+      "ዘደንቕ ስራሕ ዘይውሰን ፍጹም ተወሰነ",
+      "ኣነስ ክምሰጥ ሕሊናይ ሰቒለ",
+      "ንምስጋናኺ ፍጹም ተላዒለ",
+      "ምስጋና ኣሎኒ ፈልፋሊ ከም ዓይኒ ማይ",
+      "ምስጋና ኣሎኒ ፍቕርኺ ዘሕደረለይ",
+      "ምስጋና ኣሎኒ ኣብ እዝኒ ኣሕዛብ ዝበጽሕ",
+      "ምስጋና ኣሎኒ በረኸተይ ዘብዝኅ /2/",
+      "ካበይ ኮነለይ ዜናኺ ክነግር",
+      "ቅድስናኺ ብኣፈይ ክምስክር",
+      "ግንከ ኣይክእሎን በየናይ ልሳነይ",
+      "ንውዳሴኺ ይሓጽረኒ ቃለይ",
+      "ኣንሰ ጽሒፈ ለውዳሴኪ እምኢኃልቀ",
+      "ሶበ ኮነ ጥቀ ዝናመ ክረምት ቀለመ ወሰማይ ረቀ /2/"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ane’wn kwds bmsgana",
+      "Ndngl maryam bmsgana",
+      "Msgana aloni gena /2/ ndngl msgana",
+      "Mlete ts'ega ts'ewarit melekot",
+      "Weladit amlakh mel'lte melakt",
+      "Amlakh yu’ko tegelits'u mesih",
+      "L'li aemro koynu dnqi srah",
+      "Zedenq srah zedenq amlakhna seb kone",
+      "Zedenq srah zeywsen fts'um tewesene",
+      "Anes kmset' hlinay seqile",
+      "Nmsganakhi fts'um tela'ile",
+      "Msgana aloni felfali kem 'ayni may",
+      "Msgana aloni fqrkhi zehdereley",
+      "Msgana aloni ab zni ahzab zbets'h",
+      "Msgana aloni berekhetey zebzh /2/",
+      "Kabey koneley zenakhi knegr",
+      "Qdsnakhi bafey kmskr",
+      "Gnke ayklon beyenay lsaney",
+      "Nwdasekhi yhats'reni qaley",
+      "Anse ts'hife lewdaseki mihalqe",
+      "Sobe kone t'qe zname kremt qeleme wesemay reqe /2/"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

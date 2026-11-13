@@ -1,0 +1,113 @@
+{
+  "id": 520,
+  "title": "ተምሳል ገነት ኢኺ",
+  "ti": {
+    "chorus": [
+      "ናይ ሃይማኖት ጽድቂ ቦታ ቕድስና",
+      "ኣርያማዊት ኢኺ ዝዘንመልኪ መና",
+      "ደብረ ሲና ምንጪ ክርስትና/2/",
+      "ደው ዝበለት ተምሳል ገነት ኢኺ",
+      "ኣብ እዋን መቕደስ ገዳም ደብረ ሲና",
+      "ኣምላኽ ዝሃነጻ ተምሳል ገነት ኢኺ",
+      "ማዕጾኣ መስኮታ ገዳም ደብረ ሲና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ጊዜ ስደቶም ድንግል ምስ ወዳ",
+          "መጺእኩም ርኣዩ ዘጽለሉላ  ስፍራ",
+          "ብድሕሪኡ ውን ተምሳል ገነት ኢኺ",
+          "ዘይተፈልያ ጸጋ ገዳም ደብረ ሲና",
+          "ምስ ቅዱሳን’ውን ተምሳል ገነት ኢኺ",
+          "ዝተገልጸላ ጐይታ ገዳም ደብረ ሲና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰማዕት እስጢፋኖስ ዝቐደሰላ",
+          "ተስዓቱ ቅዱሳን ድንግል ዝበሉላ",
+          "ብቓል ኣይንገርን ተምሳል ገነት ኢኺ",
+          "ንዅሉ ምስጢሩ ገዳም ደብረ ሲና",
+          "ኣይውዳእን’ዩ ተምሳል ገነት ኢኺ",
+          "ዘርዚርካ ታሪኻ ገዳም ደብረ ሲና"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ርኢኹም እመኑ ደይቡ ደብረ ሲና",
+          "በረኸት ክትረኽቡ ሰሚዕኩም ዜናኣ",
+          "ኣነስ ክኸይድየ ተምሳል ገነት ኢኺ",
+          "ናብዛ ቅድስት እምባ ገዳም ደብረ ሲና",
+          "ክዝምር ንድንግል ተምሳል ገነት ኢኺ",
+          "ክረክብ በረኸት ገዳም ደብረ ሲና"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "በዓልቲ ወለንሳ ሓዳጊት ኣበሳ",
+          "ድንግል ማርያም’ያ ናይ ኩልና ተስፋ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay haymanot ts'dqi bota qdsna",
+      "Aryamawit ikhi zzenmelki mena",
+      "Debre sina mnch'i krstna/2/",
+      "Dew zbelet temsal genet ikhi",
+      "Ab wan meqdes gedam debre sina",
+      "Amlakh zhanets'a temsal genet ikhi",
+      "Ma'ts'oa meskota gedam debre sina"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab gize sdetom dngl ms weda",
+          "Mets'ikum rayu zets'lelula  sfra",
+          "Bdhriu wn temsal genet ikhi",
+          "Zeytefelya ts'ega gedam debre sina",
+          "Ms qdusan’wn temsal genet ikhi",
+          "Ztegelts'ela gwayta gedam debre sina"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Sema't st'ifanos zqedesela",
+          "Tes'atu qdusan dngl zbelula",
+          "Bqal ayngern temsal genet ikhi",
+          "Nkhwlu mst'iru gedam debre sina",
+          "Aywdan’yu temsal genet ikhi",
+          "Zerzirka tarikha gedam debre sina"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Rikhum menu deybu debre sina",
+          "Berekhet ktrekhbu semi'kum zenaa",
+          "Anes kkheydye temsal genet ikhi",
+          "Nabza qdst mba gedam debre sina",
+          "Kzmr ndngl temsal genet ikhi",
+          "Krekb berekhet gedam debre sina"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Be'alti welensa hadagit abesa",
+          "Dngl maryam’ya nay kulna tesfa/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

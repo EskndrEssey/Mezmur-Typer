@@ -1,0 +1,61 @@
+{
+  "id": 488,
+  "title": "ሕዝቅኤል ዝበላ",
+  "ti": {
+    "chorus": [
+      "ሕዝቅኤል ዝበላ ዕጽውቲ ገዛ",
+      "ኣትዩ ዝወጸላ ጐይታ ብዕጽውታ",
+      "ናይ ኣምላኽ ማሕደር`ያ",
+      "ማንም ዘይኣትዋ ንጽህቲ ኣዴና",
+      "ናይ ድኅነት ምልክት ንጽህቲ ኣዴና",
+      "ካብ ኣምላኽ ብሓጢኣት ርሒቕና ነበርና",
+      "ናይ ዓለም መድኃኒት ኣባኺ ሓዲሩ",
+      "ክውለድ’ዩ ኢልዋ",
+      "ካብ ኣንስቲ ኩለን ዝተፈተኺ",
+      "ናይ እሳት መለኮት መሕደሪ ዝኾንኪ",
+      "ድንግል ብሕሊና ድንግል ብስጋኺ",
+      "መን ኣሎ ከማኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብመንን እንታይን ክንምስለኪ",
+          "ዕጹብ ድንቂ እዩ ድንግል’ቲ ስራሕኪ",
+          "ኣባ ህርያቆስ ከም ዘመስገነኪ",
+          "ድንግል ክብርቲ ኢኺ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hzqel zbela 'ts'wti geza",
+      "Atyu zwets'ela gwayta b'ts'wta",
+      "Nay amlakh mahder`ya",
+      "Manm zeyatwa nts'hti adena",
+      "Nay dhnet mlkt nts'hti adena",
+      "Kab amlakh bhat'iat rhiqna neberna",
+      "Nay 'alem medhanit abakhi hadiru",
+      "Kwled’yu ilwa",
+      "Kab ansti kulen ztefetekhi",
+      "Nay sat melekot mehderi zkhonki",
+      "Dngl bhlina dngl bsgakhi",
+      "Men alo kemakhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bmenn ntayn knmsleki",
+          "'Ts'ub dnqi yu dngl’ti srahki",
+          "Aba hryaqos kem zemesgeneki",
+          "Dngl kbrti ikhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

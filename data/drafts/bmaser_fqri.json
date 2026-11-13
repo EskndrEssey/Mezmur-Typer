@@ -1,0 +1,75 @@
+{
+  "id": 441,
+  "title": "ብማእሰር ፍቕሪ",
+  "ti": {
+    "chorus": [
+      "ብማእሰር ፍቕሪ ተጠሚርኩም",
+      "ሰላም ሰማያት ተኻፊልኩም /2/",
+      "ንዘልዓለም ብስኒት የንብርኩም",
+      "ንዘልዓለም ኣብሪሁ ሓዳርኩም",
+      "ዮሃና /2/ ርሑስ ጋማ በሉ",
+      "ስድራቤት ብዓውታ ንጐይታ ዘምሩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ድምጺ ፈታዊኺ መዝገብ ብዙሕ ደስታ",
+          "ከም ደሃይ መሰንቆ ማራኺ ትርግታ",
+          "መርዓዊ ፍሥሐ ኣምሳል ልዑል ጐይታ",
+          "ተቓንዩ ብቃሉ ናይ ፍቕሪ እምብልታ",
+          "ብርሃን ወዲ ኣምላኽ ንጸላም ስዒሩ",
+          "ጽኑዕ ሓለዋኡ ይግለጸልኩም ባዕሉ",
+          "ስግኣት የለን ፍርሒ ኢዱ ተተርኢስካ",
+          "ንሽግር ትጥሕሶ ስሙ ተኣሚንካ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ ምስጋና መዝሙር ልብና ጎሲዑ",
+          "ብተኽሊል ኣሕዋትና ሓጎስ ተመሊኡ",
+          "ኣምላኽና ይሃብኩም ሓይሉ መመሊሱ",
+          "ተጓዓዙ ብተስፋ መንግስቱ ክትወርሱ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bmaser fqri tet'emirkum",
+      "Selam semayat tekhafilkum /2/",
+      "Nzel'alem bsnit yenbrkum",
+      "Nzel'alem abrihu hadarkum",
+      "Yohana /2/ rhus gama belu",
+      "Sdrabet b'awta ngwayta zemru"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dmts'i fetawikhi mezgeb bzuh desta",
+          "Kem dehay mesenqo marakhi trgta",
+          "Mer'awi fsshe amsal l'ul gwayta",
+          "Teqanyu bqalu nay fqri mblta",
+          "Brhan wedi amlakh nts'elam s'iru",
+          "Ts'nu' halewau yglets'elkum ba'lu",
+          "Sgat yelen frhi idu teteriska",
+          "Nshgr tt'hso smu teaminka"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay msgana mezmur lbna gosi'u",
+          "Btekhlil ahwatna hagos temeliu",
+          "Amlakhna yhabkum haylu memelisu",
+          "Tegwa'azu btesfa mengstu ktwersu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

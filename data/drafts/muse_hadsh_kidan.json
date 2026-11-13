@@ -1,0 +1,97 @@
+{
+  "id": 189,
+  "title": "ሙሴ ሓድሽ ኪዳን",
+  "ti": {
+    "chorus": [
+      "ዳግማዊ ነቢይ ሙሴ ከም ኣብ ከረን ሲና እግሩ ዝደየባ",
+      "ጻድቕ ሰይፈ ሚካኤል ካህን ገዳም ጻዕዳ እምባ",
+      "ሰርቢ ደመና ጸሎትካ ሃንቀውታ ጽምኣት ልብና",
+      "ጽላት  ማልዶትካ ናፊቓ ሃረር ትብል ኣላ ነፍስና",
+      "ኣባ ኣባ.. ቅድስት ሥላሴ ገጽና ተመልኪቶም",
+      "ልግሶም ከይበቐቑ ሓድጊ ሠናያቶም",
+      "ኣባ ኣባ..ካብ ቅድስቲ ስድራ ቅዱስ ፍረ ክህቡ",
+      "ብሓድሽ ሐዋርያ ናባና ቀረቡ",
+      "ብጠሊ ኪዳንካ  ጽምእና ኪጠልል",
+      "ማይ ጸሎትካ ንጸገልና ድኻምና ክሕይል",
+      "ኣባ ኣባ..መንብሮ’ዛ ዓለም ዘይበቕዓካ ኮይኑ",
+      "ንልቡ ክትረክብ ልብኻ መኒኑ",
+      "ኣባ ኣባ..ሻቡ ኣብቲ በዓቲ ኣብ ዱርን ቅራርን",
+      "ፊት ንፊት ምቛምካ",
+      "ኣባ ምስቲ ፈቃር መድኅን",
+      "ናይ ትማል ዘኪርካ  ጸሎት ስለ ነፍሳት",
+      "ደቀየ በለና ኣባ ክንስወር ካብ መዓት",
+      "ኣባ ኣባ..እኒ ደብረ ሳላ እኒ ወገሪቆ",
+      "ዛንታስ ኔርወን’ዩ መን’ሞ ጸብጸቦ",
+      "ኣባ ኣባ..መን ዘይተደነቐ ብጸናፌ ጽልመት",
+      "ተምሳል ፍኖት ጽድቒ’ንድያ ኣፍደገ ናይ ድኅነት",
+      "ኣባ ኣባ..ኲኖ ትርኢት ዓይኒ ልቢ ዝጥምቶ",
+      "ተምሳል ገነት ሰማይ’ንድያ ብጸቢብ ትእቶ",
+      "ስግር ግምጃ ወርቂ  ኪደትና ናብ ላዕሊ",
+      "ኣቕንዕ መኣዝና ኣባ ንጉዕዞና ‘ሳሊ",
+      "ኣባ ኣባ..ሙሴ ሓድሽ ኪዳን መስቀልካ እንክትዝርግሕ",
+      "ባሕሪ ኣይጃጅወን’ድዩ ቅድሜኻ ከይጸንሕ",
+      "ኣባ ኣባ..ብሓይሊ ኣምላኽካ ተከዘ ክትጨድድ",
+      "ንኣዳም ገረሞ ኮይኑ ብሑጻ ክትከይድ",
+      "ሠራዊት ድሕሬና ባሕሪ ኃጢአት ቅድሚት",
+      "ከቶ ከየኳለሙና ብመስቀልካ ገስጽ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "“ዓለም ንኣኣቶም ዘይትበቅዕ ስለዝኾነት፥",
+          "ኣብ ምድረበዳን ኣብ እምባታትን ኣብ",
+          "በዓትታትን ኣብ ጐዳጉድ ምድርን ኰለል በሉ።” (ዕብ. 11፡08)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dagmawi nebiy muse kem ab keren sina gru zdeyeba",
+      "Ts'adq seyfe mikael kahn gedam ts'a'da mba",
+      "Serbi demena ts'elotka hanqewta ts'mat lbna",
+      "Ts'lat  maldotka nafiqa harer tbl ala nefsna",
+      "Aba aba.. qdst Sslase gets'na temelkitom",
+      "Lgsom keybeqequ hadgi Ssenayatom",
+      "Aba aba..kab qdsti sdra qdus fre khbu",
+      "Bhadsh hewarya nabana qerebu",
+      "Bt'eli kidanka  ts'mna kit'ell",
+      "May ts'elotka nts'egelna dkhamna khyl",
+      "Aba aba..menbro’za 'alem zeybeq'aka koynu",
+      "Nlbu ktrekb lbkha meninu",
+      "Aba aba..shabu abti be'ati ab durn qrarn",
+      "Fit nfit mqwamka",
+      "Aba msti feqar medhn",
+      "Nay tmal zekirka  ts'elot sle nefsat",
+      "Deqeye belena aba knswer kab me'at",
+      "Aba aba..ni debre sala ni wegeriqo",
+      "Zantas nerwen’yu men’mo ts'ebts'ebo",
+      "Aba aba..men zeytedeneqe bts'enafe ts'lmet",
+      "Temsal fnot ts'dqi’ndya afdege nay dhnet",
+      "Aba aba..kwino trit 'ayni lbi zt'mto",
+      "Temsal genet semay’ndya bts'ebib tto",
+      "Sgr gmja werqi  kidetna nab la'li",
+      "Aqn' meazna aba ngu'zona ‘sali",
+      "Aba aba..muse hadsh kidan mesqelka nktzrgh",
+      "Bahri ayjajwen’dyu qdmekha keyts'enh",
+      "Aba aba..bhayli amlakhka tekeze ktch'edd",
+      "Nadam geremo koynu bhuts'a ktkeyd",
+      "Sserawit dhrena bahri hat'iet qdmit",
+      "Keto keyekwalemuna bmesqelka gests'"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "“'Alem naatom zeytbeq' slezkhonet:",
+          "Ab mdrebedan ab mbatatn ab",
+          "Be'attatn ab gwadagud mdrn kwalel belu.” ('b. 11፡08)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

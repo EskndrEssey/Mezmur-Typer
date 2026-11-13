@@ -1,0 +1,77 @@
+{
+  "id": 351,
+  "title": "ተመስገን ከመስግነካ’የ",
+  "ti": {
+    "chorus": [
+      "ተመስገን ከመስግነካ’የ",
+      "ንሳህሊ ምሕረትካ ንፍቕርኻ ርእየ",
+      "ተመስገን ስዓበኒ ኢልካኒ",
+      "ብቅኑዕ ጎደና መሪሕካኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ፈሊኻ ጸዊዕካኒ ንስምካ ከልዕል ንሰንደቕ ዕላማይ",
+          "ኣሰሊፍካኒ እሙን ክኸውን ዝተግህ ዓቐይታይ",
+          "ኣጽዋረይ ሒዘ ኣንጊሀ ክወፍር",
+          "ዝተቐደሰት መንግስትኻ ከኽብር",
+          "ምስ ክልተ ጎይቶት ሓንኪሰ ከይነብር",
+          "ሕማቕ ከይከውን ሰነፍ ወተሃደር",
+          "ዕርፈይ ኣጽኒዐ ንቕድሚት ክጥምት",
+          "ኣሰንየኒ ክሳብ እታ ዕለት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብስምካ ክወናጨፍ ዘንደልህጽ ኲናት ናይ ምድሓንካ ቀስቲ",
+          "ኣብ የማነይ እልፊ ኣብ ጥቓይ’ውን ሽሕ ክወድቁ ጸላእቲ",
+          "በጃ ባሮቱ ነፍሱ ዝህብ ንጉስ",
+          "ኣብ ምድሪ የለን ዘደንቕ’ዩ ናትካስ",
+          "ንሕናስ ንስመ ከም ኣገልገልትኻ",
+          "ዝተገልገልናዮ ይበዝሕ ካባኻ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Temesgen kemesgneka’ye",
+      "Nsahli mhretka nfqrkha rye",
+      "Temesgen s'abeni ilkani",
+      "Bqnu' godena merihkani"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Felikha ts'ewi'kani nsmka kel'l nsendeq 'lamay",
+          "Aselifkani mun kkhewn ztegh 'aqeytay",
+          "Ats'warey hize angihe kwefr",
+          "Zteqedeset mengstkha kekhbr",
+          "Ms klte goytot hankise keynebr",
+          "Hmaq keykewn senef wetehader",
+          "'Rfey ats'ni'e nqdmit kt'mt",
+          "Asenyeni ksab ta 'let"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsmka kwenach'ef zendelhts' kwinat nay mdhanka qesti",
+          "Ab yemaney lfi ab t'qay’wn shh kwedqu ts'elati",
+          "Beja barotu nefsu zhb ngus",
+          "Ab mdri yelen zedenq’yu natkas",
+          "Nhnas nsme kem agelgeltkha",
+          "Ztegelgelnayo ybezh kabakha"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

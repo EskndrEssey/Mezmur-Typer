@@ -1,0 +1,23 @@
+{
+  "id": 152,
+  "title": "ሰባኬ ወንጌል",
+  "ti": {
+    "chorus": [
+      "ሰባኬ ወንጌል ሐዋርያ ትንቢት",
+      "ለቤተክርስቲያን ዘይደምፅ ቀርን ነባቤ ለቤተክርስቲያን",
+      "ዮሐንስ ኮከብ ዘኤፌሶን ዓምደ ብርሃን ዘፍጥሞ መልአክ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Sebake wengel hewarya tnbit",
+      "Lebetekrstiyan zeydemts' qern nebabe lebetekrstiyan",
+      "Yohens kokeb zeefeson 'amde brhan zeft'mo melek"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

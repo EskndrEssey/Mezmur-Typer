@@ -1,0 +1,67 @@
+{
+  "id": 233,
+  "title": "ካባኻ እሞ ናበይ",
+  "ti": {
+    "chorus": [
+      "ካባኻ እሞ ናበይ ጐይታይ ካብ ጽኑዕ ፍቕርኻ",
+      "ፈልፋሊ ዛራ ሕይወተይ ዕረፍቲ ነፍሰይ ኢኻ",
+      "ሃልየ ምሳኻ ምሳኻ’ውን ሞተይ መጸናንዕየይ ካባኻ’ሞ ናበይ",
+      "ካብ ጉድጓድ ናይ ጥፍኣት  ዘስጥም ታኼላ",
+      "ብጥበብ ተውጽኣኒ ካብቲ ጽዩፍ ናብራ",
+      "ንመዓሙቕ ልበይ ባዕልኻ ትምርምሮ",
+      "ቃል ከየተንባህኩ ሓሳበይ ትፈልጦ",
+      "ሰማይ እንተደየብኩ ኣብኡ ትጸንሓኒ",
+      "ኣብ መንጸፍ  ናይ ሲኦል ኢድካ ትረኽበኒ",
+      "ካባኻ ፈጺመ ክኽወል ኣይክእልን",
+      "ምሳኻ መሪጸ ሕይወት ከስተማቕር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዓኻ ስዒበ ፈጺመ ኣይሓፍርን",
+          "ሕይወተይ ካባኻ ክፈልያ ኣይክእልን",
+          "ኢድካ ትጓስየኒ በጊዕካ’የ ኣነ",
+          "ኣብ ደምበ ጉስነትካ ማሚቐ ሓዲረ",
+          "ተስፋይ ኢኻ ንዓይ ጉልበተይ ብርተዐይ",
+          "ሓይሊ ትኾነኒ ልዕል ዘብል ከውሐይ",
+          "ብርሃን ንመንገደይ መብራህቲ ንኣእጋረይ",
+          "ኣምላኸይ ንስኻ ደራዚ ንብዓተይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kabakha mo nabey gwaytay kab ts'nu' fqrkha",
+      "Felfali zara hywetey 'refti nefsey ikha",
+      "Halye msakha msakha’wn motey mets'enan'yey kabakha’mo nabey",
+      "Kab gudgwad nay t'fat  zest'm takhela",
+      "Bt'beb tewts'ani kabti ts'yuf nabra",
+      "Nme'amuq lbey ba'lkha tmrmro",
+      "Qal keyetenbahku hasabey tfelt'o",
+      "Semay ntedeyebku abu tts'enhani",
+      "Ab ments'ef  nay siol idka trekhbeni",
+      "Kabakha fets'ime kkhwel aykln",
+      "Msakha merits'e hywet kestemaqr"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'akha s'ibe fets'ime ayhafrn",
+          "Hywetey kabakha kfelya aykln",
+          "Idka tgwasyeni begi'ka’ye ane",
+          "Ab dembe gusnetka mamiqe hadire",
+          "Tesfay ikha n'ay gulbetey brte'ey",
+          "Hayli tkhoneni l'l zebl kewhey",
+          "Brhan nmengedey mebrahti nagarey",
+          "Amlakhey nskha derazi nb'atey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

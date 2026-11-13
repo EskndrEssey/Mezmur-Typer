@@ -1,0 +1,29 @@
+{
+  "id": 48,
+  "title": "ተመስገን ጐይታየ",
+  "ti": {
+    "chorus": [
+      "ተመስገን /3/ ጐይታየ ተመስገን ጐይታየ",
+      "ምኽኣል ስኢነዮ በዚሑ ገበነይ",
+      "ብኣኻ ኣምላኸይ ተሸፊኑ ጉደይ",
+      "ናብራ መሪሩኒ ፈተና ምስ ኮነ",
+      "ሕይወት ከቢዱኒ ምኽኣሉ ስኢነ",
+      "ኵሉ ግን ጐይታየ ንጽቡቕ ጌርካዮ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Temesgen /3/ gwaytaye temesgen gwaytaye",
+      "Mkhal sineyo bezihu gebeney",
+      "Bakha amlakhey teshefinu gudey",
+      "Nabra meriruni fetena ms kone",
+      "Hywet kebiduni mkhalu sine",
+      "Kwlu gn gwaytaye nts'buq gerkayo"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

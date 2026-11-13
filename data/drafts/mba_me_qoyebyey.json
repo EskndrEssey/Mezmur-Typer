@@ -1,0 +1,89 @@
+{
+  "id": 472,
+  "title": "እምባ መዕቆየብየይ",
+  "ti": {
+    "chorus": [
+      "እምባ መዕቆየብየይ እግዚአብሔር ክበር",
+      "ዋልታ ናይ ምድሓነይ ኣምላኸይ ተመስገን",
+      "ከም ዝጸዋዕካኒ ብጸጋኻ ኣበርትዓኒ",
+      "ከም ዝጸዋዕካኒ ኣብ እምነተይ ኣጽንዓኒ",
+      "ብርሃን መሊእካየን ነዒንተይ",
+      "ኣበጊስካየን ንኣእጋረይ",
+      "እምነት መሊእካዮ ንልበይ",
+      "ባሕሪ ጌርካዮ ንመንገደይ",
+      "ማዕበል ተላዒሉ ከይጎድል እምነተይ",
+      "ንንፋሳት ባሕሪ ብጸጋኻ ጐይታይ ገስጸለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሚዶናውያን ንኽስዕር",
+          "ኣርዑት ባርነት ንኸራግፍ",
+          "ጸምሪ ሃበኒ ንምልክት",
+          "ኣብ ጎነይ ሃሉ ምሳይ ተሰለፍ",
+          "ኣብ ምብዛሕ ኣይኮነን ዚግለጽ ሓይልኻ",
+          "ንእሽቶ ኢየ ብዕድመ ጸጋ",
+          "ብዙሕ ኣለኒ ዚጎድለኒ",
+          "ሸለል ከይብለኒ ከይንዕቐኒ ኵሉ",
+          "መድኃኒየይ ኣምላኽ ኣብ ሓሳበይ",
+          "ኣብ ቃላተይ ሃሉ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብብርሃንካ'የ ኣንጸብሪቐ ብጨናኻ እንድየ ምዒዘ",
+          "ከይዕበ እሞ ከይርስዓካ ድሕሪት ከይጥምት ዕርፊ ሒዘ",
+          "በሊሕ ንኸይረግጽ ንነፍሰይ ከይገዳ",
+          "ኣብ ቅድሚ ጸላእተይ ንመንገደይ ባዕልኻ መድምዳ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mba me'qoyebyey gziebher kber",
+      "Walta nay mdhaney amlakhey temesgen",
+      "Kem zts'ewa'kani bts'egakha abert'ani",
+      "Kem zts'ewa'kani ab mnetey ats'n'ani",
+      "Brhan melikayen ne'intey",
+      "Abegiskayen nagarey",
+      "Mnet melikayo nlbey",
+      "Bahri gerkayo nmengedey",
+      "Ma'bel tela'ilu keygodl mnetey",
+      "Nnfasat bahri bts'egakha gwaytay gests'eley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Midonawyan nkhs'r",
+          "Ar'ut barnet nkheragf",
+          "Ts'emri habeni nmlkt",
+          "Ab goney halu msay teselef",
+          "Ab mbzah aykonen ziglets' haylkha",
+          "Nshto iye b'dme ts'ega",
+          "Bzuh aleni zigodleni",
+          "Shelel keybleni keyn'qeni kwlu",
+          "Medhaniyey amlakh ab hasabey",
+          "Ab qalatey halu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bbrhanka'ye ants'ebriqe bch'enakha ndye m'ize",
+          "Key'be mo keyrs'aka dhrit keyt'mt 'rfi hize",
+          "Belih nkheyregts' nnefsey keygeda",
+          "Ab qdmi ts'elatey nmengedey ba'lkha medmda"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

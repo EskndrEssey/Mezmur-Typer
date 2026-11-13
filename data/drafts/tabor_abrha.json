@@ -1,0 +1,69 @@
+{
+  "id": 110,
+  "title": "ታቦር ኣብርሃ",
+  "ti": {
+    "chorus": [
+      "ታቦር ኣብርሃ ደመና መሬተ ከደነ",
+      "ኣልብነ ንዋም ዓቢይ ነጎድጓድ እስመ ኮነ",
+      "ለስብሓት ነቃሕነ",
+      "ሙሴ እቲ ቀዳማዊ ኤልያስ እቲ ብርቱዕ",
+      "ተረኺቦም ኣብ ታቦር ምስክር ኮይኖም ሳምዕ",
+      "ንሕና'ውን ካብቲ ግርማ ሰሚዕና ቃል ናይ ኣብ",
+      "በረድ ኮይኑ'ዩ ልብሱ ዕጹብ ኢልና ኢና ዕጹብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከተርእየኒ ክብርኻ ቃል ኣቲኻለይ ኔርካ",
+          "ንገስ ካብ ሞት ገስጊስካ ሕጂ /2/ ርእየካ",
+          "ታ'ተዋጋኢ ጐይታ ኣፍራስ እሳት ዘለካ",
+          "ኣርሞንኤም ደስ በሎ ሲሳራ ብምውቃዕካ",
+          "ኣብ ትሓልፈሉ ቆይመ ክጽበየካ እየ",
+          "ኣብሪሀ ንቀንዴለይ ክዳነይ ኣጻዕድየ",
+          "ንግሆ ዝተጸውዐ ዝመጸ ኣጋ ምሸት",
+          "ኩሎም ረኺቦም ዓስቢ ካብቲ ብዙሕ ህያባት",
+          "ዝረዳእካዮ ይዛረብ ዝባረኽካ ሕይወቱ",
+          "ኤቨን ኤዘር እናበለ ይዘምር ተዓዊቱ",
+          "ኣብ መዓልቲ ሓጎሰይ ርእየካ'የ ኣብ ጎነይ",
+          "ምሳይ በኺኻ ኢኻ ኣሕዚኑካ ሓዘነይ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Tabor abrha demena merete kedene",
+      "Albne nwam 'abiy negodgwad sme kone",
+      "Lesbhat neqahne",
+      "Muse ti qedamawi elyas ti brtu'",
+      "Terekhibom ab tabor mskr koynom sam'",
+      "Nhna'wn kabti grma semi'na qal nay ab",
+      "Bered koynu'yu lbsu 'ts'ub ilna ina 'ts'ub"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Keteryeni kbrkha qal atikhaley nerka",
+          "Nges kab mot gesgiska hji /2/ ryeka",
+          "Ta'tewagai gwayta afras sat zeleka",
+          "Armonem des belo sisara bmwqa'ka",
+          "Ab thalfelu qoyme kts'beyeka ye",
+          "Abrihe nqendeley kdaney ats'a'dye",
+          "Ngho ztets'ew'e zmets'e aga mshet",
+          "Kulom rekhibom 'asbi kabti bzuh hyabat",
+          "Zredakayo yzareb zbarekhka hywetu",
+          "Even ezer nabele yzemr te'awitu",
+          "Ab me'alti hagosey ryeka'ye ab goney",
+          "Msay bekhikha ikha ahzinuka hazeney"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

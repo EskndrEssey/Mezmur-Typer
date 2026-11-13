@@ -1,0 +1,33 @@
+{
+  "id": 393,
+  "title": "ኣይትቀየመና",
+  "ti": {
+    "chorus": [
+      "ብበደልና ብብዝሒ ኃጢኣትና /2/ ኣይትቀየመና /2/",
+      "ጐይታ ብምሕረትካ ሎሚ ይቕሬታ ሃበና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብረ መንክራት ቅዱስ ቂርቆስ (ማይጭሆት)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bbedelna bbzhi hat'iatna /2/ aytqeyemena /2/",
+      "Gwayta bmhretka lomi yqreta habena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debre menkrat qdus qirqos (maych'hot)"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": 75,
+  "title": "እንታይ ይሰኣነካ",
+  "ti": {
+    "chorus": [
+      "እንታይ ይሰኣነካ ኣምላኽ",
+      "እንታይ ይሰኣነካ ጐይታ /2/",
+      "ኵሉ ዝጸውዓካ ተናጊፉ ብኣኻ",
+      "የለን ዝሰኣነካ",
+      "ፍትሒ ዘይብሉ ሚዛን ተኸልኣና'ኳ ዕድል",
+      "ንናይ ክሳድና ገመድ ንናይ ሞትና'ውን ውዲት",
+      "ኵሉ ከንቱ ጌርካዮ ንቐስቲ ሰቢርካዮ",
+      "ጸብለል ኢልካ ካብ ተጻይ ረዲእካና ኤልሻዳይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዝነበረና ተስፋ ምስ ኮነ ከንቱ ሃፋ",
+          "ብዙርያና ከሰስቲ ንብዓትና 'ውን ክረምቲ",
+          "ኣብ ፍርዲ ተቖሙና ኮይኑ'ዩ ንሰናይና",
+          "እናረትዐ ፍቕርኻ ብዓወት ወጺእና ኢና",
+          "እንተ ተገዛእና'ውን ተዘይኮነልና ዝፋን",
+          "ተኸፍኣና እዚ ጊዜ ተመልኣና ትካዜ",
+          "ሰንሰለት'ውን ይጠምጠም ኣይሕይልን ካብ ማዕተብ",
+          "ሃገርና እዩ ሰማይ ዓወት'ውን ካብ ኣዶናይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እንተ ተገዛእና'ውን ተዘይኮነልና ዝፋን",
+          "ተኸፍኣና እዚ ጊዜ ተመልኣና ትካዜ",
+          "ሰንሰለት'ውን ይጠምጠም ኣይሕይልን ካብ ማዕተብ",
+          "ሃገርና እዩ ሰማይ ዓወት'ውን ካብ ኣዶናይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ntay yseaneka amlakh",
+      "Ntay yseaneka gwayta /2/",
+      "Kwlu zts'ew'aka tenagifu bakha",
+      "Yelen zseaneka",
+      "Fthi zeyblu mizan tekhelana'kwa 'dl",
+      "Nnay ksadna gemed nnay motna'wn wdit",
+      "Kwlu kentu gerkayo nqesti sebirkayo",
+      "Ts'eblel ilka kab tets'ay redikana elshaday"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zneberena tesfa ms kone kentu hafa",
+          "Bzuryana kesesti nb'atna 'wn kremti",
+          "Ab frdi teqomuna koynu'yu nsenayna",
+          "Naret'e fqrkha b'awet wets'ina ina",
+          "Nte tegezana'wn tezeykonelna zfan",
+          "Tekhefana zi gize temelana tkaze",
+          "Senselet'wn yt'emt'em ayhyln kab ma'teb",
+          "Hagerna yu semay 'awet'wn kab adonay"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nte tegezana'wn tezeykonelna zfan",
+          "Tekhefana zi gize temelana tkaze",
+          "Senselet'wn yt'emt'em ayhyln kab ma'teb",
+          "Hagerna yu semay 'awet'wn kab adonay"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

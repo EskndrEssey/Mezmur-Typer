@@ -1,0 +1,75 @@
+{
+  "id": 481,
+  "title": "እምነት ምስ ግብሪ",
+  "ti": {
+    "chorus": [
+      "እምነት ምስ ግብሪ ጽድቂ ነጣምር ብውህደት",
+      "ንቃለስ ሓቦ ንበል ንጉየ ብሓድነት",
+      "ቦታ ዘይውስኖ’ዩ ጉዕዞ ክርስትና",
+      "ምስጢሩ ንፍለጦ መሰል ውሉድነትና",
+      "ኣዳም ምስ ተፈጥረ ብኽብሪ ኣብ ገነት",
+      "ምስ ሕያው ኣምላኹ ክነብር ብሕይወት",
+      "ዘልዓለም ክነቅሕ ክውድስ ንኽብሩ",
+      "ኣእጋር ተዓደሎ ዘወትር ዝቖመሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕጉ ተኸቲሉ ሕይወቱ ክኣሊ",
+          "ከይርስዕ ከይዝንግዕ ህላወ ፈጣሪ",
+          "ቃሉ ተመጊቡ ህይወቱ ክዕንግል",
+          "ኣእዛን ተዋህቦ ጽምኡ ንኸጥልል",
+          "ኣብ ማእከል ቅዱሳን ብሕብረት ክዝምር",
+          "ከመስግን ኣምላኹ ብሓጎስ ክዕልል",
+          "ሰማያዊ ዜማ ክኸውን ዕላሉ",
+          "ቃላት ክሰርዓሉ ልሳን ፈጠረሉ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣሕዋት ንቑም ንጽናዕ ኣብ ቅዱስ ዕላማ",
+          "ቃሉ ንስመዓዮ ነሐድስ መንፈስና",
+          "ብምስጋና ሕይወት ንቑም ዘንትእለት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mnet ms gbri ts'dqi net'amr bwhdet",
+      "Nqales habo nbel nguye bhadnet",
+      "Bota zeywsno’yu gu'zo krstna",
+      "Mst'iru nflet'o mesel wludnetna",
+      "Adam ms tefet're bkhbri ab genet",
+      "Ms hyaw amlakhu knebr bhywet",
+      "Zel'alem kneqh kwds nkhbru",
+      "Agar te'adelo zewetr zqomelu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hgu tekhetilu hywetu kali",
+          "Keyrs' keyzng' hlawe fet'ari",
+          "Qalu temegibu hywetu k'ngl",
+          "Azan tewahbo ts'mu nkhet'll",
+          "Ab makel qdusan bhbret kzmr",
+          "Kemesgn amlakhu bhagos k'll",
+          "Semayawi zema kkhewn 'lalu",
+          "Qalat kser'alu lsan fet'erelu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ahwat nqum nts'na' ab qdus 'lama",
+          "Qalu nsme'ayo neheds menfesna",
+          "Bmsgana hywet nqum zentlet"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

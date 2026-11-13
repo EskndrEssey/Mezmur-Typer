@@ -1,0 +1,29 @@
+{
+  "id": 435,
+  "title": "እስመ ለዓለም",
+  "ti": {
+    "chorus": [
+      "እስመ ለዓለም እህ (4)",
+      "ለዓለም (2) እስመ ለዓለም (2) ንበለሎም (2)",
+      "ኩልና ንዘምር እህ ብፍቕሪ ብሓባር እህ",
+      "ጐይታ ክባርኾ እህ ነዚ ቅዱስ ሓዳር እህ",
+      "ቃና ዘገሊላ እህ ምስ ቅድስት ኣዲኡ እህ",
+      "ከም ዝተረኸበ እህ መርዓ ኣኽቢሩ እህ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Sme le'alem h (4)",
+      "Le'alem (2) sme le'alem (2) nbelelom (2)",
+      "Kulna nzemr h bfqri bhabar h",
+      "Gwayta kbarkho h nezi qdus hadar h",
+      "Qana zegelila h ms qdst adiu h",
+      "Kem zterekhebe h mer'a akhbiru h"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

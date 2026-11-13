@@ -1,0 +1,73 @@
+{
+  "id": 863,
+  "title": "ኤልሻዳይ",
+  "ti": {
+    "chorus": [
+      "ከኣሊ ኢኻ እግዚአብሔር /2/",
+      "ቀድሰኒ ከኣሊ ኢኻ",
+      "ኣንጽሃኒ ብምሕረትካ",
+      "ናትካ ክኸውን ንዘልዓለም",
+      "ባርኽ ሕይወተይ መድኃኔ ዓለም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብፍኖትካ ንኽኽተል",
+          "ኣብ ሕቑፎኻ ንኸጽልል",
+          "ሓይሊ ሳጥናኤል ንኽምክቶ",
+          "ቅዱስ መንፈስካ ኣብ ውሽጠይ ይእቶ /2/",
+          "ፍቕርኻ’ዩ ሰረገላይ",
+          "ዘብጽሓኒ ናብ ዕላማይ",
+          "ንብዓተይ ተመልከት መግለጺ ጣዕሳይ",
+          "ጐይታይ ደምስሶ ኵሉ ኣበሳይ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናተይ ኢኻ ዝብል ቃልካ",
+          "ንኽሰምዕ ኣብ ምጽኣትካ",
+          "ፍቐድ ኣምላኸይ ክወርስ ገነት",
+          "ግርማ ክለብስ ኣብ ሰማይ ሕይወት /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Keali ikha gziebher /2/",
+      "Qedseni keali ikha",
+      "Ants'hani bmhretka",
+      "Natka kkhewn nzel'alem",
+      "Barkh hywetey medhane 'alem /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bfnotka nkhkhtel",
+          "Ab hqufokha nkhets'll",
+          "Hayli sat'nael nkhmkto",
+          "Qdus menfeska ab wsht'ey yto /2/",
+          "Fqrkha’yu seregelay",
+          "Zebts'hani nab 'lamay",
+          "Nb'atey temelket meglets'i t'a'say",
+          "Gwaytay demsso kwlu abesay /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Natey ikha zbl qalka",
+          "Nkhsem' ab mts'atka",
+          "Fqed amlakhey kwers genet",
+          "Grma klebs ab semay hywet /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

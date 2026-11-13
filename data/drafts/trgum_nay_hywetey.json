@@ -1,0 +1,63 @@
+{
+  "id": 231,
+  "title": "ትርጉም ናይ ሕይወተይ",
+  "ti": {
+    "chorus": [
+      "ትርጉም ናይ ሕይወተይ ጣዕሚ መቐረተይ",
+      "ወላዲት አምላክ ኣደ ልዑል ጐይታይ",
+      "ከመስግነኪ’የ ኣነ ንዘመነይ",
+      "ዓንቢቡ ክፈሪ ተኽሊ ሰብነተይ",
+      "ትእዛዙ ጥሒሰ ሞተይ ምስ ኣወጅኩ",
+      "ካብ ክብሪ ሰማያት ጸጋ ምስ ጎደልኩ",
+      "ተስፋይ ኔራ ድንግል ምኽንያት ድሕነተይ",
+      "ሕይወተይ ኢለያ ኣባዲት ሓዘነይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትርጉም ስኢነሉ ናብራ እዚ ዓለም",
+          "ክጭነቕ ብብዙሕ ስኢነ ንሰላም",
+          "ዕትሮ ውሽጢ ልበይ መሊኣ ምስጋና",
+          "ደስታይ ኣዊጃቶ ኣብ ገሊላ ቃና",
+          "ሓጎስ ኮይኑለ’ዩ ጸጋይ ተወሲኹ",
+          "ብፍቕራ ሰራዊት ልበይ ተማሪኹ",
+          "ገጸበረኸተይ በሊ ተቐበሊ",
+          "ጌና ንኽብርኺ ዝህቦ ኣሎኒ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Trgum nay hywetey t'a'mi meqeretey",
+      "Weladit emlak ade l'ul gwaytay",
+      "Kemesgneki’ye ane nzemeney",
+      "'Anbibu kferi tekhli sebnetey",
+      "Tzazu t'hise motey ms awejku",
+      "Kab kbri semayat ts'ega ms godelku",
+      "Tesfay nera dngl mkhnyat dhnetey",
+      "Hywetey ileya abadit hazeney"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Trgum sinelu nabra zi 'alem",
+          "Kch'neq bbzuh sine nselam",
+          "'Tro wsht'i lbey melia msgana",
+          "Destay awijato ab gelila qana",
+          "Hagos koynule’yu ts'egay tewesikhu",
+          "Bfqra serawit lbey temarikhu",
+          "Gets'eberekhetey beli teqebeli",
+          "Gena nkhbrkhi zhbo aloni"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

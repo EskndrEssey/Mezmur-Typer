@@ -1,0 +1,59 @@
+{
+  "id": 121,
+  "title": "ኣማኑኤል",
+  "ti": {
+    "chorus": [
+      "ኣማኑኤል /2/ ምሳና ኮነ እግዚአብሔር",
+      "ተወሊዱልና ኣብ ቤተልሔም",
+      "ዙርያኡ በሪሁ ቤተልሔም",
+      "ጐይታ እንክውለድ መድኃኔ ዓለም",
+      "ብርሃን ይከደን’ቲ ብርቱዕ ጸልማት",
+      "ምውላድ ኣምላኽና ድምጹ እንክስማዕ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቲ ዝሓለፈ ናይ ጥፍኣት ጊዜ",
+          "ኣሕሊፍናዮ ኢና ኮይንና ኣብ  ትካዜ",
+          "ተሓጺብና ኢና ብክቡር ደሙ",
+          "ኣውሪሱና እዩ ፍቕሩ ሰላሙ",
+          "ምስ ርሓቕናዮ ሕጉ ገዲፍና",
+          "ፈትዩና እዩ’ሞ መጺኡ ኣድኂኑና",
+          "ሞገስ ኮይኑና ክብሪ ረኺብና",
+          "ንሓያል ጐይታ ንኣምኖ ኢና"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Amanuel /2/ msana kone gziebher",
+      "Tewelidulna ab betelhem",
+      "Zuryau berihu betelhem",
+      "Gwayta nkwled medhane 'alem",
+      "Brhan ykeden’ti brtu' ts'elmat",
+      "Mwlad amlakhna dmts'u nksma'"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ti zhalefe nay t'fat gize",
+          "Ahlifnayo ina koynna ab  tkaze",
+          "Tehats'ibna ina bkbur demu",
+          "Awrisuna yu fqru selamu",
+          "Ms rhaqnayo hgu gedifna",
+          "Fetyuna yu’mo mets'iu adhinuna",
+          "Moges koynuna kbri rekhibna",
+          "Nhayal gwayta namno ina"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

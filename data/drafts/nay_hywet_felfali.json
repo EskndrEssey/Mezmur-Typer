@@ -1,0 +1,73 @@
+{
+  "id": 200,
+  "title": "ናይ ሕይወት ፈልፋሊ",
+  "ti": {
+    "chorus": [
+      "ብብርሃንካ ብርሃን ንርኢ ኣሎና /2/",
+      "ዓለማተ ዓለም ግብሪ ናይ ኣእዳውካ",
+      "ምስክር ጎይትነትካ ናይ ኣምላኽነትካ",
+      "መን’ዶ ኣሎ እዩ ንዓኻ ዝመስለካ",
+      "ብርሃናዊ ኣምላኽ ፍጹም ልዑል ኢኻ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓደ ኔረ ነደይ ነፍሰይ’ውን ምስ ወጸት",
+          "ተንስእ ጎበዝ ኢልካ ትንፋሰይ ተመልሰት",
+          "እታ መበለት ኣደይ ኣመስጊና ነዓኻ",
+          "ሕይወት ተቐቢላ ከም ህያብ ካባኻ /2/",
+          "በኣኻ በሪሁ እቲ ጸልማት ዘመን",
+          "ደጊም ደቅኻ ኢና ደቂ እመ ብርሃን",
+          "ነዓኻ ሒዝና ኢና ዘፍርህ የብልናን",
+          "እግዚአብሔር ክበር ተመስገን /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣንፈት ናይ መንገደይ ጐይታይ ሓብረኒ",
+          "መድኅን ናይ ሕይወተይ ቃልካ መግበኒ",
+          "ኣብ ቤትካ ክጸንዕ ምስቶም ቅዱሳንካ",
+          "ኣይፈለየኒ ጥበብ ምስትውዓልካ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bbrhanka brhan nri alona /2/",
+      "'Alemate 'alem gbri nay adawka",
+      "Mskr goytnetka nay amlakhnetka",
+      "Men’do alo yu n'akha zmesleka",
+      "Brhanawi amlakh fts'um l'ul ikha /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hade nere nedey nefsey’wn ms wets'et",
+          "Tens gobez ilka tnfasey temelset",
+          "Ta mebelet adey amesgina ne'akha",
+          "Hywet teqebila kem hyab kabakha /2/",
+          "Beakha berihu ti ts'elmat zemen",
+          "Degim deqkha ina deqi me brhan",
+          "Ne'akha hizna ina zefrh yeblnan",
+          "Gziebher kber temesgen /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Anfet nay mengedey gwaytay habreni",
+          "Medhn nay hywetey qalka megbeni",
+          "Ab betka kts'en' mstom qdusanka",
+          "Ayfeleyeni t'beb mstw'alka /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

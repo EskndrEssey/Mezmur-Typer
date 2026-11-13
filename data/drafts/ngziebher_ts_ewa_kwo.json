@@ -1,0 +1,61 @@
+{
+  "id": 468,
+  "title": "ንእግዚአብሔር ጸዋዕክዎ",
+  "ti": {
+    "chorus": [
+      "ንእግዚአብሔር ጸዋዕክዎ ክድግፈኒ",
+      "ኣብ ውድቀት ድኻመይ ሓይሊ ክኾነኒ",
+      "ኤልሻዳይ ኢዩ ጐይታይ ኵሉ ዝከኣሎ",
+      "ብዅሉ መሉእ እዩ የለን ዝጎደሎ",
+      "ስግር ደረት ቤትካ ጋሪዱኒ ድነ",
+      "ጩራ ባና ሕይወት ንተስፋ ስኢነ",
+      "ከም እከይ በደለይ ምስ ሰኣንኩ ስፍራ",
+      "ይቕረ እንዶ’ሞ ኢልካለይ ክንዲ ሕነ ኩራ",
+      "ብስቡር ልቦና ብንጹሕ ሕሊና",
+      "ብዜማ ናይ ያሬድ ናይ ዳዊት በገና",
+      "ነቲ ቅዱስ ስምካ ምስጋና ከቕርብ",
+      "ኣምላኽ ልግሲ ኢኻ’ሞ ጸጋኻ እትህብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነዛ ሓጻር ዕድመይ ሓጎስ ተመንየ",
+          "ፋሉል ንኸይከይድ ካባኻ ተፈልየ",
+          "መፈጸምታ ጉዕዞይ ንኽጽብቐለይ",
+          "ስጉሚ ጉያ እግረይ ናብ ቤትካ ኣብለለይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ngziebher ts'ewa'kwo kdgfeni",
+      "Ab wdqet dkhamey hayli kkhoneni",
+      "Elshaday iyu gwaytay kwlu zkealo",
+      "Bkhwlu melu yu yelen zgodelo",
+      "Sgr deret betka gariduni dne",
+      "Ch'ura bana hywet ntesfa sine",
+      "Kem key bedeley ms seanku sfra",
+      "Yqre ndo’mo ilkaley kndi hne kura",
+      "Bsbur lbona bnts'uh hlina",
+      "Bzema nay yared nay dawit begena",
+      "Neti qdus smka msgana keqrb",
+      "Amlakh lgsi ikha’mo ts'egakha thb"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Neza hats'ar 'dmey hagos temenye",
+          "Falul nkheykeyd kabakha tefelye",
+          "Mefets'emta gu'zoy nkhts'bqeley",
+          "Sgumi guya grey nab betka ableley"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 368,
+  "title": "ብዘይ ነዳዲ",
+  "ti": {
+    "chorus": [
+      "ብዘይ ነዳዲ ፍቕርኻ ኣቃጺሉኒ",
+      "ብዘይግዴታ ውዕለትካ ማሪኹኒ",
+      "ፍቕርኻ ንዓይ ከመስግነካ ገዲዱኒ",
+      "ሰንሰለተይ  ኣውዲቑ ፈዊሱኒ",
+      "ተማሪኸ ንኽብሪ ንሓርነት",
+      "ተቓጺለ ብፍቕሪ ብናትካ ውዕለት",
+      "ከናፍረይ ምስጋናኻ ክነግራ",
+      "ኣፍደገኻ ክነብር ፍቐደለይ ሓደራ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ርኹስ መንፈስ ኣርሒቕካለይ ሓዪለ",
+          "እምነት ፍቕሪ ተስፋ ውህበት ተቐቢለ",
+          "ብየማንካ ተጎዝጊዘ ተደጊፈ",
+          "ናይዛ ዓለም መከራ መፈንጠራ ሓሊፈ",
+          "ባዶ ኔረ ፍረ ዘይብሉ ገረብ",
+          "ዘየስተውዕል ጭንቂ መከራ ዝቕለብ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bzey nedadi fqrkha aqats'iluni",
+      "Bzeygdeta w'letka marikhuni",
+      "Fqrkha n'ay kemesgneka gediduni",
+      "Senseletey  awdiqu fewisuni",
+      "Temarikhe nkhbri nharnet",
+      "Teqats'ile bfqri bnatka w'let",
+      "Kenafrey msganakha knegra",
+      "Afdegekha knebr fqedeley hadera"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Rkhus menfes arhiqkaley hayile",
+          "Mnet fqri tesfa whbet teqebile",
+          "Byemanka tegozgize tedegife",
+          "Nayza 'alem mekera mefent'era halife",
+          "Bado nere fre zeyblu gereb",
+          "Zeyestew'l ch'nqi mekera zqleb"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

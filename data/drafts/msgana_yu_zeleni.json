@@ -1,0 +1,75 @@
+{
+  "id": 461,
+  "title": "ምስጋና'ዩ ዘለኒ",
+  "ti": {
+    "chorus": [
+      "ምስጋና'ዩ ዘለኒ ኣምላኽ ስለፍቕርኻ",
+      "ምስጋና'ዩ ዘለኒ ጐይታ ስለሓልዮትካ",
+      "ምስጋናይ ንዓኻ /2/ ኣልፋወኦሜጋ",
+      "ከቢረ'የ ኔረ ክርስቶስ ብኣኻ",
+      "ትእዛዛትካ ጥሒሰ ርሒቐ ካባኻ",
+      "ኣበሳይ በደለይ ብፍጹም ደምሲስካ",
+      "ብዓቢይ ምሕረትካ ታሪኸይ ለዊጥካ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጽኑዕ ፍቕርኻ ምስ ፈለጥኩ ኣነ",
+          "ትብዓት ንኽረክብ ናባኻ ቀሪበ",
+          "እግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ",
+          "ራህርሃለይ ኢኻ ብምሉእ ምሕረትካ",
+          "ነየናይ ጀሚረ ነየናይ ክገድፎ",
+          "ነቲ ውዕለትካ'ሞ ከመይ ክዝርዝሮ",
+          "ውዕለትካ'ሞ ብዙሕ'ዩ የብልካን ጎደሎ",
+          "ከመስግነካ'የ ብዓቕመይ ዝኽእሎ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጽኑዕ ፍቕርኻ ምስፈለጥኩ ኣነ",
+          "ትብዓት ንኽረክብ ናባኻ ቀሪበ",
+          "እግዚአብሔር ፈጺምካ ኣይትሕደገኒ ኢኻ",
+          "ራህርህለይ ኢኻ ብምሉእ ምሕረትካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msgana'yu zeleni amlakh slefqrkha",
+      "Msgana'yu zeleni gwayta slehalyotka",
+      "Msganay n'akha /2/ alfaweomega",
+      "Kebire'ye nere krstos bakha",
+      "Tzazatka t'hise rhiqe kabakha",
+      "Abesay bedeley bfts'um demsiska",
+      "B'abiy mhretka tarikhey lewit'ka"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nts'nu' fqrkha ms felet'ku ane",
+          "Tb'at nkhrekb nabakha qeribe",
+          "Gziebher fets'imka aythdegeni ikha",
+          "Rahrhaley ikha bmlu mhretka",
+          "Neyenay jemire neyenay kgedfo",
+          "Neti w'letka'mo kemey kzrzro",
+          "W'letka'mo bzuh'yu yeblkan godelo",
+          "Kemesgneka'ye b'aqmey zkhlo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nts'nu' fqrkha msfelet'ku ane",
+          "Tb'at nkhrekb nabakha qeribe",
+          "Gziebher fets'imka aythdegeni ikha",
+          "Rahrhley ikha bmlu mhretka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": 156,
+  "title": "ብደመናት ግሩም’ዩ",
+  "ti": {
+    "chorus": [
+      "ብደመናት ግሩም’ዩ ብሰማያት ምስጉን’ዩ",
+      "ብመላእክት ስቡሕ’ዩ ብቅዱሳን ድንቂ’ዩ",
+      "ብእሳት ስሩሕ ዝፋኑ በረድ ጌሩ መካኑ",
+      "ማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ",
+      "መልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ",
+      "ይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምድሪ ይርኢ ካብ ላዕሊ ይሰፍር ቀላይ",
+          "ማዕበላት’ውን ይግሰጽ ብስልጣኑ እንኪወጽእ",
+          "መባርቕቱ እንኪወጹ ንሰማያት ኪገልጹ",
+          "ይግለጽ ብግርማ ቤቱ ኣርያም ስማ",
+          "ሰማይ ናቱ መንበር መርገጺቱ’ውን ምድር",
+          "ካብ ላዕሊ የብርህ ብእሳት መንደቕ ይሰርሕ",
+          "ዘይደክም ገባሪ ንዘልዓለም ነባሪ",
+          "ብዘይንፍገት ወሃቢ ንግፉዓት ሓብሓቢ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብእሳት ስሩሕ ዙፋኑ በረድ ጌሩ መካኑ",
+          "ማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ",
+          "መልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ",
+          "ይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bdemenat grum’yu bsemayat msgun’yu",
+      "Bmelakt sbuh’yu bqdusan dnqi’yu",
+      "Bsat sruh zfanu bered geru mekanu",
+      "May sat tesemam'u t'bebenya’yu brtu'",
+      "Melak kirub zfanu surafi’yu kahnu",
+      "Ysegdu’yom ab fitu zel'alem’yu mengstu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mdri yri kab la'li ysefr qelay",
+          "Ma'belat’wn ygsets' bslt'anu nkiwets'",
+          "Mebarqtu nkiwets'u nsemayat kigelts'u",
+          "Yglets' bgrma betu aryam sma",
+          "Semay natu menber mergets'itu’wn mdr",
+          "Kab la'li yebrh bsat mendeq yserh",
+          "Zeydekm gebari nzel'alem nebari",
+          "Bzeynfget wehabi ngfu'at habhabi"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bsat sruh zufanu bered geru mekanu",
+          "May sat tesemam'u t'bebenya’yu brtu'",
+          "Melak kirub zfanu surafi’yu kahnu",
+          "Ysegdu’yom ab fitu zel'alem’yu mengstu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

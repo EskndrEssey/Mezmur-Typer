@@ -1,0 +1,71 @@
+{
+  "id": 21,
+  "title": "ሓይሊ ብዝህበኒ",
+  "ti": {
+    "chorus": [
+      "ሓይሊ ብዝህበኒ ብክርስቶስ ኵሉ ክኽእሎየ/2/",
+      "ፈተና እንተመጸ ንሰናይ’ዩ ይኣምን’የ",
+      "መከራ እንተመጸ ንሰናይ’ዩ ይኣምን’የ",
+      "ሰንሰለት ኣሲሮም እንተደርበዩኒ",
+      "መከራ ኣብዚሖም እንተጨነቑኒ",
+      "ንሰናይዩ ኢለ ተተስፌካ ኣለኹ",
+      "ይኹን ዝበልካዮ ተገዚኤ ኣለኹ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትማሊ ንስኻ ሎሚ ንስኻ ኢኻ",
+          "ምስ ጊዜ ዘይቅየር ዘይሃስስ ፍቕርኻ",
+          "ነገር ይኹን ኣይኹን ከኽብረካ’የ",
+          "ብዙሕ እተፍቅረኒ ጐይታይ ናትካ እየ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ ሃገር ወጻኢ በረኻ ምስዳደይ",
+          "ናብ ባዕዳውያን ሃገር ርሒቐ ምኻደይ",
+          "ንሰናይ እዩ መዓስ ጠፊኡኒ",
+          "ኣርሒቐ ከይጠፍእ ሓይልኻ ሒዙኒ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hayli bzhbeni bkrstos kwlu kkhloye/2/",
+      "Fetena ntemets'e nsenay’yu yamn’ye",
+      "Mekera ntemets'e nsenay’yu yamn’ye",
+      "Senselet asirom ntederbeyuni",
+      "Mekera abzihom ntech'enequni",
+      "Nsenayyu ile tetesfeka alekhu",
+      "Ykhun zbelkayo tegezie alekhu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tmali nskha lomi nskha ikha",
+          "Ms gize zeyqyer zeyhass fqrkha",
+          "Neger ykhun aykhun kekhbreka’ye",
+          "Bzuh tefqreni gwaytay natka ye"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab hager wets'ai berekha msdadey",
+          "Nab ba'dawyan hager rhiqe mkhadey",
+          "Nsenay yu me'as t'efiuni",
+          "Arhiqe keyt'ef haylkha hizuni"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

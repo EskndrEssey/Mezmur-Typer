@@ -1,0 +1,63 @@
+{
+  "id": 328,
+  "title": "ንግሥተ ሰማይ",
+  "ti": {
+    "chorus": [
+      "ገነይኩ ለኪ ኦ ንግሥተ ሰማይ",
+      "ለባሲተ ብሩህ ፀሓይ",
+      "ከመ ርእሰ ኃምሳ ሣልሳይ",
+      "ኣስተበቁዐኪ ድንግል እመ ኣዶናይ",
+      "በቅድሜኪ ነፍስየ ትዕበይ",
+      "ንዑ ንስግድ ቅድመ ሥዕላ",
+      "ንዑ ንስግድ ለማርያም ድንግል ርግበ ገሊላ",
+      "ንዑ ንስግድ እስመ ወለደት ለነ ኣምላከ ተድላ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑ ንስግድ ለክብረ ንግሣ",
+          "ንዑ ንስግድ  አምላክ ኃደረ በውስተ ከርሣ",
+          "ንዑ ንስግድ  ሠራዬ ኃጢኣት ወአበሳ",
+          "ንዑ ንስግድ  ቅድመ ሥላሴ",
+          "ንዑ ንስግድ እስመ ተስፋነ ንረክብ እምይእቲ",
+          "ንዑ ንስግድ ለባሕቲታ",
+          "ንዑ ንስግድ ለማርያም ድንግል ርግበ ኤፍራታ",
+          "ንዑ ንስግድ ጸሎታ በረከታ ይክድነነ ወልታ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Geneyku leki o ngsste semay",
+      "Lebasite bruh ts'ehay",
+      "Keme rse hamsa Ssalsay",
+      "Astebequ'eki dngl me adonay",
+      "Beqdmeki nefsye t'bey",
+      "N'u nsgd qdme Ss'la",
+      "N'u nsgd lemaryam dngl rgbe gelila",
+      "N'u nsgd sme weledet lene amlake tedla"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'u nsgd lekbre ngssa",
+          "N'u nsgd  emlak hadere bewste kerssa",
+          "N'u nsgd  Sseraye hat'iat weebesa",
+          "N'u nsgd  qdme Sslase",
+          "N'u nsgd sme tesfane nrekb myti",
+          "N'u nsgd lebahtita",
+          "N'u nsgd lemaryam dngl rgbe efrata",
+          "N'u nsgd ts'elota bereketa ykdnene welta"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

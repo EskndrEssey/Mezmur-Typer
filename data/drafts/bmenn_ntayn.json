@@ -1,0 +1,71 @@
+{
+  "id": 486,
+  "title": "ብመንን እንታይን",
+  "ti": {
+    "chorus": [
+      "ብመንን እንታይን ድንግል ክንምስለኪ",
+      "ወላዲተ አምላክ ተስፋና’ኺ ንስኺ",
+      "ኣደ ኣማኑኤል ምስጋና ይብጻሕኪ",
+      "ናይ ሲና ዕጸ ጳጦስ ሙሴ ዝረኣየኪ",
+      "ጐይታ ዝወለድኪ ድንግል ደስ ይበልኪ",
+      "ናይ ሔዋን መድኃኒት ድንግል ማርያም",
+      "ክብሪ ይግበኣኪ ክሳብ ዘልዓለም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሐመረ ኖህ ድንግል ናይ ቃልኪዳን ኣርማ",
+          "ቀስተ ደመና’ያ ናይ ምሕረት ከተማ",
+          "ኣብ ገነት ትርከብ ናይ ክብሪ ቀንዴል",
+          "ንዒ ንዒ ድንግል ኣባኺ ነጽልል"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ውዕለታ ብዙሕ’ዩ እንታይ’ለ ክነግር",
+          "ካብ ጭንቀት ተውጽእ ካብ መከራ ሽግር",
+          "ዓንጋሊት ከርሲ’ያ ናይ ሰማይ መና",
+          "ንማርያም ኣዴና ንዑ ነመስግና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bmenn ntayn dngl knmsleki",
+      "Weladite emlak tesfana’khi nskhi",
+      "Ade amanuel msgana ybts'ahki",
+      "Nay sina 'ts'e p'at'os muse zreayeki",
+      "Gwayta zweledki dngl des ybelki",
+      "Nay hewan medhanit dngl maryam",
+      "Kbri ygbeaki ksab zel'alem"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hemere noh dngl nay qalkidan arma",
+          "Qeste demena’ya nay mhret ketema",
+          "Ab genet trkeb nay kbri qendel",
+          "N'i n'i dngl abakhi nets'll"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "W'leta bzuh’yu ntay’le knegr",
+          "Kab ch'nqet tewts' kab mekera shgr",
+          "'Angalit kersi’ya nay semay mena",
+          "Nmaryam adena n'u nemesgna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

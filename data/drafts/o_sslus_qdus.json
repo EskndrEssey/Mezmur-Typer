@@ -1,0 +1,71 @@
+{
+  "id": 51,
+  "title": "ኦ ሥሉስ ቅዱስ",
+  "ti": {
+    "chorus": [
+      "ኦ ሥሉስ ቅዱስ ተመስገን /2/",
+      "ፈጣሪ ኵሉ ዓለማት",
+      "እግዚአብሔር ተመስገን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣዳም ከይተፈጥረ ኣብ ዙፋን ነበርካ",
+          "ብኣምላኽነትካ እናተመስገንካ",
+          "መላእኽት ፈጠርካ ስምካ ዝጽውዑ",
+          "ብምስጋና ቆይሞም ምስኻ ዝነብሩ /2/",
+          "ወድሰብ ፈጠርካ ክብርኻ ክወርስ",
+          "ንዓኻ ኣመስጊኑ ህይወቱ ክቕድስ",
+          "ንሕና’ውን ንጽውዕ ከይተገብኣና",
+          "ማዕጾኻ ንኹሕኩሕ ነቕርብ ምስጋና /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናይ ነገስታት ንጉሥ ናይ ዓለም ፈጣሪ",
+          "ንፍጥረታት ኵሉ ኣውዒሉ ኣሕዳሪ",
+          "ሥላሴ ነመስግን ሥሉስ ቅዱስ ንበል",
+          "ንዓለም ካብ ምኽባር ኣብ ቤቶም ነጽልል/2/",
+          "ኣብ ሩባ ዮርዳኖስ ሥላሴ ርኢና",
+          "ንመንግስቱ ቅዱስ ቅዱስ ቅዱስ ኢልና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "O Sslus qdus temesgen /2/",
+      "Fet'ari kwlu 'alemat",
+      "Gziebher temesgen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Adam keytefet're ab zufan neberka",
+          "Bamlakhnetka natemesgenka",
+          "Melakht fet'erka smka zts'w'u",
+          "Bmsgana qoymom mskha znebru /2/",
+          "Wedseb fet'erka kbrkha kwers",
+          "N'akha amesginu hywetu kqds",
+          "Nhna’wn nts'w' keytegebana",
+          "Ma'ts'okha nkhuhkuh neqrb msgana /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nay negestat nguss nay 'alem fet'ari",
+          "Nft'retat kwlu aw'ilu ahdari",
+          "Sslase nemesgn Sslus qdus nbel",
+          "N'alem kab mkhbar ab betom nets'll/2/",
+          "Ab ruba yordanos Sslase rina",
+          "Nmengstu qdus qdus qdus ilna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

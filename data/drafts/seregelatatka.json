@@ -1,0 +1,73 @@
+{
+  "id": 103,
+  "title": "ሰረገላታትካ",
+  "ti": {
+    "chorus": [
+      "ሰረገላታትካ ነበልባልዮም",
+      "ጭፍራታት ሌጌዎን ዘይክእልዎም",
+      "ደጌታት ናይ ሲኦል ዘይዓግትዎም",
+      "ድፋዕ ጸላእትና ብቃሉ ይፈርስ",
+      "ቲ’ምሳና ዘሎ ካብኣቶም ይበልጽ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ኣኽራን ናይ ቴማን ካብ ፋራን እንኪወርድ",
+          "ጸላኢ ይሽበር ብድምጺ ነጎድጓድ",
+          "ሳምሶም ብጸላእቲ ፍጹም ምስ ተታሕዘ",
+          "ብመንጋጋ ኣድጊ ሽሕ ሰብኣይ ቀተለ",
+          "ንሰረት ‘ቲ ማዕሙቕ ብንፋስ ኣሰረ",
+          "ኣብ ልዕሊ ሰማያት ዝፋኑ ገበረ",
+          "ልምሉም ስየ ሒዝኩም ንዑ ናብ መቕደሱ",
+          "በቲ ቅዱስ ስርዓት ፍጹም ክትቅደሱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቁጽሪ ጸላእትና ኣእላፍ እንተኾነ",
+          "ሴፍ ኣይነልዕልን ንክንፈዲ ሕነ",
+          "ኣምላኽና ክሕጎስ እንጌራ መጊብና",
+          "ክንፍንዎም ኢና ቂም በቐል ገዲፍና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Seregelatatka nebelbalyom",
+      "Ch'fratat legewon zeyklwom",
+      "Degetat nay siol zey'agtwom",
+      "Dfa' ts'elatna bqalu yfers",
+      "Ti’msana zelo kabatom ybelts'"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab akhran nay teman kab faran nkiwerd",
+          "Ts'elai yshber bdmts'i negodgwad",
+          "Samsom bts'elati fts'um ms tetahze",
+          "Bmengaga adgi shh sebay qetele",
+          "Nseret ‘ti ma'muq bnfas asere",
+          "Ab l'li semayat zfanu gebere",
+          "Lmlum sye hizkum n'u nab meqdesu",
+          "Beti qdus sr'at fts'um ktqdesu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Quts'ri ts'elatna alaf ntekhone",
+          "Sef aynel'ln nknfedi hne",
+          "Amlakhna khgos ngera megibna",
+          "Knfnwom ina qim beqel gedifna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

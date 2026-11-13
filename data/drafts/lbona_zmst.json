@@ -1,0 +1,47 @@
+{
+  "id": 519,
+  "title": "ልቦና ዝምስጥ",
+  "ti": {
+    "chorus": [
+      "ልቦና ዝምስጥ ዝማሬ ማህሌታ",
+      "ኣዕጽምቲ ዘለምልም ቅዳሴኣ ስብሃታ",
+      "ናይ ጸሎት በዓቲያ ናይ ኣበው ቅዱሳን",
+      "መመክሒትና’ያ ቤተ ክርስቲያን /2/",
+      "ናይ መላእክት ዜማ ዝማሬ ማህሌት",
+      "ኣዕጽምቲ የለምልም ቅዳሴ ኣቦታት /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብዝማሬ ያሬድ ከምቶም ኣቦታትና",
+          "ንዘምር ምእመናን ብሓባር ኩላትና /2/",
+          "ኢየሉጣ ቂርቆስ ናይ እምነት ሓርበኛታት",
+          "ሂቦምና ሃይማኖት ንዓና ህጻናት /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Lbona zmst' zmare mahleta",
+      "A'ts'mti zelemlm qdasea sbhata",
+      "Nay ts'elot be'atiya nay abew qdusan",
+      "Memekhitna’ya bete krstiyan /2/",
+      "Nay melakt zema zmare mahlet",
+      "A'ts'mti yelemlm qdase abotat /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bzmare yared kemtom abotatna",
+          "Nzemr mmenan bhabar kulatna /2/",
+          "Iyelut'a qirqos nay mnet harbenyatat",
+          "Hibomna haymanot n'ana hts'anat /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": 33,
+  "title": "መርከበይ",
+  "ti": {
+    "chorus": [
+      "መርከበይ’ዩ መጽለልየይ",
+      "ማዕበል መሳገሪየይ",
+      "ጸጥታ ሰላም ሰፊኑ",
+      "ካብ ሕጂ መን የፍርሓኒ",
+      "እንክዓፍር ቲ`ዓቢይ ቀላይ",
+      "ነንሳፍፍ ብሓይሊ ኣዶናይ",
+      "መርከብና ኮይኑ ኣምላኽና",
+      "መህደሚና መሕብኢና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ሲና ሕጊ ዝሰርዐ",
+          "ብጽድቂ ህዝቡ ዝመርሐ",
+          "ናይ ሰላም ናይ ምሕረት ጐይታ",
+          "ሕይወት’ዩ መዕረፊ ቦታ /2/",
+          "ተመሊሳ’ታ ርግቢት",
+          "ራህዋ ኮይኑ እናበለት",
+          "እቲ ሰቲ ኣትዩ ኣብ ኢድና",
+          "በረኸት ሰላም ኮይኑልና /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ማዕበል እንተበዝሐ እምብዛ",
+          "ንስኻ ኢኻ ናይ ሕይወት ቤዛ",
+          "ተኸድኩ ብማእከል ሞት`ውን",
+          "ካብ ሕጂ ኣይናወጽን /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Merkebey’yu mets'lelyey",
+      "Ma'bel mesageriyey",
+      "Ts'et'ta selam sefinu",
+      "Kab hji men yefrhani",
+      "Nk'afr ti`'abiy qelay",
+      "Nensaff bhayli adonay",
+      "Merkebna koynu amlakhna",
+      "Mehdemina mehbina /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab sina hgi zser'e",
+          "Bts'dqi hzbu zmerhe",
+          "Nay selam nay mhret gwayta",
+          "Hywet’yu me'refi bota /2/",
+          "Temelisa’ta rgbit",
+          "Rahwa koynu nabelet",
+          "Ti seti atyu ab idna",
+          "Berekhet selam koynulna /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ma'bel ntebezhe mbza",
+          "Nskha ikha nay hywet beza",
+          "Tekhedku bmakel mot`wn",
+          "Kab hji aynawets'n /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

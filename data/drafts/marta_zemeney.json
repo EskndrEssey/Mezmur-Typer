@@ -1,0 +1,96 @@
+{
+  "id": 187,
+  "title": "ማርታ ዘመነይ",
+  "ti": {
+    "chorus": [
+      "ንምንታይ ትጭነቒ ‘ለኺ ትስኅሪ",
+      "ኣምላኽ ዘለዓለም ከሎ ምሳኺ ጐይታ ክብሪ",
+      "ኣምላክ እስራኤል ከሎ ምሳኺ ጐይታ ክብሪ",
+      "ማንታ ድሌታተይ ቀሪበላ ነፍሰይ",
+      "ቃሉ ኃዲሙኒ ከይረግእ መንፈሰይ",
+      "ደጊም ድሕሪ ሕጅስ ኣንቲ ማርያም ሓፍተይ",
+      "ክስዕቦ እምበር ቃሉ ክሠርዕ ሕይወተይ",
+      "ዚቕረብ ዚስተ ንኸብዲ ዕንጋሎ",
+      "ከመይሉ ገዝኣኪ ልብኺ ክልሎ",
+      "መግቢ ነፍሰ-ሥጋ ጐይታ ዅሉ ከሎ",
+      "ንተስፋይ ረሲዐ ክብል ላዕሊ ታሕቲ",
+      "ውነይ ኣጥፊኡለይ  ስኢነ ትዕግስቲ",
+      "ቀረባ’ንድዩ ንሱ ልቡ ንዝሃቦ",
+      "ሓዳግ ኣበሳ’ዩ ፈቃር ለዋህ ኣቦ",
+      "ብቕብልቲ ጊዜ ወሲነ፣ ድምጹ ከለልዮ",
+      "መገዲ ድሕነቱ ይሕሸኒ ጽባሕ ከይፍለዮ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣርዑትኪ ኣቕሊሉ ጾርኪ ንዝድርቢ",
+          "ሰላም ውሽጥኺ’ንድዩ ንሱ ሓይልኺ ዘዕቢ",
+          "ኣሻብ ረሲዕክዮ ምኽሩ`ኸ ዘይትኸስቢ",
+          "ጽድቂ ትሩፋቱ ካብ ልበይ ሰዊረ",
+          "ትህኪት ሳዕሪሩኒ መኽሊተይ ቀቢረ",
+          "ዚጠዓስ’ዩ ናቱ በደሉ ዚዝክር",
+          "ምስ ፍቕሪ ምጽዮ ሰማዩ ዜንብር",
+          "ደጊም ተማሂረ’ለኹ ሓልዮት ትሕትናኡ",
+          "መስተርሆት ዘለዓለም ረኺበ ክነብር’የ ምስኡ",
+          "ውቃበ ናብራኺ ሽሕ ጊዜ ይመቅር",
+          "ጽላሎት’ዶ ኣይተባህለን ምስ ጸሓይ ዝቕየር",
+          "ጐይታ ዝሓዘ ግን ዘለዓለም’ዩ ዝነብር።",
+          "ደጊም ኃርየ ’ለኹ ሰላሙ ‘ቲ ሠናይ መኽፈልቱ",
+          "ግደ ጸላኢ ከይከውን ክነብር ኣብ ቤቱ",
+          "ደጊም ኃሪና ሰላሙ ‘ቲ ሠናይ መኽፈልቱ",
+          "ግደ ጸላኢ ከይንከውን ክነብር ኣብ ቤቱ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nmntay tch'neqi ‘lekhi tshri",
+      "Amlakh zele'alem kelo msakhi gwayta kbri",
+      "Amlak srael kelo msakhi gwayta kbri",
+      "Manta dletatey qeribela nefsey",
+      "Qalu hadimuni keyreg menfesey",
+      "Degim dhri hjs anti maryam haftey",
+      "Ks'bo mber qalu ksser' hywetey",
+      "Ziqreb ziste nkhebdi 'ngalo",
+      "Kemeylu gezaki lbkhi kllo",
+      "Megbi nefse-Ssga gwayta khwlu kelo",
+      "Ntesfay resi'e kbl la'li tahti",
+      "Wney at'fiuley  sine t'gsti",
+      "Qereba’ndyu nsu lbu nzhabo",
+      "Hadag abesa’yu feqar lewah abo",
+      "Bqblti gize wesine, dmts'u kelelyo",
+      "Megedi dhnetu yhsheni ts'bah keyfleyo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ar'utki aqlilu ts'orki nzdrbi",
+          "Selam wsht'khi’ndyu nsu haylkhi ze'bi",
+          "Ashab resi'kyo mkhru`khe zeytkhesbi",
+          "Ts'dqi trufatu kab lbey sewire",
+          "Thkit sa'riruni mekhlitey qebire",
+          "Zit'e'as’yu natu bedelu zizkr",
+          "Ms fqri mts'yo semayu zenbr",
+          "Degim temahire’lekhu halyot thtnau",
+          "Mesterhot zele'alem rekhibe knebr’ye msu",
+          "Wqabe nabrakhi shh gize ymeqr",
+          "Ts'lalot’do aytebahlen ms ts'ehay zqyer",
+          "Gwayta zhaze gn zele'alem’yu znebr.",
+          "Degim harye ’lekhu selamu ‘ti Ssenay mekhfeltu",
+          "Gde ts'elai keykewn knebr ab betu",
+          "Degim harina selamu ‘ti Ssenay mekhfeltu",
+          "Gde ts'elai keynkewn knebr ab betu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_1_possible_page_split"
+  ]
+}

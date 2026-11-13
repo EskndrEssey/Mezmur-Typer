@@ -1,0 +1,53 @@
+{
+  "id": 522,
+  "title": "ሚካኤል’ዩ",
+  "ti": {
+    "chorus": [
+      "ሚካኤል’ዩ ዋልታ ናይ ሕይወተይ ደጋፍየይ",
+      "ካብ መከራ ቀልጢፉ ዘውጽኣ ንሕይወተይ",
+      "ቅድስቲ ኣፎምያ ስምካ ዝጸውዐት",
+      "ተገለጽካላ ምሕረት ረኸበት",
+      "ንዓይ ክትረድእ ዝተሸየምካ",
+      "ናይ ምሕረት መልኣኽ ሚካኤል ኢኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ መከራ ውሕጅ ንኸድኅነኒ",
+          "ሚካኤል መጺኡ ክንፉ ኣርኣየኒ",
+          "ዝምክሓሉ ዝኣምኖ ኣነ",
+          "ሚካኤል’ዩ ምሳይ ዝቖመ",
+          "ብሕማም ደዌ ዝተጨነቕኩ",
+          "ሰላም ዘይብለይ ከርተት ዝበልኩ",
+          "ብሚካኤል’የ ዝተፈወስኩ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mikael’yu walta nay hywetey degafyey",
+      "Kab mekera qelt'ifu zewts'a nhywetey",
+      "Qdsti afomya smka zts'ew'et",
+      "Tegelets'kala mhret rekhebet",
+      "N'ay ktred ztesheyemka",
+      "Nay mhret melakh mikael ikha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab mekera whj nkhedhneni",
+          "Mikael mets'iu knfu arayeni",
+          "Zmkhalu zamno ane",
+          "Mikael’yu msay zqome",
+          "Bhmam dewe ztech'eneqku",
+          "Selam zeybley kertet zbelku",
+          "Bmikael’ye ztefewesku"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

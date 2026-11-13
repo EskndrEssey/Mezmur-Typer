@@ -1,0 +1,69 @@
+{
+  "id": 373,
+  "title": "ናይ ምስጋና መስዋዕት",
+  "ti": {
+    "chorus": [
+      "ናይ ምስጋና መስዋዕት ማኅሌት ውዳሴ",
+      "ይግባእ ንኽብሩ ንቅድስት ሥላሴ /2/",
+      "ንሰብ ዝፈጠረ ብኣምሳሉ ጌሩ",
+      "ስጋ ዘዳለወ ኣዕጽምቲ ሰዂዑ",
+      "ንዝፈጠረና ብከሃልነቱ",
+      "ክንዝምር ኢና ስለ ጐይትነቱ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንሰማይ ዝሰርሐ ብዓቢይ ጥበቡ",
+          "ምድሪ ዝዘርግሐ ብቕዱስ ሓሳቡ",
+          "ቤቱ እንክዕጠን መፍርሕ ሕልፍኝኡ",
+          "መላእኽቲ ዘመሩ ቅኔ እናቃነዩ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓዊ ኣዳራሹ ማይ እዩ ጠፈሩ",
+          "ምድሪ መርገጽ እግሩ ሰማይ እዩ መንበሩ",
+          "ክቕደስ ይነብር ብሰማይ መንበሩ",
+          "ውዳሴ ዝማሬ ይግባእ ንኽብሩ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay msgana meswa't mahlet wdase",
+      "Ygba nkhbru nqdst Sslase /2/",
+      "Nseb zfet'ere bamsalu geru",
+      "Sga zedalewe a'ts'mti sekhwi'u",
+      "Nzfet'erena bkehalnetu",
+      "Knzmr ina sle gwaytnetu /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nsemay zserhe b'abiy t'bebu",
+          "Mdri zzerghe bqdus hasabu",
+          "Betu nk't'en mefrh hlfnyu",
+          "Melakhti zemeru qne naqaneyu /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hawi adarashu may yu t'eferu",
+          "Mdri mergets' gru semay yu menberu",
+          "Kqdes ynebr bsemay menberu",
+          "Wdase zmare ygba nkhbru /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

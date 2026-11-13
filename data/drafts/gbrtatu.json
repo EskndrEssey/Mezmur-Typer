@@ -1,0 +1,81 @@
+{
+  "id": 174,
+  "title": "ግብርታቱ",
+  "ti": {
+    "chorus": [
+      "ግብርታቱ ዘይምርመር መንገዱ’ውን ዘይእሰር",
+      "ድንቂ ኢዩ እግዚአብሔር ዝልውጥ ንነገር",
+      "ብቅንኢ ኣሕዋት ተሸይጡ ዮሴፍ ምኻዱ",
+      "ኣብ ጊዜ ጥሜት ኮነ ዋሕስ ዘመዱ",
+      "ምውት ከነኣን ሕያው ኮነ ኣብ ግብጺ",
+      "ንብዝሒ ጥበብ ኣዶናይ የለን መግለጺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሉእ ሕይወቱ ዝመልኦ ስርቂ ሽፍትነት",
+          "ጥጦስ ለመነ ክረክብ ካብ ጐይታ ምሕረት",
+          "ጐይታ መሓሮ ጸደቀ ኣተወ ገነት",
+          "ንፍቕሪ ጐይታ ብሓቂ የብሉን ደረት",
+          "ምስ ተነስሑ ብጣዕሳ ምስ መልኡ መንፈስ",
+          "መፍትሕ ናይ ሰማይ ተዋህበ ከሓዲ ጴጥሮስ",
+          "መምህረ ወንጌል’ውን ኮነ ዘሳድድ ጳውሎስ",
+          "ፍጹም ዝሰኣኖ የለን ንኣምላኽና ቅዱስ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ነውረይ ኣርሒቑ ኣበሳይ ዝሸፈነለይ",
+          "ዝጸውዓኒ ካብ ዓለም ናብ ቤቱ ሠናይ",
+          "ኣነ ኣብዚ ቤቱ ክህሉ መን ሓሲብዎ",
+          "ኲሉ ብእኡ ኢዩ’ሞ ውዳሴ ሃብዎ",
+          "ንኸገልግሎ’ውን ሓይሊ ጸጋ ሂቡኒ",
+          "ከም እሙን ቈጺሩ ከኣ ዝመደበኒ",
+          "ሽሕ እኳ ኃጥእ ርኹስ እንተ ነበርኩ",
+          "ብምዕዛዝ ጸጋ ክርስቶስ ምሕረት ረኸብኩ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gbrtatu zeymrmer mengedu’wn zeyser",
+      "Dnqi iyu gziebher zlwt' nneger",
+      "Bqni ahwat tesheyt'u yosef mkhadu",
+      "Ab gize t'met kone wahs zemedu",
+      "Mwt kenean hyaw kone ab gbts'i",
+      "Nbzhi t'beb adonay yelen meglets'i"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mlu hywetu zmelo srqi shftnet",
+          "T't'os lemene krekb kab gwayta mhret",
+          "Gwayta meharo ts'edeqe atewe genet",
+          "Nfqri gwayta bhaqi yeblun deret",
+          "Ms teneshu bt'a'sa ms melu menfes",
+          "Mefth nay semay tewahbe kehadi p'et'ros",
+          "Memhre wengel’wn kone zesadd p'awlos",
+          "Fts'um zseano yelen namlakhna qdus"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Newrey arhiqu abesay zshefeneley",
+          "Zts'ew'ani kab 'alem nab betu Ssenay",
+          "Ane abzi betu khlu men hasibwo",
+          "Kwilu bu iyu’mo wdase habwo",
+          "Nkhegelglo’wn hayli ts'ega hibuni",
+          "Kem mun qwats'iru kea zmedebeni",
+          "Shh kwa hat' rkhus nte neberku",
+          "Bm'zaz ts'ega krstos mhret rekhebku"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

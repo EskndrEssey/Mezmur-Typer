@@ -1,0 +1,61 @@
+{
+  "id": 839,
+  "title": "ቤዛ ናይ ይስሓቅ",
+  "ti": {
+    "chorus": [
+      "ቤዛ ናይ ይስሓቅ ኣምላከ ኣብርሃም /2/",
+      "ንኹሎም ወገኑ ዓደጎም ብደም /2/",
+      "ብሓሶት ምስክር ከሰሱ ንጐይታ /2/",
+      "ብሞት ንኽቕጻዕ ጨርሑ ብዓውታ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጲላጦስ ገረፎ ሰንሰለት ብምእሳር /2/",
+          "ምስ መንግስተ ሮማ ብሓሳብ ብምስማር /2/",
+          "ድንግል ኣይከኣለትን ከተቋርጽ ንብዓት /2/",
+          "እናረኣየት ወዳ ክሳቐ ስቅያት /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ ዝፋን ናይ ብርሃን ዝቖማ ኣእጋር /2/",
+          "ከመይ ተዓገሳ ንናይ መስቀል ሽንካር /2/",
+          "ኣኽሊል ናይ ብርሃን ኣብ ሰማይ ዝዕድል /2/",
+          "ደፊኡ ወዓለ ንናይ እሾኽ ኣኽሊል /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Beza nay yshaq amlake abrham /2/",
+      "Nkhulom wegenu 'adegom bdem /2/",
+      "Bhasot mskr kesesu ngwayta /2/",
+      "Bmot nkhqts'a' ch'erhu b'awta /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "P'ilat'os gerefo senselet bmsar /2/",
+          "Ms mengste roma bhasab bmsmar /2/",
+          "Dngl aykealetn keteqwarts' nb'at /2/",
+          "Nareayet weda ksaqe sqyat /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab zfan nay brhan zqoma agar /2/",
+          "Kemey te'agesa nnay mesqel shnkar /2/",
+          "Akhlil nay brhan ab semay z'dl /2/",
+          "Defiu we'ale nnay shokh akhlil /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": 270,
+  "title": "መንገድና ነቕንዕ",
+  "ti": {
+    "chorus": [
+      "ድበት ከይደፍኖ ዓይኒ ማይ ልብና",
+      "እሾኽ ከየብቁል ቃድራ ሓሳባትና",
+      "መገድና ነቕንዕ ብሃይማኖት ግብሪ",
+      "ሕማቕ ፍረ የለን ኣብ ጽቡቕ ተኽሊ ዝፈሪ",
+      "ጽባቐ የብሉን ጣዕሚ ናይ ሥጋና",
+      "እሙናን ምዃን’ዩ ዝያዳ መልክዕና",
+      "ፍቓድ ዓለም ምምላእ ደረት ዕርበት’ዩ",
+      "ኦርቶዶክስ ምኃዝ ግና መገዲ ሕይወት’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዕርፊ ምንፍቕና ነግሒ ካብ ጀመረ",
+          "ብጸሎት ንጸመድ ንበሎ ኤሎሄ",
+          "ሓጎስ ክኾነልና ምህርቲ ቀውዕና",
+          "ትኽ ዝበለ መገዲ ንግበረሉ ንኣእጋርና",
+          "ምንጪ ንሕተተሎም ዝነፍሱ ንፋሳት",
+          "ጽድቂ ከይመስለና እንተለዘበ ቃላት",
+          "ብሽብጢ ንስሓ ልቢ ከይተሓፅበ",
+          "ኣእጋርና ኣይስጕምን መገዲ እንተ ረኸበ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደመና ኣይሠፍሮን እቲ ናይ ሓጋይ ሰማይ",
+          "ጸጋ ኣይወርዶን ንበሃሊ ንዓይ",
+          "ጎንና ነስተብህል ከብዲ’ቶም ስኡናን",
+          "ኣፍ ደገ መንግሥቱ’ዩ ምርኅራኅ ንፍጡራን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dbet keydefno 'ayni may lbna",
+      "Shokh keyebqul qadra hasabatna",
+      "Megedna neqn' bhaymanot gbri",
+      "Hmaq fre yelen ab ts'buq tekhli zferi",
+      "Ts'baqe yeblun t'a'mi nay Ssgana",
+      "Munan mkhwan’yu zyada melk'na",
+      "Fqad 'alem mmla deret 'rbet’yu",
+      "Ortodoks mhaz gna megedi hywet’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Rfi mnfqna neghi kab jemere",
+          "Bts'elot nts'emed nbelo elohe",
+          "Hagos kkhonelna mhrti qew'na",
+          "Tkh zbele megedi ngberelu nagarna",
+          "Mnch'i nhtetelom znefsu nfasat",
+          "Ts'dqi keymeslena ntelezebe qalat",
+          "Bshbt'i nsha lbi keytehats'be",
+          "Agarna aysgwmn megedi nte rekhebe"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Demena ayssefron ti nay hagay semay",
+          "Ts'ega aywerdon nbehali n'ay",
+          "Gonna nestebhl kebdi’tom sunan",
+          "Af dege mengsstu’yu mrhrah nft'uran"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

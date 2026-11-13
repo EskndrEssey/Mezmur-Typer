@@ -1,0 +1,23 @@
+{
+  "id": 404,
+  "title": "ኣምላኮሙ ለክርስቲያን",
+  "ti": {
+    "chorus": [
+      "አምላኮሙ ለክርስቲያን ተመሲሎ ሰብአ መጽአ ኃቤየ",
+      "ወይቤላ ቅዱስ ጊዮርጊስ",
+      "ኣንሰ ኢኮንኩ አምላከ ኣላ ገብረ አምላክ ኣነ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Emlakomu lekrstiyan temesilo sebe mets'e habeye",
+      "Weybela qdus giyorgis",
+      "Anse ikonku emlake ala gebre emlak ane"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

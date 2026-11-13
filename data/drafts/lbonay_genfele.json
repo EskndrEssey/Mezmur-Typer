@@ -1,0 +1,61 @@
+{
+  "id": 89,
+  "title": "ልቦናይ ገንፈለ",
+  "ti": {
+    "chorus": [
+      "ልቦናይ ገንፈለ ጽቡቕ ነገር ጥራይ",
+      "ኣነ ከመስግና ንማርያም ኣደይ",
+      "ብውሑድ ደኣ እምበር ብብዙሕ ኣይኮነን",
+      "ኣማላዲት ዓለም ድንግል ማርያም ኣደይ",
+      "ሰላምታ ንዓኺ ጽዮን ድንግል ኣደይ",
+      "ብልመና ናትኪ ድኂና ሕይወተይ",
+      "ርስቲ ናይ ቀራንዮ ኣደይ ኢኺ ናተይ",
+      "ከመስግነኪየ ኣብ ዘመን ሕይወተይ /2/",
+      "ሃብታማት ናይ ምድሪ ኣብ ፊትኪ ሰገዱ",
+      "ሓያላት ናይ ዓለም ኩሎም ተዋረዱ",
+      "ፍቕሪ ኣደነትኪ ስሒቡኒ እዩ",
+      "እመ አምላክ ሓደራ ንዓይ ተመልከቲ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጉሥ ጽባቐኺ ብሂጉ ኣፍቂሩ",
+          "ትሕትናኺ ርእዩ ኣባኺ ሓዲሩ",
+          "ወርቂ ተሰሊምኪ ኣብ ቅድሚኡ ቆይምኪ",
+          "ንዅሉ ወለዶ መመክሒት ኢኺ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Lbonay genfele ts'buq neger t'ray",
+      "Ane kemesgna nmaryam adey",
+      "Bwhud dea mber bbzuh aykonen",
+      "Amaladit 'alem dngl maryam adey",
+      "Selamta n'akhi ts'yon dngl adey",
+      "Blmena natki dhina hywetey",
+      "Rsti nay qeranyo adey ikhi natey",
+      "Kemesgnekiye ab zemen hywetey /2/",
+      "Habtamat nay mdri ab fitki segedu",
+      "Hayalat nay 'alem kulom tewaredu",
+      "Fqri adenetki shibuni yu",
+      "Me emlak hadera n'ay temelketi /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nguss ts'baqekhi bhigu afqiru",
+          "Thtnakhi ryu abakhi hadiru",
+          "Werqi teselimki ab qdmiu qoymki",
+          "Nkhwlu weledo memekhit ikhi /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

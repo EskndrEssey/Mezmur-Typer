@@ -1,0 +1,71 @@
+{
+  "id": 196,
+  "title": "ብፍጹም ገድልን",
+  "ti": {
+    "chorus": [
+      "ብፍጹም ገድልን ፍጹም ብሕትውናን",
+      "ንእግዚአብሔር ዘስመሩ ቅዱሳን",
+      "ዓለም ዝመነኑ ፈጣሪ ብምእማን",
+      "ኣረጋዊን ገብረክርስቶስን /2/",
+      "ኣረጋዊ ኣብ ንኡስ ዕድሜኡ ልቦና መረጸ",
+      "ኣረጋዊ ንግስነትን ሃብትን ሓዲግዎ ወጸ",
+      "ኣረጋዊ  ካብ ጊዝያዊ ሓጎስ ሕይወት ኣቐደመ",
+      "ኣረጋዊ  መንፈሱ ከበርትዕ ስጋኡ ኣድከመ",
+      "ዘደንቕን'ዩ ኵሉ ገድሉ ዝዓበየ",
+      "ንናይ ነፍሱ ክብሪ ዘለዎ ወፈየ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ገብረክርስቶስ ቃልኪዳኑ ግሩም ጽድቂ ዝዓጠቐ",
+          "ገብረክርስቶስ መከራ ዝጾረ ሓይሉ ከይበቐቐ",
+          "ገብረክርስቶስ ተቢዑ ብድሎ ንሽግር ገጠመ",
+          "ገብረክርስቶስ ኣዕይንቲ ደንጸዎ ኣእዛን ተገረመ",
+          "ኣብ ቤቱ ከም ነዳይ ትሕትና መረጸ",
+          "ኣኽሊል ሕይወት ሓርዩ ሕይወቱ ቀበጸ",
+          "ኣበው ጻድቃን ስግር ማዕዶ ገምገም ፍሉይ ግርማ ትርኢት",
+          "ኣበው ጻድቃን ለምለም ቦታ ጽድቂ ዕረፍቲ ናይ ገነት",
+          "ኣበው ጻድቃን  ተሰጊሩ ማዕበል ገድሊ ጉዕዞ ሕይወት",
+          "ኣበው ጻድቃን  የርእየና ጐይታ ርስቲ ሰማይ ክብረት",
+          "ዝረብረበ ሕቖ ደኒኑ ከይተርፍ",
+          "ቅናት ናይ ጸሎትኩም ንድኹም ይደግፍ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bfts'um gedln fts'um bhtwnan",
+      "Ngziebher zesmeru qdusan",
+      "'Alem zmenenu fet'ari bmman",
+      "Aregawin gebrekrstosn /2/",
+      "Aregawi ab nus 'dmeu lbona merets'e",
+      "Aregawi ngsnetn habtn hadigwo wets'e",
+      "Aregawi  kab gizyawi hagos hywet aqedeme",
+      "Aregawi  menfesu kebert' sgau adkeme",
+      "Zedenqn'yu kwlu gedlu z'abeye",
+      "Nnay nefsu kbri zelewo wefeye"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Gebrekrstos qalkidanu grum ts'dqi z'at'eqe",
+          "Gebrekrstos mekera zts'ore haylu keybeqeqe",
+          "Gebrekrstos tebi'u bdlo nshgr get'eme",
+          "Gebrekrstos a'ynti dents'ewo azan tegereme",
+          "Ab betu kem neday thtna merets'e",
+          "Akhlil hywet haryu hywetu qebets'e",
+          "Abew ts'adqan sgr ma'do gemgem fluy grma trit",
+          "Abew ts'adqan lemlem bota ts'dqi 'refti nay genet",
+          "Abew ts'adqan  tesegiru ma'bel gedli gu'zo hywet",
+          "Abew ts'adqan  yeryena gwayta rsti semay kbret",
+          "Zrebrebe hqo deninu keyterf",
+          "Qnat nay ts'elotkum ndkhum ydegf"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

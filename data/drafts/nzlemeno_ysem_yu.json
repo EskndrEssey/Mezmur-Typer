@@ -1,0 +1,73 @@
+{
+  "id": 400,
+  "title": "ንዝለመኖ ይሰምዕ’ዩ",
+  "ti": {
+    "chorus": [
+      "ንዝለመኖ ይሰምዕ’ዩ ጐይታ",
+      "ስሙ ዝጸውዐ ይረክብ እፎይታ",
+      "ኣብ ኢያሪኮ ኣዕይንተይ ከፊቱ",
+      "ሕይወት ክርኢ ኣቚሙኒ ኣብ ቤቱ /2/",
+      "ካብ ኣሕዛብ ምዃነይ እፈልጥ እየ ኣነ",
+      "ርስቲ ከም ዘይብለይ እንተዘይ ኣሚነ",
+      "ሕጂ ግን ተመሊሰ እግዚኣብሔር ይወደስ",
+      "ናተይ ኢኻ ኢሉኒ ደሙ ብምፍሳስ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ከየውጻኹ ቃላት ገለ ከይበልክዎ",
+          "‘ቲ ናይ ልበይ ድሌት ኵሉ ፈሊጥዎ",
+          "ስመይ ባርያ ከሎ ንዕቕቲ ብሰባት",
+          "ኣውያተይ ብምስማዕ ሂቡኒ ማይ ሕይወት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተስፋ ከይቆረጽና ኣብ እምነት ጸኒዕና",
+          "ንቕረብ ናብ ጐይታና ክሕደስ መንፈስና",
+          "ወሃቢ ኵሉ ነገር ከሎ መስፍን ሰላም",
+          "ኣእዳውና ኣይንዘርግሕ ናብ ምስሊ ‘ዛ ዓለም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nzlemeno ysem'’yu gwayta",
+      "Smu zts'ew'e yrekb foyta",
+      "Ab iyariko a'yntey kefitu",
+      "Hywet kri aqwimuni ab betu /2/",
+      "Kab ahzab mkhwaney felt' ye ane",
+      "Rsti kem zeybley ntezey amine",
+      "Hji gn temelise gziabher ywedes",
+      "Natey ikha iluni demu bmfsas"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Keyewts'akhu qalat gele keybelkwo",
+          "‘Ti nay lbey dlet kwlu felit'wo",
+          "Smey barya kelo n'qti bsebat",
+          "Awyatey bmsma' hibuni may hywet"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tesfa keyqorets'na ab mnet ts'eni'na",
+          "Nqreb nab gwaytana khdes menfesna",
+          "Wehabi kwlu neger kelo mesfn selam",
+          "Adawna aynzergh nab msli ‘za 'alem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 515,
+  "title": "ዕልል ዕልልንበል",
+  "ti": {
+    "chorus": [
+      "ዕልል ዕልል ንበል ኩላትና ብሕብረት",
+      "ድንግል ብድንግላ ጸኒሳ ወለደት",
+      "ስሙ’ውን ኣማኑኤል በለት",
+      "ዘደንቕ ጥበብ’ዩ ፍጹም ዘይምርመር",
+      "ብሕሊና ናይ ሰብ ክብጻሕ ዘይክእል",
+      "ሃሪ ወርቂ እንክትፈትል ብስራት ሰምዐት",
+      "ጥበብ ናይ እግዚአብሔር ይኹነለይ በለት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትሕትናኣ ርእዩ ናታ ቅድስና",
+          "ሕፍቲ ዘይርከባ ኣደ ናይ ኣምላኽና",
+          "እግዚአብሔር መረጻ ኣብኣ’ውን ሓደረ",
+          "ብፍጹም ድንግልና ካብኣ ተወለደ",
+          "መንፈስቅዱስ መልአ ቤት ናይ ዘካርያስ",
+          "ሰላምታ ኣቕረበት ኤልሳቤጥ ብሓጎስ",
+          "ህፃን ተሰራሰረ ኣብ ከርሳ ብደስታ",
+          "ብጽእቲ’ላ መስከረት ንወላዲት ጐይታ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምስጢራዊት ኣደ ዕጽውቲ ከተማ",
+          "ማንም ዘይከፍታ ኣደ ናይ ኣምላኽና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "'Ll 'll nbel kulatna bhbret",
+      "Dngl bdngla ts'enisa weledet",
+      "Smu’wn amanuel belet",
+      "Zedenq t'beb’yu fts'um zeymrmer",
+      "Bhlina nay seb kbts'ah zeykl",
+      "Hari werqi nktfetl bsrat sem'et",
+      "T'beb nay gziebher ykhuneley belet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Thtnaa ryu nata qdsna",
+          "Hfti zeyrkeba ade nay amlakhna",
+          "Gziebher merets'a aba’wn hadere",
+          "Bfts'um dnglna kaba tewelede",
+          "Menfesqdus mele bet nay zekaryas",
+          "Selamta aqrebet elsabet' bhagos",
+          "Hts'an teserasere ab kersa bdesta",
+          "Bts'ti’la meskeret nweladit gwayta"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mst'irawit ade 'ts'wti ketema",
+          "Manm zeykefta ade nay amlakhna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

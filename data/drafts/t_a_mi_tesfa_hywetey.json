@@ -1,0 +1,101 @@
+{
+  "id": 293,
+  "title": "ጣዕሚ ተስፋ ሕይወተይ",
+  "ti": {
+    "chorus": [
+      "ጣዕሚ ተስፋ ሕይወተይ መዓር ወይኒ ዘለላ",
+      "ኣደ ጐይታየ ድንግል ምሳይ ኩኒ ሓደራ",
+      "ኣረጊት ሰብነት ኮይንዎ ኣብቂዑ",
+      "ተፈንፊኑ ይበሃል ኣኺሉ ጊዜኡ",
+      "ግን ዓይኒ የቋምት ልቢ’ውን ይምነ",
+      "መይመይ ይብል ኣሎ እንታይ ከምዝኣመነ",
+      "መኒነ ኣይኮንኩን’ድየ ውሽጣዊ ምስጢሩ",
+      "ሕሉፍ ናብራ ሥጋ ሎሚ ምሒር ተዘኪሩ",
+      "ምሉእ ክኾነለይ ፍጹም ንኽባተኽ",
+      "ድንግል ሓግዝኒ ሎሚ ርእሰይ ንኽሓክኽ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓቒቕ ማይ ኣብ ቅድመይ ነፍሰይ ትነጽሃሉ",
+          "ኣእምሮይ ግን ወይከ ክልብም ከመይ’ሉ",
+          "ሓዘነይ ክቕንጠጥ  ኮታ ንኽድበስ",
+          "ኢድኪ ዘርግሕለይ ፍጹም ልበይ ንኽጠዓስ",
+          "በረኸቱ ርእየ ኣብ ዘመን ሕይወተይ",
+          "ኣቦ ምሕረት ፍቕሪ ገጹ ክመልሰለይ",
+          "ክንደይ’ውን ሓሊፈ ክፉእ ሕሰም ናብራ",
+          "ኵሉ ሰጊረዮ ናይ ጉዕዞይ መከራ",
+          "ዘይታኸስ ጓሳ ሕያዋይ ሳምራዊ",
+          "ወትሩ ምሳይ እዩ ኣምላኽ ናይ ነፍሰይ ሓላዊ",
+          "እንታይ ኮይነ ኢለ ድኣ ዘይነብር ቀሲነ",
+          "ብምስጋና ሕይወት ድንግል ጸሎትኪ ኣሚነ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ደረት ኣልቦ ፍቕሩ ማንም ዘይልክዖ",
+          "ዕረ መዝባ ጽዋእ ክሰቲ ዘብጽሖ",
+          "ኵሉ ዝገበሮ ስለይ መከረኛ",
+          "ኣበይ እሞ ኢለዮ ክቡር ውርደተኛ",
+          "ፍቕሩ ተሰኪመ ኣምላኻዊ ሕጊ",
+          "መሊአ ብሓጎስ ደስታ ሰማያዊ ባህጊ",
+          "ጉዕዞይ ክሰምረለይ ክሳብ መፈጸምታ",
+          "ሳልይኒ ድንግል /3/ ኣደ ጐይታ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "T'a'mi tesfa hywetey me'ar weyni zelela",
+      "Ade gwaytaye dngl msay kuni hadera",
+      "Aregit sebnet koynwo abqi'u",
+      "Tefenfinu ybehal akhilu gizeu",
+      "Gn 'ayni yeqwamt lbi’wn ymne",
+      "Meymey ybl alo ntay kemzamene",
+      "Menine aykonkun’dye wsht'awi mst'iru",
+      "Hluf nabra Ssga lomi mhir tezekiru",
+      "Mlu kkhoneley fts'um nkhbatekh",
+      "Dngl hagzni lomi rsey nkhhakkh"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Haqiq may ab qdmey nefsey tnets'halu",
+          "Amroy gn weyke klbm kemey’lu",
+          "Hazeney kqnt'et'  kota nkhdbes",
+          "Idki zerghley fts'um lbey nkht'e'as",
+          "Berekhetu rye ab zemen hywetey",
+          "Abo mhret fqri gets'u kmelseley",
+          "Kndey’wn halife kfu hsem nabra",
+          "Kwlu segireyo nay gu'zoy mekera",
+          "Zeytakhes gwasa hyaway samrawi",
+          "Wetru msay yu amlakh nay nefsey halawi",
+          "Ntay koyne ile da zeynebr qesine",
+          "Bmsgana hywet dngl ts'elotki amine"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Deret albo fqru manm zeylk'o",
+          "'Re mezba ts'wa kseti zebts'ho",
+          "Kwlu zgebero sley mekerenya",
+          "Abey mo ileyo kbur wrdetenya",
+          "Fqru tesekime amlakhawi hgi",
+          "Melie bhagos desta semayawi bahgi",
+          "Gu'zoy ksemreley ksab mefets'emta",
+          "Salyni dngl /3/ ade gwayta"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

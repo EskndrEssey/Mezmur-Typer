@@ -1,0 +1,89 @@
+{
+  "id": 26,
+  "title": "ይኩነኒ በከመ ትቤለኒ",
+  "ti": {
+    "chorus": [
+      "ይኩነኒ በከመ ትቤለኒ /2/",
+      "በለት ኣዴና ብትሕትና",
+      "ብስጋን ብነፍስን ንጽህት ብምዃና",
+      "ድንግል በክልኤ ንጽህት ብምዃና",
+      "ናይ ኣዳም ቃልኪዳን ፍጻሜኡ እንኪበጽሕ",
+      "ገብርኤል ተላእከ ናብ ቤተ መቅደስ",
+      "ኣብ ሕሊና እግዚአብሔር ተሳኢላ ነበረት",
+      "ካብ ሰማይ ዝወጸ ቃሉ ተቐበለት",
+      "ዳግሚት ሰማይ ኣርያም ኮነት",
+      "ይኹነኒ ኢላ ብትሕትና ተቐበለት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኦ ማርያም ኣይትፍርሒ ኢሉ ኣረጋግኣ",
+          "ካባኺ ዝውለድ መድኃኒት’ዩ በላ",
+          "ወዲ ዘይፈልጥ’ሲ ከመይ ኢሉ ይኸውን",
+          "ኢላ ሓተተቶ ድንግል ተደነቐት",
+          "ካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ",
+          "ብሕጊ ኣይኮነን ብድንግልና ክትወልዲ ኢኺ",
+          "ቃልካ ይፍጸም ይኩነኒ ኢላ",
+          "ተኣምር ተሰምዐ ኢየሩሳሌም ናዝሬት ገሊላ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ገሪሙና’ዩ ብስራት ገብርኤል",
+          "ከም ናይ ዘካርያስ ከቶ ኣይኮነን",
+          "ዝተመርጸት’ያ ዝበጽሓ ብስራት",
+          "ንዓለም ካብ ሙማት ካብ መርገም ዘድሓነት",
+          "ካብ ኣንስቲ ኩለን ፍልይቲ ኢኺ",
+          "ብሕጊ ኣይኮነን ብድንግልና ክትጸንሲ ኢኺ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ykuneni bekeme tbeleni /2/",
+      "Belet adena bthtna",
+      "Bsgan bnefsn nts'ht bmkhwana",
+      "Dngl bekle nts'ht bmkhwana",
+      "Nay adam qalkidan fts'ameu nkibets'h",
+      "Gebrel telake nab bete meqdes",
+      "Ab hlina gziebher tesaila neberet",
+      "Kab semay zwets'e qalu teqebelet",
+      "Dagmit semay aryam konet",
+      "Ykhuneni ila bthtna teqebelet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "O maryam aytfrhi ilu aregaga",
+          "Kabakhi zwled medhanit’yu bela",
+          "Wedi zeyfelt'’si kemey ilu ykhewn",
+          "Ila hateteto dngl tedeneqet",
+          "Kab ansti kulen flyti ikhi",
+          "Bhgi aykonen bdnglna ktweldi ikhi",
+          "Qalka yfts'em ykuneni ila",
+          "Teamr tesem'e iyerusalem nazret gelila"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gerimuna’yu bsrat gebrel",
+          "Kem nay zekaryas keto aykonen",
+          "Ztemerts'et’ya zbets'ha bsrat",
+          "N'alem kab mumat kab mergem zedhanet",
+          "Kab ansti kulen flyti ikhi",
+          "Bhgi aykonen bdnglna ktts'ensi ikhi"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

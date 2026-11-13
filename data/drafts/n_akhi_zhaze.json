@@ -1,0 +1,83 @@
+{
+  "id": 130,
+  "title": "ንዓኺ ዝሓዘ",
+  "ti": {
+    "chorus": [
+      "ንዓኺ ዝሓዘ እንታ’ዩ ዝጎድሎ",
+      "ብምልጃኺ ኵሉ ቤቱ መሊእክሉ",
+      "ንዅሉ ዝምግብ ጸጋኺ ዘይጎድል",
+      "ስምኪ ጥዑም መግቢ ንጥሙይ ዝዕንግል/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምስ ትመጺ ንስኺ ናብዛ ምስኪን ገዛይ",
+          "ከም ኣደ ናይ መጥምቕ በዚሑ ሓጎሰይ",
+          "ንቑርባን ሓዲስ ኪዳን ኢኺ ጠረጴዛ",
+          "ጽድቂ ናይ ሕይወትኪ ይሽትት መኣዛ /2/",
+          "ተጠራጢሩ ልበይ ኪዳንኪ ከይክሕድ",
+          "ድንግል ሓግዝኒ በረኸት ክረክብ",
+          "ኵሉ እናመላእኪ መግቢ ትምግቢ",
+          "ፈጺሙ ዘይውዳእ ጸጋ ሃብቲ ኣለኪ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መዕረፊ እግዚአብሔር ቆጥቋጥ ናይ ኮሬብ",
+          "ንጽድቂ  ተፍስሲ ምንጪ ናይ ሕይወት",
+          "ተወሃሂዱኪ እሳት ሙሴ ዝረኣየኪ",
+          "ኣሳእኑ ኣውጺኡ ሰጊዱ ኣብ ቅድሜኺ /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዘማሪት ጽገሬዳ ጥላሁን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "N'akhi zhaze nta’yu zgodlo",
+      "Bmljakhi kwlu betu meliklu",
+      "Nkhwlu zmgb ts'egakhi zeygodl",
+      "Smki t''um megbi nt'muy z'ngl/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ms tmets'i nskhi nabza mskin gezay",
+          "Kem ade nay met'mq bezihu hagosey",
+          "Nqurban hadis kidan ikhi t'erep'eza",
+          "Ts'dqi nay hywetki yshtt meaza /2/",
+          "Tet'erat'iru lbey kidanki keykhd",
+          "Dngl hagzni berekhet krekb",
+          "Kwlu namelaki megbi tmgbi",
+          "Fets'imu zeywda ts'ega habti aleki /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Me'refi gziebher qot'qwat' nay koreb",
+          "Nts'dqi  tefssi mnch'i nay hywet",
+          "Tewehahiduki sat muse zreayeki",
+          "Asanu awts'iu segidu ab qdmekhi /2/"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Zemarit ts'gereda t'lahun"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

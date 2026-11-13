@@ -1,0 +1,75 @@
+{
+  "id": 159,
+  "title": "ማርያም ማርያም",
+  "ti": {
+    "chorus": [
+      "ማርያም ማርያም ክብለኪ ደጊመ",
+      "ኣብ ትሕቴኺ ኣብ መቕደስኪ ቆይመ",
+      "ብምእማነይ ናትኪ ኣማላድነት",
+      "ኣምሊጠ’የ ናይ ጸላኢ ኵናት",
+      "ይመጽእ ይኸይድ ፍጥረት",
+      "ወትሩ ኣብ ልሳን ስምኪ’ያ ሕትምት",
+      "ኣብቲ ቅዱስ ናይ ወለዶ ሓረግ",
+      "ተጸብጺብና ምስጋናኺ ይዕረግ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መሳልል ናይ ሎዛ ተኣምር",
+          "ናይ ነጻነት ናይ ሕይወት ሃገር",
+          "ንደቂ ሰብ ምኽንያት ድኅነት ኮይንኪ",
+          "ኪዳንኪ’ሎ ነቲ ዝፈትወኪ",
+          "ንጽህናኺ ዘይብሉ ጉድለት",
+          "ምልጃኺ’ውን ዘድሓነ ነፍሳት",
+          "ሓይሉኒ ብርቱዕ ናፍቖትኪ",
+          "ክረጋጋእ ኣደየ ርኤኪ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘማሪት ህጻን ቃልኪዳን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Maryam maryam kbleki degime",
+      "Ab thtekhi ab meqdeski qoyme",
+      "Bmmaney natki amaladnet",
+      "Amlit'e’ye nay ts'elai kwnat",
+      "Ymets' ykheyd ft'ret",
+      "Wetru ab lsan smki’ya htmt",
+      "Abti qdus nay weledo hareg",
+      "Tets'ebts'ibna msganakhi y'reg"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mesall nay loza teamr",
+          "Nay nets'anet nay hywet hager",
+          "Ndeqi seb mkhnyat dhnet koynki",
+          "Kidanki’lo neti zfetweki",
+          "Nts'hnakhi zeyblu gudlet",
+          "Mljakhi’wn zedhane nefsat",
+          "Hayluni brtu' nafqotki",
+          "Kregaga adeye reki"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zemarit hts'an qalkidan"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

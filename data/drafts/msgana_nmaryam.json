@@ -1,0 +1,69 @@
+{
+  "id": 335,
+  "title": "ምስጋና ንማርያም",
+  "ti": {
+    "chorus": [
+      "ምስጋና ንማርያም ካብ ሞት",
+      "ኣድኂና ብሕይወት ዘንበረትና",
+      "ናይ ቅዱሳን ሕይወት ኣደ መድኃኒና /2/",
+      "ንዓኺ መሪጹ ከይተፈጥረ ዓለም",
+      "ንዓና ንኸድሕን ሕያው መድኃኔ ዓለም",
+      "ብኣኺ ኢና’ሞ ሕይወት ዝረኸብና",
+      "ምስጋና ይብጻሕኪ ማርያም ኣዴና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ሰማይ ወሪዱ መድኃኔ ዓለም",
+          "ብሓቂ ይመስገን ይኽበር ንዘልዓለም",
+          "ንዘምር ኩልና ንጐይታ ፈጣሪ",
+          "ክንዲ ዝሃበና ናይ ዘልዓለም ክብሪ",
+          "ሓጢኣትና በዚሑ ሸኽሙ ከቢዱና",
+          "ኣቃልልና’ዶ ርህርህቲ ኣዴና",
+          "ንዓና ደቅኺ ሓጢኣት ዝበዝሓና",
+          "ካብ ፍቑር ወድኺ ምሕረት ለምንልና",
+          "መሰረት ሕይወትና ድኅነት ናይ ነፍስና",
+          "ኣምላኽ ብምውላድኪ ካብ ጸልማት ወጺና",
+          "ካብ መከራ ኣውጺኡ ክህበና ሰላም",
+          "ተወሊዱ ጐይታ ካብ ድንግል ማርያም"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msgana nmaryam kab mot",
+      "Adhina bhywet zenberetna",
+      "Nay qdusan hywet ade medhanina /2/",
+      "N'akhi merits'u keytefet're 'alem",
+      "N'ana nkhedhn hyaw medhane 'alem",
+      "Bakhi ina’mo hywet zrekhebna",
+      "Msgana ybts'ahki maryam adena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab semay weridu medhane 'alem",
+          "Bhaqi ymesgen ykhber nzel'alem",
+          "Nzemr kulna ngwayta fet'ari",
+          "Kndi zhabena nay zel'alem kbri",
+          "Hat'iatna bezihu shekhmu kebiduna",
+          "Aqallna’do rhrhti adena",
+          "N'ana deqkhi hat'iat zbezhana",
+          "Kab fqur wedkhi mhret lemnlna",
+          "Meseret hywetna dhnet nay nefsna",
+          "Amlakh bmwladki kab ts'elmat wets'ina",
+          "Kab mekera awts'iu khbena selam",
+          "Tewelidu gwayta kab dngl maryam"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

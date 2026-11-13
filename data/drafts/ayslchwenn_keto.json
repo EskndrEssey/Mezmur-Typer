@@ -1,0 +1,63 @@
+{
+  "id": 57,
+  "title": "ኣይስልችወንን ከቶ",
+  "ti": {
+    "chorus": [
+      "ኣይስልችወንን ከቶ ውዳሴ መዝሙር ቅኔ",
+      "ብዙሕ’ዩ ጌሩለይ እግዚአብሔር ኣብ ዘመነይ",
+      "ምሕረቱን ዓቢይ ፍቕሩን ሎም’ውን ኣይሓደገን",
+      "ኣብ ልሙዕ ሸኻ ለምለም ነባጊዑ ይመርሐን",
+      "ሓያል’ዩ ናትና ኣምላኽ ንዘለዓለም ዝርህርህ",
+      "መጽሓፍ ዕዳ ቀንጢጡ ጸገም ሽግር ዝፈትሕ",
+      "ምእንታይ ተሰቒሉ ፍጹም ዓወት ሂቡኒ",
+      "ምእንታይ ተሰቒሉ ብሕይወት ኣንቢሩኒ",
+      "ብዙሕ’ዩ ውዕለቱ  ተዘርዚሩ ኣይውዳእን",
+      "ንውዕለቱ ዝገልጽ ብርቱዕ ቃል ኣይርከብን",
+      "ንስኻ ሓያል ኢኻ ዝመስለካ’ውን የለን",
+      "ኣብ ዙፋንካ ትነብር ጸኒዕካ ዘለዓለም",
+      "ብተስፋኻ ኣሚነ ናባኻ መጺአ ኣለኹ",
+      "ተመስገን ክበረለይ ንገሰለይ እናበልኩ",
+      "ፈሊኻ ጸዊዕካኒ ጸጋኻ ኣብዚሕካለይ",
+      "ዘወትር ኣብ ቅድሜኻ ኣመስገንኩኻ ጐይታይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኸይ ፈታዊየይ ኢለ ክጽውዓካ",
+          "ኢየሱስ ወዲ ኣምላኽ ለዊጡኒ ፍቕርኻ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ayslchwenn keto wdase mezmur qne",
+      "Bzuh’yu geruley gziebher ab zemeney",
+      "Mhretun 'abiy fqrun lom’wn ayhadegen",
+      "Ab lmu' shekha lemlem nebagi'u ymerhen",
+      "Hayal’yu natna amlakh nzele'alem zrhrh",
+      "Mets'haf 'da qent'it'u ts'egem shgr zfeth",
+      "Mntay teseqilu fts'um 'awet hibuni",
+      "Mntay teseqilu bhywet anbiruni",
+      "Bzuh’yu w'letu  tezerziru aywdan",
+      "Nw'letu zgelts' brtu' qal ayrkebn",
+      "Nskha hayal ikha zmesleka’wn yelen",
+      "Ab zufanka tnebr ts'eni'ka zele'alem",
+      "Btesfakha amine nabakha mets'ie alekhu",
+      "Temesgen kbereley ngeseley nabelku",
+      "Felikha ts'ewi'kani ts'egakha abzihkaley",
+      "Zewetr ab qdmekha amesgenkukha gwaytay"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakhey fetawiyey ile kts'w'aka",
+          "Iyesus wedi amlakh lewit'uni fqrkha"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

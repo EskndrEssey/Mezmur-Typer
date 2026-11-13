@@ -1,0 +1,41 @@
+{
+  "id": 356,
+  "title": "ደቂቀ ሰላም",
+  "ti": {
+    "chorus": [
+      "ትግሁ እስከ ይትፌጸም ተስፋሁ /2/",
+      "ሃሌ ሃሌ ሉያ ይሠርቅ ኮከብ እምያዕቆብ",
+      "ወአነሂ በኩርየ እሬስዮ ወአነሂ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ልዑል ውእቱ እም ነገስተ ምድር ወኣነሂ",
+          "ወኣነሂ በኩርየ እሬስዮ ወኣነሂ",
+          "ዲ/ን ሙሉእ ሓጎስ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Tghu ske ytfets'em tesfahu /2/",
+      "Hale hale luya ysserq kokeb mya'qob",
+      "Weenehi bekurye resyo weenehi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "L'ul wtu m negeste mdr weanehi",
+          "Weanehi bekurye resyo weanehi",
+          "Di/n mulu hagos"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

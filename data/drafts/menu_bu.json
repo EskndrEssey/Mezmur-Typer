@@ -1,0 +1,93 @@
+{
+  "id": 104,
+  "title": "እመኑ ብኡ",
+  "ti": {
+    "chorus": [
+      "እመኑ ብኡ በቲ ሓያል ጐይታ",
+      "ንዕኡ ዝመስል ማንም የለን ኮታ",
+      "ውቅያኖስ ባሕሪ ዋላ እንተተንስአ",
+      "ክዝሕል እዩ ዝኾነ እንተኾነ",
+      "እመኑ ብኡ ነደደ ‘ቲ እምባ",
+      ">>  >>  ተሃውከ ‘ቲ ሩባ",
+      ">>  >>  ‘ቲ ጽሕዲ ተሰብረ",
+      ">>  >>  ‘ቲ ከውሒ ተጨድደ",
+      ">>  >>  ጣዖታት ኣህዛብ",
+      ">>  >>  ቅድሚኡ ረገፉ",
+      ">>   >>  ከኣሊ ኵሉ ዩ",
+      ">>   >>  ጐይታ መድኃኔዓለም",
+      ">>   >>  ፍቕሪ’ዩ ዘለዓለም",
+      ">>   >>  ፍሉይ ርህራሄኡ",
+      ">>   >>  ይነብራ ኣእዳዉ",
+      ">>   >>  ተዘርጊሔን ወትሩ",
+      "እመኑ ብኡ ማዕበል ዘይሰብሮ",
+      ">>  >>  ጽኑዕዩ መርከብና",
+      ">>  >>  ፍርሒ የለን ራዕዲ",
+      ">>  >>  ኣብ ጎኑ ከለና",
+      ">>  >>  ተጻይ ተሳዒሩ",
+      ">>  >>  ሰይጣን’ውን ሓፊሩ",
+      ">>  >>  ብመዝሙር ምስጋና",
+      ">>  >>  ይመሰጥ ልብና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እመኑ ብኡ ፈኸራ ጸላኢ",
+          ">>  >>  ዋጋ የብሉን",
+          ">>  >>  ዘይገድፈና ኣምላኽ",
+          ">>  >>  ምሳና’ዩ መድኅን",
+          ">>  >>  መሊኡ እናኣንጀርበበ",
+          ">>  >>  ጸጋኡ ካብ በዝሐ",
+          ">>  >>  ንሞት እናረገጽና",
+          ">>  >>  ንዝምር ጌና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Menu bu beti hayal gwayta",
+      "N'u zmesl manm yelen kota",
+      "Wqyanos bahri wala ntetense",
+      "Kzhl yu zkhone ntekhone",
+      "Menu bu nedede ‘ti mba",
+      ">>  >>  Tehawke ‘ti ruba",
+      ">>  >>  ‘Ti ts'hdi tesebre",
+      ">>  >>  ‘Ti kewhi tech'edde",
+      ">>  >>  T'a'otat ahzab",
+      ">>  >>  Qdmiu regefu",
+      ">>   >>  Keali kwlu yu",
+      ">>   >>  Gwayta medhane'alem",
+      ">>   >>  Fqri’yu zele'alem",
+      ">>   >>  Fluy rhraheu",
+      ">>   >>  Ynebra adawu",
+      ">>   >>  Tezergihen wetru",
+      "Menu bu ma'bel zeysebro",
+      ">>  >>  Ts'nu'yu merkebna",
+      ">>  >>  Frhi yelen ra'di",
+      ">>  >>  Ab gonu kelena",
+      ">>  >>  Tets'ay tesa'iru",
+      ">>  >>  Seyt'an’wn hafiru",
+      ">>  >>  Bmezmur msgana",
+      ">>  >>  Ymeset' lbna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Menu bu fekhera ts'elai",
+          ">>  >>  Waga yeblun",
+          ">>  >>  Zeygedfena amlakh",
+          ">>  >>  Msana’yu medhn",
+          ">>  >>  Meliu naanjerbebe",
+          ">>  >>  Ts'egau kab bezhe",
+          ">>  >>  Nmot naregets'na",
+          ">>  >>  Nzmr gena"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

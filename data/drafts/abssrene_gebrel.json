@@ -1,0 +1,87 @@
+{
+  "id": 414,
+  "title": "ኣብሥረነ ገብርኤል",
+  "ti": {
+    "chorus": [
+      "እምነ ኣምላክ ተፈናዊ",
+      "መጋቤ ሐዲስ ብሥራታዊ",
+      "ከመ ይትባረክ ሕይወተ ዚአነ",
+      "ብሥራተ ጽድቅ ልማደከ አስምዐነ",
+      "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+      "ብሥራተ ጽድቅ ኣብሥረነ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሊሉይ ውእቱ ግብረ እንቲአከ",
+          "ወኢይትረከብ ፍሡሕ ከማከ",
+          "ሰአሎ ለኣምላክ ምስሌሁ ነሀሉ",
+          "ፍና እግሩ እንዘ ፍጹመ ንተሉ",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ",
+          "ሠለስተ ደቂቀ ዘኣድኃንከ ግብተ",
+          "ሰፊሐከ ክንፈ አቍረርከ እሳተ",
+          "በሰይፈ ዚአከ ኲናተ ፀራዊ",
+          "አርሕቅ ለነ ገብርኤል ብሥራታዊ",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲያብሎስሀ ውስተ ነድ ወደይከ",
+          "ዘካርያስሀ በሃመ ረሰይከ",
+          "አንቅሐነ ለነ እምነ ንዋም",
+          "ኀበ ጽድቅ ከመ ንሑር በሰላም",
+          "ኣብሥረነ ገብርኤል ኣብሥረነ (2)",
+          "ብሥራተ ጽድቅ ኣብሥረነ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mne amlak tefenawi",
+      "Megabe hedis bssratawi",
+      "Keme ytbarek hywete ziene",
+      "Bssrate ts'dq lmadeke esm'ene",
+      "Abssrene gebrel abssrene (2)",
+      "Bssrate ts'dq abssrene"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Liluy wtu gbre ntieke",
+          "Weiytrekeb fssuh kemake",
+          "Seelo leamlak mslehu nehelu",
+          "Fna gru nze fts'ume ntelu",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene",
+          "Sseleste deqiqe zeadhanke gbte",
+          "Sefiheke knfe eqwrerke sate",
+          "Beseyfe zieke kwinate ts'erawi",
+          "Erhq lene gebrel bssratawi",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Diyabloshe wste ned wedeyke",
+          "Zekaryashe behame reseyke",
+          "Enqhene lene mne nwam",
+          "Hebe ts'dq keme nhur beselam",
+          "Abssrene gebrel abssrene (2)",
+          "Bssrate ts'dq abssrene"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

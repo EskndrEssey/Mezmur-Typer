@@ -1,0 +1,73 @@
+{
+  "id": 357,
+  "title": "የሩበዓል",
+  "ti": {
+    "chorus": [
+      "የሩበዓል ኮይኑ ስመይ /2/",
+      "ቀይርዎ ታሪኸይ ኣንጻር ሰይጣን'ዩ ዕላማይ /2/",
+      "ዝነኣስኩ ካብ ቤት ኣቦይ ኣምላኽ መሪጹኒ",
+      "ዝሓመቕኩ ካብ ነገደይ ኣምላኽ ኣኽቢሩኒ",
+      "ንጸላእተይ ከሰንፎም ጉልበተይ ኮይኑኒ",
+      "ብፈቓዱ ብስልጣኑ የሩበዓል ጌርዎ ስመይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ድምጺ ፍቕሩ ሰሚዐዮ ኣጸናኒዕኒ",
+          "ከምዘይመውት ብቓላቱ መጺኡ ነጊሩኒ",
+          "ናይ ኣምልኾ ናይ መስዋእቲ ንፍቕሩ ምስጋና",
+          "እግዚአብሔር ሰላመይ እዩ የሩበዓል ጌርዎ ስመይ",
+          "ናይ ጸላእተይ ቁጽሪ ይብዛሕ ብዘይ መጠን",
+          "ናተይ ጉልበት ኣምላኸይ እዩ ፍጹም ኣይፈርሕን",
+          "ሓዘን ይኹን ክሕጎስየ ስሙ ጥራይ ምእማን",
+          "ብኣምላኸይ ብእግዚእብሔር የሩበዓል ጌርዎ ስመይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሚዳምያውያን ይፈክሩ ንሞት ንጥፍኣተይ",
+          "ናተይ ኣምላኽ ዝረድእዩ መጺኡ ኣብ ጭንቀተይ",
+          "ኣይፈርህን ኣይሰግእን ኣነ ካብ ጸላእተይ",
+          "ክብሪ ይኹን ንኣምላኸይ የሩበዓል ጌርዎ ስመይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Yerube'al koynu smey /2/",
+      "Qeyrwo tarikhey ants'ar seyt'an'yu 'lamay /2/",
+      "Zneasku kab bet aboy amlakh merits'uni",
+      "Zhameqku kab negedey amlakh akhbiruni",
+      "Nts'elatey kesenfom gulbetey koynuni",
+      "Bfeqadu bslt'anu yerube'al gerwo smey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dmts'i fqru semi'eyo ats'enani'ni",
+          "Kemzeymewt bqalatu mets'iu negiruni",
+          "Nay amlkho nay meswati nfqru msgana",
+          "Gziebher selamey yu yerube'al gerwo smey",
+          "Nay ts'elatey quts'ri ybzah bzey met'en",
+          "Natey gulbet amlakhey yu fts'um ayferhn",
+          "Hazen ykhun khgosye smu t'ray mman",
+          "Bamlakhey bgzibher yerube'al gerwo smey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Midamyawyan yfekru nmot nt'fatey",
+          "Natey amlakh zredyu mets'iu ab ch'nqetey",
+          "Ayferhn aysegn ane kab ts'elatey",
+          "Kbri ykhun namlakhey yerube'al gerwo smey"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

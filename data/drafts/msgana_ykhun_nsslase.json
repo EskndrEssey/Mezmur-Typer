@@ -1,0 +1,69 @@
+{
+  "id": 43,
+  "title": "ምስጋና ይኹን ንሥላሴ",
+  "ti": {
+    "chorus": [
+      "ምስጋና ይኹን ንሥላሴ /2/",
+      "ካብ ፍጥረታት ኣኽቢርካኒ",
+      "ብምስልኻ ፈጢርካኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንፈጣሪ ንሥላሴ",
+          "ከየሰልከየት ትዘምር ነፍሰይ",
+          "ስሙ ጸዊዐ ረዊየየ",
+          "ከም ጽቡቕ ኦም ለምሊመ’የ (2)",
+          "ዝወፍርም ዝኣትውን",
+          "ኵሉ ነገር ዝዓምም",
+          "ጀሚረ’ውን ዝፍጽም",
+          "ጸዊዐየ ናቱ ስም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሥላሴ ይፈልጡ እዮም",
+          "ዘለዓለም ሕያዋን `ዮም",
+          "ብሥላሴ ከቢረየ",
+          "ውሉድነት ረኺበ’የ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msgana ykhun nsslase /2/",
+      "Kab ft'retat akhbirkani",
+      "Bmslkha fet'irkani"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nfet'ari nsslase",
+          "Keyeselkeyet tzemr nefsey",
+          "Smu ts'ewi'e rewiyeye",
+          "Kem ts'buq om lemlime’ye (2)",
+          "Zwefrm zatwn",
+          "Kwlu neger z'amm",
+          "Jemire’wn zfts'm",
+          "Ts'ewi'eye natu sm"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Sslase yfelt'u yom",
+          "Zele'alem hyawan `yom",
+          "Bsslase kebireye",
+          "Wludnet rekhibe’ye"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

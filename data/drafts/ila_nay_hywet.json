@@ -1,0 +1,65 @@
+{
+  "id": 504,
+  "title": "ዒላ ናይ ሕይወት",
+  "ti": {
+    "chorus": [
+      "ናይ ጭኮና ሓዊ መኣዲ ናይሕይወት",
+      "ተጥፍኢ ለሚንኪ መኣዲ ናይ ሕይወት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እቲ ዝበላዕናዮ መኣዲ ናይ ሕይወት",
+          "ጠሚና ከለና መኣዲ ናይ ሕይወት",
+          "ካባኺ ዝተረኽበ መኣዲ ናይ ሕይወት",
+          "መድኃኒት ኮይኑና መኣዲ ናይ ሕይወት",
+          "ጽርይቲ ዓይኒ ማይ መኣዲ ናይ ሕይወት",
+          "ሕርኽራኽ ዘይብልኪ መኣዲ ናይ ሕይወት",
+          "ምስ ረወየ እዩ መኣዲ ናይ ሕይወት",
+          "እቲ ዝለመነኪ መኣዲ ናይ ሕይወት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እቲ ዝሓረየኪ መኣዲ ናይ ሕይወት",
+          "ብምኽንያት ትሕትና መኣዲ ናይ ሕይወት",
+          "ምስጋና ይብጽሓዮ መኣዲ ናይ ሕይወት",
+          "ነቲ ሄር ኣምላኽና መኣዲ ናይ ሕይወት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay ch'kona hawi meadi nayhywet",
+      "Tet'fi leminki meadi nay hywet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ti zbela'nayo meadi nay hywet",
+          "T'emina kelena meadi nay hywet",
+          "Kabakhi zterekhbe meadi nay hywet",
+          "Medhanit koynuna meadi nay hywet",
+          "Ts'ryti 'ayni may meadi nay hywet",
+          "Hrkhrakh zeyblki meadi nay hywet",
+          "Ms reweye yu meadi nay hywet",
+          "Ti zlemeneki meadi nay hywet"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ti zhareyeki meadi nay hywet",
+          "Bmkhnyat thtna meadi nay hywet",
+          "Msgana ybts'hayo meadi nay hywet",
+          "Neti her amlakhna meadi nay hywet"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

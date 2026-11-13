@@ -1,0 +1,73 @@
+{
+  "id": 299,
+  "title": "እንተዝሕተት",
+  "ti": {
+    "chorus": [
+      "እንታይ ምበልኩ ብህላወይ",
+      "ክሓልፈኒ እዋን ብባዕለይ ዝፍሕሶ",
+      "ፍስሓ ወሰላም ክፋእ እንክወርሶ",
+      "ንሓቂ ነገር’ዶ ሰሪ ምባል ጐይታ",
+      "ብኽዉን ዘይክዉን ክላበስ ኣበሳ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቃድራ መሬት እወ ዘይእንታዩ ራህዲ",
+          "ስርናይ ምስ ክርዳድ ‘ናተባህለ ጽርዲ",
+          "ዘለኹ ክመስል ኣእጋረይ ተኺለ",
+          "ኣካል ብዘይውነ እንታይ ምወሸለ",
+          "ነዓ ናተይ ቅዱስ ክሰምዓ ኣእዛነይ",
+          "ባህ ኢልወን ክርእያ ፍሬአን ኣዒንተይ",
+          "ኣኻእሎ ክረክብ ሕይወተይ ክሰትር",
+          "ብእግዚአብሔር ወለዶይ ኣብ ኣርያም ክስድር"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መላፍንቲ ጸጋ ኣብ ምድረ ሕያዋን",
+          "ንእግዚአብሔር ኣሚነ ክእንፍቶ ስካን",
+          "ኣእዳወይ ከይጠምር እጅገይ ክኸፍሶ",
+          "ህንጸት ናይ ተስፋይ ዳግም ከሐድሶ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ntay mbelku bhlawey",
+      "Khalfeni wan bba'ley zfhso",
+      "Fsha weselam kfa nkwerso",
+      "Nhaqi neger’do seri mbal gwayta",
+      "Bkhwun zeykwun klabes abesa"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qadra meret we zeyntayu rahdi",
+          "Srnay ms krdad ‘natebahle ts'rdi",
+          "Zelekhu kmesl agarey tekhile",
+          "Akal bzeywne ntay mweshele",
+          "Ne'a natey qdus ksem'a azaney",
+          "Bah ilwen krya freen a'intey",
+          "Akhalo krekb hywetey ksetr",
+          "Bgziebher weledoy ab aryam ksdr"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Melafnti ts'ega ab mdre hyawan",
+          "Ngziebher amine knfto skan",
+          "Adawey keyt'emr jgey kkhefso",
+          "Hnts'et nay tesfay dagm kehedso"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

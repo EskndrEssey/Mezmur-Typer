@@ -1,0 +1,62 @@
+{
+  "id": 428,
+  "title": "ተንሲኡ ክርስቶስ",
+  "ti": {
+    "chorus": [
+      "ተንሲኡ ክርስቶስ ብዘደንቕ ክብሪ/2/",
+      "ዜና ትንሳኤኡ ተዋህዶ መስክሪ/2/",
+      "ንኣዳም ንምድኃን  ተንሲኡ ብክብሪ",
+      "ቃልኪዳን ኣትዩሉ   >>         >>",
+      "ጊዜኡ ሓልዩ         >>         >>",
+      "ካሕሳ ከፊሉሉ       >>         >>",
+      "ንብሕታ ከደት        >>         >>",
+      "ክትደሊ ኣምላኻ      >>         >>",
+      "ዝተንገላትዐ ኣብቲ ጎልጎታ",
+      "ምስረኸበቶ ተመሊኣ ደስታ",
+      "ሓለውቲ መቓብር ተንሲኡ ብክብሪ",
+      "እቶም ኣይሁዳውያን  >>         >>",
+      "ክርስቶስ ክሕዙ       >>         >>",
+      "መኺርዎም ሰይጣን   >>         >>",
+      "ዙርያ እቲ መቓብር ብዙኃት ከቢቦም",
+      "ፍጹም ኣይከኣሉን ከም ቆጽሊ ረጊፎም",
+      "ምስጋና ነቕርብ ተንሲኡ ብክብሪ",
+      "ንፈጣሪ ኢየሱስ   >>         >>",
+      "ንሞት ዝሰዓረ     >>         >>",
+      "ንደቁ ክቕድስ     >>         >>",
+      "ደስ ይበለና ንዘምር ኩልና",
+      "ብርሃን ተኸዲኑ ጎይታ ተንሲኡልና"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Tensiu krstos bzedenq kbri/2/",
+      "Zena tnsaeu tewahdo meskri/2/",
+      "Nadam nmdhan  tensiu bkbri",
+      "Qalkidan atyulu   >>         >>",
+      "Gizeu halyu         >>         >>",
+      "Kahsa kefilulu       >>         >>",
+      "Nbhta kedet        >>         >>",
+      "Ktdeli amlakha      >>         >>",
+      "Ztengelat'e abti golgota",
+      "Msrekhebeto temelia desta",
+      "Halewti meqabr tensiu bkbri",
+      "Tom ayhudawyan  >>         >>",
+      "Krstos khzu       >>         >>",
+      "Mekhirwom seyt'an   >>         >>",
+      "Zurya ti meqabr bzuhat kebibom",
+      "Fts'um aykealun kem qots'li regifom",
+      "Msgana neqrb tensiu bkbri",
+      "Nfet'ari iyesus   >>         >>",
+      "Nmot zse'are     >>         >>",
+      "Ndequ kqds     >>         >>",
+      "Des ybelena nzemr kulna",
+      "Brhan tekhedinu goyta tensiulna"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

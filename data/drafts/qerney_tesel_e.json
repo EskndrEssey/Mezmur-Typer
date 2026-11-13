@@ -1,0 +1,77 @@
+{
+  "id": 301,
+  "title": "ቀርነይ ተሰልዐ",
+  "ti": {
+    "chorus": [
+      "ሓይሊ’ዛ ኣበሳ ቀርነይ ዝሰልዓታ /2/",
+      "‘ናመሰለት ቀላል ናይ ቀረባ ግላል /2/",
+      "ነይራ እታ ዕለት ብኣጋ ትግሃድ",
+      "ንልበይ ኣቑሲላ ጫሌዳ ፈጢራ",
+      "እታ ዝተተኽለት ጽልኢ ናይ ፈለማ",
+      "ምሉእ ኣካለይ ሕሊናይ ለቒማ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዓይ ‘ያ ‘ታ ዕለት ንቐርነይ ሰሊዓ",
+          "መትከል ዓንዲ ልበይ ምንባረይ ኣዕሪባ",
+          "ዝጋበዘትኒ ሕሉፍ‘ዩ ’ቲ ነውጺ",
+          "ዝወገረትኒ ብስሑል ፈልጺ  /2/",
+          "ተጎዲአ ምትራፍ ኣስዒቡለይ ጻንታ",
+          "መፈለምታ በደል ኮነ ናይ ውዲታ",
+          "ከምቲ ግብሪ ቃኤል ንሓዉ ዘጥፍአ",
+          "ኣነ’ውን ኣቢሰ ንዓኣ መሪጸ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘመን ኣካሒዳ ክብላ ነታ ጊዜ",
+          "ኣንፈተይ ኣጥፊኣ ጐድነይ ተገዲዐ",
+          "ሕይወተይ ክናወጽ በዚሑ እቲ ሓሳር",
+          "እግዚአብሔር ይደሊ ካብ ጌጋይ ክመሃር /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hayli’za abesa qerney zsel'ata /2/",
+      "‘Nameselet qelal nay qereba glal /2/",
+      "Neyra ta 'let baga tghad",
+      "Nlbey aqusila ch'aleda fet'ira",
+      "Ta ztetekhlet ts'li nay felema",
+      "Mlu akaley hlinay leqima /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'ay ‘ya ‘ta 'let nqerney seli'a",
+          "Metkel 'andi lbey mnbarey a'riba",
+          "Zgabezetni hluf‘yu ’ti newts'i",
+          "Zwegeretni bshul felts'i  /2/",
+          "Tegodie mtraf as'ibuley ts'anta",
+          "Mefelemta bedel kone nay wdita",
+          "Kemti gbri qael nhawu zet'fe",
+          "Ane’wn abise n'aa merits'e /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zemen akahida kbla neta gize",
+          "Anfetey at'fia gwadney tegedi'e",
+          "Hywetey knawets' bezihu ti hasar",
+          "Gziebher ydeli kab gegay kmehar /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
+}

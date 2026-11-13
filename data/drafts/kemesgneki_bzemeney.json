@@ -1,0 +1,42 @@
+{
+  "id": 29,
+  "title": "ከመስግነኪ ብዘመነይ",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም ኣደ ኣምላኽ",
+      "ከመስግነኪ ብዘመነይ",
+      "ንወድኺ’ውን ክብሪ ውዳሴ",
+      "ተቕርበሉ ወትሩ ንነፍሰይ /2/",
+      "ልበይ’ውን ተላዕለ ክቓኒ ፍቕርኺ",
+      "ብፍጹም ትሕትና ከመስግን ንዓኺ",
+      "ናይ ሰማይ ናይ ምድሪ ንግስቲ ዝኾነት",
+      "ክብሪ ይግበኣ ወትሩ ንግሆ ምሸት",
+      "ሓደራኺ ድንግል ኣደ ናይ ኩላትና",
+      "ብምልጃኺ ድንግል ኣይትፈለይና",
+      "ነቲ ባሕሪ ሓዊ ኣስግርና ድንግል",
+      "ንኸይንመውት ከይንርኢ ስቓይ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam ade amlakh",
+      "Kemesgneki bzemeney",
+      "Nwedkhi’wn kbri wdase",
+      "Teqrbelu wetru nnefsey /2/",
+      "Lbey’wn tela'le kqani fqrkhi",
+      "Bfts'um thtna kemesgn n'akhi",
+      "Nay semay nay mdri ngsti zkhonet",
+      "Kbri ygbea wetru ngho mshet",
+      "Haderakhi dngl ade nay kulatna",
+      "Bmljakhi dngl aytfeleyna",
+      "Neti bahri hawi asgrna dngl",
+      "Nkheynmewt keynri sqay"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

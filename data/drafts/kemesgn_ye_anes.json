@@ -1,0 +1,91 @@
+{
+  "id": 290,
+  "title": "ከመስግን’የ ኣነስ",
+  "ti": {
+    "chorus": [
+      "ከመስግን’የ ኣነስ ማርያመይ ክብል’የ",
+      "ንኽብራ ክዝምር ከምስግን’የ ኣነስ",
+      "ከስተንፍስ ረጊኤ ልበይ ከሰራስር",
+      "ካብ ጸጋኣ ጸጋ መሊኤን የእጋረይ ይስጉማ ይኸዳ",
+      "ሰሪ ኣውያት ልበይ ተሰረባ የዒንተይ ብኣኣ ይእበዳ",
+      "ስዉር ዘይርአ ሓዘን ውሽጢ ውሽጠይ መዐቀኒ ኣልቦ",
+      "ኣፈይ እንተጽቀጠ ተመልኪታ የዒንተይ ካብ ገጸይ ተንብቦ",
+      "ትኑግ ኣኽሊል ጓሂ ልበይ ከይድፍኦ ሰላመይ ከይስሑ",
+      "ስማ ተወሪቐ ይልምን ኣምላኸይ ከንብረኒ ኣብ ትፍሑ",
+      "ኣነ መን ኮይነ’የ ኣብ ቤቱ ዝነብር",
+      "ንዓኺ ሒዘ’የ ኪዳኑ ይዘክር",
+      "ዓለም ልቢ ጌራ ከይትልግስ ፍቕሪ ከይምቅር ደሃያ",
+      "ከይልምልም ሸኻኣ ከይዛሪ ማያ መሪሩ ጸሓያ",
+      "ስምዒ ደኣ ነፍሰይ ልሳንኪ’ሞ ግትኢ ሰም ሰም ግደፍዮ",
+      "ሓታቲ እንተ መጸ ክፈልጥ ጸሓይኪ ማርያም’ያ በልዮ",
+      "መብራህቲ ናይ ቤተይ ቀንዴል ብርሃን ባና",
+      "ማርያም ኣደ ጐይታይ ይብጻሕኪ ምስጋና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብቲ ደምበ ሰላም እቲ መኣዲ ሕይወት  መንድያ ተአንግዶ",
+          "መንያ ኪዳን ምሕረት ከርሳ ዝተቐብአ መድኅን ክውለዶ",
+          "ማርያመይ ክብል’የ ከመስግን’የ ኣነስ ከይሕዘለይ ልባ",
+          "ሰብ እኳ ዝምስገን ይትረፍ ኣደ መድኅን ዘይውዳእ ህያባ",
+          "ምስጢር ሰላም ጉዕዞይ ምሕረትኪ’ዩ ድንግል",
+          "እነሆ ደው ኢለ ውዕለትኪ ይነግር",
+          "ናዛዚት ሕዙናን ድንግል እመብርሃን",
+          "ብምሕረት ቅረቢ ሕይወተይ ንምድሓን",
+          "ኣነ መን ኮይነ’የ ኣብ ቤቱ ዝነብር",
+          "ንዓኺ ሒዘ’የ ኪዳኑ ይዘክር",
+          "መብራህቲ ናይ ቤተይ ቀንዴል ብርሃን ባና",
+          "ማርያም ኣደ ጐይታ ይብጻሕኪ ምስጋና",
+          "ምስጢር ሰላም ጉዕዞይ ምሕረትኪ’ዩ ድንግል",
+          "እነሆ ደው ኢለ ውዕለትኪ ይነግር"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kemesgn’ye anes maryamey kbl’ye",
+      "Nkhbra kzmr kemsgn’ye anes",
+      "Kestenfs regie lbey keserasr",
+      "Kab ts'egaa ts'ega melien yegarey ysguma ykheda",
+      "Seri awyat lbey tesereba ye'intey baa ybeda",
+      "Swur zeyre hazen wsht'i wsht'ey me'eqeni albo",
+      "Afey ntets'qet'e temelkita ye'intey kab gets'ey tenbbo",
+      "Tnug akhlil gwahi lbey keydfo selamey keyshu",
+      "Sma teweriqe ylmn amlakhey kenbreni ab tfhu",
+      "Ane men koyne’ye ab betu znebr",
+      "N'akhi hize’ye kidanu yzekr",
+      "'Alem lbi gera keytlgs fqri keymqr dehaya",
+      "Keylmlm shekhaa keyzari maya meriru ts'ehaya",
+      "Sm'i dea nefsey lsanki’mo gti sem sem gdefyo",
+      "Hatati nte mets'e kfelt' ts'ehayki maryam’ya belyo",
+      "Mebrahti nay betey qendel brhan bana",
+      "Maryam ade gwaytay ybts'ahki msgana"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abti dembe selam ti meadi hywet  mendya teengdo",
+          "Menya kidan mhret kersa zteqebe medhn kwledo",
+          "Maryamey kbl’ye kemesgn’ye anes keyhzeley lba",
+          "Seb kwa zmsgen ytref ade medhn zeywda hyaba",
+          "Mst'ir selam gu'zoy mhretki’yu dngl",
+          "Neho dew ile w'letki ynegr",
+          "Nazazit hzunan dngl mebrhan",
+          "Bmhret qrebi hywetey nmdhan",
+          "Ane men koyne’ye ab betu znebr",
+          "N'akhi hize’ye kidanu yzekr",
+          "Mebrahti nay betey qendel brhan bana",
+          "Maryam ade gwayta ybts'ahki msgana",
+          "Mst'ir selam gu'zoy mhretki’yu dngl",
+          "Neho dew ile w'letki ynegr"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

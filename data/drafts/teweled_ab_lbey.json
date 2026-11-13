@@ -1,0 +1,66 @@
+{
+  "id": 286,
+  "title": "ተወለድ ኣብ ልበይ",
+  "ti": {
+    "chorus": [
+      "ወሃቢ ኢኻ'ሞ ለጋስ ምሉእ ኢዱ",
+      "ሃብታም ሓላይ ድኻ ሽጉር ዝዘመዱ",
+      "ፍቕርኻ'ዩ በል ስእነት ውሽጢ ቤተይ",
+      "ሰማያዊ ንጉሥ ተወለድ ኣብ ልበይ",
+      "ክንደይ ከይጸንሓካ ልበይ ብጽፉፉ እላሙ ተሰፍዩ",
+      "ጠቐር መሊእዎ ኣብኡ'ሎ ተደርብዩ",
+      "ክንደይ ከይጸንሓካ ኩስቱር ምድሪ ቤቱ ሰቲ ‘ተነስነሶ",
+      "ምኡዝ ቅዱይ ቅብኢ ሽቶ ዝፈሰሶ",
+      "መን ኣሎኒዩ’ሞ ገጹ ዝመልሰለይ ብጊዜ ጸበባ",
+      "ነፍሰይ ዝቕበላ ከላ ምስ ሰበባ",
+      "ክደምቕ ብርሃነይ ከምታ ጸሓይ ብራቕ ዘብህግ ትርኢታ",
+      "ኣይድብዝዝ ኣይሃስስ ኣየወ ምልኣታ",
+      "ተወለድ ኣብ ልበይ ክኸውን ባርያኻ እምነት ዝጸገዎ",
+      "ልበይ ከይሰልከየ ቃልካ ክረርዎ",
+      "ተወለድ ኣብ ልበይ ቃልካ እቲ መድኃኒ ክኸውን መዝሙረይ",
+      "ፍቕሪ ምስ ተስፋኣ ክመልኦ ንልበይ",
+      "ምዃንካ እፈልጥ'የ ዝደነነት ልቢ ንስኻ ተቕንዓ",
+      "ዝተሰደት ነፍሲ ምዃንካ ዑቕባኣ",
+      "ምዃንካ እፈልጥ'የ ሕያው ብዘለዎ ጸጋኻ የጽግቦ",
+      "ሽጉር ብዙርያኡ ምሕረትካ ይኸቦ",
+      "ከመይ 'ለ ትም ክብል መናድቐይ ከሎ ብኾረት ተዃንዩ",
+      "ሓሳበይ ዘበለ ብኽፋእ ተነንዩ",
+      "ከመይ 'ለ ትም ክብል ከም ብዝሒ ምሕረትካ ስምዓኒ ጸሎተይ",
+      "መብልዕ ማል ይኹንካ ተወለድ ኣብ ልበይ /2/"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Wehabi ikha'mo legas mlu idu",
+      "Habtam halay dkha shgur zzemedu",
+      "Fqrkha'yu bel snet wsht'i betey",
+      "Semayawi nguss teweled ab lbey",
+      "Kndey keyts'enhaka lbey bts'fufu lamu tesefyu",
+      "T'eqer meliwo abu'lo tederbyu",
+      "Kndey keyts'enhaka kustur mdri betu seti ‘tenesneso",
+      "Muz qduy qbi shto zfeseso",
+      "Men aloniyu’mo gets'u zmelseley bgize ts'ebeba",
+      "Nefsey zqbela kela ms sebeba",
+      "Kdemq brhaney kemta ts'ehay braq zebhg trita",
+      "Aydbzz ayhass ayewe mlata",
+      "Teweled ab lbey kkhewn baryakha mnet zts'egewo",
+      "Lbey keyselkeye qalka krerwo",
+      "Teweled ab lbey qalka ti medhani kkhewn mezmurey",
+      "Fqri ms tesfaa kmelo nlbey",
+      "Mkhwanka felt''ye zdenenet lbi nskha teqn'a",
+      "Ztesedet nefsi mkhwanka 'uqbaa",
+      "Mkhwanka felt''ye hyaw bzelewo ts'egakha yets'gbo",
+      "Shgur bzuryau mhretka ykhebo",
+      "Kemey 'le tm kbl menadqey kelo bkhoret tekhwanyu",
+      "Hasabey zebele bkhfa tenenyu",
+      "Kemey 'le tm kbl kem bzhi mhretka sm'ani ts'elotey",
+      "Mebl' mal ykhunka teweled ab lbey /2/"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

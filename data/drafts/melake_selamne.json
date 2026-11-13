@@ -1,0 +1,47 @@
+{
+  "id": 74,
+  "title": "መልኣከ ሰላምነ",
+  "ti": {
+    "chorus": [
+      "መልኣከ ሰላምነ ሊቀ መላእክት ዑራኤል",
+      "ሰኣል ወጸሊ በእንቲኣነ ኣዕርግ ጸሎተነ",
+      "ቅድመ መንበሩ ለመድኃኔ ዓለም",
+      "ጸበልካ ዝፍውስ ለዋህ መልኣክ /2/",
+      "ናይ ምሕረት ዝናምካ ንፍጥረት ዝባርኽ",
+      "ጸጋ ጥበብካ ምሃረና",
+      "ብረድኤት ፍቕርኻ ዑራኤል",
+      "መልኣክ ኣይትፈለየና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መራሔ ብርሃናት ዑራኤል /2/",
+          "ብምልጃ ጸሎትካ ኣብ ትሕቴኻ ነጽልል"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Melake selamne liqe melakt 'urael",
+      "Seal wets'eli bentiane a'rg ts'elotene",
+      "Qdme menberu lemedhane 'alem",
+      "Ts'ebelka zfws lewah melak /2/",
+      "Nay mhret znamka nft'ret zbarkh",
+      "Ts'ega t'bebka mharena",
+      "Bredet fqrkha 'urael",
+      "Melak aytfeleyena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Merahe brhanat 'urael /2/",
+          "Bmlja ts'elotka ab thtekha nets'll"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

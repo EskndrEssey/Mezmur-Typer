@@ -1,0 +1,77 @@
+{
+  "id": 460,
+  "title": "መንገድን ሕይወትን",
+  "ti": {
+    "chorus": [
+      "መንገድን ሕይወትን ጐይታ'ዩ ብቐንዱ",
+      "ምድሓን ለጊሱለይ ቅንዕና ፈሪዱ",
+      "ከውሒ ልበይ ሰይሩ ንቓሉ ኣንቢሩ",
+      "ሩባታት ማይ ሕይወት ኣብ ውሽጠይ ፈጢሩ",
+      "ንዓይ መሪሑኒ ብዘበርትዕ ቃሉ",
+      "ኣሰሩ መስመረይ ኣሕሊፉኒ ኵሉ",
+      "ብልዒ ሓቂ'ዩሞ ናይ ሕይወት እንጌራ",
+      "ሎሚ ተዓንጊለ ነፍሰይ ተደሪራ",
+      "ኣንቂሑ ንልበይ ኣብሪሁ",
+      "ዓበይቲ ተኣምራት ሰሪሑ",
+      "ክበጽሖ ዝደሊ ንኽዕወት",
+      "እንታይ ዝዓቢ ኣሎ ካብ ዘልዓለም ሕይወት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መኣዝኑ ሒዘ ጐይታ ብመንፈሱ",
+          "ኣእምሮይ ኣዕሪፉ ሓይለይ ተሓዲሱ",
+          "ፍቓዱ ኮይኑ'ዩ ኣብ ልዕለይ ክሓድር",
+          "ኣነ ዉሉዱ'የ ርስተይ እግዚአብሔር",
+          "ኣንቂሑ ንልበይ …",
+          "ሕጉ ኣቝሙለይ ናይ ዘልዓለም ኪዳን",
+          "ንእግረይ መብራህቲ ንመንገደይ ብርሃን",
+          "ጐይታ ብስልጣኑ ትብዓት መሊኡኒ",
+          "ሟሚቐ ክነብር ኣብ ደገ ሰላሙ",
+          "ውሳኔ ሂቡ'ዩ ብማሕተመ ደሙ",
+          "ኣንቂሑ ንልበይ …"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mengedn hywetn gwayta'yu bqendu",
+      "Mdhan legisuley qn'na feridu",
+      "Kewhi lbey seyru nqalu anbiru",
+      "Rubatat may hywet ab wsht'ey fet'iru",
+      "N'ay merihuni bzebert' qalu",
+      "Aseru mesmerey ahlifuni kwlu",
+      "Bl'i haqi'yumo nay hywet ngera",
+      "Lomi te'angile nefsey tederira",
+      "Anqihu nlbey abrihu",
+      "'Abeyti teamrat serihu",
+      "Kbets'ho zdeli nkh'wet",
+      "Ntay z'abi alo kab zel'alem hywet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Meaznu hize gwayta bmenfesu",
+          "Amroy a'rifu hayley tehadisu",
+          "Fqadu koynu'yu ab l'ley khadr",
+          "Ane wuludu'ye rstey gziebher",
+          "Anqihu nlbey …",
+          "Hgu aqwmuley nay zel'alem kidan",
+          "Ngrey mebrahti nmengedey brhan",
+          "Gwayta bslt'anu tb'at meliuni",
+          "ሟmiqe knebr ab dege selamu",
+          "Wsane hibu'yu bmahteme demu",
+          "Anqihu nlbey …"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

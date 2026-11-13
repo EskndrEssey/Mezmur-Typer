@@ -1,0 +1,67 @@
+{
+  "id": 489,
+  "title": "ኣደ ኣላትኒ",
+  "ti": {
+    "chorus": [
+      "ኣደ ኣላትኒ ኣነስ ኣደ ኣላትኒ",
+      "ኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበኒ /2/",
+      "ኣደ ኣላትና ንሕናስ ኣደ ኣላትና",
+      "ኣብ መስቀሉ ኮይኑ ጐይታ ዝሃበና",
+      "ድንግል ማርያም ብጽእቲ ኣዴና",
+      "ናይ ሓደራ ቃልኪዳን ኣዴና’ያ ደቃ ኢና",
+      "ንሕና’ስ ኣደ ኣላትና ኣይኮናን ዘኽታማት",
+      "መልዕልተ ፍጡራን ኪዳነ ምሕረት /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ጊዜ ጭንቀትና እትናዝዘና",
+          "ኣብ ጊዜ መከራ እትሕልወና",
+          "ኣብ ጎድንና ኮይና እትረድኣና",
+          "ክንበኪ ከለና ኣብ እግራ ወዲቕና",
+          "ኣብ ሕቑፎኣ ሓቚፋ እትእብደና",
+          "ንብዓትና ሓንሲሳ ተረስርስ ልብና",
+          "ዓሳ ብዘይ ማይ ዝኽሕድ ንዓኺ",
+          "ክቃጸል ይነብር ኣብ ዘይጠፍእ ሓዊ /2/",
+          "ኣተዓርቕና ምስ ፍቑር ወድኺ",
+          "መልዕልተ ፍጡራን ኪዳነ ምሕረት /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ade alatni anes ade alatni",
+      "Ab mesqelu koynu gwayta zhabeni /2/",
+      "Ade alatna nhnas ade alatna",
+      "Ab mesqelu koynu gwayta zhabena",
+      "Dngl maryam bts'ti adena",
+      "Nay hadera qalkidan adena’ya deqa ina",
+      "Nhna’s ade alatna aykonan zekhtamat",
+      "Mel'lte ft'uran kidane mhret /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab gize ch'nqetna tnazzena",
+          "Ab gize mekera thlwena",
+          "Ab godnna koyna tredana",
+          "Knbeki kelena ab gra wediqna",
+          "Ab hqufoa haqwifa tbdena",
+          "Nb'atna hansisa teresrs lbna",
+          "'Asa bzey may zkhhd n'akhi",
+          "Kqats'el ynebr ab zeyt'ef hawi /2/",
+          "Ate'arqna ms fqur wedkhi",
+          "Mel'lte ft'uran kidane mhret /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

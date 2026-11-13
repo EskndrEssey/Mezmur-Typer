@@ -1,0 +1,77 @@
+{
+  "id": 88,
+  "title": "ጐይታ ብመገሻ",
+  "ti": {
+    "chorus": [
+      "ብጻዕቂ ኣገልግሎት ኣዝያ ደኸመት",
+      "ማርታ ስለ ብዙሕ ኣይትሕሰቢ በላ",
+      "ውሑድ ከምዘድሊ ኣጥቢቑ ነገራ",
+      "ማርያም ጸውዓታ ክትሕግዛ ስራሕ",
+      "ስለ ዝተቐምጠት ምስ ጐይታ ሓቢራ",
+      "ማርያም ሰናይ ነገር እያ ዝመረጸት",
+      "ኣብ እግሩ ብምዃን ቃሉ’ያ ዝሰምዐት /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ትሕቲ ኣእጋሩ ማርያም ስለ ዝረኣያ",
+          "ሰናይ ሓሪኺ ዘይውሰድ ካባኺ በላ",
+          "ኣብ ትሕቲ ኣእጋሩ ቃሉ ንኽንሰምዕ",
+          "ጐይታ ይሃበና ከም ናይ ማርያም ዕድል /2/",
+          "ጐይታ ዝደለናዮ ኣብሊጹ ክህበና",
+          "ብጥብቂ ንለምን ንክርስቶስ ኣምላኽና",
+          "ናይ ክርስቶስ ኣምላኽ ወረስቲ ክንከውን",
+          "ካብ ሕጂ ንለምን ውዕለቱ ንለምን /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መንገድና ንሓዝ ጎደናና ነቕንዕ",
+          "ቃሉ ብምስማዕና ሕይወት ንኽንረክብ",
+          "ንለምን ንጐይታ ብንጹህ ልብና",
+          "ኣብ መስቀል ዝሞተ ክድምስስ ኃጢአትና /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bts'a'qi agelglot azya dekhemet",
+      "Marta sle bzuh aythsebi bela",
+      "Whud kemzedli at'biqu negera",
+      "Maryam ts'ew'ata kthgza srah",
+      "Sle zteqemt'et ms gwayta habira",
+      "Maryam senay neger ya zmerets'et",
+      "Ab gru bmkhwan qalu’ya zsem'et /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab thti agaru maryam sle zreaya",
+          "Senay harikhi zeywsed kabakhi bela",
+          "Ab thti agaru qalu nkhnsem'",
+          "Gwayta yhabena kem nay maryam 'dl /2/",
+          "Gwayta zdelenayo ablits'u khbena",
+          "Bt'bqi nlemn nkrstos amlakhna",
+          "Nay krstos amlakh weresti knkewn",
+          "Kab hji nlemn w'letu nlemn /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mengedna nhaz godenana neqn'",
+          "Qalu bmsma'na hywet nkhnrekb",
+          "Nlemn ngwayta bnts'uh lbna",
+          "Ab mesqel zmote kdmss hat'ietna /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

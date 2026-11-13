@@ -1,0 +1,57 @@
+{
+  "id": 840,
+  "title": "ከም ብዝሒ በደለይ",
+  "ti": {
+    "chorus": [
+      "ከም ብዝሒ በደለይ ተኾይኑ ቅጽዓተይ",
+      "ኣይውዳእን’ዩ ተዘርዚሩ ኃጢአተይ/2/",
+      "ክምለስ እናበልኩ እብል ሎሚ ጽባሕ",
+      "በደለይ ሓዲገ ክምለስ ናባኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እንታይ ክምልስ’የ ዝመጽኣሉ ዕለት/2/",
+          "ኣይሰርሕን’ዩ ሽዑ ኣውያት ብኽያት",
+          "መሓሪ ኢኻ’ሞ ንዝበደሉኻ",
+          "ይቕረ በሃሊ ኢኻ ንዝለመኑኻ",
+          "ይቕረ በለኒ’ሞ ክረክብ ጸጋኻ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዓመጸኛ ልበይ ድሕሪት ከይመልሰኒ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kem bzhi bedeley tekhoynu qts''atey",
+      "Aywdan’yu tezerziru hat'ietey/2/",
+      "Kmles nabelku bl lomi ts'bah",
+      "Bedeley hadige kmles nabakha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ntay kmls’ye zmets'alu 'let/2/",
+          "Ayserhn’yu sh'u awyat bkhyat",
+          "Mehari ikha’mo nzbedelukha",
+          "Yqre behali ikha nzlemenukha",
+          "Yqre beleni’mo krekb ts'egakha"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "'Amets'enya lbey dhrit keymelseni/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

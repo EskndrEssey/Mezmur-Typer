@@ -1,0 +1,102 @@
+{
+  "id": 291,
+  "title": "ከጽንዓካ እዩ",
+  "ti": {
+    "chorus": [
+      "ድኻም ባህሪ ኮይኑካ መሓውርካ እንተረብረበ",
+      "ስጉምትኻ ኣንደልሂጹ ሕሊናኻ እንተዕረበ",
+      "ተስፋ ልብኻ ሰይሩ ተጎልበበካ ድነ",
+      "እግዚአብሔር ብርሃን ሕይወትካ ጉልባብ ሓዘን ዝኣሊ",
+      "ኣሐዲሱ ተስፋኻ ከብርሃልካ'ዩ ግበር ዓቕሊ",
+      "ሃዲእካ ዝተለምካዮ ድላይ ልቢ ቁም ነገር",
+      "ንእለት እንከይሓሰብካዮ በኒኑ እንክስወር",
+      "ኣብ ማዕበል ባሕሪ ሓሳባት ተንሳፍፍ ብሻቕሎት",
+      "ትዕግስትኻ ተጸንቂቑ ከተስተንፍስ ብንብዓት /2/",
+      "ይርኢ'ሎ ብሬታ ንዘይብሉ ጾር",
+      "ይርዳእ'ዩ ሓሳባት ልቢ ዝምርምር",
+      "ተበራበር ንገሮን'ዶ ብእህህታ",
+      "ይሰምዕ'ዩ መልሲ'ለዎ ንሕሽኹታ",
+      "ይሓይሽ ዝበሎ ለዋህ ጐይታ",
+      "ፍጹም ልቡ ዘይክእሎ ንብዓት ጓሂ ናይ ውሉዱ",
+      "ገጹ ክመልስ ተሰፎ ብሕያው ቃሉ ቤትካ ክድብስ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዘመናት ዘይተመለሰ ቲ'ልብኻ ዝሓስቦ",
+          "ሕቶ ጻዕሪ ውሽጢ ቤትካ ዕረፍቲ ዘይተረኽቦ",
+          "ትርግታ ልቢ ዝህውኽ ከባቢኻ ዘድምጾ",
+          "ኣእዳውካ ከተመሳቕል ስኢንካ ርሕዉ ማዕጾ /2/",
+          "ኣይትጃጁ እንታይ ረኺቡ ዝተከዘ",
+          "'ቲ ንብዓታ ስሌኻ ‘ንድዩ ዝወሓዘ",
+          "ኣብ ጎንኻ ድንግል ኣላ ንረድኤት",
+          "ርህራሄኣ ክበጽሓካ'ዩ ብቕጽበት",
+          "መመክሒትካ'ያ ንዘንትዕለት",
+          "ቲ'ሕጂ ዝመስለካ ክቱር ጻዕርኻ ዘይሓልፍ",
+          "ስሉፍ ዕርዲ ጸላኢኻ ዘርዕድ እቲ ትርኢቱ",
+          "ምንም ሰፍ ዝብል ዘይመስል ክስነፍ'ዩ ኣብ ሰዓቱ /2/",
+          "ዘይተሰብረ ድኻም ሥጋ ክሳብ ዘሎ",
+          "ጌና ጌና'ቲ ሃለኽለኽ 'ታይ ክትብሎ",
+          "ተዓገሶ ሕይወት ቃልሲ'ዩ መስደምም",
+          "ዕርድኻ'ሎ ጽኑዕ ከውሒ ንዘልዓለም",
+          "ዘይታኸስ ጓሳ መድኃኔ ዓለም",
+          "ምሳኻ ‘ዮም ዘለዉ ከቢቦምኻ ብጸጋ ሰራዊት ሰማይ",
+          "ጽናዕ ትባዕ ኣብ ቅድሚኦም ኣይትበል መይመይ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dkham bahri koynuka mehawrka nterebrebe",
+      "Sgumtkha andelhits'u hlinakha nte'rebe",
+      "Tesfa lbkha seyru tegolbebeka dne",
+      "Gziebher brhan hywetka gulbab hazen zali",
+      "Ahedisu tesfakha kebrhalka'yu gber 'aqli",
+      "Hadika ztelemkayo dlay lbi qum neger",
+      "Nlet nkeyhasebkayo beninu nkswer",
+      "Ab ma'bel bahri hasabat tensaff bshaqlot",
+      "T'gstkha tets'enqiqu ketestenfs bnb'at /2/",
+      "Yri'lo breta nzeyblu ts'or",
+      "Yrda'yu hasabat lbi zmrmr",
+      "Teberaber ngeron'do bhhta",
+      "Ysem''yu melsi'lewo nhshkhuta",
+      "Yhaysh zbelo lewah gwayta",
+      "Fts'um lbu zeyklo nb'at gwahi nay wludu",
+      "Gets'u kmels tesefo bhyaw qalu betka kdbs"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zemenat zeytemelese ti'lbkha zhasbo",
+          "Hto ts'a'ri wsht'i betka 'refti zeyterekhbo",
+          "Trgta lbi zhwkh kebabikha zedmts'o",
+          "Adawka ketemesaql sinka rhwu ma'ts'o /2/",
+          "Aytjaju ntay rekhibu ztekeze",
+          "'Ti nb'ata slekha ‘ndyu zwehaze",
+          "Ab gonkha dngl ala nredet",
+          "Rhrahea kbets'haka'yu bqts'bet",
+          "Memekhitka'ya nzent'let",
+          "Ti'hji zmesleka ktur ts'a'rkha zeyhalf",
+          "Sluf 'rdi ts'elaikha zer'd ti tritu",
+          "Mnm sef zbl zeymesl ksnef'yu ab se'atu /2/",
+          "Zeytesebre dkham Ssga ksab zelo",
+          "Gena gena'ti halekhlekh 'tay ktblo",
+          "Te'ageso hywet qalsi'yu mesdemm",
+          "'Rdkha'lo ts'nu' kewhi nzel'alem",
+          "Zeytakhes gwasa medhane 'alem",
+          "Msakha ‘yom zelewu kebibomkha bts'ega serawit semay",
+          "Ts'na' tba' ab qdmiom aytbel meymey"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "verse_1_possible_page_split"
+  ]
+}

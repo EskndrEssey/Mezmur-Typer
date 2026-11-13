@@ -1,0 +1,63 @@
+{
+  "id": 865,
+  "title": "ሓቀኛ ዝኾነት",
+  "ti": {
+    "chorus": [
+      "ሓቀኛ ዝኾነት ሃይማኖትና",
+      "ብደሙ መስሪቱ ኣምላኽ ዘጽንዓልና",
+      "ተዋሕዶ ንጽህቲ እምነትና",
+      "ንኣዳም ንሔዋን ተስፋ ዝሃበላ",
+      "ኣምላኽ ካብ ማርያም ዝተወለደላ",
+      "ሓንቲ'ያ ሃይማኖት ካልአይቲ ዘይብላ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንተዋህዶ ክብሉ ቅዱሳን ኣቦታት",
+          "ሂወቶም ሰዊኦም ኮይኖም ሰማእታት",
+          "ኣረኪቦሙና'ለዉ ቅድስት ሃይማኖት",
+          "ቅዱስ ጊዮርጊስ ሊቀ ሰማእታት",
+          "ሕይወቱ ሰዊኡ ጸኒዑ ብእምነት",
+          "ኣርኣያ ክኸውን ንኹሎም ፍጥረታት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንሕና'ውን ኩልና ከምቶም ኣቦታትና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Haqenya zkhonet haymanotna",
+      "Bdemu mesritu amlakh zets'n'alna",
+      "Tewahdo nts'hti mnetna",
+      "Nadam nhewan tesfa zhabela",
+      "Amlakh kab maryam zteweledela",
+      "Hanti'ya haymanot kaleyti zeybla"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ntewahdo kblu qdusan abotat",
+          "Hiwetom sewiom koynom sematat",
+          "Arekibomuna'lewu qdst haymanot",
+          "Qdus giyorgis liqe sematat",
+          "Hywetu sewiu ts'eni'u bmnet",
+          "Araya kkhewn nkhulom ft'retat"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nhna'wn kulna kemtom abotatna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

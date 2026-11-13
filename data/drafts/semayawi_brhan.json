@@ -1,0 +1,83 @@
+{
+  "id": 355,
+  "title": "ሰማያዊ ብርሃን",
+  "ti": {
+    "chorus": [
+      "ሰማያዊ ብርሃን ቅዱሳን ለቢሶም",
+      "ምስሊ ከዋኽብቲ ንሰማይ ኣድሚቖም",
+      "ኣሰሮም ስዒበ ከማእዝን ሕይወተይ",
+      "ልዑል እግዚአብሔር ግዝኣዮ ንልበይ",
+      "መጥምቀ መለኮት ሓያል ንእምነቱ ተባዕ ንመትከሉ",
+      "ቃላቱ ዘንድድ ርትዒ ኣጎልቢቡ",
+      "ንሰይፊ ዝሓልፍ ኣምላኹ ኣሚኑ",
+      "ይኹነለይ ድርብ ኣርኣያ ሕይወቱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓዋርያ ጳውሎስ ስቡር ቅጥቁጥ ልቢ",
+          "ጽንዓት ዝወነነ ጽላሎት ኣካሉ ሕሙማት ዘሕወየ",
+          "ብዘደንቕ መንፈስ ጉያኡ ዛዚሙ",
+          "ሓዲዱ ይሰረት ብማዕዶይ ደሚቑ",
+          "ቅዱስ ጊዮርጊስ ጽዋእ ሞት ጨሊጡ",
+          "ሕይወት ዝሰኹዐ ስጋኡ እንክምተር እምነት ዘየጉደለ",
+          "ዓስቢ ሰማእትነት ብርሃን ተወንዚፉ",
+          "ሎሚ ክመርሓኒ ስደዶ ፈረሱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "አቡነ እንድርያስ ፍርሓት እግዚእብሔር ዝዓዘዘ ኣብ ልቡ",
+          "መዓሙቕ እምነቱ ንብርሃን ገጢሙ",
+          "ፍጹም ቅድስና ኣኽሊል ዝደፍአ",
+          "በረኸት ክወስድ ኣምላኽ ኣባይ ዕየ",
+          "አቡነ ሳሙኤል ቀለም እናዋደደ ምጽሓፍ ዝተሓርመ",
+          "ኣትራኖስ የዳሉ ምንባብ እናነፈገ",
+          "ምልኣት ትሕትናኡ ውህበት ቅድስና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Semayawi brhan qdusan lebisom",
+      "Msli kewakhbti nsemay admiqom",
+      "Aserom s'ibe kemazn hywetey",
+      "L'ul gziebher gzayo nlbey",
+      "Met'mqe melekot hayal nmnetu teba' nmetkelu",
+      "Qalatu zendd rt'i agolbibu",
+      "Nseyfi zhalf amlakhu aminu",
+      "Ykhuneley drb araya hywetu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hawarya p'awlos sbur qt'qut' lbi",
+          "Ts'n'at zwenene ts'lalot akalu hmumat zehweye",
+          "Bzedenq menfes guyau zazimu",
+          "Hadidu yseret bma'doy demiqu",
+          "Qdus giyorgis ts'wa mot ch'elit'u",
+          "Hywet zsekhu'e sgau nkmter mnet zeyegudele",
+          "'Asbi sematnet brhan tewenzifu",
+          "Lomi kmerhani sdedo feresu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ebune ndryas frhat gzibher z'azeze ab lbu",
+          "Me'amuq mnetu nbrhan get'imu",
+          "Fts'um qdsna akhlil zdefe",
+          "Berekhet kwesd amlakh abay 'ye",
+          "Ebune samuel qelem nawadede mts'haf zteharme",
+          "Atranos yedalu mnbab nanefege",
+          "Mlat thtnau whbet qdsna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": 314,
+  "title": "ኣቦና ቅዱስ ኣረጋዊ",
+  "ti": {
+    "chorus": [
+      "ኣቦና ቅዱስ ኣረጋዊ ዓለም ዝመነንካ ባሕታዊ /2/",
+      "ኣምሳል ኤልያስ /3/ ገዳማዊ /2/",
+      "ኣቦ ናይ እምነት ተጋዳሊ",
+      "ኣኽሊል ተዓዲልካ እቲ ዘይበሊ",
+      "ረዳኢ ዘኽታማት ትጉህ መምህር",
+      "ፍጹም ዝቐደሶ እግዚኣብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደብርኻ ትንገር እቲ ገድልኻ",
+          "ዕጹብ መንክር እዩ ትሕትናኻ",
+          "ገብርሄር ብዓል ብዙሕ ምክሊት",
+          "ኖላዊ ትጉህ ፍጡን ንረዲኤት",
+          "ሕሙማት ይሓውዩ ዕዉራት ይርእዩ",
+          "ብልማኖኻ ፍጹም ዝኣመኑ",
+          "ስለቲ ምሕረት ድኅነት ሕዝብኻ",
+          "ካብ ልዑል ፈጣሪ ለምነልና ኢኻ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲ/ን ኤፍሬም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Abona qdus aregawi 'alem zmenenka bahtawi /2/",
+      "Amsal elyas /3/ gedamawi /2/",
+      "Abo nay mnet tegadali",
+      "Akhlil te'adilka ti zeybeli",
+      "Redai zekhtamat tguh memhr",
+      "Fts'um zqedeso gziabher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Debrkha tnger ti gedlkha",
+          "'Ts'ub menkr yu thtnakha",
+          "Gebrher b'al bzuh mklit",
+          "Nolawi tguh ft'un nrediet",
+          "Hmumat yhawyu 'wurat yryu",
+          "Blmanokha fts'um zamenu",
+          "Sleti mhret dhnet hzbkha",
+          "Kab l'ul fet'ari lemnelna ikha"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Di/n efrem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

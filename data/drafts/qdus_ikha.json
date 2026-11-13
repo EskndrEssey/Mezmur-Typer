@@ -1,0 +1,66 @@
+{
+  "id": 399,
+  "title": "ቅዱስ ኢኻ",
+  "ti": {
+    "chorus": [
+      "ቅዱስ ኢኻ ቅዱስ ቅዱስ ዘለዓለም",
+      "ፈቃር ኢኻ ሕያው መስፍን ሰላም",
+      "መላእክተ ሰማይ ቆይሞም ኣብ ቅድሜኻ",
+      "ምስጋና የቕርቡ ንኽብርኻ",
+      "ዘርጊሔ ኣእዳወይ ምስቶም መላእክቲ",
+      "ምስግና ክምገብ ሰማያዊ ሃብቲ ኣማኑኤል",
+      "ዙርያይ ክኽልሎ ሓጹር ናይ ፍቕርኻ",
+      "ናቱ እየ ክብል ኣብቲ ስሉም ዳስካ ኣማኑኤል",
+      "ተሰሊመ ሰማያዊ ልብሲ",
+      "ብምሕረት ፍቕርኻ ክኸውን ወራሲ",
+      "ፍቕርኻ ኣንጀርቢቡ ዝባነይ ክፈሶ",
+      "ቀኒዐ ክርእይ ምሕረትካ ክሓፍሶ እወ ጐይታይ",
+      "ተኣሚነ ከገልግል ንስምካ",
+      "ብፍታወይ ክግዛእ ንዓኻ",
+      "ባርኸኒ ውሉድካ ክስመ",
+      "ከይተርፈካ ብሓጢኣት ደኺመ /2/ እወ ጐይታይ",
+      "ፍቕርኻ ዓቢይ እዩ ተበጃውየይ ጐይታ",
+      "መኣዛኻ ክሽትት መስዋእቲ ጎልጎታ መድኃኔ ዓለም",
+      "ብናብራ ናይ ዓለም ወዲቐ ከይተርፍ",
+      "ኣማዕድየ ክርኢ ነቲ ንጹህ ምንጻፍ መድኃኔ ዓለም",
+      "ንኽሰትዮ ፍሳስ ናይ ጎንኻ",
+      "ሕልናይ ክምሰጥ ብጣዕሚ መስቀልካ",
+      "ማርኸኒ ሕይወተይ ሓድሶ",
+      "ኣብ ውሽጠይ ኣቲኻ ባርኮ ቀድሶ /2/ መድኃኔ ዓለም"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Qdus ikha qdus qdus zele'alem",
+      "Feqar ikha hyaw mesfn selam",
+      "Melakte semay qoymom ab qdmekha",
+      "Msgana yeqrbu nkhbrkha",
+      "Zergihe adawey mstom melakti",
+      "Msgna kmgeb semayawi habti amanuel",
+      "Zuryay kkhllo hats'ur nay fqrkha",
+      "Natu ye kbl abti slum daska amanuel",
+      "Teselime semayawi lbsi",
+      "Bmhret fqrkha kkhewn werasi",
+      "Fqrkha anjerbibu zbaney kfeso",
+      "Qeni'e kry mhretka khafso we gwaytay",
+      "Teamine kegelgl nsmka",
+      "Bftawey kgza n'akha",
+      "Barkheni wludka ksme",
+      "Keyterfeka bhat'iat dekhime /2/ we gwaytay",
+      "Fqrkha 'abiy yu tebejawyey gwayta",
+      "Meazakha kshtt meswati golgota medhane 'alem",
+      "Bnabra nay 'alem wediqe keyterf",
+      "Ama'dye kri neti nts'uh mnts'af medhane 'alem",
+      "Nkhsetyo fsas nay gonkha",
+      "Hlnay kmset' bt'a'mi mesqelka",
+      "Markheni hywetey hadso",
+      "Ab wsht'ey atikha barko qedso /2/ medhane 'alem"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

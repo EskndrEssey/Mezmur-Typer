@@ -1,0 +1,65 @@
+{
+  "id": 376,
+  "title": "ናይ ስሙ ትርጓሜ",
+  "ti": {
+    "chorus": [
+      "ናይ ስሙ ትርጓሜ መን ከም እግዚአብሔር’ዩ",
+      "ናይ ሰባት ናብ ኣምላኽ ናይ ኣምላኽ ናብ ሰባት",
+      "ንዓና’ውን ርዳእ ሸለል ኣይትበለና",
+      "ሰይጣን ብተንኮሉ ውዲት ከይኣልመልና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ክፉእ ሰብ ስራሕ ክፉእ ሓሳብ እዩ’ሞ",
+          "ብቕኑዕ መገዲ ኣይከይድን’ዩሞ",
+          "ናይ ሞቱ ደብዳቤ ንባህራን ክህቦ",
+          "ሚካኤል ደምሲሱ ናብ ደስታ ቀየሮ",
+          "ጌና ብቑልዕነተይ ናብ ቤቱ መጺኤ",
+          "ኵሉ እንክንዕቀኒ ምስጋና ጀሚረ",
+          "ጸጋኡ ኣብዚሑ ንኽብሪ ዘብቅዓኒ",
+          "ናይ ሚካኤል ኣምላኽ ይመስገን እግዚአብሔር"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጌና ብቑልዕነተይ . . ."
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay smu trgwame men kem gziebher’yu",
+      "Nay sebat nab amlakh nay amlakh nab sebat",
+      "N'ana’wn rda shelel aytbelena",
+      "Seyt'an btenkolu wdit keyalmelna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay kfu seb srah kfu hasab yu’mo",
+          "Bqnu' megedi aykeydn’yumo",
+          "Nay motu debdabe nbahran khbo",
+          "Mikael demsisu nab desta qeyero",
+          "Gena bqul'netey nab betu mets'ie",
+          "Kwlu nkn'qeni msgana jemire",
+          "Ts'egau abzihu nkhbri zebq'ani",
+          "Nay mikael amlakh ymesgen gziebher"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gena bqul'netey . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

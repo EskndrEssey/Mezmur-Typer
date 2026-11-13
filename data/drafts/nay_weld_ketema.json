@@ -1,0 +1,73 @@
+{
+  "id": 226,
+  "title": "ናይ ወልድ ከተማ",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም ንግስትና",
+      "ድንቂ ፍጥረት ናይ ወልድ ከተማ",
+      "ጥፍኣት ዓለም መዐገሢት",
+      "ሰላማዊት ናይ ቅዱሳን ግርማ",
+      "ሃብቲ ናይ ሰማያት ኵሉ ተዓዲልኪ",
+      "ጸግዒ ናይ ኵልና ብፅዕቲ ንብለኪ",
+      "ብርኽትን ቅድስትን ንጽህት ኣደ ኢኺ",
+      "ከምታ ናይ ኖህ መርከብ መድኃኒትና ኢኺ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰላም ለኪ ኢልና ክንጽውዕ ንስምኪ",
+          "ብቓላትኪ ጌርኪ ኣብድና ኢኺ",
+          "ንዓና’ውን ተስፋ ነዞም ዝደኸምና",
+          "ናይ ስምኪ መቐረት ያም’ዩ ንነፍስና"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዓኺ ዘይኣምኑ ዋላ እንተተንስኡ",
+          "ቅዱስ ቃል ጠዋውዮም ንነፍሶም የጥፍኡ",
+          "ክብርኺ ምስ ረኣዩ ጸጋኺ መሊኡ",
+          "ሰምቢዶም ርዒዶም ቅድሜኺ ይድፍኡ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam ngstna",
+      "Dnqi ft'ret nay weld ketema",
+      "T'fat 'alem me'egessit",
+      "Selamawit nay qdusan grma",
+      "Habti nay semayat kwlu te'adilki",
+      "Ts'eg'i nay kwlna bts''ti nbleki",
+      "Brkhtn qdstn nts'ht ade ikhi",
+      "Kemta nay noh merkeb medhanitna ikhi"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selam leki ilna knts'w' nsmki",
+          "Bqalatki gerki abdna ikhi",
+          "N'ana’wn tesfa nezom zdekhemna",
+          "Nay smki meqeret yam’yu nnefsna"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'akhi zeyamnu wala ntetensu",
+          "Qdus qal t'ewawyom nnefsom yet'fu",
+          "Kbrkhi ms reayu ts'egakhi meliu",
+          "Sembidom r'idom qdmekhi ydfu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

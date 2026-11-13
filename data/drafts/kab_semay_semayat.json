@@ -1,0 +1,71 @@
+{
+  "id": 334,
+  "title": "ካብ ሰማይ ሰማያት",
+  "ti": {
+    "chorus": [
+      "ካብ ሰማይ ሰማያት ናብ ምድሪ ወሪዱ",
+      "ንደቂ ሰባት ኢሉ ተዋሪዱ",
+      "ሓጢኣት ዘይባህሪኡ ብኣምላኽነቱ",
+      "እንታይ እዩ ጌሩ እንታይ’ዩ በዲሉ",
+      "መላእ ኣካላቱ ብገመድ ቆሲሉ",
+      "ናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቀላያት ኩሎም  ዝግዝኡሉ",
+          "ንደቂ ሰባት ማይ ጸሚኡኒ ኢሉ",
+          "ደምን ረሃጽን ብገጹ እናወረደ",
+          "ክትበኪ ረአያ እታ ርህርህቲ ኣደ",
+          "ናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ",
+          "መከራ ከይፈርሐ ዝተኸተለ",
+          "ዮሓንስ በኸየ ወይለይ እናበለ",
+          "ክሳብ መወዳእታ ብትብዓት ዝሰዓቦ",
+          "እንሀት ኣዴኻ ኢሉ ንዮሓንስ ሃቦ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kab semay semayat nab mdri weridu",
+      "Ndeqi sebat ilu tewaridu",
+      "Hat'iat zeybahriu bamlakhnetu",
+      "Ntay yu geru ntay’yu bedilu",
+      "Mela akalatu bgemed qosilu",
+      "Natna fqri shibwo teseqilu ab qeranyo gobo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qelayat kulom  zgzulu",
+          "Ndeqi sebat may ts'emiuni ilu",
+          "Demn rehats'n bgets'u nawerede",
+          "Ktbeki reeya ta rhrhti ade",
+          "Natna fqri shibwo teseqilu ab qeranyo gobo",
+          "Mekera keyferhe ztekhetele",
+          "Yohans bekheye weyley nabele",
+          "Ksab mewedata btb'at zse'abo",
+          "Nhet adekha ilu nyohans habo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Natna fqri shibwo teseqilu ab qeranyo gobo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

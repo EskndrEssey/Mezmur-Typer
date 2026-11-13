@@ -1,0 +1,147 @@
+{
+  "id": 92,
+  "title": "በገና ሓዙ",
+  "ti": {
+    "chorus": [
+      "ካብ ዓለም ሰማይ መላእክት ንዑ",
+      "ውሽጢ መቕደሱ ቁሙ ካህናቱ",
+      "ተመስገን በሉ ንእግዚአብሔር ምስጋና ኣቕርቡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ያሬድ ካብ ኣዕዋፍ ብዝሰምዖ ዜማ ተመስገን በሉ ንእግዚኣብሔር/2/",
+          "ከነቕርበሉ ፍረ ከናፍርና                >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትሕቲ ጽላሉ ስለ ዘዕረፈና              >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ንዘድሓነና ኣብ ጊዜ መከራና            >>    >>",
+          ">>",
+          "ነቶም ግፉዓት ንዝተሸገሩ  ተመስገን በሉ ንእግዚኣብሔር /2/",
+          "ዝማጎተሎም ኣቦ ድኻታት      >>    >>",
+          ">>",
+          "ነዝይመሉ ብከበሮ ጸናጽል      >>    >>",
+          ">>",
+          "ንዝረድኣና ዕልል (2) ንበል     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "ሓቂ ዝፈቱ ምሕረት ዝሃበና    ተመስገን በሉ ንእግዚኣብሔር /2/",
+          "ሰናይ ገሩልና ዘልዓለም ንዓና       >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "ፍሉይ በልዎ ሓያል’ዩ ጐይታና     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "ከነቕርበሉ ንስሙ ምስጋና          >>    >>",
+          ">>",
+          "ኣብ ሰማይ መን’ዩ ዝወዳደረካ  ተመስገን በሉ ንእግዚኣብሔር/2/"
+        ]
+      },
+      {
+        "verse": 7,
+        "lines": [
+          "ኣምላኽ ኣማልኽት ጐይታ ጎይቶት ኢኻ  >>    >>    >>",
+          "ምድሪ ተንቀጥቅጥ ትዘምር ንኽብሩ     >>    >>    >>",
+          "ሰማይ’ውን ይርዓድ ይናወጽ ጠፈሩ     >>    >>",
+          ">>"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kab 'alem semay melakt n'u",
+      "Wsht'i meqdesu qumu kahnatu",
+      "Temesgen belu ngziebher msgana aqrbu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Yared kab a'waf bzsem'o zema temesgen belu ngziabher/2/",
+          "Keneqrbelu fre kenafrna                >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Thti ts'lalu sle ze'refena              >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Nzedhanena ab gize mekerana            >>    >>",
+          ">>",
+          "Netom gfu'at nzteshegeru  temesgen belu ngziabher /2/",
+          "Zmagotelom abo dkhatat      >>    >>",
+          ">>",
+          "Nezymelu bkebero ts'enats'l      >>    >>",
+          ">>",
+          "Nzredana 'll (2) nbel     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 4,
+        "lines": [
+          "Haqi zfetu mhret zhabena    temesgen belu ngziabher /2/",
+          "Senay gerulna zel'alem n'ana       >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 5,
+        "lines": [
+          "Fluy belwo hayal’yu gwaytana     >>    >>",
+          ">>"
+        ]
+      },
+      {
+        "verse": 6,
+        "lines": [
+          "Keneqrbelu nsmu msgana          >>    >>",
+          ">>",
+          "Ab semay men’yu zwedadereka  temesgen belu ngziabher/2/"
+        ]
+      },
+      {
+        "verse": 7,
+        "lines": [
+          "Amlakh amalkht gwayta goytot ikha  >>    >>    >>",
+          "Mdri tenqet'qt' tzemr nkhbru     >>    >>    >>",
+          "Semay’wn yr'ad ynawets' t'eferu     >>    >>",
+          ">>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 447,
+  "title": "ስምኪ ጸዊዖም",
+  "ti": {
+    "chorus": [
+      "ማርያም ኢሎም ኣበይ ወዲቖም",
+      "ስምኪ ኢዩ’ሞ ስንቂ ኮይንዎም",
+      "እንሆ ምስጋና ተቐበልዮም",
+      "ብቤተክርስቲያን ኣብ ቅድሚ ኣምላኾም",
+      "ብሥጋ ወደሙ ሓደ ኣካል ኮይኖም",
+      "ነዚ ክንርኢ ኣምላኽ ዘብቅዓና",
+      "ክብሪ ምስጋና ንልዑል ጐይታ",
+      "ኣምላኽ ብሓቂ ይኽበር ይመስገን",
+      "ብቅዱስ ቁርባን ሎሚ ተመርዕዮም",
+      "ይሃብኩም ሎሚ መድኃኔዓለም",
+      "ዕድመ ማቱሳላ ከመ አብርሃም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምሳኻ ትነብር ሓፍቲ ረኺብካ",
+          "ናትና መርዓዊ እንቛዕ ደስ በለካ",
+          "እግዚአብሔር ኣብዚ ዘብጻሓና",
+          "ገዛካ ይመርቕ ብፍቕሪ የንብርካ",
+          "ሓዊ ረኺብኪ ዝሓስብ ንዓኺ",
+          "ናትና መርዓት እንቋዕ ደስ በለኪ",
+          "ጐይታ ይመስገን ደስ ኢሉና ኣሎ",
+          "ኣብ ቤተክርስቲያን መርዓኦም ርኢና",
+          "ብዓልቲ ግርማ ድንግል ኣደ ጐይታ",
+          "ምኽንያት ምድኃን ናይ ኣዳም ተስፋ",
+          "ስምኪ ክጽውዑ ኣብ ጊዜ ሓጎሶም",
+          "ምስኦም ልገቢ እምባጽዮን ጸግዖም",
+          "መታን ከይጠፍኡ ዘኽታም ከይኮኑ",
+          "እግዚአብሔር ስቕ ኣይበሎምን",
+          "ኣምላኽ ይመስገን ዕድል ኣለዎም",
+          "ብቅዱስ ቁርባን ሎሚ ተመርዕዮም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Maryam ilom abey wediqom",
+      "Smki iyu’mo snqi koynwom",
+      "Nho msgana teqebelyom",
+      "Bbetekrstiyan ab qdmi amlakhom",
+      "Bssga wedemu hade akal koynom",
+      "Nezi knri amlakh zebq'ana",
+      "Kbri msgana nl'ul gwayta",
+      "Amlakh bhaqi ykhber ymesgen",
+      "Bqdus qurban lomi temer'yom",
+      "Yhabkum lomi medhane'alem",
+      "'Dme matusala keme ebrham"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Msakha tnebr hafti rekhibka",
+          "Natna mer'awi nqwa' des beleka",
+          "Gziebher abzi zebts'ahana",
+          "Gezaka ymerq bfqri yenbrka",
+          "Hawi rekhibki zhasb n'akhi",
+          "Natna mer'at nqwa' des beleki",
+          "Gwayta ymesgen des iluna alo",
+          "Ab betekrstiyan mer'aom rina",
+          "B'alti grma dngl ade gwayta",
+          "Mkhnyat mdhan nay adam tesfa",
+          "Smki kts'w'u ab gize hagosom",
+          "Msom lgebi mbats'yon ts'eg'om",
+          "Metan keyt'efu zekhtam keykonu",
+          "Gziebher sq aybelomn",
+          "Amlakh ymesgen 'dl alewom",
+          "Bqdus qurban lomi temer'yom"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

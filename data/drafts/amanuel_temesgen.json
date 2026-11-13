@@ -1,0 +1,57 @@
+{
+  "id": 469,
+  "title": "ኣማኑኤል ተመስገን",
+  "ti": {
+    "chorus": [
+      "ኣማን ብኣማን ኣማን ብኣማን",
+      "ኣማኑኤል ተመስገን",
+      "መድኃኔ ዓለም ተመስገን /2/",
+      "ስጋዊ ትምኒት እናፈጸምኩ",
+      "ካብ ሕጊ ኣምላኽ ፍጹም ረሓቕኩ",
+      "ኃጢአተይ ርእዩ ከይንዓቐኒ",
+      "ንኽንሳሕ ዕድመ ሂቡኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕደጊ ዓለም ኣይተታልልኒ",
+          "ካብ ሕጂ ንንየው ሕደግኒ’ኺ",
+          "ብንእስነተይ ናብ እግዚአብሔር",
+          "ምቕራብ መረጽኩ ካብ ኵሉ ነገር",
+          "ኣብ ሓጢኣት ዓለም ዝተጸመድኩም",
+          "ብርሃን ዕድሜኹም ዝጸልመተኩም",
+          "ነውሪ ሓጢኣት ዓለም ኣብኡ ገዲፍኩም",
+          "ንዑ ኣገልግሉ ንሃይማኖትኩም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Aman baman aman baman",
+      "Amanuel temesgen",
+      "Medhane 'alem temesgen /2/",
+      "Sgawi tmnit nafets'emku",
+      "Kab hgi amlakh fts'um rehaqku",
+      "Hat'ietey ryu keyn'aqeni",
+      "Nkhnsah 'dme hibuni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hdegi 'alem aytetallni",
+          "Kab hji nnyew hdegni’khi",
+          "Bnsnetey nab gziebher",
+          "Mqrab merets'ku kab kwlu neger",
+          "Ab hat'iat 'alem ztets'emedkum",
+          "Brhan 'dmekhum zts'elmetekum",
+          "Newri hat'iat 'alem abu gedifkum",
+          "N'u agelglu nhaymanotkum"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

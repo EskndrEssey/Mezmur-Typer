@@ -1,0 +1,83 @@
+{
+  "id": 9,
+  "title": "ኣዘክሪ ድንግል",
+  "ti": {
+    "chorus": [
+      "ንጐይታ ሓብሪ ኣዘክሪ",
+      "ንኃጥኣን ኣይኮነን ንጻድቃን /2/",
+      "ከም ዝወለድክዮ        ኣዘክሪ",
+      "ኣብ ቤተልሔም         >> >>",
+      "ከም ዘደቀስክዮ          >> >>",
+      "ኣብ መብልዒ ማል      >> >>",
+      "ንኃጥኣን ኣይኮነን ንጻድቃን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "በቲ ጊዜ ቁሪ              ኣዘክሪ",
+          "ከም ዝገበርክሉ            >> >>",
+          "ናይ በጊዕን ላምን          >> >>",
+          "እስትንፋሶም ኵሉ         >> >>",
+          "ንኃጥኣን ኣይኮነን ንጻድቃን",
+          "ኣብ በረኻ ግብጺ        ኣዘክሪ",
+          "ከም ዝተሰደድኪ         >> >>",
+          "ናይቲ መሪር ሃሩር       >> >>",
+          "እቲ ኵሉ ጸገምኪ        >> >>",
+          "ንኃጥኣን ኣይኮነን ንጻድቃን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ መከራ ጐይታ         ኣዘክሪ",
+          "ንብዓት ከምዘፍሰስኪ     >> >>",
+          "ገነት ንኽንኣቱ             >> >>",
+          "ንሕና ደቅኺ               >> >>",
+          "ንኃጥኣን ኣይኮነን ንጻድቃን"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ngwayta habri azekri",
+      "Nhat'an aykonen nts'adqan /2/",
+      "Kem zweledkyo        azekri",
+      "Ab betelhem         >> >>",
+      "Kem zedeqeskyo          >> >>",
+      "Ab mebl'i mal      >> >>",
+      "Nhat'an aykonen nts'adqan"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Beti gize quri              azekri",
+          "Kem zgeberklu            >> >>",
+          "Nay begi'n lamn          >> >>",
+          "Stnfasom kwlu         >> >>",
+          "Nhat'an aykonen nts'adqan",
+          "Ab berekha gbts'i        azekri",
+          "Kem ztesededki         >> >>",
+          "Nayti merir harur       >> >>",
+          "Ti kwlu ts'egemki        >> >>",
+          "Nhat'an aykonen nts'adqan"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab mekera gwayta         azekri",
+          "Nb'at kemzefseski     >> >>",
+          "Genet nkhnatu             >> >>",
+          "Nhna deqkhi               >> >>",
+          "Nhat'an aykonen nts'adqan"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

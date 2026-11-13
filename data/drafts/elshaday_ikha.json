@@ -1,0 +1,133 @@
+{
+  "id": 349,
+  "title": "ኤልሻዳይ ኢኻ",
+  "ti": {
+    "chorus": [
+      "ኤልሻዳይ ኢኻ ኵሉ ትገብር",
+      "የለን ዝሰኣን ንዓኻ",
+      "ካብ ባሕሪ ጎቲትካ ኣውጺኻኒ",
+      "ንዓኻ ዝኸፍሎ ጐይታይ እንታይ ኣሎኒ",
+      "ተዘሪጉ ኵሉ ቅሳነት ሰላመይ",
+      "መሬት ብብርሃኑ ጸልሚቱኒ ንዓይ",
+      "ብጥቓይ ክትሓልፍ ወረኻ ሰሚዐ",
+      "ወዲ ዳዊት መሓረኒ ኢለ'ውን ጨዲረ",
+      "ዝሰኣንክዎ ብርሃን ካብ ፈላጣት ዓለም",
+      "ረኺበ'የ /2/ ካባኻ ረኺበ ክበር ንዘልዓለም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንቑጽ መሲሉኒ ኣብ ጥልቂ ማይ ኣትየ",
+          "ከባብየይ ጠሚተ ርድኡኒ'ውን ኢለ",
+          "ሰባት ዝሰኣኖም ቀሊል'ዩ ንዓኻ",
+          "ኦ ኣምላኸይ ኣውጽኣኒ ኢለ ለሚነካ",
+          "ከይሰጥም ብሰልሚ ሰዲድካለይ ጸጋ",
+          "ኣውጺኻኒ /2/ ብማዕበል ከይጥሕል ጎቲትካ ኣውጺኻኒ",
+          "ዘብለጭልጭ ናይ ዓለም ጽባቐ መልክዓ",
+          "ስሒቡኒ ንዓይ ርሒቐ ካባኻ",
+          "ኩሎም ከልከሉኒ መታን ከይቀርበካ",
+          "በዲለየ መሓረኒ ክልምን ነዓኻ",
+          "ብጽባቐ ደገ ፍጹም ዘይትጥበር",
+          "ጸዊዕካኒ /2/ ሓጢኣተይ ገዲፍካ ተማሒርካ ኢልካኒ",
+          "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+          "ኣብ ጎነይ ኣሎ ኣብ ጎድንና ኣሎ",
+          "ክድግፈና ሚካኤል ንበሎ",
+          "ኣጽዋር ሰረገላ ትምክሕቲ ዘይዓጅቦ",
+          "ኣብ በረኻ ሲና ንሕዝቡ ዝመርሖ",
+          "በዓል ዓቢይ ውዕለት ትሑትን ሓቀኛን",
+          "መን'ዩ ከም ሚካኤል ዝተኣምነ ሓርበኛ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓያል ተዋጋኢ ክንዲ ሕዝቡ ኮይኑ",
+          "ፈቃር ትሑት ለዋህ ዓይኒ ርግቢ ዓይኑ",
+          "ታሪኸይ ክትቅይር ጽንሓኒ ኣብ ኣኽራን",
+          "ሓለቓ ኩነለይ ክኾነልካ ባህራን",
+          "ኣብቲ ጽዕጹዕ ኩናት ሰራዊት መሪሑ",
+          "ብመንፈስ ዝዋጋእ ስም ኣምላኹ ጸይሩ",
+          "ብርቱዕ ዝባህሪኡ በዓል ሰፊሕ ክንፊ",
+          "ሰራዊት ሳጥናኤል ብሰይፊ ኣርጋፊ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "በዓል ዓቢይ ራእይ ኮይኑ ኣብ ባቢሎን",
+          "ክትንስእ'ዩ ኢሉካ ነቲ ዓቢይ መስፍን",
+          "ዝቐውም ንሕዝቡ ኣብ ጊዜ መከራ",
+          "ካብዛ ባሕሪ ኃጢኣት ነፍስና ኣስግራ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Elshaday ikha kwlu tgebr",
+      "Yelen zsean n'akha",
+      "Kab bahri gotitka awts'ikhani",
+      "N'akha zkheflo gwaytay ntay aloni",
+      "Tezerigu kwlu qsanet selamey",
+      "Meret bbrhanu ts'elmituni n'ay",
+      "Bt'qay kthalf werekha semi'e",
+      "Wedi dawit mehareni ile'wn ch'edire",
+      "Zseankwo brhan kab felat'at 'alem",
+      "Rekhibe'ye /2/ kabakha rekhibe kber nzel'alem"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nquts' mesiluni ab t'lqi may atye",
+          "Kebabyey t'emite rduni'wn ile",
+          "Sebat zseanom qelil'yu n'akha",
+          "O amlakhey awts'ani ile lemineka",
+          "Keyset'm bselmi sedidkaley ts'ega",
+          "Awts'ikhani /2/ bma'bel keyt'hl gotitka awts'ikhani",
+          "Zeblech'lch' nay 'alem ts'baqe melk'a",
+          "Shibuni n'ay rhiqe kabakha",
+          "Kulom kelkeluni metan keyqerbeka",
+          "Bedileye mehareni klmn ne'akha",
+          "Bts'baqe dege fts'um zeytt'ber",
+          "Ts'ewi'kani /2/ hat'iatey gedifka temahirka ilkani",
+          "Liqe melakt agelgali gwaytay",
+          "Ab goney alo ab godnna alo",
+          "Kdgfena mikael nbelo",
+          "Ats'war seregela tmkhti zey'ajbo",
+          "Ab berekha sina nhzbu zmerho",
+          "Be'al 'abiy w'let thutn haqenyan",
+          "Men'yu kem mikael zteamne harbenya"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hayal tewagai kndi hzbu koynu",
+          "Feqar thut lewah 'ayni rgbi 'aynu",
+          "Tarikhey ktqyr ts'nhani ab akhran",
+          "Haleqa kuneley kkhonelka bahran",
+          "Abti ts''ts'u' kunat serawit merihu",
+          "Bmenfes zwaga sm amlakhu ts'eyru",
+          "Brtu' zbahriu be'al sefih knfi",
+          "Serawit sat'nael bseyfi argafi"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Be'al 'abiy ray koynu ab babilon",
+          "Ktns'yu iluka neti 'abiy mesfn",
+          "Zqewm nhzbu ab gize mekera",
+          "Kabza bahri hat'iat nefsna asgra"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

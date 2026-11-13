@@ -1,0 +1,71 @@
+{
+  "id": 31,
+  "title": "ገድሉ ተኣምሩ",
+  "ti": {
+    "chorus": [
+      "ዕጹብ ድንቂ'ዩ ስልጣኑ ክብሩ",
+      "ናይ ተክለሃይማኖት ገድሉ ተኣምሩ",
+      "ፈውሲ ረኺብና ብእምነት ጸበሉ",
+      "ቅዱስ ማሕደሩ ቀዲሱ ነፍሰይ",
+      "ለዊጥዎ'ዩ ንጸልማት ገድለይ",
+      "ምስ መኣዛ ዕጣን ዓሪጉ ጸሎት",
+      "በረኸት ሰላም ወሪዱ ምሕረት",
+      "መድኃኒት ኣልቦ ሕሱም ሕማመይ",
+      "ገድሉ እንክንበብ ቀሊሉ ሰኽመይ",
+      "ኣዕሪፈ`የ ደስታ ኣስተንፊሰ",
+      "ሓድሽ ኣካለይ ሕጂ ለቢሰ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቅዱስ እምነቱ ቤተይ ነስኒሰ",
+          "ተንሲኤ ሕጂ ጸጋ ሓፊሰ",
+          "ብፍኖት እግሩ ወዱ ሰጎምኩ",
+          "ገድሉ ተኣምሩ እናተሰከምኩ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዲ/ን ትዝታው ሳሙኤል"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "'Ts'ub dnqi'yu slt'anu kbru",
+      "Nay teklehaymanot gedlu teamru",
+      "Fewsi rekhibna bmnet ts'ebelu",
+      "Qdus mahderu qedisu nefsey",
+      "Lewit'wo'yu nts'elmat gedley",
+      "Ms meaza 't'an 'arigu ts'elot",
+      "Berekhet selam weridu mhret",
+      "Medhanit albo hsum hmamey",
+      "Gedlu nknbeb qelilu sekhmey",
+      "A'rife`ye desta astenfise",
+      "Hadsh akaley hji lebise"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qdus mnetu betey nesnise",
+          "Tensie hji ts'ega hafise",
+          "Bfnot gru wedu segomku",
+          "Gedlu teamru natesekemku"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Di/n tztaw samuel"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

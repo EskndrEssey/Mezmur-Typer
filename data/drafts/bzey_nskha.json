@@ -1,0 +1,73 @@
+{
+  "id": 106,
+  "title": "ብዘይ ንስኻ",
+  "ti": {
+    "chorus": [
+      "ብዘይ ንስኻ መን ኣሎኒ",
+      "ጐይታይ ፍቕርኻ መቂሩኒ",
+      "ሕግኻ ንዓይ ይመርሓኒ",
+      "ፍጹም ዘይልወጥ ኣቦ ኣለኒ/2/",
+      "ክብረይ ክብለካ ስልማተይ",
+      "ቤተይ ናትካዩ ሰብነተይ",
+      "ብርሃን ጌርካዮ ንመንገደይ",
+      "መራሒ ኢኻ ንሕይወተይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣጣዒሱኒ’ቲ ሕይወተይ",
+          "ንመንገድኻ ዘይምፍላጠይ",
+          "ጽላል ኮይኑለይ ቲ ምሕረትካ",
+          "ክነብር እየ ኣብቲ ቤትካ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንጸላኢና ስዒርካዮ",
+          "ጭንቀት ልብና ኣርሒቕካዮ",
+          "ኵሉ ኣብ ኢድካዩ ፍጥረት ዓለም",
+          "ክንዝምር ኢና ንዘልዓለም"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bzey nskha men aloni",
+      "Gwaytay fqrkha meqiruni",
+      "Hgkha n'ay ymerhani",
+      "Fts'um zeylwet' abo aleni/2/",
+      "Kbrey kbleka slmatey",
+      "Betey natkayu sebnetey",
+      "Brhan gerkayo nmengedey",
+      "Merahi ikha nhywetey"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "At'a'isuni’ti hywetey",
+          "Nmengedkha zeymflat'ey",
+          "Ts'lal koynuley ti mhretka",
+          "Knebr ye abti betka"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Nts'elaina s'irkayo",
+          "Ch'nqet lbna arhiqkayo",
+          "Kwlu ab idkayu ft'ret 'alem",
+          "Knzmr ina nzel'alem"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

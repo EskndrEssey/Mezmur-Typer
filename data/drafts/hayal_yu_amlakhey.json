@@ -1,0 +1,69 @@
+{
+  "id": 230,
+  "title": "ሓያል’ዩ ኣምላኸይ",
+  "ti": {
+    "chorus": [
+      "ሓያል’ዩ ኣምላኸይ ዋልታይ ክብረተይ እዩ",
+      "ሓያል’ዩ ኣምላኸይ ንባሕሪ ዝመቅል",
+      "ንዓይ ምስ ኣሕለፈ ንፈርኦን ዘጥሕል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣስራዚ  ክዳኑ እንተተመክሐ",
+          "ንሕዝቢ ናይ ኣምላኽ እንተፈራርሐ",
+          "ብናይ ሩባ ጸጸር ግንባሩ ከንህሎ",
+          "ኣምላኽ ሂቡኒ’ዩ ኵሉ ዝከኣሎ",
+          "ንስሙ ምምስጋን ስለ ክብሩ ምስጋድ",
+          "በደል እንተኾይኑ ዘደርቢ ናብ ጉድጓድ",
+          "በቲ ግሩም ሓይሊ በቲ ዝርጉሕ ቅልጽም",
+          "ኣፍ ኣናብስ ዓጽዩ ተደነቒ ዓለም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብፈተና ዓለም ተወደቕኩ ኣብ ጸልማት",
+          "ትንሳኤ’ዩ ተስፋይ ኣይፈርሕን ንሞት",
+          "ንሞተይ ብሞቱ ደምሲሱ ዘጥፍኦ",
+          "ኤልሻዳይ’ዩ ንሱ ክብሪ ዝግብኦ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hayal’yu amlakhey waltay kbretey yu",
+      "Hayal’yu amlakhey nbahri zmeql",
+      "N'ay ms ahlefe nferon zet'hl"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Asrazi  kdanu ntetemekhe",
+          "Nhzbi nay amlakh nteferarhe",
+          "Bnay ruba ts'ets'er gnbaru kenhlo",
+          "Amlakh hibuni’yu kwlu zkealo",
+          "Nsmu mmsgan sle kbru msgad",
+          "Bedel ntekhoynu zederbi nab gudgwad",
+          "Beti grum hayli beti zrguh qlts'm",
+          "Af anabs 'ats'yu tedeneqi 'alem"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bfetena 'alem tewedeqku ab ts'elmat",
+          "Tnsae’yu tesfay ayferhn nmot",
+          "Nmotey bmotu demsisu zet'fo",
+          "Elshaday’yu nsu kbri zgbo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

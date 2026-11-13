@@ -1,0 +1,73 @@
+{
+  "id": 508,
+  "title": "ክብረ ቅዱሳን",
+  "ti": {
+    "chorus": [
+      "ሙዳየ መና ጎሞር ሙዳየ መና /2/",
+      "ክብረ ቅዱሳን ስለዝኾንኪ",
+      "ቅኔ ምስጋና ይግበኣኪ",
+      "ዝወለድክዮ ናይ ሕይወት መና",
+      "ዝናም ዘለኪ ፈጣን ደመና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትሕትና ፍቕሪ ክዳን መልክዕኪ",
+          "ጥንሲ የዝልል ሰላምታ ናትኪ",
+          "እሳት ወሊድኪ እሳት ሓቚፍኪ",
+          "ኣይወግሕን’ዩ ከይዘመርናልኪ",
+          "ናይ ጸሓይ ምብራቕ ስለዝኾንኪ",
+          "ርኢና ብርሃን ማርያም ብኣኺ",
+          "ኣይጽልምትን’ዩ  ከቶ ሕይወትና",
+          "ወድኺ ከሎ ብርሃን ጸሓይና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰኣሊ ለነ ሰላም ለኪ",
+          "ተማሕጸነ በኪዳንኪ",
+          "ንዒ ርግብየ ምስለ ወልድኪ",
+          "ሰማይ ወምድር ይዌድሱኪ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mudaye mena gomor mudaye mena /2/",
+      "Kbre qdusan slezkhonki",
+      "Qne msgana ygbeaki",
+      "Zweledkyo nay hywet mena",
+      "Znam zeleki fet'an demena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Thtna fqri kdan melk'ki",
+          "T'nsi yezll selamta natki",
+          "Sat welidki sat haqwifki",
+          "Ayweghn’yu keyzemernalki",
+          "Nay ts'ehay mbraq slezkhonki",
+          "Rina brhan maryam bakhi",
+          "Ayts'lmtn’yu  keto hywetna",
+          "Wedkhi kelo brhan ts'ehayna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seali lene selam leki",
+          "Temahts'ene bekidanki",
+          "N'i rgbye msle weldki",
+          "Semay wemdr ywedsuki"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

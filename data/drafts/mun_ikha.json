@@ -1,0 +1,77 @@
+{
+  "id": 257,
+  "title": "እሙን ኢኻ",
+  "ti": {
+    "chorus": [
+      "ትርከበሎም ንዝደልዩኻ",
+      "ርሑው’ዩ ቤትካ ንዝኵሕኩሑ",
+      "ድምጾም ትሰምዖ ንዝጭርሑ /2/",
+      "መሓረኒ ጐይታ ኢለ ምስ ጨራሕኩ",
+      "ናብኡ ወሰዱኒ ኣብ ቅድሚኡ ቆምኩ",
+      "ዕዉራት የዒንተይ ብእኡ ተፈወስኩ",
+      "ንብርሃን ዓለም ብኣዒንተይ ረኣኹ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ክዱን ሽቶ ሒዘ ምስ ብዙሕ ርኽሰተይ",
+          "ንእግሩ ሓጸብኩ ብብዙሕ ንብዓተይ",
+          "ማርያም ኃጥእት ኢሉ ጸዊዑ ንስመይ",
+          "ጐይታ ኣተንስኣኒ ሓዲጉ ኃጢአተይ",
+          "ንብዙሕ ዘመናት ሓይለይ ደኺሙኒ",
+          "ይነብር ነበርኩ ኵሉ ፈንፊኑኒ",
+          "በቲ ናቱ ትእዛዝ ናይ ጐይታይ መድኃኒ",
+          "ካብ ዓራት ተንሳእኩ ተንስእ ምስ በለኒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘደንቕ’ዩ ግብሩ በሓቂ መስተንክር",
+          "ንዝኣመንዎ ንዅሉ ይምሕር",
+          "ንዓይ ከንኣናዊት ጠሚቱ ብፍቕሪ",
+          "ንጓለይ ኣድሓና ክርስቶስ ፈጣሪ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Trkebelom nzdelyukha",
+      "Rhuw’yu betka nzkwhkuhu",
+      "Dmts'om tsem'o nzch'rhu /2/",
+      "Mehareni gwayta ile ms ch'erahku",
+      "Nabu weseduni ab qdmiu qomku",
+      "'Wurat ye'intey bu tefewesku",
+      "Nbrhan 'alem ba'intey reakhu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kdun shto hize ms bzuh rkhsetey",
+          "Ngru hats'ebku bbzuh nb'atey",
+          "Maryam hat't ilu ts'ewi'u nsmey",
+          "Gwayta atensani hadigu hat'ietey",
+          "Nbzuh zemenat hayley dekhimuni",
+          "Ynebr neberku kwlu fenfinuni",
+          "Beti natu tzaz nay gwaytay medhani",
+          "Kab 'arat tensaku tens ms beleni"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zedenq’yu gbru behaqi mestenkr",
+          "Nzamenwo nkhwlu ymhr",
+          "N'ay kenanawit t'emitu bfqri",
+          "Ngwaley adhana krstos fet'ari"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 433,
+  "title": "ኣብ ጊዜ መርዓና",
+  "ti": {
+    "chorus": [
+      "ኣብ ጊዜ መርዓና ንኽትባርኸልና",
+      "ንጽውዕ ኣሎና ጐይታ ክትሰምዓና /2/",
+      "ምስ ድንግል ማርያም ምስ ርህርህቲ ኣዴና",
+      "ምስ ኩሎም መላእክቲ ነዓ ናብዚ ዳስና",
+      "ምስ ኩሎም ሓዋርያት ነዓ ናብ መርዓና",
+      "ምስ ኩሎም ቅዱሳን ነዓ ናብ መርዓና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ቃና ዘገሊላ ከም ዝተረኸብካ",
+          "ነዓ ናብዚ ዳስና ጐይታ ኣብ ማእከልና",
+          "ንጽውዕ ኣሎና ክትህሉ ምሳና",
+          "ድንግል ንገርዮ ገንኢ ክመልኣልና",
+          "በረኸት ናቱ’ዩ ይምላእ ‘ቲ ገዛና"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዝጎደለ ኵሉ እናመላእክልና",
+          "ሓደራኺ ድንግል በረኸት ኩንና",
+          "ነቶም ኣገልገልቲ ድንግል ንገርዮም",
+          "ጸዊዕና ከይንሓፍር ሽሻይና ኣብዝሕዮ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab gize mer'ana nkhtbarkhelna",
+      "Nts'w' alona gwayta ktsem'ana /2/",
+      "Ms dngl maryam ms rhrhti adena",
+      "Ms kulom melakti ne'a nabzi dasna",
+      "Ms kulom hawaryat ne'a nab mer'ana",
+      "Ms kulom qdusan ne'a nab mer'ana"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Qana zegelila kem zterekhebka",
+          "Ne'a nabzi dasna gwayta ab makelna",
+          "Nts'w' alona kthlu msana",
+          "Dngl ngeryo geni kmelalna",
+          "Berekhet natu’yu ymla ‘ti gezana"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zgodele kwlu namelaklna",
+          "Haderakhi dngl berekhet kunna",
+          "Netom agelgelti dngl ngeryom",
+          "Ts'ewi'na keynhafr shshayna abzhyo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

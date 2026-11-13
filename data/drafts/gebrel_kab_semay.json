@@ -1,0 +1,73 @@
+{
+  "id": 28,
+  "title": "ገብርኤል ካብ ሰማይ",
+  "ti": {
+    "chorus": [
+      "ገብርኤል ካብ ሰማይ ኤልሳቤጥ ካብ ምድሪ (2)",
+      "ይምስክሩ ድንግል ነቲ ናትኪ ክብሪ",
+      "ብጽእት ንብል ንሕና ፍጹም ተዓጢቕና",
+      "ንልዑል ናይ ራማ ኣብነትና ጌርና",
+      "ሱርኪ ኣብ ምድሪ’ዩ ሓረግኪ ኣብ ሰማይ",
+      "ንጹህ መሶበ ወርቅ ዝመልኣኪ ሲሳይ",
+      "ንፍረ ማህጸንኪ በላዕና ሰቴና",
+      "ሰሚዕና ኣብ ኤፍራታ ኣብ ዱር ረኺብና",
+      "ነቲ ስዉር መና በሊዕና ጸጊብና",
+      "ምስቶም ሕሩያቱ ብጽዕት ኢልና’ና",
+      "ልዕሊ ተፈጥሮ ንጽንሲ ዘዝለለ",
+      "ኣዕኑድ ናይ ሓዊ ኣባኺ ተተኽለ",
+      "ሃገረ እግዚአብሔር ቤት ናይ እንጌራና",
+      "ክንደይ የደንቕ’ዩ ክብርኺ ኣዴና",
+      "ብጽዕት ንብል ንሕና ፍጹም ተዓጢቕና",
+      "ንቅድስት ኤልሳቤጥ ኣብነትና ጌርና",
+      "ኣብ መብልዕ ማል ኮይኑ ስለዝረኣይዎ",
+      "ሰብን መላእኽትን ሽዑ ኣመስገንዎ",
+      "ንመንደቕ ናይ ባእሲ ወድኺ ኣፍረሰ",
+      "ብዳግሚት ሔዋን ወድሰብ ተኻሕሰ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰላምታ ነቕርብ ትሕትና ኣሰኒና",
+          "ክብርኺ ምምስካር ኢዩ’ሞ ክብርና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gebrel kab semay elsabet' kab mdri (2)",
+      "Ymskru dngl neti natki kbri",
+      "Bts't nbl nhna fts'um te'at'iqna",
+      "Nl'ul nay rama abnetna gerna",
+      "Surki ab mdri’yu haregki ab semay",
+      "Nts'uh mesobe werq zmelaki sisay",
+      "Nfre mahts'enki bela'na setena",
+      "Semi'na ab efrata ab dur rekhibna",
+      "Neti swur mena beli'na ts'egibna",
+      "Mstom hruyatu bts''t ilna’na",
+      "L'li tefet'ro nts'nsi zezlele",
+      "A'nud nay hawi abakhi tetekhle",
+      "Hagere gziebher bet nay ngerana",
+      "Kndey yedenq’yu kbrkhi adena",
+      "Bts''t nbl nhna fts'um te'at'iqna",
+      "Nqdst elsabet' abnetna gerna",
+      "Ab mebl' mal koynu slezreaywo",
+      "Sebn melakhtn sh'u amesgenwo",
+      "Nmendeq nay basi wedkhi afrese",
+      "Bdagmit hewan wedseb tekhahse"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selamta neqrb thtna asenina",
+          "Kbrkhi mmskar iyu’mo kbrna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

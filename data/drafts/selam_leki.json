@@ -1,0 +1,42 @@
+{
+  "id": 10,
+  "title": "ሰላም ለኪ",
+  "ti": {
+    "chorus": [
+      "ሰላም ለኪ ማርያም",
+      "ወለተሃና ወኢያቄም",
+      "መሰረቱ ለዓለም",
+      "ወጥንተ መድኃኒት ዘእምቅድም",
+      "ንሕና ንኽንድሕን እንተዘይፈጥር ንዓኺ",
+      "እንተዘየድሕነና ነይሩ ተወሊዱ ካባኺ",
+      "ከም ሰዶምን ከም ጎመራን",
+      "ምጠፋእና ኔርና ካብዚኣ ዓለም ሰላም ለኪ",
+      "ናይ ጥፍኣት ማይ ምዘነመ እውን",
+      "ኖህ’ውን ናብ ምድሪ ርግቢት ለኣኸ",
+      "ናይ ኣይሂ ፍጻሜ ምልክት ዝኾንኪ",
+      "ሐመልማላዊት ድንግል ንስኺ’ኺ ሰላም ለኪ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Selam leki maryam",
+      "Weletehana weiyaqem",
+      "Meseretu le'alem",
+      "Wet'nte medhanit zemqdm",
+      "Nhna nkhndhn ntezeyfet'r n'akhi",
+      "Ntezeyedhnena neyru tewelidu kabakhi",
+      "Kem sedomn kem gomeran",
+      "Mt'efana nerna kabzia 'alem selam leki",
+      "Nay t'fat may mzeneme wn",
+      "Noh’wn nab mdri rgbit leakhe",
+      "Nay ayhi fts'ame mlkt zkhonki",
+      "Hemelmalawit dngl nskhi’khi selam leki"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

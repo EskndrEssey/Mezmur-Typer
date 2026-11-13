@@ -1,0 +1,75 @@
+{
+  "id": 119,
+  "title": "ኵሉ ዝኾነ ንሰናይ’ዩ",
+  "ti": {
+    "chorus": [
+      "ኵሉ ዝኾነ ንሰናይ’ዩ/2/",
+      "ኣብ ሰማይ ምድሪ ዝበልካዮ",
+      "ኣምላኽ ስራሕካ ትኽክል`ዩ",
+      "ሓጎስ ምስ ሓዘን ብኽያት ስሓቕ",
+      "ንግሆን ምሸትን ይፈራረቕ",
+      "ፍቓድካ ይኹን ኢልና ኣሎና",
+      "ኣሜን ብኣካ ተሓጉስና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ማይ እንተመልአ እቲ መርከብና",
+          "እሾኽ እንተኾነ መንገድና",
+          "ኣይንሽበርን ተ’ኣሚና",
+          "ኣምላኽ ንኣኻ እንተ ሒዝና",
+          "ምውሓድ ምብዛሕ ፈሊጥና ኢና",
+          "ምውታን ክንመስል ሕያዋን ኢና",
+          "ንጸላእትና ስዒርካልና",
+          "ናይ ፈጣሪና ናትካ ኴንና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተተሰደድኩ ካብ ሃገረይ",
+          "እንተደኸመ እቲ ጉልበተይ",
+          "ኣምላኽ ብኣኻ ሰብ ኮይነ’የ",
+          "ንወገነይ`ውን ተሪፈየ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kwlu zkhone nsenay’yu/2/",
+      "Ab semay mdri zbelkayo",
+      "Amlakh srahka tkhkl`yu",
+      "Hagos ms hazen bkhyat shaq",
+      "Nghon mshetn yferareq",
+      "Fqadka ykhun ilna alona",
+      "Amen baka tehagusna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "May ntemele ti merkebna",
+          "Shokh ntekhone mengedna",
+          "Aynshbern te’amina",
+          "Amlakh nakha nte hizna",
+          "Mwhad mbzah felit'na ina",
+          "Mwtan knmesl hyawan ina",
+          "Nts'elatna s'irkalna",
+          "Nay fet'arina natka kwenna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tetesededku kab hagerey",
+          "Ntedekheme ti gulbetey",
+          "Amlakh bakha seb koyne’ye",
+          "Nwegeney`wn terifeye"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,104 @@
+{
+  "id": 408,
+  "title": "ደባሲት ሓዘነይ",
+  "ti": {
+    "chorus": [
+      "እምባ መዕቆቢተይ ህያብ ጎልጎታ",
+      "ቅሳነት ሕይወተይ ናይ ኣእምሮይ ሩፍታ",
+      "ነዛ ምስኪን ነፍሰይ ንስኺ ትውክልታ /2/",
+      "በገና ዳዊት ኢኺ ፈውሲ ጭንቀት ሳኦል",
+      "ያዕቆብ ዝረኣያ ኣብ ሎዛ ናይ ሕይወት መሳልል",
+      "ዕጸ ሳቤቅ ኢኺ ንገንሸል ዝሓዝኪ",
+      "መሶብ ወርቂ ኤልያስ ሓይሉ ዝሓደስኪ",
+      "ምርኩስ ናይ ሕይወተይ ኣነ’ውን እብለኪ",
+      "ሓጺር’ዩ ቁመተይ ሃብኒ ሓይልኺ",
+      "ስለ ዝኸበዶ ንድኹም ጉልበተይ",
+      "ጾረይ ንኸራግፍ ኢድኪ ዘርግሕለይ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ጌደዎን ጸምሪ ምልክት ናይ ዓወት",
+          "ሰረገላ ኣሚናዳብ ፈጣን ንረድኤት",
+          "ንናሆም ፈዋሲት ናይ ቁስሉ መሕወዪት",
+          "ንኣዳም ተስፋኡ ‘ክስደድ ካብ ገነት",
+          "ኣነ’ውን እብለኪ ደራዚት ንብዓተይ",
+          "ናይ ሓዘነይ ደበስ ዕረፍቲ ናይ ልበይ",
+          "ክወግኣኒ ከሎ ወርወር ኲናት ዓለም",
+          "ዋልታኺ ዘርግሒ ርድእኒ ማርያም/2/",
+          "በትሪ ኣሮን ኢኺ ብዘይ ማይ ዝጠጠዐት",
+          "ዕጸ ጳጦስ ዘሲና ጸዋሪት መለኮት",
+          "ቀስተ ደመና ኢኺ ናይ ድኅነት ምልክት",
+          "ሳርማ ኤልሳዕ ኢኺ መመቀሪት ሕይወት",
+          "ኣነ’ውን እብለኪ ናይ ምንባረይ ሓበን",
+          "ሸፋኒት ሓጢኣተይ ንድኅነት ትልምን",
+          "ብኽልተ ዝሕንክስ ሓጢኣት ዘሰንከሎ",
+          "ለውሃትኪ ኣሚኑ ደበስኪ ይጽበ ኣሎ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክንደይ’ለ ክዝርዝር ኣበይከ ክበጽሖ",
+          "ብመቑሕ ናይ ዓለም ከይኣቱ ኣብ ሓደጋ",
+          "ክንደይ ከይኽእሎ ብእምነት ክጸንዕ",
+          "ሓይሊ ፍቕርኺ ግን ልበይ የበራትዕ /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mba me'qobitey hyab golgota",
+      "Qsanet hywetey nay amroy rufta",
+      "Neza mskin nefsey nskhi twklta /2/",
+      "Begena dawit ikhi fewsi ch'nqet saol",
+      "Ya'qob zreaya ab loza nay hywet mesall",
+      "'Ts'e sabeq ikhi ngenshel zhazki",
+      "Mesob werqi elyas haylu zhadeski",
+      "Mrkus nay hywetey ane’wn bleki",
+      "Hats'ir’yu qumetey habni haylkhi",
+      "Sle zkhebedo ndkhum gulbetey",
+      "Ts'orey nkheragf idki zerghley /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay gedewon ts'emri mlkt nay 'awet",
+          "Seregela aminadab fet'an nredet",
+          "Nnahom fewasit nay quslu mehweyit",
+          "Nadam tesfau ‘ksded kab genet",
+          "Ane’wn bleki derazit nb'atey",
+          "Nay hazeney debes 'refti nay lbey",
+          "Kwegani kelo werwer kwinat 'alem",
+          "Waltakhi zerghi rdni maryam/2/",
+          "Betri aron ikhi bzey may zt'et'e'et",
+          "'Ts'e p'at'os zesina ts'ewarit melekot",
+          "Qeste demena ikhi nay dhnet mlkt",
+          "Sarma elsa' ikhi memeqerit hywet",
+          "Ane’wn bleki nay mnbarey haben",
+          "Shefanit hat'iatey ndhnet tlmn",
+          "Bkhlte zhnks hat'iat zesenkelo",
+          "Lewhatki aminu debeski yts'be alo /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kndey’le kzrzr abeyke kbets'ho",
+          "Bmequh nay 'alem keyatu ab hadega",
+          "Kndey keykhlo bmnet kts'en'",
+          "Hayli fqrkhi gn lbey yeberat' /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_2_possible_page_split"
+  ]
+}

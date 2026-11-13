@@ -1,0 +1,73 @@
+{
+  "id": 860,
+  "title": "መኑአ ይቀውም",
+  "ti": {
+    "chorus": [
+      "መኑአ ይቀውም ቅድመ መንበሩ ለልዑል",
+      "አመ ምጽአቱ ዳግመ ይኰንና ለምድር",
+      "ጐይታ ክመጽእ’ዩ ብመዓልቲ ፍርዲ",
+      "ግርማኡ ለቢሱ ደፊኡ’ውን ዘውዲ",
+      "ብድምጺ መለኸት ብዘፍርሕ ነውጺ",
+      "ንፍጥረት ናይ ኣዳም ዓስቦም ንኽፈዲ",
+      "ኩሎም ክቖሙ’ዮም ዘርኢ ደቂ ኣዳም",
+      "ኣብ ቅድሚ ጐይታኦም መድኃኔ ዓለም",
+      "መንግስተይ ውረሱ ዕጡቓት ንጽህና",
+      "ንዑ ናባይ ደቀይ ምሉኣት ትሕትና",
+      "ንኃጥኣን’ውን ይብሎም ብቓል ናይ ወቐሳ",
+      "ሕገይ ዘይሓለኹም ምሉኣት ኣበሳ",
+      "ዘየፍረኹም መኽሊት ናይ ስሳ ሰላሳ",
+      "ካብ ቅድመይ ረሓቑ ውሉዳት ዲያብሎስ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሽዑ ክኸውን’ዩ ብኽያትን ሓዘንን",
+          "ኣዴታት ኣይሰምዓን ኣውያት ናይ ውሉደን",
+          "ንብዓት ክውሕዝ’ዩ ከም ፈለገ ግዮን",
+          "እዚ ክኸውን’ዩ ብጽሒት ኃጥኣን",
+          "ንምሕጸን ኣለና ብስጋኻ ደምካ",
+          "ንምሕጸን ኦ ጐይታ ብማርያም ኣዴኻ",
+          "ንምሕጸን ኣሎና በቶም ቅዱሳንካ",
+          "ኩላትና ክንኣቱ ኣብ ሰማያዊት ቤትካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Menue yqewm qdme menberu lel'ul",
+      "Eme mts'etu dagme ykwanna lemdr",
+      "Gwayta kmets'’yu bme'alti frdi",
+      "Grmau lebisu defiu’wn zewdi",
+      "Bdmts'i melekhet bzefrh newts'i",
+      "Nft'ret nay adam 'asbom nkhfedi",
+      "Kulom kqomu’yom zeri deqi adam",
+      "Ab qdmi gwaytaom medhane 'alem",
+      "Mengstey wresu 't'uqat nts'hna",
+      "N'u nabay deqey mluat thtna",
+      "Nhat'an’wn yblom bqal nay weqesa",
+      "Hgey zeyhalekhum mluat abesa",
+      "Zeyefrekhum mekhlit nay Ssa selasa",
+      "Kab qdmey rehaqu wludat diyablos"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Sh'u kkhewn’yu bkhyatn hazenn",
+          "Adetat aysem'an awyat nay wluden",
+          "Nb'at kwhz’yu kem felege gyon",
+          "Zi kkhewn’yu bts'hit hat'an",
+          "Nmhts'en alena bsgakha demka",
+          "Nmhts'en o gwayta bmaryam adekha",
+          "Nmhts'en alona betom qdusanka",
+          "Kulatna knatu ab semayawit betka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

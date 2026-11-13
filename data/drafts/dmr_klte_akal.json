@@ -1,0 +1,95 @@
+{
+  "id": 183,
+  "title": "ድምር ክልተ ኣካል",
+  "ti": {
+    "chorus": [
+      "ነቲ እግዚአብሔር ሓደ ዚገበሮ ሰብ ኣይፍለዮ።” (ማቴ.19፡6)",
+      "ንዑ ረኣዩ ተኣምሩ ንዑ መስክሩ",
+      "ድምር 2ተ ኣካል ሓደ ቍጽሩ ሓደ ምስጢሩ",
+      "ካበይ ኮን ኮነሎም ብመንፈሱ በዚ ኺጣመሩ",
+      "ልግሲ እግዚኣቢሔር’ዩ’ሞ ኣመስግኑ ንዑ ዘምሩ፡",
+      "ንዑ ዘምሩ  ከም ቤት ዶኪማስ ሽሻይኩም ክዛሪ",
+      ">>  >>     ወይኒ ሕይወትኩም ዓምቢባ ክትፈሪ",
+      ">>  >>     ጐይታን ድንግልን ዓዲምኩም ብኽብሪ",
+      ">>  >>     ቅናት ኪዳንኩም ዘለዓለም ነባሪ",
+      "‘ዚ ጸሎት ቅዱስ ተክሊል ሰማይኩም መሳገሪ",
+      "ብንጹሕ ክቡር ኣኽሊል ገሊጽኩሞ ክብሪ።"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዑ ዘምሩ  ብርሃን ፀዳሉ ጸላምኩም ኬሰስል",
+          ">>  >>     ሻቡ’ዛ ሕይወት በሪሁላ ቐንዴል",
+          ">>  >>     ስለዛ ጐጆ ምስ ተኸፍለ ገንሸል",
+          ">>  >>     ክርስቶስን ቤቱን ኮይኖም ሓደ ኣካል፡",
+          "‘ዚ ርእሱን ‘ዚኣካሉን መርዓውቲ እንኪምሰል",
+          "ለካ’ዛ ፍቕሪስ’ባ ክንዲ ሞት’ያ ኃያል።",
+          "ንዑ ዘምሩ  ኪንዮ’ዚ ምድሪ ናይ ሰማይ ጠሚትኩም",
+          ">>  >>     ኣብ ማሕላ ኪዳን ንጥምረት ምምሓልኩም",
+          ">>  >>     ኲሎም ቅዱሳን ምስ ኮኑ ዋሕስኩም",
+          ">>  >>     መርዓውቲ ጐይታ እንቋዕ ደስ በለኩም",
+          "ካህናት ብመስቀል ባርኽዎም ወለዲ መርቕዎም",
+          "ከም ኪዳን ኣብርሃምን ሳራን እግዚአብሔር ከጽንዖም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዑ ዘምሩ  ቃለ ወንጌሉ ኣብ ልብኹም ክነብር",
+          ">>  >>     ገና ዓንተቦ ወሲንኩም ንተግባር",
+          ">>  >>     ዓንዲ ኪዳንኩም ናይ ክርስቶስ ማህደር",
+          ">>  >>     ‘ዛ ጽላል ቤትኩም ኮይና ዘይትድፈር",
+          "ንዋዜማ ሓጐስ ሰማዩ ክብሩ ንዘይንገር"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Neti gziebher hade zigebero seb ayfleyo.” (mate.19፡6)",
+      "N'u reayu teamru n'u meskru",
+      "Dmr 2te akal hade qwts'ru hade mst'iru",
+      "Kabey kon konelom bmenfesu bezi khit'ameru",
+      "Lgsi gziabiher’yu’mo amesgnu n'u zemru፡",
+      "N'u zemru  kem bet dokimas shshaykum kzari",
+      ">>  >>     Weyni hywetkum 'ambiba ktferi",
+      ">>  >>     Gwaytan dngln 'adimkum bkhbri",
+      ">>  >>     Qnat kidankum zele'alem nebari",
+      "‘Zi ts'elot qdus teklil semaykum mesageri",
+      "Bnts'uh kbur akhlil gelits'kumo kbri."
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'u zemru  brhan ts'edalu ts'elamkum kesesl",
+          ">>  >>     Shabu’za hywet berihula qendel",
+          ">>  >>     Sleza gwajo ms tekhefle genshel",
+          ">>  >>     Krstosn betun koynom hade akal፡",
+          "‘Zi rsun ‘ziakalun mer'awti nkimsel",
+          "Leka’za fqris’ba kndi mot’ya hayal.",
+          "N'u zemru  kinyo’zi mdri nay semay t'emitkum",
+          ">>  >>     Ab mahla kidan nt'mret mmhalkum",
+          ">>  >>     Kwilom qdusan ms konu wahskum",
+          ">>  >>     Mer'awti gwayta nqwa' des belekum",
+          "Kahnat bmesqel barkhwom weledi merqwom",
+          "Kem kidan abrhamn saran gziebher kets'n'om"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'u zemru  qale wengelu ab lbkhum knebr",
+          ">>  >>     Gena 'antebo wesinkum ntegbar",
+          ">>  >>     'Andi kidankum nay krstos mahder",
+          ">>  >>     ‘Za ts'lal betkum koyna zeytdfer",
+          "Nwazema hagwas semayu kbru nzeynger"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

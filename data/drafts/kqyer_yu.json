@@ -1,0 +1,75 @@
+{
+  "id": 210,
+  "title": "ክቕየር’ዩ",
+  "ti": {
+    "chorus": [
+      "ክቕየር’ዩ /2/ ብሓይሊ እግዚአብሔር",
+      "ንተዓገስ ክሓልፍ’ዩ እዚ ምረት እዚ ሽግር",
+      "ቀያሪ’ዩ ታኦስ ቀያሪ ንዅሉ",
+      "ዓቕልና ኣይነጽብብ ኣይንጨነቐሉ",
+      "ህድእ’ሞ ንበል ቃላቱ ንሓሉ",
+      "ቀያሪ’ዩ  ቀያሪ እቲ ጐይታ ኵሉ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብነት ንግበሮ ነቦና ኢዮብ",
+          "ኣብ ጊዜ ሽግሩ ምስጋና ዘቕርብ",
+          "ደበስ ተደበሰ ዝበለጸ ዕድል",
+          "ትዕግስቱን ጽንዓቱን ዘልበሰቶ ኣኽሊል",
+          "ነቲ ምፍልላይ ምርኻብ ዝገብር",
+          "ንሓዘን ንጓሂ ናብ ሓጎስ ዝቕይር",
+          "ጐይታ’ዩ ዝፍጽም ንዅሉ ዘስምር",
+          "ካብ ሞት ኣተንሲኡ ብሕይወት ዘንብር"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዝያዳ ሓሳብና ኵሉ ድሌታትና",
+          "ሰላምና ዝደሊ ዝከናኸነና",
+          "ብፍቕሪ ዝጓሲ ኣሎ እንዶ ኣቦና",
+          "ኣማኑኤል ስሙ ኩርዓትና ሓበንና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kqyer’yu /2/ bhayli gziebher",
+      "Nte'ages khalf’yu zi mret zi shgr",
+      "Qeyari’yu taos qeyari nkhwlu",
+      "'Aqlna aynets'bb aynch'eneqelu",
+      "Hd’mo nbel qalatu nhalu",
+      "Qeyari’yu  qeyari ti gwayta kwlu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abnet ngbero nebona iyob",
+          "Ab gize shgru msgana zeqrb",
+          "Debes tedebese zbelets'e 'dl",
+          "T'gstun ts'n'atun zelbeseto akhlil",
+          "Neti mfllay mrkhab zgebr",
+          "Nhazen ngwahi nab hagos zqyr",
+          "Gwayta’yu zfts'm nkhwlu zesmr",
+          "Kab mot atensiu bhywet zenbr"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zyada hasabna kwlu dletatna",
+          "Selamna zdeli zkenakhenena",
+          "Bfqri zgwasi alo ndo abona",
+          "Amanuel smu kur'atna habenna"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

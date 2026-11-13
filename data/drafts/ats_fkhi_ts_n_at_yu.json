@@ -1,0 +1,73 @@
+{
+  "id": 232,
+  "title": "ዓጽፍኺ ጽንዓት'ዩ",
+  "ti": {
+    "chorus": [
+      "ዓጽፍኺ ጽንዓት'ዩ ቅናትኪ ትሕትና /2/",
+      "እምባ መሪና",
+      "ንፈተና ባሕሪ ብትዕግስቲ በትሪ",
+      "ክትሰግሪ ርኢና ደሚቕኪ ከም ባና",
+      "ክኢለ ንዅሉ ክነብር ከም ቃሉ",
+      "ትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ትዕግስቲ ዋጋ ናይ ዓቕልኺ ጸጋ",
+          "ዓው ኢለ ብመንፈስ መስኪራ ኣስቄጥስ",
+          "ክኢለ ንዅሉ ክነብር ከም ቃሉ",
+          "ትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ",
+          "ክመሃር ክነብር ናይ ጸጋኺ ምስጢር",
+          "ባርኽኒ ኣደይ ብርሃን ናይ ሕይወተይ",
+          "ክኢለ ንዅሉ ክነብር ከም ቃሉ",
+          "ትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ጸሎትኪ ዘስልጥ ካብ ጸልማት ዘምልጥ",
+          "ይኹነኒ ደጀን ካብ ፍላጻ ሰይጣን",
+          "ክኢለ ንዅሉ ክነብር ከም ቃሉ",
+          "ትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "'Ats'fkhi ts'n'at'yu qnatki thtna /2/",
+      "Mba merina",
+      "Nfetena bahri bt'gsti betri",
+      "Ktsegri rina demiqki kem bana",
+      "Kile nkhwlu knebr kem qalu",
+      "T'dlti nay iyob almdni t'beb"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay t'gsti waga nay 'aqlkhi ts'ega",
+          "'Aw ile bmenfes meskira asqet's",
+          "Kile nkhwlu knebr kem qalu",
+          "T'dlti nay iyob almdni t'beb",
+          "Kmehar knebr nay ts'egakhi mst'ir",
+          "Barkhni adey brhan nay hywetey",
+          "Kile nkhwlu knebr kem qalu",
+          "T'dlti nay iyob almdni t'beb"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ts'elotki zeslt' kab ts'elmat zemlt'",
+          "Ykhuneni dejen kab flats'a seyt'an",
+          "Kile nkhwlu knebr kem qalu",
+          "T'dlti nay iyob almdni t'beb"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

@@ -1,0 +1,93 @@
+{
+  "id": 530,
+  "title": "ያሬድ ካህን ዘመረ",
+  "ti": {
+    "chorus": [
+      "ያሬድ ካህን ዘመረ /2/",
+      "ዘመረ ያሬድ ዘመረ",
+      "ንኣምላኽ ኣመስገነ /2/",
+      "ኣርያም ብማለት   ያሬድ ዘመረ",
+      "ማህሌት ጀመረ      >>   >>",
+      "ዜማ ምስ ምልክት ፍጹም እናስመረ",
+      "ኣቕረበ  ምስጋና    ያሬድ ዘመረ",
+      "ብንዋየ ዜማ         >>    >>",
+      "ጸናጽል ኣልዓለ ከበሮ መቆምያ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብግእዝ ብእዝል     ያሬድ ዘመረ",
+          "ብኣራራይ ዜማ       >>     >>",
+          "ካብ ብሉይ ካብ ሓዲስ ምስጢር ኣሳነየ",
+          "ብምልክት ዜማ      ያሬድ ዘመረ",
+          "ናይ ኣምላኽ መከራ   >>     >>",
+          "ናይ መስቀል ነገር ናይ ምድሓኑ ስራሕ",
+          "ደሙ እናፈሰሰ     ያሬድ ዘመረ",
+          "ብኹናት ተወጊኡ   >>     >>",
+          "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+          "ብጥዑም ልሳኑ    ያሬድ ዘመረ",
+          "ብዝተዋህቦ ጸጋ     >>     >>",
+          "ንንጉሥ ክርስቶስ ኣልፋ ወኦሜጋ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ድጓ ጾመድጓ        ያሬድ ዘመረ",
+          "ምዕራፍ መዋሥዕት    >>    >>",
+          "ምስጢር ተገልጸሉ ዜማ መላእክት",
+          "ናይ ዜማ መሰረት   ያሬድ ዘመረ",
+          " ወረብ እግዚአብሔር"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Yared kahn zemere /2/",
+      "Zemere yared zemere",
+      "Namlakh amesgene /2/",
+      "Aryam bmalet   yared zemere",
+      "Mahlet jemere      >>   >>",
+      "Zema ms mlkt fts'um nasmere",
+      "Aqrebe  msgana    yared zemere",
+      "Bnwaye zema         >>    >>",
+      "Ts'enats'l al'ale kebero meqomya"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bgz bzl     yared zemere",
+          "Bararay zema       >>     >>",
+          "Kab bluy kab hadis mst'ir asaneye",
+          "Bmlkt zema      yared zemere",
+          "Nay amlakh mekera   >>     >>",
+          "Nay mesqel neger nay mdhanu srah",
+          "Demu nafesese     yared zemere",
+          "Bkhunat tewegiu   >>     >>",
+          "Liqe mahletat bmenfes teqanyu",
+          "Bt''um lsanu    yared zemere",
+          "Bztewahbo ts'ega     >>     >>",
+          "Nnguss krstos alfa weomega"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Dgwa ts'omedgwa        yared zemere",
+          "M'raf mewass't    >>    >>",
+          "Mst'ir tegelts'elu zema melakt",
+          "Nay zema meseret   yared zemere",
+          " Wereb gziebher"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
+}

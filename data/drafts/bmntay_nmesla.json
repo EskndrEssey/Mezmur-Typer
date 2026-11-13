@@ -1,0 +1,73 @@
+{
+  "id": 497,
+  "title": "ብምንታይ ንመስላ",
+  "ti": {
+    "chorus": [
+      "ብምንታይ ንመስላ ንድንግል ማርያም",
+      "ምሳሌ የብላን /2/ ንክብራ ዝመስል",
+      "ጽላት ሙሴ ኢኺ ናይ ምሕረት ቃልኪዳን",
+      "ናይ ኣሮን መሳልል ናይ ኣብርሃም ድንኳን",
+      "መውጽኢት ናይ ብርሃን ናይ ኖህ ድንቂ መርከብ",
+      "ሓፍቲ መላእክቲ ርግቢት ርህርህቲ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣኽሊል ናይ ሰሎሞን ናይ ኣሮን በትሪ",
+          "መሰንቆ ናይ እዝራ ናይ ጌዴዎን ጸምሪ",
+          "ድንግል እመቤትያ ዕጽውቲ ኣፍደገ",
+          "ኮይና ዝተረኽበት ናይ ኣምላኽ መሕደሪት /2/",
+          "ኣደ ናይ ቅዱሳን ንግስቲ ኣህዛብ",
+          "ዝተሰከመት ሓዊ እሳተ መለኮት",
+          "ብርሃን ትኹነልና ጸልማትና ቀንጢጣ",
+          "ተድሕነና ሎሚ ካብዚ ዓለም ጣጣ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ መዓር ይጥዕም ናይ ድንግል መኣዛ",
+          "ኣምላኽ ሓቚፋ’ላ ብኣእዳዋ ሒዛ",
+          "ዓለም ዝደኃነ ብወድኺ እዩ’ሞ",
+          "ኣዴና ጽዮን ይብጻሕኪ ምስጋና /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bmntay nmesla ndngl maryam",
+      "Msale yeblan /2/ nkbra zmesl",
+      "Ts'lat muse ikhi nay mhret qalkidan",
+      "Nay aron mesall nay abrham dnkwan",
+      "Mewts'it nay brhan nay noh dnqi merkeb",
+      "Hafti melakti rgbit rhrhti /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Akhlil nay selomon nay aron betri",
+          "Mesenqo nay zra nay gedewon ts'emri",
+          "Dngl mebetya 'ts'wti afdege",
+          "Koyna zterekhbet nay amlakh mehderit /2/",
+          "Ade nay qdusan ngsti ahzab",
+          "Ztesekemet hawi sate melekot",
+          "Brhan tkhunelna ts'elmatna qent'it'a",
+          "Tedhnena lomi kabzi 'alem t'at'a /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab me'ar yt''m nay dngl meaza",
+          "Amlakh haqwifa’la badawa hiza",
+          "'Alem zdehane bwedkhi yu’mo",
+          "Adena ts'yon ybts'ahki msgana /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

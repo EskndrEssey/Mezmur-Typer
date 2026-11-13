@@ -1,0 +1,63 @@
+{
+  "id": 269,
+  "title": "ንድንግል ክውድስ",
+  "ti": {
+    "chorus": [
+      "ንድንግል ክውድስ ስማ ደጋጊመ",
+      "ብዘመናት ፍጹም ዘይውሰን ብዕድመ",
+      "ደጋጊሙ ይሕጎስ ልበይ ከመስግና",
+      "ክዝምረላ’የ ጽባሕ ከሎ ጌና",
+      "ሓይሊ ልዑል ኣምላኽ ዘጽለለ ኣብ ልዕሌኣ",
+      "ቅድስቲ ድንግል’ያ ርኅሩኅ ዝባህሪኣ",
+      "ከዋኽብቲ ሰማይ ኩኑ ቃል ምስጋና",
+      "ነፍሰይ ከይትትክዝ እትብሎ ስኢና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣትን ኣዕዋፍ ሰማይ ዘይማለይ ዜማ",
+          "ዘመነይ ከሕልፎ እናወደስኩ ስማ",
+          "ካብ ሥጋኣ ሥጋ ካብ ነፍሳ’ውን ነፍሲ",
+          "ዝወሰደ ኣምላኽ ኮይኑልና’ዩ ፈውሲ/2/",
+          "ማዕበል ባሕሪ ሃርህር ከም ድምፂ በገና",
+          "መጺኣ ናብ ቤተይ ብተምሳል ደመና",
+          "ኣግራብ ስየ ጽሕዲ ኃዙለይ ጸናጽል",
+          "ህያብ ፍቕሪ ኣሎኒ ዝብርከት ንድንግል /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ndngl kwds sma degagime",
+      "Bzemenat fts'um zeywsen b'dme",
+      "Degagimu yhgos lbey kemesgna",
+      "Kzmrela’ye ts'bah kelo gena",
+      "Hayli l'ul amlakh zets'lele ab l'lea",
+      "Qdsti dngl’ya rhruh zbahria",
+      "Kewakhbti semay kunu qal msgana",
+      "Nefsey keyttkz tblo sina /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Atn a'waf semay zeymaley zema",
+          "Zemeney kehlfo nawedesku sma",
+          "Kab Ssgaa Ssga kab nefsa’wn nefsi",
+          "Zwesede amlakh koynulna’yu fewsi/2/",
+          "Ma'bel bahri harhr kem dmts'i begena",
+          "Mets'ia nab betey btemsal demena",
+          "Agrab sye ts'hdi hazuley ts'enats'l",
+          "Hyab fqri aloni zbrket ndngl /2/"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

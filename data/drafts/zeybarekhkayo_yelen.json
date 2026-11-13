@@ -1,0 +1,73 @@
+{
+  "id": 77,
+  "title": "ዘይባረኽካዮ የለን",
+  "ti": {
+    "chorus": [
+      "ዘይባረኽካዮ የለን ንስኻ",
+      "ከምዛ ዋዛ መጺኡ ዓጊቡልካ",
+      "የመስግነካ ድኻ ጸጊቡ",
+      "ሕያውነት ፍቕርኻ ሓሲቡ",
+      "በረኸት ናትካ መሊኡ ይተርፍ",
+      "ኣይጭነቕን’የ ልበይ ብኣኻ ይዓርፍ",
+      "ናይ ጽባሕ ድማ ትፈልጥ ንስኻ",
+      "ኣብ ልሙዕ ሸኻ ከተውዕለኒ’ኻ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕይወት’ቲ ምስኪን ለዊጥካ ንስኻ",
+          "ኵሉ ካብኡ’ዩ ኢሉ የመስግነካ",
+          "ድኅነት ከምዚ’ዩ ምብራኽ ብእኡ",
+          "ዝሓፍር የለን ጐይታ ተጸጊዑ /2/",
+          "ማራኺ ንጉሥ ንስኻ ቆይምካሉ",
+          "ሰላም ይኣቱ ዝወፈረ ኵሉ",
+          "ጥዒማትና ቁራስ እንጌራኻ",
+          "ለዊጡናዩ `ቲ ዓቢይ ፍቕርኻ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "መን ባረኸኩም እስከ ተናገሩ",
+          "ድንቂ ስራሑ ምድሓኑ መስክሩ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Zeybarekhkayo yelen nskha",
+      "Kemza waza mets'iu 'agibulka",
+      "Yemesgneka dkha ts'egibu",
+      "Hyawnet fqrkha hasibu",
+      "Berekhet natka meliu yterf",
+      "Aych'neqn’ye lbey bakha y'arf",
+      "Nay ts'bah dma tfelt' nskha",
+      "Ab lmu' shekha ketew'leni’kha /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hywet’ti mskin lewit'ka nskha",
+          "Kwlu kabu’yu ilu yemesgneka",
+          "Dhnet kemzi’yu mbrakh bu",
+          "Zhafr yelen gwayta tets'egi'u /2/",
+          "Marakhi nguss nskha qoymkalu",
+          "Selam yatu zwefere kwlu",
+          "T''imatna quras ngerakha",
+          "Lewit'unayu `ti 'abiy fqrkha /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Men barekhekum ske tenageru",
+          "Dnqi srahu mdhanu meskru"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

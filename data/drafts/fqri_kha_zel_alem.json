@@ -1,0 +1,75 @@
+{
+  "id": 55,
+  "title": "ፍቕሪ’ኻ ዘልዓለም",
+  "ti": {
+    "chorus": [
+      "ፍቕሪ’ኻ ዘልዓለም ከማኻ የለን",
+      "ከሃሊ ኢኻ ጐይታ ፍጹም ዘይርታዕ",
+      "`ቶም ሰረገላታቱ ፈጠኑ",
+      "ፍላጻ እሳት ሓዛ ኣእዳዉ",
+      "ኣይሓልፍን’ዩ ኣይሰዓርን",
+      "ንእግዚአብሔር ኣምላኽ ዝመስል የለን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነጎዳ ይነጉድ ሰማይ ጸልሚቱ",
+          "ንኽብሩ ርእዮም ኣሕሉቕ ሃደሙ",
+          "ዘፍርሕ ሓያል መብረቕ’ዩ ድምጹ",
+          "ደጌታት ሲኦል ተነዋወጹ",
+          "ከምቲ በደልና ኣይትፍረደና",
+          "ሞይትካ ኢኻ’ሞ ከተድሕነና",
+          "ምሕረት ትልግስ ንዅሉ ዓለም",
+          "ፍቕሪ ኢኻ’ሞ ንዘልዓለም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብ  ዕጹው ገዛ ምእታው ትፈልጥ",
+          "ጐይታይ ካብ ኢድካ መን’ዩ ዘምልጥ",
+          "ሓጎስ ናይ ቤተይ ምንጪ ዕልልታይ",
+          "በቲ ቅብእኻ በሪሁ ገጸይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Fqri’kha zel'alem kemakha yelen",
+      "Kehali ikha gwayta fts'um zeyrta'",
+      "`Tom seregelatatu fet'enu",
+      "Flats'a sat haza adawu",
+      "Ayhalfn’yu ayse'arn",
+      "Ngziebher amlakh zmesl yelen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Negoda ynegud semay ts'elmitu",
+          "Nkhbru ryom ahluq hademu",
+          "Zefrh hayal mebreq’yu dmts'u",
+          "Degetat siol tenewawets'u",
+          "Kemti bedelna aytfredena",
+          "Moytka ikha’mo ketedhnena",
+          "Mhret tlgs nkhwlu 'alem",
+          "Fqri ikha’mo nzel'alem"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ab  'ts'uw geza mtaw tfelt'",
+          "Gwaytay kab idka men’yu zemlt'",
+          "Hagos nay betey mnch'i 'lltay",
+          "Beti qbkha berihu gets'ey"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

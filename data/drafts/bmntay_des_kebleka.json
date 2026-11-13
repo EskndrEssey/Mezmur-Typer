@@ -1,0 +1,71 @@
+{
+  "id": 80,
+  "title": "ብምንታይ ደስ ከብለካ",
+  "ti": {
+    "chorus": [
+      "ብምንታይ ደስ ከብለካ ኦ ጐይታየ",
+      "ብምንታይ ደስ ከብለካ ኣምላኸየ",
+      "ድንቂ መካር ሓያል ኤልሻዳይ ኢኻሞ",
+      "ንጽኑዕ ፍቕርኻ ኣብ ውሽጠይ ሕተሞ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንጹህ መስዋእቲ’ዩ ዝፈቱ ኣምላኸይ",
+          "እንታይ ሒዘ ክቐርብ ናብዚ ልዑል ጐይታይ",
+          "ኣብ ላዕሊ ሰማያት ኣብ መሬት ኣብ ታሕቲ",
+          "ኣምላኽ ዘይርከቦ የለን ዋላ ሓንቲ/2/",
+          "ብኪዳን ብጸሎት ቅዳሴ ሰዓታት",
+          "ባዕልኻ ሃበና ሓይሊ መንፈስቅዱስ",
+          "ናባኻ ክንምለስ ኣምላኽ ደግፈና",
+          "ምሳኻ’ዩ ዘሎ መጻኢ ሕይወትና/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሃብተይ ምስ ንብረተይ ጉልበተይ እንታዩ",
+          "ጥዕና ዝህበኒ ብዘይካኻ መን’ዩ",
+          "ክጨንቀኒ ከሎ ኣብ ምሉእ ዘመነይ",
+          "ንዓኻ’የ ዝሕዝ ከውሕሳ ሕይወተይ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bmntay des kebleka o gwaytaye",
+      "Bmntay des kebleka amlakheye",
+      "Dnqi mekar hayal elshaday ikhamo",
+      "Nts'nu' fqrkha ab wsht'ey htemo/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nts'uh meswati’yu zfetu amlakhey",
+          "Ntay hize kqerb nabzi l'ul gwaytay",
+          "Ab la'li semayat ab meret ab tahti",
+          "Amlakh zeyrkebo yelen wala hanti/2/",
+          "Bkidan bts'elot qdase se'atat",
+          "Ba'lkha habena hayli menfesqdus",
+          "Nabakha knmles amlakh degfena",
+          "Msakha’yu zelo mets'ai hywetna/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Habtey ms nbretey gulbetey ntayu",
+          "T''na zhbeni bzeykakha men’yu",
+          "Kch'enqeni kelo ab mlu zemeney",
+          "N'akha’ye zhz kewhsa hywetey/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

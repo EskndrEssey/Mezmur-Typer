@@ -1,0 +1,75 @@
+{
+  "id": 415,
+  "title": "በኃይለ መንክርኪ",
+  "ti": {
+    "chorus": [
+      "በኃይለ መንክርኪ ከመ እትመየጥ",
+      "ወእምነደ ነበልባል ከመ አምስጥ",
+      "ማርያም ቤዛ ኩንኒ",
+      "ማርያም ዕቀብኒ",
+      "መርዓዊ ምስ መጽአ ከይሓፍር ከይደንን",
+      "ዋሕስ ነፍሰይ ኩኒ ክቐውም ብየማን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኪዳንኪ እዩ ኃይለይ ድኻመይ ዘሰንፍ",
+          "ጕያይ ንኽዛዝም ቤት ኤል ንኸዕርፍ",
+          "ጣዕሚ ገነት ኤዶም ኣብ ልበይ ኣንብሪ",
+          "ንኃጢኣት ፈንፊነ ንሕይወት ክሓሪ",
+          "ትምክሕተይ ርእየዮ ከእትወኒ ጸበባ",
+          "ባዕለይ ዘምጻእክዎ ወሊዱ ሰበባ",
+          "ብዘይ ወድኺ ኣደይ ኣይመልእን ሰላመይ",
+          "ከምቲ ናይ ገሊላ ንገርዮ ስለይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እግረይ ይስጕም ኣሎ ናብ ጽርሐ መቕደስኪ",
+          "ልበይ ብሂጉ’ሎ ክነብር ምሳኺ",
+          "ከማዕዱ ንምብራቕ ጸጋኺ የጽልለኒ",
+          "መርኆ ሰማይ ድንግል መራሒት ኩንኒ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Behayle menkrki keme tmeyet'",
+      "Wemnede nebelbal keme emst'",
+      "Maryam beza kunni",
+      "Maryam 'qebni",
+      "Mer'awi ms mets'e keyhafr keydenn",
+      "Wahs nefsey kuni kqewm byeman"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kidanki yu hayley dkhamey zesenf",
+          "Gwyay nkhzazm bet el nkhe'rf",
+          "T'a'mi genet edom ab lbey anbri",
+          "Nhat'iat fenfine nhywet khari",
+          "Tmkhtey ryeyo ketweni ts'ebeba",
+          "Ba'ley zemts'akwo welidu sebeba",
+          "Bzey wedkhi adey aymeln selamey",
+          "Kemti nay gelila ngeryo sley"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Grey ysgwm alo nab ts'rhe meqdeski",
+          "Lbey bhigu’lo knebr msakhi",
+          "Kema'du nmbraq ts'egakhi yets'lleni",
+          "Merho semay dngl merahit kunni"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

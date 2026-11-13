@@ -1,0 +1,61 @@
+{
+  "id": 264,
+  "title": "እቲ ንምክሖ",
+  "ti": {
+    "chorus": [
+      "እቲ ንምክሖ ብእግዚአብሔር ይኹን ብኃይሉ ንመካሕ",
+      "ንኽንድሕን’ውን ኣብ ኢየሩሳሌም ኣብ መቕደሱ ንጽናሕ",
+      "ናብ ቤትና ክኣቱ ይዅሕኩሕ እዩ ዘሎ ንሰምዕ እንተለና",
+      "ናይ ልብና ማዕጾ ሕጂ ንኽፈተሉ ክነብር ምሳና",
+      "ፍጻሜ ሓሳብና ምስጢር ናይ ዓወትና",
+      "ስራሕ ኣምላኽና’ዩ ኣይኮነን ካባና",
+      "እፎይታ ክትረክብ ናብኡ ነማዕቁባ",
+      "ሓደ ኢልና ንህነጻ ብቓሉ ንንደቃ /2/",
+      "ልዕሊ’ቲ ንሓስቦ ዘፍቀረና ጐይታ",
+      "ንጾርና ዝጾረ ክሳብ ጎልጎታ",
+      "ሕጂ’ውን እንተኾነ ከራገፍ ሸኸምና",
+      "ድሉው እዩ ዘሎ ክሓድግ ኃጢኣትና /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንክርስቶስ ዝገብሮ ምንጪ ናይ ትምክሕቱ",
+          "ብትሕትና ይስዕሮ ንውዲት ጸላእቱ",
+          "ብሰላም ይንደቕ መንፈሱ ይረግእ",
+          "ንጭንቀት’ዛ ዓለም ሓግሒጉ የውጽእ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ti nmkho bgziebher ykhun bhaylu nmekah",
+      "Nkhndhn’wn ab iyerusalem ab meqdesu nts'nah",
+      "Nab betna katu ykhwhkuh yu zelo nsem' ntelena",
+      "Nay lbna ma'ts'o hji nkhfetelu knebr msana",
+      "Fts'ame hasabna mst'ir nay 'awetna",
+      "Srah amlakhna’yu aykonen kabana",
+      "Foyta ktrekb nabu nema'quba",
+      "Hade ilna nhnets'a bqalu nndeqa /2/",
+      "L'li’ti nhasbo zefqerena gwayta",
+      "Nts'orna zts'ore ksab golgota",
+      "Hji’wn ntekhone keragef shekhemna",
+      "Dluw yu zelo khadg hat'iatna /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nkrstos zgebro mnch'i nay tmkhtu",
+          "Bthtna ys'ro nwdit ts'elatu",
+          "Bselam yndeq menfesu yreg",
+          "Nch'nqet’za 'alem haghigu yewts' /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

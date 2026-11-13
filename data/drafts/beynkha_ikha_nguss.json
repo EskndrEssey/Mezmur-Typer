@@ -1,0 +1,77 @@
+{
+  "id": 454,
+  "title": "በይንኻ ኢኻ ንጉሥ",
+  "ti": {
+    "chorus": [
+      "በይንኻ ኢኻ ንጉሥ በይንኻ ኢኻ ዳኛ /2/",
+      "ተመስገን ኢየሱስ መጸናንዒና",
+      "ተነባዕኩ ስለ ፍቕርኻ",
+      "ሞባእ ቅኔ'ውን ተውደቕኩልካ",
+      "ቅኔ ካሕሳ ኣይኮነን ንዓኻ",
+      "ምሉእ ዕድመይ እንተኣመስገንኩኻ",
+      "ቅኔ ካሕሳ ኣይኮነን ንዓኻ",
+      "ስጋዕ ሽበት ተመስገንኩኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዝመሃርካኒ ናይ ፍቕሪ ፊደል",
+          "ዝሃብካኒ ናይ ልቢ ደወል",
+          "ኣንቂሑኒ ኣነ አምልኸካ",
+          "ካልእ ኣይፈል-ጥን ብዘይካኻ",
+          "ምስ ጸሬኹ ካብ ነውሪ ሓጢኣት",
+          "ሕሊናይ'ውን ምስ ተረድአት",
+          "ሓደግክዎ ንሰብ ምምርኳስ",
+          "ምስ ኣብራህካ ኣብ ልበይ መቕደስ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ ውድቀተይ ኣልዒልካኒ'ኻ",
+          "ኣብ እምባታት እግረይ ኣጽናዕካ",
+          "ብምጻረይ ናይ ፍቕርኻ ኣርዑት",
+          "ሰብ ኮይነ'የ ጠፊኡ ውርደት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Beynkha ikha nguss beynkha ikha danya /2/",
+      "Temesgen iyesus mets'enan'ina",
+      "Teneba'ku sle fqrkha",
+      "Moba qne'wn tewdeqkulka",
+      "Qne kahsa aykonen n'akha",
+      "Mlu 'dmey nteamesgenkukha",
+      "Qne kahsa aykonen n'akha",
+      "Sga' shbet temesgenkukha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Zmeharkani nay fqri fidel",
+          "Zhabkani nay lbi dewel",
+          "Anqihuni ane emlkheka",
+          "Kal ayfel-t'n bzeykakha",
+          "Ms ts'erekhu kab newri hat'iat",
+          "Hlinay'wn ms teredet",
+          "Hadegkwo nseb mmrkwas",
+          "Ms abrahka ab lbey meqdes"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab wdqetey al'ilkani'kha",
+          "Ab mbatat grey ats'na'ka",
+          "Bmts'arey nay fqrkha ar'ut",
+          "Seb koyne'ye t'efiu wrdet"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

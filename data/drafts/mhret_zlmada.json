@@ -1,0 +1,77 @@
+{
+  "id": 425,
+  "title": "ምሕረት ዝልማዳ",
+  "ti": {
+    "chorus": [
+      "ምሕረት ዝልማዳ ርህርህተ ሕሊና",
+      "ተስፋ ናይ ኣዳም ናይ ጻድቃን ልመና",
+      "ኣይትጭክንን ዝተማህጸነኪ",
+      "ንዒ ብደመና ምስ ርህሩህ ወድኺ/2/",
+      "ማርያም ስለ ናትኪ ቃላት ይሓጽረኒ",
+      "ብኣኺ ዝፍጸም ስራሕ ይገርመኒ",
+      "ወለዶ ኩሉ ናባኺ ይምህለሉ",
+      "ቅድስቲ ማርያም ለምኒ እናበሉ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "በደነት ፍቕርኪ  እናተሓገዝኩ",
+          "ኣብዚ በጽሔልኪ ምንም  አንኮይኮንኩ",
+          "መልሲ የብለይን ነዚ ኩሉ ውዕለታ",
+          "ስልማተይ ኢኺ ዝሃበኒ ጎይታ/2/",
+          "ኣብ ቤተመቕደስኪ ከምቶም ኣቦታተይ",
+          "ተምበርኪኸልኪ ዘርጊሔ ኣእዳወይ",
+          "ከበሮ ኣዳሚጹ በገናይ ቃሊሑ",
+          "ኣመስጊነኪ ልበይ ተመሲጡ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ክንደይ ተጠቒሙ ንስምኪ ጸዊዑ",
+          "ጸሎቱ ሰሚሩ ከይዱ ተሓጒሱ",
+          "ዘወትር እግዚኣብሔር ዘልዓለም ምሳኺ",
+          "በረከት ይረክብ ለሚኑ ንዓኺ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mhret zlmada rhrhte hlina",
+      "Tesfa nay adam nay ts'adqan lmena",
+      "Aytch'knn ztemahts'eneki",
+      "N'i bdemena ms rhruh wedkhi/2/",
+      "Maryam sle natki qalat yhats'reni",
+      "Bakhi zfts'em srah ygermeni",
+      "Weledo kulu nabakhi ymhlelu",
+      "Qdsti maryam lemni nabelu/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bedenet fqrki  natehagezku",
+          "Abzi bets'helki mnm  enkoykonku",
+          "Melsi yebleyn nezi kulu w'leta",
+          "Slmatey ikhi zhabeni goyta/2/",
+          "Ab betemeqdeski kemtom abotatey",
+          "Temberkikhelki zergihe adawey",
+          "Kebero adamits'u begenay qalihu",
+          "Amesgineki lbey temesit'u/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kndey tet'eqimu nsmki ts'ewi'u",
+          "Ts'elotu semiru keydu tehagwisu",
+          "Zewetr gziabher zel'alem msakhi",
+          "Bereket yrekb leminu n'akhi/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

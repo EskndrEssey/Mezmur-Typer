@@ -1,0 +1,71 @@
+{
+  "id": 45,
+  "title": "ንስኻስ ንስኻ ኢኻ",
+  "ti": {
+    "chorus": [
+      "ንስኻስ ንስኻ ኢኻ ጸባኦት ዘለካ /2/",
+      "ዘልዓለም ትነብር ንዅሉ ኣሕሊፍካ",
+      "ወናኒ ናይ ኵሉ ንስኻ በይንኻ",
+      "ደመና ኣይሃሉ ዋላ'ውን ኣይዝነም",
+      "ወርሕን ጸሓይ'ውን ብርሃን እንተዘይሂቦም",
+      "ጠባይ ናይ ፍጥረታት ዋላ ይቀያየር",
+      "ከም ዘለኻያ ኢኻ ሕያው እግዚአብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓያላን ናይ ምድሪ ትማል ዝነበሩ",
+          "ብሓይሊ ብስልጣን ኣዝዮም ዝተፈርሑ",
+          "ኣብ ጸጽባሕ'ውን ሓድሽ'ዩ እቲ ስምካ",
+          "ንስኻ በይንኻ ጊዜ ዘይቆጽረካ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣማልኽቲ ግሪኽ ኮይኖም’ዮም ሓመድ",
+          "ብወርቂ ብብሩር ዝተሰርሑ ብኢድ",
+          "ፍጹም ዘይትሓልፍ ዘመን ዘይስዕረካ",
+          "ንስኻ በይንኻ ትገዝእ ፈጢርካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nskhas nskha ikha ts'ebaot zeleka /2/",
+      "Zel'alem tnebr nkhwlu ahlifka",
+      "Wenani nay kwlu nskha beynkha",
+      "Demena ayhalu wala'wn ayznem",
+      "Werhn ts'ehay'wn brhan ntezeyhibom",
+      "T'ebay nay ft'retat wala yqeyayer",
+      "Kem zelekhaya ikha hyaw gziebher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hayalan nay mdri tmal zneberu",
+          "Bhayli bslt'an azyom zteferhu",
+          "Ab ts'ets'bah'wn hadsh'yu ti smka",
+          "Nskha beynkha gize zeyqots'reka"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Amalkhti grikh koynom’yom hamed",
+          "Bwerqi bbrur zteserhu bid",
+          "Fts'um zeythalf zemen zeys'reka",
+          "Nskha beynkha tgez fet'irka"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

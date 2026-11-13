@@ -1,0 +1,85 @@
+{
+  "id": 855,
+  "title": "ተመለስ ኢልካኒ",
+  "ti": {
+    "chorus": [
+      "ንጊዜያዊ ሓጐስ ንሥጋይ ኣርኪሰ",
+      "ኣብ ኃጢኣት ጥሒለ ግዙኡ ከይከውን",
+      "ተመለስ ኢልካኒ ከቶ ኣይፈንፈንካንን /2/",
+      "ርኹስ ከናፍረይ ክነግር ውዕለትካ",
+      "መልኣኽካ ስደዶ ረዳኢ ባርያኻ",
+      "በቲ ብልዒ ሕይወት መታን ንኽቕደስ",
+      "ኣዕጽምተይ ክድልድል ሓይለይ’ውን ክሕደስ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕሊናይ ረጊጸ ንሥጋይ ክጥዕማ",
+          "ስቅያት ስቕለትካ ጌረ ኣልቦ ጻማ",
+          "ንሓወይ ክቐትል ኣድብየ ክጸናቶ",
+          "ማዕጾይ እናኳሕኳሕካ ኢለካ ኣይትእቶ/2/",
+          "ንጊዜያዊ ተድላ ጣዕሚ ናይዛ ዓለም",
+          "ክሰርቕ ክሕሱ ብጻየይ ክጠልም",
+          "መርገም ናይ ዓበይቲ ኣብ ዝባነይ ጸይረ",
+          "ፍጹም ዘይስቈሮ እምኒ ተቐይረ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣርዌ ተቐይረ ረሲዐ ወለደይ",
+          "ስስዐን ትምክሕትን ጌረዮም ኣዝማደይ",
+          "ጻዊዒትካ መጺኡ ሕሊናይ ደወለ",
+          "ተመለስ ኢሉኒ ካብ ክፍኣት ተኣለ/2/",
+          "ኦ እግዚአብሔር ሕይወተይ ለውጦ",
+          "ታሪኽ ናይ ውድቀተይ ፈጺምካ ቀንጥጦ",
+          "ክልወጥ ሕይወተይ ብፍጹም ምሕረትካ",
+          "ብቃላት ምስጋና መታን ከሥምረካ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ngizeyawi hagwas nssgay arkise",
+      "Ab hat'iat t'hile gzuu keykewn",
+      "Temeles ilkani keto ayfenfenkann /2/",
+      "Rkhus kenafrey knegr w'letka",
+      "Melakhka sdedo redai baryakha",
+      "Beti bl'i hywet metan nkhqdes",
+      "A'ts'mtey kdldl hayley’wn khdes/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hlinay regits'e nssgay kt''ma",
+          "Sqyat sqletka gere albo ts'ama",
+          "Nhawey kqetl adbye kts'enato",
+          "Ma'ts'oy nakwahkwahka ileka aytto/2/",
+          "Ngizeyawi tedla t'a'mi nayza 'alem",
+          "Kserq khsu bts'ayey kt'elm",
+          "Mergem nay 'abeyti ab zbaney ts'eyre",
+          "Fts'um zeysqwaro mni teqeyre/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Arwe teqeyre resi'e weledey",
+          "Ss'en tmkhtn gereyom azmadey",
+          "Ts'awi'itka mets'iu hlinay dewele",
+          "Temeles iluni kab kfat teale/2/",
+          "O gziebher hywetey lewt'o",
+          "Tarikh nay wdqetey fets'imka qent't'o",
+          "Klwet' hywetey bfts'um mhretka",
+          "Bqalat msgana metan kessmreka/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

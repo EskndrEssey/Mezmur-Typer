@@ -1,0 +1,59 @@
+{
+  "id": 348,
+  "title": "መቐረት ሕይወተይ",
+  "ti": {
+    "chorus": [
+      "መቐረት ሕይወተይ መብራህቲ ናይ ገዛይ",
+      "ረዳኢት ድኹማት ዋሕሳ ንነፍሰይ /2/",
+      "ንስኺ'ኺ ድንግል ኣደ ኣምላኽ ኣደ ኣማኑኤል",
+      "ጥራዩ ጋዝ ሒዘ ዘይተይ ተወዲኡ",
+      "መብራህቲ ዘይብለይ መርዓዊ መጺኡ",
+      "ግዳም ንኸይተርፍ ከይትጠፍእ ነፍሰይ",
+      "ሎሚ ደግፍኒ ጸግዒ ናይ ሕይወተይ",
+      "ንገርዮ ኢኺ ንፈቃር ኣዶናይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ውራይ ንኽገብር ኣጋይሽ ዓዲመ",
+          "ዝብላዕ ዝስተ ሽሻየይ ቀሪበ",
+          "ወይኒ ተወዲኡ ዓቕለይ ከይጸበኒ",
+          "እንትርፎ ጭንቀትሲ ገለኳ ኣይነፍርን",
+          "ወድኺ ዘይብሉ ፈጺሙ ኣይመልእን",
+          "ንገርልና ደኣ መታን ንኽንድሕን"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Meqeret hywetey mebrahti nay gezay",
+      "Redait dkhumat wahsa nnefsey /2/",
+      "Nskhi'khi dngl ade amlakh ade amanuel",
+      "T'rayu gaz hize zeytey tewediu",
+      "Mebrahti zeybley mer'awi mets'iu",
+      "Gdam nkheyterf keytt'ef nefsey",
+      "Lomi degfni ts'eg'i nay hywetey",
+      "Ngeryo ikhi nfeqar adonay"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Wray nkhgebr agaysh 'adime",
+          "Zbla' zste shshayey qeribe",
+          "Weyni tewediu 'aqley keyts'ebeni",
+          "Ntrfo ch'nqetsi gelekwa aynefrn",
+          "Wedkhi zeyblu fets'imu aymeln",
+          "Ngerlna dea metan nkhndhn"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 438,
+  "title": "ዮም ፍሥሐ ኮነ",
+  "ti": {
+    "chorus": [
+      "በእንተ መርዓት ለመርዓዊሃ",
+      "ቆይሙ መሰረቶም     ፍሥሐ ኮነ",
+      "ብእምነት ተሃኒጾም     >>   >>",
+      "ብርሃን ይረአ’ሎ        >>   >>",
+      "ገዝኦም መሊእሎም    >>   >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መኣዶም ተባሪኹ     ፍሥሐ ኮነ",
+          "ጽዋኡ መሊኡ         >>  >>",
+          "ብድኻም ዝዘርእዎ     >>  >>",
+          "ሎሚ በዚሕሎም      >>  >>",
+          "ብሥጋ ወደሙ        ፍሥሐ ኮነ",
+          "ተጸምደ ስጋኦም       >>   >>",
+          "ምሒሎም ብቓሉ      >>  >>",
+          "ማንም ከይፈላልዮም  >>  >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰረገላ እምነት      ፍሥሐ ኮነ",
+          "ተሰቒሎም በጽሑ     >>   >>",
+          "ልብሲ ቅድስና       >>  >>",
+          "ተኸዲኖም በርሁ   >>  >>"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bente mer'at lemer'awiha",
+      "Qoymu meseretom     fsshe kone",
+      "Bmnet tehanits'om     >>   >>",
+      "Brhan yree’lo        >>   >>",
+      "Gezom melilom    >>   >>"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Meadom tebarikhu     fsshe kone",
+          "Ts'wau meliu         >>  >>",
+          "Bdkham zzerwo     >>  >>",
+          "Lomi bezihlom      >>  >>",
+          "Bssga wedemu        fsshe kone",
+          "Tets'emde sgaom       >>   >>",
+          "Mhilom bqalu      >>  >>",
+          "Manm keyfelalyom  >>  >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Seregela mnet      fsshe kone",
+          "Teseqilom bets'hu     >>   >>",
+          "Lbsi qdsna       >>  >>",
+          "Tekhedinom berhu   >>  >>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 222,
+  "title": "ኣብ ሰማይ ይሃሉ ልብና",
+  "ti": {
+    "chorus": [
+      "ኣብ ሰማይ ይሃሉ ልብና",
+      "ምስ’ቲ ፈቃር ለዋህ ኣቦና",
+      "ምሕረቱን ሰላሙን ክውርደልና /2/",
+      "ወልደ ነጎድጓድ ዮሐንስ",
+      "ክብሪ ዝሃቦ መንፈስቅዱስ",
+      "መስኮት ናይ ሰማይ ተኸፊቱ",
+      "ምሥጢር እግዚአብሔር ተመልኪቱ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናብ ሣልሳይ ሰማይ ተመሲጡ",
+          "ናይ ሰማይ ምስጢር’ውን ፈሊጡ",
+          "ቅዱስ ጳውሎስ ብርሃን ዓለም",
+          "ክብሩ ዝነብር ንዘልዓለም",
+          "ዜማ መላእክት ተመሊኡ",
+          "ያሬድ ክዝምር ተቐቢኡ",
+          "ሽዱሽተ ኣኽናፍ ተዓዲሉ",
+          "ክብሪ ሱራፌል ተቐቢሉ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab semay yhalu lbna",
+      "Ms’ti feqar lewah abona",
+      "Mhretun selamun kwrdelna /2/",
+      "Welde negodgwad yohens",
+      "Kbri zhabo menfesqdus",
+      "Meskot nay semay tekhefitu",
+      "Msst'ir gziebher temelkitu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nab Ssalsay semay temesit'u",
+          "Nay semay mst'ir’wn felit'u",
+          "Qdus p'awlos brhan 'alem",
+          "Kbru znebr nzel'alem",
+          "Zema melakt temeliu",
+          "Yared kzmr teqebiu",
+          "Shdushte akhnaf te'adilu",
+          "Kbri surafel teqebilu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

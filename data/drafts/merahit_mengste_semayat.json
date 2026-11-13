@@ -1,0 +1,21 @@
+{
+  "id": 341,
+  "title": "መራሒት መንግስተ ሰማያት",
+  "ti": {
+    "chorus": [
+      "መራሒት መንግስተ ሰማያት ድንግል ማርያም /2/",
+      "ኣድሕንና ንዓና ደቅኺ ካብ ገሃነም /2/"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Merahit mengste semayat dngl maryam /2/",
+      "Adhnna n'ana deqkhi kab gehanem /2/"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

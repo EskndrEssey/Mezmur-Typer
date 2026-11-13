@@ -1,0 +1,71 @@
+{
+  "id": 109,
+  "title": "ኣንቢሩኒ ሕያውነትካ",
+  "ti": {
+    "chorus": [
+      "ኣንቢሩኒ ሕያውነትካ",
+      "ዓቐን ኣልቦ ሰናያትካ",
+      "ኣበይ ኣሎ'ሞ ከማኻ",
+      "ትዝ ይብለኒ'ቲ ውዕለትካ",
+      "ትዝ ይብለኒ'ቲ ፍቕርኻ",
+      "ሎሚ ንዓይ ተዘርጊሓ `ታ ፈዋሲት ተድኅን ኢድካ",
+      "ርሒቐካ ንኸይጠፍእ ኣሲርካኒ ብውዕለትካ",
+      "መንነተይ ከንቱ ነይሩ ተሰዓሪ ነዚ ዓለም",
+      "ግን ምስኡ ዝኾንካ ዝሓዝካዮ'ውን ይነብር ዘልዓለም",
+      "ኣብ መቕደስካ ተጸጊዐ ርእየ'ለኹ ብዙሕ ነገር",
+      "ውሽጢ ልበይ ዘንበርክዎ ብቐሊሉ ዘይንገር",
+      "ግን ዝኾነ ኵሉ ኮይኑ ሎሚ የለን ዝተረፈ",
+      "'ቲ እሳት መከራ 'ቲ እሳት ፈተና ብኣኻ ሓለፈ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣይጠፍኣንን 'ቲ ፍሽኽታ ወደይ ኢልካ ዘርኣኻኒ",
+          "ዓመጸኛ እንከለኹ ኣብ መንኮብካ ዝጾርካኒ",
+          "ከምዚ ከኣ ፈታዊ'ሎ እናጸልእዎ ዘፍቅር",
+          "ስሙ'ውን ኢየሱስ'ዩ /2/ ናይ ጽድቅና ምስጢር",
+          "እንክበኪ ክትገብረለይ ሐራይ ኢልካኒ ኵሉ ኮነ",
+          "ዘይኮነሉ ለካ የለን'ቲ በኣኻ ዝኣመነ",
+          "ምህዋኸይ ሸበድበደይ ኦ ኣምላኸይ ንኸንቱ'ዩ",
+          "ምዃኑ ዘይተርፎ /2/ጐይታ ዝበልካዮ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Anbiruni hyawnetka",
+      "'Aqen albo senayatka",
+      "Abey alo'mo kemakha",
+      "Tz ybleni'ti w'letka",
+      "Tz ybleni'ti fqrkha",
+      "Lomi n'ay tezergiha `ta fewasit tedhn idka",
+      "Rhiqeka nkheyt'ef asirkani bw'letka",
+      "Mennetey kentu neyru tese'ari nezi 'alem",
+      "Gn msu zkhonka zhazkayo'wn ynebr zel'alem",
+      "Ab meqdeska tets'egi'e rye'lekhu bzuh neger",
+      "Wsht'i lbey zenberkwo bqelilu zeynger",
+      "Gn zkhone kwlu koynu lomi yelen zterefe",
+      "'Ti sat mekera 'ti sat fetena bakha halefe"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ayt'efann 'ti fshkhta wedey ilka zerakhani",
+          "'Amets'enya nkelekhu ab menkobka zts'orkani",
+          "Kemzi kea fetawi'lo nats'elwo zefqr",
+          "Smu'wn iyesus'yu /2/ nay ts'dqna mst'ir",
+          "Nkbeki ktgebreley heray ilkani kwlu kone",
+          "Zeykonelu leka yelen'ti beakha zamene",
+          "Mhwakhey shebedbedey o amlakhey nkhentu'yu",
+          "Mkhwanu zeyterfo /2/gwayta zbelkayo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

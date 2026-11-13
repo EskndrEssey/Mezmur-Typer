@@ -1,0 +1,81 @@
+{
+  "id": 112,
+  "title": "ሚካኤል ክብል",
+  "ti": {
+    "chorus": [
+      "ብርሃን ኣምላኸይ ልዕለይ ይበርህ",
+      "ሓላዪ እዩ ፍጹም ሓላዪ",
+      "ዝሕልወኒ ዘበርትዓኒ /2/",
+      "ሕዝቡ ዝመርሕ ምስ ሓለቓታት",
+      "ዝመላለስ ኣብ እምባ እሳት",
+      "ካብቲ ቦታኣ ባሕሪ ሃደመት",
+      "ብመልኣክ ጐይታ ምስ ተናወጸት",
+      "ንገበል ኣሰነፈ",
+      "ስሙ ብኽብሪ ጽሓፈ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘ቲ ከቢድ እምባ ሜዳ ኮይኑለይ",
+          "እቲ ቤት ማእሰርቲ ተኸፊቱለይ",
+          "ኣይናወጽን ከቶ ኣይፈርሕን",
+          "ሚካኤል ከሎ ገለ ኣይከውንን",
+          "ንትዕቢተኛ ስዒርዎ እዩ",
+          "ሰይጣን ሓፊሩ ዕጥቁ ኣውሪዱ",
+          "ምሉእ ጸጥታ ኣብ ሰማይ ኮነ",
+          "እግዚአብሔር ጥራይ ስሙ ገነነ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ቀልጢፉ መጸ ሚካኤል ናባይ",
+          "ዝቃወሙኒ ርሓቑ ካባይ",
+          "ሊቀ መላእክት ኣብ ቅድመይ ኮነ",
+          "ንብዓተይ ጠፍአ ታሪኽ ተሰርሐ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Brhan amlakhey l'ley yberh",
+      "Halayi yu fts'um halayi",
+      "Zhlweni zebert'ani /2/",
+      "Hzbu zmerh ms haleqatat",
+      "Zmelales ab mba sat",
+      "Kabti botaa bahri hademet",
+      "Bmelak gwayta ms tenawets'et",
+      "Ngebel asenefe",
+      "Smu bkhbri ts'hafe /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "‘Ti kebid mba meda koynuley",
+          "Ti bet maserti tekhefituley",
+          "Aynawets'n keto ayferhn",
+          "Mikael kelo gele aykewnn",
+          "Nt'bitenya s'irwo yu",
+          "Seyt'an hafiru 't'qu awridu",
+          "Mlu ts'et'ta ab semay kone",
+          "Gziebher t'ray smu genene"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Qelt'ifu mets'e mikael nabay",
+          "Zqawemuni rhaqu kabay",
+          "Liqe melakt ab qdmey kone",
+          "Nb'atey t'efe tarikh teserhe"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

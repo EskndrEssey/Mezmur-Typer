@@ -1,0 +1,71 @@
+{
+  "id": 177,
+  "title": "ዕግበት ፍቕራ ዘንቀሎ",
+  "ti": {
+    "chorus": [
+      "ዕግበት ፍቕራ ዘንቀሎ",
+      "ልበይ ይጐስዕ ኣሎ",
+      "መዝሙር ምስጋና ፣",
+      "በረኸት ስማ  ዘሕደረሉ",
+      "ድንግል ማርያም ክብል ነቒሉ",
+      "ኣደ መድኅነይ ክብል ዘወትር ወግሐ ጸብሐ",
+      "ነናሻዕ እድሰት ጭንቀት ውሽጠይ ገኒሐ (2)",
+      "ግን ኵሉ ክርስዖ ድምጻ ምስ ሰማዕኩ",
+      "ትዝ’ብለኒ ዅሉ ከምዛ ብተይ ‘ናዘለልኩ(2)",
+      "ዕቅብቲ መርዓት መጸት መርዓዊ ‘ኸቲላ",
+      "ብደመና ሰማይ ክቡር ስሉም ሠረገላ(2)",
+      "ወላዲት ጸሓይ ‘ያ ‘ኮ  ወርሒ’ዛ ድምቕቲ",
+      "ዘምርላ ነፍሰይ ብዝማሬ መላእኽቲ(2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዘይትመውት ነፍሰይ መን ኣለዋ ተስፋ",
+          "ብዘይካ ዋሕሳ ዋሕስ መን ተደጊፋ(2)",
+          "ሥጋይ’ኳ እንተቕበጸት ከይሰምር ፍታዋ",
+          "ነፍሰይ ኣሚናላ ካብ ጸልማት ክትሕልዋ(2)",
+          "ትጽቢት ርህርህቲ ጽዮን ቅድስቲ ከተማ",
+          "ሃንቀውታኣ ’ንድዩ ንኽብሕቶ ሰላማ(2)",
+          "ወሲነ ኣለኹ ኣነስ ከይጥምት ንድሕረይ",
+          "ስም ወዳ ከመስግን ፈልፋሊ‘ዩ መዝሙረይ(2)"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "'Gbet fqra zenqelo",
+      "Lbey ygwas' alo",
+      "Mezmur msgana ,",
+      "Berekhet sma  zehderelu",
+      "Dngl maryam kbl neqilu",
+      "Ade medhney kbl zewetr weghe ts'ebhe",
+      "Nenasha' dset ch'nqet wsht'ey genihe (2)",
+      "Gn kwlu krs'o dmts'a ms sema'ku",
+      "Tz’bleni khwlu kemza btey ‘nazelelku(2)",
+      "'Qbti mer'at mets'et mer'awi ‘khetila",
+      "Bdemena semay kbur slum Sseregela(2)",
+      "Weladit ts'ehay ‘ya ‘ko  werhi’za dmqti",
+      "Zemrla nefsey bzmare melakhti(2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nzeytmewt nefsey men alewa tesfa",
+          "Bzeyka wahsa wahs men tedegifa(2)",
+          "Ssgay’kwa nteqbets'et keysemr ftawa",
+          "Nefsey aminala kab ts'elmat kthlwa(2)",
+          "Tts'bit rhrhti ts'yon qdsti ketema",
+          "Hanqewtaa ’ndyu nkhbhto selama(2)",
+          "Wesine alekhu anes keyt'mt ndhrey",
+          "Sm weda kemesgn felfali‘yu mezmurey(2)"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

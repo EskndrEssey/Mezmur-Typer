@@ -1,0 +1,85 @@
+{
+  "id": 380,
+  "title": "ኤቨን ኤዘር",
+  "ti": {
+    "chorus": [
+      "ንዘምር ኤቨን ኤዘር እልና /2/ ንጸውዕ ጐይታና",
+      "ዘምሩ ኤቨን ኤዘር ኢልኩም /2/ ዘክሩ ጐይታኹም",
+      "ጠሚትካኒ ኢኻ'ሞ ብውሽጣዊ ሰበይ",
+      "መዚንካኒ ኢኻ'ሞ ብዅሉ ተግባረይ",
+      "ኃጥእን በደለኛን ኮይነ ተረኺበ",
+      "ብሕሰም ናብራ ዓለም ፍጹም ዝረብረበ /2/ ኮይነ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ትሕዝቶ ናይዛ ዓለም እናሓደረ ይጎድል",
+      "ኣነ ግን ኣይነቓሕኩን ተገዚኤ ይነብር /2/ ኔረ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ረዲእካኒ ብሓቂ ረዲእካኒ /2/",
+      "ረዲእካና ብሓቂ ረዲእካና /2/",
+      "ብዕብዳን ስኽራን ጓይላ ኣሕሊፈ ዘመነይ",
+      "ባህታ ልበይ ኢለዮ ስጋዊ ትምኒተይ",
+      "ኣብ መንበር መላገጽቲ ደፊረ ዝቕመጥ",
+      "ብምኽሪ ናይ ረሲኣን ሓሳበይ ዝልወጥ /2/ ኔረ",
+      "ሎሚ ግና ጐይታየ ረዲእካኒ",
+      "ካብ ዓዘቕቲ ኃጢኣት ኣውጺኻኒ",
+      "ጸዊዕካኒ ሰሚዐ ጻውዒትካ",
+      "መጺኤ'ለኹ ክርኢ ምድኃንካ",
+      "ረዲእካኒ ብሓቂ ረዲእካኒ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ረዲእካና ብሓቂ ረዲእካና /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nzemr even ezer lna /2/ nts'ew' gwaytana",
+      "Zemru even ezer ilkum /2/ zekru gwaytakhum",
+      "T'emitkani ikha'mo bwsht'awi sebey",
+      "Mezinkani ikha'mo bkhwlu tegbarey",
+      "Hat'n bedelenyan koyne terekhibe",
+      "Bhsem nabra 'alem fts'um zrebrebe /2/ koyne",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Thzto nayza 'alem nahadere ygodl",
+      "Ane gn ayneqahkun tegezie ynebr /2/ nere",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Redikani bhaqi redikani /2/",
+      "Redikana bhaqi redikana /2/",
+      "B'bdan skhran gwayla ahlife zemeney",
+      "Bahta lbey ileyo sgawi tmnitey",
+      "Ab menber melagets'ti defire zqmet'",
+      "Bmkhri nay resian hasabey zlwet' /2/ nere",
+      "Lomi gna gwaytaye redikani",
+      "Kab 'azeqti hat'iat awts'ikhani",
+      "Ts'ewi'kani semi'e ts'aw'itka",
+      "Mets'ie'lekhu kri mdhanka",
+      "Redikani bhaqi redikani /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Redikana bhaqi redikana /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

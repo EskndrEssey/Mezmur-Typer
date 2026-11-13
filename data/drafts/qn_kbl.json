@@ -1,0 +1,59 @@
+{
+  "id": 148,
+  "title": "ቅንዕ ክብል",
+  "ti": {
+    "chorus": [
+      "ቅንዕ ክብል ቅንዕ ንብዓተይ ተሓብሰ",
+      "ኵናት ጸላእተይን ‘ቲ ምኽሮም ፈረሰ",
+      "ምድኃኑ ርእየ’የ ጎሊሑ ደሚቑ",
+      "ሕይወት ኣውሪሱኒ ኣምላኽ ስለይ ሞይቱ",
+      "ኣዕጽምተይ ሰረጸ ስምዒት ፍቕርኻ",
+      "ስለ ዝፈሰሰለይ ክቡር ቅዱስ ደምካ",
+      "ናትካ’የ ኣምላኸይ ዓለም ክሒደ’የ",
+      "ፍቕርኻ ኣብ ልበይ ሓቲመዮ እየ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሓይሉ ኣዕጢቑኒ በርቲዐ ብጐይታ",
+          "ገፋዒ ወዲቑ ክዝምር ብዓውታ",
+          "ዳግማይ ንኸይደንን ቀኒዑ ምጉባጠይ",
+          "ጐይታ ቆይሙ`ዩ`ሞ ብቕድሚት ብድሕረይ",
+          "ንዓይሲ ክብረይ’ዩ ‘ቲ ናትካ ምዃነይ",
+          "ዘይኮንካዮ የለን ኣምላኸይ ስለይ",
+          "ፍቕርኻ ዝሩእ’ዩ ናይ ልበይ ግራታ",
+          "ከምልኸካ እነብር ክሳብ መወዳእታ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Qn' kbl qn' nb'atey tehabse",
+      "Kwnat ts'elateyn ‘ti mkhrom ferese",
+      "Mdhanu rye’ye golihu demiqu",
+      "Hywet awrisuni amlakh sley moytu",
+      "A'ts'mtey serets'e sm'it fqrkha",
+      "Sle zfeseseley kbur qdus demka",
+      "Natka’ye amlakhey 'alem khide’ye",
+      "Fqrkha ab lbey hatimeyo ye"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Haylu a't'iquni berti'e bgwayta",
+          "Gefa'i wediqu kzmr b'awta",
+          "Dagmay nkheydenn qeni'u mgubat'ey",
+          "Gwayta qoymu`yu`mo bqdmit bdhrey",
+          "N'aysi kbrey’yu ‘ti natka mkhwaney",
+          "Zeykonkayo yelen amlakhey sley",
+          "Fqrkha zru’yu nay lbey grata",
+          "Kemlkheka nebr ksab mewedata"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

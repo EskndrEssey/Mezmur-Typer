@@ -1,0 +1,21 @@
+{
+  "id": 344,
+  "title": "ንዒ ባርኽና",
+  "ti": {
+    "chorus": [
+      "ምስ ቅዱስ ሚካኤል ወገብርኤል ኣዴና ንዒ ማርያም",
+      "ንዒ ባርኽና ከምቶም ኣቦታትና /2/ ኣዴና ንዒ ማርያም"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ms qdus mikael wegebrel adena n'i maryam",
+      "N'i barkhna kemtom abotatna /2/ adena n'i maryam"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

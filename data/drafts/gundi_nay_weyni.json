@@ -1,0 +1,71 @@
+{
+  "id": 358,
+  "title": "ጉንዲ ናይ ወይኒ",
+  "ti": {
+    "chorus": [
+      "ጉንዲ ናይ ወይኒ መስተ ናይ ሕይወት",
+      "መገዲ ሓቂ ጐይታ ናይ ጎይቶት",
+      "ኣባኻ ምንባር መድኃኔ ዓለም",
+      "ብሥጋ ብነፍሲ ኣለዎ ሰላም /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንስኻ ዋናይ ኣይናወጽን",
+          "ተኹላ እንተመጸ ኣይፈርሕን",
+          "ስለ ዝፈልጥ ከምተፍቅረኒ",
+          "ኣይፈርሕን'የ ከይትገድፈኒ/2/",
+          "ጽልግልግ ይኹን ይበርትዕ ጸልማት",
+          "ባሕሪ ይናወጽ ይንደድ'ቲ እሳት",
+          "ካብ መን ክፈርሕ ኣይሰግእን",
+          "ወላዲ ናተይ ኣይታኸስን /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብጾር ናይ ዓለም እትሳቐዩ",
+          "ንዑ ኣዕርፉ ቃሉ ስተዩ",
+          "ጾርኩም ሃብዎ ክሽከመልኩም",
+          "ኣይትጨነቑ ምስኡ ይሕሸኩም/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gundi nay weyni meste nay hywet",
+      "Megedi haqi gwayta nay goytot",
+      "Abakha mnbar medhane 'alem",
+      "Bssga bnefsi alewo selam /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nskha wanay aynawets'n",
+          "Tekhula ntemets'e ayferhn",
+          "Sle zfelt' kemtefqreni",
+          "Ayferhn'ye keytgedfeni/2/",
+          "Ts'lglg ykhun ybert' ts'elmat",
+          "Bahri ynawets' ynded'ti sat",
+          "Kab men kferh aysegn",
+          "Weladi natey aytakhesn /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bts'or nay 'alem tsaqeyu",
+          "N'u a'rfu qalu steyu",
+          "Ts'orkum habwo kshkemelkum",
+          "Aytch'enequ msu yhshekum/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 186,
+  "title": "እዚ’ውን ውህበትካ’ዩ",
+  "ti": {
+    "chorus": [
+      "ሰብ ብዅሉ ጻዕሩ ጽቡቕካ ብምርካቡ",
+      "ባርያኻ ውን ጐይታይ ሠናይካ ብምርካቡ",
+      "እዚ’ውን ውህበትካ’እዩ ንጉሠይ",
+      "ኣሰይ ተሓጒሰ ኣመስጊና ነፍሰይ (2)",
+      "ኣብቲ ሓያል ርብርብ ቃልሲ ንምንባር",
+      "ውዕሎ ትማል ዘኪረ ብኾፈይ ክሓድር",
+      "ሠረት ናይ ትማል ጻዕረይ ብደስታ ክድምደም",
+      "በረኸትካ ሰሲኑ ኣምላኽ ናይ ዘለዓለም (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ደርማስ ኃይሊ መስቀልካ ምስኮነ ምርኩሰይ",
+          "ኣብ ድኻመይ እብርትዕ ይጸንዕ መንፈሰይ",
+          "‘ቲ ብድኻም ዚሓርስ ኢዱ ምስ መልኣሉ",
+          "ለካስ ኣይሓፍርን በልኩ ስምካ ተወኪሉ (2)",
+          "ኣዒንተይ ክድረራ ሽሻይ ብርኩት ዓውዲ",
+          "ሠናይ ልግስኻ ርእየ እንክደፍእ ዘውዲ",
+          "ብዕምቆት ተምሳጥ ልበይ ኣውዒለካ ምሳይ",
+          "ብቅዱስ ኢድካ ክቑረስ ሕብስቲ ሓጐሰይ (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምዕራፍ ጒዕዞ ሕይወተይ ከፊትካለይ በሪ",
+          "ተግባር ኢድካ ከመስግን ካብ ወሰኽኩ ዕምሪ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Seb bkhwlu ts'a'ru ts'buqka bmrkabu",
+      "Baryakha wn gwaytay Ssenayka bmrkabu",
+      "Zi’wn whbetka’yu ngussey",
+      "Asey tehagwise amesgina nefsey (2)",
+      "Abti hayal rbrb qalsi nmnbar",
+      "W'lo tmal zekire bkhofey khadr",
+      "Sseret nay tmal ts'a'rey bdesta kdmdem",
+      "Berekhetka sesinu amlakh nay zele'alem (2)"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dermas hayli mesqelka mskone mrkusey",
+          "Ab dkhamey brt' yts'en' menfesey",
+          "‘Ti bdkham zihars idu ms melalu",
+          "Lekas ayhafrn belku smka tewekilu (2)",
+          "A'intey kdrera shshay brkut 'awdi",
+          "Ssenay lgskha rye nkdef zewdi",
+          "B'mqot temsat' lbey aw'ileka msay",
+          "Bqdus idka kqures hbsti hagwasey (2)"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "M'raf gwi'zo hywetey kefitkaley beri",
+          "Tegbar idka kemesgn kab wesekhku 'mri"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

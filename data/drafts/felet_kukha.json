@@ -1,0 +1,77 @@
+{
+  "id": 477,
+  "title": "ፈለጥኩኻ",
+  "ti": {
+    "chorus": [
+      "ፈለጥኩኻ ኣነ ፈለጥኩኻ",
+      "ንዓይ ጠሚትካኒ ብዓይኒ ምሕረትካ",
+      "ተገሊጽካለይ መድኃኔ ዓለም",
+      "ተመስገን ተመስገን ንዘልዓለም",
+      "ንዘይሰምዕ ኣምላኽ ፍጹም ንዘይርኢ",
+      "እዚ እዩ ኣምላኽካ ኣምልኮ በሉኒ",
+      "ፈጣሪ ናይ ጸሓይ በጃኻ ርድኣኒ",
+      "ኢለ ምስ ለመንኩ ኣለኹ ኢልካኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣጽዋረይ ኣልዒለ ስንቀይ እውን ቋጺረ",
+          "ንዓኻ ከጥፍእ ኢለ ተላዒለ",
+          "ንጌጋ መንገደይ ንቕኑዕ ለዊጥካ",
+          "ብርሃን ኣርኢኻኒ ነቲ ብሩህ ገጽካ",
+          "ኣሕዛብ ክምስክሩ ሕሙማት ዕውራት",
+          "ኩሎም ከድኑቑኻ ክሰምዑ ብስራት",
+          "ቁመት ሓጺሩኒ ኣብ ሳግላ ሓዂረ",
+          "ሎምስ ረኺበካ ብዙሕ ተማሂረ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣበይ ኣሎ ኣምላኸይ ኣበይ እዩ ዝርከብ",
+          "ኣብ ደገ ሰላሙ ኣብቲ ናቱ መቕደስ",
+          "ሥጋኡ ቆሪሱ ክቡር ደሙ ኣፍሲሱ",
+          "ወትሩ ይዕድል’ዩ ንዑ ተቐደሱ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Felet'kukha ane felet'kukha",
+      "N'ay t'emitkani b'ayni mhretka",
+      "Tegelits'kaley medhane 'alem",
+      "Temesgen temesgen nzel'alem",
+      "Nzeysem' amlakh fts'um nzeyri",
+      "Zi yu amlakhka amlko beluni",
+      "Fet'ari nay ts'ehay bejakha rdani",
+      "Ile ms lemenku alekhu ilkani"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ats'warey al'ile snqey wn qwats'ire",
+          "N'akha ket'f ile tela'ile",
+          "Ngega mengedey nqnu' lewit'ka",
+          "Brhan arikhani neti bruh gets'ka",
+          "Ahzab kmskru hmumat 'wrat",
+          "Kulom kednuqukha ksem'u bsrat",
+          "Qumet hats'iruni ab sagla hakhwire",
+          "Loms rekhibeka bzuh temahire"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abey alo amlakhey abey yu zrkeb",
+          "Ab dege selamu abti natu meqdes",
+          "Ssgau qorisu kbur demu afsisu",
+          "Wetru y'dl’yu n'u teqedesu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

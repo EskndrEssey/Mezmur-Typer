@@ -1,0 +1,63 @@
+{
+  "id": 164,
+  "title": "መልአከ ሰላም",
+  "ti": {
+    "chorus": [
+      "መልአከ ሰላም ቅዱስ ዑራኤል",
+      "ሐመልማለ ብርሃን ናይ ራማ ልዑል",
+      "ብፍሉይ ጸጋኻ ትፍውስ ሕዝብኻ",
+      "ዑራኤል መልኣክ ፍሉይ’ዩ ፍቅርኻ",
+      "ሕማመይ በዚሑ ፈውሲ ምስ ሰኣንኩ",
+      "ዑራኤል እናበልኩ ንስምካ  ጸዋዕኩ",
+      "ብዘስደምም ፍጥነት መልሲ ረኺበ’የ",
+      "ብረድኤት ዑራኤል ጥዑይ ሰብ ኮይነ’የ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንስምካ ይጽውእ ሕዝብኻ ይምስክር",
+          "ስለዝተጋህደ ኲሉ ናትካ ተኣምር",
+          "ኣእዳውካ ዘርግሕ ናይ ምሕረት ጽዋእኻ",
+          "ዑራኤል ክብለካ ፈውስ ንባርያኻ",
+          "ዑራኤል ዑራኤል ክብልየ ብዓውታ",
+          "ዋሕስ ናይ ሕይወተይ ክትኮነኒ ዋልታ",
+          "ሕይወተይ ክትዕንገል ክትረክብ ጸጋኻ",
+          "ዑራኤል ኣብ ልበይ ሕተሞ ፍቕርኻ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Meleke selam qdus 'urael",
+      "Hemelmale brhan nay rama l'ul",
+      "Bfluy ts'egakha tfws hzbkha",
+      "'Urael melak fluy’yu fqrkha",
+      "Hmamey bezihu fewsi ms seanku",
+      "'Urael nabelku nsmka  ts'ewa'ku",
+      "Bzesdemm ft'net melsi rekhibe’ye",
+      "Bredet 'urael t''uy seb koyne’ye"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nsmka yts'w hzbkha ymskr",
+          "Sleztegahde kwilu natka teamr",
+          "Adawka zergh nay mhret ts'wakha",
+          "'Urael kbleka fews nbaryakha",
+          "'Urael 'urael kblye b'awta",
+          "Wahs nay hywetey ktkoneni walta",
+          "Hywetey kt'ngel ktrekb ts'egakha",
+          "'Urael ab lbey htemo fqrkha"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

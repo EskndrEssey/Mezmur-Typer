@@ -1,0 +1,71 @@
+{
+  "id": 271,
+  "title": "ቃላት ሕፃን",
+  "ti": {
+    "chorus": [
+      "ከይልምን ከም ሰበይ ናባኺ ኣንቃዕሪረ ከምቲ ትደልዮ",
+      "ከይውሕደኪ እፈርሕ ቃላት ሕፃን ኮይኑ ብስለት ዘይቃነዮ",
+      "ጽላል እንከለኺ ኣይሰግርን’የ ማዕዶ",
+      "ጽላል እኳ ዚበሃግ ገረብ ዝእንግዶ/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "እንዳእቲ ህድኣተይ ከይብትኖ መዓት",
+          "ስርናይ ከየርኅቕ ካብ ናይ ቤተይ ቅርዓት",
+          "ከየሕለምልም ልበይ ጸላም ከይወርሶ",
+          "እኔኹ ኣብ ቅድሜኺ ንብዓተይ አፍስሶ/2/",
+          "እንታይ ከይከስበሉ ንዓለም ጽላላ",
+          "ስለይ ዘይትሽገር ጨካን እንድኣላ",
+          "ዝሃድመላ ጸግዐይ ገዳም ናይ ሕይወተይ",
+          "በረኸት ቀራንዮ ጽዮን ማርያም ኣደይ/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምስማዕሲ ይሰምዕ’የ ፍቕርኺ ክዝንቶ",
+          "ሕፃን እንዶሞ ኮይነ ክንደይ ከይግምቶ",
+          "ንገርኒ ኵሉ ነፍሰይ እትደልዮ",
+          "ነዚ ባዶ ልበይ ጸጋኺ ምልእዮ/2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Keylmn kem sebey nabakhi anqa'rire kemti tdelyo",
+      "Keywhdeki ferh qalat hts'an koynu bslet zeyqaneyo",
+      "Ts'lal nkelekhi aysegrn’ye ma'do",
+      "Ts'lal kwa zibehag gereb zngdo/2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ndati hdatey keybtno me'at",
+          "Srnay keyerhq kab nay betey qr'at",
+          "Keyehlemlm lbey ts'elam keywerso",
+          "Nekhu ab qdmekhi nb'atey efsso/2/",
+          "Ntay keykesbelu n'alem ts'lala",
+          "Sley zeytshger ch'ekan ndala",
+          "Zhadmela ts'eg'ey gedam nay hywetey",
+          "Berekhet qeranyo ts'yon maryam adey/2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Msma'si ysem'’ye fqrkhi kznto",
+          "Hts'an ndomo koyne kndey keygmto",
+          "Ngerni kwlu nefsey tdelyo",
+          "Nezi bado lbey ts'egakhi mlyo/2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

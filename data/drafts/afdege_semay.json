@@ -1,0 +1,73 @@
+{
+  "id": 275,
+  "title": "ኣፍደገ ሰማይ",
+  "ti": {
+    "chorus": [
+      "ኣፍደገ ሰማይ መሳልል ያዕቆብ",
+      "ተስፋ ዝኾንኪ ነቲ ቀዳማይ ሰብ",
+      "መድኅን ወሪዱ ብኣኺ ናብ ዓለም",
+      "ኣደ ክርስቶስ ክብሪ ኣለኪ ማርያም",
+      "ኣኽሊል ትምክሕትና ናይ ዓሌትና ክብሪ",
+      "ኣብ ከርስኺ ጼርኪ ንዅሉ ጸዋሪ",
+      "ደመና ኩንልና ክዘንመና ምሕረት",
+      "ናይ ሓደራ ኣዴና ሓፍቶም ንመላእክት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጽልኢ ኣብቂዑ’ዩ መንደቑ ፈሪሱ",
+          "ብፍረ ማህጸንኪ ዘመን ተሓዲሱ",
+          "ውዳሴኺ ኣለና ዝፍልፍል ካብ ልቢ",
+          "የለን ካብ ፍጥረታት ካባኺ ዝዓቢ",
+          "ሽግርና ክውገድ ንኽባረኽ ቤትና",
+          "ንዒ /2/ ንበል ከምቶም ኣቦታትና",
+          "ክኸውን’ውን ሎሚ ከምቲ ናይ ቀደም",
+          "ሃልዊ ምሳና ዝነበርኪ ምስኦም"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እምነትና ኣጽኒዕና መብራህትና ኣብሪህና",
+          "ክንቅበሎ ኣብ ሰማይ ንልዑል ኣምላኽና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Afdege semay mesall ya'qob",
+      "Tesfa zkhonki neti qedamay seb",
+      "Medhn weridu bakhi nab 'alem",
+      "Ade krstos kbri aleki maryam",
+      "Akhlil tmkhtna nay 'aletna kbri",
+      "Ab kerskhi ts'erki nkhwlu ts'ewari",
+      "Demena kunlna kzenmena mhret",
+      "Nay hadera adena haftom nmelakt"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'li abqi'u’yu mendequ ferisu",
+          "Bfre mahts'enki zemen tehadisu",
+          "Wdasekhi alena zflfl kab lbi",
+          "Yelen kab ft'retat kabakhi z'abi",
+          "Shgrna kwged nkhbarekh betna",
+          "N'i /2/ nbel kemtom abotatna",
+          "Kkhewn’wn lomi kemti nay qedem",
+          "Halwi msana zneberki msom"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mnetna ats'ni'na mebrahtna abrihna",
+          "Knqbelo ab semay nl'ul amlakhna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

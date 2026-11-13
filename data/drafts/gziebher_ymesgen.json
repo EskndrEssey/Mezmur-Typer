@@ -1,0 +1,63 @@
+{
+  "id": 35,
+  "title": "እግዚአብሔር ይመስገን",
+  "ti": {
+    "chorus": [
+      "እግዚአብሔር ይመስገን ነዚ ዘብቅዓና",
+      "ካብቲ ጸልማት ሕይወት ሓራ ዘውጽኣና",
+      "ጸልማት ተጎልቢቡ እንከንደልህጽ ልብና",
+      "ንሱ ግን ጋሊሁ ብርሃን ኣርኣየና",
+      "ከተማታት ግብጺ `ቶም ዝነደቕናዮም",
+      "ናትና ኣይኮኑን እሞ ፍጹም ሓዲግናዮም",
+      "ናትና ኣይኮነን’ሞ ሓዲግናዮ ኬድና",
+      "ቃላትካ እንክንሰምዕ ኣዚና ንረብሕ",
+      "ካብ ክፉእ ንድሕን ብኣኻ ንምካሕ",
+      "ጠፊኦም ተባሂሉ ፍጹም ተረሲዕና",
+      "ተስፋና ማሲኑ ፍጹም ምስ ሰጋእና",
+      "ኣምላኽ ግን መሓሪ ኣለኹ ኢልካና",
+      "ናይ ዘልዓለም ሕይወት ብስራት ሰሚዕና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣኽሊል ናይ ሽመትና ኢኻ መዓርግና",
+          "መስቀልካ `ቲ ሞትካ ሕይወት ዓዲሉና",
+          "ምውዳቕ ምትንሳእካ ናትካ ምክልባት",
+          "ኣቚሙና እዩ`ሞ ንዓኻ ስብሐት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gziebher ymesgen nezi zebq'ana",
+      "Kabti ts'elmat hywet hara zewts'ana",
+      "Ts'elmat tegolbibu nkendelhts' lbna",
+      "Nsu gn galihu brhan arayena",
+      "Ketematat gbts'i `tom znedeqnayom",
+      "Natna aykonun mo fts'um hadignayom",
+      "Natna aykonen’mo hadignayo kedna",
+      "Qalatka nknsem' azina nrebh",
+      "Kab kfu ndhn bakha nmkah",
+      "T'efiom tebahilu fts'um teresi'na",
+      "Tesfana masinu fts'um ms segana",
+      "Amlakh gn mehari alekhu ilkana",
+      "Nay zel'alem hywet bsrat semi'na"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Akhlil nay shmetna ikha me'argna",
+          "Mesqelka `ti motka hywet 'adiluna",
+          "Mwdaq mtnsaka natka mklbat",
+          "Aqwimuna yu`mo n'akha sbhet"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

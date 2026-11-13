@@ -1,0 +1,71 @@
+{
+  "id": 367,
+  "title": "ያዕቤጽ",
+  "ti": {
+    "chorus": [
+      "ካብ ኩሎም ኣሕዋቱ  ዝኸበረ",
+      "ሓረግ ናይ ትውልዱ ዝሰበረ",
+      "ካብ በረኸትካ ንኽትዕድለኒ",
+      "እስራኤል ክበሃል ኣምላኽ ደግፈኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ጾረይ ክቐልል ንስኻ ምሳይ ኩን",
+          "ባሕሪ ክምቀል ብዅሉ ክሰግር",
+          "ሓዊ ክዝሕል ግብርኻ ከስተንትን",
+          "ኣምላኸይ ንጉሰይ ግብርኻ መስተንክር",
+          "ካብ ክፉእ ጭንቀት ነጻ ግበረኒ",
+          "ናይ ሳኦል መንፈስ መታን ከይገዝኣኒ",
+          "ኣነ ከይሽበር ድምጽኻ ኣስምዓኒ",
+          "ብቓልካ ክጸንዕ ሰላም ክመልኣኒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተለዊጠ'የ ዳግም ተሓዲሰ",
+          "ብኽቡር ደምካ ዶባተይ መሊሰ",
+          "ስመይ ኣይኮነን ሕይወተይ ቀይርካ",
+          "መቕደስካ ጌርካኒ ሕይወትካ ለጊስካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kab kulom ahwatu  zkhebere",
+      "Hareg nay twldu zsebere",
+      "Kab berekhetka nkht'dleni",
+      "Srael kbehal amlakh degfeni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ts'orey kqell nskha msay kun",
+          "Bahri kmqel bkhwlu ksegr",
+          "Hawi kzhl gbrkha kestentn",
+          "Amlakhey ngusey gbrkha mestenkr",
+          "Kab kfu ch'nqet nets'a gbereni",
+          "Nay saol menfes metan keygezani",
+          "Ane keyshber dmts'kha asm'ani",
+          "Bqalka kts'en' selam kmelani"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Telewit'e'ye dagm tehadise",
+          "Bkhbur demka dobatey melise",
+          "Smey aykonen hywetey qeyrka",
+          "Meqdeska gerkani hywetka legiska"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

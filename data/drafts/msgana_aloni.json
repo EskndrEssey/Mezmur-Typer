@@ -1,0 +1,61 @@
+{
+  "id": 280,
+  "title": "ምስጋና ኣሎኒ",
+  "ti": {
+    "chorus": [
+      "ምስጋና ኣሎኒ ብዙሕ ውዳሴ",
+      "ንውዕለት ክብሩ ዕልል ክብል እየ",
+      "ከለይ ፈቲሑ ሓጎስ ጌሩለይ",
+      "ክኽልክል እየ ስቕ ከይብል ኣፈይ",
+      "ዘኽታም ክኸውን ኣይሓደገንን",
+      "ሓብሒቡኒ’ዩ ከም ኣቦን ኣደን",
+      "ዛርዩ ንብዓተይ መስፈሪ ኣልቦ",
+      "ርእየ ምሕረቱ ማንም ዘይረኽቦ",
+      "ብቕንኣት ቤትካ ኣብ ምድሪ ጓና",
+      "ቃዚነ’ለኹ ልበይ ሓዚና",
+      "ዓንያ ርእየያ ኢየሩሳሌመይ",
+      "ክሃንጻ እየ ጐይታ ኣቕንዓለይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ድምጸይ ኣልዒለ ስምካ ጸዊዐ",
+          "በዲለካ ኢለስ ብዙሕ ነቢዐ",
+          "ምስናይ ልበይ ኢደይ ኣልዒለ",
+          "ምስ ሰማዕካንስ ሃሌሉያ ኢለ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msgana aloni bzuh wdase",
+      "Nw'let kbru 'll kbl ye",
+      "Keley fetihu hagos geruley",
+      "Kkhlkl ye sq keybl afey",
+      "Zekhtam kkhewn ayhadegenn",
+      "Habhibuni’yu kem abon aden",
+      "Zaryu nb'atey mesferi albo",
+      "Rye mhretu manm zeyrekhbo",
+      "Bqnat betka ab mdri gwana",
+      "Qazine’lekhu lbey hazina",
+      "'Anya ryeya iyerusalemey",
+      "Khants'a ye gwayta aqn'aley"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Dmts'ey al'ile smka ts'ewi'e",
+          "Bedileka iles bzuh nebi'e",
+          "Msnay lbey idey al'ile",
+          "Ms sema'kans haleluya ile"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

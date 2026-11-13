@@ -1,0 +1,71 @@
+{
+  "id": 361,
+  "title": "ነዓ ባርኸና",
+  "ti": {
+    "chorus": [
+      "ነዓ ባርኸና ቅዱስ ሚካኤል ኣይትርሓቕ ካባና",
+      "ሰይጣን ከይውሕጠና",
+      "ናይ ምሕረት መልእኽቲ ሒዝካ ካብ ኣምላኽና",
+      "ኣብ ዙርያና ሃሉ ካባና ኣይትርሓቕ ካብቶም ንፈርሓካ",
+      "ሓላዊና ኢኻ ናይ ረድኤት መልኣኽ ጽላል'ዩ ክንፍኻ",
+      "ኣብ ምድሪ ስደት ኣብ ቃዴስ ኣብ ሲና ኣብ ዘመን ጉዕዞና",
+      "ብናትካ ረድኤት ቅዱስ ሚካኤል መከራ ሓሊፍና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ባሕሪ ተኸፊቱ ሙሴ ኢድ ዘርጊሑ ኣብ ማእከልና ኔርካ",
+          "ብኣኻ ክንእዘዝ ተነጊሩና'ዩ ክንሰምዕ ተግሳጽካ",
+          "ረዳኢ ዳንኤል ጉልበት  ዝኾንካዮ ብምልጃ ብጸሎት",
+          "ሰይፍኻ ክግተር ንሰይጣን የርዕዶ ይብተኽ ሰንሰለት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብዲያብሎስ ኣይንናወጽን እምንቶ ኣሎና",
+          "ናይ ጐይታ መልኣኽ ቅዱስ ሚካኤል ፍቕሩ ኣኽሊሉልና",
+          "ዋሕስና ኢኻ ኣብ ጊዜ መከራ ሓላዊና መልኣኽ",
+          "ትርፊ ገዲፉልና ይመስገን እግዚአብሔር ናይ ሚካኤል ኣምላኽ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ne'a barkhena qdus mikael aytrhaq kabana",
+      "Seyt'an keywht'ena",
+      "Nay mhret melkhti hizka kab amlakhna",
+      "Ab zuryana halu kabana aytrhaq kabtom nferhaka",
+      "Halawina ikha nay redet melakh ts'lal'yu knfkha",
+      "Ab mdri sdet ab qades ab sina ab zemen gu'zona",
+      "Bnatka redet qdus mikael mekera halifna"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bahri tekhefitu muse id zergihu ab makelna nerka",
+          "Bakha knzez tenegiruna'yu knsem' tegsats'ka",
+          "Redai danel gulbet  zkhonkayo bmlja bts'elot",
+          "Seyfkha kgter nseyt'an yer'do ybtekh senselet"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Bdiyablos aynnawets'n mnto alona",
+          "Nay gwayta melakh qdus mikael fqru akhlilulna",
+          "Wahsna ikha ab gize mekera halawina melakh",
+          "Trfi gedifulna ymesgen gziebher nay mikael amlakh"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

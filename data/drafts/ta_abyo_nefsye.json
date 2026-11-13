@@ -1,0 +1,99 @@
+{
+  "id": 407,
+  "title": "ታዓብዮ ነፍስየ",
+  "ti": {
+    "chorus": [
+      "ወትትኃሠይ መንፈስየ በኣምላኪየ",
+      "ወትትኃሠይ በኣምላኪየ ወመድኃንየ",
+      "ርእያ ጐይታነትካ ኣብ ሰማየ ዝባን ኪሩቤል",
+      "ከለኻ ኣብ ማሕጸና ተጸይርካ ህፃን ልዑል",
+      "መሊአ ጸጋኻ ሒዘ ‘ቲ ምስላ ንድንግል",
+      "እብል አመስግን ዓቢይ’ዩ ኣማኑኤል",
+      "ድንቂ እዩ ፍቕርኻ ጐይታይ",
+      "መዓሙቕ ጥበብካ ተወሊድካ ምዕባይ",
+      "ጎደሎያስ ክብል ንዓኻ ነፍሰይ ባህ ይብላ መሊኣ ፍቕርኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነፍሰይ ንእግዚኣብሔር ተዕብዮ",
+          "መንፈሰይ ብኣምላኽ መድኃኒየይ ባህ ይብላ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዳታን ኣቤሮን ኣብ ምድሪ ክውሕጦም ሓይልኻ",
+          "መካር ከም ዝኾንካ ዘንጊዖም ጥበብካ",
+          "ልበይ ተውጽእ ንግብሪ ፍቓድካ ምስጋና",
+          "ነዲራ ኣይትብልን ከምኣቶም ድሌትና",
+          "ተኣምርካዩ ናይ ሕዝብኻ ቀስቲ",
+          "ባሕርታት ኣስጊሩ ዝመርሕ ናብ ርስቲ",
+          "ፈርዖን የለን ክብሩ ፈሪሱ",
+          "ስምካ ተወዲሱ ብዓወት ነጊሱ",
+          "ነፍሰይ ንእግዚኣብሔር ተዕብዮ",
+          "መንፈሰይ ብኣምላኽ መድኃኒየይ ባህ ይብላ /2/",
+          "ኣብ ናይ ወርቂ ጽንሓ ጻዕዳ ዕጣን ጌሮም ንቕዳሴ",
+          "መቕደስካ ይዓጥኑ ብሓድሽ ውዳሴ",
+          "ዝፋን መንበርካ ብርሃን በሪሁ ወቂቡ",
+          "ንኽብሪ ዕቤትካ ብዝማሬ ተኸቢቡ",
+          "ፍቕርኻ’ዩ ንዓለም ዝገዝእ",
+          "ቃልካ’ዩ ንልቢ ማሪኹ ዝረትዕ",
+          "ንግስነትካ ተኣዊጁ ኢየሱስ",
+          "ኵሉ ሓቢሩ ንስምካ ክውድስ",
+          "ነፍሰይ ንእግዚኣብሔር ተዕብዮ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Wetthassey menfesye beamlakiye",
+      "Wetthassey beamlakiye wemedhanye",
+      "Rya gwaytanetka ab semaye zban kirubel",
+      "Kelekha ab mahts'ena tets'eyrka hts'an l'ul",
+      "Melie ts'egakha hize ‘ti msla ndngl",
+      "Bl emesgn 'abiy’yu amanuel",
+      "Dnqi yu fqrkha gwaytay",
+      "Me'amuq t'bebka tewelidka m'bay",
+      "Godeloyas kbl n'akha nefsey bah ybla melia fqrkha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nefsey ngziabher te'byo",
+          "Menfesey bamlakh medhaniyey bah ybla /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ndatan aberon ab mdri kwht'om haylkha",
+          "Mekar kem zkhonka zengi'om t'bebka",
+          "Lbey tewts' ngbri fqadka msgana",
+          "Nedira aytbln kematom dletna",
+          "Teamrkayu nay hzbkha qesti",
+          "Bahrtat asgiru zmerh nab rsti",
+          "Fer'on yelen kbru ferisu",
+          "Smka tewedisu b'awet negisu",
+          "Nefsey ngziabher te'byo",
+          "Menfesey bamlakh medhaniyey bah ybla /2/",
+          "Ab nay werqi ts'nha ts'a'da 't'an gerom nqdase",
+          "Meqdeska y'at'nu bhadsh wdase",
+          "Zfan menberka brhan berihu weqibu",
+          "Nkhbri 'betka bzmare tekhebibu",
+          "Fqrkha’yu n'alem zgez",
+          "Qalka’yu nlbi marikhu zret'",
+          "Ngsnetka teawiju iyesus",
+          "Kwlu habiru nsmka kwds",
+          "Nefsey ngziabher te'byo"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 495,
+  "title": "ሰላምኪ ኣውርድለይ",
+  "ti": {
+    "chorus": [
+      "ስምኪ ክጽውዕ ኣንቃዕሪረ",
+      "ማርያመይ እናበልኩ ተስፋ ገይረ",
+      "ባህጊ ልበይ ፍለጥለይ",
+      "ሰላምኪ ኣውርድለይ /2/",
+      "ካብ ኃጢኣት ምፍላይ ኣዝዩ ከቢዱኒ",
+      "ብጽድቂ ከይግስግስ ሓይለይ ደኺሙኒ",
+      "ጠበቓ ኩንኒ ኣበሳይ ከጽሪ",
+      "ኣምላኻዊ ፍቕሩ ንልበይ ምሃሪ",
+      "ቅድመይ ዘማዕድዎ ድቕድቕ ቀላይ ጥፍኣት",
+      "ዕላማይ ዘረስዕ ዘፍርህ ድነ ሞት",
+      "ብጽድቂ መሪሕኪ ሰውርለይ መዓት",
+      "ደጊመ ከይምለስ ኣስንቕኒ'ቲ ናትኪ ትብዓት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትርጉም ኣልቦ ከይከውን ምንባረይ",
+          "ጸሎት ጾመይ ከይሕነቕ ብግብረይ",
+          "ኣንፊ ጕዕዞይ መንቅብ ከይርከቦ",
+          "ቅዱስ ቃሉ ነእዛነይ ከይፈርዶ",
+          "ከይዕበ ልበይ ብጸጋኡ",
+          "ንኸይምካሕ ብውህበት መንፈሱ",
+          "ካብ ሰብ ዓስቢ ከይፍደዮ ጉያይ",
+          "ኦ ድንግለይ ሓደራ በልለይ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Smki kts'w' anqa'rire",
+      "Maryamey nabelku tesfa geyre",
+      "Bahgi lbey flet'ley",
+      "Selamki awrdley /2/",
+      "Kab hat'iat mflay azyu kebiduni",
+      "Bts'dqi keygsgs hayley dekhimuni",
+      "T'ebeqa kunni abesay kets'ri",
+      "Amlakhawi fqru nlbey mhari",
+      "Qdmey zema'dwo dqdq qelay t'fat",
+      "'Lamay zeres' zefrh dne mot",
+      "Bts'dqi merihki sewrley me'at",
+      "Degime keymles asnqni'ti natki tb'at"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Trgum albo keykewn mnbarey",
+          "Ts'elot ts'omey keyhneq bgbrey",
+          "Anfi gw'zoy menqb keyrkebo",
+          "Qdus qalu nezaney keyferdo",
+          "Key'be lbey bts'egau",
+          "Nkheymkah bwhbet menfesu",
+          "Kab seb 'asbi keyfdeyo guyay",
+          "O dngley hadera belley /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

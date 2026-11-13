@@ -1,0 +1,65 @@
+{
+  "id": 30,
+  "title": "ኣደ ናይ ፍቕሪ",
+  "ti": {
+    "chorus": [
+      "ኣደ ናይ ፍቕሪ ናይ ሰላም (2)",
+      "ይናፍቐኒ ስምኪ ተዘይጸዊዐ ማርያም",
+      "ኣብ ሕይወተይ ኣብ ናብራይ",
+      "ኩኒ ብቕድመይ  ብድሕረይ",
+      "ቀሲኑ ልበይ ንስኺ ስለዘለኺ ኣብ ጎነይ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትምኒተይ ይስመር ሕቡእ ሕልመይ",
+          "እሕለፍ ንማዕበል ይብዛሕ ሓይለይ",
+          "ኣደ ጐይታየይ ኢኺ ሓይሊ ኣለዎ’ቲ ጸሎትኪ",
+          "ንኸይተርፈኪ ኣብ መገዲ",
+          "ምእንታይ ጸሎት ኣይትሕደጊ",
+          "ኣይትሃብኒ ንጸላእየይ ክፉእ መሳደዲ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትማል ይኹን ሎሚ አመስግን",
+          "ስለ ጽባሕ’ውን ኣይፈርሕን",
+          "ሜዳ ክኸውን እዩ’ቲ እምባ ብወድኺ ኣባ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ade nay fqri nay selam (2)",
+      "Ynafqeni smki tezeyts'ewi'e maryam",
+      "Ab hywetey ab nabray",
+      "Kuni bqdmey  bdhrey",
+      "Qesinu lbey nskhi slezelekhi ab goney"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tmnitey ysmer hbu hlmey",
+          "Hlef nma'bel ybzah hayley",
+          "Ade gwaytayey ikhi hayli alewo’ti ts'elotki",
+          "Nkheyterfeki ab megedi",
+          "Mntay ts'elot aythdegi",
+          "Aythabni nts'elayey kfu mesadedi"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Tmal ykhun lomi emesgn",
+          "Sle ts'bah’wn ayferhn",
+          "Meda kkhewn yu’ti mba bwedkhi aba"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

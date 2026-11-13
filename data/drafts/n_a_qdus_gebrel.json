@@ -1,0 +1,65 @@
+{
+  "id": 313,
+  "title": "ንዓ ቅዱስ ገብርኤል",
+  "ti": {
+    "chorus": [
+      "ኣብ ላዕሊ ኣብ ሰማይ ኣብ እዮር",
+      "ከተማልደና ምስ እግዚኣብሔር"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ይሰማዕ ድምጽኻ ንረድኤት  ንምሕረት",
+          "ለምነልና ቅዱስ ገብርኤል ሊቀ መላእክት",
+          "ባዕልኻ ምርሓና ናብ ሕይወት",
+          "ክንጸንዕ ከማኻ ብእምነት",
+          "ተልእኮኻ ንኣናንያ ኣዛርያ",
+          "ንሚሳኤል ከተውጽኦም ካብ መጋርያ",
+          "ዘድሓንካዮም ካብ ነበልባል",
+          "ኣቦ ኵልና ቅዱስ ገብርኤል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ገብርኤል ስምካ ግሩም ዘለዎ ምስጢር",
+          "ርድኣና ንደቂ ሰባት ዕዮ እግዚኣብሔር",
+          "ሎሚ ውን ገብርኤል ከም ቀደምካ",
+          "ምሕረት ለምነልና ካብ ኣምላኽካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab la'li ab semay ab yor",
+      "Ketemaldena ms gziabher"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ysema' dmts'kha nredet  nmhret",
+          "Lemnelna qdus gebrel liqe melakt",
+          "Ba'lkha mrhana nab hywet",
+          "Knts'en' kemakha bmnet",
+          "Telkokha nananya azarya",
+          "Nmisael ketewts'om kab megarya",
+          "Zedhankayom kab nebelbal",
+          "Abo kwlna qdus gebrel"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gebrel smka grum zelewo mst'ir",
+          "Rdana ndeqi sebat 'yo gziabher",
+          "Lomi wn gebrel kem qedemka",
+          "Mhret lemnelna kab amlakhka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

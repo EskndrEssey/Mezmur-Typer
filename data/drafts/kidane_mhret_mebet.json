@@ -1,0 +1,79 @@
+{
+  "id": 137,
+  "title": "ኪዳነ ምሕረት እመቤት",
+  "ti": {
+    "chorus": [
+      "ኪዳነ ምሕረት እመቤት እመቤት /2/",
+      "ንዒ /4/ ሰኣሊተ ምሕረት /2/",
+      "ኣብ ልዕሊ ሰማያት ካብ ዘሎ ማሕደርኪ /2/",
+      "ዝማሬ ዝመልኦ ናይ ዘልዓለም ቤትኪ",
+      "ፍጥረታት ናይ ምድሪ ማርያም ማርያም ይብል/2/",
+      "ብሰረገላ እሙ ለቃል ምጽና ድንግል /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ካብ ናይ ህድኣት ወደብ ካብ ናይ ፍቕሪ ዓውዲ/2/",
+          "ካብ ከተማ ሓቂ ካብ ናይ ሰላም ዓዲ",
+          "ሰኣሊ ለነ ቅድስት ውዳሴ እንክስማዕ /2/",
+          "ምስ ሚካኤል ምስ ገብርኤል ምጽና ካብ ራማ /2/",
+          "በኣማላድነትኪ ፍጥረት ንክድሕን /2/",
+          "ኣማኑኤል ሂቡኪ ናይ ዘልዓለም ኪዳን",
+          "በዚ'ውን ወለዶ ብጽእቲ ይብለኪ /2/",
+          "ኣደየ ትምክሕተይ ምርኩሰይ ኮይንኪ’ኺ /2/",
+          "ናይ ልቢ እንክነግሩኺ ሰሚዕኪ ኣይተጽቅጥን /2/",
+          "ንጽጉም ርእዩ'ውን ልብኺ ኣይጭክንን",
+          "ከም ቅጽበት ዓይኒ ቀልጢፍኪ ትረድኢ/2/",
+          "ካብ ሓዘን ካብ መከራ ንስኺ ተዕርፊ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘማሪት ዘርፌ ከበደ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kidane mhret mebet mebet /2/",
+      "N'i /4/ sealite mhret /2/",
+      "Ab l'li semayat kab zelo mahderki /2/",
+      "Zmare zmelo nay zel'alem betki",
+      "Ft'retat nay mdri maryam maryam ybl/2/",
+      "Bseregela mu leqal mts'na dngl /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kab nay hdat wedeb kab nay fqri 'awdi/2/",
+          "Kab ketema haqi kab nay selam 'adi",
+          "Seali lene qdst wdase nksma' /2/",
+          "Ms mikael ms gebrel mts'na kab rama /2/",
+          "Beamaladnetki ft'ret nkdhn /2/",
+          "Amanuel hibuki nay zel'alem kidan",
+          "Bezi'wn weledo bts'ti ybleki /2/",
+          "Adeye tmkhtey mrkusey koynki’khi /2/",
+          "Nay lbi nknegrukhi semi'ki aytets'qt'n /2/",
+          "Nts'gum ryu'wn lbkhi aych'knn",
+          "Kem qts'bet 'ayni qelt'ifki tredi/2/",
+          "Kab hazen kab mekera nskhi te'rfi /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zemarit zerfe kebede"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

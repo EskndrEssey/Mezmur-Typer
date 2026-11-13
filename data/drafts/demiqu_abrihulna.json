@@ -1,0 +1,55 @@
+{
+  "id": 440,
+  "title": "ደሚቑ ኣብሪሁልና",
+  "ti": {
+    "chorus": [
+      "ደሚቑ ኣብሪሁልና ስራሕ ናይ ጐይታና(2)",
+      "ኮይኖምልና መርዑት ኣብርሃምን ሳራን",
+      "ብቤተክርስቲያን ጽላል ተኸሊሎም",
+      "መርዓዊ መርዓት ቅዱስ ተኽሊል ጌሮም",
+      "ጸጋ መንፈስቅዱስ ስለዝተዋህቦም",
+      "መርዓዊ መርዓት ብርሃን ኮይኑ ገጾም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ክልተ ዝነበሩ ሓደ ኮይኖም ብተኽሊል",
+          "እግዚአብሔር ይመስገን ዕልል ዕልል ንበል",
+          "ናይ ሕያዋን ኣደ ሔዋን ዝተበሃልኪ",
+          "ናይ ኣዳም ምልኣቱ ሎሚ ተራኢኺ",
+          "ኣብ ቤተ ክርስቲያን ኣብ ቅድሚ ኣምላኾም",
+          "ብሥጋ ወደሙ ከም ሓደ ሰብ ኮይኖም",
+          "ነዚ ንኽንርኢ ኣምላኽ ዘብቅዓና",
+          "ምስጢር ንዘብርህ ንሰውእ ምስጋና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Demiqu abrihulna srah nay gwaytana(2)",
+      "Koynomlna mer'ut abrhamn saran",
+      "Bbetekrstiyan ts'lal tekhelilom",
+      "Mer'awi mer'at qdus tekhlil gerom",
+      "Ts'ega menfesqdus sleztewahbom",
+      "Mer'awi mer'at brhan koynu gets'om"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Klte zneberu hade koynom btekhlil",
+          "Gziebher ymesgen 'll 'll nbel",
+          "Nay hyawan ade hewan ztebehalki",
+          "Nay adam mlatu lomi teraikhi",
+          "Ab bete krstiyan ab qdmi amlakhom",
+          "Bssga wedemu kem hade seb koynom",
+          "Nezi nkhnri amlakh zebq'ana",
+          "Mst'ir nzebrh nsew msgana"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

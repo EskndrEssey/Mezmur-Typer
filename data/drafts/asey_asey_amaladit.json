@@ -1,0 +1,77 @@
+{
+  "id": 485,
+  "title": "ኣሰይ ኣሰይ ኣማላዲት",
+  "ti": {
+    "chorus": [
+      "ድንግል ማርያም ረዳኢት",
+      "መንግስተ ሰማይ መራሒት",
+      "ሓያል እግዚአብሔር ጸዋሪት",
+      "ኣዳም ምስ ኣበሰ ተሰጐ ካብ ገነት",
+      "ወረደ ካብ ክብሪ ናይቶም መላእክት",
+      "ውልድነት ስኢኑ ናብ ምድሪ እክድርበ",
+      "ብድንግል ማርያም ምድኃኑ ረኸበ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሰሎሞን’ውን በለ ኣብቲ ምሳሌኡ",
+          "ክገልጻ ንድንግል መንፈስ ተመሊኡ",
+          "ዝተሓትመት ዒላ ማይ ሕይወት ዝወጻ",
+          "ኣክሊል ኮኮብ ጌራ ወርሒ ብትርጋጻ",
+          "ካብ ብርሃን ከዋክብት ግርማኺ ኣንጸብሪቑ",
+          "ክርስቶስ መድኃኒት ጸሓይኪ በሪቑ",
+          "ሃብቲ ናይ ሰማያት ንዓኺ ምስ ሃበ",
+          "ፍጡር ወዲ ኣዳም ኣባኺ ኣጽለለ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እግዚአብሔር  ጠመተ ናብዛ ምድሪ ገጹ",
+          "መሕደሪት ክትኮኖ ካብ ሰባት መሪጹ",
+          "ብነፍስን ብስጋን አምላክ ዝሰመራ",
+          "ንጽህቲ ኣዳራሽ ልዑል ዝሓደራ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Dngl maryam redait",
+      "Mengste semay merahit",
+      "Hayal gziebher ts'ewarit",
+      "Adam ms abese tesegwa kab genet",
+      "Werede kab kbri naytom melakt",
+      "Wldnet sinu nab mdri kdrbe",
+      "Bdngl maryam mdhanu rekhebe"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Selomon’wn bele abti msaleu",
+          "Kgelts'a ndngl menfes temeliu",
+          "Ztehatmet 'ila may hywet zwets'a",
+          "Aklil kokob gera werhi btrgats'a",
+          "Kab brhan kewakbt grmakhi ants'ebriqu",
+          "Krstos medhanit ts'ehayki beriqu",
+          "Habti nay semayat n'akhi ms habe",
+          "Ft'ur wedi adam abakhi ats'lele"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Gziebher  t'emete nabza mdri gets'u",
+          "Mehderit ktkono kab sebat merits'u",
+          "Bnefsn bsgan emlak zsemera",
+          "Nts'hti adarash l'ul zhadera"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

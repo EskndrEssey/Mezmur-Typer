@@ -1,0 +1,69 @@
+{
+  "id": 846,
+  "title": "ንድኅነት ዓለም",
+  "ti": {
+    "chorus": [
+      "ንድኅነት ዓለም ዝወዓለ ኣብ መስቀል",
+      "ኢየሱስ ክርስቶስ ኢዩ ኣማኑኤል",
+      "ጐይታ ተሰቒሉ እንክሪኡ መላእክት",
+      "ኣብ ክንዲ ምስጋና በኸዩሉ ብኽያት",
+      "ኣምላኽ ብዕርቃኑ ተሰቒሉ’ዩ’ሞ",
+      "ሚካኤል ስቕ በለ ገብርኤል ገረሞ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነፍሱ ንፈታዊ ዝህብ ተተረኽበ",
+          "ንጸላኢ ግና የለን ነፍሱ ዝሃበ",
+          "ሰማያዊ ዳኛ ንኽፍረደሉ",
+          "ትዕግስቱ ዘገርም ከሎ ልዕሊ ኵሉ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ብዕለተ ሓሙስ ዝኾነ ድራር",
+          "ዓርቢ ኣብ መስቀል ዝወግኦ ሽንካር",
+          "ስሌና ዝሞተ ፍቕሪ ገዲድዎ",
+          "ሕያዋይ ጓሳና መድኃኔ ዓለም እዩ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ndhnet 'alem zwe'ale ab mesqel",
+      "Iyesus krstos iyu amanuel",
+      "Gwayta teseqilu nkriu melakt",
+      "Ab kndi msgana bekheyulu bkhyat",
+      "Amlakh b'rqanu teseqilu’yu’mo",
+      "Mikael sq bele gebrel geremo"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nefsu nfetawi zhb teterekhbe",
+          "Nts'elai gna yelen nefsu zhabe",
+          "Semayawi danya nkhfredelu",
+          "T'gstu zegerm kelo l'li kwlu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "B'lete hamus zkhone drar",
+          "'Arbi ab mesqel zwego shnkar",
+          "Slena zmote fqri gedidwo",
+          "Hyaway gwasana medhane 'alem yu"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

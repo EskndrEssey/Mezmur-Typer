@@ -1,0 +1,71 @@
+{
+  "id": 162,
+  "title": "ሓድነት ብዝህብ",
+  "ti": {
+    "chorus": [
+      "ሓድነት ብዝህብ ሥጋኡን ደሙን",
+      "ብምሕረቱ እግዚአብሔር ሓደ ክገብረና ንለምን /2/",
+      "ምብኣስ ምፍልላይ ካብ ማእከልና ብምእላይ",
+      "ፍቕሩ ክሰድድ ናባና ንማሕጸኖ ኲላትና",
+      "ንልምን ኣሎና ንልምን /4/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብሓደ ልቢ ብምሥማር ንቅድስና ብምጽዓር",
+          "ናብ ናይ ቅዱሳን ሰፈር ክንኣቱ ንበል ሃረር",
+          "ንልምን ኣሎና ንጽውዕ ንምህለል ኣሎና ንጠርዕ",
+          "ንጽሊ ኣሎና ንምሕጸን ንልምን ኣሎና ንልምን",
+          "ሓንቲ መኣዲ ንሳተፍ ንቕድስና ንሰለፍ",
+          "ሓንቲ ጽዋዕ’ውን ንካፈል ክንረክብ ኣብ ሰማይ ኣኽሊል",
+          "ንምህለል ኣሎና ሓቢርና ንልምን ኣሎና ሰሚርና",
+          "ነብጽሕ ኣሎና ጸሎትና ናብቲ ለዋህ ፈቃር ኣምላኽና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሕብረት ክርስቲያን ኢያ’ሞ ሓድነታ ንሰለሞ",
+          "ንንበር ኣብ ውሽጣ ብጽድቂ ቤተክርስቲያን ቤት ሓቂ",
+          "ንዝምር ኣሎና ብሕብረት ንጽሊ ኣሎና ብስምረት",
+          "ጸሎትና ስምዓና ስምዓና  ኣብ ቅድሜኻ ይብጻሕ ኣውያትና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hadnet bzhb Ssgaun demun",
+      "Bmhretu gziebher hade kgebrena nlemn /2/",
+      "Mbas mfllay kab makelna bmlay",
+      "Fqru ksedd nabana nmahts'eno kwilatna",
+      "Nlmn alona nlmn /4/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bhade lbi bmssmar nqdsna bmts''ar",
+          "Nab nay qdusan sefer knatu nbel harer",
+          "Nlmn alona nts'w' nmhlel alona nt'er'",
+          "Nts'li alona nmhts'en nlmn alona nlmn",
+          "Hanti meadi nsatef nqdsna nselef",
+          "Hanti ts'wa'’wn nkafel knrekb ab semay akhlil",
+          "Nmhlel alona habirna nlmn alona semirna",
+          "Nebts'h alona ts'elotna nabti lewah feqar amlakhna"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hbret krstiyan iya’mo hadneta nselemo",
+          "Nnber ab wsht'a bts'dqi betekrstiyan bet haqi",
+          "Nzmr alona bhbret nts'li alona bsmret",
+          "Ts'elotna sm'ana sm'ana  ab qdmekha ybts'ah awyatna"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

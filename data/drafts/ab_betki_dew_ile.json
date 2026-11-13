@@ -1,0 +1,91 @@
+{
+  "id": 281,
+  "title": "ኣብ ቤትኪ ደው ኢለ",
+  "ti": {
+    "chorus": [
+      "ኣብ ቤትኪ ደው ኢለ ብምስጋና",
+      "ማርያም ጽዮን ክብል ብምስጋና",
+      "ንብዓትኪ ድንግል ማሊዱኒ",
+      "ውዕለትኪ ድንግል የዕብዩኒ",
+      "ብዘይ ብኣኺ መን ኣሎኒ",
+      "ትጸላም ደምበርበር ኣነስ ኣይክእሎን’የ",
+      "ተቕዋመይ ከለኺ ብርሃና ክርስቶስ ፋና ንመንገደይ /2/",
+      "ጽምዋ ኣፍሪሑኒ ከቢቡኒ እንከሎ ጫውጫውታ እዛ ዓለም",
+      "ድምጽኺ ኣስምዕኒ መንፈስ ክወርደኒ ከዕብየኪ ማርያም",
+      "ማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ",
+      "ዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነዓኺ ጸዊዑ መን’ዩ ዝሓፈረ",
+          "ኣብ መዝገብ ናይ ልቡ ብዙሕ ውዕለት ኣሎ ፍቕርኺ ዘስፈረ /2/",
+          "ደንጋጺት ንድኻ ወገን ንዘይብሉ ናብራ ንዝኸበዶ",
+          "ተስፋ ተስንቕዮ ደጊም ንኸዕርፍ መሊእኪ ዝውሕዶ",
+          "ስደት ምስ መከራ ምስ ፍቑር ወድኺ ምእንታይ ጼርክዮ",
+          "ንብዓት ዘሪእኪ ኢኺ ብምድሓን እዛ ዓለም ሓጎስ ዓጺደዮ",
+          "ማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ",
+          "ዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብዛ ስደት ዓለም ንነፍሰይ ከየድሕን",
+          "ስጋይ እናኸድዐ ከም ጋላቢ ፈረስ ንጥፍኣት ዝጠንን /2/",
+          "ማዕበል ክፉእ ሓሳብ ኣብ ልበይ ዓፊሩ ነፍሰይ ከየስጥማ",
+          "ድንግል ለምንለይ ጽድቂ ንኽለብስ ከም ናይ ጻድቃን ግርማ",
+          "ማርያም ማርያም እናበልኩ ንስምኪ ክጽውዖ",
+          "ዝልበይ ይዓርፈለይ ሓጎስ’ውን ይስምዖ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab betki dew ile bmsgana",
+      "Maryam ts'yon kbl bmsgana",
+      "Nb'atki dngl maliduni",
+      "W'letki dngl ye'byuni",
+      "Bzey bakhi men aloni",
+      "Tts'elam demberber anes ayklon’ye",
+      "Teqwamey kelekhi brhana krstos fana nmengedey /2/",
+      "Ts'mwa afrihuni kebibuni nkelo ch'awch'awta za 'alem",
+      "Dmts'khi asm'ni menfes kwerdeni ke'byeki maryam",
+      "Maryam maryam nabelku nsmki kts'w'o",
+      "Zlbey y'arfeley hagos’wn ysm'o /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ne'akhi ts'ewi'u men’yu zhafere",
+          "Ab mezgeb nay lbu bzuh w'let alo fqrkhi zesfere /2/",
+          "Dengats'it ndkha wegen nzeyblu nabra nzkhebedo",
+          "Tesfa tesnqyo degim nkhe'rf meliki zwhdo",
+          "Sdet ms mekera ms fqur wedkhi mntay ts'erkyo",
+          "Nb'at zeriki ikhi bmdhan za 'alem hagos 'ats'ideyo",
+          "Maryam maryam nabelku nsmki kts'w'o",
+          "Zlbey y'arfeley hagos’wn ysm'o /2/"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abza sdet 'alem nnefsey keyedhn",
+          "Sgay nakhed'e kem galabi feres nt'fat zt'enn /2/",
+          "Ma'bel kfu hasab ab lbey 'afiru nefsey keyest'ma",
+          "Dngl lemnley ts'dqi nkhlebs kem nay ts'adqan grma",
+          "Maryam maryam nabelku nsmki kts'w'o",
+          "Zlbey y'arfeley hagos’wn ysm'o /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

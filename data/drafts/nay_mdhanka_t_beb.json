@@ -1,0 +1,99 @@
+{
+  "id": 259,
+  "title": "ናይ ምድኃንካ ጥበብ",
+  "ti": {
+    "chorus": [
+      "ከመስግን’የ ጌና /2/ ምሉእ ዘመነይ",
+      "ጥበብ ናይ ዓለም    ናይ ምድሓንካ ጥበብ",
+      "ኵሉ ሰሓበኒ               >>       >>",
+      "ሰይጣን ልበይ ኣትዩ      >>       >>",
+      "ምስ ኣሰነፈኒ              >>       >>",
+      "ቤትካ’ውን ገዲፈ ከም ናይ ዴማስ ከድኩ",
+      "ናብ ባሕሪ እዛ ዓለም ድሕሪት ተመለስኩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብኣ ምስ ኣተኹ     ናይ ምድሓንካ ጥበብ",
+          "ኣብ ባሕሪ እዛ ዓለም          >>       >>",
+          "ንኹላ ዞርኩዋ                 >>       >>",
+          "ንድሕሪት ንቕድም            >>       >>",
+          "ሽዑ ተታሓዝኩ ብታኼላ ኃጢኣት",
+          "ምውጽኡ ሰኢነ ጀመርኩ’ውን ንብዓት",
+          "ፈተውተይ ኩላቶም     ናይ ምድሓንካ  ጥበብ",
+          "ኣብ ቅድመይ ደው በሉ        >>       >>",
+          "ኣብ ክንዲ ሓገዞም               >>       >>",
+          "ብኣይ ከሽካዕልሉ                >>       >>",
+          "መኣዲ ተኸሉ ሕሜት’ውን ኣብ ቅድመይ",
+          "ብዓለባ ሕሜት ገነዙ ንነፍሰይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ካብ ዓዘቕቲ ኃጢኣት   ናይ ምድሓንካ ጥበብ",
+          "ወድ ሰብ መሲልካ              >>       >>",
+          "ጐይታይ ኣውጻእካኒ           >>       >>",
+          "ብናይ ምሕረት ኢድካ         >>       >>",
+          "ናይ ምድሓንካ ጥበብ ርእያ እያ’ሞ ዓይነይ",
+          "ከመስግን’የ ጌና ንምሉእ ዘመነይ",
+          "ካባይ ካብ ረሓቐ   ናይ ምድሓንካ ጥበብ",
+          "ኵሉ ግብሪ ጸልማት     >>       >>",
+          "ብርሃን ካብ ለበስኩ     >>       >>",
+          "ነጺሀ ካብ ኃጢኣት     >>       >>",
+          "ዓለም ምስ ፍትወታ ደጊም ኣይምነን’የ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Kemesgn’ye gena /2/ mlu zemeney",
+      "T'beb nay 'alem    nay mdhanka t'beb",
+      "Kwlu sehabeni               >>       >>",
+      "Seyt'an lbey atyu      >>       >>",
+      "Ms asenefeni              >>       >>",
+      "Betka’wn gedife kem nay demas kedku",
+      "Nab bahri za 'alem dhrit temelesku"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Aba ms atekhu     nay mdhanka t'beb",
+          "Ab bahri za 'alem          >>       >>",
+          "Nkhula zorkuwa                 >>       >>",
+          "Ndhrit nqdm            >>       >>",
+          "Sh'u tetahazku btakhela hat'iat",
+          "Mwts'u seine jemerku’wn nb'at",
+          "Fetewtey kulatom     nay mdhanka  t'beb",
+          "Ab qdmey dew belu        >>       >>",
+          "Ab kndi hagezom               >>       >>",
+          "Bay keshka'llu                >>       >>",
+          "Meadi tekhelu hmet’wn ab qdmey",
+          "B'aleba hmet genezu nnefsey"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Kab 'azeqti hat'iat   nay mdhanka t'beb",
+          "Wed seb mesilka              >>       >>",
+          "Gwaytay awts'akani           >>       >>",
+          "Bnay mhret idka         >>       >>",
+          "Nay mdhanka t'beb rya ya’mo 'ayney",
+          "Kemesgn’ye gena nmlu zemeney",
+          "Kabay kab rehaqe   nay mdhanka t'beb",
+          "Kwlu gbri ts'elmat     >>       >>",
+          "Brhan kab lebesku     >>       >>",
+          "Nets'ihe kab hat'iat     >>       >>",
+          "'Alem ms ftweta degim aymnen’ye"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

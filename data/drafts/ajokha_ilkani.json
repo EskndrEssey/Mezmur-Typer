@@ -1,0 +1,89 @@
+{
+  "id": 277,
+  "title": "ኣጆኻ ኢልካኒ",
+  "ti": {
+    "chorus": [
+      "ኣጆኻ ኢልካኒ ምርኩሰይ ኮይንካ",
+      "ኦ ርህሩህ ኣምላኸይ",
+      "ጸልማተይ ቀንጢጥካ ብርሃን ለጊስካለይ",
+      "ደንጊጽካላ ኢኻ’ሞ ተዕብየካ ነፍሰይ",
+      "ሓጢኣተይ በዚሑ ከም ግምቢ ሰናኦር ኣዝዩ በሪኹ",
+      "ብሰንኪ ዕሽነተይ ኣብ ስቓይ ወደቕኩ",
+      "ቃላትካ ሂብካኒ ተስፋ ድኅነት ዘጸናንዓኒ",
+      "ሓጢኣተይ ኣርሒቕካ ውሽጠይ ሓዲስካኒ",
+      "ጥፍኣተይ ዘይደሊ ርህሩህ እዩ ልብኻ",
+      "ኣምላኸይ ተመስገን ብዙሕ’ዩ ውዕለትካ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ሕሰም ናብራ ዓለም ኣእምሮይ ብሒቱ ካባኻ ክፍለ",
+          "ረሲዐ ንዓኻ ኣብ ኃጢአት ጥሔለ",
+          "ምረት ውሽጢ ልበይ ፈውሲ ሂብካ ንዓይ ዝረዳእካ",
+          "ኣምላኽ ኵሉ ምሕረት ምስጋና ይኹንካ",
+          "ዋልታ ናይ ምድሓነይ መቐረት ሕይወተይ",
+          "ክበረለይ ጐይታ መጸናንዕየይ /2/",
+          "እጆኻ ንዓለም ስዒረያ እየ ጎይታየይ  ኢልካኒ",
+          "ጎደሎይ መሊእካ ኣበራቲዕካኒ",
+          "ነፍሰይ ኣምሊጣ’ያ ምስተበትከ መፈንጠራ ስሕተት",
+          "ብፍቕርኻ ኣምላኸይ በቲ ናትካ ምሕረት",
+          "ከምጥዑም መኣዛ ናብ ኵሉ ዝበጽሕ",
+          "እግዚአብሔር ፍቕርኻ ናብ ሕይወት ይመርሕ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዋላ እጥመ እጽማእ ዝኽደኖ እስኣን ይዕረቕ’ውን ዝባነይ",
+          "ካልእ ኣይደልን’የ እንተለኻ ምሳይ",
+          "መሊኡ ዝተርፍ ዘንጅርብብ’ዩ ጽዋእ ናይ ፍቕርኻ",
+          "ሓልዮት ኵሉ ፍጡር ትፍጽም ምዃንካ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ajokha ilkani mrkusey koynka",
+      "O rhruh amlakhey",
+      "Ts'elmatey qent'it'ka brhan legiskaley",
+      "Dengits'kala ikha’mo te'byeka nefsey",
+      "Hat'iatey bezihu kem gmbi senaor azyu berikhu",
+      "Bsenki 'shnetey ab sqay wedeqku",
+      "Qalatka hibkani tesfa dhnet zets'enan'ani",
+      "Hat'iatey arhiqka wsht'ey hadiskani",
+      "T'fatey zeydeli rhruh yu lbkha",
+      "Amlakhey temesgen bzuh’yu w'letka /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hsem nabra 'alem amroy bhitu kabakha kfle",
+          "Resi'e n'akha ab hat'iet t'hele",
+          "Mret wsht'i lbey fewsi hibka n'ay zredaka",
+          "Amlakh kwlu mhret msgana ykhunka",
+          "Walta nay mdhaney meqeret hywetey",
+          "Kbereley gwayta mets'enan'yey /2/",
+          "Jokha n'alem s'ireya ye goytayey  ilkani",
+          "Godeloy melika aberati'kani",
+          "Nefsey amlit'a’ya mstebetke mefent'era shtet",
+          "Bfqrkha amlakhey beti natka mhret",
+          "Kemt''um meaza nab kwlu zbets'h",
+          "Gziebher fqrkha nab hywet ymerh /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Wala t'me ts'ma zkhdeno san y'req’wn zbaney",
+          "Kal aydeln’ye ntelekha msay",
+          "Meliu zterf zenjrbb’yu ts'wa nay fqrkha",
+          "Halyot kwlu ft'ur tfts'm mkhwanka"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

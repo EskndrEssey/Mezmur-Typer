@@ -1,0 +1,79 @@
+{
+  "id": 227,
+  "title": "ኣመስግኑ",
+  "ti": {
+    "chorus": [
+      "ኣመስግኑ ባሪኹና’ሎ",
+      "ዕልል በሉ ቀዲሱና’ሎ",
+      "ምስጋና ጀምሩ /2/",
+      "ኣመስግኑ መን’ዩ ከም ኣምላኽና",
+      "ኣመስግኑ መን’ዩ በዓል ዝና",
+      "ኣመስግኑ ሕይወቱ ዝሃበ",
+      "ኣመስግኑ ኣሕሊፉ ስሌና"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣመስግኑ ቲ’ናይ ግብጺ ሕይወት",
+          "ኣመስግኑ ናይ ባርነት ናብራ",
+          "ኣመስግኑ ዳግም ንኸይምለስ",
+          "ኣመስግኑ ኣውጺኡና ሓራ",
+          "ኣመስግኑ ቅኔ ምስ ማኅሌት",
+          "ኣመስግኑ ይብጻሕ’ውን ሰዓታት",
+          "ኣመስግኑ ትርጉም ናይ ምንባርና",
+          "ኣመስግኑ መሠረተ ሕይወት"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣመስግኑ ከም ደቂ ቢታንያ",
+          "ኣመስግኑ ንውጻእ ስየ ሒዝና",
+          "ኣመስግኑ ከም ናይ ቅዱስ ያሬድ",
+          "ኣመስግኑ ይብዛሕ ምስጋናና",
+          "ኣመስግኑ ካብ ምርኮ ባቢሎን",
+          "ኣመስግኑ ነጻ ወጺና ኢና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Amesgnu barikhuna’lo",
+      "'Ll belu qedisuna’lo",
+      "Msgana jemru /2/",
+      "Amesgnu men’yu kem amlakhna",
+      "Amesgnu men’yu be'al zna",
+      "Amesgnu hywetu zhabe",
+      "Amesgnu ahlifu slena"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amesgnu ti’nay gbts'i hywet",
+          "Amesgnu nay barnet nabra",
+          "Amesgnu dagm nkheymles",
+          "Amesgnu awts'iuna hara",
+          "Amesgnu qne ms mahlet",
+          "Amesgnu ybts'ah’wn se'atat",
+          "Amesgnu trgum nay mnbarna",
+          "Amesgnu messerete hywet"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Amesgnu kem deqi bitanya",
+          "Amesgnu nwts'a sye hizna",
+          "Amesgnu kem nay qdus yared",
+          "Amesgnu ybzah msganana",
+          "Amesgnu kab mrko babilon",
+          "Amesgnu nets'a wets'ina ina"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

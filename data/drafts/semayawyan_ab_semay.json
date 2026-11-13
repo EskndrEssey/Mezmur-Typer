@@ -1,0 +1,57 @@
+{
+  "id": 63,
+  "title": "ሰማያውያን ኣብ ሰማይ",
+  "ti": {
+    "chorus": [
+      "ሰማያውያን ኣብ ሰማይ",
+      "ኩሎም ፍጥረታት ኣብ ዓለም",
+      "ይዝምሩልካ ንዓኻ ጐይታና",
+      "ይዝምሩልካ ንዓኻ ኣምላኽና",
+      "ለይትን መዓልትን ዘየዕርፉ",
+      "ቅድሚ ዙፋኑ ዘመስግኑ",
+      "ሰራዊት ሰማይ መላእክቲ",
+      "ንኽብርኻ እዮም ኣመስገንቲ",
+      "ኵሉ ዝሓዝካ ጐይታ ኢኻ",
+      "ኣብ ሰማይ ምድሪ ዝነገስካ",
+      "ኣምልኾ ቅኔ ንግሆ ምሸት",
+      "ንኽብርኻ እዩ ጐይታ ጎይቶት",
+      "ውዕለት መስቀልካ በዚሑልና",
+      "ጣዕሚ ፍቕርኻ መሲጡና",
+      "ከመይ ስቕ ይብል እቲ ልሳና",
+      "ውዕለትካ ኮይኑ ኣብ ልብና",
+      "ለይትን መዓልትን ዘየዕርፉ",
+      "ቅድሚ ዙፋኑ ዘመስግኑ",
+      "ሰራዊት ሰማይ መላእክቲ",
+      "ንኽብርኻ እዮም ኣመስገንቲ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Semayawyan ab semay",
+      "Kulom ft'retat ab 'alem",
+      "Yzmrulka n'akha gwaytana",
+      "Yzmrulka n'akha amlakhna",
+      "Leytn me'altn zeye'rfu",
+      "Qdmi zufanu zemesgnu",
+      "Serawit semay melakti",
+      "Nkhbrkha yom amesgenti",
+      "Kwlu zhazka gwayta ikha",
+      "Ab semay mdri znegeska",
+      "Amlkho qne ngho mshet",
+      "Nkhbrkha yu gwayta goytot",
+      "W'let mesqelka bezihulna",
+      "T'a'mi fqrkha mesit'una",
+      "Kemey sq ybl ti lsana",
+      "W'letka koynu ab lbna",
+      "Leytn me'altn zeye'rfu",
+      "Qdmi zufanu zemesgnu",
+      "Serawit semay melakti",
+      "Nkhbrkha yom amesgenti"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}

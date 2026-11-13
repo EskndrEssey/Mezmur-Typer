@@ -1,0 +1,73 @@
+{
+  "id": 142,
+  "title": "መሰንቆን በገናን ሓዙ",
+  "ti": {
+    "chorus": [
+      "መሰንቆን በገናን ሓዙ",
+      "ዕልልታ ውዳሴ ኣዕዝዙ",
+      "ሰማይን ምድርን የቕልቡ",
+      "ንማርያም ምስጋና ኣቕርቡ",
+      "እጹብ ድንቂ’ዩ ናይ ደቂ ኣሳፍ ጸጋ",
+      "ዓስቢ ዘመርቲ ናይ ዘየምቲ ዋጋ",
+      "ዳዊት ጸውዓ በገና ኣልዒሉ",
+      "ንኽብራ ዘኪሩ",
+      "ቤታ ዓቢና ኣብ ቀጽሪ ድንኳና",
+      "ምስኣ እንክንነብር እንታይ ጎዲሉና",
+      "እንተዘመርና ኣይንረውን ኮታ",
+      "እንተቕረብና ዕልልታ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ባዕዲ ኣይኮነን ኣብ ርስትና ኣለና",
+          "ነውርዶ ሕጂ ስቑል መሰንቆና",
+          "ኣብ ቤት ግሽነት ንዓና ቀዲማ",
+          "መልኣትና ዜማ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዘማሪት ፍቅርተ ፈለቀ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mesenqon begenan hazu",
+      "'Llta wdase a'zzu",
+      "Semayn mdrn yeqlbu",
+      "Nmaryam msgana aqrbu",
+      "Ts'ub dnqi’yu nay deqi asaf ts'ega",
+      "'Asbi zemerti nay zeyemti waga",
+      "Dawit ts'ew'a begena al'ilu",
+      "Nkhbra zekiru",
+      "Beta 'abina ab qets'ri dnkwana",
+      "Msa nknnebr ntay godiluna",
+      "Ntezemerna aynrewn kota",
+      "Nteqrebna 'llta"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab ba'di aykonen ab rstna alena",
+          "Newrdo hji squl mesenqona",
+          "Ab bet gshnet n'ana qedima",
+          "Melatna zema"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Zemarit fqrte feleqe"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

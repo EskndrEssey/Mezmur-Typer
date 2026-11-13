@@ -1,0 +1,101 @@
+{
+  "id": 436,
+  "title": "እንቋዕ ደስ በለኩም",
+  "ti": {
+    "chorus": [
+      "ፍሉይ ጸጋ’ዩ ኣምላኽ ሂብኩም",
+      "ኣምላኽ እንክፈጥር     እንቋዕ ደስ በለኩም",
+      "ኣእዳዉ ዘርጊሑ                 >>   >>",
+      "ንኣዳም ፈጠሮ                   >>  >>",
+      "ጽቡቕ ፍጥረት ጌሩ               >>  >>",
+      "ካብ መሰንገሊኡ                >>  >>",
+      "ሔዋን’ውን ተፈጥረት            >>  >>",
+      "ደጋፊት ክትኮኖ ንኣዳም ተዋህበት",
+      "እግዚአብሔር ይመስገን ኣሜን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ንዓና’ውን ከምኡ        እንቋዕ ደስ በለኩም",
+          "ከም ኣዳም ከም ሔዋን           >>   >>",
+          "ጸጋ ሂቡና’ዩ                      >>  >>",
+          "ብሓደ ክንጥመር                 >>  >>",
+          "ብቅዱስ ስርዓት                  >>  >>",
+          "ብስርዓት ናይ ተኽሊል           >>  >>",
+          "ብሥጋ ወደሙ ብቑርባን ክንክለል",
+          "እግዚአብሔር ይመስገን ኣሜን",
+          "ብልማድ ኣይኮነን       እንቋዕ ደስ በለኩም",
+          "ብጓይላ ዳንኬራ               >>    >>",
+          "ትርጉም ዘለዎ’ዩ               >>    >>",
+          "መርዓ ናይ ገሊላ              >>    >>",
+          "ዘቕንእ ብሓቂ                 >>    >>",
+          "ከምዚ ንዝምነ                >>    >>",
+          "ብመዝሙር ናይ ዳዊት መንፈሳዊ ቅኔ",
+          "እግዚአብሔር ይመስገን ኣሜን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣብርሃምን ሳራን        እንቋዕ ደስ በለኩም",
+          "እንቋዕ ደስ በለኩም            >>   >>",
+          "እነሆ የንጸብርቕ                >>   >>",
+          "መንፈሳውነትኩም              >>   >>",
+          "ጐይታ ምስ ኣዲኡ               >>   >>",
+          "እነሆ ኣብ ማእከልኩም         >>   >>"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Fluy ts'ega’yu amlakh hibkum",
+      "Amlakh nkfet'r     nqwa' des belekum",
+      "Adawu zergihu                 >>   >>",
+      "Nadam fet'ero                   >>  >>",
+      "Ts'buq ft'ret geru               >>  >>",
+      "Kab mesengeliu                >>  >>",
+      "Hewan’wn tefet'ret            >>  >>",
+      "Degafit ktkono nadam tewahbet",
+      "Gziebher ymesgen amen"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "N'ana’wn kemu        nqwa' des belekum",
+          "Kem adam kem hewan           >>   >>",
+          "Ts'ega hibuna’yu                      >>  >>",
+          "Bhade knt'mer                 >>  >>",
+          "Bqdus sr'at                  >>  >>",
+          "Bsr'at nay tekhlil           >>  >>",
+          "Bssga wedemu bqurban knklel",
+          "Gziebher ymesgen amen",
+          "Blmad aykonen       nqwa' des belekum",
+          "Bgwayla dankera               >>    >>",
+          "Trgum zelewo’yu               >>    >>",
+          "Mer'a nay gelila              >>    >>",
+          "Zeqn bhaqi                 >>    >>",
+          "Kemzi nzmne                >>    >>",
+          "Bmezmur nay dawit menfesawi qne",
+          "Gziebher ymesgen amen"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abrhamn saran        nqwa' des belekum",
+          "Nqwa' des belekum            >>   >>",
+          "Neho yents'ebrq                >>   >>",
+          "Menfesawnetkum              >>   >>",
+          "Gwayta ms adiu               >>   >>",
+          "Neho ab makelkum         >>   >>"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

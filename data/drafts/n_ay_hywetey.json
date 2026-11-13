@@ -1,0 +1,77 @@
+{
+  "id": 409,
+  "title": "ንዓይ ሕይወተይ",
+  "ti": {
+    "chorus": [
+      "ንዓይ ሕይወተይ ታኦስ ኢኻ",
+      "ክብሪ ምንባርይ ክርስቶስ ኢኻ",
+      "ስምካዩ ድኅነተይ ዘለዓለም ዝነብር",
+      "ስምካ’ዩ ቀስቲ ሕይወተይ ንጸላእየይ ዝስዕር",
+      "ገጽካ ክርኢ ከንቃዕርር ብፍርሃት ናባኻ",
+      "በርትዕ ኢልካኒ ክጸንዕ ፍሽኽታ ኣሰኒኻ",
+      "ሴርካ ንመቑሐይ ንጸላእየይ ኣሲርካ",
+      "ብደምካ ሓጺብካኒ ሂብካኒ ሕያው ፍቕርኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መቐረት ሕይወተይ ፍቕርኻ መሊኡ ኣብ ልበይ",
+          "ዕግበት ኮይኑኒ መኣዛኻ ጥዒሙ ጨናይ",
+          "ደምካ እንክዛሪ ጽምኣተይ ፍጹም ከጥልል",
+          "ፈቒድካለይ ጐይታይ ዘልዓለም ኣብ ቤትካ ከጽልል",
+          "ወገን ዘመደይ ክስእን ክተርፍ በይነይ",
+          "ዓለም ክትጠልመኒ ጨኪና ክትርሕቕ ካባይ",
+          "ህድኣት ኮይንካኒ ንነፍሰይ ተስፋ ሰላመይ",
+          "ኵሉ ኣስጊርካኒ ኣሊኻ ሽግር መከራይ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ወትሩ ዝቐውም ንስምካ ኣብ ውሽጢ ዓለም",
+          "ህርመት ናይ ልበይ ደዊሉ ከይነብር ኣብ ጸላም",
+          "ሓበን ንሕይወተይ ምዃንካ ክፈልጥ ኵሉ",
+          "ክምስክረልካ’ዩ ዝልበይ በቲ ሕጉስ ቃሉ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "N'ay hywetey taos ikha",
+      "Kbri mnbary krstos ikha",
+      "Smkayu dhnetey zele'alem znebr",
+      "Smka’yu qesti hywetey nts'elayey zs'r",
+      "Gets'ka kri kenqa'rr bfrhat nabakha",
+      "Bert' ilkani kts'en' fshkhta asenikha",
+      "Serka nmequhey nts'elayey asirka",
+      "Bdemka hats'ibkani hibkani hyaw fqrkha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Meqeret hywetey fqrkha meliu ab lbey",
+          "'Gbet koynuni meazakha t''imu ch'enay",
+          "Demka nkzari ts'matey fts'um ket'll",
+          "Feqidkaley gwaytay zel'alem ab betka kets'll",
+          "Wegen zemedey ksn kterf beyney",
+          "'Alem ktt'elmeni ch'ekina ktrhq kabay",
+          "Hdat koynkani nnefsey tesfa selamey",
+          "Kwlu asgirkani alikha shgr mekeray"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Wetru zqewm nsmka ab wsht'i 'alem",
+          "Hrmet nay lbey dewilu keynebr ab ts'elam",
+          "Haben nhywetey mkhwanka kfelt' kwlu",
+          "Kmskrelka’yu zlbey beti hgus qalu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

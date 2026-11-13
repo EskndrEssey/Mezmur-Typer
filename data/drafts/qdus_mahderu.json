@@ -1,0 +1,104 @@
+{
+  "id": 118,
+  "title": "ቅዱስ ማሕደሩ",
+  "ti": {
+    "chorus": [
+      "ጐይታ ንደቁ ኣዝዩ ኣብዚሑ",
+      "ዝበጽሓኩም  ብግሩም ግብሩ",
+      "ደስ ደስ ይበልኩም ታሪኽ ተሰሪሑ /2/",
+      "ጸጋን ምሕረትን ፍቕሩ ኣባና",
+      "ጥንቲ  ኣትሒዙ መሊኡ ተሪፉ",
+      "ሞት ኣይሕዘናን ሓሊና ጐይታ",
+      "ቀዛፊ መልኣክ ከይዱ ሓሊፉ",
+      "ፒራሚዳትን ቀጽርን ሓሊፉ",
+      "እቲ ሕሱም ክፉእ መዓልቲ",
+      "ቅዱስ እስራኤል ዋልታና ኮይኑ",
+      "ዓቂብና’ዩ መዓልቲ ለይቲ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብ ድኽነት’ውን እንተሃሊና",
+          "ሃብታማት ኢና ዘይጎደለና",
+          "ኣይነማርርን ምስኡ እንተኾይና",
+          "ካብዚ ዝበልጽ ክብሪ ኣለና",
+          "መጸግዒና መመክሒና እዩ",
+          "ንጉሥ ናይ ክብሪ ግኑን ጐይታ",
+          "ተራእዩ ኣብ መስቀል ኢዱ ዘርጊሑ",
+          "እሙን ኣምላኽ’ዩ በዓል ውዕለታት",
+          "ቤተመቕደሱ ጽድቁ ይነግር",
+          "ይእውጅ ሎሚ ዓቢይ ብስራት",
+          "ፍጹም ትም ኢልካ ምምራኽ የለን",
+          "ጐይታ ንደቁ ኣይህብን ንሞት",
+          "ሰዓርቲ ኢና ሰራዊት እምነት",
+          "ታህዲድ ጸላኢ ዘየፍርሓና",
+          "ምስ ጌዴዎን ፍጹም ሰሚርና",
+          "ሽግ እንክውላዕ ተዓዊትና ኢና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "እቲ መድረኽ ክመልእ እዩ",
+          "ተጎናጺፍና ብለጋስ ጐይታ",
+          "ዕጽፊ በዚሕና ካብ ማዕሙቕ",
+          "ወጺእና  ኢና ሰይጣን ክርታዕ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Gwayta ndequ azyu abzihu",
+      "Zbets'hakum  bgrum gbru",
+      "Des des ybelkum tarikh teserihu /2/",
+      "Ts'egan mhretn fqru abana",
+      "T'nti  athizu meliu terifu",
+      "Mot ayhzenan halina gwayta",
+      "Qezafi melak keydu halifu",
+      "Piramidatn qets'rn halifu",
+      "Ti hsum kfu me'alti",
+      "Qdus srael waltana koynu",
+      "'Aqibna’yu me'alti leyti"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ab dkhnet’wn ntehalina",
+          "Habtamat ina zeygodelena",
+          "Aynemarrn msu ntekhoyna",
+          "Kabzi zbelts' kbri alena",
+          "Mets'eg'ina memekhina yu",
+          "Nguss nay kbri gnun gwayta",
+          "Terayu ab mesqel idu zergihu",
+          "Mun amlakh’yu be'al w'letat",
+          "Betemeqdesu ts'dqu ynegr",
+          "Ywj lomi 'abiy bsrat",
+          "Fts'um tm ilka mmrakh yelen",
+          "Gwayta ndequ ayhbn nmot",
+          "Se'arti ina serawit mnet",
+          "Tahdid ts'elai zeyefrhana",
+          "Ms gedewon fts'um semirna",
+          "Shg nkwla' te'awitna ina"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ti medrekh kmel yu",
+          "Tegonats'ifna blegas gwayta",
+          "'Ts'fi bezihna kab ma'muq",
+          "Wets'ina  ina seyt'an krta'"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found",
+    "verse_2_possible_page_split"
+  ]
+}

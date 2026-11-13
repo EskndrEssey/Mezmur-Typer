@@ -1,0 +1,71 @@
+{
+  "id": 327,
+  "title": "ብቃልን ስጋን",
+  "ti": {
+    "chorus": [
+      "ብቃልን ስጋን ፍጹም ዝተወሃሃደት",
+      "ቅዱሳን ኣቦታት ዘቖምዋ ደረት",
+      "ሓልወኒ አምላክ ካልኢት ከይተረፈ",
+      "ንዓኣቶም ከይመስል ተዋሕዶ ገዲፈ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ተዃሉ እንከለዉ ኣባጊዕ ዝመስሉ",
+          "ክፋእ ተኾልኲሎም ምሳና ዘጽልሉ",
+          "ምስኦም ንኸይሓብር ኪዳንካ ከጽንዕ",
+          "ኣጽኒዕካ ሓዘኒ ኣንፈተይ ከቕንዕ /2/",
+          "ደጊኦም ትሕትና ፍቕሪ ዝተኳሕሉ",
+          "ውሽጦም ግን ዝናኸስ ነፍሲ ዝምንጥሉ",
+          "ምፍላዮም ስኢነ ኣብ ሰልፎም ከይሓብር",
+          "ጸጋኻ ሃበኒ ጉዕዞይ ንኸነጽር /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ዝንቕንቓ የለን ድልዱል’ዩ ሰረታ",
+          "ዝሕደስ ኣይኮነን ጽኑዕ’ዩ ደረታ",
+          "ርስትና ንሓሉ ንኹነላ ዋልታ",
+          "ነታ ዘይትሓልፍ ክንከውን ወረስታ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bqaln sgan fts'um ztewehahadet",
+      "Qdusan abotat zeqomwa deret",
+      "Halweni emlak kalit keyterefe",
+      "N'aatom keymesl tewahdo gedife /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Tekhwalu nkelewu abagi' zmeslu",
+          "Kfa tekholkwilom msana zets'llu",
+          "Msom nkheyhabr kidanka kets'n'",
+          "Ats'ni'ka hazeni anfetey keqn' /2/",
+          "Degiom thtna fqri ztekwahlu",
+          "Wsht'om gn znakhes nefsi zmnt'lu",
+          "Mflayom sine ab selfom keyhabr",
+          "Ts'egakha habeni gu'zoy nkhenets'r /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Znqnqa yelen dldul’yu sereta",
+          "Zhdes aykonen ts'nu'’yu dereta",
+          "Rstna nhalu nkhunela walta",
+          "Neta zeythalf knkewn weresta /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

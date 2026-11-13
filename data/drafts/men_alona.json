@@ -1,0 +1,77 @@
+{
+  "id": 34,
+  "title": "መን ኣሎና",
+  "ti": {
+    "chorus": [
+      "ኣብ ሰማይ ኮነ ኣብ ኵሉ ምድሪ",
+      "መን ኣሎና ብዘይ በኣኻ",
+      "ሎሚ ፈትዩ ጽባሕ ዝጸልእ",
+      "ሎሚ ሂቡ ጽባሕ ዝኸልእ",
+      "ናይ ሰብ ሕይወት ኣይእመንን’ዩ",
+      "ባህርኻ ግን ኣይልወጥን’ዩ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መልክዕ ሕይወትና ተደዊኑ",
+          "መንገድና ናይ ጥፍኣት ኮይኑ",
+          "ጸላኢና’ውን ከሳድደና",
+          "ኤልሻዳይ ግን ተዋጊእካልና",
+          "ናብራ ዓለም ኣሸኒፉና",
+          "ሓይሊ ሲኦል ኣናዊጹና",
+          "ማእሰር ኃጢኣት ክፍትሓልና",
+          "ኣጸብቆ መወዳእታና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ከይተለመንካ ትህብ ጐይታ",
+          "ኣይተሕፍርን ንወገናትካ",
+          "ሓሳብ ልብና ሰሚሩልና",
+          "ብሩህ ኮይኑ ተስፋ ሕይወትና",
+          "ናብራ ዓለም . . ."
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ab semay kone ab kwlu mdri",
+      "Men alona bzey beakha",
+      "Lomi fetyu ts'bah zts'el",
+      "Lomi hibu ts'bah zkhel",
+      "Nay seb hywet aymenn’yu",
+      "Bahrkha gn aylwet'n’yu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Melk' hywetna tedewinu",
+          "Mengedna nay t'fat koynu",
+          "Ts'elaina’wn kesaddena",
+          "Elshaday gn tewagikalna",
+          "Nabra 'alem ashenifuna",
+          "Hayli siol anawits'una",
+          "Maser hat'iat kfthalna",
+          "Ats'ebqo mewedatana"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Keytelemenka thb gwayta",
+          "Aytehfrn nwegenatka",
+          "Hasab lbna semirulna",
+          "Bruh koynu tesfa hywetna",
+          "Nabra 'alem . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

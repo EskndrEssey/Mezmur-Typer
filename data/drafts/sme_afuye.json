@@ -1,0 +1,73 @@
+{
+  "id": 527,
+  "title": "እስመ ኣፉየ",
+  "ti": {
+    "chorus": [
+      "እስመ ኣፉየ በፍቅር ስመከ ጸውዐ /2/",
+      "ዑራኤል /2/ በዓምደ ደመና ኃቤየ ነዐ /2/",
+      "ዑራኤል ኃያል ዓውድየ ተዓየን",
+      "ከመኢይትዓቀፍ እግርየ በእብን",
+      "ወያበርህ ሊተ ዘዚኣከ ብርሃን",
+      "ወትንብልናከ ፀወነ ትከውን"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ትትፌኖ ለሳህል እምኃበ ልዑል",
+          "ወበእንተ ፍጥረት ኣንተ ትስእል",
+          "ወትንብልናከ እንተ ባቲ ኃይል",
+          "ዛተ ማሕበረከ በረድኤት ትኬልል",
+          "ዑራኤል ኃያል ዓውድየ ተዓየን",
+          "ከመኢይትዓቀፍ እግርየ በእብን",
+          "ወያበርህ ሊተ ዘዚኣከ ብርሃን",
+          "ወትንብልናከ ፀወነ ትከውን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ትትፌኖ ለሳህል እምኃበ ልዑል",
+          "ወበእንተ ፍጥረት ኣንተ ትስእል",
+          "ወትንብልናከ እንተ ባቲ ኃይል",
+          "ዛተ ማሕበረከ በረድኤት ትኬልል"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Sme afuye befqr smeke ts'ew'e /2/",
+      "'Urael /2/ be'amde demena habeye ne'e /2/",
+      "'Urael hayal 'awdye te'ayen",
+      "Kemeiyt'aqef grye bebn",
+      "Weyaberh lite zeziake brhan",
+      "Wetnblnake ts'ewene tkewn"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Ttfeno lesahl mhabe l'ul",
+          "Webente ft'ret ante tsl",
+          "Wetnblnake nte bati hayl",
+          "Zate mahbereke beredet tkell",
+          "'Urael hayal 'awdye te'ayen",
+          "Kemeiyt'aqef grye bebn",
+          "Weyaberh lite zeziake brhan",
+          "Wetnblnake ts'ewene tkewn"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Ttfeno lesahl mhabe l'ul",
+          "Webente ft'ret ante tsl",
+          "Wetnblnake nte bati hayl",
+          "Zate mahbereke beredet tkell"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

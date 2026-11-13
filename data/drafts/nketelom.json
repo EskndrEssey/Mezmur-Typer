@@ -1,0 +1,89 @@
+{
+  "id": 272,
+  "title": "ንከተሎም",
+  "ti": {
+    "chorus": [
+      "“ ጻድቅሰ ከመ በቀልት ይፈሪ",
+      "ወይበዝኅ ከመ ዘግባ ዘሊባኖስ",
+      "ትኩላን እሙንቱ ውስተ ቤተ እግዚአብሔር ”",
+      "ከም ከዋኽብቲ ሰማይ ኮይኑ እቲ ምብዛሖም",
+      "ከም ብርሃን ፀሓይ ደሚቑ እምነቶም",
+      "ጽሕዲ ሊባኖስ ብዙኅ በረኸቶም",
+      "ቅዱሳን ጻድቃን ብእግዚአብሔር ከቢሮም",
+      "ዛርዩ ኣይነጽፍን ድርሳን ሰብ ንኽብሩ",
+      "ቀለም’ውን ኣይኣኽሎን ኵሉ ገድልታቱ",
+      "ብርሃን ምድረ ኣግኣዚት ናይ ጳጳሳት ግርማ",
+      "ተርጓሜ መጻሕፍት መጥምቀ ምእመናን አቡነ ሰላማ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ሃይማኖት በትሪ ኣብ ኢዱ ጨቢጡ",
+          "ሰጊርዎ ባሕሪ ምንጻፍ ተተርጊጹ",
+          "ፍጹም ከይኃፈረ ቃል ኣምላኽ መስኪሩ",
+          "እነሆ ንዘልዓለም /2/ ኣብ ምድሪ ብርሃኑ"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ንዓለም መኒኖም ጣዕማ ምስ ንብረታ",
+          "ፍቕሩ ስሒብዎም ቀሪቦም ናብ ጐይታ",
+          "ኣብ ገነት ኣለዉ ብርሃን ተወንዚፎም",
+          "ፍጹም ኣኽቢርዎም /2/ ጐይታ መድኃኔ ዓለም",
+          "ንከተሎም እግሪ እግሮም ኣሰር ቅዱሳን",
+          "ንከተሎም ከምኦም ንምዃን",
+          "ዝኃለፉ ስለ ሃይማኖት",
+          "ንጽናዕ ንትባዕ ኣብ ኦርቶዶክስ እምነት",
+          "ንጽናዕ ንትባዕ ኣብ ተዋሐዶ እምነት"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "“ Ts'adqse keme beqelt yferi",
+      "Weybezh keme zegba zelibanos",
+      "Tkulan muntu wste bete gziebher ”",
+      "Kem kewakhbti semay koynu ti mbzahom",
+      "Kem brhan ts'ehay demiqu mnetom",
+      "Ts'hdi libanos bzuh berekhetom",
+      "Qdusan ts'adqan bgziebher kebirom",
+      "Zaryu aynets'fn drsan seb nkhbru",
+      "Qelem’wn ayakhlon kwlu gedltatu",
+      "Brhan mdre agazit nay p'ap'asat grma",
+      "Tergwame mets'ahft met'mqe mmenan ebune selama"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay haymanot betri ab idu ch'ebit'u",
+          "Segirwo bahri mnts'af tetergits'u",
+          "Fts'um keyhafere qal amlakh meskiru",
+          "Neho nzel'alem /2/ ab mdri brhanu"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "N'alem meninom t'a'ma ms nbreta",
+          "Fqru shibwom qeribom nab gwayta",
+          "Ab genet alewu brhan tewenzifom",
+          "Fts'um akhbirwom /2/ gwayta medhane 'alem",
+          "Nketelom gri grom aser qdusan",
+          "Nketelom kemom nmkhwan",
+          "Zhalefu sle haymanot",
+          "Nts'na' ntba' ab ortodoks mnet",
+          "Nts'na' ntba' ab tewahedo mnet"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

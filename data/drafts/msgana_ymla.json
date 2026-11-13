@@ -1,0 +1,71 @@
+{
+  "id": 123,
+  "title": "ምስጋና ይምላእ",
+  "ti": {
+    "chorus": [
+      "ምስጋና ይምላእ ኣብ ጉባኤ",
+      "ስሙ ድንቂ’ዩ ኣዶናይ",
+      "ኣብ ማእከል እሳት ዝመላለስ",
+      "ንድምጺ ማዕበል`ውን ዝግስጽ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ርእሲ ጠቢባን ጥበበኛ",
+          "ፍትሒ ዘውጽእ ቅኑዕ ዳኛ",
+          "በዓል ግርማ’ዩ ዝተፈርሐ",
+          "ምስጢር ዕምቆቱ ዝሰፍሐ",
+          "ሓይሉን ቅልጽሙን ተደጊፍና",
+          "ስሙ ጸዊዕና ድኂንና ኢና",
+          "መን’ዩ ዝቃወም ዘፍርሓና",
+          "ትብዓት ዘስንቕ ኣቦ ኣሎና"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሓያላን ፈርሑ ክብሩ ርእዮም",
+          "ነፍሳት ዘለሉ ካብ ሞት ወጺኦም",
+          "መጽንዒና’ዩ ትምክሕትና",
+          "ዝፋኑ ይብጻሕ ምስጋናና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Msgana ymla ab gubae",
+      "Smu dnqi’yu adonay",
+      "Ab makel sat zmelales",
+      "Ndmts'i ma'bel`wn zgsts'"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Rsi t'ebiban t'bebenya",
+          "Fthi zewts' qnu' danya",
+          "Be'al grma’yu zteferhe",
+          "Mst'ir 'mqotu zsefhe",
+          "Haylun qlts'mun tedegifna",
+          "Smu ts'ewi'na dhinna ina",
+          "Men’yu zqawem zefrhana",
+          "Tb'at zesnq abo alona"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hayalan ferhu kbru ryom",
+          "Nefsat zelelu kab mot wets'iom",
+          "Mets'n'ina’yu tmkhtna",
+          "Zfanu ybts'ah msganana"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

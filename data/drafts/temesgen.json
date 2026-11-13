@@ -1,0 +1,83 @@
+{
+  "id": 285,
+  "title": "ተመስገን",
+  "ti": {
+    "chorus": [
+      "ተመስገን ምስጋናኻ ይብዛሕ",
+      "ተመስገን ከምዛራ ማይ ይውሓዝ",
+      "ጸገመይ ኵሉ ቀሊል’ዩ ኣብ ቅድሜኻ",
+      "እንሆ እንዶ ሎሚ ቀይርካዮ ራህዋ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነቲ ምስኪን ድኻ ክብሪ ኣልቢስካዮ",
+          "ነቲ ሕሙም ውዱቕ ካብ ምድሪ ኣልዒልካዮ",
+          "ልበይ ኣይከኣለን ክሰግሮ ብስቕታ",
+          "ኣመስግን ይብለኒ’ሎ ዘምር ብዓውታ",
+          "መን ይኽልክለኒ ክነግር ክብርኻ",
+          "ውሽጠይ እናገንፈለ ሰናይ ምስጋናኻ",
+          "ኣነስ ከቢረ’የ ብኣኻ ኣማኑኤል",
+          "እዝምር ኣለኹ እናበልኩ ዕልል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣቤት ቲ’ፍቕርኻ ጐይታ እቲ ውዕለትካ",
+          "ደረት ኣልቦ ምሕረት መን’ዩ ዝመስለካ",
+          "ቃላት ኣይረኸብኩን ዘዘንቱ ክብርኻ",
+          "ጌና ክዝምር’የ ዘልዓለም ኣብ ቤትካ"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ዲ/ን ኣብርሃም መሓሪ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Temesgen msganakha ybzah",
+      "Temesgen kemzara may ywhaz",
+      "Ts'egemey kwlu qelil’yu ab qdmekha",
+      "Nho ndo lomi qeyrkayo rahwa"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Neti mskin dkha kbri albiskayo",
+          "Neti hmum wduq kab mdri al'ilkayo",
+          "Lbey aykealen ksegro bsqta",
+          "Amesgn ybleni’lo zemr b'awta",
+          "Men ykhlkleni knegr kbrkha",
+          "Wsht'ey nagenfele senay msganakha",
+          "Anes kebire’ye bakha amanuel",
+          "Zmr alekhu nabelku 'll"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Abet ti’fqrkha gwayta ti w'letka",
+          "Deret albo mhret men’yu zmesleka",
+          "Qalat ayrekhebkun zezentu kbrkha",
+          "Gena kzmr’ye zel'alem ab betka"
+        ]
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Di/n abrham mehari"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

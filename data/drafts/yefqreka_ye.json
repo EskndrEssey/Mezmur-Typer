@@ -1,0 +1,59 @@
+{
+  "id": 389,
+  "title": "የፍቅረካ’የ",
+  "ti": {
+    "chorus": [
+      "የፍቅረካ’የ ንስኻ ትፈልጥ ‘ምበር",
+      "ይኣምነካ ‘የ ሰልከልከል በዚኁኒ ‘ምበር",
+      "ክስዕበካ’የ ምሉእ ፍቕሪ ዓድለኒ",
+      "ጉድለት እምነተይ ኣርሒቕካስ ተቐበለኒ",
+      "ኣሚነን ወሲነን ወገን ናትካ ኮይነ ተሰሊፈ እንድየ ጐይታይ",
+      "እንታይ ደኣ ኮይኑ ጸጋይ ተገፊፉ ካልእ ኮይኑ ዕላማይ",
+      "የፍቅረካ ክብል ፍረ ይስእነሉ ተግባረይ ይጎድለኒ",
+      "ውሑድ’ዩ እምነተይ በርቲዐ ክትንስእ ባዕልኻ ወስኸኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ዓስቢ ዓለም ደልየ ፍቓዳ መሊኤ ዓጊበ’ኳ ኣይፈልጥን",
+          "መሊአ ጎዲለ ተፈራሪቐ ’ምበር ሓሳበይ ኣየዕረፈን",
+          "ምሳኻ ግን ኣሎ ፍጹም ጣዕሚ ሕይወት ጀሚሩ ዘየቋርጽ",
+          "ፍቓድካ ክመልእ ፍቓድካ ይኹነለይ ተለዊጠ ክሕደስ",
+          "ክድምድም’የ ገና ፍጻሜ ኣይረኸብኩን ክሳብ ቦታ ዕረፍተይ",
+          "ክትንስእ ’የ ጌና ክጋደል ድማ ’የ  ክቕጽሎ መንገደይ",
+          "ሳህልኻን ምሕረትካን ደገፍ ክኾናኒ ክስዕባኒ ’የን ጐይታይ",
+          "ብተስፋ ክነጽህ ጽውአይ ከንጀርብብ ኣብ ሰማያዊት ቤተይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Yefqreka’ye nskha tfelt' ‘mber",
+      "Yamneka ‘ye selkelkel bezihuni ‘mber",
+      "Ks'beka’ye mlu fqri 'adleni",
+      "Gudlet mnetey arhiqkas teqebeleni",
+      "Aminen wesinen wegen natka koyne teselife ndye gwaytay",
+      "Ntay dea koynu ts'egay tegefifu kal koynu 'lamay",
+      "Yefqreka kbl fre ysnelu tegbarey ygodleni",
+      "Whud’yu mnetey berti'e ktns ba'lkha weskheni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "'Asbi 'alem delye fqada melie 'agibe’kwa ayfelt'n",
+          "Melie godile teferariqe ’mber hasabey aye'refen",
+          "Msakha gn alo fts'um t'a'mi hywet jemiru zeyeqwarts'",
+          "Fqadka kmel fqadka ykhuneley telewit'e khdes",
+          "Kdmdm’ye gena fts'ame ayrekhebkun ksab bota 'reftey",
+          "Ktns ’ye gena kgadel dma ’ye  kqts'lo mengedey",
+          "Sahlkhan mhretkan degef kkhonani ks'bani ’yen gwaytay",
+          "Btesfa knets'h ts'wey kenjerbb ab semayawit betey"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

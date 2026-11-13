@@ -1,0 +1,99 @@
+{
+  "id": 422,
+  "title": "መስቀል መድኃኒትና",
+  "ti": {
+    "chorus": [
+      "መስቀል መድኃኒትና ኃይሊ እግዚ አብሔር/2/",
+      "ብማኅሌት መኣዲ ብመዝሙር ይወደስ/2/",
+      "ወጺኡ መስቀልና  ኃይሊ እግዚአብሔር",
+      "ብርሃን ተመሊኡ    >>         >>",
+      "ጎይታ ዝቐደሶ       >>         >>",
+      "ብወርቃዊ ደሙ    >>         >>",
+      "እሰይ/3/ነቕርብ ዕልልታ",
+      "መስቀል ተረኺቡ ፍረ ጎልጎታ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣምላኽና ናትና በደል ኃይሊ እግዚአብሔር",
+          "ዝተሰከመሉ             >>         >>",
+          "ዝኸበረ ደሙ",
+          ">>         >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "በዓሉ ዘፍሰሰሉ",
+          ">>         >>",
+          "ምርኩስ ክርስቲያን   >>         >>",
+          "ሰይጣን መባረሪ      >>         >>",
+          "ዘደንቕ ማሕተምና ፍሉይ ውህብቶና",
+          "ተቐሪጽካ ኢኻ ኣብ ፅላት ልብና"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "ኣርማ ክርስቲያን ኃይሊ እግዚአብሔር",
+          "ጸጋ ተመሊኡ       >>         >>",
+          "ምስክር ድሕነት’ዩ  >>         >>",
+          "ዓለም ኣጋዊሑ     >>         >>",
+          "ንዓና እንኣምን ምልክት ድሕነትና",
+          "መስቀል ኃይልና እዩ ኣምላኽ ዝሃበና"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Mesqel medhanitna hayli gzi ebher/2/",
+      "Bmahlet meadi bmezmur ywedes/2/",
+      "Wets'iu mesqelna  hayli gziebher",
+      "Brhan temeliu    >>         >>",
+      "Goyta zqedeso       >>         >>",
+      "Bwerqawi demu    >>         >>",
+      "Sey/3/neqrb 'llta",
+      "Mesqel terekhibu fre golgota"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Amlakhna natna bedel hayli gziebher",
+          "Ztesekemelu             >>         >>",
+          "Zkhebere demu",
+          ">>         >>"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Be'alu zefseselu",
+          ">>         >>",
+          "Mrkus krstiyan   >>         >>",
+          "Seyt'an mebareri      >>         >>",
+          "Zedenq mahtemna fluy whbtona",
+          "Teqerits'ka ikha ab ts'lat lbna"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 3,
+        "lines": [
+          "Arma krstiyan hayli gziebher",
+          "Ts'ega temeliu       >>         >>",
+          "Mskr dhnet’yu  >>         >>",
+          "'Alem agawihu     >>         >>",
+          "N'ana namn mlkt dhnetna",
+          "Mesqel haylna yu amlakh zhabena"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 138,
+  "title": "ናተይ ናርዶስ",
+  "ti": {
+    "chorus": [
+      "ናተይ ናርዶስ ናተይ ቤዛ",
+      "መሲጡኒ ብመኣዛ",
+      "ተመልኪተ ሽንካር ኢዱ",
+      "ስዒበዮ ብመንገዱ",
+      "ድቃስ የለን ኣብ ዓራተይ",
+      "ተሓጺበ ብንብዓተይ",
+      "ብሞት ናቱ ነቒሐ’የ",
+      "ፍቕረይ ኢለ ወጺአ’የ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ነቲ ሳሮን ጽጌረዳ",
+          "ረኺበዮ ምድረ በዳ",
+          "በቲ ፍቕሩ ይቐንእየ",
+          "ብመስቀሉ ድኂነየ",
+          "እምባታት ዝዘለለ",
+          "ኣድማሳት’ውን ዝኸለለ",
+          "ኣብቲ እዋን ዓራርቦ",
+          "ጸዊዑኒ ፈቃር ኣቦ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ተተርኢሰ ኣብ ጸጋሙ",
+          "ሓቚፉኒ ብየማኑ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Natey nardos natey beza",
+      "Mesit'uni bmeaza",
+      "Temelkite shnkar idu",
+      "S'ibeyo bmengedu",
+      "Dqas yelen ab 'aratey",
+      "Tehats'ibe bnb'atey",
+      "Bmot natu neqihe’ye",
+      "Fqrey ile wets'ie’ye"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Neti saron ts'gereda",
+          "Rekhibeyo mdre beda",
+          "Beti fqru yqenye",
+          "Bmesqelu dhineye",
+          "Mbatat zzelele",
+          "Admasat’wn zkhelele",
+          "Abti wan 'ararbo",
+          "Ts'ewi'uni feqar abo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Teterise ab ts'egamu",
+          "Haqwifuni byemanu"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

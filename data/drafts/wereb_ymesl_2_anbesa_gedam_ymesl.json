@@ -1,0 +1,26 @@
+{
+  "id": 816,
+  "title": "",
+  "wereb": true,
+  "ti": {
+    "lines": [
+      "ይመስል /2/ ኣንበሳ ገዳም ይመስል",
+      "ኣንበሳ ገዳም /3/ ይመስል",
+      "ትበርህ /2/ እም ኮከበ ሰማይ ትበርህ",
+      "እም ኮከበ ሰማይ /3/ ትበርህ",
+      "ይመስሉ /2/ ኣብርሃም ወሳራ ይመስሉ",
+      "ኣብርሃም ወሳራ /3/ ይመስሉ"
+    ]
+  },
+  "ti_ro": {
+    "lines": [
+      "Ymesl /2/ anbesa gedam ymesl",
+      "Anbesa gedam /3/ ymesl",
+      "Tberh /2/ m kokebe semay tberh",
+      "M kokebe semay /3/ tberh",
+      "Ymeslu /2/ abrham wesara ymeslu",
+      "Abrham wesara /3/ ymeslu"
+    ]
+  },
+  "needs_review": []
+}

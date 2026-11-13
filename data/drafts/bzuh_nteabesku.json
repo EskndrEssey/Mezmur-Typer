@@ -1,0 +1,93 @@
+{
+  "id": 204,
+  "title": "ብዙሕ እንተኣበስኩ",
+  "ti": {
+    "chorus": [
+      "ብዙሕ እንተኣበስኩ ዋላ እንተበደልኩ",
+      "ከምቀደምኪ ኩኒ ድንግል ተለመኒ",
+      "ምእንቲ ሓዘንኪ ስቓይ መከራኺ",
+      "ኣደይ ተለመኒ ዘክሪ ኪዳንኪ",
+      "ስለ እቲ ዕድሜኺ ኵሉ ከይረኣኺ",
+      "ፍቕሪ ናይ ስድራቤት ከየስተማቐርኪ",
+      "ፍጹም ከይሰሓቕኪ ምስ ቆልዓ ጎረቤት",
+      "ጓል መብጽዓ ኮይንኪ ዘሕለፍክዮ ሕይወት",
+      "ብናትኪ ፍቕሪ እንከይጸገቡ",
+      "ቃሎም ከኽብሩ ጓሎም ዝሃቡ",
+      "ዝዛረየ ደምኪ ኣብ በረኻ ግብጺ",
+      "ዝጾርክዮ ኵሉ ናይ ሃልሃልታ ፈልጺ",
+      "እናስተንተንኩ ስቓይ ስደትኪ",
+      "ሓዘን ልብኺ ውዑይ ንብዓትኪ",
+      "እኔኹ ቆይመ ስምኪ ይጽውዕ",
+      "ካብ ጉሁይ ልበይ ዓይነይ ይነብዕ",
+      "በቲ ነዊሕ ጉዕዞ ኣዝዩ ምስሰልከየ",
+      "ንኽትሕግዝዮ ገጽኪ እናረኣየ",
+      "ውላድኪ ክበኪ ንኽዳንኪ ሒዙ",
+      "ኣእዳውኪ ወስ ክብሉ ንብዓቱ ክደርዙ",
+      "መድኃኔ ዓለም ኵሉ ዝኽእል",
+      "ረዳኢ እንከሎ ርድእኒ ክብል",
+      "መሪር ሓዘንኪ ዘኪርኪ ድንግል",
+      "ቤዛይ ክትኮኒ ኣእዳወይ የልዕል"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "መታን ንኸሕልፎ ካብ ሓጢኣት ርሒቐ",
+          "ኣብዛ ዓለም ምንባር ፈንፊነ ንዒቐ",
+          "ሓግዝኒ ድንግል ብጽድቂ ክነብር",
+          "ዘመነይ ከሕልፎ ብሕይወት ቁምነገር",
+          "ካባኺ እሞ ናብ መን ክኸይድ",
+          "ዋላ እንተኾነ ሓጢኣተይ ከቢድ",
+          "ንስኺ ኢኺ ጸግዐይ ዋሕሰይ",
+          "በደለይ ደምሲስኪ ኣደ ኩንለይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Bzuh nteabesku wala ntebedelku",
+      "Kemqedemki kuni dngl telemeni",
+      "Mnti hazenki sqay mekerakhi",
+      "Adey telemeni zekri kidanki",
+      "Sle ti 'dmekhi kwlu keyreakhi",
+      "Fqri nay sdrabet keyestemaqerki",
+      "Fts'um keysehaqki ms qol'a gorebet",
+      "Gwal mebts''a koynki zehlefkyo hywet",
+      "Bnatki fqri nkeyts'egebu",
+      "Qalom kekhbru gwalom zhabu",
+      "Zzareye demki ab berekha gbts'i",
+      "Zts'orkyo kwlu nay halhalta felts'i",
+      "Nastentenku sqay sdetki",
+      "Hazen lbkhi w'uy nb'atki",
+      "Nekhu qoyme smki yts'w'",
+      "Kab guhuy lbey 'ayney yneb'",
+      "Beti newih gu'zo azyu msselkeye",
+      "Nkhthgzyo gets'ki nareaye",
+      "Wladki kbeki nkhdanki hizu",
+      "Adawki wes kblu nb'atu kderzu",
+      "Medhane 'alem kwlu zkhl",
+      "Redai nkelo rdni kbl",
+      "Merir hazenki zekirki dngl",
+      "Bezay ktkoni adawey yel'l"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Metan nkhehlfo kab hat'iat rhiqe",
+          "Abza 'alem mnbar fenfine n'iqe",
+          "Hagzni dngl bts'dqi knebr",
+          "Zemeney kehlfo bhywet qumneger",
+          "Kabakhi mo nab men kkheyd",
+          "Wala ntekhone hat'iatey kebid",
+          "Nskhi ikhi ts'eg'ey wahsey",
+          "Bedeley demsiski ade kunley"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "chorus_possible_page_split"
+  ]
+}

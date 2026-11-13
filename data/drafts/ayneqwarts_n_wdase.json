@@ -1,0 +1,71 @@
+{
+  "id": 36,
+  "title": "ኣይነቋርጽን ውዳሴ",
+  "ti": {
+    "chorus": [
+      "ኣይነቃርጽን ውዳሴ ኣይነውሕድን ምስጋና",
+      "እግዚአብሔር ፈጺሙ’ዩሞ ዝበሎ ንዓና",
+      "እግዚአብሔር ኣብዚሑ’ዩሞ ነቲ ርስትና",
+      "ሽግ ናይ ምስጋና ቃልቃል ባልባል ኢሉ",
+      "መቕደስ ደሚቑ ዕልልታ መሊኡ",
+      "ዝተሰምዓሉ ጸሎት ልመናኡ",
+      "ልቡ ይዓርፍ ከመስግን ንዕኡ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "በቲ ውዕለቱ ኣርእዩና ንሎሚ",
+          "እናደገፈ ኣትሒዙ ካብ ዓሚ",
+          "ተዘመርናሉ ብምሉእ ዕድሜና",
+          "ይውሕዶ እምበር ኣይበዝሖን ምስጋና",
+          "ዘይዘመሩ ሎሚ ጽባሕ ይዝምሩ",
+          "ቅድሚኡ ይዘሉ ምስ ጠዓሙ ፍቕሩ",
+          "ደቂ ሜልኮል ካብ ደርቢ ውረዱ",
+          "ትምክሕቲ ሓዲግኩም ንእግዚአብሔር ስገዱ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሰሚዕና ድምጹ ካብ ላዕላይ ሰማይ",
+          "ሕዝቡ እንከጽንዕ እንከውጽእ ጸሓይ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ayneqarts'n wdase aynewhdn msgana",
+      "Gziebher fets'imu’yumo zbelo n'ana",
+      "Gziebher abzihu’yumo neti rstna",
+      "Shg nay msgana qalqal balbal ilu",
+      "Meqdes demiqu 'llta meliu",
+      "Ztesem'alu ts'elot lmenau",
+      "Lbu y'arf kemesgn n'u"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Beti w'letu aryuna nlomi",
+          "Nadegefe athizu kab 'ami",
+          "Tezemernalu bmlu 'dmena",
+          "Ywhdo mber aybezhon msgana",
+          "Zeyzemeru lomi ts'bah yzmru",
+          "Qdmiu yzelu ms t'e'amu fqru",
+          "Deqi melkol kab derbi wredu",
+          "Tmkhti hadigkum ngziebher sgedu"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Semi'na dmts'u kab la'lay semay",
+          "Hzbu nkets'n' nkewts' ts'ehay"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

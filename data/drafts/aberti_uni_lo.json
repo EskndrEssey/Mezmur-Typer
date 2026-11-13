@@ -1,0 +1,77 @@
+{
+  "id": 84,
+  "title": "ኣበርቲዑኒ’ሎ",
+  "ti": {
+    "chorus": [
+      "ኣበርቲዑኒ’ሎ ፍቕርኻ",
+      "ኣበርቲዑኒ’ሎ ሓይልኻ",
+      "ብጸጋ ድኂነ ብስምካ",
+      "ክነብር’የ ኣነ ኣብ ቤትካ",
+      "በገናይ ኣልዒለ ክጽውዕ ንስምካ",
+      "ጐይታ ኣበርቲዑኒ’ቲ ቅዱስ መንፈስካ",
+      "ፍጹም ዘይትሓድግ ኣምላኽ መድኃኔ ዓለም",
+      "ከመስግነካ’የ ክዝምር ዘልዓለም"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ብስምካ ኣሚነ ዓወት’ዩ መንገደይ",
+          "ናይ ወንጭፈይ እምኒ ንስኻ ኢኻ ሓይለይ",
+          "‘ቲ ናይ ሳኦል ካባ ከም ዝደርበኻለይ",
+          "ንጸላእተይ ኩሎም ጐይታ ኣሕፍረለይ",
+          "ሳምራዊት ክነሰይ ፈውሲ ዝኾንካኒ",
+          "ካብ ኣይሁድ ከማኻ መንዩ ዘፍቀረኒ",
+          "ንምስጢረይ ኵሉ ጐይታይ ነጊርካኒ",
+          "ኵሉ ግደፍ በልካ ንዓይ ሰዓበኒ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ፍጹም ኃጥእ  ኢልካ ሸለል ኣይበልካንን",
+          "ክፉእ ብምግባረይ ጐይታ ኣይፈረድካንን",
+          "እሞ ውሬታይሲ ብምንታይ ክመልሶ",
+          "ኣብ መቕደስካ ኣትየ ስምካ ክውድሶ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Aberti'uni’lo fqrkha",
+      "Aberti'uni’lo haylkha",
+      "Bts'ega dhine bsmka",
+      "Knebr’ye ane ab betka",
+      "Begenay al'ile kts'w' nsmka",
+      "Gwayta aberti'uni’ti qdus menfeska",
+      "Fts'um zeythadg amlakh medhane 'alem",
+      "Kemesgneka’ye kzmr zel'alem"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Bsmka amine 'awet’yu mengedey",
+          "Nay wench'fey mni nskha ikha hayley",
+          "‘Ti nay saol kaba kem zderbekhaley",
+          "Nts'elatey kulom gwayta ahfreley",
+          "Samrawit knesey fewsi zkhonkani",
+          "Kab ayhud kemakha menyu zefqereni",
+          "Nmst'irey kwlu gwaytay negirkani",
+          "Kwlu gdef belka n'ay se'abeni"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Fts'um hat'  ilka shelel aybelkann",
+          "Kfu bmgbarey gwayta ayferedkann",
+          "Mo wretaysi bmntay kmelso",
+          "Ab meqdeska atye smka kwdso"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

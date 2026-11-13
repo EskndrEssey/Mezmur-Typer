@@ -1,0 +1,77 @@
+{
+  "id": 209,
+  "title": "መዕቆቢተይ ከተማ",
+  "ti": {
+    "chorus": [
+      "መዕቆቢተይ ከተማ `ታ ብሰላም ዝነብረላ",
+      "ድንግል ማርያመይ ተክሊ ጽላለይ ልበይ ዘዕርፈላ",
+      "ኣለኒ ኢለ እቲ ዝምክሖ",
+      "ጸሎታ'ዩ ንለይተይ ዘውግሖ",
+      "ካብዛ ክፍእቲ እዋን ደጊኣ ዝማዕረገ",
+      "ግንብንብ ዝባህሪኣ ህድኣታ ዝተዘርገ",
+      "ወዲ ሰብ ዘይቀስነላ ኣንፈቱ ጠፊእዎ",
+      "ሳልኣ እምበር ማርያመይ የምልጥ መን ኢልዎ /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኣብራኸይ ወለል ኢለን ኮይንወን ከይዕጸፋ",
+          "ሃለኽለኽ ተመንዩወን ድሕሪ ሰበን ከይተርፋ",
+          "ኮፍ ኢለ ዘዕርፈላ ትንፋሰይ ንኽመልስ",
+          "ጽዮነይ ጽላል ጉዕዞይ ህላወይ እተውሕስ /2/",
+          "ዘይሕለል ጸላእየይ ክጓጥየኒ ብሓሳብ",
+          "ምስጢር ጉደይ ቀሊዑ ንጥፍኣት ክረባረብ",
+          "ርግኣት ልበይ ብሂጉ ኣበሳይ ዝሸፈነ",
+          "ልማኖኣ'ዶ ኣይኮነን ውርውር ኵናት ዘምከነ /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሽውሽውታ ንፋስ ባሕሪ ክሓንን ዘይኣመሉ",
+          "እቲ ጥዑም ጸሓይ ንግሆ ክንድር ተቐይሩ",
+          "ዝናብ ኣይሂ ክወርድ ተሰንዩ ብነጎድጓድ",
+          "ዑቕባ ነፍሰይ ኢያ ድንግል ፍርሒ ልበይ ተወግድ /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Me'qobitey ketema `ta bselam znebrela",
+      "Dngl maryamey tekli ts'laley lbey ze'rfela",
+      "Aleni ile ti zmkho",
+      "Ts'elota'yu nleytey zewgho",
+      "Kabza kfti wan degia zma'rege",
+      "Gnbnb zbahria hdata ztezerge",
+      "Wedi seb zeyqesnela anfetu t'efiwo",
+      "Sala mber maryamey yemlt' men ilwo /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Abrakhey welel ilen koynwen key'ts'efa",
+          "Halekhlekh temenyuwen dhri seben keyterfa",
+          "Kof ile ze'rfela tnfasey nkhmels",
+          "Ts'yoney ts'lal gu'zoy hlawey tewhs /2/",
+          "Zeyhlel ts'elayey kgwat'yeni bhasab",
+          "Mst'ir gudey qeli'u nt'fat krebareb",
+          "Rgat lbey bhigu abesay zshefene",
+          "Lmanoa'do aykonen wrwr kwnat zemkene /2/"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Shwshwta nfas bahri khann zeyamelu",
+          "Ti t''um ts'ehay ngho kndr teqeyru",
+          "Znab ayhi kwerd tesenyu bnegodgwad",
+          "'Uqba nefsey iya dngl frhi lbey tewegd /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

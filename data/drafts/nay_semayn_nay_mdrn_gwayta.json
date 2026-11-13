@@ -1,0 +1,77 @@
+{
+  "id": 94,
+  "title": "ናይ ሰማይን ናይ ምድርን ጐይታ",
+  "ti": {
+    "chorus": [
+      "ናይ ሰማይን ናይ ምድርን ጐይታ",
+      "ወሪስናዮ ንበረኸትካ",
+      "ተመሪሕና ብጉስነትካ",
+      "ተባሪኽና ብኽቡር ስምካ (2)",
+      "በቲ ጽኑዕ ሓያል ቅልጽምካ",
+      "ተደጊፍና ብርህራሄኻ",
+      "ናይ ፍቕሪ ኣቦ ጽላል ህዝብኻ",
+      "ለዋህ ኣምላኽ ክርስቶስ ኢኻ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምድሓን ኮይኑ ብንጹሕ ደምካ",
+          "ተፈዊስና ብቕዱስ ቃልካ",
+          "ሓይልኻ’ዩ ዘበርትዓና",
+          "ካብ ድኻምና ክንትንስእ ኢና",
+          "‘ቲ ምስኪን እንክልምነካ",
+          "ሓሳብ ልቡ እንከካፍለካ",
+          "ኣቦ ንወዱ ከም ዝርህርህ",
+          "ብለውሃትካ ምድኃን ትሰርሕ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ስለ ምድሓን ናይ ሕያው ቃልካ",
+          "ኣብዛ ዓለም ክንምስክረልካ",
+          "ከነውሪ ንምስጋናኻ",
+          "ከናፍርና ቅብኣና ኢኻ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nay semayn nay mdrn gwayta",
+      "Werisnayo nberekhetka",
+      "Temerihna bgusnetka",
+      "Tebarikhna bkhbur smka (2)",
+      "Beti ts'nu' hayal qlts'mka",
+      "Tedegifna brhrahekha",
+      "Nay fqri abo ts'lal hzbkha",
+      "Lewah amlakh krstos ikha"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mdhan koynu bnts'uh demka",
+          "Tefewisna bqdus qalka",
+          "Haylkha’yu zebert'ana",
+          "Kab dkhamna kntns ina",
+          "‘Ti mskin nklmneka",
+          "Hasab lbu nkekafleka",
+          "Abo nwedu kem zrhrh",
+          "Blewhatka mdhan tserh"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Sle mdhan nay hyaw qalka",
+          "Abza 'alem knmskrelka",
+          "Kenewri nmsganakha",
+          "Kenafrna qbana ikha"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

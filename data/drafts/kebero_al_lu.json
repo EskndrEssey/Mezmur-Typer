@@ -1,0 +1,71 @@
+{
+  "id": 197,
+  "title": "ከበሮ ኣልዕሉ",
+  "ti": {
+    "chorus": [
+      "ንጐይታ ክብሪ ኣመስግኑ",
+      "ኩልኺ ምድሪ ተገዝእዮ",
+      "ንኣምላኽ ምድሓን ፍለጥዮ /2/",
+      "ኣዳም ዘለለ ብሓጎስ ደስታ",
+      "ሔዋን ዓለለት ድሙቕ ዕልልታ",
+      "ነፍሳት ዘለሉ ኣብ ማእከል ገነት",
+      "ስለዘብቅዐ ሕሱም ባርነት"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ናይ ጥንቲ ገበል ጸረ ድኅነትና",
+          "ተሳዒሩ እዩ ብደም ጐይታና",
+          "ኮይኑልና ኣሎ ፍሥሐ ሓጎስ",
+          "ብምድሓን ኣምላኽ ጐይታ ክርስቶስ",
+          "ሞት ምስ መቓብር ዓስቢ ሓጢኣት",
+          "ርሒቑልና’ዩ ብናይ ጐይታ ሞት",
+          "ውህበት ኣምላኽኪ ናይ ቀራንዮ",
+          "ነፍሰይ ብጸጋ ተቐበልዮ"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ምት ምስ መቓብር . . ."
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Ngwayta kbri amesgnu",
+      "Kulkhi mdri tegezyo",
+      "Namlakh mdhan flet'yo /2/",
+      "Adam zelele bhagos desta",
+      "Hewan 'alelet dmuq 'llta",
+      "Nefsat zelelu ab makel genet",
+      "Slezebq'e hsum barnet"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Nay t'nti gebel ts'ere dhnetna",
+          "Tesa'iru yu bdem gwaytana",
+          "Koynulna alo fsshe hagos",
+          "Bmdhan amlakh gwayta krstos",
+          "Mot ms meqabr 'asbi hat'iat",
+          "Rhiqulna’yu bnay gwayta mot",
+          "Whbet amlakhki nay qeranyo",
+          "Nefsey bts'ega teqebelyo"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Mt ms meqabr . . ."
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "no_title_line_found"
+  ]
+}

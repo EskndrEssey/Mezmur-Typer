@@ -1,0 +1,73 @@
+{
+  "id": 459,
+  "title": "ኃድፈኒ",
+  "ti": {
+    "chorus": [
+      "ኃድፈኒ እምተሰጥሞ ጌጋይ ክቡድ /2/",
+      "ናሁ በላዕሌየ ተንሥአ ሞገድ /2/",
+      "ኣድሕነኒ ንኸይጠፍእ ወዲቐ ብኃጢኣት /2/",
+      "ኣባይ ወሪዱ'ሎ ናይ ቁጥዓ መዓት /2/",
+      "ኃድፈኒ ካብ ገሃነም ሓዊ ከቶ ካብዘይጠፍእ",
+      ">>   ዝኸፍአ ኣውራ ካብቲ ዘፍርሕ",
+      ">>   መፈንጠራ ሓጢኣት ንዓይ ከይሕዘኒ",
+      ">>  ካብ ቤትካ ከይወጽእ ኣምላኽ ሓግዘኒ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ኃድፈኒ ካብ ዝወረደኒ ካብ ሽግር ካብ መዓት",
+          ">>    ካብ ዝፍረደሉ ካብ ዳግማይ ምጽኣት",
+          ">>   ጐይታይ ዝሓዝነሉ ካብ ድፍረት ኃጢአት",
+          ">>   ካብ ተንኮል ካብ ቅንኢ ካብ ዘለዎ ክፍኣት"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኃድፈኒ ካብ ክፉእ ፈተና ካብ ዘማርረሉ",
+          ">>  ካብ ዝሙት ካብ ርኽሰት ፍቕሪ ካብ ዘይብሉ",
+          ">>  ካብ ምግባር ኃጢኣት ንዓይ ሓልወኒ",
+          ">>  እግዚአብሔር ኣምላኸይ ካብ ኵሉ ኣድሕነኒ"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Hadfeni mteset'mo gegay kbud /2/",
+      "Nahu bela'leye tensse moged /2/",
+      "Adhneni nkheyt'ef wediqe bhat'iat /2/",
+      "Abay weridu'lo nay qut''a me'at /2/",
+      "Hadfeni kab gehanem hawi keto kabzeyt'ef",
+      ">>   Zkhefe awra kabti zefrh",
+      ">>   Mefent'era hat'iat n'ay keyhzeni",
+      ">>  Kab betka keywets' amlakh hagzeni"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Hadfeni kab zweredeni kab shgr kab me'at",
+          ">>    Kab zfredelu kab dagmay mts'at",
+          ">>   Gwaytay zhaznelu kab dfret hat'iet",
+          ">>   Kab tenkol kab qni kab zelewo kfat"
+        ],
+        "possible_page_split": true
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Hadfeni kab kfu fetena kab zemarrelu",
+          ">>  Kab zmut kab rkhset fqri kab zeyblu",
+          ">>  Kab mgbar hat'iat n'ay halweni",
+          ">>  Gziebher amlakhey kab kwlu adhneni"
+        ]
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_1_possible_page_split"
+  ]
+}

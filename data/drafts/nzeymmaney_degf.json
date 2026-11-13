@@ -1,0 +1,71 @@
+{
+  "id": 135,
+  "title": "ንዘይምእማነይ ደግፍ",
+  "ti": {
+    "chorus": [
+      "ንዘይምእማነይ ደግፍ ጐይታየይ /2/",
+      "ንስኻ ኢኻ መጸግዕየይ",
+      "ንዘይምእማነይ ደግፍ ጐይታየይ",
+      "ፍረ ዘየፍረኹ እንተኾንኩ’ኳ ድኹም",
+      "ምሳኻ ክነብር ንጉሥ ናይ ሰላም",
+      "ተሳኣንኩ’ውን ጽድቂ ኣይውጻእ ካብ ቤትካ",
+      "ተጸመም ዛ’ዓመት ክሳዕ ዝጸንዓልካ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ተሸገረካ’ውን ሕይወተይ ዘይጽኑዕ",
+          "ተዓገስ ቅሩብ ስጋዕ ዝብርትዕ",
+          "ተዘይነበርኩ’ኳ ከምቲ ቅዱስ ቃልካ",
+          "ሎሚ’ውን ምሳይ ኩን ብጽኑዕ ኪዳንካ",
+          "በዚሑ እቲ ለምጸይ ኮይነ እየ ንጹል",
+          "ቀልጥፍ ዳህስሰኒ ምሕረትካ ክዕደል",
+          "ካብ ሰማይ መጻእካ ካብቲ ብርቱዕ ወገን",
+          "ቅረበኒ ጐይታይ ፍቕርኻ ክሽፈን"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ኣምእዘኒ ኢኻ ንጨናይ ቀይር",
+          "ከም ሽቱ ናይ ናርዶስ ግበሮ ክቡር"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Nzeymmaney degf gwaytayey /2/",
+      "Nskha ikha mets'eg'yey",
+      "Nzeymmaney degf gwaytayey",
+      "Fre zeyefrekhu ntekhonku’kwa dkhum",
+      "Msakha knebr nguss nay selam",
+      "Tesaanku’wn ts'dqi aywts'a kab betka",
+      "Tets'emem za’'amet ksa' zts'en'alka"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Teshegereka’wn hywetey zeyts'nu'",
+          "Te'ages qrub sga' zbrt'",
+          "Tezeyneberku’kwa kemti qdus qalka",
+          "Lomi’wn msay kun bts'nu' kidanka",
+          "Bezihu ti lemts'ey koyne ye nts'ul",
+          "Qelt'f dahsseni mhretka k'del",
+          "Kab semay mets'aka kabti brtu' wegen",
+          "Qrebeni gwaytay fqrkha kshfen"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Amzeni ikha nch'enay qeyr",
+          "Kem shtu nay nardos gbero kbur"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

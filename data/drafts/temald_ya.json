@@ -1,0 +1,28 @@
+{
+  "id": 491,
+  "title": "ተማልድ’ያ",
+  "ti": {
+    "chorus": [
+      "ማርያም ድንግል ርህርህት ኣዴና",
+      "ተማልድያ ናብ ፈጣሪና",
+      "ኣይንጠራጠርን ተማልድያ ማርያም ኣዴና/2/",
+      "መሰረት ሕይወትና መውጽኢት ናይ ጸሓይ",
+      "ዋሕስ ናይ ኵሉኺ ብምድሪ ብሰማይ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Maryam dngl rhrht adena",
+      "Temaldya nab fet'arina",
+      "Aynt'erat'ern temaldya maryam adena/2/",
+      "Meseret hywetna mewts'it nay ts'ehay",
+      "Wahs nay kwlukhi bmdri bsemay"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_possible_page_split",
+    "chorus_only_no_verses"
+  ]
+}

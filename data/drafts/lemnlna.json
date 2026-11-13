@@ -1,0 +1,47 @@
+{
+  "id": 375,
+  "title": "ለምንልና",
+  "ti": {
+    "chorus": [
+      "ለምንልና /3/ ናይ ኣምላኽ ኣደ /2/",
+      "ድንግል ማርያም /2/ ድንግል ማርያም እመ ብዙኃን /2/",
+      "ናይ ሓደራ /2/ ናይ ቃል ኪዳን ናይ ኵላትና ኣደ /2/",
+      "መፍቀሪት ሰብ ኢኺ ማዕከን ለውሃት",
+      "ጠበቓ ጥቑዓት ልሳን ናይ ድኻታት /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ክብሪ ኣሎና ጸጋ ኣሎና ተስፋ ኣሎና ብልማኖኺ /2/",
+          "ካብ መዓት ናይ ሰዶም ናይ ገሞራ",
+          "መድኃኒት ዝሓደገልና ይመስገን ጐይታና /2/",
+          "ለምንልና /3/ ናይ ኣምላኽ ኣደ /2/",
+          "ድንግል ማርያም /2/ ድንግል ማርያም እመ ብዙኃን /2/"
+        ]
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Lemnlna /3/ nay amlakh ade /2/",
+      "Dngl maryam /2/ dngl maryam me bzuhan /2/",
+      "Nay hadera /2/ nay qal kidan nay kwlatna ade /2/",
+      "Mefqerit seb ikhi ma'ken lewhat",
+      "T'ebeqa t'qu'at lsan nay dkhatat /2/"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Kbri alona ts'ega alona tesfa alona blmanokhi /2/",
+          "Kab me'at nay sedom nay gemora",
+          "Medhanit zhadegelna ymesgen gwaytana /2/",
+          "Lemnlna /3/ nay amlakh ade /2/",
+          "Dngl maryam /2/ dngl maryam me bzuhan /2/"
+        ]
+      }
+    ]
+  },
+  "needs_review": []
+}

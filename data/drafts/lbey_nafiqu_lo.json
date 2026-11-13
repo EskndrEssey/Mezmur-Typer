@@ -1,0 +1,81 @@
+{
+  "id": 193,
+  "title": "ልበይ ናፊቑ’ሎ",
+  "ti": {
+    "chorus": [
+      "ልበይ ናፊቑ’ሎ ኣደ ጐይታ ድንግል ማርያም",
+      "ድምጺ ሰላምታኺ ካብ ሰማይ ኣርያም",
+      "ወድኺ ሓቚፍኪ መስፍን ሰላም",
+      "ምጽኒ ድንግለይ እመ ብርሃን",
+      "ወለላ መልክዓ ውልዶ ነፍሰይ ምስላ ተደዊኑ",
+      "‘ቲ ደግለል ጉልበታ መኣዛ ስኢኑ",
+      "ሕሱም ጻህያይ ሥጋ ሒዝዋ ከርዲኑ",
+      "ናዝዝያ ድንግል ጌና ብእዋኑ"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "ምልሙላን ኣጓብዝ ቆልዑ ቤተይ በዓል ዓይኒ ልቢ",
+          "ንኡስ ዝዕድሚኦም ዘይርከቦም ዓቢ",
+          "ኣይጠዓሞን ውሽጦም ነጸብራቕ ከባቢ",
+          "ሓልውዮም ድንግል ካብ ሰላቢ ቀልቢ",
+          "ትምኒት ህንጡይ ልበይ ሃረርትኡ ኣብ ቤቱ ከገልግል",
+          "ላዕልን ታሕትን ኢለ ጽድቂ ንኸዋህልል",
+          "ሕሹኽታ ይመጻኒ ንባህገይ ዝኽልክል",
+          "ክሓስቦ እገርመኒ ይኾነኒ ግድል"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "ሃለኽለኽ ናይ  ሥጋ ከንቱ ድኻም ትርጉም ኣልቦ  እቶት",
+          "መቐረት ዘይብሉ ጣዕሚ ናይ ትሩፋት",
+          "ግሩም ጸሓይ ድኅነት ክርኢ በሪቑ",
+          "ተመነየ ልበይ ኣመና ናፊቑ"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "ti_ro": {
+    "chorus": [
+      "Lbey nafiqu’lo ade gwayta dngl maryam",
+      "Dmts'i selamtakhi kab semay aryam",
+      "Wedkhi haqwifki mesfn selam",
+      "Mts'ni dngley me brhan",
+      "Welela melk'a wldo nefsey msla tedewinu",
+      "‘Ti deglel gulbeta meaza sinu",
+      "Hsum ts'ahyay Ssga hizwa kerdinu",
+      "Nazzya dngl gena bwanu"
+    ],
+    "verses": [
+      {
+        "verse": 1,
+        "lines": [
+          "Mlmulan agwabz qol'u betey be'al 'ayni lbi",
+          "Nus z'dmiom zeyrkebom 'abi",
+          "Ayt'e'amon wsht'om nets'ebraq kebabi",
+          "Halwyom dngl kab selabi qelbi",
+          "Tmnit hnt'uy lbey harertu ab betu kegelgl",
+          "La'ln tahtn ile ts'dqi nkhewahll",
+          "Hshukhta ymets'ani nbahgey zkhlkl",
+          "Khasbo germeni ykhoneni gdl"
+        ]
+      },
+      {
+        "verse": 2,
+        "lines": [
+          "Halekhlekh nay  Ssga kentu dkham trgum albo  tot",
+          "Meqeret zeyblu t'a'mi nay trufat",
+          "Grum ts'ehay dhnet kri beriqu",
+          "Temeneye lbey amena nafiqu"
+        ],
+        "possible_page_split": true
+      }
+    ]
+  },
+  "needs_review": [
+    "verse_2_possible_page_split"
+  ]
+}

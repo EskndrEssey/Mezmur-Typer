@@ -1,0 +1,23 @@
+{
+  "id": 345,
+  "title": "ያሬድ ተፈትዎከ ወይነ",
+  "ti": {
+    "chorus": [
+      "ያሬድ ተፈትዎከ ወይነ /2/ በኣማን",
+      "ትናዝዘነ ያሬድ በጥዑም ዜማ",
+      "ትናዘዘነ ያሬድ /2/ በጥዑም ዜማ"
+    ],
+    "verses": []
+  },
+  "ti_ro": {
+    "chorus": [
+      "Yared tefetwoke weyne /2/ beaman",
+      "Tnazzene yared bet''um zema",
+      "Tnazezene yared /2/ bet''um zema"
+    ],
+    "verses": []
+  },
+  "needs_review": [
+    "chorus_only_no_verses"
+  ]
+}
