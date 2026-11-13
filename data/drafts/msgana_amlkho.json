@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_13eb3551d3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና ኣምልኾ"
+  },
+  "singer": "ዘማሪት ጸዳል ጎበዜ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና ኣምልኾ",
+      "zemari": "ዘማሪት ጸዳል ጎበዜ",
+      "lyrics": "[[chorus]]\nዘልዓለም ዓለም ቅዱስ ኢኻ\nዝወዳደረካ የለን ዝመስለካ\nንኣምኖ ዋልታ ኮይንካልና\nሥላሴ ብኣኻ ደስ ይብለና\n[[/chorus]]\n\nምስጋና ኣምልኾ ስግደት ውዳሴ\nይግባእ በሉ ሰባት ንቅድስት ሥላሴ(2)\n\nዝተኣምነ’ዩ ዝተፈርሐ\nናይ ጽድቂ ፀሓይ እናብረሀ\nዓለም ጸኒዓ ብሥላሴ\nትዝምረሉ ኣላ ነፍሰይ\n\nኣሚኑ ኣብርሃም ተሰደ\nኣብ እርግናኡ ወዲ ወለደ\n‘ቲ ናይ ተስፋ ቃል ፈጸመሉ\nለይቲ ይኹን ቀትሪ ሥላሴ በሉ"
+    },
+    "ti_ro": {
+      "title": "Msgana amlkho",
+      "zemari": "zemarit Tsedal gobeze",
+      "lyrics": "[[chorus]]\nYgba belu sebat nqdst sslase(2)\n[[/chorus]]\n\nMsgana amlkho sgdet wdase\nZelalem alem qdus ikha\nZwedadereka yelen zmesleka\nNamno walta koynkalna\nSslase bakha des yblena\n\nZemen zehlf kwilu ab idu\n‘Ti awet msar kwilu natu\nMedrekh nay hawi zelewo gziabher\nFtsum zeyhalf zeysear\nAminu abrham tesede\nAb rgnau wedi welede\n‘Ti nay tesfa qal fetsemelu\nLeyti ykhun qetri sslase belu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

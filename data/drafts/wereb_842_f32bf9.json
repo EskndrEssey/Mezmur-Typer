@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0842",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 842,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ቃለ ኣብ ኣኽቢሩ ኣደ ገበረኪ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nቃለ ኣብ ኣኽቢሩ ኣደ ገበረኪ\nእግዚአብሔር ብቓሉ ፍጹም ዘኽበረኪ\nእንምክሓልኪ መሳልልና ኢኺ\nቅድስና ናትኪ ጽድቂ’ውን ለበስኪ\nዓለም ዝፈጠረ ወሊድኪ ንስኺ\nፍሬ ገነት ኢኺ ንሕይወት ዘፍረኺ\nንዓኺ ዝመረጸ ልዕል ዘበለኪ\nምስጋና ይብጽሓዮ ክርስቶስ ወድኺ\nገነት ኤዶም ኢኺ ኣዳም ዝነበረልኪ\nሩባ ኤፌሶን ወርቂ’ውን ዘለኪ\nውሒዝ ጊዮን ኢኺ ሃገርና ከበብኪ\nዮርዳኖስ’ውን ኢኺ ኣሕዛብ ፈወስኪ\nብቓልነት ናይ ወልድኣብ’ውን ዘኽበረኪ\nንኣሕዛብ ክብጆ ወልድ ክሓድረልኪ\nአብ ኣብ ሕሊናኡ ጽሒፉ ንዓኺ\nመንፈስቅዱስ’ውን ፍጹም ኣጽሊሉኪ\nባህታ ይስመዓኒ ኣደይ እንክብለኪ (2)\nብምፍታው ወልድ ክውለድ ካባኺ\nስለዝሰሓቦ ንጽህና ስጋኺ\nመሕደሪ ንቓል ናይ ጽላት ታቦት\nእትምሰሊ ኢኺ ደመና ብርህት\nካብ ስጋኺ ሥጋ ካብ ደምኪ ወሲዱ\nካብ ነፍስኺ ነፍሲ ፍጹም ተዋሂዱ (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8f6f45919e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኤፍታሕ ኢልካኒ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኤፍታሕ ኢልካኒ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nኣብ መገዲ ኢያሪኮ ዘይገደፍካኒ\nዑረት ልበይ ርኢኻ ዝረዳእካኒ\nኤልሻዳይ ጐይታ ንዓይ ኤፍታሕ ኢልካኒ\nብርሃን ቅድስናኻ ቤትካ ኣርእዩኒ\n[[/chorus]]\n\nኤፍታሕ ኢልካኒ ኣምላኽ መን ይዓጽወኒ\nኤፍታሕ ኢልካኒ ጐይታይ መን ይኣስረኒ\nንስኻ ትምሕረኒ ንስኻ ይቕረ ትብለኒ\nንስኻ ትረድኣኒ ባዕልኻ ትድግፈኒ\n\nቁመተይ ሓጺሩኒ ኣብ ሳግላ ኮይነ\nነቲ ግሩም መልክዕኻ ምርኣይ ስኢነ\nድሌተይ ፈሊጥካዮ ቤተይ ኣቲኻ\nባሪኽዋ ንቤተይ ቅዱስ መንፈስካ\n\nድኹም ኃጥእ’ዩ ኢልካ ዘይነዓቕካኒ\nብናይ ምሕረት ዓይንኻ ዝጠመትካኒ\nብምንታ’የ ዝመልሶ ናትካ ውሬታ\nልበይ ሓጎስ መሊኡ ልሳነይ ዕልልታ"
+    },
+    "ti_ro": {
+      "title": "Eftah ilkani",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Eftah ilkani amlakh men yatsweni\nEftah ilkani goytay men yasreni\nNskha tmhreni nskha yqre tbleni\nNskha tredani balkha tdgfeni\nAb megedi iyariko zeygedefkani\nUret lbey rikha zredakani\nElshaday goyta nay eftah ilkani\nBrhan qdsnakha betka aryuni\nQumetey hatsiruni ab sagla koyne\nNeti grum melkkha mray sine\nDletey felitkayo betey atikha\nBarikhwa nbetey qdus menfeska\nSekhemey tesekimka qn keybelka\nKsab qeranyo goyta hatiatey tserka\nMntay tegerifka bejay zmotka\nKem gbrey keyferedka selamey awijka\nDkhum hat’yu ilka zeyneaqkani\nBnay mhret aynkha ztemetkani\nBmnta’ye zmelso natka wreta\nLbey hagos meliu lsaney llta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

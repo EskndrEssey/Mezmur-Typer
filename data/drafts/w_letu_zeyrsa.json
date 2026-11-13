@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0cba482407",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ውዕለቱ ዘይርሳዕ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ውዕለቱ ዘይርሳዕ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nንኃይሊ ሥልጣኑ ፍጥረቱ ይምስክር\nግርማ መለኮቱ ፍጹም ዘይድፈር\nደመና ዝውጣሕ ተኣምራታዊ\nምስጋናኡ ዝሰፍሐ ሕያዋይ ሳምራዊ\n[[/chorus]]\n\nውዕለቱ ዘይርሳዕ ኣማን ብኣማን\nዝገበሮ ንሰባት ኣማን ብኣማን\nውዳሴን ምስጋናን ንኣማኑኤል\nነቕርብ ንዕኡ ንኣምላኽ ልዑል\n\nናይ ሠራዊት ጐይታ እግዚአብሔር ዋልታና\nኣምላከ ያዕቆብ’ቲ ጽኑዕ እምባና\nንሕና ኣገልገልቱ ንሱ መጋቢና\nካብ ጸበባን ካብ መከራን እነሆ ይሥውረና\n\nብሰንኪ ኃጢኣትና ኣብ ዝወደቕናሉ\nብዘይትን ብወይንን ፈዊሱና ባዕሉ\nነጻ መድኃኒቱ ዝኸብር ካብ ኵሉ\nብወርቂ ኣይኮነን ዓዲጉና ደሙ’ዩ ከፊሉ"
+    },
+    "ti_ro": {
+      "title": "W'letu zeyrsa'",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Wletu zeyrsa aman baman\nZgebero nsebat aman baman\nWdasen msganan namanuel\nNeqrb nu namlakh lul\nNhayli ssltanu ftretu ymskr\nGrma melekotu ftsum zeydfer\nDemena zwtah teamratawi\nMsganau zsefha hyaway samrawi\nNay serawit goyta gziabher waltana\nAmlake yaqob’ti tsnu mbana\nNhna agelgeltu nsu megabina\nKab tsebeban kab mekeran neho ysswrena\nNu ngziabher bhagos nzemr\nNkhewhi mdhana wletu nmeskr\nBamlakh tsegna lbna ytehagos\nBgbrna bah neblo neti abiy nguss\nBsenki hatiatna ab zwedeqnalu\nBzeytn bweynn fewisuna balu\nNetsa medhanitu zkhebr kab kwilu\nBwerqi aykonen adiguna demu’yu kefilu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

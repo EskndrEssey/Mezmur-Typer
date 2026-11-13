@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_e791857468",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከም ብዝሒ ሳህልኻ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከም ብዝሒ ሳህልኻ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nኣንጽሃና ጐይታ ካብ እከይ በደልና(2)\nነዛ ጸልማት ዓለም ከይከውን ዕድልና(2)\n[[/chorus]]\n\nከም ብዝሒ ሳህልኻ ኣምላኽ መሓረና(2)\nከምቲ ምሕረትካ’ውን ይቕሬታ ሃበና(2)\n\nንሕናስ ፈለጥናዮ ኣበሳ በደልና(2)\nፍጹም ኣንጽሃና ምሕረት ግበረልና(2)\n\nቅድሜኻ ወዲቕና ክንልምን ነዓኻ(2)\nጐይታ መሓረና ምውዳቕና ርኢኻ/2"
+    },
+    "ti_ro": {
+      "title": "Kem bzhi sahlkha",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nKem bzhi sahlkha amlakh meharena(2)\n[[/chorus]]\n\nKemti mhretka’wn yqreta habena(2)\nAntshana goyta kab key bedelna(2)\nNeza tselmat alem keykewn dlna(2)\nNhnas feletnayo abesa bedelna(2)\nFtsum antshana mhret gberelna(2)\nAmlakh ahzenaka key’wn geberna(2)\nYqre ktblena qdmekha wedeqna(2)\nQdmekha wediqna knlmn neakha(2)\nGoyta meharena mwdaqna rikha/2"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

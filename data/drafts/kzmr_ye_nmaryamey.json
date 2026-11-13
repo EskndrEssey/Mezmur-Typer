@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7947b50ef0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክዝምር'የ ንማርያመይ"
+  },
+  "singer": "ዘማሪ ቸርነት ሰናይ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክዝምር'የ ንማርያመይ",
+      "zemari": "ዘማሪ ቸርነት ሰናይ",
+      "lyrics": "[[chorus]]\nንብዓተይ ካብ ዓይነይ ደሪዛትለይ'ያ\nኣነስ ክዝምርየ ንድንግል ማርያም\nክፍኣት ናይ ሕይወተይ ንኸየስዕብ ስቓይ\nባሪኻቶ ቤተይ ኣደ ናይ ብዙሓን\n[[/chorus]]\n\nኣነ ክዝምር'የ ንማርያመይ\nናይ ፍቕራ በረኸት ኣትዩ ቤተይ\nረዳኢተይ እያ ኣብ ጊዜ ሓዘነይ\nከመስግና እየ ንድንግል ማርያመይ\n\nኣብ ድነ ናይ ጸልማት ተሪፈ ንበይነይ\nብናይ ፍቕሪ ኣእዳዋ ትድህስሶ ዓይነይ\nሓዘነይ ንብዓተይ ክነግር ንኣደይ\nሎሚ ብበረኸት መሊኣቶ ቤተይ\n\nሸኸም ከቢዱኒ ክሓዝን ክቑዝም\nድንግል መጺኣትኒ ደኺመ ከይተርፍ\nስለ ዘውጽኣትኒ ካብ መዓሙቕ ጉድጓድ\nየእዳወይ ዘርጊሐ ንኽብራ ክዝምር\nዘማሪ ኣለማየሁ ኡርጌ"
+    },
+    "ti_ro": {
+      "title": "Kzmr'ye nmaryamey",
+      "zemari": "zemari chernet senay",
+      "lyrics": "Ane kzmr'ye nmaryamey\nNay fqra berekhet atyu betey\nRedaitey ya ab gize hazeney\nKemesgna ye ndngl maryamey\nNbatey kab ayney derizatley'ya\nAnes kzmrye ndngl maryam\nKfat nay hywetey nkheyesb sqay\nBarikhato betey ade nay bzuhan\nAb dne nay tselmat terife nbeyney\nBnay fqri adawa tdhsso ayney\nHazeney nbatey knegr nadey\nLomi bberekhet meliato betey\nZanewe hywetey ti zferese\nBlmena dngl kwilu tehadese\nNbatey tselotey awyatey semia\nDngl ade goyta nrediet metsia\nShekhem kebiduni khazn kquzm\nDngl metsiatni dekhime keyterf\nSle zewtsatni kab meamuq gudgwad\nYedawey zergiha nkhbra kzmr"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

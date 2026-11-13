@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_97389777c0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰላም ሰፊኑለይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰላም ሰፊኑለይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nይኣክል ምስ በልካ የቋርጽ'ዩ\nቲ'ናይ ጥፍኣት ማዕበል ምንጩ የቋርጽ'ዩ\nጭንቀተይ ርሒቑ ብብዙሕ ምሕረትካ\nኣስተማቒረዮ እቲ ምሉእ ሰላምካ\n[[/chorus]]\n\nሰላም ሰፊኑለይ ቀሲኑ ልበይ\nኣብ ጎድነይ ምስ ኮንካ ለዋህ ኣምላኸይ (2)\nውዳሴ ምስጋና ኮይኑ ዕላማይ\nውሽጠይ መሊኡ'ሎ ፍቕርኻ ጐይታይ (2)\n\nነፍሰይ ከጸናንዓ ዋላ ኣይከኣልኩ\nሓይልኻ ዘንጊዐ ኮለል`የ ዝበልኩ\nሕጂስ ፈሊጠዮ ኵሉ'ቲ ሽግረይ\nምሳኻ'ዩ ዘሎ ምስጢር ናይ ሰላመይ\n\nንሞት ምስ ሰዓርካ ብዓቢይ ሓይልኻ\nጸልማት ተቐንጢጡ ደሚቑ ብርሃንካ\nወዲቖም ረጊፎም'ቶም ዝጻረሩኻ\nኤልሻዳይ እግዚአብሔር ግሩም'ዩ ስራሕካ"
+    },
+    "ti_ro": {
+      "title": "Selam sefinuley",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nWshtey meliu'lo fqrkha goytay (2)\n[[/chorus]]\n\nSelam sefinuley qesinu lbey\nAb godney ms konka lewah amlakhey (2)\nWdase msgana koynu lamay\nYakl ms belka yeqwarts'yu\nTi'nay tfat mabel mnchu yeqwarts'yu\nChnqetey rhiqu bbzuh mhretka\nAstemaqireyo ti mlu selamka\nNefsey ketsenana wala aykealku\nHaylkha zengia kolel`ye zbelku\nHjis feliteyo kwilu'ti shgrey\nMsakha'yu zelo mstir nay selamey\nMsay ntelekha yzhl'ti nfas\nHafkof zbl mabel yelen znqesaqes\nAnta qdus goyta nay selam haleqa\nHazeney abqiu bkehalnetka\nNmot ms searka babiy haylkha\nTselmat teqentitu demiqu brhanka\nWediqom regifom'tom ztsarerukha\nElshaday gziabher grum'yu srahka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_780f5aab97",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መርከበይ"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መርከበይ",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nእንክዓፍር ቲ`ዓቢይ ቀላይ\nነንሳፍፍ ብሓይሊ ኣዶናይ\nመርከብና ኮይኑ ኣምላኽና\nመህደሚና መሕብኢና (2)\n[[/chorus]]\n\nመርከበይ’ዩ መጽለልየይ\nማዕበል መሳገሪየይ\nጸጥታ ሰላም ሰፊኑ\nካብ ሕጂ መን የፍርሓኒ\n\nኣብ ሲና ሕጊ ዝሰርዐ\nብጽድቂ ህዝቡ ዝመርሐ\nናይ ሰላም ናይ ምሕረት ጐይታ\nሕይወት’ዩ መዕረፊ ቦታ (2)\n\nማዕበል እንተበዝሐ እምብዛ\nንስኻ ኢኻ ናይ ሕይወት ቤዛ\nተኸድኩ ብማእከል ሞት`ውን\nካብ ሕጂ ኣይናወጽን (2)"
+    },
+    "ti_ro": {
+      "title": "Merkebey",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "[[chorus]]\nMehdemina mehbina (2)\n[[/chorus]]\n\nMerkebey’yu metslelyey\nMabel mesageriyey\nTsetta selam sefinu\nKab hji men yefrhani\nNkafr ti`abiy qelay\nNensaff bhayli adonay\nMerkebna koynu amlakhna\nAb sina hgi zsera\nBtsdqi hzbu zmerha\nNay selam nay mhret goyta\nHywet’yu merefi bota (2)\nTemelisa’ta rgbit\nRahwa koynu nabelet\nTi seti atyu ab idna\nBerekhet selam koynulna (2)\nMabel ntebezha mbza\nNskha ikha nay hywet beza\nTekhedku bmakel mot`wn\nKab hji aynawetsn (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_cedf31fe01",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ድኅነት እትልምን"
+  },
+  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ድኅነት እትልምን",
+      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+      "lyrics": "[[chorus]]\nብሰላምታ ገብርኤል ብብስራት ገብርኤል\nሰላምታ ይብጻሕኪ ኪዳነ ምሕረት\n[[/chorus]]\n\nድኅነት እትልምን ንደቅኻ ኵሉ (2)\nናዛዜ ሕዙናን ኣሜን (2)\nገብርኤል ለልዑል መልኣከ ኃይሉ\n\nንኣምን ብኣኻ ኣማላዲ ኢኻ\nንሰለስቱ ደቂቅ ካብ ሓዊ ዘውጻእካ"
+    },
+    "ti_ro": {
+      "title": "Dhnet 'tlmn",
+      "zemari": "liqe mela'kt adhnena ikha mikael",
+      "lyrics": "[[chorus]]\nNazaze hzunan amen (2)\n[[/chorus]]\n\nDhnet tlmn ndeqkha kwilu (2)\nGebrel lelul melake haylu\nBselamta gebrel bbsrat gebrel\nSelamta ybtsahki kidane mhret\nNamn bakha amaladi ikha\nNselestu deqiq kab hawi zewtsaka\nNselestu deqiq zewtsaka kab ton\nHalhalta nay hawi zhul may gerkalom"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c7ceac68a6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክዝምረልካ ክቓንየልካ"
+  },
+  "singer": "ዘማሪ ኣለማየሁ ኡርጌ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክዝምረልካ ክቓንየልካ",
+      "zemari": "ዘማሪ ኣለማየሁ ኡርጌ",
+      "lyrics": "[[chorus]]\nልሳነይ ንዓኻ ክዝምረልካ’ዩ\nኣፈይ ብዕልልታ ክቃንየልካ’ዩ\nዘወትር ብቕዳሴ ከገልግለካ’የ\nኣንታ ፈጣርየይ ክበር ክብለካ’የ\n[[/chorus]]\n\nክዝምረልካ ክቓንየልካ\nኣነ ባርያኻ ከኽብረካ\nኣብ ቤትካ ክኣቱ ናብ መቕደስካ\nአማኑኤለይ ተመስገን ክብለካ\n\nኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ\nንዘይግብኣኒ ንዓይ ዓዲልካዮ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ\n\nኣምላኽ ንውዕለትካ ብምንታይ ክፈድዮ\nንዘይግብኣኒ ንዓይ ዓዲልካዮ\nካብ ዓመጻ ስሕተት ባሊህካ ኣውጺኻኒ\nታሪኸይ ለዊጥካ ልዕል ኣበልካኒ"
+    },
+    "ti_ro": {
+      "title": "Kzmrelka kqanyelka",
+      "zemari": "zemari alemayehu urge",
+      "lyrics": "[[chorus]]\nAmlakh nwletka bmntay kfedyo\nNzeygbani nay adilkayo\nKab ametsa shtet balihka awtsikhani\nTarikhey lewitka ll abelkani\n[[/chorus]]\n\nKzmrelka kqanyelka\nAne baryakha kekhbreka\nAb betka katu nab meqdeska\nAmanueley temesgen kbleka\nLsaney nakha kzmrelka’yu\nAfey bllta kqanyelka’yu\nZewetr bqdase kegelgleka’ye\nAnta fetaryey kber kbleka’ye\n\nKwilu sa kneqh nsmka kwds\nAgarey aqnia nab betka kgsgs\nAb awde mhretka dew ile kzmr\nNatka dnqi srah bafey kmskr"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

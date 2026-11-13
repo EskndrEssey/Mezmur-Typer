@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4a6738ec20",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፈጺሞ ሕገ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፈጺሞ ሕገ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nፈጺሞ ሕገ(2)በዮርዳኖስ ተጠምቀ\nፈጺሞ ሕገ ወኣስተርኣየ ገሃደ\n[[/chorus]]\n\nንዑ ንተሓጎስ        ፈጺሞ ሕገ\nኩላትና ሓቢርና\nኣብ ዮርዳኖስ ተጠምቀ\nመድኃኒ ጐይታና\nመጽሐፍ ዕዳ ኣዳም\nንኽድምስሰልና\nፍጥረታት ናይ ዓለም\nንዓልል ኩላትና\n\nኣብ ዮርዳኖስ ተጋህደ    ፈጺሞ ሕገ\nምስጢር ሰለስትነት\nእግዚአብሔር ኣብ መስከረ\nካብ ልዑል ሰማያት\nመንፈስቅዱስ ወረደ\nብኣምሳል ርግቢት\nክርስቶስ’ውን ተራእየ\nብቑመት ደቂ ሰብ"
+    },
+    "ti_ro": {
+      "title": "FeTsimo hge",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Fetsimo hge(2)beyordanos tetemqe\nFetsimo hge weasteraye gehade\nNu ntehagos fetsimo hge\nKulatna habirna\nAb yordanos tetemqe\nMedhani goytana\nMetshaf da adam\nNkhdmsselna\nFtretat nay alem\nNall kulatna\nAb yordanos tetemqe fetsimo hge\nMayat nmqdas\nAdamawi hatiat\nFtsum nmdmsas\nTnbit nmftsam\nNay nebiy milkiyas\nMedhani nay alem\nGoytana iyesus\nAb yordanos tegahde fetsimo hge\nMstir selestnet\nGziabher ab meskere\nKab lul semayat\nMenfesqdus werede\nBamsal rgbit\nKrstos’wn teraye\nBqumet deqi seb\nAb yordanos tetemqe fetsimo hge\nAraya nmkwan\nNhna wn kedna\nKntmeq nab kahn\nNay sslase wlud\nMnti knkewn\nAsmatna ktsehaf\nAb metshafe brhan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

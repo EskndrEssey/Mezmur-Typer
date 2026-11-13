@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_df7b446004",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣነ መን'የ ኢልና"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣነ መን'የ ኢልና",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nናይ ኣምላኽ ትእዛዛት ብኣና ተጣሒሱ\nብዝሙት ብሓሜት ኣካልና ረኺሱ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\n[[/chorus]]\n\nኣነ መን’የ ኢልና ርእስና ንመርምር\nኣብ ቅድሚ ኣምላኽና ኃጢኣትና ንዘክር\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\n\nናይ ሥጋ ጥቕሚ ርእዩ ልብና ሰዲዑ\nሞት ክሳብ ዝወስደና ንምንታይ ዘንጊዑ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\n\nኣሞጽ ኣብ ትንቢቱ ከም እተተንበዮ\nነፍስና ከይትጠሚ ቃሉ ንስምዓዮ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና"
+    },
+    "ti_ro": {
+      "title": "Ane men'ye ilna",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nBedelna amina rsna athitna\nBedelna amina nlemn amlakhna\n[[/chorus]]\n\nAne men’ye ilna rsna nmermr\nAb qdmi amlakhna hatiatna nzekr\n\nNay amlakh tzazat bana tetahisu\nBzmut bhamet akalna rekhisu\n\nNay ssga tqmi ryu lbna sediu\nMot ksab zwesdena nmntay zengiu\n\nNnsha zkhewn kab habena dme\nNmeles nab amlakh brhana keytseleme\n\nAmots ab tnbitu kem tetenbeyo\nNefsna keyttemi qalu nsmayo\n\nNay tsadqan sematat nay dngl tselota\nAyfeleyena ab qdmi lul goyta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

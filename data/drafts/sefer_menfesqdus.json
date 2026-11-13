@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_41231c0665",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰፈር መንፈስቅዱስ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰፈር መንፈስቅዱስ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nብኣኺ ኣምሊጠ ካብ ናይ ኣይሂ መዓት\nመድኅን ናይ ሕይወተይ ናይ ክርስቶስ ቤት\nንመንግስቲ ኣምላኽ ድልድል መሳገሪት\nወሃቢት መጋቢት መኣዲ ናይ ሕይወት (2)\n[[/chorus]]\n\nሰፈር መንፈስቅዱስ ማኅደረ መለኮት\nመዕረጊት ናይ ጸሎት ምዕራፈ ጸባዖት\nሐመረ ሰላም ኢየሩሳሌም (2)\n\nመሳልል መላእክት ያዕቆብ ዝረኣያ\nፈልፋሊት ናይ ፍቕሪ ኣምላኽ ዝሓረያ\nኣብሳሪት ንድኅነት ኣምሳል ናይ ኖህ መርከብ\nቃሉ ዝዘንበላ ሰማያዊት ጥበብ (2)\n\nንዑ ንትኣከብ ኣብ ውሽጣ ነጽልል\nካብ ውቅያኖስ ሓጢኣት በኣጋ ነግልል\nኣብ ኢየሩሳሌም ንጽናሕ ኣብ ደገ ሰላሙ\nንድኅነት ክንበቅዕ ንሥጋ ወደሙ (2)"
+    },
+    "ti_ro": {
+      "title": "Sefer menfesqdus",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nHamere selam iyerusalem (2)\n[[/chorus]]\n\nSefer menfesqdus mahdere melekot\nMeregit nay tselot mrafe tsebaot\nBakhi amlite kab nay ayhi meat\nMedhn nay hywetey nay krstos bet\nNmengsti amlakh dldl mesagerit\nWehabit megabit meadi nay hywet (2)\nMesall melakt yaqob zreaya\nFelfalit nay fqri amlakh zhareya\nAbsarit ndhnet amsal nay noh merkeb\nQalu zzenbela semayawit tbeb (2)\nAb kewhi hanitsu amlakh atsniuki\nAmanawit tabot tslatu zeleki\nDegetat nay siol aykhylukhn\nNzelalem'wn ftsum zeytnawets (2)\nNu ntakeb ab wshta netsll\nKab wqyanos hatiat beaga negll\nAb iyerusalem ntsnah ab dege selamu\nNdhnet knbeq nssga wedemu (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

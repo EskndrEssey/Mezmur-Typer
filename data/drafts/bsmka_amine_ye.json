@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_69344895a7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብስምካ ኣሚነ’የ"
+  },
+  "singer": "ዘማሪት ጽገሬዳ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብስምካ ኣሚነ’የ",
+      "zemari": "ዘማሪት ጽገሬዳ ጥላሁን",
+      "lyrics": "[[chorus]]\nበለስ `ተዘየፍረየ ዘይቲ`ውን ኣይሃሉ\nግን ምሳኻ ሕሊናይ ሙሉእ ሰላም`ዩ\nብበረኸት ኣቦታት ዝባረኽካኒ\nንእስራኤል ዘድሓንካዮም ክበረለይ\nዘልዓለም ተመስገን ልዕል በለለይ\n[[/chorus]]\n\nብስምካ ኣሚነ እየ ኣይትግደፈኒ\nናብ ዘሳድድ ጸላኢ ኣይትሃበኒ\nሕያዋይ ናተይ ጐይታ ሰላም ዕረፍተይ\nንጉዕዞይ ኣቕንዓለይ ቅድመይ ኩነለይ\n\nካብ ፈተና መውጽኢ መልሰይ ንስኻ\nንጸልማት ተስግረኒ ኵሉ ከፊትካ\nብምሕረትካ ይነብር ንብዙሕ ዘመን\nጸዊዑ መን ሓፊሩ ብኣኻ ዝኣምን\nከይሞተ ይነብር ብኣኻ ዝኣምን"
+    },
+    "ti_ro": {
+      "title": "Bsmka amine’ye",
+      "zemari": "zemarit Tsgereda Tlahun",
+      "lyrics": "Bsmka amine ye aytgdefeni\nNab zesadd tselai aythabeni\nHyaway natey goyta selam reftey\nNguzoy aqnaley qdmey kuneley\nBeles `tezeyefreye zeyti`wn ayhalu\nGn msakha hlinay mulu selam`yu\nBberekhet abotat zbarekhkani\nNsrael zedhankayom kbereley\nZelalem temesgen ll beleley\nKab fetena mewtsi melsey nskha\nNtselmat tesgreni kwilu kefitka\nBmhretka ynebr nbzuh zemen\nTsewiu men hafiru bakha zamn\nKeymote ynebr bakha zamn\nYqretakhan mhretkan ymerhani\nAqebn nqfatn keyedkmeni\nBtsdqi haset selam rkeb bakha\nBkhyat tkaze yakl nazzeni ikha\nFtsum zeywda’yu amlakhey wletka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

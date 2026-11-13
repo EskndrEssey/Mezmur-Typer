@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_c40cd136a8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕቀብኒ እግዝእትየ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕቀብኒ እግዝእትየ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "ዕቀብኒ እግዝእትየ እምነ አርዌ ዘሆጻ\nህየንተ ሰናይ ለሰብእ ዘይሁብ ዐመጻ"
+    },
+    "ti_ro": {
+      "title": "'Qebni 'gz'tye",
+      "zemari": "di/n efrem",
+      "lyrics": "Qebni gztye mne arwe zehotsa\nHyente senay leseb zeyhub ametsa"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

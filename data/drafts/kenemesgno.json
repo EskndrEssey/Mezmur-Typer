@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a16395ff14",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከነመስግኖ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከነመስግኖ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣብ ገማግም ባሕሪ ንጥፍኣት ቀሪብና\nሰራዊተ ፈርኦን ንሞት ከቢቡና\nብማእከል ባሕሪ ብንቑጽ ሰጊርና\nዕልል ንበል …\n[[/chorus]]\n\nዕልል ንበል ደስ ይበለና\nሰናይ ተግባር’ዩ ኣምላኽ ፈጺሙልና\nከነመስግኖ ከነመስግኖ(2)\nእንታይ ኣሎ ኣምላኽ ዝሰኣኖ\n\nሕይወትና ካብ ጥፍኣት ዝተበጀወና\nብሳህሉን ምሕረቱን ዝተዓገሰና\nግብርታቱ ሰናይ ርህሩህ ኣምላኽና\nዕልል ንበል …"
+    },
+    "ti_ro": {
+      "title": "Kenemesgno",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nKenemesgno kenemesgno(2)\n[[/chorus]]\n\nLl nbel des ybelena\nSenay tegbar’yu amlakh fetsimulna\nNtay alo amlakh zseano\nAb gemagm bahri ntfat qeribna\nSerawite feron nmot kebibuna\nBmakel bahri bnquts segirna\nLl nbel …\nHywetna kab tfat ztebejewena\nBsahlun mhretun zteagesena\nGbrtatu senay rhruh amlakhna\nLl nbel …\nKem bzhi hatiat ayfedeyenan\nKemti abesana ayqyemn’yu\nNkhura dengway bsahlu mlu’yu\nLl nbel …"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

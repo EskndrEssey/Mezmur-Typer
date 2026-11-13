@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_812dee0073",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብ ዝባነ ኪሩብ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብ ዝባነ ኪሩብ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nኣብ ዝባነ ኪሩብ ዝቕመጥ ከቢሩ\nብነበልባል እሳት ዝተሓጽረ ቀጽሩ\nዘምሩ ንእግዚአብሔር ንጐይታ ዘምሩ\nዝኸበረ እዩ ኣብ ሰማይ ኣብ ምድሩ (2)\n[[/chorus]]\n\nኢሳይያስ ርእዩ ብዙሕ ሓፈረ\nዝተፈርሐ እዩ ዝተኸብረ\nደጌታት ሰማይ`ውን ኣንቀጥቀጡ\nንቅዱስ ስሙ ክብሪ ክህቡ\n\nዙፋንካ ርእየ ኣምላኸይ ጐይታይ\nከመስግኑኻ ኣብ ላዕላይ ሰማይ\nዝተሓጎሰ እንከመስግነካ\nዘኽታም ኣይኹን እንበር ኣብ ቤትካ"
+    },
+    "ti_ro": {
+      "title": "Ab zbane kirub",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "Ab zbane kirub zqmet kebiru\nBnebelbal sat ztehatsre qetsru\nZemru ngziabher ngoyta zemru\nZkhebere yu ab semay ab mdru (2)\nIsayyas ryu bzuh hafere\nZteferha yu ztekhebre\nDegetat semay`wn anqetqetu\nNqdus smu kbri khbu\nZeyteqedese lemtsi zendedo\nKemey ykhl nkhemesgno\nBel fqedelna beti fqrkha\nBetka knatu nmsganakha\nZufanka rye amlakhey goytay\nKemesgnukha ab lalay semay\nZtehagose nkemesgneka\nZekhtam aykhun nber ab betka\nQne wdase ab zmelo bet\nKhwes goyta nefsey behaget\nKzmr tezey-tegebani\nSq tbl lsan ayadelkann"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7421f621d1",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እግዚአብሔር ብርሃነይ’ዩ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እግዚአብሔር ብርሃነይ’ዩ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nንምድረ በዳ ሰንጢቐዮ\nማዕበል ፈተና ሰጊረዮ\nምሕረቱ ካባይ ኣይረሓቐን\nፍቕሩ ካብ ልዕለይ ኣይጎደለን (2)\n[[/chorus]]\n\nእግዚአብሔር ብርሃነይ’ዩ ንጸላም ዘብርሆ\nመድኃኒየይ ዕረፍቲ ናይ ልበይ ናይ ሽግረይ መርሖ\n\nጠሚቱኒ’ዩ ርእሱ ኣድኒኑ\nተማጊቱለይ ኣፈይ ኮይኑ\nምኽሪ ጸላእቲ በቲንዎ\nነቲ ከሳሲ ኣሕፊርዎ\n\nካብ ጸላም ኃጢኣት ኣርሒቑኒ\nብብርሃን ጽድቂ መሪሑኒ\nኣምበላይ ፈረስ ተወጢሑ\nስዒሩ ጸላመይ ጋሊሁ (2)"
+    },
+    "ti_ro": {
+      "title": "'Gziabher brhaney’yu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nFqru kab lley aygodelen (2)\n[[/chorus]]\n\nGziabher brhaney’yu ntselam zebrho\nMedhaniyey refti nay lbey nay shgrey merho\nNmdre beda sentiqeyo\nMabel fetena segireyo\nMhretu kabay ayrehaqen\nTemituni’yu rsu adninu\nTemagituley afey koynu\nMkhri tselati betinwo\nNeti kesasi ahfirwo\nTebejyuni bwaga demu\nAmaqibuni ab selamu\nGezati tselam tesairom\nBrhan koynuley nzelalem (2)\nKab tselam hatiat arhiquni\nBbrhan tsdqi merihuni\nAmbelay feres tewetihu\nSiru tselamey galihu (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

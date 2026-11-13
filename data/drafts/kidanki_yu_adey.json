@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f2161b57a8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኪዳንኪ’ዩ ኣደይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኪዳንኪ’ዩ ኣደይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nተስፋ ናይ ኣዳም ናዛዚት ኃዘኑ\nነቢያት ተነበዩ ፍጻሜ ዘመኑ\nካብ ድንግል ዝውለድ ኣማኑኤል ግሩም\nሓቀኛ መድኃኒት ኮነላ ንዓለም\n[[/chorus]]\n\nኪዳንኪ ’ዩ ኣደይ ንዓይ ዘድኃነኒ\nምልጃኺ በዚሑ ዋሕስ’ውን ኮይኑኒ\nመከራይ ኣጥፊኡ ሰላም ኣፍሲሱለይ\nማርያም ንብዓትኪ’ዩ ዕርቂ ኣውሪዱለይ\n\nሥርወ እሴይ መንግሥት ዘርአ አሮን ክህነት\nኑሃሚን ውሉድኪ በሃገረ ስደት\nስደተኛ ኾይነ ይዅብልል ነበርኩ\nሽግር ኃሊፉለይ ብኣኺ ከበርኩ\n\nኣብ ቀራንዮ ቦታ ጐይታ ክብሪ ኣምላኽ\nንድኅነትና ኢሉ ክግረፍ ብጭጕራፍ\nውዕለቱ ዘኪረ ንዕኡ ከምልኽ\nብዓውታ እዝምር ማኅሌት ኪሩብ መልኣኽ"
+    },
+    "ti_ro": {
+      "title": "Kidanki’yu adey",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Kidanki ’yu adey nay zedhaneni\nMljakhi bezihu wahs’wn koynuni\nMekeray atfiu selam afsisuley\nMaryam nbatki’yu rqi awriduley\nTesfa nay adam nazazit hazenu\nNebiyat tenebeyu ftsame zemenu\nKab dngl zwled amanuel grum\nHaqenya medhanit konela nalem\nSsrwe sey mengsst zera aron khnet\nNuhamin wludki behagere sdet\nSdetenya khoyne ykwibll neberku\nShgr halifuley bakhi keberku\nMesagerit dldl ade goyta hywet\nBakhi terahwe matso edom genet\nDagmawi adam welidklna dhnet\nTnsae koynulna siol’wn tezemtet\nAb qeranyo bota goyta kbri amlakh\nNdhnetna ilu kgref bchgwiraf\nWletu zekire nu kemlkh\nBawta zmr mahlet kirub melakh"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

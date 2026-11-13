@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2d43e69d59",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንሥላሴ ኣመስግኑ"
+  },
+  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንሥላሴ ኣመስግኑ",
+      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
+      "lyrics": "[[chorus]]\nንሥላሴ ኣመስግኑ (2)\nናይ ምድሪ ፍጥረታት ዘምሩ ዕልል በሉ\n[[/chorus]]\n\nበስመ ኣብ ወወልድ ወመንፈስ ቅዱስ\nምስጋና ይግባእ ንሥሉስ ቅዱስ\nንዓለማት ኵሉ ዝፈጠረ ጐይታ\nምስጋና ይግባእ ክሳብ መወዳእታ\n\nእንተጠመኹ’ውን ብሥላሴ እጸግብ\nእንተ ጸማእኩ’ውን ብሥላሴ እረዊ\nሥላሴ እምባ`ዩ መጸግዕየይ\nንዓይ ይመርሓኒ ናይ እምነት ጎደና"
+    },
+    "ti_ro": {
+      "title": "NSslase amesgnu",
+      "zemari": "di/n mndaye brhanu",
+      "lyrics": "[[chorus]]\nNsslase amesgnu (2)\n[[/chorus]]\n\nNay mdri ftretat zemru ll belu\nBesme ab weweld wemenfes qdus\nMsgana ygba nsslus qdus\nNalemat kwilu zfetere goyta\nMsgana ygba ksab mewedata\nSurafel kirubel nzemesgnukha\nMelakt ab semay nzwdsukha\nNhna deqi adam’wn nzmrelka\nAb semay ab mdri ntsw nsmka\nNtetemekhu’wn bsslase tsegb\nNte tsemaku’wn bsslase rewi\nSslase mba`yu metsegyey\nNay ymerhani nay mnet godena"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f982242be4",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰማያውያን ኣብ ሰማይ"
+  },
+  "singer": "ዲ/ን ሃዋዝ ተገኘ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰማያውያን ኣብ ሰማይ",
+      "zemari": "ዲ/ን ሃዋዝ ተገኘ",
+      "lyrics": "[[chorus]]\nለይትን መዓልትን ዘየዕርፉ\nቅድሚ ዙፋኑ ዘመስግኑ\nሰራዊት ሰማይ መላእክቲ\nንኽብርኻ እዮም ኣመስገንቲ\n[[/chorus]]\n\nሰማያውያን ኣብ ሰማይ\nኩሎም ፍጥረታት ኣብ ዓለም\nይዝምሩልካ ንዓኻ ጐይታና\nይዝምሩልካ ንዓኻ ኣምላኽና\n\nኵሉ ዝሓዝካ ጐይታ ኢኻ\nኣብ ሰማይ ምድሪ ዝነገስካ\nኣምልኾ ቅኔ ንግሆ ምሸት\nንኽብርኻ እዩ ጐይታ ጎይቶት\n\nለይትን መዓልትን ዘየዕርፉ\nቅድሚ ዙፋኑ ዘመስግኑ\nሰራዊት ሰማይ መላእክቲ\nንኽብርኻ እዮም ኣመስገንቲ"
+    },
+    "ti_ro": {
+      "title": "Semayawyan ab semay",
+      "zemari": "di/n hawaz tegenye",
+      "lyrics": "[[chorus]]\nLeytn mealtn zeyerfu\nQdmi zufanu zemesgnu\nSerawit semay melakti\nNkhbrkha yom amesgenti\n[[/chorus]]\n\nSemayawyan ab semay\nKulom ftretat ab alem\nYzmrulka nakha goytana\nYzmrulka nakha amlakhna\n\nKwilu zhazka goyta ikha\nAb semay mdri znegeska\nAmlkho qne ngho mshet\nNkhbrkha yu goyta goytot\nWlet mesqelka bezihulna\nTami fqrkha mesituna\nKemey sq ybl ti lsana\nWletka koynu ab lbna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

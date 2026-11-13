@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_de91693b75",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብዓል ጸጋ ኣደ"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብዓል ጸጋ ኣደ",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nሰብ ኣብ ዘይብሉ ከተማ ሞት ኣብ ዝኸበቦ ጸልማት\nመጎስ ገንዘበይ ዘመደይ ጸሎትኪ ኣቕንዐ መንገደይ\nባና ኮይንክኒ መብራህቲ ደሚቑ ገዛይ ብኽብርኺ\nብሃሴት ፊተይ በርሀ ቲ`ሕዙን ገጸይ ተፈትሐ\n[[/chorus]]\n\nብዓል ጸጋ ኣደ ብዓል ጸጋ እመቤት\nሓፊስና ካባኺ ብዙሕ በረኸት\nንማዕበል ሓሊፍና ኢልና ማርያም\nክንዝምር’ውን ኢና ክሳብ ዘለዓለም (2)\n\nከምቲ ናተይ ኃጢኣት በደል ይግባኣኒ’ዩ መስቀል\nጽኑዕ ኪዳና ሸፊኑኒ ንብዓት ጸሎታ ኣድኂኑኒ\nእስኪ ክዛረብ ተግባራ ኣደ ምሕረት ምዃና\nጽዮን ኣእዳዋ ዘርጊሓ ዓሪቓትኒ’ያ ምስ ጐይታ"
+    },
+    "ti_ro": {
+      "title": "B'al Tsega ade",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "Bal tsega ade bal tsega mebet\nHafisna kabakhi bzuh berekhet\nNmabel halifna ilna maryam\nKnzmr’wn ina ksab zelealem (2)\nSeb ab zeyblu ketema mot ab zkhebebo tselmat\nMegos genzebey zemedey tselotki aqna mengedey\nBana koynkni mebrahti demiqu gezay bkhbrkhi\nBhaset fitey berha ti`hzun getsey tefetha\nKemti natey hatiat bedel ygbaani’yu mesqel\nTsnu kidana shefinuni nbat tselota adhinuni\nSki kzareb tegbara ade mhret mkwana\nTsyon adawa zergiha ariqatni’ya ms goyta\nMelk gramay’khi tsbaqey nab meqdesu metewitey\nNakhi hze tebeqa t’nay mot tarikh abqea\nLl kblye kab lbey semiru kwilu hasabey\nDngl feqar ya selam nkhbra ysged alem"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

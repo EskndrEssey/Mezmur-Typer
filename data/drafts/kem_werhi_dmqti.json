@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_348e298a80",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከም ወርሒ ድምቕቲ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከም ወርሒ ድምቕቲ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nካብ ቴክታን በጥሪቃን ሻውዓይ ወለዶ\nካብ ብሩኻት ዘርኢ ድንግል መጺእኪ'ዶ\nደጊም ሰላም'ዩ እንሕጐሰሉ\nዘመኑ ምሕረት'ዩ ዕልል ዕልል በሉ\n[[/chorus]]\n\nከም ወርሒ ድምቕቲ ከም ጸሓይ ብርህቲ\nእነግረኪ ናይ ልበይ ድንግለይ ርህርህቲ\n\nናይ ቃና ገሊላ ቅዱስ ልማኖኺ\nቅልጡፍ መልሲ ሒዙ መጺኡ ካብ ወድኺ\nዝሰኣነ የለን ለሚኑ ንዓኺ\nኣብ የማንኪ ይነብር ዝተማሕጸነኪ\n\nተኽሊ ናይ ሊባኖስ ጥዑም ሽታ ናርዶስ\nጸጋኺ ብዚኁ ንዓና ክቕድስ\nባርኺ ደቅኺ ድንግል ሓደራኺ\nብዝማሬን ዕልልታን ንጽዉዕ ንስምኪ"
+    },
+    "ti_ro": {
+      "title": "Kem werhi dmqti",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Kem werhi dmqti kem tsehay brhti\nNegreki nay lbey dngley rhrhti\nKab tektan betriqan shaway weledo\nKab brukhat zeri dngl metsiki'do\nDegim selam'yu nhgoselu\nZemenu mhret'yu ll ll belu\nNay qana gelila qdus lmanokhi\nQltuf melsi hizu metsiu kab wedkhi\nZseane yelen leminu nakhi\nAb yemanki ynebr ztemahtseneki\nKurat haben ikhi nkrstiyan wegen\nMba tsyon ikhi nana namn\nBtesfa nnebr zelona ab tslalki\nZeybers kidan'yu amlakh adiluki\nTekhli nay libanos tum shta nardos\nTsegakhi bzihu nana kqds\nBarkhi deqkhi dngl haderakhi\nBzmaren lltan ntswu nsmki"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

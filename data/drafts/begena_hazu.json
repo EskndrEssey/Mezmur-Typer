@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_28ec7214f9",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "በገና ሓዙ"
+  },
+  "singer": "ዘማሪ ቸርነት ሰናይ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "በገና ሓዙ",
+      "zemari": "ዘማሪ ቸርነት ሰናይ",
+      "lyrics": "[[chorus]]\nበገና ሓዙ ከበሮ ውቕዑ\nካብ ዓለም ሰማይ መላእክት ንዑ\nውሽጢ መቕደሱ ቁሙ ካህናቱ\nተመስገን በሉ ንእግዚአብሔር ምስጋና ኣቕርቡ\n[[/chorus]]\n\nያሬድ ካብ ኣዕዋፍ ብዝሰምዖ ዜማ ተመስገን በሉ ንእግዚኣብሔር(2)\nከነቕርበሉ ፍረ ከናፍርና        >>\nትሕቲ ጽላሉ ስለ ዘዕረፈና       >>\nንዘድሓነና ኣብ ጊዜ መከራና      >>\n\nሓቂ ዝፈቱ ምሕረት ዝሃበና ተመስገን በሉ ንእግዚኣብሔር (2)\nሰናይ ገሩልና ዘልዓለም ንዓና   >>\nፍሉይ በልዎ ሓያል’ዩ ጐይታና >>\nከነቕርበሉ ንስሙ ምስጋና      >>"
+    },
+    "ti_ro": {
+      "title": "Begena hazu",
+      "zemari": "zemari chernet senay",
+      "lyrics": "Begena hazu kebero wqu\nKab alem semay melakt nu\nWshti meqdesu qumu kahnatu\nTemesgen belu ngziabher msgana aqrbu\nYared kab awaf bzsemo zema temesgen belu ngziabher(2)\nKeneqrbelu fre kenafrna\nThti tslalu sle zerefena\nNzedhanena ab gize mekerana\nNetom gfuat nzteshegeru temesgen belu ngziabher (2)\nZmagotelom abo dkhatat\nNezymelu bkebero tsenatsl\nNzredana ll (2) nbel\nHaqi zfetu mhret zhabena temesgen belu ngziabher (2)\nSenay gerulna zelalem nana\nFluy belwo hayal’yu goytana\nKeneqrbelu nsmu msgana\nAb semay men’yu zwedadereka temesgen belu ngziabher(2)\nAmlakh amalkht goyta goytot ikha\nMdri tenqetqt tzemr nkhbru\nSemay’wn yrad ynawets teferu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f6ebf9ad44",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መፍቀሬ ህጻናት"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መፍቀሬ ህጻናት",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nከምቲ ብሩህ ሰማይ ደመና ዘይደየቦ\nከምቲ ንጹሕ ሓሪ ቀለም ዘይዓለቦ\nጻዕዳ እዩ ኣእምሮይ ነውሪ ዘይለገቦ\nኣብ እግሪ ኣቦታተይ ቃልካ ክቐምስ\nትግሃት ዓድለኒ ናብ ቤትካ ክግስግስ\n[[/chorus]]\n\nከምቲ እሙን ቃልካ ንዑ’ባ በለና\nክንስጉም ናባኻ ኢድካ ትሕቆፈና\nመፍቀሬ ህጻናት ኢየሱስ ክርስቶስ\nቍልዕነትና ባርኽ ክንዓቢ ብመንፈስ\n\nውልዶ ሰብነተይ ከይደኸመት ረብሪባ\nከም ብተይ ክትዘልል መዝሙርካ ጸጊባ\nልምሉማት ኣእዳወይ ኣልምደን ሸብሸባ\nሻቡ ብምስጋና ዕብየትካ ክትምስክር\nኣይክትደክምን’ያ ብስምካ ክትዝምር\n\nትርጉም ምፍጣር ኣዳም ምስጋና እንተኾይኑ\nቁመት እንተወሰኽኩ ነፍሰይ ብድውኑ\nእንታይ ክዓብሰለይ ዕብየት ሥጋ በይኑ\nሕቖፈኒ ጐይታይ ብማሙቕ ፍቕርኻ\nምስ ጸጋን ጥበብን ክዓቢ ኣብ ቤትካ"
+    },
+    "ti_ro": {
+      "title": "Mefqere hTsanat",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Kemti mun qalka nu’ba belena\nKnsgum nabakha idka thqofena\nMefqere htsanat iyesus krstos\nQwilnetna barkh knabi bmenfes\nKemti bruh semay demena zeydeyebo\nKemti ntsuh hari qelem zeyalebo\nTsada yu amroy newri zeylegebo\nAb gri abotatey qalka kqems\nTghat adleni nab betka kgsgs\nWldo sebnetey keydekhemet rebriba\nKem btey ktzell mezmurka tsegiba\nLmlumat adawey almden shebsheba\nShabu bmsgana byetka ktmskr\nAyktdekmn’ya bsmka ktzmr\nLbey bdnglu nkhfat za alem\nYqedes hdego bqalka yselem\nQalka ndyu snqey amlakhawi qelem\nNtay senay alo nskha zeyblu\nMsakha yhsheni hywet zrekhbelu\nTrgum mftar adam msgana ntekhoynu\nQumet ntewesekhku nefsey bdwnu\nNtay kabseley byet ssga beynu\nHqofeni goytay bmamuq fqrkha\nMs tsegan tbebn kabi ab betka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

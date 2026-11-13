@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b8180866c7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኵሉ ዝኾነ ንሰናይ’ዩ"
+  },
+  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኵሉ ዝኾነ ንሰናይ’ዩ",
+      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
+      "lyrics": "[[chorus]]\nሓጎስ ምስ ሓዘን ብኽያት ስሓቕ\nንግሆን ምሸትን ይፈራረቕ\nፍቓድካ ይኹን ኢልና ኣሎና\nኣሜን ብኣካ ተሓጉስና\n[[/chorus]]\n\nኵሉ ዝኾነ ንሰናይ’ዩ(2)\nኣብ ሰማይ ምድሪ ዝበልካዮ\nኣምላኽ ስራሕካ ትኽክል`ዩ\n\nማይ እንተመልአ እቲ መርከብና\nእሾኽ እንተኾነ መንገድና\nኣይንሽበርን ተ’ኣሚና\nኣምላኽ ንኣኻ እንተ ሒዝና\n\nተተሰደድኩ ካብ ሃገረይ\nእንተደኸመ እቲ ጉልበተይ\nኣምላኽ ብኣኻ ሰብ ኮይነ’የ\nንወገነይ`ውን ተሪፈየ"
+    },
+    "ti_ro": {
+      "title": "Kwilu zkhone nsenay’yu",
+      "zemari": "zemarit werqnesh haylu",
+      "lyrics": "[[chorus]]\nAmen baka tehagusna\n[[/chorus]]\n\nKwilu zkhone nsenay’yu(2)\nAb semay mdri zbelkayo\nAmlakh srahka tkhkl`yu\nHagos ms hazen bkhyat shaq\nNghon mshetn yferareq\nFqadka ykhun ilna alona\nMay ntemela ti merkebna\nShokh ntekhone mengedna\nAynshbern te’amina\nAmlakh nakha nte hizna\nMwhad mbzah felitna ina\nMwtan knmesl hyawan ina\nNtselatna sirkalna\nNay fetarina natka kwenna\nTetesededku kab hagerey\nNtedekheme ti gulbetey\nAmlakh bakha seb koyne’ye\nNwegeney`wn terifeye"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

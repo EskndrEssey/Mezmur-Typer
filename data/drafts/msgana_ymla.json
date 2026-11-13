@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_42c6c4724d",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና ይምላእ"
+  },
+  "singer": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና ይምላእ",
+      "zemari": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+      "lyrics": "[[chorus]]\nመን’ዩ ከም ኣምላኽ በዓል ዝና\nዝፋኑ ዘንብር ኣብ ደመና\nኣብ ማእከል እሳት ዝመላለስ\nንድምጺ ማዕበል`ውን ዝግስጽ\n[[/chorus]]\n\nምስጋና ይምላእ ኣብ ጉባኤ\nስሙ ድንቂ’ዩ ኣዶናይ\nበገና ሓዙ ቃንዩሉ\nንመድኅን ዓለም ዕልል በሉ\n\nርእሲ ጠቢባን ጥበበኛ\nፍትሒ ዘውጽእ ቅኑዕ ዳኛ\nበዓል ግርማ’ዩ ዝተፈርሐ\nምስጢር ዕምቆቱ ዝሰፍሐ\n\nሓያላን ፈርሑ ክብሩ ርእዮም\nነፍሳት ዘለሉ ካብ ሞት ወጺኦም\nመጽንዒና’ዩ ትምክሕትና\nዝፋኑ ይብጻሕ ምስጋናና"
+    },
+    "ti_ro": {
+      "title": "Msgana ymla'",
+      "zemari": "zemri ngoyta zemri nsmu",
+      "lyrics": "Msgana ymla ab gubae\nSmu dnqi’yu adonay\nBegena hazu qanyulu\nNmedhn alem ll belu\nMen’yu kem amlakh beal zna\nZfanu zenbr ab demena\nAb makel sat zmelales\nNdmtsi mabel`wn zgsts\nRsi tebiban tbebenya\nFthi zewts qnu danya\nBeal grma’yu zteferha\nMstir mqotu zsefha\nHaylun qltsmun tedegifna\nSmu tsewina dhinna ina\nMen’yu zqawem zefrhana\nTbat zesnq abo alona\nHayalan ferhu kbru ryom\nNefsat zelelu kab mot wetsiom\nMetsnina’yu tmkhtna\nZfanu ybtsah msganana"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

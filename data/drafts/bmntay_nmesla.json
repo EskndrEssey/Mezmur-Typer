@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_52c4094342",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብምንታይ ንመስላ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብምንታይ ንመስላ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nጽላት ሙሴ ኢኺ ናይ ምሕረት ቃልኪዳን\nናይ ኣሮን መሳልል ናይ ኣብርሃም ድንኳን\nመውጽኢት ናይ ብርሃን ናይ ኖህ ድንቂ መርከብ\nሓፍቲ መላእክቲ ርግቢት ርህርህቲ (2)\n[[/chorus]]\n\nብምንታይ ንመስላ ንድንግል ማርያም\nምሳሌ የብላን (2) ንክብራ ዝመስል\n\nኣኽሊል ናይ ሰሎሞን ናይ ኣሮን በትሪ\nመሰንቆ ናይ እዝራ ናይ ጌዴዎን ጸምሪ\nድንግል እመቤትያ ዕጽውቲ ኣፍደገ\nኮይና ዝተረኽበት ናይ ኣምላኽ መሕደሪት (2)\n\nካብ መዓር ይጥዕም ናይ ድንግል መኣዛ\nኣምላኽ ሓቚፋ’ላ ብኣእዳዋ ሒዛ\nዓለም ዝደኃነ ብወድኺ እዩ’ሞ\nኣዴና ጽዮን ይብጻሕኪ ምስጋና (2)"
+    },
+    "ti_ro": {
+      "title": "Bmntay nmesla",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nHafti melakti rgbit rhrhti (2)\n[[/chorus]]\n\nBmntay nmesla ndngl maryam\nMsale yeblan (2) nkbra zmesl\nTslat muse ikhi nay mhret qalkidan\nNay aron mesall nay abrham dnkwan\nMewtsit nay brhan nay noh dnqi merkeb\nAkhlil nay selomon nay aron betri\nMesenqo nay zra nay gedewon tsemri\nDngl mebetya tswti afdege\nKoyna zterekhbet nay amlakh mehderit (2)\nAde nay qdusan ngsti ahzab\nZtesekemet hawi sate melekot\nBrhan tkhunelna tselmatna qentita\nTedhnena lomi kabzi alem tata (2)\nKab mear ytm nay dngl meaza\nAmlakh haqwafa’la badawa hiza\nAlem zdehane bwedkhi yu’mo\nAdena tsyon ybtsahki msgana (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

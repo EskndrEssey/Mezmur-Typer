@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d168310262",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቀስተ ደመና"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቀስተ ደመና",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nጐይታ ምልክት ክህበኩም’ዩ\nናይ ድንግል ፍሬ ከድሕነኩም’ዩ\nናይ ኣዳም ታሪኽ ተገልበጠ\nሞት ብሞት ናይ ወልድ ስለዝተዋሕጠ\n[[/chorus]]\n\nቀስተ ደመና ናይ ኖህ ቃልኪዳን መመኪሒትና\nቃል ኣትዩ ብኣኺ ከየጥፍኣና ብሞት ሙስና\nፈውሲ ወሊድኪ ንጥፉእ ዓለም ደስታ ዝኾንኪ\nሰንደቕና ኢኺ ንዓለም እነርእየኪ\n\nንዜማታትኪ ኣሰሊፉና\nከተማ ዓወት ከተማ ዑቕባ\nመሊኡ ይፈሰስ ጸጋ ምልጃኺ\nክብርና በዝሐ እንከነኽብረኪ\n\nፍቕሪ እዩ’ሞ ዕላማኡ ንዓና\nወዲ እግዚአብሔር ኣብ እሙን ጓሳና\nስለ ኣባጊዑ ምስ መጸ መድኅን\nሓረግ ዝኾኖ ከማኺ የለን"
+    },
+    "ti_ro": {
+      "title": "Qeste demena",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Qeste demena nay noh qalkidan memekihitna\nQal atyu bakhi keyetfana bmot musna\nFewsi welidki ntfu alem desta zkhonki\nSendeqna ikhi nalem neryeki\nGoyta mlkt khbekum’yu\nNay dngl fre kedhnekum’yu\nNay adam tarikh tegelbete\nMot bmot nay weld sleztewahte\nNzematatki aselifuna\nKetema awet ketema uqba\nMeliu yfeses tsega mljakhi\nKbrna bezha nkenekhbreki\nAbsiru melakh zedenq neger\nKem tweldi weld beti zeymrmer\nGoyta blbu zsealeki\nKwilu ftret btst iluki\nFqri yu’mo lamau nana\nWedi gziabher ab mun gwasana\nSle abagiu ms metse medhn\nHareg zkhono kemakhi yelen"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

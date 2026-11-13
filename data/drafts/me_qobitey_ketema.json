@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_199804e3f3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መዕቆቢተይ ከተማ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መዕቆቢተይ ከተማ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nካብዛ ክፍእቲ እዋን ደጊኣ ዝማዕረገ\nግንብንብ ዝባህሪኣ ህድኣታ ዝተዘርገ\nወዲ ሰብ ዘይቀስነላ ኣንፈቱ ጠፊእዎ\nሳልኣ እምበር ማርያመይ የምልጥ መን ኢልዎ (2)\n[[/chorus]]\n\nመዕቆቢተይ ከተማ `ታ ብሰላም ዝነብረላ\nድንግል ማርያመይ ተክሊ ጽላለይ ልበይ ዘዕርፈላ\nኣለኒ ኢለ እቲ ዝምክሖ\nጸሎታ'ዩ ንለይተይ ዘውግሖ\n\nኣብራኸይ ወለል ኢለን ኮይንወን ከይዕጸፋ\nሃለኽለኽ ተመንዩወን ድሕሪ ሰበን ከይተርፋ\nኮፍ ኢለ ዘዕርፈላ ትንፋሰይ ንኽመልስ\nጽዮነይ ጽላል ጉዕዞይ ህላወይ እተውሕስ (2)\n\nሽውሽውታ ንፋስ ባሕሪ ክሓንን ዘይኣመሉ\nእቲ ጥዑም ጸሓይ ንግሆ ክንድር ተቐይሩ\nዝናብ ኣይሂ ክወርድ ተሰንዩ ብነጎድጓድ\nዑቕባ ነፍሰይ ኢያ ድንግል ፍርሒ ልበይ ተወግድ (2)\nዲ/ን ተስፋዓለም"
+    },
+    "ti_ro": {
+      "title": "Me'qobitey ketema",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nTsyoney tslal guzoy hlawey tewhs (2)\n[[/chorus]]\n\nMeqobitey ketema `ta bselam znebrela\nDngl maryamey tekli tslaley lbey zerfela\nAleni ile ti zmkho\nTselota'yu nleytey zewgho\nKabza kfti wan degia zmarege\nGnbnb zbahria hdata ztezerge\nWedi seb zeyqesnela anfetu tefiwo\nSala mber maryamey yemlt men ilwo (2)\nAbrakhey welel ilen koynwen keytsefa\nHalekhlekh temenyuwen dhri seben keyterfa\nKof ile zerfela tnfasey nkhmels\nZeyhlel tselayey kgwatyeni bhasab\nMstir gudey qeliu ntfat krebareb\nRgat lbey bhigu abesay zshefene\nLmanoa'do aykonen wrwr kwinat zemkene (2)\nShwshwta nfas bahri khann zeyamelu\nTi tum tsehay ngho kndr teqeyru\nZnab ayhi kwerd tesenyu bnegodgwad\nUqba nefsey iya dngl frhi lbey tewegd (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

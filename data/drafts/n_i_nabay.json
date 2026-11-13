@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9621c4ca47",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዒ ናባይ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዒ ናባይ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nምስ ፍቁር ወድኺ ንዒ ናባይ\nምስ መድኃኔ ዓለም\nምስ ኣዳም ምስ ሔዋን\nካብ ሰባት ቀዳሞት\nክትባርኽኒ ንዒ ናባይ\n[[/chorus]]\n\nንዒ ናባይ (2) ኣደ ጐይታይ ንዒ ናባይ\n\nምስ መልኣከ ምሕረት ንዒ ናባይ\nቅዱስ ሚካኤል\nምስ መልኣከ ብስራት\nቅዱስ ገብርኤል\nክትባርኽኒ ንዒ ናባይ\n\nምስ ኤፍሬም ሶርያዊ ንዒ ናባይ\nምስ ኣባ ሕርያቆስ\nብውዳሴን ቅዳሴን\nዝሃንጹ ብመንፈስ\nክትባርኽኒ ንዒ ናባይ"
+    },
+    "ti_ro": {
+      "title": "N'i nabay",
+      "zemari": "di/n efrem",
+      "lyrics": "Ni nabay (2) ade goytay ni nabay\nMs fqur wedkhi ni nabay\nMs medhane alem\nMs adam ms hewan\nKab sebat qedamot\nKtbarkhni ni nabay\nMs melake mhret ni nabay\nQdus mikael\nMs melake bsrat\nQdus gebrel\nKtbarkhni ni nabay\nMs abona abrham ni nabay\nMs yshaq yaqob\nBsenay tegbarom\nZesmeru amlakhom\nKtbarkhni ni nabay\nMs efrem soryawi ni nabay\nMs aba hryaqos\nBwdasen qdasen\nZhantsu bmenfes\nKtbarkhni ni nabay\nNzeyteqeskwom ni nabay\nQdusan kwilatom\nBamde demena\nHabirki msatom\nKtbarkhni ni nabay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

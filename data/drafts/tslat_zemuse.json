@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d88466b6f6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጽላት ዘሙሴ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጽላት ዘሙሴ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nደስታ ንልቢ ፍሥሐ ሓጎስ ማርያም ንጽህት\nመቐረት ሕይወት ጥዑም መኣዛ ምእዝቲ እፍረት\nማርያመየ (3)\n[[/chorus]]\n\nጽላት ዘሙሴ ዕጸ ጳጦስ ዘሲና (2)\nጸናጽል(5) ዘኣሮን ካህን\n\nመሳልል ያዕቆብ ገነት ተሳግር ቅድስቲ ኣዴና\nጥዕምቲ ዜማ ጸናጽል ኣሮን ተኽሊ ናይ ሲና\nድንግለየ(3)\n\nየለን ከማኺ ልበይ ዘፍቅሮ ፍጹም ዝረትዖ\nንዒ ማርያመይ ካብ ሰማይ ሰማይ ምስ ኣልፋ ወኦ\nጽላለየ (3)"
+    },
+    "ti_ro": {
+      "title": "Tslat zemuse",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nTslat zemuse tse patos zesina (2)\n[[/chorus]]\n\nTsenatsl(5) zearon kahn\nDesta nlbi fssha hagos maryam ntsht\nMeqeret hywet tum meaza mzti fret\nMaryameye (3)\nMesall yaqob genet tesagr qdsti adena\nTmti zema tsenatsl aron tekhli nay sina\nDngleye(3)\nDmtsi tselotey hasabat lbey brhan hywetey\nRwyet ntsmay tsgab tmetey medhanit nefsey\nTsyoneye(3)\nYelen kemakhi lbey zefqro ftsum zreto\nNi maryamey kab semay semay ms alfa weo\nTslaleye (3)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

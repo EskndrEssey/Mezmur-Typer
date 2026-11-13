@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_e5fefc684e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕልል ዕልልንበል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕልል ዕልልንበል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nዘደንቕ ጥበብ’ዩ ፍጹም ዘይምርመር\nብሕሊና ናይ ሰብ ክብጻሕ ዘይክእል\nሃሪ ወርቂ እንክትፈትል ብስራት ሰምዐት\nጥበብ ናይ እግዚአብሔር ይኹነለይ በለት\n[[/chorus]]\n\nዕልል ዕልል ንበል ኩላትና ብሕብረት\nድንግል ብድንግላ ጸኒሳ ወለደት\nስሙ’ውን ኣማኑኤል በለት\n\nትሕትናኣ ርእዩ ናታ ቅድስና\nሕፍቲ ዘይርከባ ኣደ ናይ ኣምላኽና\nእግዚአብሔር መረጻ ኣብኣ’ውን ሓደረ\nብፍጹም ድንግልና ካብኣ ተወለደ\n\nምስጢራዊት ኣደ ዕጽውቲ ከተማ\nማንም ዘይከፍታ ኣደ ናይ ኣምላኽና\nንጠምት ናብ ምብራቕ መውጽኢት ናይ ጸሓይ\nንለምን ኩልና ናብ ኣደ ኣዶናይ"
+    },
+    "ti_ro": {
+      "title": "'Ll 'llnbel",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Ll ll nbel kulatna bhbret\nDngl bdngla tsenisa weledet\nSmu’wn amanuel belet\nZedenq tbeb’yu ftsum zeymrmer\nBhlina nay seb kbtsah zeykl\nHari werqi nktfetl bsrat semat\nTbeb nay gziabher ykhuneley belet\nThtnaa ryu nata qdsna\nHfti zeyrkeba ade nay amlakhna\nGziabher meretsa aba’wn hadere\nBftsum dnglna kaba tewelede\nMenfesqdus mela bet nay zekaryas\nSelamta aqrebet elsabet bhagos\nHtsan teserasere ab kersa bdesta\nBtsti’la meskeret nweladit goyta\nMstirawit ade tswti ketema\nManm zeykefta ade nay amlakhna\nNtemt nab mbraq mewtsit nay tsehay\nNlemn kulna nab ade adonay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

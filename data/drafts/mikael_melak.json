@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_153758819e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሚካኤል መልኣክ"
+  },
+  "singer": "ዲ/ን ኣብርሃም መሓሪ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሚካኤል መልኣክ",
+      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
+      "lyrics": "[[chorus]]\nሚካኤል መልኣክ እመላእክት መኑ ከማከ ልዑል\nሐመልማለ ወርቅ ልብሱ ዘመብረቅ ሊቀ መላእክት\n[[/chorus]]\n\nዲ/ን ኤፍሬም"
+    },
+    "ti_ro": {
+      "title": "Mikael melak",
+      "zemari": "di/n abrham mehari",
+      "lyrics": "Mikael melak melakt menu kemake lul\nHamelmale werq lbsu zemebreq liqe melakt"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

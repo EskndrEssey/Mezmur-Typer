@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d277387d2b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፍቕሪ’ኻ ዘልዓለም"
+  },
+  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፍቕሪ’ኻ ዘልዓለም",
+      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
+      "lyrics": "[[chorus]]\n`ቶም ሰረገላታቱ ፈጠኑ\nፍላጻ እሳት ሓዛ ኣእዳዉ\nኣይሓልፍን’ዩ ኣይሰዓርን\nንእግዚአብሔር ኣምላኽ ዝመስል የለን\n[[/chorus]]\n\nፍቕሪ’ኻ ዘልዓለም ከማኻ የለን\nከሃሊ ኢኻ ጐይታ ፍጹም ዘይርታዕ\n\nነጎዳ ይነጉድ ሰማይ ጸልሚቱ\nንኽብሩ ርእዮም ኣሕሉቕ ሃደሙ\nዘፍርሕ ሓያል መብረቕ’ዩ ድምጹ\nደጌታት ሲኦል ተነዋወጹ\n\nኣብ ዕጹው ገዛ ምእታው ትፈልጥ\nጐይታይ ካብ ኢድካ መን’ዩ ዘምልጥ\nሓጎስ ናይ ቤተይ ምንጪ ዕልልታይ\nበቲ ቅብእኻ በሪሁ ገጸይ"
+    },
+    "ti_ro": {
+      "title": "Fqri’kha zel'alem",
+      "zemari": "di/n 'zra ha/maryam",
+      "lyrics": "Fqri’kha zelalem kemakha yelen\nKehali ikha goyta ftsum zeyrta\n`Tom seregelatatu fetenu\nFlatsa sat haza adawu\nAyhalfn’yu aysearn\nNgziabher amlakh zmesl yelen\nNegoda ynegud semay tselmitu\nNkhbru ryom ahluq hademu\nZefrh hayal mebreq’yu dmtsu\nDegetat siol tenewawetsu\nKemti bedelna aytfredena\nMoytka ikha’mo ketedhnena\nMhret tlgs nkwilu alem\nFqri ikha’mo nzelalem\nAb tsuw geza mtaw tfelt\nGoytay kab idka men’yu zemlt\nHagos nay betey mnchi lltay\nBeti qbkha berihu getsey"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

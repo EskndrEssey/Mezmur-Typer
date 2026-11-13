@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9db44a4f51",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕግበት ፍቕራ ዘንቀሎ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕግበት ፍቕራ ዘንቀሎ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nኣደ መድኅነይ ክብል ዘወትር ወግሐ ጸብሐ\nነናሻዕ እድሰት ጭንቀት ውሽጠይ ገኒሐ (2)\nካብ ልምዲ ‘ይኮነን’ኮ ዝደጋገም ብህሎ\nመንፈስ‘ዩ ቅኒቱ ከቶ የለን ዝብልሎ (2)\n[[/chorus]]\n\nዕግበት ፍቕራ ዘንቀሎ\nልበይ ይጐስዕ ኣሎ\nመዝሙር ምስጋና ፣\nበረኸት ስማ ዘሕደረሉ\nድንግል ማርያም ክብል ነቒሉ\n\nኣብታ ጽምዋ ቤተይ ቀባሕባሕ ምንጋሡ\nጽምዋስ ከም ሻሙ ናፍቖታ’ምበር ብኢሱ(2)\nግን ኵሉ ክርስዖ ድምጻ ምስ ሰማዕኩ\nትዝ’ብለኒ ዅሉ ከምዛ ብተይ ‘ናዘለልኩ(2)\n\nንዘይትመውት ነፍሰይ መን ኣለዋ ተስፋ\nብዘይካ ዋሕሳ ዋሕስ መን ተደጊፋ(2)\nሥጋይ’ኳ እንተቕበጸት ከይሰምር ፍታዋ\nነፍሰይ ኣሚናላ ካብ ጸልማት ክትሕልዋ(2)"
+    },
+    "ti_ro": {
+      "title": "'Gbet fqra zenqelo",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Gbet fqra zenqelo\nLbey ygos alo\nMezmur msgana ,\nBerekhet sma zehderelu\nDngl maryam kbl neqilu\nAde medhney kbl zewetr wegha tsebha\nNenasha dset chnqet wshtey geniha (2)\nKab lmdi ‘ykonen’ko zdegagem bhlo\nMenfes‘yu qnitu keto yelen zbllo (2)\nAbta tsmwa betey qebahbah mngasu\nTsmwas kem shamu nafqota’mber bisu(2)\nGn kwilu krso dmtsa ms semaku\nTz’bleni kwilu kemza btey ‘nazelelku(2)\nQbti merat metset merawi ‘khetila\nBdemena semay kbur slum seregela(2)\nWeladit tsehay ‘ya ‘ko werhi’za dmqti\nZemrla nefsey bzmare melakhti(2)\nNzeytmewt nefsey men alewa tesfa\nBzeyka wahsa wahs men tedegifa(2)\nSsgay’kwa nteqbetset keysemr ftawa\nNefsey aminala kab tselmat kthlwa(2)\nTtsbit rhrhti tsyon qdsti ketema\nHanqewtaa ’ndyu nkhbhto selama(2)\nWesine alekhu anes keytmt ndhrey\nSm weda kemesgn felfali‘yu mezmurey(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

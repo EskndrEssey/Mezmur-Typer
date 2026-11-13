@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8cfbf222cd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተመለስ ኢልካኒ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተመለስ ኢልካኒ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nርኹስ ከናፍረይ ክነግር ውዕለትካ\nመልኣኽካ ስደዶ ረዳኢ ባርያኻ\nበቲ ብልዒ ሕይወት መታን ንኽቕደስ\nኣዕጽምተይ ክድልድል ሓይለይ’ውን ክሕደስ(2)\n[[/chorus]]\n\nእፈልጥየ ኣምላኸይ ብዙኀ’የ ኣቢሰ\nንጊዜያዊ ሓጐስ ንሥጋይ ኣርኪሰ\nኣብ ኃጢኣት ጥሒለ ግዙኡ ከይከውን\nተመለስ ኢልካኒ ከቶ ኣይፈንፈንካንን (2)\n\nሕሊናይ ረጊጸ ንሥጋይ ክጥዕማ\nስቅያት ስቕለትካ ጌረ ኣልቦ ጻማ\nንሓወይ ክቐትል ኣድብየ ክጸናቶ\nማዕጾይ እናኳሕኳሕካ ኢለካ ኣይትእቶ(2)\n\nኣርዌ ተቐይረ ረሲዐ ወለደይ\nስስዐን ትምክሕትን ጌረዮም ኣዝማደይ\nጻዊዒትካ መጺኡ ሕሊናይ ደወለ\nተመለስ ኢሉኒ ካብ ክፍኣት ተኣለ(2)"
+    },
+    "ti_ro": {
+      "title": "Temeles ilkani",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nTemeles ilkani keto ayfenfenkann (2)\n[[/chorus]]\n\n'FelTye amlakhey bzuhe’ye abise\nNgizeyawi hagos nSsgay arkise\nAb haTiat Thile gzuu keykewn\nRkhus kenafrey knegr w'letka\nMelakhka sdedo redai baryakha\nBeti bl'i hywet metan nkhqdes\nA'Tsmtey kdldl hayley’wn khdes(2)\nHlinay regiTse nSsgay kT'ma\nSqyat sqletka gere albo Tsama\nNhawey kqetl adbye kTsenato\nMa'Tsoy 'nakwahkwahka ileka ayt'to(2)\nNgizeyawi tedla Ta'mi nayza 'alem\nKserq khsu bTsayey kTelm\nMergem nay 'abeyti ab zbaney Tseyre\nFTsum zeysqoro 'mni teqeyre(2)\nArwe teqeyre resi'a weledey\nSs'an tmkhtn gereyom azmadey\nTsawi'itka meTsiu hlinay dewele\nTemeles iluni kab kfat teale(2)\nO 'gziabher hywetey lewTo\nTarikh nay wdqetey feTsimka qenTTo\nKlweT hywetey bfTsum mhretka\nBqalat msgana metan keSsmreka(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

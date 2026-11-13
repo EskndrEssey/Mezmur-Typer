@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_cdcf3808e5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና’ዩ ስርሐይ"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና’ዩ ስርሐይ",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nትማል ትማል ማዕሙቕ እዩ ነይሩ ቲ’ሕይወተይ\nሕጅ ግና ጊዜ ድሕነተይ ኣኺሉለይ\nንዕርቃነይ ሸፊኑለዩ ብብርሃኑ\nዕለት ዕለት ስሙ ምውዳስ መግበይ ኮይኑ\n[[/chorus]]\n\nምስጋና’ዩ ስርሐይ ኣብ ዘመነይ ኣብ ዕድመይ\nስለ ኵሉ ውዕለታት እንታይ ክኸፍሎ ንጐይታ\n\nኣይጠመኹን ኣይጸማእኩን’ውን ኣብ ዘመነይ\nኮይኑ ጐይታ መግቢ ንሥጋይ መግቢ ነፍሰይ\nተበቲኹ ናይ ሓዊ ገመድ ሰንሰለት\nኣይርስዖን ንዝገበረለይ ውዕለት\n\nከመይ ኢለ ከመይ ጌረ ክገልጽ ፍቕሩ\nስለይ ብደም ጨቅዩ ጐይታ ኵሉ ኣካሉ\nብኣቑሳሉ ወጺኣ ነፍሰይ ካብ መከራ\nብዝማሬ ስሙ ምኽባር’ዩ ናተይ ስራሕ"
+    },
+    "ti_ro": {
+      "title": "Msgana’yu srhay",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "Msgana’yu srhay ab zemeney ab dmey\nSle kwilu wletat ntay kkheflo ngoyta\nTmal tmal mamuq yu neyru ti’hywetey\nHj gna gize dhnetey akhiluley\nNrqaney shefinuleyu bbrhanu\nLet let smu mwdas megbey koynu\nAytemekhun aytsemakun’wn ab zemeney\nKoynu goyta megbi nssgay megbi nefsey\nTebetikhu nay hawi gemed senselet\nAyrson nzgebereley wlet\nMen yefqr ksab nay mot waga kefilu\nMen yedhn nbeal sltan mot qetilu\nAmanuel btsedal fqru meliu mdri\nSeb geruni teqebilu sqay ms tsari\nKemey ile kemey gere kgelts fqru\nSley bdem cheqyu goyta kwilu akalu\nBaqusalu wetsia nefsey kab mekera\nBzmare smu mkhbar’yu natey srah"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

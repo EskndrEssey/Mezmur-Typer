@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_621068d120",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክርስቶስ ሕያዋይ ጓሳና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክርስቶስ ሕያዋይ ጓሳና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nንኽፍጽመሉ ተስፋ ናይ ኣዳም\nካብ ድንግል ተወልደ መድኃኔ ዓለም\nጸልማት ናይ ኩነኔ መታን ከኽትም\nተገሊጹልና’ዩ ንጉሥ ናይ ሰላም\n[[/chorus]]\n\nክርስቶስ ሕያዋይ ጓሳና ኣቦና\nስለ ዘፍቀረና ሞይቱ ኣድኂኑና\nኣቦታት ኣዴታት ኣሕዋት ኣሓት\nምስጋና ነቕርብ ስለዚ ውዕለት\n\nሓሙሽተ ሽሕን ሓሙሽተ ሚእትን\nናይ መርገም ዓመታት ናይ ፍዳ ዘመን\nክርስቶስ ምስ መጸ ፍጹም ተቐይሩ\nግዝኣት ናይ ዲያብሎስ ኣሰይ ተሳዒሩ\n\nንዝገፍዓና ገፊዑልና ጐይታ\nሰላም እናብሰረ ንሲኦል ዘመታ\nሓዘን የለን ሕጂ ኮይኑ’ዩ ዕልልታ\nዝተዓጽወት ገነት ኣሰይ ተኸፊታ"
+    },
+    "ti_ro": {
+      "title": "Krstos hyaway gwasana",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Krstos hyaway gwasana abona\nSle zefqerena moytu adhinuna\nAbotat adetat ahwat ahat\nMsgana neqrb slezi wlet\nNkhftsmelu tesfa nay adam\nKab dngl tewelde medhane alem\nTselmat nay kunene metan kekhtm\nTegelitsulna’yu nguss nay selam\nHamushte shhn hamushte mitn\nNay mergem ametat nay fda zemen\nKrstos ms metse ftsum teqeyru\nGzat nay diyablos asey tesairu\nAb kndi tsadq yelen zmewt\nSle fetawiu yhlu mnalbat\nGoyta gna gena ab hatiat kelena\nSle zefqerena moytu ab kndana\nNzgefana gefiulna goyta\nSelam nabsere nsiol zemeta\nHazen yelen hji koynu’yu llta\nZteatswet genet asey tekhefita"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

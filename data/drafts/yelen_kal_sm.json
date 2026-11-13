@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8a7121fdca",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "የለን ካልእ ስም"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "የለን ካልእ ስም",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nውሻጠኡ ንሞት ናይ ጸላኢ ግዝኣት\nብደሙ ተሳዒሩ ክንድሕን ብምፍቃሩ\nጸብኢ ትማል ኣቤሎ ፍቕሩ ዘይገማጠሎ\nናጻ ኣውጺኡና ደሙ ተፈቲሕና ብስሙ\n[[/chorus]]\n\nየለን ካልእ ስም ካልእ መድኃኒ\nኣብ ትሕቲ ሰማይ መተኣማመኒ\nልዕሊ መቓብር ልዕሊ ሞት’ውን’ዩ\nክርስቶስ ሎሚን ጽባሕን ሕያው`ዩ\n\nነዳቖ ንዒቖሞ ናብ መሬት ደርብዮሞ\nንዓና ግን ጽቡቕ ቤት ኮይንና እምኒ ሕሬት\nኣብ ጽዮን ዝተወልደ ብፍቕሪ ሰብ ዘስገደ\nከውሒ’ዩ ዝኸበረ ዝኣምኖ ኣይሓፈረ\n\nዝፈለጥናዮ ምንጋር ዝረኣናዮ ምምስካር\nእዚ’ዩ ናትና ጥበብ ንጐይታና ምሽብሻብ\nዮርዳኖስ ምኹብላሉ ኤርትራ’ውን ምምቃሉ\nዝ’ዅሉ ምፍጻሙ ኢዩ ብሓያል ስሙ"
+    },
+    "ti_ro": {
+      "title": "Yelen kal' sm",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Yelen kal sm kal medhani\nAb thti semay meteamameni\nLli meqabr lli mot’wn’yu\nKrstos lomin tsbahn hyaw`yu\nWshateu nmot nay tselai gzat\nBdemu tesairu kndhn bmfqaru\nTsebi tmal abelo fqru zeygematelo\nNatsa awtsiuna demu tefetihna bsmu\nNedaqo niqomo nab meret derbyomo\nNana gn tsbuq bet koynna mni hret\nAb tsyon ztewelde bfqri seb zesgede\nKewhi’yu zkhebere zamno ayhafere\nTebezhana kesasi tselai ms weqasi\nKeytsewana nmedhn kab mba aynwerdn\nBhaylu qoymna’lena bnazrawi dhina\nSmu’yu lli asmat iyesus goyta goytot\nZfeletnayo mngar zreanayo mmskar\nZi’yu natna tbeb ngoytana mshbshab\nYordanos mkhublalu ertra’wn mmqalu\nZ’kwilu mftsamu iyu bhayal smu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

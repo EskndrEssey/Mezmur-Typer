@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0851",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 851,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ንዓኻ ዘቐድም ከመይ’ሉ ይሰዓር",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nንዓኻ ዘቐድም ከመይ’ሉ ይሰዓር\nንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር\nልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ\nሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ\nልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን\nይሰብከካ ደምካ ንምድሪ ዝሽፍን\nንብዝሒ ክብርኻ መግለጺ የብለይን\nፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን (2)\nኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ\nኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ\nከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ\nብድሕሪት እጎዪ ኣሚነ ኢየሱስ\nብድሕሪት እጉዪ ኣሚነ ክርስቶስ\nጉድጓደይ ብተንኮል ኣጽራር ተተፋሕረ\nልዕሊ ሞት ደው በልኩ ሓያል ስምካ ጸይረ\nእናሰዓብኩኻ ገይረካ ብቕድሚት\nእናባረኽኩኻ ይቑጸር ዘመናት (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

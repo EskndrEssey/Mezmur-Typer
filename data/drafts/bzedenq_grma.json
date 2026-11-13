@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c13133add1",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብዘደንቕ ግርማ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብዘደንቕ ግርማ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣብ ጎቦ ሞርያ ኣምላኽ ዘዳለዎ\nየቕርንቱ ብሓረግ ንኣምሳል ኣሰሮ\nኣማናዊ ገንሸል ጐይታ ዘዕረፈልኪ\nድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ\n[[/chorus]]\n\nብዘደንቕ ግርማ ብርሃን ተኸዲንኪ\nወርቂ ተሰሊምኪ ጸጋ’ውን ረኺብኪ\nብኽብረት ትቖሚ ኣብ የማን ወድኺ\nድንግል ኣደ ብርሃን ስልጣን ተዋሂብኪ\n\nብዘደንቕ ግርማ ፍጹም ተዋህዶ\nኣባኺ ሓዲሩ ካብ ሰማይ ወሪዱ\nእቲ ሓዊ መለኮት ናበይ ኣንቢርክዮ\nኣብ የማን’ዶ ጸጋም ኣበይ ኣቢልክዮ\n\nናይ ይስሓቅ ተካኢ ናይ በጊዕ፡ መእሰሪት\nኮይንኪ ዝጸናሕኪ ናይ ልዑል መሕደሪት\nኣብርሃም ረኣየ ብኣምሳል በጊዑ\nከም ዝድኅን ዓለም ጐይታ ተሰዊኡ"
+    },
+    "ti_ro": {
+      "title": "Bzedenq grma",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Bzedenq grma brhan tekhedinki\nWerqi teselimki tsega’wn rekhibki\nBkhbret tqomi ab yeman wedkhi\nDngl ade brhan sltan tewahibki\nAb gobo morya amlakh zedalewo\nYeqrntu bhareg namsal asero\nAmanawi genshel goyta zerefelki\nDngl ade brhan sltan tewahibki\nBzedenq grma ftsum tewahdo\nAbakhi hadiru kab semay weridu\nTi hawi melekot nabey anbirkyo\nAb yeman’do tsegam abey abilkyo\nZeytfers meqdes nay betri haymanot\nNmkwan beqaki nay lul mehderit\nNalem zebrha tsehay nay tsdqna\nDngl mudaye werq kabakhi wetsiulna\nNay yshaq tekai nay begi meserit\nKoynki ztsenahki nay lul mehderit\nAbrham reaye bamsal begiu\nKem zdhn alem goyta tesewiu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

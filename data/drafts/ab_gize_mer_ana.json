@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1eb50b1738",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብ ጊዜ መርዓና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብ ጊዜ መርዓና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nምስ ድንግል ማርያም ምስ ርህርህቲ ኣዴና\nምስ ኩሎም መላእክቲ ነዓ ናብዚ ዳስና\nምስ ኩሎም ሓዋርያት ነዓ ናብ መርዓና\nምስ ኩሎም ቅዱሳን ነዓ ናብ መርዓና\n[[/chorus]]\n\nኣብ ጊዜ መርዓና ንኽትባርኸልና\nንጽውዕ ኣሎና ጐይታ ክትሰምዓና (2)\n\nቃና ዘገሊላ ከም ዝተረኸብካ\nነዓ ናብዚ ዳስና ጐይታ ኣብ ማእከልና\nንጽውዕ ኣሎና ክትህሉ ምሳና\nንስኻ ክብርና ግርማ ናይ ገዛና\n\nዝጎደለ ኵሉ እናመላእክልና\nሓደራኺ ድንግል በረኸት ኩንና\nነቶም ኣገልገልቲ ድንግል ንገርዮም\nጸዊዕና ከይንሓፍር ሽሻይና ኣብዝሕዮ"
+    },
+    "ti_ro": {
+      "title": "Ab gize mer'ana",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nNtsw alona goyta ktsemana (2)\n[[/chorus]]\n\nAb gize merana nkhtbarkhelna\nMs dngl maryam ms rhrhti adena\nMs kulom melakti nea nabzi dasna\nMs kulom hawaryat nea nab merana\nMs kulom qdusan nea nab merana\nQana zegelila kem zterekhebka\nNea nabzi dasna goyta ab makelna\nNtsw alona kthlu msana\nNskha kbrna grma nay gezana\nNi ms wedkhi maryam adena\nZgodele kwilu nkhtmllna\nDngl ngeryo geni kmelalna\nBerekhet natu’yu ymla ‘ti gezana\nZgodele kwilu namelaklna\nHaderakhi dngl berekhet kunna\nNetom agelgelti dngl ngeryom\nTsewina keynhafr shshayna abzhyo"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

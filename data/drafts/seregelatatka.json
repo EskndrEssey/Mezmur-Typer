@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3796f190f0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰረገላታትካ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰረገላታትካ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nብነበልባል እሳት ሕጹር’ዩ ደንበና\nይሓዙኻ ኣይትፍራሕ ኣሎ ፈጣሪና\nድፋዕ ጸላእትና ብቃሉ ይፈርስ\nቲ’ምሳና ዘሎ ካብኣቶም ይበልጽ\n[[/chorus]]\n\nሰረገላታትካ ነበልባልዮም\nጭፍራታት ሌጌዎን ዘይክእልዎም\nደጌታት ናይ ሲኦል ዘይዓግትዎም\nንስኻ በይንኻ ሓያል ጐይታ\nክትምስገን ትነብር ብዕልልታ(2)\n\nካብ ኣኽራን ናይ ቴማን ካብ ፋራን እንኪወርድ\nጸላኢ ይሽበር ብድምጺ ነጎድጓድ\nሳምሶም ብጸላእቲ ፍጹም ምስ ተታሕዘ\nብመንጋጋ ኣድጊ ሽሕ ሰብኣይ ቀተለ\n\nቁጽሪ ጸላእትና ኣእላፍ እንተኾነ\nሴፍ ኣይነልዕልን ንክንፈዲ ሕነ\nኣምላኽና ክሕጎስ እንጌራ መጊብና\nክንፍንዎም ኢና ቂም በቐል ገዲፍና"
+    },
+    "ti_ro": {
+      "title": "Seregelatatka",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "[[chorus]]\nKtmsgen tnebr bllta(2)\n[[/chorus]]\n\nSeregelatatka nebelbalyom\nChfratat legewon zeyklwom\nDegetat nay siol zeyagtwom\nNskha beynkha hayal goyta\nBnebelbal sat htsur’yu denbena\nYhazukha aytfrah alo fetarina\nDfa tselatna bqalu yfers\nTi’msana zelo kabatom ybelts\nKab akhran nay teman kab faran nkiwerd\nTselai yshber bdmtsi negodgwad\nSamsom btselati ftsum ms tetahze\nBmengaga adgi shh sebay qetele\nNseret ‘ti mamuq bnfas asere\nAb lli semayat zfanu gebere\nLmlum sye hizkum nu nab meqdesu\nBeti qdus srat ftsum ktqdesu\nQutsri tselatna alaf ntekhone\nSef aynelln nknfedi hne\nAmlakhna khgos ngera megibna\nKnfnwom ina qim beqel gedifna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

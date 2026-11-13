@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_75530dc3d8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ይፍልፍል ምስጋና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ይፍልፍል ምስጋና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nዙርያ ቅድስናኺ ብኽብሪ ክስለም\nንግስቲ ቅድስና ካብ ፍጥረታት ዓለም\nድንግል ደናግል ብሕሊና ስጋ\nእንቋዕ ኣዴና ኮንኪ ጸጋ’ዩ ጸጋ\n[[/chorus]]\n\nወትሩ ንግሆ ምሸት ይፍልፍል ምስጋና\nማሕተም ናይ ፍቕርኺ ሎሚ’ውን ኣሎ ምሳና\n\nመሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ\nካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ\nካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ\nንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ\n\nመሰል ናይ ውልድነተይ ወድኺ ኣኽቢሩ\nካብ መዝገብ ኣረማውያን ንስመይ ቀይሩ\nካባኺ ዝበረቐ ናይ ናጽነት ጸሓይ\nንጸልማተይ ቀዲዱ ልበይ ኣብርሃለይ"
+    },
+    "ti_ro": {
+      "title": "Yflfl msgana",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nMesel nay wldnetey wedkhi akhbiru\nKab mezgeb aremawyan nsmey qeyru\nKabakhi zbereqe nay natsnet tsehay\nNtselmatey qedidu lbey abrhaley\n[[/chorus]]\n\nWetru ngho mshet yflfl msgana\nMahtem nay fqrkhi lomi’wn alo msana\nZurya qdsnakhi bkhbri kslem\nNgsti qdsna kab ftretat alem\nDngl denagl bhlina sga\nNqwa adena konki tsega’yu tsega\n\nHadsh mraf kefitu nay ldetki zemen\nWeridu abiy rqi nay hzbn ahzabn\nNebere koynu tarikh nay tfat ametat\nKefitki tsega semay nay mdhan mkhnyat"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

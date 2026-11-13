@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_48d63d87b3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ከንፈረይ ፍረ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ከንፈረይ ፍረ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nመስክሪ ጌርጌሴኖን ዝረኣኽዮ ውዕለት\nምሓዝ ክስእኑኒ ሰባት ብሰንሰለት\nሌጌዎን ገሲጽካ ጐይታይ ፈዊስካኒ\nክነግር ግብርኻ ቤተይ ልኢኽካኒ\n[[/chorus]]\n\nናይ ከንፈረይ ፍረ ብጥዑም ዝማሬ\nክዝምር ንጐይታ በገናይ ኣልዒለ\nክውድስ ንስሙ ውዕለቱ ዘኪረ\nቃላት ይሓጽረኒ እምበር ኣይደክምን ኣነ\n\nከም ምዉት ተደርብየ ኣካላይ ቆሲሉ\nደንጋጺ ስኢነ ዝወስደኒ ኣልዒሉ\nሕያዋይ ሳምራዊ ሽግረይ ጼርካዮ\nዘይንገር ውዕለትካ ፍቕርኻ ርኤዮ\n\nተስፋ ምድሓን እምበር ክፉእ ዘይርከቦ\nርውየቱ ድኅነትና ፍቕርና ዝስሕቦ\nንዑ ከተዕርፉ ጾር ዝኸበደኩም\nይድንግጽ’ዩ እግዚአብሔር ይርኢ ድኻምኩም"
+    },
+    "ti_ro": {
+      "title": "Nay kenferey fre",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Nay kenferey fre btum zmare\nKzmr ngoyta begenay alile\nKwds nsmu wletu zekire\nQalat yhatsreni mber aydekmn ane\nMeskri gergesenon zreakhyo wlet\nMhaz ksnuni sebat bsenselet\nLegewon gesitska goytay fewiskani\nKnegr gbrkha betey likhkani\nKem mwut tederbye akalay qosilu\nDengatsi sine zwesdeni alilu\nHyaway samrawi shgrey tserkayo\nZeynger wletka fqrkha reyo\nAde kemzeyblu htsan aythdegeni\nZemed kemzeyblu gwana aytgbereni\nKem fqur wedkha alekhu beleni\nAb kwilu mengedey balkha mrhani\nTesfa mdhan mber kfu zeyrkebo\nRwyetu dhnetna fqrna zshbo\nNu keterfu tsor zkhebedekum\nYdngts’yu gziabher yri dkhamkum"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

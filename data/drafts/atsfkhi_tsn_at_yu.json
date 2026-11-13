@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_e1b06586dd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዓጽፍኺ ጽንዓት'ዩ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዓጽፍኺ ጽንዓት'ዩ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nንፈተና ባሕሪ ብትዕግስቲ በትሪ\nክትሰግሪ ርኢና ደሚቕኪ ከም ባና\nክኢለ ንዅሉ ክነብር ከም ቃሉ\nትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ\n[[/chorus]]\n\nዓጽፍኺ ጽንዓት'ዩ ቅናትኪ ትሕትና (2)\nእምባ መሪና\n\nናይ ትዕግስቲ ዋጋ ናይ ዓቕልኺ ጸጋ\nዓው ኢለ ብመንፈስ መስኪራ ኣስቄጥስ\nክኢለ ንዅሉ ክነብር ከም ቃሉ\nትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ\n\nጸሎትኪ ዘስልጥ ካብ ጸልማት ዘምልጥ\nይኹነኒ ደጀን ካብ ፍላጻ ሰይጣን\nክኢለ ንዅሉ ክነብር ከም ቃሉ\nትዕድልቲ ናይ ኢዮብ ኣልምድኒ ጥበብ"
+    },
+    "ti_ro": {
+      "title": "'ATsfkhi Tsn'at'yu",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nAtsfkhi tsnat'yu qnatki thtna (2)\n[[/chorus]]\n\nMba merina\nNfetena bahri btgsti betri\nKtsegri rina demiqki kem bana\n\nNay tgsti waga nay aqlkhi tsega\nAw ile bmenfes meskira asqets\n\nKmehar knebr nay tsegakhi mstir\nBarkhni adey brhan nay hywetey\n\nTselotki zeslt kab tselmat zemlt\nYkhuneni dejen kab flatsa seytan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

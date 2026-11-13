@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0805",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 805,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ካህናት ተንስኡ (2) ለተናብቦ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nካህናት ተንስኡ (2) ለተናብቦ\nእንዘይብሉ ንሴብሖ (2) ሃሌሉያ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

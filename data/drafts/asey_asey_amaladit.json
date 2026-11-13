@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_10d6304b38",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣሰይ ኣሰይ ኣማላዲት"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣሰይ ኣሰይ ኣማላዲት",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣዳም ምስ ኣበሰ ተሰጐ ካብ ገነት\nወረደ ካብ ክብሪ ናይቶም መላእክት\nውልድነት ስኢኑ ናብ ምድሪ እክድርበ\nብድንግል ማርያም ምድኃኑ ረኸበ\n[[/chorus]]\n\nኣሰይ ኣሰይ ኣማላዲት\nድንግል ማርያም ረዳኢት\nመንግስተ ሰማይ መራሒት\nሓያል እግዚአብሔር ጸዋሪት\n\nሰሎሞን’ውን በለ ኣብቲ ምሳሌኡ\nክገልጻ ንድንግል መንፈስ ተመሊኡ\nዝተሓትመት ዒላ ማይ ሕይወት ዝወጻ\nኣክሊል ኮኮብ ጌራ ወርሒ ብትርጋጻ\n\nእግዚአብሔር ጠመተ ናብዛ ምድሪ ገጹ\nመሕደሪት ክትኮኖ ካብ ሰባት መሪጹ\nብነፍስን ብስጋን አምላክ ዝሰመራ\nንጽህቲ ኣዳራሽ ልዑል ዝሓደራ"
+    },
+    "ti_ro": {
+      "title": "Asey asey amaladit",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Asey asey amaladit\nDngl maryam redait\nMengste semay merahit\nHayal gziabher tsewarit\nAdam ms abese tesego kab genet\nWerede kab kbri naytom melakt\nWldnet sinu nab mdri kdrbe\nBdngl maryam mdhanu rekhebe\nSelomon’wn bele abti msaleu\nKgeltsa ndngl menfes temeliu\nZtehatmet ila may hywet zwetsa\nAklil kokob gera werhi btrgatsa\nKab brhan kewakbt grmakhi antsebriqu\nKrstos medhanit tsehayki beriqu\nHabti nay semayat nakhi ms habe\nFtur wedi adam abakhi atslele\nGziabher temete nabza mdri getsu\nMehderit ktkono kab sebat meritsu\nBnefsn bsgan amlak zsemera\nNtshti adarash lul zhadera"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

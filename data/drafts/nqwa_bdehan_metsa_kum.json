@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_57266a422b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እንቋዕ ብደሓን መጻእኩም"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እንቋዕ ብደሓን መጻእኩም",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nሽዱሽተ መዓልቲ እናሰራሕና\nሰንበት ነቕርብ ምስጋናና (2)\n[[/chorus]]\n\nእንቋዕ ብደሓን መጻእኩም (2)\nናባይ ናብ ቅድስት ኣዴኹም\nኢደይ ዘርጊሔ ክጽበየኩም (2)\n\nንወለድኹም ከተኽብሩ\nቅዱስ ኣምላኽና ተዛሪቡ (2)\n\nከምዚ ኢለ ወትሩ ዝምዕደኩም\nቤተክርስቲያን’የ ወላዲትኩም (2)"
+    },
+    "ti_ro": {
+      "title": "'Nqwa' bdehan meTsa'kum",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nNqwa bdehan metsakum (2)\n[[/chorus]]\n\nNabay nab qdst adekhum\nIdey zergihe ktsbeyekum (2)\nShdushte mealti naserahna\nSenbet neqrb msganana (2)\nNweledkhum ketekhbru\nQdus amlakhna tezaribu (2)\nAser abotat nkhtsbu\nAb senbetey teakebu (2)\nKemzi ile wetru zmdekum\nBetekrstiyan’ye weladitkum (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

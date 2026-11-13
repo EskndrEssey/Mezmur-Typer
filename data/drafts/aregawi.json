@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_b9b8ca20ab",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣረጋዊ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣረጋዊ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nብጊዜ ንእስነቱ ንፈጣሪ ዝዘከረ\nሰሎሞን ዝበሎ ኣብ መክብብ ዝተግበረ\nእሙን ኣገልጋሊ ንኣምላኽ ዘስመረ\nዘሚካኤል (3) ንጐይታ ዘፍቀረ\n[[/chorus]]\n\nኣረጋዊ ሃይማኖት ተዓፅፈ (2)\nኃበ (3) ዓምደወርቅ ስሙ ተጽሕፈ (2)\n\nብሕቑፎ ናይ ገበል ዳሞ ዝደየብካ\nመና ናይ ሰማያት ዝተመገብካ\nጸሎትን ስግደትን መስዋእቲ ዘቕረብካ\nባሕታዊ (3) ኣረጋዊ ኢኻ\n\nናይ መምህራን መምህር ኣረጋዊ ቅዱስ\nፍረ ጻዕርታትካ ምልክቱ ሓጎስ\nውሉድካ ሕሩያት ከም ተኽለሃይማኖት\nዝለበሱ (3) ኣኽሊል ናይ መላእኽት"
+    },
+    "ti_ro": {
+      "title": "Aregawi",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nAregawi haymanot teatsfe (2)\n[[/chorus]]\n\nHabe (3) amdewerq smu tetshfe (2)\nBgize nsnetu nfetari zzekere\nSelomon zbelo ab mekbb ztegbere\nMun agelgali namlakh zesmere\nZemikael (3) ngoyta zefqere\nBhqufo nay gebel damo zdeyebka\nMena nay semayat ztemegebka\nTselotn sgdetn meswati zeqrebka\nBahtawi (3) aregawi ikha\nSubae gedlkha nalem zeqome\nYfwes ydhn betka zseame\nAregawi lewah sebakhi nay tsdqi\nSmka tshuf (3) ab mezgebe werq\nNay memhran memhr aregawi qdus\nFre tsartatka mlktu hagos\nWludka hruyat kem tekhlehaymanot\nZlebesu (3) akhlil nay melakht"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

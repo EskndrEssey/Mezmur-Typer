@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c725d71ee6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናሁ ሠናይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናሁ ሠናይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "ናሁ ሠናይ ወናሁ ኣዳም\nሶበ ይሄልዉ ኣኃው ኅቡረ\nእነሆ ኣኅዋት ኃቢሮም ክነብሩ\nክንደይ ሰናይ ኢዩ ግሩም ጥዑም"
+    },
+    "ti_ro": {
+      "title": "Nahu Senay",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Nahu senay wenahu adam\nSobe yhelwu ahaw hbure\nNeho ahwat habirom knebru\nKndey senay iyu grum tum"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

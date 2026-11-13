@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_30c1001910",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓይሊ ብዝህበኒ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓይሊ ብዝህበኒ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nሰንሰለት ኣሲሮም እንተደርበዩኒ\nመከራ ኣብዚሖም እንተጨነቑኒ\nንሰናይዩ ኢለ ተተስፌካ ኣለኹ\nይኹን ዝበልካዮ ተገዚኤ ኣለኹ\n[[/chorus]]\n\nሓይሊ ብዝህበኒ ብክርስቶስ ኵሉ ክኽእሎየ(2)\nፈተና እንተመጸ ንሰናይ’ዩ ይኣምን’የ\nመከራ እንተመጸ ንሰናይ’ዩ ይኣምን’የ\n\nትማሊ ንስኻ ሎሚ ንስኻ ኢኻ\nምስ ጊዜ ዘይቅየር ዘይሃስስ ፍቕርኻ\nስምካ ምጽውዐይ ሞገሰይ ኮይኑኒ\nጸላእተይ ፈኪሮም መዓስ ይስዕሩኒ\n\nካብ ሃገር ወጻኢ በረኻ ምስዳደይ\nናብ ባዕዳውያን ሃገር ርሒቐ ምኻደይ\nንሰናይ እዩ መዓስ ጠፊኡኒ\nኣርሒቐ ከይጠፍእ ሓይልኻ ሒዙኒ"
+    },
+    "ti_ro": {
+      "title": "Hayli bzhbeni",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "[[chorus]]\nHayli bzhbeni bkrstos kwilu kkhloye(2)\n[[/chorus]]\n\nFetena ntemetse nsenay’yu yamn’ye\nMekera ntemetse nsenay’yu yamn’ye\nSenselet asirom ntederbeyuni\nMekera abzihom ntechenequni\nNsenayyu ile tetesfeka alekhu\nYkhun zbelkayo tegezie alekhu\nTmali nskha lomi nskha ikha\nMs gize zeyqyer zeyhass fqrkha\nSmka mtsway mogesey koynuni\nTselatey fekirom meas ysruni\nBbzuh mekera gulbetey dekheme\nHazen tekebibe tesfay’wn qehame\nNeger ykhun aykhun kekhbreka’ye\nBzuh tefqreni goytay natka ye\nKab hager wetsai berekha msdadey\nNab badawyan hager rhiqe mkhadey\nNsenay yu meas tefiuni\nArhiqe keytef haylkha hizuni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

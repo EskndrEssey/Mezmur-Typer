@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c25f15e0ba",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ሳሌም ንጉሥ"
+  },
+  "singer": "ዘማሪት ፍቅርተ ፈለቀ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ሳሌም ንጉሥ",
+      "zemari": "ዘማሪት ፍቅርተ ፈለቀ",
+      "lyrics": "[[chorus]]\nንብዓት ናይ ሓጎስ ይውሕዞ መልታሕተይ\nፍቕሪ ምድሓንካ ርእያ እያ'ሞ ዓይነይ\nኣብ ጸጽባሑ ዝቐሳቕሰኒ\nቲ'ውዕለትካ'ዩ ብደም ዝገዝኣኒ\n[[/chorus]]\n\nናይ ሳሌም ንጉሥ ንጉሥ ናይ ልበይ ኣዶናይ\nቆይመ ኣብ ጽዮን ክዝምረልካ\nልዕል በል ጐይታየይ\n\nቅድሚ ቀተልተይ ቆይመ'የ ብግርማ\nፍርሐይ ቀተልኩ ንቓልካ ብምስማዕ\nኣውዲቐዮም'የ ሓይለይ ምስጸናዕካ\nእረትዕ እየ`ሞ ተሒዘ ንስምካ\n\nጽባሕ'ውን ኣነ ቅልጽምካ ክርኢ’የ\nናይ ሎሚ ስቓይ ኮይኑ ንሰናየይ\nተኽበርኩኻ'ውን ክብርኻ ክብረይ'ዩ\nሽመት ናይ ነፍሰይ ቤትካ ምምጽአይ'ዩ"
+    },
+    "ti_ro": {
+      "title": "Nay salem nguSs",
+      "zemari": "zemarit fqrte feleqe",
+      "lyrics": "Nay salem nguss nguss nay lbey adonay\nQoyme ab tsyon kzmrelka\nLl bel goytayey\nNbat nay hagos ywhzo meltahtey\nFqri mdhanka rya ya'mo ayney\nAb tsetsbahu zqesaqseni\nTi'wletka'yu bdem zgezani\nQdmi qeteltey qoyme'ye bgrma\nFrhay qetelku nqalka bmsma\nAwdiqeyom'ye hayley mstsenaka\nRet ye`mo tehize nsmka\nKemti nay tmal nhazeney atf\nSerteni ikha nsmka kqen\nGrey kab thkit lbey kab sqay\nArfeley ikha zamneka goytay\nTsbah'wn ane qltsmka kri’ye\nNay lomi sqay koynu nsenayey\nTekhberkukha'wn kbrkha kbrey'yu\nShmet nay nefsey betka mmtsay'yu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

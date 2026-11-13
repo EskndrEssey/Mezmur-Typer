@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_701d877399",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": ""
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nትንሣኤከ ለእለ ኣመነ (2)\nብርሃነከ ፈኑ ዲቤነ (2)\n[[/chorus]]\n\n ወረብ እመብርሃን"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nTnsaeke lele amene (2)\n[[/chorus]]\n\nBrhaneke fenu dibene (2)\n Wereb mebrhan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

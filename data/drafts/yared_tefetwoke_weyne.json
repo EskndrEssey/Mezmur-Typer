@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_aab83562e1",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ያሬድ ተፈትዎከ ወይነ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ያሬድ ተፈትዎከ ወይነ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "ያሬድ ተፈትዎከ ወይነ (2) በኣማን\nትናዝዘነ ያሬድ በጥዑም ዜማ\nትናዘዘነ ያሬድ (2) በጥዑም ዜማ"
+    },
+    "ti_ro": {
+      "title": "Yared tefetwoke weyne",
+      "zemari": "di/n efrem",
+      "lyrics": "Yared tefetwoke weyne (2) beaman\nTnazzene yared betum zema\nTnazezene yared (2) betum zema"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

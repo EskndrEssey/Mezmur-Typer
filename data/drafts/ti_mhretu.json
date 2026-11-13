@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_644e5fd415",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "‘ቲ ምሕረቱ"
+  },
+  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "‘ቲ ምሕረቱ",
+      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+      "lyrics": "[[chorus]]\nኃጢኣት እንክሰርሕ ብገዛእ ፍቓደይ\nኣብ ዓለም ኮብለልኩ መኻሪ ዘይብለይ\nብብዝሒ ምሕረቱ ነዓይ ጠሚቱኒ\nጐይታ ብጻውዒት ፍቕሩ ኣጥዒሙኒ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)\n[[/chorus]]\n\n‘ቲ ምሕረቱ ዘይነጽፍ ዒላ'ዩ\nዘይጎድል ዘይውዳእ\nርህራሄኡ ኣይውዳእን'ዩ\nይቕረ'ሉኒ ኣምላኸይ ጸዊዑ (2)\n\nብዝናም ኣብቊሉ ብጸሓይ ኣብሲሉ\nመጊቡኒ ነዓይ ጓለይ ኢኺ ኢሉ\nጐይታ ቀረበኒ ከይተጸየፈኒ\nታሪኸይ ቀይሩ ጸጋኡ ሂቡኒ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)\n\nብፍርሃት ክኸይድ ናብ ቅዱስ ከረኑ\nከምቶም ኣቦታተይ ቅዱሳን ዝኾኑ\nከመስግኖ ኣነ ኣብ ቤተ መቕደሱ\nውዕለቱ ክነግር ታሪኹ ከዘንቱ\nኣምላኸይ ብምሕረት ጠሚቱኒ\nጐይታይ'ሲ ጸጋኡ ሂቡኒ (2)"
+    },
+    "ti_ro": {
+      "title": "‘Ti mhretu",
+      "zemari": "liqe mela'kt agelgali goytay",
+      "lyrics": "[[chorus]]\nYqre'luni amlakhey tsewiu (2)\n[[/chorus]]\n\n‘Ti mhretu zeynetsf ila'yu\nZeygodl zeywda\nRhraheu aywdan'yu\nHatiat nkserh bgeza fqadey\nAb alem koblelku mekhari zeybley\nBbzhi mhretu neay temituni\nGoyta btsawit fqru atimuni\n\nBznam abqulu btsehay absilu\nMegibuni neay gwaley ikhi ilu\nGoyta qerebeni keytetseyefeni\nTarikhey qeyru tsegau hibuni\n\nTesekimu hatiatey hmamey tsoreley\nAne nkherf goyta teqetsaley\nMerir hamot setyu natey mot moteley\nAmlakh medhane alem fqru gelitsuley\n\nBfrhat kkheyd nab qdus kerenu\nKemtom abotatey qdusan zkhonu\nKemesgno ane ab bete meqdesu\nWletu knegr tarikhu kezentu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

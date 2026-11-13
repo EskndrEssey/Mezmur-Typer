@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_08758d41f0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቤትካ ይሕሸኒ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቤትካ ይሕሸኒ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nኵሉ ከንቱ እዩ ብዘይካ ንስኻ\nቆሪጸ ክስዕብ ኣቦይ ደድሕሬኻ\nይቕረ’ውን በለለይ ንዓይ ንባርያኻ\nንቤትካ ይሕሸኒ ክነብር ምሳኻ\n[[/chorus]]\n\nቤትካ ይሕሸኒ ፍሥሐ ዝመልኦ\nኣይደልይን’የ ካልእ እሾኽ ዝተመልኦ\nጽላለይ ንስኻ ዓንዲ ናይ ሕይወተይ\nምሳኻ ይሕሸኒ ተቐበለኒ ጐይታይ\n\nድንግል ማርያም ጻድቃን ሰማእታት\nኣብ ቤትካ ይነብሩ ለይቲ ምስ መዓልቲ\nምስኦም ይሕሸኒ ዓለም እንታይ ኢለያ\nክፍኣታ በዚሑ ኣዝየ ጸሊኤያ"
+    },
+    "ti_ro": {
+      "title": "Betka yhsheni",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Betka yhsheni fssha zmelo\nAydelyn’ye kal shokh ztemelo\nTslaley nskha andi nay hywetey\nMsakha yhsheni teqebeleni goytay\nKwilu kentu yu bzeyka nskha\nQoritse ksb aboy dedhrekha\nYqre’wn beleley nay nbaryakha\nNbetka yhsheni knebr msakha\nDngl maryam tsadqan sematat\nAb betka ynebru leyti ms mealti\nMsom yhsheni alem ntay ileya\nKfata bezihu azye tselieya\nShekhemey keqall hazen kgedfeni\nNabakha kmles dmtskha asmani\nHatiatey gedifka mhretka habeni\nNekhu metsie wedeye beleni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

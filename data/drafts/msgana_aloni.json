@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4b60bc0dc7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና ኣሎኒ"
+  },
+  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና ኣሎኒ",
+      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
+      "lyrics": "[[chorus]]\nዘኽታም ክኸውን ኣይሓደገንን\nሓብሒቡኒ’ዩ ከም ኣቦን ኣደን\nጽቡቕ ጌሩለይ ከየስተማስል\nየማነይ ኮይኑ መታን ክሕይል\n[[/chorus]]\n\nምስጋና ኣሎኒ ብዙሕ ውዳሴ\nንውዕለት ክብሩ ዕልል ክብል እየ\nከለይ ፈቲሑ ሓጎስ ጌሩለይ\nክኽልክል እየ ስቕ ከይብል ኣፈይ\n\nኣብቲ በረኻ ማይ ዘይርከቦ\nደኺሙ ሓይለይ ስኢነ ሓቦ\nዛርዩ ንብዓተይ መስፈሪ ኣልቦ\nርእየ ምሕረቱ ማንም ዘይረኽቦ\n\nድምጸይ ኣልዒለ ስምካ ጸዊዐ\nበዲለካ ኢለስ ብዙሕ ነቢዐ\nምስናይ ልበይ ኢደይ ኣልዒለ\nምስ ሰማዕካንስ ሃሌሉያ ኢለ"
+    },
+    "ti_ro": {
+      "title": "Msgana aloni",
+      "zemari": "liqe mela'kt ab qdmit menberka",
+      "lyrics": "[[chorus]]\nMs semakans haleluya ile\n[[/chorus]]\n\nMsgana aloni bzuh wdase\nNwlet kbru ll kbl ye\nKeley fetihu hagos geruley\nKkhlkl ye sq keybl afey\nZekhtam kkhewn ayhadegenn\nHabhibuni’yu kem abon aden\nTsbuq geruley keyestemasl\nYemaney koynu metan khyl\nAbti berekha may zeyrkebo\nDekhimu hayley sine habo\nZaryu nbatey mesferi albo\nRye mhretu manm zeyrekhbo\nBqnat betka ab mdri gwana\nQazine’lekhu lbey hazina\nAnya ryeya iyerusalemey\nKhantsa ye goyta aqnaley\nDmtsey alile smka tsewia\nBedileka iles bzuh nebia\nMsnay lbey idey alile"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

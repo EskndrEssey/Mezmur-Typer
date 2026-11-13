@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_bd9beba87d",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኦ ጐይታና"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኦ ጐይታና",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nኦ ጐይታና መን ኣሎ ከማኻ (2)\n[[/chorus]]\n\nንዓና ክትብል ኣብ መስቀል ተሰቐልካ (2)"
+    },
+    "ti_ro": {
+      "title": "O goytana",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nO goytana men alo kemakha (2)\n[[/chorus]]\n\nNana ktbl ab mesqel teseqelka (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

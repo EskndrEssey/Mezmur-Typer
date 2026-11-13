@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9284744885",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ውዕለቱ ዘክሪ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ውዕለቱ ዘክሪ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nእቲ ናይ ሰባት ፍርዲ ሞት’ዩ ነይሩ ነዓይ\nኣምላከ ቅዱሳን ተዘይርህርሃለይ\nንቓሉ ጽሒፉ ሃደሙ ከሰስተይ\nኣጸናኒዑኒ ኣቕኒዑ መንገደይ (2)\n[[/chorus]]\n\nውዕለቱ ዘክሪ ነፍሰይ ውዕለቱ ዘክሪ\nብምስጋና ቅኔ መዝሙር ንዕኡ ሃቢ ክብሪ\nንመድኃኔ ዓለም ንኽብሩ ዘምሪ (2)\n\nሸውዓተ ኣጋንንቲ ስጋይ እናተመርሐት\nናይ ነፍሰይ መቓብር ንዘመናት ኮነት\nንናይ ጐይታ ኣእጋር ሓጺበ ብንብዓት\nእነሆ ኣብቂዑኒ ንመገዲ ሕይወት (2)\n\nዘይውዳእ ውዕለቱ ነፍሰይ ዘክርዮ\nክግረፍ ክስቀል ኣብ ጎቦ ቀራንዮ\nዝዳረጎ የለን ዝበቕዖ ውሬታ\nምስጋና ሃብዮ ናይ ዘልዓለም ጐይታ (2)"
+    },
+    "ti_ro": {
+      "title": "W'letu zekri",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nNmedhane alem nkhbru zemri (2)\n[[/chorus]]\n\nWletu zekri nefsey wletu zekri\nBmsgana qne mezmur nu habi kbri\nTi nay sebat frdi mot’yu neyru neay\nAmlake qdusan tezeyrhrhaley\nNqalu tshifu hademu kesestey\nAtsenaniuni aqniu mengedey (2)\nShewate agannti sgay natemerhat\nNay nefsey meqabr nzemenat konet\nNnay goyta agar hatsibe bnbat\nNeho abqiuni nmegedi hywet (2)\nSeb ayneberenn nay zredani\nNabti qdus mayu hizu zewrdeni\nBnay hywet qalu goyta fewisuni\nTsewarit aratey mtsar abqiuni (2)\nZeywda wletu nefsey zekryo\nKgref ksqel ab gobo qeranyo\nZdarego yelen zbeqo wreta\nMsgana habyo nay zelalem goyta (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

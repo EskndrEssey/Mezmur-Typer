@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f826b95b93",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ትርጉም ናይ ሕይወተይ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ትርጉም ናይ ሕይወተይ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nትእዛዙ ጥሒሰ ሞተይ ምስ ኣወጅኩ\nካብ ክብሪ ሰማያት ጸጋ ምስ ጎደልኩ\nተስፋይ ኔራ ድንግል ምኽንያት ድሕነተይ\nሕይወተይ ኢለያ ኣባዲት ሓዘነይ\n[[/chorus]]\n\nትርጉም ናይ ሕይወተይ ጣዕሚ መቐረተይ\nወላዲት አምላክ ኣደ ልዑል ጐይታይ\nከመስግነኪ’የ ኣነ ንዘመነይ\nዓንቢቡ ክፈሪ ተኽሊ ሰብነተይ\n\nትርጉም ስኢነሉ ናብራ እዚ ዓለም\nክጭነቕ ብብዙሕ ስኢነ ንሰላም\nዕትሮ ውሽጢ ልበይ መሊኣ ምስጋና\nደስታይ ኣዊጃቶ ኣብ ገሊላ ቃና\n\nኣብቲ ናይ ሞት ዘመን ዝጸልመተ ናብራ\nምሳይ ብምዃንኪ ሕይወተይ መቂራ\nገጸበረኸተይ በሊ ተቐበሊ\nጌና ንኽብርኺ ዝህቦ ኣሎኒ"
+    },
+    "ti_ro": {
+      "title": "Trgum nay hywetey",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Trgum nay hywetey tami meqeretey\nWeladit amlak ade lul goytay\nKemesgneki’ye ane nzemeney\nAnbibu kferi tekhli sebnetey\nTzazu thise motey ms awejku\nKab kbri semayat tsega ms godelku\nTesfay nera dngl mkhnyat dhnetey\nHywetey ileya abadit hazeney\nTrgum sinelu nabra zi alem\nKchneq bbzuh sine nselam\nTro wshti lbey melia msgana\nDestay awijato ab gelila qana\nHagos koynule’yu tsegay tewesikhu\nBfqra serawit lbey temarikhu\nKzmrela’ye zelalem nsma\nKestemaqr wetru tami nayti fqra\nAbti nay mot zemen ztselmete nabra\nMsay bmkwanki hywetey meqira\nGetseberekhetey beli teqebeli\nGena nkhbrkhi zhbo aloni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_785fbde367",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰርፀ ጽዮን"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰርፀ ጽዮን",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nወደሳሁ እንዘ ይብላ ለብጹዕ ሰርፀ ጽዮን\nደብረ ቢዘን ወደብረ ምዕዋን\nመኑ ከማከ ዘነሰተ (2) አረፍተ ደይን\n[[/chorus]]\n\nካባኻ እሞ ናበይ ጐይታይ ኮከበ ገዳም አቡነ\nገብረመንፈስቅዱስ (ገጀረት)"
+    },
+    "ti_ro": {
+      "title": "SerTse Tsyon",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Wedesahu nze ybla lebtsu sertse tsyon\nDebre bizen wedebre mwan\nMenu kemake zenesete (2) arefte deyn\nKabakha mo nabey goytay kokebe gedam abune\nGebremenfesqdus (gejeret)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

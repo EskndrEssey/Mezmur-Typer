@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0623",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 623,
+  "wereb_category": "wereb_egziabher",
+  "wereb_category_geez": "ወረብ እግዚኣብሔር",
+  "wereb_category_en": "Wereb Egziabher",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ትንሣኤከ ለእለ ኣመነ (2)",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nትንሣኤከ ለእለ ኣመነ (2)\nብርሃነከ ፈኑ ዲቤነ (2)\n ወረብ እመብርሃን\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

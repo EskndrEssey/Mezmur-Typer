@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a9aa77d543",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሃገረ ሕይወት"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሃገረ ሕይወት",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nኤልሻዳይ ኢኻ ተስፋ እስራኤል\nፍጡር ዘይክእሎ ንዓኻ ቀሊል\nብደመና ሰማይ ህዝብኻ ተጽልል\nድንቂ’ዩ ስራሕካ ንከውሒ ዘፈልፍል\n[[/chorus]]\n\nጐይታ ሃገርካ ሃገረ ሕይወት\nመግቢ ቃላትካ ግሩም መድኃኒት\nመታን ክሰግር ንማዕበል ብእምነት\nደጊፉኒ’ዩ ‘ቲ ናትካ ምሕረት\n\nንሥጋን ነፍስን ብጸጋ ትቕድስ\nንሬሳ ኣልኣዛር ሰዂዕካሉ ትንፋስ\nመልቀስ ናይ ማርታ ረኺቡ ደበስ\nሎሚ’ውን ንዓይ ኃጢኣተይ ደምስስ\n\nከም ወዲ እሴይ ክኸውን ልበይ\nዳግማይ ክሕደስ ብኣኻ መንፈሰይ\nኣብ ጉዕዞ ምሳይ ክትሓልፍ ብቕድመይ\nርስቲ ኣብርሃም ክኸውን ርስተይ"
+    },
+    "ti_ro": {
+      "title": "Hagere hywet",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Goyta hagerka hagere hywet\nMegbi qalatka grum medhanit\nMetan ksegr nmabel bmnet\nDegifuni’yu ‘ti natka mhret\nElshaday ikha tesfa srael\nFtur zeyklo nakha qelil\nBdemena semay hzbkha tetsll\nDnqi’yu srahka nkewhi zefelfl\nNssgan nefsn btsega tqds\nNresa alazar sekwikalu tnfas\nMelqes nay marta rekhibu debes\nLomi’wn nay hatiatey demss\nIyob bgwahi lbsu kqedd\nBsqay ab quslu knsns hamed\nSeytan mekhiru mnetu kekhhd\nLsanu meskira nay goyta feqad\nKem wedi sey kkhewn lbey\nDagmay khdes bakha menfesey\nAb guzo msay kthalf bqdmey\nRsti abrham kkhewn rstey"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

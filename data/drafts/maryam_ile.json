@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_e41fbd15f5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ማርያም ኢለ"
+  },
+  "singer": "ዲ/ን ሃዋዝ ተገኘ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ማርያም ኢለ",
+      "zemari": "ዲ/ን ሃዋዝ ተገኘ",
+      "lyrics": "[[chorus]]\nማርያም ኢለ በዓል ቅኔ እንሆ ተዓጢቑ ፍጹም\nመንፈስካ ይማርኽ ማሕሌት ክቕወም\nኣብቲ ማዕጠንተ ወርቅ ዓሪጉ ጸሎተይ\nብኣደ ኢየሱስ ብኣኺ ድንግለይ\n[[/chorus]]\n\nማርያም ኢለ ክዝምር’የ\nከም ኣቦታተይ ክጽውዓ’የ\nብዜማ ያሬድ ብሓድሽ ምስጋና\nክዝምር’የ ምሉእ ዘመነይ\n\nማርያም ኢለ መሊኡ መቕደሱ ናይ ክብሪ ደመና\nድንግል ናትኪ ምልጃ ናብኡ ስሒቡና\nኮይንኪ ተረኺብኪ ካልአይቲ ሰማይ\nዝወለድኪ ጐይታ ናይ ጽድቅና ጸሓይ\n\nማርያም ኢለ ፈጺሙ ፈሪሱ ዕርዲ ጸላእየይ\nብመስቀል ተደርዘ ንብዓት ናይ ኣዒንተይ\nኣይፈርሕን ኣነስ ኣላትኒ ዋልታ\nቁስለይ እትፍውስ ጸላኢ መኪታ\nዲ/ን እንዳልካቸው ዳኘው"
+    },
+    "ti_ro": {
+      "title": "Maryam ile",
+      "zemari": "di/n hawaz tegenye",
+      "lyrics": "Maryam ile kzmr’ye\nKem abotatey ktswa’ye\nBzema yared bhadsh msgana\nKzmr’ye mlu zemeney\nMaryam ile beal qne nho teatiqu ftsum\nMenfeska ymarkh mahlet kqwem\nAbti matente werq arigu tselotey\nBade iyesus bakhi dngley\nMaryam ile meliu meqdesu nay kbri demena\nDngl natki mlja nabu shibuna\nKoynki terekhibki kalayti semay\nZweledki goyta nay tsdqna tsehay\nMaryam ile tsewia aydekmn smki’yu mear\nSeali lene kbl ktsw nebr\nTsegakhi ab betey meliu fesisu\nHazeney bkhyatey tefiu hasisu\nMaryam ile fetsimu ferisu rdi tselayey\nBmesqel tederze nbat nay aintey\nAyferhn anes alatni walta\nQusley tfws tselai mekita"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

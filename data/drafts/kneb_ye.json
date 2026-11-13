@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b32d9316d5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክነብዕ’የ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክነብዕ’የ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nልበይ ኣቤት በል ክጽውዕ ኣምላኽካ\nብሓዘን ብብኽያት ኣፍልጥ ትካዜኻ\nበደለይ ፈሊጠ ምሕረትካ ክጥይቕ\nመሓሪ ኢኻ’ሞ ፍጡር ዘይትንዕቕ\n[[/chorus]]\n\nክነብዕ’የ ወትሩ ክበኪ’የ\nንጐይታ ኣምላኸይ ብዙሕ በዲለ’የ\nገዓረይ ኣውያተይ ተቐበለኒ\nምስኪን ኮይነ ’ለኹ ኃጢአት ዘድከመኒ(2)\n\nመጋረጃ ኃጢአት ንፊተይ ሸፈኖ\nኣካለይ ማህመነ ምቛም ተሳእኖ\nኢኺ’ሞ ኣብ ቅድሚኡ በዓል ክብሪ ሞገስ\nእመቤት ለምኒ ናብ ፍቁር ክርስቶስ\n\nጌጋ ተጋግየ ንዓኻ ኣቐየምኩ\nንጠፋኢ ሕይወት ኣምላኸይ ሓደግኩ\nሕጂ ግን ኣሚነ ከም እተጋገኹ\nብርኹስ ኣንደበት ንዓኻ ለመንኩ"
+    },
+    "ti_ro": {
+      "title": "Kneb'’ye",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Kneb’ye wetru kbeki’ye\nNgoyta amlakhey bzuh bedile’ye\nGearey awyatey teqebeleni\nMskin koyne ’lekhu hatiat zedkemeni(2)\nLbey abet bel ktsw amlakhka\nBhazen bbkhyat aflt tkazekha\nBedeley felite mhretka ktyq\nMehari ikha’mo ftur zeytnq\nMegareja hatiat nfitey shefeno\nAkaley mahmene mqwam tesano\nIkhi’mo ab qdmiu beal kbri moges\nMebet lemni nab fqur krstos\nGulbetey nskha meberti hayley\nBedeley demsso kuneley memhrey\nKab bedel krhq adawka zergihka\nDagm nkheybdl atsnani ikha\nGega tegagye nakha aqeyemku\nNtefai hywet amlakhey hadegku\nHji gn amine kem tegagekhu\nBrkhus andebet nakha lemenku"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

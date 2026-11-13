@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1976932917",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዓይ ሕይወተይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዓይ ሕይወተይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nገጽካ ክርኢ ከንቃዕርር ብፍርሃት ናባኻ\nበርትዕ ኢልካኒ ክጸንዕ ፍሽኽታ ኣሰኒኻ\nሴርካ ንመቑሐይ ንጸላእየይ ኣሲርካ\nብደምካ ሓጺብካኒ ሂብካኒ ሕያው ፍቕርኻ\n[[/chorus]]\n\nንዓይ ሕይወተይ ታኦስ ኢኻ\nክብሪ ምንባርይ ክርስቶስ ኢኻ\nስምካዩ ድኅነተይ ዘለዓለም ዝነብር\nስምካ’ዩ ቀስቲ ሕይወተይ ንጸላእየይ ዝስዕር\n\nመቐረት ሕይወተይ ፍቕርኻ መሊኡ ኣብ ልበይ\nዕግበት ኮይኑኒ መኣዛኻ ጥዒሙ ጨናይ\nደምካ እንክዛሪ ጽምኣተይ ፍጹም ከጥልል\nፈቒድካለይ ጐይታይ ዘልዓለም ኣብ ቤትካ ከጽልል\n\nወትሩ ዝቐውም ንስምካ ኣብ ውሽጢ ዓለም\nህርመት ናይ ልበይ ደዊሉ ከይነብር ኣብ ጸላም\nሓበን ንሕይወተይ ምዃንካ ክፈልጥ ኵሉ\nክምስክረልካ’ዩ ዝልበይ በቲ ሕጉስ ቃሉ"
+    },
+    "ti_ro": {
+      "title": "N'ay hywetey",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Nay hywetey taos ikha\nKbri mnbary krstos ikha\nSmkayu dhnetey zelealem znebr\nSmka’yu qesti hywetey ntselayey zsr\nGetska kri kenqarr bfrhat nabakha\nBert ilkani ktsen fshkhta asenikha\nSerka nmequhay ntselayey asirka\nBdemka hatsibkani hibkani hyaw fqrkha\nMeqeret hywetey fqrkha meliu ab lbey\nGbet koynuni meazakha timu chenay\nDemka nkzari tsmatey ftsum ketll\nFeqidkaley goytay zelalem ab betka ketsll\nWegen zemedey ksn kterf beyney\nAlem kttelmeni chekina ktrhq kabay\nHdat koynkani nnefsey tesfa selamey\nKwilu asgirkani alikha shgr mekeray\nWetru zqewm nsmka ab wshti alem\nHrmet nay lbey dewilu keynebr ab tselam\nHaben nhywetey mkwanka kfelt kwilu\nKmskrelka’yu zlbey beti hgus qalu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ce0b48b4ff",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናብ መሕደሪኡ ኣትየ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናብ መሕደሪኡ ኣትየ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nጌርለይ እዩ’ሞ ከመስግኖ እየ\nኣብ ቤት መቕደሱ ክሰግደሉ እየ\nኣብ ቅድሚኡ ንምቛም ፈትየ ክነቅሕ’የ(2)\n[[/chorus]]\n\nናብ መሕደሪኡ ኣትየ\nክሰግድ ንእግዚብኣብሔር\nምስጋናይ ከቕርብ ስለ ክብሪ ስሙ\n\nኣብ ጊዜ መከራይ ዝኾነኒ ዋልታ\nኣብ ቤቱ ኣትየ ብፍጹም ብደስታ\nናይ ከንፈረይ ፍረ ክስውእ ብዕልልታ (2)\n\nክምስክረሉ’የ ንዑኡ ብዝግባእ\nመብጽዓይ ክፍጽም ከቕርበሉ ሞባእ\nናብ ኣደባባዩ ብምስጋና እመጽእ(2)"
+    },
+    "ti_ro": {
+      "title": "Nab mehderiu atye",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "[[chorus]]\nNay kenferey fre ksw bllta (2)\n[[/chorus]]\n\nNab mehderiu atye\nKsegd ngzibabher\nMsganay keqrb sle kbri smu\nGerley yu’mo kemesgno ye\nAb bet meqdesu ksegdelu ye\nAb qdmiu nmqwam fetye kneqh’ye(2)\nAb gize mekeray zkhoneni walta\nAb betu atye bftsum bdesta\nBbeal aserte awtar begena\nAb qdmi melakt khbo msgana\nAfna zlemeno sle zsemana (2)\nKmskrelu’ye nuu bzgba\nMebtsay kftsm keqrbelu moba\nNab adebabayu bmsgana mets(2)\nKeshebshbelu’ye ndmtsey aguliha\nAb bete meqdesu leyti tefesiha\nKemtom abotatey adawey zergiha (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

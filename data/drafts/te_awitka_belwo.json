@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7bc57507c0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተዓዊትካ በልዎ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተዓዊትካ በልዎ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nዝኽሩ ነባሪ'ዩ      ኣባ በሉ\nሕያው`ዩ ብመንፈስ ኣባ በሉ\nጻድቕ ባሕታዊ ገብረመንፈስቅዱስ\nጸሎቱ ዘስልጥ       ኣባ በሉ\nኣብ ቅድሚ ኣምላኹ ኣባ በሉ\nጻድቕ እዩ ኢልኩም ንዓለም ስበኹ\n[[/chorus]]\n\nተዓዊትካ በልዎ ፍረ ግብሩ መስክሩ\nናይ ገብረ መንፈስቅዱስ ጥዑም ዜና ንገሩ\nኣባ ኣባ ኣባ በሉ ክብሩ ንገሩ\n\nከም ጽሕዲ ሊባኖስ ኣባ በሉ\nከም ስየ ዝፈሪ      ኣባ በሉ\nገብረ መንፈስቅዱስ ሕሩይ ናይ ፈጣሪ\nመርዓዊ ምስመጸ ኣባ በሉ\nከይሓፍር ወድኻ ኣባ በሉ\nኣቦይ ዓድለኒ ካብ ዘይቲ ማህቶትካ\n\nከም ጽሕዲ ሊባኖስ . . ."
+    },
+    "ti_ro": {
+      "title": "Te'awitka belwo",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Teawitka belwo fre gbru meskru\nNay gebre menfesqdus tum zena ngeru\nAba aba aba belu kbru ngeru\nZkhru nebari'yu aba belu\nHyaw`yu bmenfes aba belu\nTsadq bahtawi gebremenfesqdus\nTselotu zeslt aba belu\nAb qdmi amlakhu aba belu\nTsadq yu ilkum nalem sbekhu\nKem tshdi libanos aba belu\nKem sye zferi aba belu\nGebre menfesqdus hruy nay fetari\nMerawi msmetse aba belu\nKeyhafr wedkha aba belu\nAboy adleni kab zeyti mahtotka\nNay wengel sebakhi aba belu\nKem petros kem pawlos aba belu\nHadsh hawarya gebre menfesqdus\nSmka ms ntsw aba belu\nKidanka zekirna aba belu\nKab lul fetari mhret lemnelna\nKem tshdi libanos . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

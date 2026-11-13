@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_9b2802bcbc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓዚነ ኣለኹ’ሞ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓዚነ ኣለኹ’ሞ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nዓቢይ’ዩ ’ቲ ባሕሪ ድንግል ኣደ ኣምላኸይ\nንኢሽተይ’ያ መርከበይ ድንግል ኣደ ኣምላኸይ(2)\nመራሒት መገደይ ድንግል ኣደ ኣምላኸይ\nንስኺ ወደበይ ድንግል ኣደ ኣምላኸይ (2)\n[[/chorus]]\n\nሓዚነ ኣለኹ’ሞ ብሥጋ ፈተና\nጫፍ ስለ ዘይብሉ ናይ ዓለም ሓዘና\nቀልጢፍኪ ምጽእኒ ናብዛ ንእሽቶ ቤተይ\nኣጸናንዕኒ ድንግል ኣደ ኣምላኸይ\n\nንመንገደይ ኵሉ ድንግል ኣደ ኣምላኸይ\nተላግጽ’ያ ዓለም ድንግል ኣደ ኣምላኸይ (2)\nመመክሒት ኣዲኡ ድንግል ኣደ ኣምላኸይ\nኣበይ ‘ላ እናበለት ድንግል ኣደ ኣምላኸይ (2)\n\nየለን ዘትረፍክዎ ድንግል ኣደ ኣምላኸይ\nደይበ ወሪደ ድንግል ኣደ ኣምላኸይ (2)\nንስኺ መኽሰበይ ድንግል ኣደ ኣምላኸይ\nቅድስት ጽዮን ኣደይ ድንግል ኣደ ኣምላኸይ (2)"
+    },
+    "ti_ro": {
+      "title": "Hazine alekhu’mo",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nNskhi wedebey dngl ade amlakhey (2)\n[[/chorus]]\n\nHazine alekhu’mo bssga fetena\nChaf sle zeyblu nay alem hazena\nQeltifki mtsni nabza nshto betey\nAtsenanni dngl ade amlakhey\nAbiy’yu ’ti bahri dngl ade amlakhey\nNishtey’ya merkebey dngl ade amlakhey(2)\nMerahit megedey dngl ade amlakhey\nNmengedey kwilu dngl ade amlakhey\nTelagts’ya alem dngl ade amlakhey (2)\nMemekhit adiu dngl ade amlakhey\nAbey ‘la nabelet dngl ade amlakhey (2)\nBqebitse tesfa dngl ade amlakhey\nKeywedq wedkhi dngl ade amlakhey (2)\nBmealtn leytn dngl ade amlakhey\nHalwni ikhi dngl ade amlakhey\nTesfa asnqni dngl ade amlakhey\nYelen zetrefkwo dngl ade amlakhey\nDeybe weride dngl ade amlakhey (2)\nNskhi mekhsebey dngl ade amlakhey\nQdst tsyon adey dngl ade amlakhey (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

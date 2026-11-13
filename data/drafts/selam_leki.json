@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a5544e2a3d",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰላም ለኪ"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰላም ለኪ",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nኩላቶም ወለዶ ብጽእቲ ይብሉኺ\nንውሉድ ወለዶ የዘኻኽሩ ስምኪ\nተስፋ ናይ ኣዳም ምኽንያተ ድኅነት\nመመክሒት ኵሉ ድንግል ንጽህት ሰላም ለኪ\n[[/chorus]]\n\nሰላም ለኪ ማርያም\nወለተሃና ወኢያቄም\nመሰረቱ ለዓለም\nወጥንተ መድኃኒት ዘእምቅድም\n\nንሕና ንኽንድሕን እንተዘይፈጥር ንዓኺ\nእንተዘየድሕነና ነይሩ ተወሊዱ ካባኺ\nከም ሰዶምን ከም ጎመራን\nምጠፋእና ኔርና ካብዚኣ ዓለም ሰላም ለኪ"
+    },
+    "ti_ro": {
+      "title": "Selam leki",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "Selam leki maryam\nWeletehana weiyaqem\nMeseretu lealem\nWetnte medhanit zemqdm\nKulatom weledo btsti yblukhi\nNwlud weledo yezekhakhru smki\nTesfa nay adam mkhnyate dhnet\nMemekhit kwilu dngl ntsht selam leki\nNhna nkhndhn ntezeyfetr nakhi\nNtezeyedhnena neyru tewelidu kabakhi\nKem sedomn kem gomeran\nMtefana nerna kabzia alem selam leki\nNay tfat may mzeneme wn\nNoh’wn nab mdri rgbit leakhe\nNay ayhi ftsame mlkt zkhonki\nHamelmalawit dngl nskhi’khi selam leki"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_c8dbd7d2d2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣይሓፍርን`የ ብማርያም"
+  },
+  "singer": "ዘማሪት ኣዜብ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣይሓፍርን`የ ብማርያም",
+      "zemari": "ዘማሪት ኣዜብ ከበደ",
+      "lyrics": "[[chorus]]\nኣይሓፍርን’የ ብማርያም (2)\nስማ እንክጽውዕ ይጸናናዕ\nመደበሲተይ ኢለያየ\nስማ ክጽውዕ ኣብ ጊዜ ሓዘን\nበጻሒተይ’ያ መጸናንዒት\nኣብ ጊዜ ሽግር ኣብ ጊዜ ጭንቂ\nከማኺ የለን መተዓረቒ\n[[/chorus]]\n\nማርያም(2) በሉ ምእመናን ኵሉ\nማርያም (2) ኢልና ክንድሕን ኢና\n\nማርያም(2) በሉ ምእመናን ኵሉ\nማርያም (2) ኢልና ክንድሕን ኢና\n\nማርያም(2) በሉ ምእመናን ኵሉ\nማርያም (2) ኢልና ክንድሕን ኢና\n\nማርያም(2) በሉ ምእመናን ኵሉ\nማርያም (2) ኢልና ክንድሕን ኢና"
+    },
+    "ti_ro": {
+      "title": "Ayhafrn`ye bmaryam",
+      "zemari": "zemarit azeb kebede",
+      "lyrics": "[[chorus]]\nMaryam(2) belu mmenan kwilu\nMaryam (2) ilna kndhn ina\nTselayey n-kesaqyeni\nAyteqmn ilu nknqeni\nMeleleytey nskhi ikhi\nKeydu tefiu ryu slkhi\nMaryam(2) belu mmenan kwilu\nMaryam (2) ilna kndhn ina\n[[/chorus]]\n\nAyhafrn’ye bmaryam (2)\nSma nktsw ytsenana\nMedebesitey ileyaye\nSma ktsw ab gize hazen\nBetsahitey’ya metsenanit\nAb gize shgr ab gize chnqi\nKemakhi yelen meteareqi\n\nKwilu hasabey tejemiruyu\nYtsbelekhu zemen newihu\nFtsame kri dngl rdni\nYlmn alekhu ab afdegekhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "chorus_check"
+  ]
+}

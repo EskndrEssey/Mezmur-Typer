@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2a92ae2d50",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰራዊቱ"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰራዊቱ",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nኣብ ክብሪ መንግስቱ ኣብ ልዕሊ ዙፋኑ\nዘልዓለም ይነብር ኣብ ሰማያት ኮይኑ\nንዝልምንዎ ኣእዳው ይዝርግሕ\nነቲ ጸልማት ብሰላም የውግሕ\n[[/chorus]]\n\nሰራዊቱ ኣብ ቅድሚኡ ይቖሙሉ\nመላእክቱ ኣብ ፊቱ ይሰግድሉ\nሓያል ኣምላኽ እግዚአብሔር እናበሉ(2)\n\nመብረቕ ምስ ነጎድጓድ ወሓይዝ ምስጋና\nይውሕዝ ይፈስስ ኣብ ቅድሚ ኣምላኽና\nመጋረጃ እሳት ይነድድ ኣብ ፊቱ\nዘመሩሉ ሊቃነ መላእክቱ\n\nኣብ ናይ ወርቂ ጽንሃ ጻዕዳ ዕጣን ጌሮም\nዝፋኑ ይዓጥኑ ኣብ ቅድሚኡ ኮይኖም\nብሓድሽ ምስጋና ብሓድሽ ውዳሴ\nየመስግኑ ንቅድስት ሥላሴ"
+    },
+    "ti_ro": {
+      "title": "Serawitu",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "[[chorus]]\nHayal amlakh gziabher nabelu(2)\n[[/chorus]]\n\nSerawitu ab qdmiu yqomulu\nMelaktu ab fitu ysegdlu\nAb kbri mengstu ab lli zufanu\nZelalem ynebr ab semayat koynu\nNzlmnwo adaw yzrgh\nNeti tselmat bselam yewgh\nMebreq ms negodgwad wehayz msgana\nYwhz yfess ab qdmi amlakhna\nMegareja sat ynedd ab fitu\nZemerulu liqane melaktu\nTmal lomi tsbah kwilu sa nsuyu\nNmot zseare hayal kehali’yu\nDagm nkimets nu knqbel\nBdemena ll ll nbl\nAb nay werqi tsnha tsada tan gerom\nZfanu yatnu ab qdmiu koynom\nBhadsh msgana bhadsh wdase\nYemesgnu nqdst sslase"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

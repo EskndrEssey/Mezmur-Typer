@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_63fb4377c4",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "አንተኑ ገብርኤል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "አንተኑ ገብርኤል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "ኣንተኑ ገብርኤል ከመ ትቀውም ቅድመ እግዚአብሔር\nመልኣከ ሰላም መልኣከ ሰናይ መልኣከ ራማ መልኣከ ብስራት\nኣንተኑ ገብርኤል"
+    },
+    "ti_ro": {
+      "title": "Antenu gebrel",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Antenu gebrel keme tqewm qdme gziabher\nMelake selam melake senay melake rama melake bsrat\nAntenu gebrel"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

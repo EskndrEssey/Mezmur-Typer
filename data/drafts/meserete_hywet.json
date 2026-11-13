@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_5a3b3a3e65",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መሠረተ ሕይወት"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መሠረተ ሕይወት",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nቤዛ(3) ለቤዛ ዓለሙ\n[[/chorus]]\n\nመሠረተ ሕይወት ማርያም\nወጥንተ መድኃኒት ዘእም ቀዲሙ"
+    },
+    "ti_ro": {
+      "title": "MeSerete hywet",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Meserete hywet maryam\nWetnte medhanit zem qedimu\nBeza(3) lebeza alemu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

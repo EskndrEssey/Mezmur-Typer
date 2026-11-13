@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7b13eecfca",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መልኣከ ሰላምነ"
+  },
+  "singer": "ዘማሪ ይልማ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መልኣከ ሰላምነ",
+      "zemari": "ዘማሪ ይልማ ሃይሉ",
+      "lyrics": "[[chorus]]\nጸበልካ ዝፍውስ ለዋህ መልኣክ (2)\nናይ ምሕረት ዝናምካ ንፍጥረት ዝባርኽ\nጸጋ ጥበብካ ምሃረና\nብረድኤት ፍቕርኻ ዑራኤል\nመልኣክ ኣይትፈለየና\n[[/chorus]]\n\nመልኣከ ሰላምነ ሊቀ መላእክት ዑራኤል\nሰኣል ወጸሊ በእንቲኣነ ኣዕርግ ጸሎተነ\nቅድመ መንበሩ ለመድኃኔ ዓለም\n\nመራሔ ብርሃናት ዑራኤል (2)\nብምልጃ ጸሎትካ ኣብ ትሕቴኻ ነጽልል\nፍጡን ከም ንስሪ ንምሕረት\nንድኅነት ሰባት (2) ፍጡነ ረድኤት\nዘማሪ ሃብታሙ ሽብሩ"
+    },
+    "ti_ro": {
+      "title": "Melake selamne",
+      "zemari": "zemari ylma haylu",
+      "lyrics": "[[chorus]]\nTsebelka zfws lewah melak (2)\n[[/chorus]]\n\nMelake selamne liqe melakt urael\nSeal wetseli bentiane arg tselotene\nQdme menberu lemedhane alem\nNay mhret znamka nftret zbarkh\nTsega tbebka mharena\nBredet fqrkha urael\nMelak aytfeleyena\nMerahe brhanat urael (2)\nBmlja tselotka ab thtekha netsll\nFtun kem nsri nmhret\nNdhnet sebat (2) ftune redet"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

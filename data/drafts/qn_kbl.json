@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_73139c5d15",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቅንዕ ክብል"
+  },
+  "singer": "ዘማሪት ኣዜብ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቅንዕ ክብል",
+      "zemari": "ዘማሪት ኣዜብ ከበደ",
+      "lyrics": "[[chorus]]\nኣዕጽምተይ ሰረጸ ስምዒት ፍቕርኻ\nስለ ዝፈሰሰለይ ክቡር ቅዱስ ደምካ\nናትካ’የ ኣምላኸይ ዓለም ክሒደ’የ\nፍቕርኻ ኣብ ልበይ ሓቲመዮ እየ\n[[/chorus]]\n\nቅንዕ ክብል ቅንዕ ንብዓተይ ተሓብሰ\nኵናት ጸላእተይን ‘ቲ ምኽሮም ፈረሰ\nምድኃኑ ርእየ’የ ጎሊሑ ደሚቑ\nሕይወት ኣውሪሱኒ ኣምላኽ ስለይ ሞይቱ\n\nሓይሉ ኣዕጢቑኒ በርቲዐ ብጐይታ\nገፋዒ ወዲቑ ክዝምር ብዓውታ\nዳግማይ ንኸይደንን ቀኒዑ ምጉባጠይ\nጐይታ ቆይሙ`ዩ`ሞ ብቕድሚት ብድሕረይ"
+    },
+    "ti_ro": {
+      "title": "Qn' kbl",
+      "zemari": "zemarit azeb kebede",
+      "lyrics": "Qn kbl qn nbatey tehabse\nKwinat tselateyn ‘ti mkhrom ferese\nMdhanu rye’ye golihu demiqu\nHywet awrisuni amlakh sley moytu\nAtsmtey seretse smit fqrkha\nSle zfeseseley kbur qdus demka\nNatka’ye amlakhey alem khide’ye\nFqrkha ab lbey hatimeyo ye\nHaylu atiquni bertia bgoyta\nGefai wediqu kzmr bawta\nDagmay nkheydenn qeniu mgubatey\nGoyta qoymu`yu`mo bqdmit bdhrey\nNaysi kbrey’yu ‘ti natka mkwaney\nZeykonkayo yelen amlakhey sley\nFqrkha zru’yu nay lbey grata\nKemlkheka nebr ksab mewedata"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

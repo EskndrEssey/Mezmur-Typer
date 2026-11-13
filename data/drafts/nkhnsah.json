@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_a36450006b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንኽንሳሕ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንኽንሳሕ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "ንኽንሳሕ መንፈስ ቅዱስ ኣይትፈለየና\nኣይትፈለየና(2) ሓይልኻ ሃበና"
+    },
+    "ti_ro": {
+      "title": "Nkhnsah",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Nkhnsah menfes qdus aytfeleyena\nAytfeleyena(2) haylkha habena"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

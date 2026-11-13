@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1cf3ad3062",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰባኬ ወንጌል"
+  },
+  "singer": "ዘማሪት ኣዜብ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰባኬ ወንጌል",
+      "zemari": "ዘማሪት ኣዜብ ከበደ",
+      "lyrics": "[[chorus]]\nዮሐንስ ኮከብ ዘኤፌሶን ዓምደ ብርሃን ዘፍጥሞ መልአክ\nዘበምድር ዘበምድር መልአክ\n[[/chorus]]\n\nሰባኬ ወንጌል ሐዋርያ ትንቢት\nለቤተክርስቲያን ዘይደምፅ ቀርን ነባቤ ለቤተክርስቲያን\n\nዘማሪት ፋንቱ ወልዴ"
+    },
+    "ti_ro": {
+      "title": "Sebake wengel",
+      "zemari": "zemarit azeb kebede",
+      "lyrics": "Sebake wengel hawarya tnbit\nLebetekrstiyan zeydemts qern nebabe lebetekrstiyan\nYohans kokeb zeefeson amde brhan zeftmo melak\nZebemdr zebemdr melak"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

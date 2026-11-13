@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_48444bd42e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣመስግኑ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣመስግኑ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nኣመስግኑ መን’ዩ ከም ኣምላኽና\nኣመስግኑ መን’ዩ በዓል ዝና\nኣመስግኑ ሕይወቱ ዝሃበ\nኣመስግኑ ኣሕሊፉ ስሌና\n[[/chorus]]\n\nኣመስግኑ ባሪኹና’ሎ\nዕልል በሉ ቀዲሱና’ሎ\nምስጋና ጀምሩ (2)\n\nኣመስግኑ ቲ’ናይ ግብጺ ሕይወት\nኣመስግኑ ናይ ባርነት ናብራ\nኣመስግኑ ዳግም ንኸይምለስ\nኣመስግኑ ኣውጺኡና ሓራ\n\nኣመስግኑ ከም ደቂ ቢታንያ\nኣመስግኑ ንውጻእ ስየ ሒዝና\nኣመስግኑ ከም ናይ ቅዱስ ያሬድ\nኣመስግኑ ይብዛሕ ምስጋናና"
+    },
+    "ti_ro": {
+      "title": "Amesgnu",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nMsgana jemru (2)\n[[/chorus]]\n\nAmesgnu barikhuna’lo\nLl belu qedisuna’lo\nAmesgnu men’yu kem amlakhna\nAmesgnu men’yu beal zna\nAmesgnu hywetu zhabe\nAmesgnu ahlifu slena\nAmesgnu ti’nay gbtsi hywet\nAmesgnu nay barnet nabra\nAmesgnu dagm nkheymles\nAmesgnu awtsiuna hara\nAmesgnu qne ms mahlet\nAmesgnu ybtsah’wn seatat\nAmesgnu trgum nay mnbarna\nAmesgnu meserete hywet\nAmesgnu kem deqi bitanya\nAmesgnu nwtsa sye hizna\nAmesgnu kem nay qdus yared\nAmesgnu ybzah msganana\nAmesgnu kab mrko babilon\nAmesgnu netsa wetsina ina\nAmesgnu nab tsyon atina\nAmesgnu nzemr kulna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

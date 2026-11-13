@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d04157a028",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሚካኤል ክብል"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሚካኤል ክብል",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nሕዝቡ ዝመርሕ ምስ ሓለቓታት\nዝመላለስ ኣብ እምባ እሳት\nካብቲ ቦታኣ ባሕሪ ሃደመት\nብመልኣክ ጐይታ ምስ ተናወጸት\nንገበል ኣሰነፈ\nስሙ ብኽብሪ ጽሓፈ (2)\n[[/chorus]]\n\nሚካኤል እንክብል ስሙ እንክጽውዕ\nብርሃን ኣምላኸይ ልዕለይ ይበርህ\nሓላዪ እዩ ፍጹም ሓላዪ\nዝሕልወኒ ዘበርትዓኒ (2)\n\n‘ቲ ከቢድ እምባ ሜዳ ኮይኑለይ\nእቲ ቤት ማእሰርቲ ተኸፊቱለይ\nኣይናወጽን ከቶ ኣይፈርሕን\nሚካኤል ከሎ ገለ ኣይከውንን\n\nቀልጢፉ መጸ ሚካኤል ናባይ\nዝቃወሙኒ ርሓቑ ካባይ\nሊቀ መላእክት ኣብ ቅድመይ ኮነ\nንብዓተይ ጠፍአ ታሪኽ ተሰርሐ"
+    },
+    "ti_ro": {
+      "title": "Mikael kbl",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "[[chorus]]\nZhlweni zebertani (2)\n[[/chorus]]\n\nMikael nkbl smu nktsw\nBrhan amlakhey lley yberh\nHalayi yu ftsum halayi\nHzbu zmerh ms haleqatat\nZmelales ab mba sat\nKabti botaa bahri hademet\nBmelak goyta ms tenawetset\nNgebel asenefe\nSmu bkhbri tshafe (2)\n‘Ti kebid mba meda koynuley\nTi bet maserti tekhefituley\nAynawetsn keto ayferhn\nMikael kelo gele aykewnn\nNtbitenya sirwo yu\nSeytan hafiru tqu awridu\nMlu tsetta ab semay kone\nGziabher tray smu genene\nQeltifu metse mikael nabay\nZqawemuni rhaqu kabay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

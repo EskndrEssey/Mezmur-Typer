@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_aa85d2a421",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተክለሃይማኖት ኣቦየ"
+  },
+  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተክለሃይማኖት ኣቦየ",
+      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+      "lyrics": "[[chorus]]\n>>     ፍጹም ክድሕኑ ብናቱ ጸሎት\n>>     ጸበሉ ኣሚኑ ንዝልከዮ\n>>     ይፍውስ ንሱ ብናቱ ዕዮ\n[[/chorus]]\n\nተክለሃይማኖት ኣቦየ ስምካ ክጽውዕ'የ (2)\nከመስግን ክዝምር ቅዱስ ቅዱስ ክብለካ'የ (2)\nተክለሃይማኖት ስምካ ፈሊጠ ከመስግነካ\n>>    ስምካ ክውድስ ክነብር ቤትካ\n>>    ብናትካ ሓይሊ ብናትካ ጸሎት\n>>    ክብርትዕ'የ ፍጹም ክዕወት\nተክለሃይማኖት ሸውዓተ ዓመት ንሱ ክጽሊ\n>>      ናብ ኣምላኽ ቀሪቡ ናብቲ ከሃሊ\n>>      እግሩ ተበልዐት ብፍልሖ ምድሪ\n>>      አምላኽ'ውን ሃቦ ክንፊ መብረሪ\nተክለሃይማኖት ኪዳን ተዋህቦ ተክለሃይማኖት\n\nተክለሃይማኖት ተክልየ ንበል ብትምክሕቲ\n>>    ክንረክብ ሰላም ከምኡ ዕረፍቲ\n>>    ኣምላኽ ተኽልየ ምሕረቱ ብዙሕ'ዩ\n>>     ዝሕልወና ቅዱስ ጓሳና እዩ"
+    },
+    "ti_ro": {
+      "title": "Teklehaymanot aboye",
+      "zemari": "liqe mela'kt adhnena ikha mikael",
+      "lyrics": "[[chorus]]\nTeklehaymanot aboye smka ktsw'ye (2)\n[[/chorus]]\nKemesgn kzmr qdus qdus kbleka'ye (2)\nTeklehaymanot smka felite kemesgneka\nSmka kwds knebr betka\nBnatka hayli bnatka tselot\nKbrt'ye ftsum kwet\nTeklehaymanot shewate amet nsu ktsli\nNab amlakh qeribu nabti kehali\nGru tebelat bflho mdri\nAmlakh'wn habo knfi mebreri\nTeklehaymanot kidan tewahbo teklehaymanot\nFtsum kdhnu bnatu tselot\nTsebelu aminu nzlkeyo\nYfws nsu bnatu yo\nTeklehaymanot teklye nbel btmkhti\nKnrekb selam kemu refti\nAmlakh tekhlye mhretu bzuh'yu\nZhlwena qdus gwasana yu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_670920add4",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሕጂ’ዶ ተመሊሰ"
+  },
+  "singer": "ዲ/ን ኣብርሃም መሓሪ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሕጂ’ዶ ተመሊሰ",
+      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
+      "lyrics": "[[chorus]]\nጀሚረዮ እንድየ ኣብቲ ናይ ፈለማ\nቅዱስ ቅንኢ ኣሕዲረ ፍታው ብዕላማ\nመንፈስ እግዚአብሔር ብኸመይ ክምኖ\nድኹም ኮይነ እምበርየ ልሳኑ ዘይኮኖ\n[[/chorus]]\n\nሕጂ’ዶ ተመሊሰ ንድሕሪት ጠሚተ\nኣእምሮይ ክዝመት ዓይነይ ተዓሚተ\n\nትምክሕቲ ሓሲበ ንቤቱ ከይጥሕስ\nልቦና ከጥሪ ሪመይ ንኽወርስ\nሰማያዊ ጸጋ ዝባነይ ክፈሶ\nሕጂ’ዶ ተሰምየ ርስቱ ዝኸሓዶ\n\nብመንፈስ ጀሚረ ከይውድእ ብስጋ\nክብሪ ውሉድነት ከይወርዶ ሓደጋ\nዕርፊ ሒዘ ኣይጥምትን’የ ንድሕረይ\nብሓይሊ ኣምላኸይ ከሳጉም ንቕድመይ\n\nመሪጸ’ለኹ ኣነ ዘይድሓር ሕጂ\nክመርሓ ሕይወተይ መንፈሳዊ ዓውዲ\nመዓስ ብቕልጽመይ ንኣንፈይ ዝግስግስ\nጾም ጸሎት ሓዊሰ ንስሙ ክቕድስ"
+    },
+    "ti_ro": {
+      "title": "Hji’do temelise",
+      "zemari": "di/n abrham mehari",
+      "lyrics": "Hji’do temelise ndhrit temite\nAmroy kzmet ayney teamite\nJemireyo ndye abti nay felema\nQdus qni ahdire ftaw blama\nMenfes gziabher bkhemey kmno\nDkhum koyne mberye lsanu zeykono\nTmkhti hasibe nbetu keyths\nLbona ketri rimey nkhwers\nSemayawi tsega zbaney kfeso\nHji’do tesemye rstu zkhehado\nNhlinay abye nay nebari rufta\nNsgay gesitse keliaya befta\nAmritseya nefsey kab kwilu ablitse\nAyfaleyn ila hazen ms tkaze\nBmenfes jemire keywd bsga\nKbri wludnet keywerdo hadega\nRfi hize aytmtn’ye ndhrey\nBhayli amlakhey kesagum nqdmey\nBdem amanuel ya teadiga\nMhl keytelma bnay alem waga\nAnes teazize hlu kbreta\nTsabti kkelakhel hatiat’wn keybhta\nMeritse’lekhu ane zeydhar hji\nKmerha hywetey menfesawi awdi\nMeas bqltsmey nanfey zgsgs\nTsom tselot hawise nsmu kqds"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

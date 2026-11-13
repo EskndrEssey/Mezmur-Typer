@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_972eefbc15",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፍሉይ መኣዛ"
+  },
+  "singer": "ዘማሪት ፋንቱ ወልዴ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፍሉይ መኣዛ",
+      "zemari": "ዘማሪት ፋንቱ ወልዴ",
+      "lyrics": "[[chorus]]\nኣምሳል ዘይብልኪ ንዒ ማርያመይ\nዘመደይ ኢኺ\nቲ’ክፉእ ዘመን\nሓላፊ’ዩ ኵሉ\nብዙሕ ፍቕርኺ\nልበይ ኣንደደ\nኣደይ ምዃንኪ\nብምፍላተይ\n[[/chorus]]\n\nፍሉይ መኣዛ ጥዑም ጨናኺ\nቅድሚ ኵሉ ሰብ ክዝምረልኪ\nተለዊጡ’ዩ እቲ ሕይወተይ\nምስ ጸዋዕኩኺ ንዒ ማርያመይ\n\nናይ ሰብ ጉልበት     ንዒ ማርያመይ\nእንታይ ከርብሓኒ\nሰረገላይ’ውን\nመዓስ የድኅን\nካብ ስዉር\nክፉእ መከራ\nክድሕን’የ\nስምኪ ጸዊዔ\n\nዘማሪት ቅድስት ምትኩ"
+    },
+    "ti_ro": {
+      "title": "Fluy meaza",
+      "zemari": "zemarit fantu welde",
+      "lyrics": "Fluy meaza tum chenakhi\nQdmi kwilu seb kzmrelki\nTelewitu’yu ti hywetey\nMs tsewakukhi ni maryamey\nAmsal zeyblki ni maryamey\nZemedey ikhi\nTi’kfu zemen\nHalafi’yu kwilu\nBzuh fqrkhi\nLbey andede\nAdey mkwanki\nBmflatey\nNay seb gulbet ni maryamey\nNtay kerbhani\nSeregelay’wn\nMeas yedhn\nKab swur\nKfu mekera\nKdhn’ye\nSmki tsewie\nBsrhay kwilu ni maryamey\nAydhnn’ye\nNho ytkz\nSle bedeley\nNezerarbay\nMemeqeritey\nTesemie`ye\nDngl ms belku"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

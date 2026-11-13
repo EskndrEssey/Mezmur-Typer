@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d55d96faab",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብቃልን ስጋን"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብቃልን ስጋን",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nሕማቕ’ዩ ጊዚኡ ክፉእ’ዩ ዘመኑ\nጸላእቲ በዚሖም እምነት ዘማስኑ\nሓልወኒ አምላክ ካልኢት ከይተረፈ\nንዓኣቶም ከይመስል ተዋሕዶ ገዲፈ (2)\n[[/chorus]]\n\nብቃልን ስጋን ፍጹም ዝተወሃሃደት\nቅዱሳን ኣቦታት ዘቖምዋ ደረት\nርስሓት ዘይብላ መሳልል ሰማያት\nሓቀኛ መገዲ ተዋሕዶ ሃይማኖት\n\nተዃሉ እንከለዉ ኣባጊዕ ዝመስሉ\nክፋእ ተኾልኲሎም ምሳና ዘጽልሉ\nምስኦም ንኸይሓብር ኪዳንካ ከጽንዕ\nኣጽኒዕካ ሓዘኒ ኣንፈተይ ከቕንዕ (2)\n\nዝንቕንቓ የለን ድልዱል’ዩ ሰረታ\nዝሕደስ ኣይኮነን ጽኑዕ’ዩ ደረታ\nርስትና ንሓሉ ንኹነላ ዋልታ\nነታ ዘይትሓልፍ ክንከውን ወረስታ (2)"
+    },
+    "ti_ro": {
+      "title": "Bqaln sgan",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nNaatom keymesl tewahdo gedife (2)\n[[/chorus]]\n\nBqaln sgan ftsum ztewehahadet\nQdusan abotat zeqomwa deret\nRshat zeybla mesall semayat\nHaqenya megedi tewahdo haymanot\nHmaq’yu giziu kfu’yu zemenu\nTselati bezihom mnet zemasnu\nHalweni amlak kalit keyterefe\nTekwalu nkelewu abagi zmeslu\nKfa tekholkulom msana zetsllu\nMsom nkheyhabr kidanka ketsn\nAtsnika hazeni anfetey keqn (2)\nDegiom thtna fqri ztekwahlu\nWshtom gn znakhes nefsi zmntlu\nMflayom sine ab selfom keyhabr\nTsegakha habeni guzoy nkhenetsr (2)\nZnqnqa yelen dldul’yu sereta\nZhdes aykonen tsnu’yu dereta\nRstna nhalu nkhunela walta\nNeta zeythalf knkewn weresta (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

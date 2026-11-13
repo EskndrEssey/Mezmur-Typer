@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_aa5980ed5c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እመ ብርሃን ክብለኪ"
+  },
+  "singer": "ዘማሪ ኣለማየሁ ኡርጌ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እመ ብርሃን ክብለኪ",
+      "zemari": "ዘማሪ ኣለማየሁ ኡርጌ",
+      "lyrics": "[[chorus]]\nናብራይ ተዘናቢሉ ደኺመለኹ ኣነ\nናባይ ቅረቢ ኣደይ ክጸናናዕ በጃኺ\nሰላም ኮይኑሎ ገዛይ ንስኺ ብምእታውኪ\nቲ ኣባይ ዝነበረ ሓዘነይውን ለዊጥኪ\n[[/chorus]]\n\nእመብርሃን ክብለኪ ምጽኒ ምስ ወድኺ\nቅረቢ ናብ ሕይወተይ ኣደይ ክጽውዓኪ\n\nዘይምኖ ኣደነትኪ ፍቕርኺ ጥዒሙኒ\nወትሩ ኣብ ጎንኻየ ‘ናበልኪ ኣቕስንኒ\nንስምኪ ንዘልዓለም ክጽውዕየ ኣነ\nናይ መንገደይ መራሒት ንዓይነይውን ብርሃነይ\n\nኣብ ጎነይ ምስ ትኾኒ ድምጽኺ የጽንዓኒ\nንስኺ ኢኺ ምርኩሰይ ኣብ ሓዘነይ ሽግረይ\nኣብ ዘለኹሉ ቦታ ኣብ ዝጉዓዘሉ ኵሉ\nናባኺየ ዝጠርዕ ኣንቲ ቤዛዊት ኵሉ\nዘማሪ ገብረአምላክ"
+    },
+    "ti_ro": {
+      "title": "'Me brhan kbleki",
+      "zemari": "zemari alemayehu urge",
+      "lyrics": "Mebrhan kbleki mtsni ms wedkhi\nQrebi nab hywetey adey ktswaki\nNabray tezenabilu dekhimelekhu ane\nNabay qrebi adey ktsenana bejakhi\nSelam koynulo gezay nskhi bmtawki\nTi abay znebere hazeneywn lewitki\nZeymno adenetki fqrkhi timuni\nWetru ab gonkhaye ‘nabelki aqsnni\nNsmki nzelalem ktswye ane\nNay mengedey merahit nayneywn brhaney\nAbti zefrh tselmat dekhime keywedqeki\nByemaney tsegamey degfni bejakhi\nByemaney kunley ade amlakh ab zemeney\nHadera aytrhaqi tebeqa kuni nay\nAb goney ms tkhoni dmtskhi yetsnani\nNskhi ikhi mrkusey ab hazeney shgrey\nAb zelekhulu bota ab zguazelu kwilu\nNabakhiye zter anti bezawit kwilu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

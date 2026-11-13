@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f1cd8812a0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቋንቋይ ኢኺ"
+  },
+  "singer": "ዲ/ን ልዑልሰገድ ጌታቸው",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቋንቋይ ኢኺ",
+      "zemari": "ዲ/ን ልዑልሰገድ ጌታቸው",
+      "lyrics": "[[chorus]]\nበየናይ ምግባረይ ቅድሚኡ ዝቖምኩ\nብቕዓት መዓስ ኮይኑ ስሙ እንተጸዋዕኩ\nንዓኺ ሒዘ’የ ድንግል ረዳኢተይ\nስለ ቃል ኪዳንኪ ትድሕን ሕይወተይ (2)\n[[/chorus]]\n\nቋንቋይ ኢኺ ድንግል ልሳን ናተይ\nመልሲ ዝረኽበልኪ ካብ ኣዶናይ (2)\nብኣኺ ቀሪበ ናብ ኣምላኸይ\nቤተይ ብበረኸት መሊኡለይ (2)\n\nናብራ ቅድስና ካባይ ተሰዊሩ\nብስርቂ ብሓሶት ውነይ ተደፊኑ\nብልመና ድንግል ብኣደ ብዙሓን\nእንሆ ይዝምር ከም ኩሎም ቅዱሳን (2)\n\nሰላም ለኪ ኢለ እንክጅምር ጸሎተይ\nፍሥሐ ይዓስሎ መላእ ሰብነተይ\nከም ኤፍሬም ሶርያዊ ከቕርብ ምስጋና\nድንግል ረዳኢተይ ሃብኒ ልቦና (2)"
+    },
+    "ti_ro": {
+      "title": "Qwanqway ikhi",
+      "zemari": "di/n l'ulseged getachew",
+      "lyrics": "[[chorus]]\nMelsi zrekhbelki kab adonay (2)\n[[/chorus]]\n\nQwanqway ikhi dngl lsan natey\nBakhi qeribe nab amlakhey\nBetey bberekhet meliuley (2)\nBeyenay mgbarey qdmiu zqomku\nBqat meas koynu smu ntetsewaku\nNakhi hize’ye dngl redaitey\nSle qal kidanki tdhn hywetey (2)\nNabra qdsna kabay tesewiru\nBsrqi bhasot wney tedefinu\nBlmena dngl bade bzuhan\nNho yzmr kem kulom qdusan (2)\nBsmki leminu zhafere yelen\nBakhi zeykebr seb’wn ayrkebn\nAne bmgbarey fre’kwa zeybley\nSmki tetsewie yhdes’ti hayley (2)\nSelam leki ile nkjmr tselotey\nFssha yaslo mela sebnetey\nKem efrem soryawi keqrb msgana\nDngl redaitey habni lbona (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

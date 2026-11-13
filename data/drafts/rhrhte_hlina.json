@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_109495613c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ርህርህተ ሕሊና"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ርህርህተ ሕሊና",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "ማርያም ማርያም ድንግል ማርያም\nርህርህተ ሕሊና (4) ማርያም"
+    },
+    "ti_ro": {
+      "title": "Rhrhte hlina",
+      "zemari": "di/n efrem",
+      "lyrics": "Maryam maryam dngl maryam\nRhrhte hlina (4) maryam"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

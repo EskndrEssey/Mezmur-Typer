@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_07a408cd20",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መስፈር የብሉን"
+  },
+  "singer": "ዘማሪት ዘርፌ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መስፈር የብሉን",
+      "zemari": "ዘማሪት ዘርፌ ከበደ",
+      "lyrics": "[[chorus]]\nኣብቲ ቀራንዮ ርእየካ ብዓይነይ\nካብ ቄዳር ጀሚሩ ስዒቡካ እግረይ\nክብሪ ዝና ኣይኮነን ልበይ ናፍቖቱ\nንስኻ ኢኻ ጐይታ ድሌቱ ጽምኣቱ\nታሪኸይ ቀያሪ መልክዕ መንነተይ\nጸዊዕካኒ ጐይታ ክሕደስ ሕይወተይ\n[[/chorus]]\n\nንብዓት ኣይሰፍርን ኢደይ\nዜማ ክብርኻ ከሎ ኣብ ኣፈይ\nውህበት ጸጋኻ ጥበብ ዜማ\nይፍልፍል ኣሎ ብምስጋና\n\nማዕበል እናህዳእካ ጌርካለይ ጸጥታ\nጭንቀተይ ኣርሒቕካ ረዲእካኒ ጐይታ\nኣበይ መጽንሓኒ ናይ ሰብ ተግባራቱ\nኣባይ ተዘይግለጽ ፍቕርኻ ረድኤቱ\nታሪኸይ ቀያሪ መልክዕ መንነተይ\nጸዊዕካኒ ጐይታ ክሕደስ ሕይወተይ\n\nንድንኳን በዓል ኣፍኒን ጸሊኣቶ ነፍሰይ\nቤትካ ይሕሸኒ ደራዚ ንብዓተይ\nካብ ስደት መሊስካ ኣልቢስካኒ ጸጋ\nልበይ ኣጽንዓዮ ኣይኹን ላንጋ ላንጋ\nታሪኸይ ቀያሪ መልክዕ መንነተይ\nጸዊዕካኒ ጐይታ ክሕደስ ሕይወተይ"
+    },
+    "ti_ro": {
+      "title": "Mesfer yeblun",
+      "zemari": "zemarit zerfe kebede",
+      "lyrics": "[[chorus]]\nTarikhey qeyari melk mennetey\nTsewikani goyta khdes hywetey\n[[/chorus]]\n\nNbat aysefrn idey\nZema kbrkha kelo ab afey\nWhbet tsegakha tbeb zema\nYflfl alo bmsgana\nAbti qeranyo ryeka bayney\nKab qedar jemiru sibuka grey\nKbri zna aykonen lbey nafqotu\nNskha ikha goyta dletu tsmatu\n\nMabel nahdaka gerkaley tsetta\nChnqetey arhiqka redikani goyta\nAbey metsnhani nay seb tegbaratu\nAbay tezeyglets fqrkha redetu\n\nNabay qeribu’khe men’yu rediuni\nAb goney dew ilu bert zbeleni\nTi zamenkwo keydu gedifuni\nNskha gn goyta bdem adigkani\n\nNdnkwan beal afnin tseliato nefsey\nBetka yhsheni derazi nbatey\nKab sdet meliska albiskani tsega\nLbey atsnayo aykhun langa langa"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

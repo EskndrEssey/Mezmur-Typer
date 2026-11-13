@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_71c99c6407",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ልቦና ዝምስጥ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ልቦና ዝምስጥ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nናይ መላእክት ዜማ ዝማሬ ማህሌት\nኣዕጽምቲ የለምልም ቅዳሴ ኣቦታት (2)\n[[/chorus]]\n\nልቦና ዝምስጥ ዝማሬ ማህሌታ\nኣዕጽምቲ ዘለምልም ቅዳሴኣ ስብሃታ\nናይ ጸሎት በዓቲያ ናይ ኣበው ቅዱሳን\nመመክሒትና’ያ ቤተ ክርስቲያን (2)\n\nብዝማሬ ያሬድ ከምቶም ኣቦታትና\nንዘምር ምእመናን ብሓባር ኩላትና (2)\n\nናይ ሰማእታት ኣኽሊል ተጋድሎ ጻድቃን\nዋሕስ ናትና ኢኺ ቤተክርስቲያን (2)"
+    },
+    "ti_ro": {
+      "title": "Lbona zmsT",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nAtsmti yelemlm qdase abotat (2)\n[[/chorus]]\n\nLbona zmst zmare mahleta\nAtsmti zelemlm qdasea sbhata\nNay tselot beatiya nay abew qdusan\nMemekhitna’ya bete krstiyan (2)\nNay melakt zema zmare mahlet\nBzmare yared kemtom abotatna\nNzemr mmenan bhabar kulatna (2)\nIyeluta qirqos nay mnet harbenyatat\nHibomna haymanot nana htsanat (2)\nNay sematat akhlil tegadlo tsadqan\nWahs natna ikhi betekrstiyan (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

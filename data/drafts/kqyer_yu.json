@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4c9593eb37",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክቕየር’ዩ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክቕየር’ዩ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nቀያሪ’ዩ ታኦስ ቀያሪ ንዅሉ\nዓቕልና ኣይነጽብብ ኣይንጨነቐሉ\nህድእ’ሞ ንበል ቃላቱ ንሓሉ\nቀያሪ’ዩ ቀያሪ እቲ ጐይታ ኵሉ\n[[/chorus]]\n\nክቕየር’ዩ (2) ብሓይሊ እግዚአብሔር\nንተዓገስ ክሓልፍ’ዩ እዚ ምረት እዚ ሽግር\n\nኣብነት ንግበሮ ነቦና ኢዮብ\nኣብ ጊዜ ሽግሩ ምስጋና ዘቕርብ\nደበስ ተደበሰ ዝበለጸ ዕድል\nትዕግስቱን ጽንዓቱን ዘልበሰቶ ኣኽሊል\n\nዝያዳ ሓሳብና ኵሉ ድሌታትና\nሰላምና ዝደሊ ዝከናኸነና\nብፍቕሪ ዝጓሲ ኣሎ እንዶ ኣቦና\nኣማኑኤል ስሙ ኩርዓትና ሓበንና"
+    },
+    "ti_ro": {
+      "title": "Kqyer’yu",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Kqyer’yu (2) bhayli gziabher\nNteages khalf’yu zi mret zi shgr\nQeyari’yu taos qeyari nkwilu\nAqlna aynetsbb ayncheneqelu\nHd’mo nbel qalatu nhalu\nQeyari’yu qeyari ti goyta kwilu\nAbnet ngbero nebona iyob\nAb gize shgru msgana zeqrb\nDebes tedebese zbeletse dl\nTgstun tsnatun zelbeseto akhlil\nNeti mfllay mrkhab zgebr\nNhazen ngwahi nab hagos zqyr\nGoyta’yu zftsm nkwilu zesmr\nKab mot atensiu bhywet zenbr\nZyada hasabna kwilu dletatna\nSelamna zdeli zkenakhenena\nBfqri zgwasi alo ndo abona\nAmanuel smu kuratna habenna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

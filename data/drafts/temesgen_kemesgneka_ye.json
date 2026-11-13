@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a6f2fb23ae",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተመስገን ከመስግነካ’የ"
+  },
+  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተመስገን ከመስግነካ’የ",
+      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+      "lyrics": "[[chorus]]\nተመስገን ከመስግነካ’የ\nንሳህሊ ምሕረትካ ንፍቕርኻ ርእየ\nተመስገን ስዓበኒ ኢልካኒ\nብቅኑዕ ጎደና መሪሕካኒ\n[[/chorus]]\n\nፈሊኻ ጸዊዕካኒ ንስምካ ከልዕል ንሰንደቕ ዕላማይ\nኣሰሊፍካኒ እሙን ክኸውን ዝተግህ ዓቐይታይ\nኣጽዋረይ ሒዘ ኣንጊሀ ክወፍር\nዝተቐደሰት መንግስትኻ ከኽብር\nኣብ ጸግዒ ቤትካ ኣብ ጽላል ክሓድር\nእሙን ባርያኻ ተሰምየ ክነብር\n\nብስምካ ክወናጨፍ ዘንደልህጽ ኲናት ናይ ምድሓንካ ቀስቲ\nኣብ የማነይ እልፊ ኣብ ጥቓይ’ውን ሽሕ ክወድቁ ጸላእቲ\nበጃ ባሮቱ ነፍሱ ዝህብ ንጉስ\nኣብ ምድሪ የለን ዘደንቕ’ዩ ናትካስ\nንሕናስ ንስመ ከም ኣገልገልትኻ\nዝተገልገልናዮ ይበዝሕ ካባኻ"
+    },
+    "ti_ro": {
+      "title": "Temesgen kemesgneka’ye",
+      "zemari": "liqe mela'kt agelgali goytay",
+      "lyrics": "Temesgen kemesgneka’ye\nNsahli mhretka nfqrkha rye\nTemesgen sabeni ilkani\nBqnu godena merihkani\nFelikha tsewikani nsmka kell nsendeq lamay\nAselifkani mun kkhewn ztegh aqeytay\nAtswarey hize angiha kwefr\nZteqedeset mengstkha kekhbr\nAb tsegi betka ab tslal khadr\nMun baryakha tesemye knebr\nNdhritey keytmt agarey halu kab belih melatse\nAythdegeni kegelglekas hasabye qoritse\nMs klte goytot hankise keynebr\nHmaq keykewn senef wetehader\nRfey atsnia nqdmit ktmt\nAsenyeni ksab ta let\nBsmka kwenachef zendelhts kunat nay mdhanka qesti\nAb yemaney lfi ab tqay’wn shh kwedqu tselati\nBeja barotu nefsu zhb ngus\nAb mdri yelen zedenq’yu natkas\nNhnas nsme kem agelgeltkha\nZtegelgelnayo ybezh kabakha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

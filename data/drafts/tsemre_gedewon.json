@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_43ebaadba4",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፀምረ ጌዴዎን"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፀምረ ጌዴዎን",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ\nኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ\nየለን ዝሰኣኖ በለ ቅዱስ ገብርኤል\nባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል\nከመስግን ጀመረ ኣዳም’ውን ኪዕልል\n[[/chorus]]\n\nፀምረ ጌዴዎን ጠለለት ብብሥራት ገብርኤል(2)\nወላዲቱ ኮነት ንእግዚአብሔር ቃል\nትስመ ዘለዓለም እመ ኣማኑኤል\n\nኣምላኽና ዘርኣዮ ንነቢይ ሕዝቅኤል\nብዕጽውታ ትንበር ከም ዝበለ እቲ ቃል\nከም ምርኣይ ከም ዓይኒ ከም ምስማዕ ከም እዝኒ\nኣብ ድንግል ኃደረ ናይ ኲሉ ፈጣሪ\nንበይና ጠለለት ልክዕ ከምቲ ጸምሪ\n\nጊዜኡ ኣኸለ ትንቢተ ኢሳይያስ\nኣብ ድንግል ኃደረ ወልደ እግዚአብሔር ቅዱስ\nየለን ዝሰኣኖ በለ ቅዱስ ገብርኤል\nባርነት ኣብቅዐ ማእሰርቲ ናይ ሲኦል\nከመስግን ጀመረ ኣዳም’ውን ኪዕልል"
+    },
+    "ti_ro": {
+      "title": "Tsemre gedewon",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nTsemre gedewon telelet bbssrat gebrel(2)\n[[/chorus]]\n\nWeladitu konet ngziabher qal\nTsme zelealem me amanuel\n\nAmlakhna zerayo nnebiy hzqel\nBtswta tnber kem zbele ti qal\nKem mray kem ayni kem msma kem zni\nAb dngl hadere nay kulu fetari\nNbeyna telelet lk kemti tsemri\nTse patos muse zreaya ab sina\nHawi nanededet mnm zeymkwana\nDngl nmelekot mehderitu konet\nDawit kem zbelo sle ztebahget\nKetema gziabher tsyon’wn tesemyet"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

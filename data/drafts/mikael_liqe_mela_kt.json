@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2e8ecb34c7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሚካኤል ሊቀ መላእክት"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሚካኤል ሊቀ መላእክት",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nእስኪ ነመስግኖ ናይ ጐይታ ኣገልጋላይ\nክብሪ ዝተዋህቦ ካብ ሄር እግዚአብሔር\nክብርኻ ብዙሕ’ዩ ግሩም ተኣምራትካ\nረዳኢ ምንዱባን መድኃኒት ንስኻ ሚካኤል\n[[/chorus]]\n\nሚካኤል ሊቀ መላእክት (2)\nኣድሕነና ኣድሕነና ካብ ናይ ሲኦል እሳት\n\nሎሚ’ውን ንስኻ ከም ኩሎም ቅዱሳን\nንዓና ሓልወና ካብ ጸላኢ ሰይጣን\nንዝተማሕጸኑ በማላድነትካ\nፍጡነ ረድኤት ሚካኤል ኢኻ ሚካኤል"
+    },
+    "ti_ro": {
+      "title": "Mikael liqe mela'kt",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nMikael liqe melakt (2)\n[[/chorus]]\n\nAdhnena adhnena kab nay siol sat\nSki nemesgno nay goyta agelgalay\nKbri ztewahbo kab her gziabher\nKbrkha bzuh’yu grum teamratka\nRedai mnduban medhanit nskha mikael\nLomi’wn nskha kem kulom qdusan\nNana halwena kab tselai seytan\nNztemahtsenu bemaladnetka\nFtune redet mikael ikha mikael\nSmka ztswu zekirom zkhrkha\nRedaiom ikha netom zekhbrukha\nTsebelka fewsi’yu nzqerebukha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

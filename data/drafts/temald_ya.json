@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b254a4cd62",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተማልድ’ያ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተማልድ’ያ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nንዅሉ ሓጣኣትና በደልና ሓዲጋ\nምሕረት ተውርደልና ብነፍሲ ብስጋ\n[[/chorus]]\n\nማርያም ድንግል ርህርህት ኣዴና\nተማልድያ ናብ ፈጣሪና\nኣይንጠራጠርን ተማልድያ ማርያም ኣዴና(2)\n\nበቡኣን በዲኣን ብኢያቄም ብሃና\nማርያም ትባርኮ ነዚ ጉባኤና"
+    },
+    "ti_ro": {
+      "title": "Temald’ya",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nAynteratern temaldya maryam adena(2)\n[[/chorus]]\n\nMaryam dngl rhrht adena\nTemaldya nab fetarina\nNkwilu hataatna bedelna hadiga\nMhret tewrdelna bnefsi bsga\nBebuan bedian biyaqem bhana\nMaryam tbarko nezi gubaena\nMeseret hywetna mewtsit nay tsehay\nWahs nay kwilukhi bmdri bsemay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

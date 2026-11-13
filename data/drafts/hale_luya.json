@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8dcf308426",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሃሌ ሉያ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሃሌ ሉያ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nነዚ ኵሉ ፍቕሩ ኩላትኩም ረኣዩ\nሰማያዊ ኣቦ ደቀይ ኢሉና’ዩ\nኣፍቂሩና እዩ ንወዱ ብምሃብ\nንሕና’ውን ነፍቅሮ ምስጋና ብምቕራብ\n[[/chorus]]\n\nሃሌ ሉያ (3) ምስጋና ብሰማይ ብምድሪ\nሰብ ንዝፈጠረ ንእግዚአብሔር\nምስጋና ብሰማይ ብምድሪ\nንዓና ንዘፍቀረ ንእግዚአብሔር\n\nብሥጋ ርኢናዮ ዳህሲስናዮ ኢና\nክሳብ ዕጸ መስቀል ፍቕሩ ዘርኣየና\nብወልድ ተፈዊስና ኣሚና ብስሙ\nሕይወት ረኺብና ኢና በቲ ቅዱስ ቃሉ\n\nከም ሓደን ሰለስተን ኮይኑ ዝሕልወና\nንጥፍኣት ዘለዓለም ከቶ ዘይሓድገና\nክንከውን ወረስቱ ንዓለም ስዒርና\nብፍቕሩ ማሪኹ ለዊጡ ሕይወትና"
+    },
+    "ti_ro": {
+      "title": "Hale luya",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nHale luya (3) msgana bsemay bmdri\n[[/chorus]]\n\nSeb nzfetere ngziabher\nMsgana bsemay bmdri\nNana nzefqere ngziabher\nNezi kwilu fqru kulatkum reayu\nSemayawi abo deqey iluna’yu\nAfqiruna yu nwedu bmhab\nNhna’wn nefqro msgana bmqrab\nBssga rinayo dahsisnayo ina\nKsab tse mesqel fqru zerayena\nBweld tefewisna amina bsmu\nHywet rekhibna ina beti qdus qalu\nBnegestat mdri sqay ntebezha\nSlena kmskr menfesqdus metse\nNbetu zefqere ftsum zqedese\nDkhamna awtsiu hmamna fewese\nKem haden selesten koynu zhlwena\nNtfat zelealem keto zeyhadgena\nKnkewn werestu nalem sirna\nBfqru marikhu lewitu hywetna\nGrmawi mengstu tsub nzkhone\nMsgana wdase kab afna aynfle\nHywetu hibuna ab mesqel wilu\nNkhbru nzemr ll nbelelu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

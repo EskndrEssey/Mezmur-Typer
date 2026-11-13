@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0711",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 711,
+  "wereb_category": "wereb_qdusan",
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb Qdusan",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ውእቱ ሚካኤል ውእቱ መልኣከ ኃይል (2)",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nውእቱ ሚካኤል ውእቱ መልኣከ ኃይል (2)\nልዑል ውእቱ ልዑለ ብርሃን\nይስኣል ለነ ይስኣል ለኤርትራ\nረዳኤ ይኩና ኣመ ምንዳቤ\nንሱ እዩ ሚካኤል ንሱ እዩ መልኣከ ኃይል (2)\nልዑል ካብ ኩሎም ሊቃነ መላእክት\nይለምነልና ይለምን ንኤርትራ\nረዳኢ ይኩና ኣብ እዋን ጸገማ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

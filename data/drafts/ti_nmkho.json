@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_dd60d3e62a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እቲ ንምክሖ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እቲ ንምክሖ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nፍጻሜ ሓሳብና ምስጢር ናይ ዓወትና\nስራሕ ኣምላኽና’ዩ ኣይኮነን ካባና\nእሞ ኣይንመካሕ ኣብ ሓይልና ኣይንእመን\nስለ ሰናይ ግብሩ ንዑዑ ነመስግን (2)\n[[/chorus]]\n\nእቲ ንምክሖ ብእግዚአብሔር ይኹን ብኃይሉ ንመካሕ\nንኽንድሕን’ውን ኣብ ኢየሩሳሌም ኣብ መቕደሱ ንጽናሕ\nናብ ቤትና ክኣቱ ይዅሕኩሕ እዩ ዘሎ ንሰምዕ እንተለና\nናይ ልብና ማዕጾ ሕጂ ንኽፈተሉ ክነብር ምሳና\n\nሓላፊት ሕይወትና ናትና ትመስለና\nዋናኣ ይደልያ’ሎ ነረክቦ ኢና\nእፎይታ ክትረክብ ናብኡ ነማዕቁባ\nሓደ ኢልና ንህነጻ ብቓሉ ንንደቃ (2)\n\nንክርስቶስ ዝገብሮ ምንጪ ናይ ትምክሕቱ\nብትሕትና ይስዕሮ ንውዲት ጸላእቱ\nብሰላም ይንደቕ መንፈሱ ይረግእ\nንጭንቀት’ዛ ዓለም ሓግሒጉ የውጽእ (2)"
+    },
+    "ti_ro": {
+      "title": "'Ti nmkho",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nSle senay gbru nuu nemesgn (2)\n[[/chorus]]\n\nTi nmkho bgziabher ykhun bhaylu nmekah\nNkhndhn’wn ab iyerusalem ab meqdesu ntsnah\nNab betna katu ykwihkuh yu zelo nsem ntelena\nNay lbna matso hji nkhfetelu knebr msana\nFtsame hasabna mstir nay awetna\nSrah amlakhna’yu aykonen kabana\nMo aynmekah ab haylna aynmen\nHalafit hywetna natna tmeslena\nWanaa ydelya’lo nerekbo ina\nFoyta ktrekb nabu nemaquba\nHade ilna nhnetsa bqalu nndeqa (2)\nLli’ti nhasbo zefqerena goyta\nNtsorna ztsore ksab golgota\nHji’wn ntekhone keragef shekhemna\nDluw yu zelo khadg hatiatna (2)\nNkrstos zgebro mnchi nay tmkhtu\nBthtna ysro nwdit tselatu\nBselam yndeq menfesu yreg\nNchnqet’za alem haghigu yewts (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

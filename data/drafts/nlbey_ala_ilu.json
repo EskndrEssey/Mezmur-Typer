@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_01cd7b1029",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንልበይ ኣላዒሉ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንልበይ ኣላዒሉ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nልበይ ኣላዒሉ የመላኽተኒ\nንድንግል ማርያም እመና ይብለኒ\nእመን (6) ንወላዲት ኣምላኽ ንትልመን\n[[/chorus]]\n\nልበይ ኣላዒሉ የመላኽተኒ\nንመድኃኔ ዓለም እመኖ ይብለኒ\nእመን (6) ንኣሃዜ ኵሉ ንዝልመን\n\nልበይ ኣላዒሉ የመላኽተኒ\nንቅዱስ ሚካኤል እመኖ ይብለኒ\nእመን (6) ንመልኣከ ሳኅል ንዝልመን"
+    },
+    "ti_ro": {
+      "title": "Nlbey ala'ilu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Lbey alailu yemelakhteni\nNmedhane alem meno ybleni\nMen (6) nahaze kwilu nzlmen\nLbey alailu yemelakhteni\nNdngl maryam mena ybleni\nMen (6) nweladit amlakh ntlmen\nLbey alailu yemelakhteni\nNqdus mikael meno ybleni\nMen (6) nmelake sahl nzlmen\nLbey alailu yemelakhteni\nNqdus urael meno ybleni\nMen (6) nmelake selam nzlmen"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

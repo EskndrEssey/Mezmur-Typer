@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_e103d6412a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክብረ ቅዱሳን"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክብረ ቅዱሳን",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nክብረ ቅዱሳን ስለዝኾንኪ\nቅኔ ምስጋና ይግበኣኪ\nዝወለድክዮ ናይ ሕይወት መና\nዝናም ዘለኪ ፈጣን ደመና\n[[/chorus]]\n\nክብረ ቅዱሳን ይእቲ (2) ክብረ ቅዱሳን\nሙዳየ መና ጎሞር ሙዳየ መና (2)\n\nትሕትና ፍቕሪ ክዳን መልክዕኪ\nጥንሲ የዝልል ሰላምታ ናትኪ\nእሳት ወሊድኪ እሳት ሓቚፍኪ\nኣይወግሕን’ዩ ከይዘመርናልኪ\n\nሰኣሊ ለነ ሰላም ለኪ\nተማሕጸነ በኪዳንኪ\nንዒ ርግብየ ምስለ ወልድኪ\nሰማይ ወምድር ይዌድሱኪ"
+    },
+    "ti_ro": {
+      "title": "Kbre qdusan",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nMudaye mena gomor mudaye mena (2)\n[[/chorus]]\n\nKbre qdusan yti (2) kbre qdusan\nKbre qdusan slezkhonki\nQne msgana ygbeaki\nZweledkyo nay hywet mena\nZnam zeleki fetan demena\nThtna fqri kdan melkki\nTnsi yezll selamta natki\nSat welidki sat haqwafki\nAyweghn’yu keyzemernalki\nNay tsehay mbraq slezkhonki\nRina brhan maryam bakhi\nAytslmtn’yu keto hywetna\nWedkhi kelo brhan tsehayna\nSeali lene selam leki\nTemahtsene bekidanki\nNi rgbye msle weldki\nSemay wemdr ywedsuki"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

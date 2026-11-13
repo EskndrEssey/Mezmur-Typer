@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_50a3fb0215",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እስከ ንገርኒ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እስከ ንገርኒ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nመታን ክነግሮም ንዘይሰምዑ ኲሎም\nዜና ጽድቁ ተስፋ ነዳይ ንእንድርያስ ቅዱስ ፍሉይ\n[[/chorus]]\n\nእስከ ንገርኒ ደብረ ጽጌ\nዜና ጽድቁ ንእንድርያስ ፈታው ኣዶናይ(2)"
+    },
+    "ti_ro": {
+      "title": "'Ske ngerni",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nZena tsdqu nndryas fetaw adonay(2)\n[[/chorus]]\n\nSke ngerni debre tsge\nMetan knegrom nzeysemu kulom\nZena tsdqu tesfa neday nndryas qdus fluy"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

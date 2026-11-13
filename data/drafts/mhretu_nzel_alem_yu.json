@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_997938d9fb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምሕረቱ ንዘልዓለም’ዩ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምሕረቱ ንዘልዓለም’ዩ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nሰባት ክትንስኡ ኣብ ልዕሌና\nምሕረቱ ንዘልዓለም’ዩ (2)\nኣሕዛብ ብሕይወትና ምወሓጡና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nቀንዲ ቁጥዓኦም ኣብ ልዕሌና\nኣህዛብ ብሕይወትና ምወሓጡና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\n[[/chorus]]\n\nእግዚአብሔር ምሳና እንተዘይነብር\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌ ሉያ\n\nሽዑ ማያት ዓለም መጥሓለና\nምሕረቱ ንዘልዓለም’ዩ (2)\nታኼላ ኃጢኣት ደው መበለና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nጋሻ ውሕጅ ምኸደ ሒዙና\nኣብ ርኽሰት ናይ ዓለም ፍጹም ምሰጠምና\nምሕረቱ ንዘልዓለም’ዩ\n\nካብ ኢድ ጸላእትና ዘድሓነና\nምሕረቱ ንዘልዓለም’ዩ (2)\nንምንጫቶ ኣስናኖም ዘይወፈየና\nምሕረቱ ንዘልዓለም’ዩ (2) ሃሌሉያ\nሕጂ እውን ኤቨን ኤዘር ኢልና\nስሙ ብዕልልታ ንውድስ ኣሎና\nምሕረቱ ንዘልዓለም’ዩ"
+    },
+    "ti_ro": {
+      "title": "Mhretu nzel'alem’yu",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nMhretu nzelalem’yu (2) hale luya\n[[/chorus]]\n\nGziabher msana ntezeynebr\nSebat ktnsu ab llena\nMhretu nzelalem’yu (2)\nAhzab bhywetna mwehatuna\nMhretu nzelalem’yu (2) haleluya\nQendi qutaom ab llena\nAhzab bhywetna mwehatuna\nMhretu nzelalem’yu (2) haleluya\nMhretu nzelalem’yu (2) haleluya\nShu mayat alem methalena\nMhretu nzelalem’yu (2)\nTakhela hatiat dew mebelena\nMhretu nzelalem’yu (2) haleluya\nGasha whj mkhede hizuna\nAb rkhset nay alem ftsum msetemna\nMhretu nzelalem’yu\nKem uf kab mefentera meleqwina\nMhretu nzelalem’yu (2)\nMefentera tebetke nhna’wn dehana\nMhretu nzelalem’yu (2) haleluya\nGoyta ntezeynebr msana\nDmena ahtsirom bmot mqetsuna\nMhretu nzelalem’yu\nMhretu nzelalem’yu (2) haleluya\nKab id tselatna zedhanena\nMhretu nzelalem’yu (2)\nNmnchato asnanom zeywefeyena\nMhretu nzelalem’yu (2) haleluya\nHji wn even ezer ilna\nSmu bllta nwds alona\nMhretu nzelalem’yu\nRedetna kab gziabher\nDnqi gbru ftsum mestenkr\nSemayn mdrn zgebere\nBatsabu zsedere\nAmlakh nay mdri nay semayat\nAmlakh nay bahri nay qelayat\nAmlakh nay kwilu ftret"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

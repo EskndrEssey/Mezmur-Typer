@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_5f96e4a981",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እግዚአብሔር ጓሳይና’ዩ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እግዚአብሔር ጓሳይና’ዩ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nእግዚአብሔር ጓሳይና’ዩ ዝጎድለና የለን\nንጸላእቲ ስዒሩልና’ዩ የሕሊፉ ኣይሃበናን\nንሕይወትና በረኸት ጸጋ ዝዓደለና\nኣማኑኤል ይኽበር ይመስገን ዝሓለወና\n[[/chorus]]\n\nጸላኤ ሰናያት እንክዋግኣኒ\nሰይፊ ኲናት ጌሩ ክቖራርጸኒ\nስቕ ኢልካ ኣይርኣኻን ኣደንጊጸካ’የ\nንኽብሪ በቒዐ በኣኻ ኣቦየ\n\nብሓሶት ብዝሙት ብስርቂ ብሓሜት\nበቲ ረቂቕ ሜላ ብመናፍቕነት\nዓለም ተታሒዛ ምርኮ ሰይጣን ኮይና\nተለመና ጐይታይ ክትርኢ ምድኃና"
+    },
+    "ti_ro": {
+      "title": "'Gziabher gwasayna’yu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Gziabher gwasayna’yu zgodlena yelen\nNtselati sirulna’yu yehlifu ayhabenan\nNhywetna berekhet tsega zadelena\nAmanuel ykhber ymesgen zhalewena\nTselae senayat nkwagani\nSeyfi kunat geru kqorartseni\nSq ilka ayrakhan adengitseka’ye\nNkhbri beqia beakha aboye\nNho ygwazm kem ambesa shden\nHji’wn ntekhone seytan ayarefen\nBzrguh qltsmka lomi wn tegelets\nBmesqel ktehaz bsmka kgsets\nBhasot bzmut bsrqi bhamet\nBeti reqiq mela bmenafqnet\nAlem tetahiza mrko seytan koyna\nTelemena goytay ktri mdhana\nNay mdhan mkhnyat megedi aloka\nBkidan qdusan bdngl adekha\nAb bzuh shumena bwhud aminka (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

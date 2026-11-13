@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_5eb649f6d5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስለ ሚካኤል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስለ ሚካኤል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nምስለ ሚካኤል ወገብርኤል ንዒ(2)\n[[/chorus]]\n\nትናዝዝኒ እምላህ ትናዝዝኒ\nምስ ሚካኤልን ምስ ገብርኤልን ንዒ(2)\nከተጸናንዕኒ ሓዘን ልበይ ከተጸናንዕኒ"
+    },
+    "ti_ro": {
+      "title": "Msle mikael",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nMsle mikael wegebrel ni(2)\n[[/chorus]]\n\nTnazzni mlah tnazzni\nMs mikaeln ms gebreln ni(2)\nKetetsenanni hazen lbey ketetsenanni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

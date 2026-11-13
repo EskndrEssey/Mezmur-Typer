@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2d1b2b59d7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ገድሉ ተኣምሩ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ገድሉ ተኣምሩ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nቅዱስ ማሕደሩ ቀዲሱ ነፍሰይ\nለዊጥዎ'ዩ ንጸልማት ገድለይ\nባረኸ ቤተይ ብምልጃ ጸሎት\nጸጋኡ በዚሑ ናይ ተክለሃይማኖት\n[[/chorus]]\n\nዕጹብ ድንቂ'ዩ ስልጣኑ ክብሩ\nናይ ተክለሃይማኖት ገድሉ ተኣምሩ\nፈውሲ ረኺብና ብእምነት ጸበሉ\n\nግጥሚ መልክዑ ናይ ገድሉ ቃላት\nነቲ ሕማመይ ፈውሲ ኮይኖም`ዮም\nምስ መኣዛ ዕጣን ዓሪጉ ጸሎት\nበረኸት ሰላም ወሪዱ ምሕረት\n\nቅዱስ እምነቱ ቤተይ ነስኒሰ\nተንሲኤ ሕጂ ጸጋ ሓፊሰ\nብፍኖት እግሩ ወዱ ሰጎምኩ\nገድሉ ተኣምሩ እናተሰከምኩ\nዲ/ን ትዝታው ሳሙኤል"
+    },
+    "ti_ro": {
+      "title": "Gedlu teamru",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "Tsub dnqi'yu sltanu kbru\nNay teklehaymanot gedlu teamru\nFewsi rekhibna bmnet tsebelu\nQdus mahderu qedisu nefsey\nLewitwo'yu ntselmat gedley\nBarekhe betey bmlja tselot\nTsegau bezihu nay teklehaymanot\nGtmi melku nay gedlu qalat\nNeti hmamey fewsi koynom`yom\nMs meaza tan arigu tselot\nBerekhet selam weridu mhret\nMedhanit albo hsum hmamey\nGedlu nknbeb qelilu sekhmey\nArife`ye desta astenfise\nHadsh akaley hji lebise\nQdus mnetu betey nesnise\nTensie hji tsega hafise\nBfnot gru wedu segomku\nGedlu teamru natesekemku"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

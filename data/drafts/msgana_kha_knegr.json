@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_edf232a2eb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና’ኻ ክነግር"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና’ኻ ክነግር",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nናይ ቀራንዮ ውዕለት ከይሃስስ ካብ ልበይ\nክደግሞ እናሻዕ ንሱ’ዩ ሰላመይ\nንሞተይ ደምሲሱ ዘህድአ መንፈሰይ\nካብ ጸልማት ባርነት ባሊሁ ንነፍሰይ\n[[/chorus]]\n\nምስጋናኻ ክነግር ኦ ጐይታ\nንውዕለትካ ከስተንትን ኦ ጐይታ\nከናፍረይ ክፈት ንልበይ ኣንጽህ\nንቅዱስ መንፈስካ ኣብ ውሽጠይ ኣስፍሕ (2)\n\nንነዊሕ ዘመናት ካባኻ ርሒቐ\nከቕለሉ ብመንፈስ ኣብ ሰልሚ ወዲቐ\nኣባኻ ክሕየር እነኹ ይናፍቕ\nብላዛ ቃላትካ ዘልዓለም ክሕንቅቕ\n\nናይ ሕይወተይ ዕያግ ኣብዚ ንኸብቅዕ\nሞይትለይ’ዩ ኣምላኽ ሰላመይ ከደንፍዕ\nኣርማይ ከልዕሎ’የ መስቀልዩ ሰንደቐይ\nክነግር ክምስክር ንዘሕለፎ ስለይ"
+    },
+    "ti_ro": {
+      "title": "Msgana’kha knegr",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nNqdus menfeska ab wshtey asfh (2)\n[[/chorus]]\n\nMsganakha knegr o goyta\nNwletka kestentn o goyta\nKenafrey kfet nlbey antsh\nNay qeranyo wlet keyhass kab lbey\nKdegmo nasha nsu’yu selamey\nNmotey demsisu zehda menfesey\nKab tselmat barnet balihu nnefsey\nNnewih zemenat kabakha rhiqe\nKeqlelu bmenfes ab selmi wediqe\nAbakha khyer nekhu ynafq\nBlaza qalatka zelalem khnqq\nMestenkr koynuni hyaw’yu fqrkha\nQalat yhatsreni kgeltso senayka\nNsqta fetine gna aykealkun\nKzmr’ye beqa wletka kestentn\nNay hywetey yag abzi nkhebq\nMoytley’yu amlakh selamey kedenf\nArmay kello’ye mesqelyu sendeqey\nKnegr kmskr nzehlefo sley"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

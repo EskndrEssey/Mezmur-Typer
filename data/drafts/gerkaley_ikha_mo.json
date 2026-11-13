@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_dbefd12274",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጌርካለይ ኢኻ’ሞ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጌርካለይ ኢኻ’ሞ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nቀትሪ ጸልሚቱኒ ጸድፊ ከቢቡኒ\nሽግርን መከራን ንዓይ ከቢዱኒ\nመሲሉኒ ነይሩ ሓጋዚ ዘይብለይ\nንናይ ልበይ ሓዘን ፍጹም ኣርሒቕካለይ\n[[/chorus]]\n\nጌርካለይ ኢኻ’ሞ ነዓይ ብምሕረትካ\nየመስግነካ’ለኹ ዕልል ዕልል\nለዓለመ ዓለም ኣማኑኤል\nክግዝኣካየ መድኃኔ ዓለም\n\nኣምላኸይ ጉልበተይ ሓይለይ’ውን ከም ልበይ\nጸላኢ መሕፈሪ ዋልታ ናይ እምነተይ\nከምዘይትገድፈኒ ሎሚ ፈሊጠ’የ\nካብ ኵሉ ንላዕሊ ብኣኻ ኣሚነ’የ\n\nኦ ኣምላኽ ምስጋና ይግባእ ንዓኻ\nነዛ ምስኪን ገዛ በረኸት ዝሃብካ\nድኻ’የ ኣይብልን ሽሻየይ ንስኻ\nዕትሮይ መሊእካዮ ኣይተጉድሎን ኢኻ"
+    },
+    "ti_ro": {
+      "title": "Gerkaley ikha’mo",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Gerkaley ikha’mo neay bmhretka\nYemesgneka’lekhu ll ll\nLealeme alem amanuel\nKgzakaye medhane alem\nQetri tselmituni tsedfi kebibuni\nShgrn mekeran nay kebiduni\nMesiluni neyru hagazi zeybley\nNnay lbey hazen ftsum arhiqkaley\nAmlakhey gulbetey hayley’wn kem lbey\nTselai mehferi walta nay mnetey\nKemzeytgedfeni lomi felite’ye\nKab kwilu nlali bakha amine’ye\nNwhud abzihka tmgb goyta\nNtay`mo aloni nakha zhbeka\nLeyti ms mealti kwilu sa tebrh\nMenkr bbahrikha bsrahka tsub\nO amlakh msgana ygba nakha\nNeza mskin geza berekhet zhabka\nDkha’ye aybln shshayey nskha\nTroy melikayo aytegudlon ikha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

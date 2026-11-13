@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_816c93b867",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "በይንኻ ኢኻ ንጉሥ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "በይንኻ ኢኻ ንጉሥ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nተነባዕኩ ስለ ፍቕርኻ\nሞባእ ቅኔ'ውን ተውደቕኩልካ\nቅኔ ካሕሳ ኣይኮነን ንዓኻ\nምሉእ ዕድመይ እንተኣመስገንኩኻ\nቅኔ ካሕሳ ኣይኮነን ንዓኻ\nስጋዕ ሽበት ተመስገንኩኻ\n[[/chorus]]\n\nበይንኻ ኢኻ ንጉሥ በይንኻ ኢኻ ዳኛ (2)\nተመስገን ኢየሱስ መጸናንዒና\n\nዝመሃርካኒ ናይ ፍቕሪ ፊደል\nዝሃብካኒ ናይ ልቢ ደወል\nኣንቂሑኒ ኣነ አምልኸካ\nካልእ ኣይፈል-ጥን ብዘይካኻ\n\nካብ ውድቀተይ ኣልዒልካኒ'ኻ\nኣብ እምባታት እግረይ ኣጽናዕካ\nብምጻረይ ናይ ፍቕርኻ ኣርዑት\nሰብ ኮይነ'የ ጠፊኡ ውርደት"
+    },
+    "ti_ro": {
+      "title": "Beynkha ikha nguSs",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Beynkha ikha nguss beynkha ikha danya (2)\nTemesgen iyesus metsenanina\nTenebaku sle fqrkha\nMoba qne'wn tewdeqkulka\nQne kahsa aykonen nakha\nMlu dmey nteamesgenkukha\nQne kahsa aykonen nakha\nSga shbet temesgenkukha\nZmeharkani nay fqri fidel\nZhabkani nay lbi dewel\nAnqihuni ane amlkheka\nKal ayfel-tn bzeykakha\nMs tserekhu kab newri hatiat\nHlinay'wn ms teredat\nHadegkwo nseb mmrkwas\nMs abrahka ab lbey meqdes\nKab wdqetey alilkani'kha\nAb mbatat grey atsnaka\nBmtsarey nay fqrkha arut\nSeb koyne'ye tefiu wrdet"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

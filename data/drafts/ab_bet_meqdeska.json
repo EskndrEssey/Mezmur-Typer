@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_38f2e0f57a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብ ቤት መቕደስካ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብ ቤት መቕደስካ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nኣብ ሑጻ ዝቖመ ኮይኑ ቤተይ\nተነቓኒቑ መሰረተይ\nጸላኢ ኣብ ልዕለይ ዓብሊሉ\nሎሚ ንበይነይ ኮይነ ኣለኹ\n[[/chorus]]\n\nኣብ ቤት መቕደስካ ዘዕበኻኒ\nናይ ልቦና ጥበብ ዝመሃርካኒ\nናይ ንእስነተይ ኣምላኽ ኣቤለኻ\nካባይ ኣይትርሓቕ ሓደራኻ\n\nነግራም እምበር ኮይነ ዓመጸኛ\nኃጢኣት ዘይፈርህ ጉዳመኛ\nነፍሰይ ተዋረደት ብመከራ\nመን የራኽባ ምስ ኣምላኻ\n\n‘ቶም በደለኛታት ኩሎም መጹ\nምሕረት ፍቕርኻ ‘ናሓሰቡ\nኣእዳውካ ዘርጊሕካ ሓቚፍካዮም\nሎሚ ብኣኻ ተፈዊሶም"
+    },
+    "ti_ro": {
+      "title": "Ab bet meqdeska",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Ab bet meqdeska zebekhani\nNay lbona tbeb zmeharkani\nNay nsnetey amlakh abelekha\nKabay aytrhaq haderakha\nAb hutsa zqome koynu betey\nTeneqaniqu meseretey\nTselai ab lley ablilu\nLomi nbeyney koyne alekhu\nNegram mber koyne ametsenya\nHatiat zeyferh gudamenya\nNefsey tewaredet bmekera\nMen yerakhba ms amlakha\nWehabi selamey medhanitey\nFqrn snitn awridkaley\nAlem keytwesdeni kemza waza\nHadseniba bqalatka\n‘Tom bedelenyatat kulom metsu\nMhret fqrkha ‘nahasebu\nAdawka zergihka haqwafkayom\nLomi bakha tefewisom"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

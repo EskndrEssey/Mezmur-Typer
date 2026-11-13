@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d809851a08",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓድነት ብዝህብ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓድነት ብዝህብ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nምብኣስ ምፍልላይ ካብ ማእከልና ብምእላይ\nፍቕሩ ክሰድድ ናባና ንማሕጸኖ ኲላትና\nንልምን ኣሎና ንልምን (4)\n[[/chorus]]\n\nሓድነት ብዝህብ ሥጋኡን ደሙን\nብምሕረቱ እግዚአብሔር ሓደ ክገብረና ንለምን (2)\n\nብሓደ ልቢ ብምሥማር ንቅድስና ብምጽዓር\nናብ ናይ ቅዱሳን ሰፈር ክንኣቱ ንበል ሃረር\nንልምን ኣሎና ንጽውዕ ንምህለል ኣሎና ንጠርዕ\nንጽሊ ኣሎና ንምሕጸን ንልምን ኣሎና ንልምን\n\nሕብረት ክርስቲያን ኢያ’ሞ ሓድነታ ንሰለሞ\nንንበር ኣብ ውሽጣ ብጽድቂ ቤተክርስቲያን ቤት ሓቂ\nንዝምር ኣሎና ብሕብረት ንጽሊ ኣሎና ብስምረት\nጸሎትና ስምዓና ስምዓና ኣብ ቅድሜኻ ይብጻሕ ኣውያትና"
+    },
+    "ti_ro": {
+      "title": "Hadnet bzhb",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nBmhretu gziabher hade kgebrena nlemn (2)\n[[/chorus]]\n\nHadnet bzhb ssgaun demun\nMbas mfllay kab makelna bmlay\nFqru ksedd nabana nmahtseno kulatna\nNlmn alona nlmn (4)\nBhade lbi bmssmar nqdsna bmtsar\nNab nay qdusan sefer knatu nbel harer\nNlmn alona ntsw nmhlel alona nter\nNtsli alona nmhtsen nlmn alona nlmn\nHanti meadi nsatef nqdsna nselef\nHanti tswa’wn nkafel knrekb ab semay akhlil\nNmhlel alona habirna nlmn alona semirna\nNebtsh alona tselotna nabti lewah feqar amlakhna\nHbret krstiyan iya’mo hadneta nselemo\nNnber ab wshta btsdqi betekrstiyan bet haqi\nNzmr alona bhbret ntsli alona bsmret\nTselotna smana smana ab qdmekha ybtsah awyatna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

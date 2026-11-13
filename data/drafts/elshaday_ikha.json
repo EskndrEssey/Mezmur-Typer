@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9c16ad1345",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኤልሻዳይ ኢኻ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኤልሻዳይ ኢኻ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nተዘሪጉ ኵሉ ቅሳነት ሰላመይ\nመሬት ብብርሃኑ ጸልሚቱኒ ንዓይ\nብጥቓይ ክትሓልፍ ወረኻ ሰሚዐ\nወዲ ዳዊት መሓረኒ ኢለ'ውን ጨዲረ\nዝሰኣንክዎ ብርሃን ካብ ፈላጣት ዓለም\nረኺበ'የ (2) ካባኻ ረኺበ ክበር ንዘልዓለም\n[[/chorus]]\n\nኤልሻዳይ ኢኻ ኵሉ ትገብር\nየለን ዝሰኣን ንዓኻ\nካብ ባሕሪ ጎቲትካ ኣውጺኻኒ\nንዓኻ ዝኸፍሎ ጐይታይ እንታይ ኣሎኒ\n\nንቑጽ መሲሉኒ ኣብ ጥልቂ ማይ ኣትየ\nከባብየይ ጠሚተ ርድኡኒ'ውን ኢለ\nሰባት ዝሰኣኖም ቀሊል'ዩ ንዓኻ\nኦ ኣምላኸይ ኣውጽኣኒ ኢለ ለሚነካ\nከይሰጥም ብሰልሚ ሰዲድካለይ ጸጋ\nኣውጺኻኒ (2) ብማዕበል ከይጥሕል ጎቲትካ ኣውጺኻኒ"
+    },
+    "ti_ro": {
+      "title": "Elshaday ikha",
+      "zemari": "di/n efrem",
+      "lyrics": "Elshaday ikha kwilu tgebr\nYelen zsean nakha\nKab bahri gotitka awtsikhani\nNakha zkheflo goytay ntay aloni\nTezerigu kwilu qsanet selamey\nMeret bbrhanu tselmituni nay\nBtqay kthalf werekha semia\nWedi dawit mehareni ile'wn chedire\nZseankwo brhan kab felatat alem\nRekhibe'ye (2) kabakha rekhibe kber nzelalem\nNquts mesiluni ab tlqi may atye\nKebabyey temite rduni'wn ile\nSebat zseanom qelil'yu nakha\nO amlakhey awtsani ile lemineka\nKeysetm bselmi sedidkaley tsega\nAwtsikhani (2) bmabel keythl gotitka awtsikhani\nZeblechlch nay alem tsbaqe melka\nShibuni nay rhiqe kabakha\nKulom kelkeluni metan keyqerbeka\nBedileye mehareni klmn neakha\nBtsbaqe dege ftsum zeyttber\nTsewikani (2) hatiatey gedifka temahirka ilkani"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

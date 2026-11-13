@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_adc6f05ec1",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሕይወቱ ምሉእ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሕይወቱ ምሉእ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nሕይወቱ ምሉእ ኣብ እግዚአብሔር ተወኪሉ\nንእግዚአብሔር ኣሚኑ ንስሙ ኣልዒሉ\nተሓዲጉ ወይሲ ሓፊሩ\nዝብል ዛንታ'ዶ ሰሚዕኩም ትፈልጡ እስኪ ንገሩ\n[[/chorus]]\n\nበዘን የዒንትና ኣይረአናን\nበእዛና ኣይሰማዕናን\nኣይተጻሕፈን ኣየንበብናን\nኣቦታትና'ውን ካብ ቀደም ካብ ጥንቲ ኣይነገሩናን\n\nዑረት የዒንተይ ብወገን ዘመደይ ከም መርገም ክቑጸር\nስመይ ምግዱር ኮይኑ ብሰባት ክምረር\nጸልማት ሕይወተይ በኣኻ በሪሁ (2)\nኣብ ውሽጠይ የንጀርብብ ኣሎ ሕሰመይ ጋሊሁ\n\nጉድጓድ ኣናብስ ክወርድ ክስንዶ ብምኽሪ ረሲኣን\nዳኒኤል ሞይቱ'ዩ ክውረ ኣብ ባቢሎን\nንግደ ኣስናኖም ኣይወፈየንን (2)\nብዓይነይ ርእየዮ'ለኹ ናይ ኣምላኸይ ምድሓን"
+    },
+    "ti_ro": {
+      "title": "Hywetu mlu'",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nAyhadegenan aymenenenan (2)\n[[/chorus]]\n\nHywetu mlu ab gziabher tewekilu\nNgziabher aminu nsmu alilu\nTehadigu weysi hafiru\nZbl zanta'do semikum tfeltu ski ngeru\nBezen yeintna ayreanan\nBezana aysemanan\nAytetsahfen ayenbebnan\nAbotatna'wn kab qedem kab tnti aynegerunan\nTesfa qoritsu'ti dkhum lbna gwahi kdfo\nKwilu nktsemm tsegemna keysemo\nKemzi'kha kemti keybele koynuna'yu medhn\nUret yeintey bwegen zemedey kem mergem kqutser\nSmey mgdur koynu bsebat kmrer\nTselmat hywetey beakha berihu (2)\nAb wshtey yenjerbb alo hsemey galihu\nAlem merira bnefsi bssga tsora kkhebdeni\nShokh amikela zuryay kkhebeni\nShkhmey aqlilka anagifkani (2)\nNakha zhbo goytay ane ntay aloni\nGudgwad anabs kwerd ksndo bmkhri resian\nDaniel moytu'yu kwre ab babilon\nNgde asnanom aywefeyenn (2)\nBayney ryeyo'lekhu nay amlakhey mdhan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

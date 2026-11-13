@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b178fd7f31",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቅልጽምካ ዕጸፍ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቅልጽምካ ዕጸፍ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nሕይወት ክመልእ ተሪፉ ሞተይ\nእቲ ጸላም ድነ ክእለ ካባይ\nእንታይ ኣሕዘኖም እቶም ሰዱቓውያን\nንዘይዕንቀፍ ናይ ጐይታ ምድሓን\n[[/chorus]]\n\nቅልጽምካ ዕጸፍ ዝብለካ መን’ዩ\nምድሓንካ ግደፍ ዝብለካ መን’ዩ\nእንተኸፍኣኩም’ቶም ኣሳደድተይ\nጸኒዐ ኣለኹ ብኣኻ ጐይታይ\n\nኣብ ቤተ ሳይዳ ሕማመይ ደርብየ\nእንተ ተንሳእኩ ሓይሊ ደሪበ\nብሰንበት ንዓይ ፈዊሱኒ ኢልኩም\nንምንታይ ንዕኡ ንሞት ፈረድኩም\n\nዓይኒ ፈጢሩ እንተርኣየኒ\nምስቶም ዝርእዩ እንተጸምበረኒ\nንምንታይ ገጽኩም ብሓዘን ጠቀረ\nኤልሻዳይ ጐይታ ስለዘፍቀረ"
+    },
+    "ti_ro": {
+      "title": "QlTsmka 'Tsef",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "Qltsmka tsef zbleka men’yu\nMdhanka gdef zbleka men’yu\nNtekhefakum’tom asadedtey\nTsenia alekhu bakha goytay\nHywet kmel terifu motey\nTi tselam dne kle kabay\nNtay ahzenom tom seduqawyan\nNzeynqef nay goyta mdhan\nAb bete sayda hmamey derbye\nNte tensaku hayli deribe\nBsenbet nay fewisuni ilkum\nNmntay nu nmot feredkum\nSmon teale ykefet betu\nYakl qnkha abti mhretu\nHatiatey goyta tehadegeley\nNtay tguda beti nbatey\nAyni fetiru nterayeni\nMstom zryu ntetsembereni\nNmntay getskum bhazen teqere\nElshaday goyta slezefqere\nYkefet betu knmelales\nTi feqar goyta abana ynges\nGetse berekhet ngoytnetu\nAb idna hizna nabu knatu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

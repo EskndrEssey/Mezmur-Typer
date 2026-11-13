@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a692833631",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መሰንቆን በገናን ሓዙ"
+  },
+  "singer": "ዘማሪት ዘርፌ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መሰንቆን በገናን ሓዙ",
+      "zemari": "ዘማሪት ዘርፌ ከበደ",
+      "lyrics": "[[chorus]]\nእጹብ ድንቂ’ዩ ናይ ደቂ ኣሳፍ ጸጋ\nዓስቢ ዘመርቲ ናይ ዘየምቲ ዋጋ\nዳዊት ጸውዓ በገና ኣልዒሉ\nንኽብራ ዘኪሩ\n[[/chorus]]\n\nመሰንቆን በገናን ሓዙ\nዕልልታ ውዳሴ ኣዕዝዙ\nሰማይን ምድርን የቕልቡ\nንማርያም ምስጋና ኣቕርቡ\n\nብምኡዝ ልሳን ዝጠዓመ ቃና\nብስልቲ ሰማይ ኣበው ዘውረሱና\nክንሰግድ ኢና ሰላም ለኪ ኢልና\nመቕደሳ ኣቲና\n\nኣብ ባዕዲ ኣይኮነን ኣብ ርስትና ኣለና\nነውርዶ ሕጂ ስቑል መሰንቆና\nኣብ ቤት ግሽነት ንዓና ቀዲማ\nመልኣትና ዜማ\nዘማሪት ፍቅርተ ፈለቀ"
+    },
+    "ti_ro": {
+      "title": "Mesenqon begenan hazu",
+      "zemari": "zemarit zerfe kebede",
+      "lyrics": "Mesenqon begenan hazu\nLlta wdase azzu\nSemayn mdrn yeqlbu\nNmaryam msgana aqrbu\nTsub dnqi’yu nay deqi asaf tsega\nAsbi zemerti nay zeyemti waga\nDawit tsewa begena alilu\nNkhbra zekiru\nBmuz lsan zteame qana\nBslti semay abew zewresuna\nKnsegd ina selam leki ilna\nMeqdesa atina\nBeta abina ab qetsri dnkwana\nMsa nknnebr ntay godiluna\nNtezemerna aynrewn kota\nNteqrebna llta\nAb badi aykonen ab rstna alena\nNewrdo hji squl mesenqona\nAb bet gshnet nana qedima\nMelatna zema"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

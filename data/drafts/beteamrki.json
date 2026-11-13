@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c62dcbef1e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "በተኣምርኪ"
+  },
+  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "በተኣምርኪ",
+      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
+      "lyrics": "[[chorus]]\nተኣምርኪ ክንበብ እግዝእትነ\nእቲ ናትኪ ስራሕ ኣጋንንቲ ኣይቀርቡን እግዝእትነ\nይርሕቕ መከራ በቲ ተኣምርኪ\nዝሰምዕ ዘንበቦ በረኸት ይወርስ ከምቶም ቅዱሳን\n[[/chorus]]\n\nበተኣምርኪ ተፈስሃ ኵሉ ዓለም\nበተኣምርኪ እግዝእትነ ማርያም እግዝእትነ (2)\n\nስማ መተዓረቒ እግዝእትነ\nናይ ፍቕሪ ኣደ እያ ናይ ወልድ መሕደሪት\nደንጋጺት ርኅርኅቲ ማርያም ኣዴና\nናይ ሰማይ ንግስቲ"
+    },
+    "ti_ro": {
+      "title": "Beteamrki",
+      "zemari": "di/n mndaye brhanu",
+      "lyrics": "[[chorus]]\nBeteamrki gztne maryam gztne (2)\n[[/chorus]]\n\nBeteamrki tefesha kwilu alem\nTeamrki knbeb gztne\nTi natki srah agannti ayqerbun gztne\nYrhq mekera beti teamrki\nZsem zenbebo berekhet ywers kemtom qdusan\nSma meteareqi gztne\nNay fqri ade ya nay weld mehderit\nDengatsit rhrhti maryam adena\nNay semay ngsti\nNay maryam adena\nTeamra nekhbr khbena’yumo\nFqri ms selam khbena’yumo\nFqri ms selam"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

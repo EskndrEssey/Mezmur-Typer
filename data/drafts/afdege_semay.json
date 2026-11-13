@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_5bd20a19c6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣፍደገ ሰማይ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣፍደገ ሰማይ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nኣኽሊል ትምክሕትና ናይ ዓሌትና ክብሪ\nኣብ ከርስኺ ጼርኪ ንዅሉ ጸዋሪ\nደመና ኩንልና ክዘንመና ምሕረት\nናይ ሓደራ ኣዴና ሓፍቶም ንመላእክት\n[[/chorus]]\n\nኣፍደገ ሰማይ መሳልል ያዕቆብ\nተስፋ ዝኾንኪ ነቲ ቀዳማይ ሰብ\nመድኅን ወሪዱ ብኣኺ ናብ ዓለም\nኣደ ክርስቶስ ክብሪ ኣለኪ ማርያም\n\nጽልኢ ኣብቂዑ’ዩ መንደቑ ፈሪሱ\nብፍረ ማህጸንኪ ዘመን ተሓዲሱ\nውዳሴኺ ኣለና ዝፍልፍል ካብ ልቢ\nየለን ካብ ፍጥረታት ካባኺ ዝዓቢ\n\nእምነትና ኣጽኒዕና መብራህትና ኣብሪህና\nክንቅበሎ ኣብ ሰማይ ንልዑል ኣምላኽና\nዘይትና ከይጎድል ጽድቂ ከይሰኣን\nብናይ ኪዳንኪ ቃል ጸጋኡ ንለምን"
+    },
+    "ti_ro": {
+      "title": "Afdege semay",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Afdege semay mesall yaqob\nTesfa zkhonki neti qedamay seb\nMedhn weridu bakhi nab alem\nAde krstos kbri aleki maryam\nAkhlil tmkhtna nay aletna kbri\nAb kerskhi tserki nkwilu tsewari\nDemena kunlna kzenmena mhret\nNay hadera adena haftom nmelakt\nTsli abqiu’yu mendequ ferisu\nBfre mahtsenki zemen tehadisu\nWdasekhi alena zflfl kab lbi\nYelen kab ftretat kabakhi zabi\nShgrna kwged nkhbarekh betna\nNi (2) nbel kemtom abotatna\nKkhewn’wn lomi kemti nay qedem\nHalwi msana zneberki msom\nMnetna atsnina mebrahtna abrihna\nKnqbelo ab semay nlul amlakhna\nZeytna keygodl tsdqi keysean\nBnay kidanki qal tsegau nlemn"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

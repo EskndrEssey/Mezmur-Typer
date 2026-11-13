@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1a81024335",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ማርያም ንበል"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ማርያም ንበል",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nመድኃኒተ ናሆም ንቑስለይ ፈዋሲት\nዒላ ቅድስና ጽድቂ ኣፈልፋሊት\nውቅያኖስ ኃጢኣት ዝሰግረላ መርከብ\nብኣኺ እበጽሖ ዘዕርፈሉ ወደብ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል\n[[/chorus]]\n\nዓይኒ ማይ ገነት ኢኺ ድንግል\nተኽሊ ሕይወተይ ንዘጥልል\nመትንታት ልበይ ተመጊቡ\nእስትንፋስ ድኅነት ተዋሂቡ\nተቐቢለየ በረኸት ጽጌኺ\nማርያም ኢለ ንኽውድሰኪ\n\nራእየ ሕዝቅኤል ዘይትርሖ ማዕጾ\nንድንግልናኺ ብምንታይ ክገልጾ\nብራና ፍሒቖም ድርሳናት ክደርሱ\nምሳሌ ስኢኖም ኣበዉ ክውድሱ\nዕቤት ክብራ ንመስክር ስቕ ኣይንበል ንዘምር ዕልል ንበል\nመሰንቆና ቃኒና ከበሮና ኣልዒልና ማርያም ንበል"
+    },
+    "ti_ro": {
+      "title": "Maryam nbel",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nBet kbra nmeskr sq aynbel nzemr ll nbel\nMesenqona qanina keberona alilna maryam nbel\n[[/chorus]]\n\nAyni may genet ikhi dngl\nTekhli hywetey nzetll\nMetntat lbey temegibu\nStnfas dhnet tewahibu\nTeqebileye berekhet tsgekhi\nMaryam ile nkhwdseki\nMedhanite nahom nqusley fewasit\nIla qdsna tsdqi afelfalit\nWqyanos hatiat zsegrela merkeb\nBakhi betsho zerfelu wedeb\n\nRaye hzqel zeytrho matso\nNdnglnakhi bmntay kgeltso\nBrana fhiqom drsanat kdersu\nMsale sinom abewu kwdsu\n\nFtsum aytemyn’ye smki koynu snqey\nKeto aydekmn kidanki’yu hayley\nNekhu ab qdmekhi haset temelie\nKzmr kem dawit mesenqoy alile"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

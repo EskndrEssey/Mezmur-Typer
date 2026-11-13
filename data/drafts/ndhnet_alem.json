@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f01fbf4eb7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንድኅነት ዓለም"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንድኅነት ዓለም",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nጐይታ ተሰቒሉ እንክሪኡ መላእክት\nኣብ ክንዲ ምስጋና በኸዩሉ ብኽያት\nኣምላኽ ብዕርቃኑ ተሰቒሉ’ዩ’ሞ\nሚካኤል ስቕ በለ ገብርኤል ገረሞ\n[[/chorus]]\n\nንድኅነት ዓለም ዝወዓለ ኣብ መስቀል\nኢየሱስ ክርስቶስ ኢዩ ኣማኑኤል\n\nነፍሱ ንፈታዊ ዝህብ ተተረኽበ\nንጸላኢ ግና የለን ነፍሱ ዝሃበ\nጸላእቱ ከለና ዝሞተ ስሌና\nኣበሳ ዘይብሉ ፍሉይ’ዩ ጐይታና\n\nብዕለተ ሓሙስ ዝኾነ ድራር\nዓርቢ ኣብ መስቀል ዝወግኦ ሽንካር\nስሌና ዝሞተ ፍቕሪ ገዲድዎ\nሕያዋይ ጓሳና መድኃኔ ዓለም እዩ"
+    },
+    "ti_ro": {
+      "title": "Ndhnet 'alem",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Ndhnet alem zweale ab mesqel\nIyesus krstos iyu amanuel\nGoyta teseqilu nkriu melakt\nAb kndi msgana bekheyulu bkhyat\nAmlakh brqanu teseqilu’yu’mo\nMikael sq bele gebrel geremo\nNefsu nfetawi zhb teterekhbe\nNtselai gna yelen nefsu zhabe\nTselatu kelena zmote slena\nAbesa zeyblu fluy’yu goytana\nWur ntebreha ‘tetensea mwut\nAb kndi msgana teqotsre kem hatiat\nSemayawi danya nkhfredelu\nTgstu zegerm kelo lli kwilu\nBlete hamus zkhone drar\nArbi ab mesqel zwego shnkar\nSlena zmote fqri gedidwo\nHyaway gwasana medhane alem yu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

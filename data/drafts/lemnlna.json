@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2ec61bbfae",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ለምንልና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ለምንልና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nናይ ሓደራ (2) ናይ ቃል ኪዳን ናይ ኵላትና ኣደ (2)\nመፍቀሪት ሰብ ኢኺ ማዕከን ለውሃት\nጠበቓ ጥቑዓት ልሳን ናይ ድኻታት (2)\n[[/chorus]]\n\nለምንልና (3) ናይ ኣምላኽ ኣደ (2)\nድንግል ማርያም (2) ድንግል ማርያም እመ ብዙኃን (2)\n\nክብሪ ኣሎና ጸጋ ኣሎና ተስፋ ኣሎና ብልማኖኺ (2)\nካብ መዓት ናይ ሰዶም ናይ ገሞራ\nመድኃኒት ዝሓደገልና ይመስገን ጐይታና (2)"
+    },
+    "ti_ro": {
+      "title": "Lemnlna",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nTebeqa tquat lsan nay dkhatat (2)\n[[/chorus]]\n\nNay hadera (2) nay qal kidan nay kwilatna ade (2)\nMefqerit seb ikhi maken lewhat\nKbri alona tsega alona tesfa alona blmanokhi (2)\nKab meat nay sedom nay gemora\nMedhanit zhadegelna ymesgen goytana (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

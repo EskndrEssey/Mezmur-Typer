@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d6ede0e925",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብዕሽነት ሓሳብ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብዕሽነት ሓሳብ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nክሓስብ ኔሩኒ ኣርሒቐ ክጥምት\nርዒሙ ግን ልበይ ብናይ ሔዋን ቃላት\nፍጹም ስኢነሉ ንምንባር መቐረት\nዝባነይ ምስ ሃብኩ ነታ ምውቕቲ ቤት\n[[/chorus]]\n\nብዕሽነት ሓሳብ ብህርፋን ንስልጣን\nናብ ደልሃመት ኣትየ ብጥበብ ናይ ሰይጣን\nኣይተረድኣንን ከምዘምለኽኩ ንመን\nእዚ ኵሉ ውርደት ኣባይ ኣይምበጽሐን (2)\n\nከወግድ ኔሩኒ ካብ ብልዒ ንበለስ\nስምብራት መርሓቕኩ ፈጺሙ ዘይድምሰስ\nተለመን ኣምላኸይ ንዓይ ንኽትፍውስ\nብንጹህ ኣእዳውካ ኣቝሳለይ ክትሕብስ\n\nለሚነየ ኣነ ፈጺመ ብልበይ\nመድኅን ክመጸኒ ካብቲ ላዕላይ ሰማይ\nይከኣሎ’ዩ ታኦስ ኵሉ ክገብረለይ\nክዘልል ክዝምር ከም እተፈትሐት ብተይ"
+    },
+    "ti_ro": {
+      "title": "B'shnet hasab",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nZi kwilu wrdet abay aymbetshan (2)\n[[/chorus]]\n\nBshnet hasab bhrfan nsltan\nNab delhamet atye btbeb nay seytan\nAyteredann kemzemlekhku nmen\nKhasb neruni arhiqe ktmt\nRimu gn lbey bnay hewan qalat\nFtsum sinelu nmnbar meqeret\nZbaney ms habku neta mwqti bet\nKewegd neruni kab bli nbeles\nSmbrat merhaqku fetsimu zeydmses\nTelemen amlakhey nay nkhtfws\nBntsuh adawka aqwisaley kthbs\nKwenachef sat kem mebreq berari\nKwilentnay yenqetqt nbatwn yzari\nNamlakh zekire kem mkwanu fqri\nNsha atekhu abesay kestesri\nLemineye ane fetsime blbey\nMedhn kmetseni kabti lalay semay\nYkealo’yu taos kwilu kgebreley\nKzell kzmr kem tefethat btey"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

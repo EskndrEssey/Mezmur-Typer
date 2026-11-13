@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_d4c56fea02",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ለሃገሪትነ ኤርትራ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ለሃገሪትነ ኤርትራ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "በእንተ ፍቅረ ኣብ ወወልድ ወመንፈስቅዱስ ኬንያ\nጸሎታ ስምዒ ማርያም ለሃገሪትነ ኤርትራ"
+    },
+    "ti_ro": {
+      "title": "Lehageritne ertra",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Bente fqre ab weweld wemenfesqdus kenya\nTselota smi maryam lehageritne ertra"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

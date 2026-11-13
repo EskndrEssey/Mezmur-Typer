@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_372702a187",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "በገናይ ኣልዒለ"
+  },
+  "singer": "ዲ/ን ሃዋዝ ተገኘ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "በገናይ ኣልዒለ",
+      "zemari": "ዲ/ን ሃዋዝ ተገኘ",
+      "lyrics": "[[chorus]]\nናይ ዘለዓለም ኣምላኽ ስሙ ዝገነነ\nከም ዝተናገሮ ኵሉ`ውን ዝኾነ\nዝፋኑ ክቡብ እዩ ብክብሪ ብግርማ\nካብቲ ዓቢይ መቕደስ ምስጋና ይስማዕ\n[[/chorus]]\n\nበገናይ ኣልዒለ መሰንቆይ ተኺለ\nከቕርብ ምስጋና ሥሉስ ቅዱስ ኢለ (2)\n\nኣሮንን ሙሴን ቅዱሳን ኵልኹም\nእተዉ ናብ ድንኳን ንጸናጽል ሒዝኩም\nካብ ኩሎም ኣብሊጹ ጐይታ መሪጽኩም\nመስክሩ ንዓለም ኣምላኽ’ዩ ኢልኩም\n\nኣብ ምርኮ ባቢሎን ንዘይረስዓና\nጠሚና ዓሪቕና ዋልታ ዝኾነና\nብዘይካ ሥላሴ መን ኣሎ ንዓና\nካብ ግዝኣት ሓያላት ሓራ ዘውጽኣና"
+    },
+    "ti_ro": {
+      "title": "Begenay al'ile",
+      "zemari": "di/n hawaz tegenye",
+      "lyrics": "Begenay alile mesenqoy tekhile\nKeqrb msgana sslus qdus ile (2)\nNay zelealem amlakh smu zgenene\nKem ztenagero kwilu`wn zkhone\nZfanu kbub yu bkbri bgrma\nKabti abiy meqdes msgana ysma\nAronn musen qdusan kwilkhum\nTewu nab dnkwan ntsenatsl hizkum\nKab kulom ablitsu goyta meritskum\nMeskru nalem amlakh’yu ilkum\nBeti kbur demu ztebejewekum\nMegletsi nay fqru demu zefseselkum\nNlbi yeresrs nay smu msgana\nAw ilkum zemru bdmtsi begena\nAb mrko babilon nzeyresana\nTemina ariqna walta zkhonena\nBzeyka sslase men alo nana\nKab gzat hayalat hara zewtsana"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0790",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 790,
+  "wereb_category": "wereb_mesqel",
+  "wereb_category_geez": "ወረብ መስቀል",
+  "wereb_category_en": "Wereb Mesqel",
+  "category": "feasts",
+  "categories": [
+    "feasts"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ንተሓጎስ ዕልል ንበል (2)",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nንተሓጎስ ዕልል ንበል (2)\nጠፊኡ ኣይተረፈን ተረኺቡ ቅዱስ መስቀል (2)\nብብርሃን ክመልእ ንዅሉ ዓለም (2)\nእንተጸዓሩ እኳ ጸላእቲ ሓቢሮም (2)\nነቲ ቅዱስ መስቀል ብምኽሪ ከጥፍኡ ሓቢሮም (2)\nክኸውን ኣይከኣለን ንኸንቱ ጽዒሮም (2)\nበቲ ጎቦ ተሓቢኡ ንዘመናት (2)\nተደርብዩ ብተንኮል ተሰዊሩ ብክፋኣት (2)\nተገሊጹ በቲ ናይ ዕጣን ስግደት (2)\nእሌኒ’ያ ነቲ ምሥጢር ዝረኸበቶ (2)\nዳሜራ ብሓጎስ ብኽብሪ ደው ዘበለቶ (2)\nነቲ ናይ ተንኮል ጎቦ’ውን ዘኹዓተቶ (2)\nታሪኻዊ ናይ ክርስቶስ ሕያው መስቀል (2)\nተገሊጹ ሎሚ ብክብሪ ብግሩም ሓይሊ (2)\nኵሉ ሳዕ ከብርሃልና ሓበን ክኾነና (2)\n ወረብ መርዓ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

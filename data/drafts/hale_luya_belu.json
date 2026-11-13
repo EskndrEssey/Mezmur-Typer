@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9eaee3077b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሃሌ ሉያ በሉ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሃሌ ሉያ በሉ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nነኣሽቱ እንከሎና ንሱ ኣልዒሉና\nብኣእዳዉ ኣጸቢቑ ፈጢሩ ኣኽቢሩና\nኣብ ሰማይ ኣብ ምድሪ ንዘልዓለም ይኽበር\nፍጥረታት ዘምሩ ንሓያል እግዚአብሔር\n[[/chorus]]\n\nሃሌ ሉያ (2) በሉ\nንእግዚአብሔር ሰባት ዕልል በሉ\nንዘምረሉ ነቕርብ’ውን ምስጋና\nልዑል እዩ እሞ ዘልዓለም ሥላሴ\n\nእቲ ምድሓኑ ዘደንቕ ብዙሕ እዩ ለውሃቱ\nንኽፉእ ኣይህበናን ሰፊሕ እዩ ትዕግስቱ\nንባሮቱ ይርእየና ብናይ ፍቕሪ ኣዒንቱ\nወትሩ ይሓቑፈና ብኣእዳው ናይ ምሕረቱ"
+    },
+    "ti_ro": {
+      "title": "Hale luya belu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nHale luya (2) belu\n[[/chorus]]\n\nNgziabher sebat ll belu\nNzemrelu neqrb’wn msgana\nLul yu mo zelalem sslase\nNeashtu nkelona nsu aliluna\nBadawu atsebiqu fetiru akhbiruna\nAb semay ab mdri nzelalem ykhber\nFtretat zemru nhayal gziabher\nTi mdhanu zedenq bzuh yu lewhatu\nNkhfu ayhbenan sefih yu tgstu\nNbarotu yryena bnay fqri aintu\nWetru yhaqufena badaw nay mhretu\nAb nabra hywetna yu’mo msana\nYhlu yu mo nmwtsa mtawna\nAb nkhedo kwilu ayfleyenan ftsum\nQereba yu nsu ymesgen zelalem"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

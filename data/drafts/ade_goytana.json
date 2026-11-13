@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_774786e40a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣደ ጐይታና"
+  },
+  "singer": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣደ ጐይታና",
+      "zemari": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+      "lyrics": "[[chorus]]\nጠዋሪ የብሎም `ቶም ዓበይቲ\nሜዳ ወዲቖም ህጻውንቲ\nሃልሃልታ ሓዊ ደው ንኽብል\nኣማልዲ ኢኺ ማርያም ድንግል\n[[/chorus]]\n\nኣደ ጐይታና ማርያም\nምንጪ በረኸት ናይ ሰላም\nመከራ ኮይኑ ተጨኒቕና\nድንግል ንዒ ኢልና ተማህጺና\n\nርሑቕ ሰላምና ንኽቐርብ\nፍቕሪ ሓድነት ንኽንክበብ\nምስቲ ወድኺ ንዒ ኣዴና\nናብራና ቅዱስ ክኾነልና\n\nድፍረት ጭካነ ዓመጽ ኮይኑ\nፍጹም ቅዱስ ሰብ ተሳኢኑ\nንሰናይ መን’ዩ ዘርእየና\nናብ ቤት ኣምላኽ ተላዒልና"
+    },
+    "ti_ro": {
+      "title": "Ade goytana",
+      "zemari": "zemri ngoyta zemri nsmu",
+      "lyrics": "Ade goytana maryam\nMnchi berekhet nay selam\nMekera koynu techeniqna\nDngl ni ilna temahtsina\nTewari yeblom `tom abeyti\nMeda wediqom htsawnti\nHalhalta hawi dew nkhbl\nAmaldi ikhi maryam dngl\nRhuq selamna nkhqerb\nFqri hadnet nkhnkbeb\nMsti wedkhi ni adena\nNabrana qdus kkhonelna\nMay zeyblu ila koynna\nZeri yeblun grhuna\nNay ertra ade mebet\nBarkhya ikhi bredet\nDfret chkane amets koynu\nFtsum qdus seb tesainu\nNsenay men’yu zeryena\nNab bet amlakh telailna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

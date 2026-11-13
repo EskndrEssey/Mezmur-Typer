@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c70145469a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብወርቂ ቀለም"
+  },
+  "singer": "ዘማሪት ጽገሬዳ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብወርቂ ቀለም",
+      "zemari": "ዘማሪት ጽገሬዳ ጥላሁን",
+      "lyrics": "[[chorus]]\nተሰናኺለ ንኸይወድቕ\nዘይቲ ቀንዴለይ ንኸይጽንቀቕ\nድንግል ኩንለይ ብዙሕ ዋጋ\nንኸይወድቀኪ ኣብ ሓደጋ\n[[/chorus]]\n\nብወርቂ ቀለም ተጻሒፍኪ\nድንግለይ ንዓይ ተዋሂብኪ\nከኽብረኪ`የ እመቤተይ\nጽዮን ተስፋ ኢኺ ንሕይወተይ\n\nዘሎ ዝመስሎ ዝወደቐ\nናይ ክብሪ ስፍራ ዝለቐቐ\nቀኒዑ ርእየ ንዓኺ ሒዙ\nበትሪ ምልጃኺ ተመርኪሱ\n\nእንተ ኣቕናዕክለይ ንጉልበተይ\nተባረኽክለይ ንሕይወተይ\nብጽእት ክብል’የ ዘወትር\nስለኺ ይኽበር እግዚአብሔር"
+    },
+    "ti_ro": {
+      "title": "Bwerqi qelem",
+      "zemari": "zemarit Tsgereda Tlahun",
+      "lyrics": "Bwerqi qelem tetsahifki\nDngley nay tewahibki\nKekhbreki`ye mebetey\nTsyon tesfa ikhi nhywetey\nTesenakhile nkheywedq\nZeyti qendeley nkheytsnqeq\nDngl kunley bzuh waga\nNkheywedqeki ab hadega\nZelo zmeslo zwedeqe\nNay kbri sfra zleqeqe\nQeniu rye nakhi hizu\nBetri mljakhi temerkisu\nAriqe dngl keyterfeki\nKab kbri goyta keytefaki\nQedimki wtsi ab guzoy\nWedkhi yu’mo lamay\nNte aqnakley ngulbetey\nTebarekhkley nhywetey\nBtst kbl’ye zewetr\nSlekhi ykhber gziabher"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

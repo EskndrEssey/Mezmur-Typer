@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_977689ebef",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብሰናይ ፍቓዱ"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብሰናይ ፍቓዱ",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nሰማይ ኮነ ምድሪ የዘንትዉ ግብሩ\nፈጢርዎም እዩሞ ንኽግለጽ ክብሩ\nብዅሉ ፍጥረታት ዝተኣምነ ንሱ\nእግዚአብሔር ይመስገን ንስሙ ወድሱ\n[[/chorus]]\n\nብሰናይ ፍቓዱ ኵሉ ብኡ ኮነ (2)\nኵሉ ነገር ብኡ ተፈጸመ\n\nንሱ ዘይፈጠሮ ፍጹም ኣይርከብን\nእንተመርመርናዮ ንሰማይን ምድርን\nፍቓዱ ኢዩ’ሞ ኵሉ ጽቡቕ ነገር\nፈጢሩ ሂቡና ብሓይሉ እግዚአብሔር\n\nንሕዝቡ ዝናዝዝ ናብ ልቡ ዝመልስ\nንኃጥእ ዘፍቅር ህይወቱ ዝሕድስ\nብሰናይ ፍቓዱ ፍቕሩ ዘንግስ\nስለ ክቡር ግብሩ ሓቢርና ንወድስ"
+    },
+    "ti_ro": {
+      "title": "Bsenay fqadu",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "[[chorus]]\nBsenay fqadu kwilu bu kone (2)\n[[/chorus]]\n\nKwilu neger bu tefetseme\nSemay kone mdri yezentwu gbru\nFetirwom yumo nkhglets kbru\nBkwilu ftretat zteamne nsu\nGziabher ymesgen nsmu wedsu\nNsu zeyfetero ftsum ayrkebn\nNtemermernayo nsemayn mdrn\nFqadu iyu’mo kwilu tsbuq neger\nFetiru hibuna bhaylu gziabher\nHagay ms kremti leyti ykhun qetri\nKwilu adalyu mhiruna fetari\nZgebero kwilu godelo ayrkebon\nNezi qdus amlakh msale yeblun\nNhzbu znazz nab lbu zmels\nNhat zefqr hywetu zhds\nBsenay fqadu fqru zengs\nSle kbur gbru habirna nweds\nNsu zeyfetero . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

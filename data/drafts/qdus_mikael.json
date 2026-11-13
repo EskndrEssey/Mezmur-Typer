@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_801fe936d5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቅዱስ ሚካኤል"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቅዱስ ሚካኤል",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nኣብ ሓቀኛ መጽሓፍ ዝተጻሕፈ ኵሉ\nከፍልጠና በለ ዳንኤል ከምዚ ኢሉ\nዝረድኣኒ ነዓይ መስፍን ናይ እስራኤል\nሚካኤል’ዩ ዝሕልወኒ ሚካኤል’ዩ\nዘጽንዓኒ መልኣኽ ናይቲ ልዑል\n[[/chorus]]\n\nኣኽናፍካ ይዘርጋሕ ቀቅድሜና ምራሕ (2)\nቅዱስ ሚካኤል (3) ናይ እስራኤል መሪሕ (2)\n\nከም ዳንኤል ንኹን ንፍለጥ ረድኤቱ\nቅድሜና ንግበሮ ክንወፍር ክንኣቱ\nንነቢይ ሙሴ ከም ዝበሎ ኣምላኽ\nቀቅድሜኻ መልኣኸይ ኣሎ\nንቓላቱ ኣስተብህሎ እንቢ ኣይትበሎ\n\nኣብ በረኻ ሲና ኣብቲ ናይ ትማሊ\nንሕዝቢ እስራኤል ዝኾንካ መጽለሊ\nሎሚ’ ውን ከምኡ ቅዱስ ሚካኤል\nክትድግፎም ነሕዋትና ኩሎም\nንዘለዉ ዓቕሎም ኣጽቢቦም ርድኣዮም (2)"
+    },
+    "ti_ro": {
+      "title": "Qdus mikael",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nAkhnafka yzergah qeqdmena mrah (2)\n[[/chorus]]\n\nQdus mikael (3) nay srael merih (2)\nAb haqenya metshaf ztetsahfe kwilu\nKefltena bele danel kemzi ilu\nZredani neay mesfn nay srael\nMikael’yu zhlweni mikael’yu\nZetsnani melakh nayti lul\nKem danel nkhun nflet redetu\nQdmena ngbero knwefr knatu\nNnebiy muse kem zbelo amlakh\nQeqdmekha melakhey alo\nNqalatu astebhlo nbi aytbelo\nMeqeret albo’yu meaza hywetna\nNehlfo kwilu sdet adi gwana\nKetemeqro halu ab qdmena\nKeynnqef akhnafka zergh\nBalhana kabti zefrh zeydngts zeyrhrh\nAb berekha sina abti nay tmali\nNhzbi srael zkhonka metsleli\nLomi’ wn kemu qdus mikael\nKtdgfom nehwatna kulom\nNzelewu aqlom atsbibom rdayom (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

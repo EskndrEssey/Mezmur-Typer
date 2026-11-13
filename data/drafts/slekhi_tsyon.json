@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7ef5a41167",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ስለኺ ጽዮን"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ስለኺ ጽዮን",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብጸሎትኪ ዝቖመ ቅዱስ ኪዳን ጎልጎታ\nበሪ ሕይወት ኣርሒቡ ኮይንና ጽኑዕ ዋልታ\nምሕረት ክትልምንልና ናባኺ ነንቃዕርር\nዝሰረበ መዓት ብኪዳንኪ ይቖርር\n[[/chorus]]\n\nስለኺ ጽዮን ስቕ ኣይክብልን\nስለ ኢየሩሳሌም ኣይከዐርፍን\nጽድቅኺ ክነግር ክዝምር እየ ጌና\nምድሓንኪ ክደምቕ ከም ሃልሃልታ ፋና\n\nእግዚአብሔር ንዓኺ እንተዘይገድፈልና ትርፊ\nተስፋና ምተቐብረ ኣብዚ ምድሪ ሓላፊ\nፈሪኺ ሕብስቲ ሕይወት ንዓለም ዝቕድስ\nማዕጾ ገነት ኣርሒኽልና ናብ ርስትና ክንምለስ\n\nብርሃን ሓቂ ክደምቕ ብርሂ ጽዮን በርኺ\nኵሉ ወለዶ ይሰግድ ይምብርከኽ ኣብ ቅድሜኺ\nእምነት ምልኣት የብሉን ብዘይብኣኺ ድንግል\nበረኸትና ኵሉ ካባኺ እዩ ዝፍልፍል"
+    },
+    "ti_ro": {
+      "title": "Slekhi Tsyon",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Slekhi tsyon sq aykbln\nSle iyerusalem aykearfn\nTsdqkhi knegr kzmr ye gena\nMdhanki kdemq kem halhalta fana\nBtselotki zqome qdus kidan golgota\nBeri hywet arhibu koynna tsnu walta\nMhret ktlmnlna nabakhi nenqarr\nZserebe meat bkidanki yqorr\nGziabher nakhi ntezeygedfelna trfi\nTesfana mteqebre abzi mdri halafi\nFerikhi hbsti hywet nalem zqds\nMatso genet arhikhlna nab rstna knmles\nTbeb mdhana bakhi dnqi'yu lli amro\nZeywsen melekot kemey kerskhi tsoro\nBhlina'mo swer llnakhi klk\nMemeseli snelki temsat lbey zewk\nBrhan haqi kdemq brhi tsyon berkhi\nKwilu weledo ysegd ymbrkekh ab qdmekhi\nMnet mlat yeblun bzeybakhi dngl\nBerekhetna kwilu kabakhi yu zflfl"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c61bd4bc90",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቃላት ሕፃን"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቃላት ሕፃን",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nጌና’የ ልምልምቲ ሻኻ ተኽሊ ለሰ\nሕዝእኒ ንፍቕሪ ግብኣት ከይነፈሰ\nጽላል እንከለኺ ኣይሰግርን’የ ማዕዶ\nጽላል እኳ ዚበሃግ ገረብ ዝእንግዶ(2)\n[[/chorus]]\n\nከይልምን ከም ሰበይ ናባኺ ኣንቃዕሪረ ከምቲ ትደልዮ\nከይውሕደኪ እፈርሕ ቃላት ሕፃን ኮይኑ ብስለት ዘይቃነዮ\nድንግል ማርያም ኣደይ ኩንኒ ጽላለይ ነፍሰይ ተዕርፈላ\nዜማ ናይ ምንባረይ ምኽንያት ድኅነትና ርግኣት ዝረኽበላ\n\nእንዳእቲ ህድኣተይ ከይብትኖ መዓት\nስርናይ ከየርኅቕ ካብ ናይ ቤተይ ቅርዓት\nከየሕለምልም ልበይ ጸላም ከይወርሶ\nእኔኹ ኣብ ቅድሜኺ ንብዓተይ አፍስሶ(2)\n\nምስማዕሲ ይሰምዕ’የ ፍቕርኺ ክዝንቶ\nሕፃን እንዶሞ ኮይነ ክንደይ ከይግምቶ\nንገርኒ ኵሉ ነፍሰይ እትደልዮ\nነዚ ባዶ ልበይ ጸጋኺ ምልእዮ(2)"
+    },
+    "ti_ro": {
+      "title": "Qalat hTsan",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nTslal kwa zibehag gereb zngdo(2)\n[[/chorus]]\n\nKeylmn kem sebey nabakhi anqarire kemti tdelyo\nKeywhdeki ferh qalat htsan koynu bslet zeyqaneyo\nDngl maryam adey kunni tslaley nefsey terfela\nZema nay mnbarey mkhnyat dhnetna rgat zrekhbela\nGena’ye lmlmti shakha tekhli lese\nHzni nfqri gbat keynefese\nTslal nkelekhi aysegrn’ye mado\nNdati hdatey keybtno meat\nSrnay keyerhq kab nay betey qrat\nKeyehlemlm lbey tselam keywerso\nNekhu ab qdmekhi nbatey afsso(2)\nNtay keykesbelu nalem tslala\nSley zeytshger chekan ndala\nZhadmela tsegay gedam nay hywetey\nBerekhet qeranyo tsyon maryam adey(2)\nMsmasi ysem’ye fqrkhi kznto\nHtsan ndomo koyne kndey keygmto\nNgerni kwilu nefsey tdelyo\nNezi bado lbey tsegakhi mlyo(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

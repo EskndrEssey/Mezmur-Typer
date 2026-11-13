@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9fc558caf9",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣማኑኤል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣማኑኤል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nዙርያኡ ኣብሪሁ ኣብ ቤተልሔም\nጐይታ ክውለድ መድኃኔ ዓለም\nብርሃን ይኽደን እቲ ብርቱዕ ጸልማት\nምውላድ ኣምላኽና ድምጹ ክስማዕ\n[[/chorus]]\n\nኣማኑኤል (2) ምሳና ኮነ እግዚአብሔር\nተወሊዱልና ኣብ ቤተልሔም\n\nናይ ዝሓለፈ ናይ ጥፍኣት ጊዜ\nኣሕሊፍናዮ ኢና ሓዘን ትካዜ\nተሓዲስና ኢና ብኽቡር ደሙ\nኣውሪሱና ኢዩ ፍቕሩን ሰላሙን\n\nርሑቕ ኣይኮነን ቅሩብ`ዩ ጐይታ\nዝሕልወና ኣብ ኵሉ ቦታ\nሞገስ ኮይኑና ክብሪ ረኺብና\nንሓያል ጐይታ ንኣምኖ ኢና"
+    },
+    "ti_ro": {
+      "title": "Amanuel",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Amanuel (2) msana kone gziabher\nTewelidulna ab betelhem\nZuryau abrihu ab betelhem\nGoyta kwled medhane alem\nBrhan ykhden ti brtu tselmat\nMwlad amlakhna dmtsu ksma\nNay zhalefe nay tfat gize\nAhlifnayo ina hazen tkaze\nTehadisna ina bkhbur demu\nAwrisuna iyu fqrun selamun\nHgu gedifna kabu rhiqna\nFetinayu’mo metsiu adhanena\nSeb koynu yu’mo kemzi kemana\nMsana iyu men ksrena\nRhuq aykonen qrub`yu goyta\nZhlwena ab kwilu bota\nMoges koynuna kbri rekhibna\nNhayal goyta namno ina"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

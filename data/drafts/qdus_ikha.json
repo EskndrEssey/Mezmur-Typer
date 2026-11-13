@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0a50de919f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቅዱስ ኢኻ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቅዱስ ኢኻ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nዘርጊሔ ኣእዳወይ ምስቶም መላእክቲ\nምስግና ክምገብ ሰማያዊ ሃብቲ ኣማኑኤል\nዙርያይ ክኽልሎ ሓጹር ናይ ፍቕርኻ\nናቱ እየ ክብል ኣብቲ ስሉም ዳስካ ኣማኑኤል\nተሰሊመ ሰማያዊ ልብሲ\nብምሕረት ፍቕርኻ ክኸውን ወራሲ\nኣስንቐኒ ሓቀኛ እምንቶ\nምስጢርካ ሃበኒ ሕይወተይ በሓቶ (2) ኣማኑኤል\n[[/chorus]]\n\nቅዱስ ኢኻ ቅዱስ ቅዱስ ዘለዓለም\nፈቃር ኢኻ ሕያው መስፍን ሰላም\nመላእክተ ሰማይ ቆይሞም ኣብ ቅድሜኻ\nምስጋና የቕርቡ ንኽብርኻ\n\nክብሪ ናይ ምድኃንካ ኣባይ እንኪግለጽ\nመሊኤ ኪዓግብ ከገልግል ክምረጽ እወ ጐይታይ\nፍቕርኻ ኣንጀርቢቡ ዝባነይ ክፈሶ\nቀኒዐ ክርእይ ምሕረትካ ክሓፍሶ እወ ጐይታይ\nተኣሚነ ከገልግል ንስምካ\nብፍታወይ ክግዛእ ንዓኻ\nባርኸኒ ውሉድካ ክስመ\nከይተርፈካ ብሓጢኣት ደኺመ (2) እወ ጐይታይ"
+    },
+    "ti_ro": {
+      "title": "Qdus ikha",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Qdus ikha qdus qdus zelealem\nFeqar ikha hyaw mesfn selam\nMelakte semay qoymom ab qdmekha\nMsgana yeqrbu nkhbrkha\nZergihe adawey mstom melakti\nMsgna kmgeb semayawi habti amanuel\nZuryay kkhllo hatsur nay fqrkha\nNatu ye kbl abti slum daska amanuel\nTeselime semayawi lbsi\nBmhret fqrkha kkhewn werasi\nAsnqeni haqenya mnto\nMstirka habeni hywetey behato (2) amanuel\nKbri nay mdhanka abay nkiglets\nMelie kiagb kegelgl kmrets we goytay\nFqrkha anjerbibu zbaney kfeso\nQenia kry mhretka khafso we goytay\nTeamine kegelgl nsmka\nBftawey kgza nakha\nBarkheni wludka ksme\nKeyterfeka bhatiat dekhime (2) we goytay\nFqrkha abiy yu tebejawyey goyta\nMeazakha kshtt meswati golgota medhane alem\nBnabra nay alem wediqe keyterf\nAmadye kri neti ntsuh mntsaf medhane alem\nNkhsetyo fsas nay gonkha\nHlnay kmset btami mesqelka\nMarkheni hywetey hadso\nAb wshtey atikha barko qedso (2) medhane alem"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

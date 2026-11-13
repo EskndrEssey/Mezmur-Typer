@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_16232b70c8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ድንግል ማርያም"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ድንግል ማርያም",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nጓል ካህናትን ነገስታትን ጠጥዒ ስርወ እሴይ\nሕልፊ ጸሓይ ድምቀታ ዳግማዊት ሰማይ (2)\nዋሕዛ ዘይነጽፍ’ዩ ፈልፋሊት ጽሩይ ማይ\nኣፍደገ ናይ ገነት ኣደ ኣዶናይ (2)\n[[/chorus]]\n\nምንጪ ናይ በረኸት ዘይትነጽፍ ዒላ\nንዝተማሕጸና ኣደይ ንዝበላ\nሕይወት እትዕድል ሕይወት ኣፈልፊላ\nድንግል ማርያም’ያ እወ ድንግል ባዕላ\n\nዕባይ ቤተመቅደስ ንጽሕና ጋምኣ\nብመልኣክ እትግልገል ፍሉይ ዝጸግኣ (2)\nመሳልል ሰማያት ኵሉ በሃጊኣ\nሕልፊ ኵሉ ፍጡር’ያ የለን መዘናኣ (2)\n\nብመን ክንምስላ እንታይ’ከ ክንብላ\nኣደን ድንግልን አምላክ ዝዓደላ (2)\nዘይትነድድ ቆጥቋጥ ፈራይት ዘለላ\nምችእቲ መዕረፊት ልዑል ዘጽለለላ (2)"
+    },
+    "ti_ro": {
+      "title": "Dngl maryam",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nHlfi tsehay dmqeta dagmawit semay (2)\n[[/chorus]]\n\nMnchi nay berekhet zeytnetsf ila\nNztemahtsena adey nzbela\nHywet tdl hywet afelfila\nDngl maryam’ya we dngl bala\nGwal kahnatn negestatn teti srwe sey\nWahza zeynetsf’yu felfalit tsruy may\nAfdege nay genet ade adonay (2)\nBay betemeqdes ntshna gama\nBmelak tglgel fluy ztsega (2)\nMesall semayat kwilu behagia\nHlfi kwilu ftur’ya yelen mezenaa (2)\nKab hewan flyti rshat zeylegeba\nHadgi nay dhnetna merhawit tsebeba (2)\nKenean tewahdo bota mear tseba\nMqur zfrea mzti nbeba (2)\nBmen knmsla ntay’ke knbla\nAden dngln amlak zadela (2)\nZeytnedd qotqwat ferayt zelela\nMchti merefit lul zetslelela (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

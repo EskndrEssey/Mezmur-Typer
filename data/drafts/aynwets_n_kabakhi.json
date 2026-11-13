@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4fda7df0ce",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣይንወጽእን ካባኺ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣይንወጽእን ካባኺ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nብዘመን ዘይብጻሕ ዝረቐቐ ፍልጠት\nብዕድመ ዘይርከብ ማኃደረ ጥበባት\nሰሚዕክዮ ንስኺ ብዕፅው ገዛ\nኣልፋ ወኦ ኣምላኽ ንዘውረዶ ጸጋ\n[[/chorus]]\n\nኣይንወፅእን ካባኺ ኢየሩሳሌም ከመይ ኢልና ክንክእሎ\nምሥጢረ ድኅነትና ሓቀኛ ኣምልኾ ኣባኺ እንድዩ ዘሎ\n\nእቲ ቅዱስ መንፈስ ንልሳን ዝቓኒ\nምስጋና መሊኡ ብምልኣት ዝዓዪ\nኣባኺ ወሪዱ ማዕጾ ከይተራሕወ\nብተኣምራቱ ኣይሁድ ዘደንጸወ\nቀያሲ ህንፃኺ ሕሊና እግዚአብሔር\nሠረት ህላዌኺ ቅድሚ ምፍጣር ዓለም\nዕፅብት ህያብና ኣትሮንስ ቃል ሓቂ\nመሣልል ሎዛ ንመገዲ ጽድቂ\nምንጪ ርቱዕ ወንጌል መኣዛ ቅዳሴ\nዓንዲ ቅኑዕ እምነት መቐረት ህላዌ\nኣባኺ ምጽናሕ’ዩ እንኮ ኣማራጺ\nብኣኺ ንወርስ ሰማያዊ ርስቲ\nቀያሲ ህንፃኺ . . ."
+    },
+    "ti_ro": {
+      "title": "AynweTs'n kabakhi",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Aynwetsn kabakhi iyerusalem kemey ilna knklo\nMsstire dhnetna haqenya amlkho abakhi ndyu zelo\nBzemen zeybtsah zreqeqe fltet\nBdme zeyrkeb mahadere tbebat\nSemikyo nskhi btsw geza\nAlfa weo amlakh nzewredo tsega\nTi qdus menfes nlsan zqani\nMsgana meliu bmlat zayi\nAbakhi weridu matso keyterahwe\nBteamratu ayhud zedentsewe\nQeyasi hntsakhi hlina gziabher\nSeret hlawekhi qdmi mftar alem\nTsbt hyabna atrons qal haqi\nMesall loza nmegedi tsdqi\nMnchi rtu wengel meaza qdase\nAndi qnu mnet meqeret hlawe\nAbakhi mtsnah’yu nko amaratsi\nBakhi nwers semayawi rsti\nQeyasi hntsakhi . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

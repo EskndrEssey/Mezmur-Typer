@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c5b9b61030",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ምስጋና መስዋዕት"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ምስጋና መስዋዕት",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nንሰብ ዝፈጠረ ብኣምሳሉ ጌሩ\nስጋ ዘዳለወ ኣዕጽምቲ ሰዂዑ\nንዝፈጠረና ብከሃልነቱ\nክንዝምር ኢና ስለ ጐይትነቱ (2)\n[[/chorus]]\n\nናይ ምስጋና መስዋዕት ማኅሌት ውዳሴ\nይግባእ ንኽብሩ ንቅድስት ሥላሴ (2)\n\nንሰማይ ዝሰርሐ ብዓቢይ ጥበቡ\nምድሪ ዝዘርግሐ ብቕዱስ ሓሳቡ\nክምለኽ ይነብር ንሱ ብፍጥረቱ\nሰላም ዝመልኦ’ዩ ዘለዓለም መንግስቱ (2)\n\nሓዊ ኣዳራሹ ማይ እዩ ጠፈሩ\nምድሪ መርገጽ እግሩ ሰማይ እዩ መንበሩ\nክቕደስ ይነብር ብሰማይ መንበሩ\nውዳሴ ዝማሬ ይግባእ ንኽብሩ (2)"
+    },
+    "ti_ro": {
+      "title": "Nay msgana meswa't",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nYgba nkhbru nqdst sslase (2)\n[[/chorus]]\n\nNay msgana meswat mahlet wdase\nNseb zfetere bamsalu geru\nSga zedalewe atsmti sekwiu\nNzfeterena bkehalnetu\nKnzmr ina sle goytnetu (2)\nNsemay zserha babiy tbebu\nMdri zzergha bqdus hasabu\nKmlekh ynebr nsu bftretu\nSelam zmelo’yu zelealem mengstu (2)\nAynti kirubel zmelo menberu\nMena hizom alewu surafel nkhbru\nBetu nkten mefrh hlfnyu\nMelakhti zemeru qne naqaneyu (2)\nHawi adarashu may yu teferu\nMdri mergets gru semay yu menberu\nKqdes ynebr bsemay menberu\nWdase zmare ygba nkhbru (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

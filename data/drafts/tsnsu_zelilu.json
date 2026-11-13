@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_de97f1cb7a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፅንሱ ዘሊሉ"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፅንሱ ዘሊሉ",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nኩሎም ፍጥረታት ይሰግዱልኪዮም\nረዳኢት ኩሎም ዋልታ ኮይንክሎም\nንድኹም ኵሉ ረዳኢት ኢኺ\nንዝሸገሮ ደጋፊት ኢኺ(2)\n[[/chorus]]\n\nፅንሱ ዘሊሉ መንፈስ መሊኡ\nናትኪ ሰላምታ ድምጽኺ ሰሚዑ\nናይ ጸጋ ስግደት ይስገድ ጉልበተይ\nንኣደ ጐይታይ ንማርያመይ\n\nኢደይ ክዝርግሕ ወትሩ ኣብ ቅድሜኺ\nሽልማት ናተይ ኣምሳል ዘይብልኪ\nስሙር ጸሎትኪ ጠቒሙና’ዩ\nኣይምነወናን ስምኪ እንክጽውዕ(2)\n\nብዝሒ ምሕረትኪ ኮይኑ ድራረይ\nልዕል ክትብሊ ድንግል ማርያመይ\nተንኮል ናይ ተመን ስዒርክዮ ኢኺ\nልበይ ንዓኺ ይዝምረልኪ(2)"
+    },
+    "ti_ro": {
+      "title": "Tsnsu zelilu",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "[[chorus]]\nNzshegero degafit ikhi(2)\n[[/chorus]]\n\nTsnsu zelilu menfes meliu\nNatki selamta dmtskhi semiu\nNay tsega sgdet ysged gulbetey\nNade goytay nmaryamey\nKulom ftretat ysegdulkiyom\nRedait kulom walta koynklom\nNdkhum kwilu redait ikhi\nIdey kzrgh wetru ab qdmekhi\nShlmat natey amsal zeyblki\nSmur tselotki teqimuna’yu\nAymnewenan smki nktsw(2)\nNegestat nakhi kbri khbu\nKegelglukhi qdmekhi metsu\nAb goney kuni dngl ms goyta\nSmki ktsw selam fssha(2)\nBzhi mhretki koynu drarey\nLl ktbli dngl maryamey\nTenkol nay temen sirkyo ikhi\nLbey nakhi yzmrelki(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

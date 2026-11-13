@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0647",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 647,
+  "wereb_category": "wereb_emebrhan",
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb Emebrhan",
+  "category": "st_mary",
+  "categories": [
+    "st_mary"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "እንተ በምድር ስረዊሃ ወበሰማይ ኣዕጹቂሃ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nእንተ በምድር ስረዊሃ ወበሰማይ ኣዕጹቂሃ\nሓረገ ወይን (2) ድንግል ሓረገ ወይን\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3c20aba07a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ወላዲተ ኣምላኽ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ወላዲተ ኣምላኽ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nብቓሉ ዓለማት ከይፈጠረ ገና\nህልውቲ ነበርኪ ብእግዚአብሔር ሕሊና\nካብ ኣብራኽ ኢያቄም ካብ ማህጸን ሃና\nኣዲኡ ክትኮኒ ሓርዩኪ ኣምላኽና\n[[/chorus]]\n\nወላዲተ ኣምላኽ ማርያም ድንግል (2)\nፍሉይ’ዩ ክብርኺ (2) ካብ ኩሎም ፍጥረት\n\nካብ መላእክቲ ኩሎም ትበልጺ ንስኺ\nካብ ደቂ ሰባት’ውን የለን ዝመስለኪ\nኣብ ቅድሚ እግዚአብሔር ስምኪ ዝገነነ\nኣይተረኽበን ድንግል ከማኺ ዝበለ"
+    },
+    "ti_ro": {
+      "title": "Weladite amlakh",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "[[chorus]]\nWeladite amlakh maryam dngl (2)\n[[/chorus]]\n\nFluy’yu kbrkhi (2) kab kulom ftret\nBqalu alemat keyfetere gena\nHlwti neberki bgziabher hlina\nKab abrakh iyaqem kab mahtsen hana\nAdiu ktkoni haryuki amlakhna\nKab melakti kulom tbeltsi nskhi\nKab deqi sebat’wn yelen zmesleki\nAb qdmi gziabher smki zgenene\nAyterekhben dngl kemakhi zbele\nNewri zeyblki’khi ntshti merat\nQdsti ngsti natna memekhit\nAden dngln weladite qal\nZeytlweti’ikhi zelalem dngl"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

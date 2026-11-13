@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_dcbc92c6f2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰላም ንዓኺ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰላም ንዓኺ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "ሰላም ንዓኺ ማርያም ፈጣሪ ንምውላድ ዝበቓዕኪ\nኣምላኽ ንዓኺ እንተዘይሓድገልና\nከም ሰዶምን ከም ጎሞራን ኹልና ምኾና (2)"
+    },
+    "ti_ro": {
+      "title": "Selam n'akhi",
+      "zemari": "di/n efrem",
+      "lyrics": "Selam nakhi maryam fetari nmwlad zbeqaki\nAmlakh nakhi ntezeyhadgelna\nKem sedomn kem gomoran khulna mkhona (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

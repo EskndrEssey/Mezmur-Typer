@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8ecda9a16c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ሕይወት ፈልፋሊ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ሕይወት ፈልፋሊ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nዓለማተ ዓለም ግብሪ ናይ ኣእዳውካ\nምስክር ጎይትነትካ ናይ ኣምላኽነትካ\nመን’ዶ ኣሎ እዩ ንዓኻ ዝመስለካ\nብርሃናዊ ኣምላኽ ፍጹም ልዑል ኢኻ (2)\n[[/chorus]]\n\nናይ ሕይወት ፈልፋሊ ካባኻ እዩ ጐይታና (2)\nብብርሃንካ ብርሃን ንርኢ ኣሎና (2)\n\nሓደ ኔረ ነደይ ነፍሰይ’ውን ምስ ወጸት\nተንስእ ጎበዝ ኢልካ ትንፋሰይ ተመልሰት\nእታ መበለት ኣደይ ኣመስጊና ነዓኻ\nሕይወት ተቐቢላ ከም ህያብ ካባኻ (2)\n\nኣንፈት ናይ መንገደይ ጐይታይ ሓብረኒ\nመድኅን ናይ ሕይወተይ ቃልካ መግበኒ\nኣብ ቤትካ ክጸንዕ ምስቶም ቅዱሳንካ\nኣይፈለየኒ ጥበብ ምስትውዓልካ (2)"
+    },
+    "ti_ro": {
+      "title": "Nay hywet felfali",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nBbrhanka brhan nri alona (2)\n[[/chorus]]\n\nNay hywet felfali kabakha yu goytana (2)\nAlemate alem gbri nay adawka\nMskr goytnetka nay amlakhnetka\nMen’do alo yu nakha zmesleka\nBrhanawi amlakh ftsum lul ikha (2)\nHade nere nedey nefsey’wn ms wetset\nTens gobez ilka tnfasey temelset\nTa mebelet adey amesgina neakha\nHywet teqebila kem hyab kabakha (2)\nBeakha berihu ti tselmat zemen\nDegim deqkha ina deqi me brhan\nNeakha hizna ina zefrh yeblnan\nGziabher kber temesgen (2)\nAnfet nay mengedey goytay habreni\nMedhn nay hywetey qalka megbeni\nAb betka ktsen mstom qdusanka\nAyfeleyeni tbeb mstwalka (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

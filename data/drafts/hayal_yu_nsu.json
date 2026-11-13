@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3eec65d599",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓያል’ዩ ንሱ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓያል’ዩ ንሱ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nእንሆ ተንሲኡ ሰዓት ፍርቂ ለይቲ ጐይታና ተንሲኡ\nእንሆ ተንሲኡ ካብ መቓብር ወጺኡ መሬት ብሕቱሙ\nእንሆ ተንሲኡ ስልጣናት ናይ ጸልማት ፍጹም ተሰዓሩ\nእንሆ ተንሲኡ ሞይቱ ዝነበረ ክርስቶስ ተንሲኡ\n[[/chorus]]\n\nሓያል’ዩ ንሱ ዘልኣለማዊ ናይ ኵሉ ጐይታ\nንሞት ስዒሩ ዝተዓወተ ፍጹም ዘይርታዕ\nእንሆ ተንሲኡ ደስ ይበለና(2) ብርሃኑ ርኢና\n\nእንሆ ተንሲኡ ስዕረት ናይ ሰይጣን ፍጹም ተጋሂዱ\nእንሆ ተንሲኡ ናይ ዕዳ ደብዳቤ ሽዑ ተቐዲዱ\nእንሆ ተንሲኡ ደጌታት ናይ ሲኦል ፍጹም ተናወጹ\nእንሆ ተንሲኡ ኣምላኽናስ ተንሲኡ ንሞትና ስዒሩ\n\nእንሆ ተንሲኡ ንሕና’ውን ምስኡ ካብ ሞትና ተንሲእና\nእንሆ ተንሲኡ ምስ ቤተ መቕደሱ ብርሃን ለቢስና\nእንሆ ተንሲኡ ማእሰርቲ ኣእዳውና ሕጂ ተፈቲሑ\nእንሆ ተንሲኡ ኣእዳውኩም ኣልዕሉ ብሓባር ዘምሩ"
+    },
+    "ti_ro": {
+      "title": "Hayal’yu nsu",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Hayal’yu nsu zelalemawi nay kwilu goyta\nNmot siru zteawete ftsum zeyrta\nNho tensiu des ybelena(2) brhanu rina\nNho tensiu seat frqi leyti goytana tensiu\nNho tensiu kab meqabr wetsiu meret bhtumu\nNho tensiu sltanat nay tselmat ftsum tesearu\nNho tensiu moytu znebere krstos tensiu\nNho tensiu sret nay seytan ftsum tegahidu\nNho tensiu nay da debdabe shu teqedidu\nNho tensiu degetat nay siol ftsum tenawetsu\nNho tensiu amlakhnas tensiu nmotna siru\nNho tensiu babiy msgana bgrum wdase\nNho tensiu tnsaeu rya tehagoset nefsey\nNho tensiu brtu’yu mekar amlakh zelalem\nNho tensiu kab hji ndehar ab mot sltan yelen\nNho tensiu nhna’wn msu kab motna tensina\nNho tensiu ms bete meqdesu brhan lebisna\nNho tensiu maserti adawna hji tefetihu\nNho tensiu adawkum allu bhabar zemru"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

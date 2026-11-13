@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_dbef9199c5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ስሙ ትርጓሜ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ስሙ ትርጓሜ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nናብ ጉድጓድ ተደርብዩ ፍጹም ናብ ዘፍርሕ\nካብ ዝጠምዩ ኣናብስ ዘድሓንካ ንዳኒኤል\nንዓና’ውን ርዳእ ሸለል ኣይትበለና\nሰይጣን ብተንኮሉ ውዲት ከይኣልመልና\n[[/chorus]]\n\nናይ ስሙ ትርጓሜ መን ከም እግዚአብሔር’ዩ\nናይ ሰባት ናብ ኣምላኽ ናይ ኣምላኽ ናብ ሰባት\nንዓና ዝረድእ ወትሩ ብምሕረቱ\nናይ መላእክት ሓለቓ ቅዱስ ሚካኤል’ዩ\n\nናይ ክፉእ ሰብ ስራሕ ክፉእ ሓሳብ እዩ’ሞ\nብቕኑዕ መገዲ ኣይከይድን’ዩሞ\nናይ ሞቱ ደብዳቤ ንባህራን ክህቦ\nሚካኤል ደምሲሱ ናብ ደስታ ቀየሮ\n\nጌና ብቑልዕነተይ . . ."
+    },
+    "ti_ro": {
+      "title": "Nay smu trgwame",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Nay smu trgwame men kem gziabher’yu\nNay sebat nab amlakh nay amlakh nab sebat\nNana zred wetru bmhretu\nNay melakt haleqa qdus mikael’yu\nNab gudgwad tederbyu ftsum nab zefrh\nKab ztemyu anabs zedhanka ndaniel\nNana’wn rda shelel aytbelena\nSeytan btenkolu wdit keyalmelna\nNay kfu seb srah kfu hasab yu’mo\nBqnu megedi aykeydn’yumo\nNay motu debdabe nbahran khbo\nMikael demsisu nab desta qeyero\nGena bqulnetey nab betu metsie\nKwilu nknqeni msgana jemire\nTsegau abzihu nkhbri zebqani\nNay mikael amlakh ymesgen gziabher\nGena bqulnetey . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

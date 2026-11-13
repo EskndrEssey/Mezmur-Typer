@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_94e0ea0165",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕልል በሉ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕልል በሉ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nዕልል በሉ ንስእነት ሰላምና\n‘’ ‘’ ሎሚ ተኻሒስና\n‘’ ‘’ ብርሃን’ውን ረኣና\n‘’ ‘’ ብሓያል ኣምላኽና\n[[/chorus]]\n\nዕልል በሉ ንስሙ ዘምሩ\nኣመስግኑ ዕቤቱ ንገሩ\nእግዚአብሔር ጻድቕ’ዩ ብግብሩ\nእናበልኩም ወትሩ ኣበሥሩ\n\nዕልል በሉ ከም ሓፍቱ ንሙሴ\n‘’ ‘’ ንጀምር ውዳሴ\n‘’ ‘’ ብማህሌት ቅዳሴ\n‘’ ‘’ ነመስግን ስላሴ\n\nዕልል በሉ ብጓሳ ነፍስና\n‘’ ‘’ ደጊም ሓራ ኢና\n‘’ ‘’ ብደሙ ነጺህና\n‘’ ‘’ ብሞቱ ድሒና"
+    },
+    "ti_ro": {
+      "title": "'Ll belu",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\n‘’ ‘’ Nzelalem amen\n[[/chorus]]\n\nLl belu nsmu zemru\nAmesgnu betu ngeru\nGziabher tsadq’yu bgbru\nNabelkum wetru abessru\nLl belu nsnet selamna\n‘’ ‘’ Lomi tekhahisna\n‘’ ‘’ Brhan’wn reana\n‘’ ‘’ Bhayal amlakhna\nLl belu kem haftu nmuse\n‘’ ‘’ Njemr wdase\n‘’ ‘’ Bmahlet qdase\n‘’ ‘’ Nemesgn slase\nLl belu nlul amlakhna\n‘’ ‘’ Selam zengeselna\n‘’ ‘’ Arhiqu tfatna\n‘’ ‘’ Mhret zelbesena\nLl belu bgwasa nefsna\n‘’ ‘’ Degim hara ina\n‘’ ‘’ Bdemu netsihna\n‘’ ‘’ Bmotu dhina\nLl belu nkhulu zmelkh\n‘’ ‘’ Gziabher ybarekh\n‘’ ‘’ Haylu yteamen"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

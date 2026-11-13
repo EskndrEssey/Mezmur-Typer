@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_00921a666b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክውድስ ከም ገብርኤል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክውድስ ከም ገብርኤል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nሰላም ለኪ ኢለ ክጅምር ጸሎተይ\nብመዝሙር ከልዕላ ነታ ወላዲተይ\nናይ ኃጥኣን ተስፋ ዋሕስ ናይዛ ነፍሰይ\nናይ ድኅነት መሰረት ማርያም በሉለይ(2)\n[[/chorus]]\n\nክውድስ ከም ገብርኤል\nንጽሕት ቅድስት ኢለ\nከም ዳዊት ክዝምር\nበገናይ ኣልዒለ (2)\n\nንድኅነት ደቂ ሰብ ዕረፍቲ ዘይብልኪ\nቤዛዊተ ኵሉ ሰላምታ ይብጻሕኪ\nምእመናን ንተንስእ ሎሚ ነመስግና\nብኣና ክትሕጎስ ማርያም ኣዴና (2)"
+    },
+    "ti_ro": {
+      "title": "Kwds kem gebrel",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nBegenay alile (2)\n[[/chorus]]\n\nKwds kem gebrel\nNtsht qdst ile\nKem dawit kzmr\nSelam leki ile kjmr tselotey\nBmezmur kella neta weladitey\nNay hatan tesfa wahs nayza nefsey\nNay dhnet meseret maryam beluley(2)\nNdhnet deqi seb refti zeyblki\nBezawite kwilu selamta ybtsahki\nMmenan ntens lomi nemesgna\nBana kthgos maryam adena (2)\nAmlakh zhabena beta abay let\nWhbto nay mesqel ya kidane mhret\nBedeley bezihu kab let nab let\nAnes bzeyba yebleyn dhnet (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

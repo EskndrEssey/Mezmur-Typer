@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8fb9b5672e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሃሌሉያ ንበል"
+  },
+  "singer": "ዘማሪት ቅድስት ምትኩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሃሌሉያ ንበል",
+      "zemari": "ዘማሪት ቅድስት ምትኩ",
+      "lyrics": "[[chorus]]\nሃሌሉያ ንበል ንጀምር ውዳሴ\nንፈጣሪ ዓለም ንኣምላከ ሙሴ\nክብሪ ይግብኦ’ዩ ንቅድስት ሥላሴ\nድንቂ ጌሩለይ’ዩ ተመስግኖ ነፍሰይ\n[[/chorus]]\n\nዘወትር ይውደስ ብናይ ሰማይ መዝሙር\nብኣእላፍ መላእክት እዝዩ ይኸብር\nቅዱሳን ኣቦታት ኣብ ምድሪ ዝነብሩ\nኣብ መቕደስ ክብሩ የመስግኑ ወትሩ\n\nቅድሚ ዓለም ነይሩ ሕጂ’ውን ዝነብር\nኵሉ ጊዜ ዘሎ ኣምላኽ ዘልዓለም\nሃሌሉያ ንበል ቅድሚኡ ወዲቕና\nንጐይታ ሰራዊት እግዚአብሔር ኣምላኽና"
+    },
+    "ti_ro": {
+      "title": "Haleluya nbel",
+      "zemari": "zemarit qdst mtku",
+      "lyrics": "[[chorus]]\nHaleluya nbel njemr wdase\n[[/chorus]]\n\nNfetari alem namlake muse\nKbri ygbo’yu nqdst sslase\nDnqi geruley’yu temesgno nefsey\nZewetr ywdes bnay semay mezmur\nBalaf melakt zyu ykhebr\nQdusan abotat ab mdri znebru\nAb meqdes kbru yemesgnu wetru\nMenabr sltanat alaf liqanat\nQdus (3) yblu bhbret\nNhna’wn kulna kbri ms wdase\nMsgana neqrb nnay abrham sslase\nQdmi alem neyru hji’wn znebr\nKwilu gize zelo amlakh zelalem\nHaleluya nbel qdmiu wediqna\nNgoyta serawit gziabher amlakhna\nKabu ywets`yu satawi seyfi\nAqmi tselatna bftsum metfi\nHaylu zedenq’yu goyta serawit\nKwilu zkealo nay alem medhanit"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

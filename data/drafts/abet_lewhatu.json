@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_629b6d18d0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣቤት ለውሃቱ"
+  },
+  "singer": "ዲ/ን ኣብርሃም መሓሪ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣቤት ለውሃቱ",
+      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
+      "lyrics": "[[chorus]]\nትዝታ ኣሎና ንነብዓሉ ዘይምለኽ ድኻም ዝሓለፈ\nመልክዕ ጽባቐ ጉራ ጉራ ምልኣት ስኢኑ ክንሳቐ\nግርማ ጸላሙ ዘፍርህ ስጉሚ ብሃሰስ ብሰለይ ታተ\nጸላም ዝገልህ ብርሃኑ ኮልዖ ቤትና ንሱ ጠመተ\n[[/chorus]]\n\nኣቤት ለውሃቱ ዝኣምላኽ ፍጹም ፍቕሪ’ዩ ብባህሪኡ\nሰላም ንቤትና መቐረት ባህታ ንልቢ ህላዌኡ\n\nሕጂ ሓሊፉ እንክዝከር ተራ ነገር’ዩ ንዘይፈልጦ\nተሰጊሩ’ባ ዝመረረ ኵሉ ብደቂቕ ንዘይስሕቶ\nካባ ሰላሙ ዝባና ዘሰቅቕ ንፋስ ዝጋረደሉ\nቤትና ሟሚቑ ብፍቕሪ ቅኔ ምስጋና ተዘይምሉ\n\nእስኪ ንዘምር ብምስጋና ኣሕዋት ብሕብረት ስለ ፍቕሩ\nዘይውዳእ ምሕረት ዕለት ዕለት ቃላት ዘይገልጾ ግሩም ግብሩ\nጥዑም ጉስነት ዘይምኖ ጽድቂን ሰላምን እናኣሰነያ\nተስፋ መሊአን ኣዒንቲ ዘደንቕ ምስሉ እናረኣያ"
+    },
+    "ti_ro": {
+      "title": "Abet lewhatu",
+      "zemari": "di/n abrham mehari",
+      "lyrics": "Abet lewhatu zamlakh ftsum fqri’yu bbahriu\nSelam nbetna meqeret bahta nlbi hlaweu\nTzta alona nnebalu zeymlekh dkham zhalefe\nMelk tsbaqe gura gura mlat sinu knsaqe\nGrma tselamu zefrh sgumi bhases bseley tate\nTselam zgelh brhanu kolo betna nsu temete\nHji halifu nkzker tera neger’yu nzeyfelto\nTesegiru’ba zmerere kwilu bdeqiq nzeyshto\nKaba selamu zbana zeseqq nfas zgaredelu\nBetna mwimiqu bfqri qne msgana tezeymlu\nLbi zhwkh mabel hasab merkeb zglbt tsnu hayli\nHdat rhiqa sgr mado kenawtsena hsum quri\nHyaway goyta bfqru temelesena idu zergha\nHzun lbna temela fssha hagos lbu rahreha\nSki nzemr bmsgana ahwat bhbret sle fqru\nZeywda mhret let let qalat zeygeltso grum gbru\nTum gusnet zeymno tsdqin selamn naaseneya\nTesfa melian ainti zedenq mslu nareaya"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

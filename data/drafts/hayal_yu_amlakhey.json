@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_14c80ca25a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓያል’ዩ ኣምላኸይ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓያል’ዩ ኣምላኸይ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nፈርኦን ተዝዓርድ ግብጺ ክመልሰኒ\nበእላፍ ሰራዊቱ እንተኸበበኒ\nሓያል’ዩ ኣምላኸይ ንባሕሪ ዝመቅል\nንዓይ ምስ ኣሕለፈ ንፈርኦን ዘጥሕል\n[[/chorus]]\n\nሓያል’ዩ ኣምላኸይ ዋልታይ ክብረተይ እዩ\nመን ኣሎ ሓያል ዝቃወመኒ ኣምላኸይ ከሎ ዘሐይለኒ\nኣምላኸይ ከሎ ወትሩ ዘበርትዓኒ (2)\n\nኣስራዚ ክዳኑ እንተተመክሐ\nንሕዝቢ ናይ ኣምላኽ እንተፈራርሐ\nብናይ ሩባ ጸጸር ግንባሩ ከንህሎ\nኣምላኽ ሂቡኒ’ዩ ኵሉ ዝከኣሎ\n\nብፈተና ዓለም ተወደቕኩ ኣብ ጸልማት\nትንሳኤ’ዩ ተስፋይ ኣይፈርሕን ንሞት\nንሞተይ ብሞቱ ደምሲሱ ዘጥፍኦ\nኤልሻዳይ’ዩ ንሱ ክብሪ ዝግብኦ"
+    },
+    "ti_ro": {
+      "title": "Hayal’yu amlakhey",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nAmlakhey kelo wetru zebertani (2)\n[[/chorus]]\n\nHayal’yu amlakhey waltay kbretey yu\nMen alo hayal zqawemeni amlakhey kelo zehayleni\nFeron tezard gbtsi kmelseni\nBelaf serawitu ntekhebebeni\nHayal’yu amlakhey nbahri zmeql\nNay ms ahlefe nferon zethl\nAsrazi kdanu ntetemekha\nNhzbi nay amlakh nteferarha\nBnay ruba tsetser gnbaru kenhlo\nAmlakh hibuni’yu kwilu zkealo\nNsmu mmsgan sle kbru msgad\nBedel ntekhoynu zederbi nab gudgwad\nBeti grum hayli beti zrguh qltsm\nAf anabs atsyu tedeneqi alem\nBfetena alem tewedeqku ab tselmat\nTnsae’yu tesfay ayferhn nmot\nNmotey bmotu demsisu zetfo\nElshaday’yu nsu kbri zgbo"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

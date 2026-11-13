@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7492c1cebc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፍሉይ’ዩ መቕደስካ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፍሉይ’ዩ መቕደስካ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nካብ ሰማይ ወሪድካ ናብ ምድሪ መጺእካ\nሰብ ከተድሕን ብሕያው ቃልካ\nብዙሕ ምሒርካና ንስኻ ብሞትካ\nዝመረረት ሕይወት ብፍቕሪ ለዊጥካ\n[[/chorus]]\n\nፍሉይ’ዩ መቕደስካ ቅዱስ መሕደሪኻ\nኣብ ዝፋን ኪሩቤል መንበሪኻ\nኣምላከ እስራኤል መን ኣሎ ከማኻ (2)\n\nሕይወተይ ስኢና መጽለሊ\nብተስፋ ምቁራጽ ነዊሕዋ ዕምሪ\nንስኻ መጺእካ ሓጎስ ተዓዲላ\nተስፋ ምስ ረኸበት ብሓቂ ዓሊላ"
+    },
+    "ti_ro": {
+      "title": "Fluy’yu meqdeska",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Fluy’yu meqdeska qdus mehderikha\nAb zfan kirubel menberikha\nAmlake srael men alo kemakha (2)\nKab semay weridka nab mdri metsika\nSeb ketedhn bhyaw qalka\nBzuh mhirkana nskha bmotka\nZmereret hywet bfqri lewitka\nHywetey sina metsleli\nBtesfa mqurats newihwa mri\nNskha metsika hagos teadila\nTesfa ms rekhebet bhaqi alila\nNzfeterkayo kab kfu tedhn\nHaqenya gwasa zeytchkn\nMhretka bzuh’yu ntay knkefleka\nAmlake srael men alo kemakha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

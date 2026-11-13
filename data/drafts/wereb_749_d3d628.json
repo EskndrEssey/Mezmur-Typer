@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0749",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 749,
+  "wereb_category": "wereb_qdusan",
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb Qdusan",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ናሁ ሰናይ ወናሁ ኣዳም",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nናሁ ሰናይ ወናሁ ኣዳም\nሶበ ይሄልዉ (2) ኣኃው ኅቡረ (2)\nኣሕዋት ብሓደ ሓቢሮም ክነብሩ\nሰናይን ጥዑምን’ዩ (2) ኣሕዋት ብሓደ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1cca6c979a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብማእሰር ፍቕሪ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብማእሰር ፍቕሪ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nይቆረስ ሕብስቲ መግለጺ ሓጎስና\nጽዋእኩም ኣልዕሉ መስተ ሓድነትና\nዮሃና (2) ርሑስ ጋማ በሉ\nስድራቤት ብዓውታ ንጐይታ ዘምሩ\n[[/chorus]]\n\nብማእሰር ፍቕሪ ተጠሚርኩም\nሰላም ሰማያት ተኻፊልኩም (2)\nንዘልዓለም ብስኒት የንብርኩም\nንዘልዓለም ኣብሪሁ ሓዳርኩም\nርሑስ ጋማ እንቋዕ ኣብቅዓኩም\nርሑስ ጋማ ኣምላኽ ይባርኽኩም\n\nድምጺ ፈታዊኺ መዝገብ ብዙሕ ደስታ\nከም ደሃይ መሰንቆ ማራኺ ትርግታ\nመርዓዊ ፍሥሐ ኣምሳል ልዑል ጐይታ\nተቓንዩ ብቃሉ ናይ ፍቕሪ እምብልታ\n\nናይ ምስጋና መዝሙር ልብና ጎሲዑ\nብተኽሊል ኣሕዋትና ሓጎስ ተመሊኡ\nኣምላኽና ይሃብኩም ሓይሉ መመሊሱ\nተጓዓዙ ብተስፋ መንግስቱ ክትወርሱ"
+    },
+    "ti_ro": {
+      "title": "Bma'ser fqri",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nSelam semayat tekhafilkum (2)\n[[/chorus]]\n\nBmaser fqri tetemirkum\nNzelalem bsnit yenbrkum\nNzelalem abrihu hadarkum\nRhus gama nqwa abqakum\nRhus gama amlakh ybarkhkum\nYqores hbsti megletsi hagosna\nTswakum allu meste hadnetna\nYohana (2) rhus gama belu\nSdrabet bawta ngoyta zemru\nDmtsi fetawikhi mezgeb bzuh desta\nKem dehay mesenqo marakhi trgta\nMerawi fssha amsal lul goyta\nTeqanyu bqalu nay fqri mblta\nBrhan wedi amlakh ntselam siru\nTsnu halewau ygletselkum balu\nSgat yelen frhi idu teteriska\nNshgr tthso smu teaminka\nNay msgana mezmur lbna gosiu\nBtekhlil ahwatna hagos temeliu\nAmlakhna yhabkum haylu memelisu\nTegwaazu btesfa mengstu ktwersu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

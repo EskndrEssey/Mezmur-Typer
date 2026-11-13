@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4846c794bd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ማዕተበይ ከይበትኽ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ማዕተበይ ከይበትኽ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nዓስቢ ኣበሳይ ንጻዕሪ ዘሪኡ\nምጥሓስ ትእዛዝካ ንጽልኢ ተኺሉ\nርኅራኄኻ ግን ፆረይ ኣፂሩካ\nብዕሩቕ ዝባን ኣብ ዕፀ መስቀል ውዒልካ\n[[/chorus]]\n\nማዕተበይ ከይበትኽ ከይርሕቕ ካብ ቤትካ\nመስቀልካ ከይጸልእ ከይርስዕ ውዕለትካ\nኣሰርካ ክስዕብ መድኃኔ ዓለም\nጸጋኻ ኣብዝኃለይ ፍቓድካ ከቐድም\n\nወርቅን ብሩርን ኣይዓደጋን ነፍሰይ\nብኽቡር ዑንቂ ኣይተመዝነን ዋጋይ\nደምካ’ዩ ነይሩ በጃይ ዝፈሰሰ\nገመድ ማእሰርተይ ብትሕትና ዝበተኸ\n\nመን ይልክዖ ነዚ ኵሉ ክብሪ\nመንከ ይመዝኖ እዚ ዓይነት ፍቕሪ\nክሳዕ ክንድዚ በዳሊኻ ምፍቃር\nክቡር ሕይወትካ በጃ ሓንቲ በጊዕ ምኽፋል"
+    },
+    "ti_ro": {
+      "title": "Ma'tebey keybetkh",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Matebey keybetkh keyrhq kab betka\nMesqelka keytsel keyrs wletka\nAserka ksb medhane alem\nTsegakha abzhaley fqadka keqedm\nAsbi abesay ntsari zeriu\nMthas tzazka ntsli tekhilu\nRhrahekha gn tsorey atsiruka\nBruq zban ab tse mesqel wilka\nWerqn brurn ayadegan nefsey\nBkhbur unqi aytemeznen wagay\nDemka’yu neyru bejay zfesese\nGemed masertey bthtna zbetekhe\nBreqiq msstir bzegerm klet\nSiol zemitka sirka hayli mot\nDiyablos gn hazen tegezimu\nKab msstir ftret msstire dhnet rezinu\nMen ylko nezi kwilu kbri\nMenke ymezno zi aynet fqri\nKsa kndzi bedalikha mfqar\nKbur hywetka beja hanti begi mkhfal"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

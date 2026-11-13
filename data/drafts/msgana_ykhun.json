@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c554a46fc3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና ይኹን"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና ይኹን",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nሓይሉ ረቂቕ’ዩ ብመንፈስ ዝዓዪ\nከይተዋግአ ጸላእቱ ዘጉዪ\nበዓል ግርማ’ዩ ትርኢቱ ዘንደልህጽ\nትእዛዝ ቃላቱ ንምድሪ ዘንቀጥቅጥ (2)\n[[/chorus]]\n\nምስጋና ይኹን ኣምልኽዎ ተገዝኡ ነገስታት ናይ ምድሪ\nስገዱሉ ፍርሑ ንፈጣሪ\n\nሕዝቡ ዝሓሊ ዘመሓድር ንጉሥ\nትጉህ ጓሳ’ዩ ፈጺሙ ዘይታኸስ\nብሓንቲ ዓይኒ ዝመዝን ዳኛ’ዩ\nፍትሒ ዘውጽእ ቅኑዕ ፈራዲ’ዩ (2)\n\nሕዝቡ ዝሓሊ . . ."
+    },
+    "ti_ro": {
+      "title": "Msgana ykhun",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nTzaz qalatu nmdri zenqetqt (2)\n[[/chorus]]\n\nMsgana ykhun amlkhwo tegezu negestat nay mdri\nSgedulu frhu nfetari\nHaylu reqiq’yu bmenfes zayi\nKeytewaga tselatu zeguyi\nBeal grma’yu tritu zendelhts\nHzbu zhali zemehadr nguss\nTguh gwasa’yu fetsimu zeytakhes\nBhanti ayni zmezn danya’yu\nFthi zewts qnu feradi’yu (2)\nBarya zmesl nkhbri barotu\nMhret zezz hadag ntselatu\nBfqru zret zmelkh amlakh\nTegbaratus dnqi teamrat (2)\nHzbu zhali . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

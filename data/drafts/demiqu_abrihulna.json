@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f196463b18",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ደሚቑ ኣብሪሁልና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ደሚቑ ኣብሪሁልና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብቤተክርስቲያን ጽላል ተኸሊሎም\nመርዓዊ መርዓት ቅዱስ ተኽሊል ጌሮም\nጸጋ መንፈስቅዱስ ስለዝተዋህቦም\nመርዓዊ መርዓት ብርሃን ኮይኑ ገጾም\n[[/chorus]]\n\nደሚቑ ኣብሪሁልና ስራሕ ናይ ጐይታና(2)\nኮይኖምልና መርዑት ኣብርሃምን ሳራን\n\nክልተ ዝነበሩ ሓደ ኮይኖም ብተኽሊል\nእግዚአብሔር ይመስገን ዕልል ዕልል ንበል\nናይ ሕያዋን ኣደ ሔዋን ዝተበሃልኪ\nናይ ኣዳም ምልኣቱ ሎሚ ተራኢኺ"
+    },
+    "ti_ro": {
+      "title": "Demiqu abrihulna",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Demiqu abrihulna srah nay goytana(2)\nKoynomlna merut abrhamn saran\nBbetekrstiyan tslal tekhelilom\nMerawi merat qdus tekhlil gerom\nTsega menfesqdus sleztewahbom\nMerawi merat brhan koynu getsom\nKlte zneberu hade koynom btekhlil\nGziabher ymesgen ll ll nbel\nNay hyawan ade hewan ztebehalki\nNay adam mlatu lomi teraikhi\nAb bete krstiyan ab qdmi amlakhom\nBssga wedemu kem hade seb koynom\nNezi nkhnri amlakh zebqana\nMstir nzebrh nsew msgana"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

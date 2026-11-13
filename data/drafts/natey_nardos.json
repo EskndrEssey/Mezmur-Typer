@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b043a046e7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናተይ ናርዶስ"
+  },
+  "singer": "ዘማሪት ዘርፌ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናተይ ናርዶስ",
+      "zemari": "ዘማሪት ዘርፌ ከበደ",
+      "lyrics": "[[chorus]]\nድቃስ የለን ኣብ ዓራተይ\nተሓጺበ ብንብዓተይ\nብሞት ናቱ ነቒሐ’የ\nፍቕረይ ኢለ ወጺአ’የ\n[[/chorus]]\n\nናተይ ናርዶስ ናተይ ቤዛ\nመሲጡኒ ብመኣዛ\nተመልኪተ ሽንካር ኢዱ\nስዒበዮ ብመንገዱ\n\nነቲ ሳሮን ጽጌረዳ\nረኺበዮ ምድረ በዳ\nበቲ ፍቕሩ ይቐንእየ\nብመስቀሉ ድኂነየ\n\nተተርኢሰ ኣብ ጸጋሙ\nሓቚፉኒ ብየማኑ\nጐይታ ናተይ ኣነ ናቱ\nኣይፍለይን ካብቲ ቤቱ"
+    },
+    "ti_ro": {
+      "title": "Natey nardos",
+      "zemari": "zemarit zerfe kebede",
+      "lyrics": "Natey nardos natey beza\nMesituni bmeaza\nTemelkite shnkar idu\nSibeyo bmengedu\nDqas yelen ab aratey\nTehatsibe bnbatey\nBmot natu neqiha’ye\nFqrey ile wetsia’ye\nNeti saron tsgereda\nRekhibeyo mdre beda\nBeti fqru yqenye\nBmesqelu dhineye\nMbatat zzelele\nAdmasat’wn zkhelele\nAbti wan ararbo\nTsewiuni feqar abo\nTeterise ab tsegamu\nHaqwafuni byemanu\nGoyta natey ane natu\nAyfleyn kabti betu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

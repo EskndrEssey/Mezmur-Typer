@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2abeaa2431",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መርከብ ናይ ኖህ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መርከብ ናይ ኖህ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nእቲ ቀዳማይ ፍጥረት ኣብ ዝወደቐሉ\nካብ ገነት ንምድሪ ኣብ ዝተሰጎሉ\nኣብ ኣርዑት መግዛእቲ ኣብ ዝነበረሉ\nንኣምላኽ ለመነ ከድሕኖ ብሓይሉ\n[[/chorus]]\n\nመርከብ ናይ ኖህ ኢኺ ተስፋ ድኅነትና\nብኢደ ዮሃንስ ተወሃብክና\nኣኽሊል ድኅነትና ኢኺ መመክሒትና\nድንግል ማርያም ኣደ ኩላትና\n\nጸሎቱ ሰሚዑ ጐይታ ተቐበሎ\nስሙ እናጸውዐ ኣዳም ኣዳም በሎ\nኣቤት ጐይታ በለ ኣብ ጸልማት እንከሎ\nተስፋ ድኅነት ሃቦ ኵሉ ዝከኣሎ\n\nንኖህ ተዋህበቶ ናይ ድኅነት መርከብ\nምስ ሸሞንተ ነፍሳት ኣብኣ ንኽዕቆብ\nብእምነት ኣተወ ብዘይ ክፉእ ሓሳብ\nካብ ጥፍኣት ደሓነ ካብ ናይ ኣይሂ ዝናብ"
+    },
+    "ti_ro": {
+      "title": "Merkeb nay noh",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Merkeb nay noh ikhi tesfa dhnetna\nBide yohans tewehabkna\nAkhlil dhnetna ikhi memekhitna\nDngl maryam ade kulatna\nTi qedamay ftret ab zwedeqelu\nKab genet nmdri ab ztesegolu\nAb arut megzati ab zneberelu\nNamlakh lemene kedhno bhaylu\nTselotu semiu goyta teqebelo\nSmu natsewa adam adam belo\nAbet goyta bele ab tselmat nkelo\nTesfa dhnet habo kwilu zkealo\nTi tesfa dhnet dhri newih wan\nBdngl maryam dngl ade brhan\nKwilu tefetseme tnbit nay qdusan\nNhna’wn dehana bnay goyta kidan\nNnoh tewahbeto nay dhnet merkeb\nMs shemonte nefsat aba nkhqob\nBmnet atewe bzey kfu hasab\nKab tfat dehane kab nay ayhi znab\nAmsal merkeb nay noh zkhonet maryam\nAba nteaqob ftretat nay adam\nMnti kndhn kab hatiat znam\nKabti mefrh hawi sate gehanem"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

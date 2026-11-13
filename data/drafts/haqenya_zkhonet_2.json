@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_fc686afbf3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓቀኛ ዝኾነት"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓቀኛ ዝኾነት",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nንኣዳም ንሔዋን ተስፋ ዝሃበላ\nኣምላኽ ካብ ማርያም ዝተወለደላ\nሓንቲ'ያ ሃይማኖት ካልአይቲ ዘይብላ\n[[/chorus]]\n\nሓቀኛ ዝኾነት ሃይማኖትና\nብደሙ መስሪቱ ኣምላኽ ዘጽንዓልና\nተዋሕዶ ንጽህቲ እምነትና\n\nንተዋህዶ ክብሉ ቅዱሳን ኣቦታት\nሂወቶም ሰዊኦም ኮይኖም ሰማእታት\nኣረኪቦሙና'ለዉ ቅድስት ሃይማኖት\n\nንሕና'ውን ኩልና ከምቶም ኣቦታትና\nክንጸንዕ ይግባእ በዚኣ እምነትና\nምእንቲ ክንረክብ ክብሪ ካብ ኣምላኽና"
+    },
+    "ti_ro": {
+      "title": "Haqenya zkhonet",
+      "zemari": "di/n efrem",
+      "lyrics": "Haqenya zkhonet haymanotna\nBdemu mesritu amlakh zeTsn'alna\nTewahdo nTshti 'mnetna\nNadam nhewan tesfa zhabela\nAmlakh kab maryam zteweledela\nHanti'ya haymanot kalayti zeybla\nNtewahdo kblu qdusan abotat\nHiwetom sewiom koynom sema'tat\nArekibomuna'lewu qdst haymanot\nQdus giyorgis liqe sema'tat\nHywetu sewiu Tseni'u b'mnet\nAraya kkhewn nkhulom fTretat\nNhna'wn kulna kemtom abotatna\nKnTsen' ygba' bezia 'mnetna\nM'nti knrekb kbri kab amlakhna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

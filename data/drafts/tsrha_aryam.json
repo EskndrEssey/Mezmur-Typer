@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d9288f43c5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጽርሓ ኣርያም"
+  },
+  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጽርሓ ኣርያም",
+      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
+      "lyrics": "[[chorus]]\nብቓል መላእኽቲ ሰለስተ ከተማ\nኣብ ኤረር ኣብ እዪር ከምኡውን ኣብ ራማ\nውዳሴ ቀሪቡ ንንግስት ሰማይ\nኣደ ወዲ ኣምላኽ ብኽብሪ ተራእየት\n[[/chorus]]\n\nጽርሓ ኣርያም(4)\nክብርኺ ብዙሕዩ ንዘልዓለም\n\nበረኻ ዘለዉ ዓለም ዝነዓቑ\nውዳሴ ደጊሞም ስምኪ እናሰነቑ\nስምኪ እንክጽዋዕ ድያብሎስ ይሃድም\nንስኺ ተስፋኦም ድንግል ማርያም\n\nንጽህና እዩ ልብሳ ብርሃን ናታ ግርማ\nፍጥረታት ክትባርኽ ክብሪ ተሰሊማ\nነፍሳት ክቕደሱ ብእምነት ከቢቦም\nየመስግንዋ እዮም ከበሮ ኣልዒሎም\nዲ/ን እዝራ ሃ/ማርያም"
+    },
+    "ti_ro": {
+      "title": "Tsrha aryam",
+      "zemari": "di/n mndaye brhanu",
+      "lyrics": "[[chorus]]\nTsrha aryam(4)\n[[/chorus]]\n\nKbrkhi bzuhyu nzelalem\nBqal melakhti seleste ketema\nAb erer ab yir kemuwn ab rama\nWdase qeribu nngst semay\nAde wedi amlakh bkhbri terayet\nBerekha zelewu alem zneaqu\nWdase degimom smki nasenequ\nSmki nktswa dyablos yhadm\nNskhi tesfaom dngl maryam\nAb thti agara nwerhi regitsa\nTi nay kbri akhlil ab rsa defia\nBqdusan kulom ktmsgen tnebr\nAde amanuel goyta gziabher\nNtshna yu lbsa brhan nata grma\nFtretat ktbarkh kbri teselima\nNefsat kqdesu bmnet kebibom\nYemesgnwa yom kebero alilom"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

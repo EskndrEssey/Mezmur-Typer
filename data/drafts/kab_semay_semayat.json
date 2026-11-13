@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c6b6fb5aa0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ካብ ሰማይ ሰማያት"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ካብ ሰማይ ሰማያት",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nኣዲኡ እንታይ በለት ሓቚፋ ዘዕበየት\nፎቖዶ በረኻ ምስኡ ዝተሰደት\nእንታይ እዩ ጌሩ እንታይ’ዩ በዲሉ\nመላእ ኣካላቱ ብገመድ ቆሲሉ\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ\n[[/chorus]]\n\nካብ ሰማይ ሰማያት ናብ ምድሪ ወሪዱ\nንደቂ ሰባት ኢሉ ተዋሪዱ\nሓጢኣት ዘይባህሪኡ ብኣምላኽነቱ\nምእንታይ ተሰቒሉ ኣብ ማእከል ሸፋቱ\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ\n\nቀላያት ኩሎም ዝግዝኡሉ\nንደቂ ሰባት ማይ ጸሚኡኒ ኢሉ\nደምን ረሃጽን ብገጹ እናወረደ\nክትበኪ ረአያ እታ ርህርህቲ ኣደ\nናትና ፍቕሪ ስሒብዎ ተሰቒሉ ኣብ ቀራንዮ ጎቦ"
+    },
+    "ti_ro": {
+      "title": "Kab semay semayat",
+      "zemari": "di/n efrem",
+      "lyrics": "Kab semay semayat nab mdri weridu\nNdeqi sebat ilu tewaridu\nHatiat zeybahriu bamlakhnetu\nMntay teseqilu ab makel shefatu\nNatna fqri shibwo teseqilu ab qeranyo gobo\nAdiu ntay belet haqwafa zebeyet\nFoqodo berekha msu ztesedet\nNtay yu geru ntay’yu bedilu\nMela akalatu bgemed qosilu\nNatna fqri shibwo teseqilu ab qeranyo gobo\nQelayat kulom zgzulu\nNdeqi sebat may tsemiuni ilu\nDemn rehatsn bgetsu nawerede\nKtbeki reaya ta rhrhti ade\nNatna fqri shibwo teseqilu ab qeranyo gobo\nMekera keyferha ztekhetele\nYohans bekheye weyley nabele\nKsab mewedata btbat zseabo\nNhat adekha ilu nyohans habo\nNatna fqri shibwo teseqilu ab qeranyo gobo"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

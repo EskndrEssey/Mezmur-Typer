@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8005704e7e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓይልኻ እንክግለጽ"
+  },
+  "singer": "ዘማሪ ይልማ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓይልኻ እንክግለጽ",
+      "zemari": "ዘማሪ ይልማ ሃይሉ",
+      "lyrics": "[[chorus]]\nኣቤት ቀርኒ መለኸት እንክንፋሕ\nኣዋጅ እንክእወጅ ብገፊሕ\nጻድቃን እንክቖሙ ብየማን\nእንታ’ዩ እቲ ናትና ዕድል\n[[/chorus]]\n\nሓይልኻ እንክግለጽ ኣብ ሰማይ (2)\nጐይታይ መን’ዩ ደው ዝብል\nቅድሜኻ መን’ዩ ደው ዝብል (2)\n\nኣቤት ሸውዓተ ንፋስ ነፊሶም\nእንክህውኹ ንዅሉ ዓለም\nእንክእዘዝ ናይ ባሕሪ ማዕበል\nቀጥቀጥ እንክብሉ ከናፍር\n\nኣቤት ኃጥኣን እንክጽውዑ ንፍርዲ\nእንክኣትዉ ገሃነም ነዳዲ\nዘይጠቅም ብኽያት ኮይኑ\nውርደት እንክኸውን ሓዘኑ"
+    },
+    "ti_ro": {
+      "title": "Haylkha 'nkgleTs",
+      "zemari": "zemari ylma haylu",
+      "lyrics": "[[chorus]]\nHaylkha 'nkgleTs ab semay (2)\n[[/chorus]]\n\nGoytay men’yu dew zbl\nQdmekha men’yu dew zbl (2)\nAbet qerni melekhet 'nknfah\nAwaj 'nk'wej bgefih\nTsadqan 'nkqomu byeman\n'Nta’yu 'ti natna 'dl\nAbet shew'ate nfas nefisom\n'Nkhwkhu nkwilu 'alem\n'Nk'zez nay bahri ma'bel\nQeTqeT 'nkblu kenafr\nAbet 'nkTsw'u Tsadqan qdusan\nSenay zgeberu brukhan\nZewahlelwo trufat\n'Nkeqrbu nab amlakh sbhat\nAbet haTan 'nkTsw'u nfrdi\n'Nkatwu gehanem nedadi\nZeyTeqm bkhyat koynu\nWrdet 'nkkhewn hazenu\nAbet ma'Tso semayat 'nkkhfet\nMela'kt 'nknefhu melekhet\nZeytera'ye fluy grma\nDmTsi 'nksma' ab rama"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

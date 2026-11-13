@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_bad21ddfcf",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሕያወይቲ ኣደ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሕያወይቲ ኣደ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nእግዚአብሔር ዝሰመራ\nግርማ መንፈስቅዱስ ዝሓጸራ\nበቲ ቅዱስ ደሙ ዝቐደሳ\nንውሉድ ወለዶ ክብርቲ’ያ ንሳ\n[[/chorus]]\n\nሕያወይቲ ኣደ ዝኾንክኒ (2)\nክበርለይ ደብረይ ደብረ ወይኒ\nሰላማዊት ቤተይ ደብረ ቤትኤል\nሰላም ክብለኪ ማሕደር ልዑል\nርእሰ ኣድባር ደብረ ቤትኤል\n\nካብ ህፃንነተይ ዘዕበኽኒ\nዝማሬን ማህሌትን ዘስነቕክኒ\nሕያወይቲ ኣደ ዝኾንክኒ\nክበርለይ ደብረይ ደብረ ወይኒ\n\nንኹሎም ደቅኺ እትምህሪ\nብፍቕሪ ብሰላም ትዝምሪ\nካብ መዓር ወለላ ዝሕረ ውህበትኪ\nኣዳራሽ ኢየሱስ ንስኺ ኢኺ"
+    },
+    "ti_ro": {
+      "title": "Hyaweyti ade",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nHyaweyti ade zkhonkni (2)\n[[/chorus]]\n\nSelamawit betey debre betel\nSelam kbleki mahder lul\nRse adbar debre betel\nGziabher zsemera\nGrma menfesqdus zhatsera\nBeti qdus demu zqedesa\nNwlud weledo kbrti’ya nsa\nKab htsannetey zebekhni\nZmaren mahletn zesneqkni\n\nSeytan tebegese nnwetki\nManm mesilkyo ketfaki\nBdemena semay ztesewerki\nMahder amanuel des ybelki\nNkhulom deqkhi tmhri\nBfqri bselam tzmri\nKab mear welela zhre whbetki\nAdarash iyesus nskhi ikhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4fdb887ebd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዝደኸመት ነፍሰይ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዝደኸመት ነፍሰይ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nኣብ ልማድ ናይ ኣህዛብ እምነተይ ኣርዒመ\nዘይርኢ ዘይሰምዕ ጣኦት ተሰኪመ\nካብ ወርሕን ንፋስን ተስፋ ምስ ስኣንኩ\nፈጣሪ ናይ ጸሓይ ብኣኻ ረጋእኩ\n[[/chorus]]\n\nዝደኸመት ነፍሰይ ዕረፍቲ ረኺባ\nብመድኃኔ ዓለም ሰላም ተዋሂባ\nኣምላኽ ምስ ፈቐደ ቤተይ ሰላም መልኣ\nሕይወተይ ንምድሓን ክርስቶስ ሞተላ\n\nብስምካ ዝግበር ተኣምር ሰሚዐ\nንገጽካ ክርኢ ኣብ ሳግላ ሓኹረ\nናይ ልበይ ፈሊጥካ ብስመይ ጸዊዕካ\nምድሓን'ውን ኮነለይ ብቕዱስ ፍቓድካ\n\nብስርቂ ብቕትለት ዘሕለፍኩ ዘመነይ\nኣብ መስቀል ኣብቅዐ ገበታ ሓጢኣተይ\nኣበሳይ ደምሲሱ ብፍቕሪ ጠሚቱ\nገነት ፈቐደለይ ምስኡ ንኽኣቱ"
+    },
+    "ti_ro": {
+      "title": "Zdekhemet nefsey",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "Zdekhemet nefsey refti rekhiba\nBmedhane alem selam tewahiba\nAmlakh ms feqede betey selam mela\nHywetey nmdhan krstos motela\nAb lmad nay ahzab mnetey arime\nZeyri zeysem taot tesekime\nKab werhn nfasn tesfa ms sanku\nFetari nay tsehay bakha regaku\nBsmka zgber teamr semia\nNgetska kri ab sagla hakhure\nNay lbey felitka bsmey tsewika\nMdhan'wn koneley bqdus fqadka\nKab mot ztensaki ni amesgni\nTabita tensi nadonay zemri\nBnay goyta mhret kab lemtsi netsihkum\nMeskru nalem grum'yu nabelkum\nBsrqi bqtlet zehlefku zemeney\nAb mesqel abqa gebeta hatiatey\nAbesay demsisu bfqri temitu\nGenet feqedeley msu nkhatu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

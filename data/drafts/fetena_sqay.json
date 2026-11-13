@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_63dd961c0e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፈተና ስቓይ"
+  },
+  "singer": "ዘማሪት ጸዳል ጎበዜ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፈተና ስቓይ",
+      "zemari": "ዘማሪት ጸዳል ጎበዜ",
+      "lyrics": "[[chorus]]\nፍቕር’ዩ ናይ ናርዶስ ሽቱ\nፈትዩና ኣብ መስቀል ሞይቱ\nነጎድጓድ መብረቕ’ውን ይኹን\nብሞት ኣይንውሰድን (2)\n[[/chorus]]\n\nፈተና ስቓይ’ውን ይብዛሕ\nርኢና ሕዝቡ ከብዝሕ\nንሕይወት ጽዉዓት ኢና\nእግዚአብሔር ኣይጥንጥነናን (2)\n\nመኳንንት ደገ ክፈቱ\nጸጋኡ በዚሑ ካዕቢቱ\nተራጊፉ’ዩ ሸኸምና\nምሕረቱ ምስ ፈሰሰልና (2)\nተጸናኒዑ ልብና\nብእሳት ሕጹር ቀጽርና\nውድቀት ስዕረት የለን\nከለና ኢየሱስ መድኅን (2)\nሕይወት’ዩ ናይ ጽድቂ ጽላል\nኢየሱስ ዘእግዚአብሔር ቃል\nኢኻ’ሞ ምቁር መግብና\nእግዚአብሔር ርህሩህ ኣምላኽና (2)"
+    },
+    "ti_ro": {
+      "title": "Fetena sqay",
+      "zemari": "zemarit Tsedal gobeze",
+      "lyrics": "[[chorus]]\nGziabher aytntnenan (2)\n[[/chorus]]\n\nFetena sqay’wn ybzah\nRina hzbu kebzh\nNhywet tswuat ina\nFqr’yu nay nardos shtu\nFetyuna ab mesqel moytu\nNegodgwad mebreq’wn ykhun\nBmot aynwsedn (2)\nMekwannt dege kfetu\nTsegau bezihu kabitu\nTeragifu’yu shekhemna\nMhretu ms feseselna (2)\nTetsenaniu lbna\nBsat htsur qetsrna\nWdqet sret yelen\nKelena iyesus medhn (2)\nHywet’yu nay tsdqi tslal\nIyesus zegziabher qal\nIkha’mo mqur megbna\nGziabher rhruh amlakhna (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

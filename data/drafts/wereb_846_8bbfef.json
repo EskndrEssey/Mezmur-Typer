@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0846",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 846,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ንድኅነት ዓለም ዝወዓለ ኣብ መስቀል",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nንድኅነት ዓለም ዝወዓለ ኣብ መስቀል\nኢየሱስ ክርስቶስ ኢዩ ኣማኑኤል\nጐይታ ተሰቒሉ እንክሪኡ መላእክት\nኣብ ክንዲ ምስጋና በኸዩሉ ብኽያት\nኣምላኽ ብዕርቃኑ ተሰቒሉ’ዩ’ሞ\nሚካኤል ስቕ በለ ገብርኤል ገረሞ\nነፍሱ ንፈታዊ ዝህብ ተተረኽበ\nንጸላኢ ግና የለን ነፍሱ ዝሃበ\nጸላእቱ ከለና ዝሞተ ስሌና\nኣበሳ ዘይብሉ ፍሉይ’ዩ ጐይታና\nዕዉር እንተብረሀ ‘ተተንሰአ ምዉት\nኣብ ክንዲ ምስጋና ተቖጽረ ከም ሓጢኣት\nሰማያዊ ዳኛ ንኽፍረደሉ\nትዕግስቱ ዘገርም ከሎ ልዕሊ ኵሉ\nብዕለተ ሓሙስ ዝኾነ ድራር\nዓርቢ ኣብ መስቀል ዝወግኦ ሽንካር\nስሌና ዝሞተ ፍቕሪ ገዲድዎ\nሕያዋይ ጓሳና መድኃኔ ዓለም እዩ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3bcffd8f2f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብ ሰማይ ይሃሉ ልብና"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብ ሰማይ ይሃሉ ልብና",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nወልደ ነጎድጓድ ዮሐንስ\nክብሪ ዝሃቦ መንፈስቅዱስ\nመስኮት ናይ ሰማይ ተኸፊቱ\nምሥጢር እግዚአብሔር ተመልኪቱ\n[[/chorus]]\n\nኣብ ሰማይ ይሃሉ ልብና\nምስ’ቲ ፈቃር ለዋህ ኣቦና\nምሕረቱን ሰላሙን ክውርደልና (2)\n\nናብ ሣልሳይ ሰማይ ተመሲጡ\nናይ ሰማይ ምስጢር’ውን ፈሊጡ\nቅዱስ ጳውሎስ ብርሃን ዓለም\nክብሩ ዝነብር ንዘልዓለም\n\nመናኔ ዓለም ተክለ ሃይማኖት\nምሕረት ለማኒ በዓል ጸሎት\nሽዱሽተ ኣኽናፍ ተዓዲሉ\nክብሪ ሱራፌል ተቐቢሉ"
+    },
+    "ti_ro": {
+      "title": "Ab semay yhalu lbna",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nMhretun selamun kwrdelna (2)\n[[/chorus]]\n\nAb semay yhalu lbna\nMs’ti feqar lewah abona\nWelde negodgwad yohans\nKbri zhabo menfesqdus\nMeskot nay semay tekhefitu\nMsstir gziabher temelkitu\nNab salsay semay temesitu\nNay semay mstir’wn felitu\nQdus pawlos brhan alem\nKbru znebr nzelalem\nZema melakt temeliu\nYared kzmr teqebiu\nGru bkunat ms teregze\nDemu fesisu wehaze\nMenane alem tekle haymanot\nMhret lemani beal tselot\nShdushte akhnaf teadilu\nKbri surafel teqebilu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

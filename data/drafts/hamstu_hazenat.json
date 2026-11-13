@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_221f0b1f5b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኃምስቱ ኃዘናት"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኃምስቱ ኃዘናት",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nከም ልማድ ናይ ኣይሁድ ናብ መቕደስ ምስ ከድኩ\nኣረጋዊ ስምኦን ሽዑ ነገረኒ\nከምዝመውት ወደይ እቲ ጉንዲ ወይኒ\nብልቢ ሓዘንኩ ንብዓት ሰዓረኒ\n[[/chorus]]\n\nኃምስቱ ኃዘናት ዘረከቡኪ ማርያም\nሶበ ይዜከር ለይብኪ ወያስቆቁ ዓይነ ልብ ዘቦ\n\nክደሊ ንወደይ ለይቲ ምስ መዓልቲ\nኣብራኸይ ደኸማ ስኢነን ዕረፍቲ\nድሕሪ ነዊሕ ድኻም ድሕሪ ናይ ሳልስቲ\nንወደይ ረኸብኩ ማእከል ሊቃውንቲ\n\nኣብ ማእከል ሸፋቱ ወደይ ምስ ተሰቕለ\nዮሃንስ በኸየ ወይ ኣነ እናበለ\nወደይ ምስ ገዓረ ተፈጸመ በለ\nኣእምሮይ’ውን ኵሉ ኣብ ሓዘን ጠሓለ\n\nብኺዳንኪ ድንግል ሎሚ ዘክርና\nበቲ ዝተዋህበኪ ኪዳን ካብ ጐይታና\nሓምስቱ ሓዘናት ዘኪርና ነባዕና\nንልምን ኦ ድንግል ብመዝሙር ምስጋና"
+    },
+    "ti_ro": {
+      "title": "Hamstu hazenat",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Hamstu hazenat zerekebuki maryam\nSobe yzeker leybki weyasqoqu 'ayne lb zebo\nKem lmad nay ayhud nab meqdes ms kedku\nAregawi smon sh'u negereni\nKemzmewt wedey 'ti gundi weyni\nBlbi hazenku nb'at se'areni\nKdeli nwedey leyti ms me'alti\nAbrakhey dekhema sinen 'refti\nDhri newih dkham dhri nay salsti\nNwedey rekhebku ma'kel liqawnti\nNeti medhn kwilu semayawi nguSs\nBhasot kesisom ab qdmi PilaTos\nBzuh ms tegerfe wladey krstos\nM'bad abekhu kabti merir melqes\nAb ma'kel shefatu wedey ms teseqle\nYohans bekheye wey ane 'nabele\nWedey ms ge'are tefeTseme bele\nA'mroy’wn kwilu ab hazen Tehale\nTsehay ab m'rabu kTslmt kjmr\nYosef niqodimos kltiom bhabar\nNwedey kqebru ab hadsh meqabr\nSh'u bekhekhu lbi bzmetr\nBkhidanki dngl lomi zekrna\nBeti ztewahbeki kidan kab goytana\nHamstu hazenat zekirna neba'na\nNlmn o dngl bmezmur msgana"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

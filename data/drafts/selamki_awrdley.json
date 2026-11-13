@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_18e7533b17",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰላምኪ ኣውርድለይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰላምኪ ኣውርድለይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nካብ ኃጢኣት ምፍላይ ኣዝዩ ከቢዱኒ\nብጽድቂ ከይግስግስ ሓይለይ ደኺሙኒ\nመሳልል ድሕነተይ ብሂጉኪ ልበይ\nምስ ወድኺ ንዒ ኣድሕንኒ ካብ ስቓይ\n[[/chorus]]\n\nስምኪ ክጽውዕ ኣንቃዕሪረ\nማርያመይ እናበልኩ ተስፋ ገይረ\nባህጊ ልበይ ፍለጥለይ\nሰላምኪ ኣውርድለይ (2)\n\nብኽፉእ ሓሳባት ልበይ ተወሪቑ\nብምቾት ኣጊጹ ሕሊናይ ሓንቂቑ\nጠበቓ ኩንኒ ኣበሳይ ከጽሪ\nኣምላኻዊ ፍቕሩ ንልበይ ምሃሪ\n\nትርጉም ኣልቦ ከይከውን ምንባረይ\nጸሎት ጾመይ ከይሕነቕ ብግብረይ\nኣንፊ ጕዕዞይ መንቅብ ከይርከቦ\nቅዱስ ቃሉ ነእዛነይ ከይፈርዶ"
+    },
+    "ti_ro": {
+      "title": "Selamki awrdley",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nSelamki awrdley (2)\n[[/chorus]]\n\nSmki ktsw anqarire\nMaryamey nabelku tesfa geyre\nBahgi lbey fletley\nKab hatiat mflay azyu kebiduni\nBtsdqi keygsgs hayley dekhimuni\nMesall dhnetey bhiguki lbey\nMs wedkhi ni adhnni kab sqay\nBkhfu hasabat lbey teweriqu\nBmchot agitsu hlinay hanqiqu\nTebeqa kunni abesay ketsri\nAmlakhawi fqru nlbey mhari\nQdmey zemadwo dqdq qelay tfat\nLamay zeres zefrh dne mot\nBtsdqi merihki sewrley meat\nDegime keymles asnqni'ti natki tbat\nTrgum albo keykewn mnbarey\nTselot tsomey keyhneq bgbrey\nAnfi gwizoy menqb keyrkebo\nQdus qalu nezaney keyferdo\nKeybe lbey btsegau\nNkheymkah bwhbet menfesu\nKab seb asbi keyfdeyo guyay\nO dngley hadera belley (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

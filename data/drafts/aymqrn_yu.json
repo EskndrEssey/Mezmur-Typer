@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_e4a2d5fe2c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣይምቅርን'ዩ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣይምቅርን'ዩ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብጓሂ ልቢ ዝተኸበ\nምሉእ ሰላም ዘይረኸበ\nናትኪ ዓይኒ ቁሊሕ እንክብሎ\nንእለቱ ብርሃን ሰላም\nፍሽኽታ ይዓስሎ\n[[/chorus]]\n\nንዒ ባርኺ ሰላም ናይ ሕይወትና መቐረት ገዛና\nእወ ክንሰንቕ መንፈስና ክበርቕ ሓጎስና ክደምቕ\nኣይምቅርን'ዩ ንስኺ ዘይብሉ\nቅድስተ ቅዱሳን ማርያም ካባኺ'ንድዩ ኵሉ\n\nትምኒት ዓለም መሪር ሕንዛ\nካባ ኮይኑ ድሩዕ ቓንዛ\nምስ ተድምጺ ሓንቲ ቃልኪ\nብቐረባ ማይ ሰሊሆም\nይቕድስ ወድኺ\n\nቆፎ ፍቕሪ ትብርበሪ\nብፍቕርኺ ትፍቀሪ\nእግዚአብሔር ፍቕሪ እዩ\nዝደንቀኒ ፍቕሪ ፍቕሪ\nሓረግ ዘርእኺ'ዩ"
+    },
+    "ti_ro": {
+      "title": "Aymqrn'yu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Ni barkhi selam nay hywetna meqeret gezana\nWe knsenq menfesna kberq hagosna kdemq\nAymqrn'yu nskhi zeyblu\nQdste qdusan maryam kabakhi'ndyu kwilu\nBgwahi lbi ztekhebe\nMlu selam zeyrekhebe\nNatki ayni qulih nkblo\nNletu brhan selam\nFshkhta yaslo\nTmnit alem merir hnza\nKaba koynu dru qanza\nMs tedmtsi hanti qalki\nBqereba may selihom\nYqds wedkhi\nMetni jmat serawrey\nSeritskyo akalatey\nNfqrkhi tegeletsku\nAywdon kemey geyre\nGena zeyagebku\nQofo fqri tbrberi\nBfqrkhi tfqeri\nGziabher fqri yu\nZdenqeni fqri fqri\nHareg zerkhi'yu\nQalat albo zeynger\nBaqmi seb zeyzrzer\nAlo tami meqeretki\nLbi yeqatsel‘ti fqrkhi\nMaryamey kbleki"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

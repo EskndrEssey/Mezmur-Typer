@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_60379d8d8a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "በዝማሬ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "በዝማሬ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nእስመ ባሕቱ ኣድኃነነ በብዝኃ ምሕረቱ (2)\n[[/chorus]]\n\nበዝማሬ ወበመሰንቆ ግነዩ ለእግዚአብሔር\nአምላክነ ኣምላከ ክብር"
+    },
+    "ti_ro": {
+      "title": "Bezmare",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nSme bahtu adhanene bebzha mhretu (2)\n[[/chorus]]\n\nBezmare webemesenqo gneyu legziabher\nAmlakne amlake kbr"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

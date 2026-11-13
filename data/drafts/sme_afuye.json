@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0235ebbdac",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እስመ ኣፉየ"
+  },
+  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እስመ ኣፉየ",
+      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+      "lyrics": "[[chorus]]\nዑራኤል ኃያል ዓውድየ ተዓየን\nከመኢይትዓቀፍ እግርየ በእብን\nወያበርህ ሊተ ዘዚኣከ ብርሃን\nወትንብልናከ ፀወነ ትከውን\n[[/chorus]]\n\nእስመ ኣፉየ በፍቅር ስመከ ጸውዐ (2)\nዑራኤል (2) በዓምደ ደመና ኃቤየ ነዐ (2)\n\nትትፌኖ ለሳህል እምኃበ ልዑል\nወበእንተ ፍጥረት ኣንተ ትስእል\nወትንብልናከ እንተ ባቲ ኃይል\nዛተ ማሕበረከ በረድኤት ትኬልል\n\nትትፌኖ ለሳህል እምኃበ ልዑል\nወበእንተ ፍጥረት ኣንተ ትስእል\nወትንብልናከ እንተ ባቲ ኃይል\nዛተ ማሕበረከ በረድኤት ትኬልል"
+    },
+    "ti_ro": {
+      "title": "'Sme afuye",
+      "zemari": "liqe mela'kt adhnena ikha mikael",
+      "lyrics": "[[chorus]]\nSme afuye befqr smeke tsewa (2)\n[[/chorus]]\n\nUrael (2) beamde demena habeye nea (2)\nUrael hayal awdye teayen\nKemeiytaqef grye bebn\nWeyaberh lite zeziake brhan\nWetnblnake tsewene tkewn\nTtfeno lesahl mhabe lul\nWebente ftret ante tsl\nWetnblnake nte bati hayl\nZate mahbereke beredet tkell\nUrael hayal awdye teayen\nKemeiytaqef grye bebn\nWeyaberh lite zeziake brhan\nWetnblnake tsewene tkewn\nTtfeno lesahl mhabe lul\nWebente ftret ante tsl\nWetnblnake nte bati hayl\nZate mahbereke beredet tkell"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

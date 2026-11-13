@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_aa69ac28c5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሚካኤል"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሚካኤል",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nኣጽዋር ሰረገላ ትምክሕቲ ዘይዓጅቦ\nኣብ በረኻ ሲና ንሕዝቡ ዝመርሖ\nበዓል ዓቢይ ውዕለት ትሑትን ሓቀኛን\nመን'ዩ ከም ሚካኤል ዝተኣምነ ሓርበኛ\n[[/chorus]]\n\nበዓልሻም መልኣኽ እሙን ዓቀይታይ\nሊቀ መላእክት ኣገልጋሊ ጐይታይ\nኣብ ጎነይ ኣሎ ኣብ ጎድንና ኣሎ\nክድግፈና ሚካኤል ንበሎ\n\nሓያል ተዋጋኢ ክንዲ ሕዝቡ ኮይኑ\nፈቃር ትሑት ለዋህ ዓይኒ ርግቢ ዓይኑ\nታሪኸይ ክትቅይር ጽንሓኒ ኣብ ኣኽራን\nሓለቓ ኩነለይ ክኾነልካ ባህራን\n\nበዓል ዓቢይ ራእይ ኮይኑ ኣብ ባቢሎን\nክትንስእ'ዩ ኢሉካ ነቲ ዓቢይ መስፍን\nዝቐውም ንሕዝቡ ኣብ ጊዜ መከራ\nካብዛ ባሕሪ ኃጢኣት ነፍስና ኣስግራ"
+    },
+    "ti_ro": {
+      "title": "Mikael",
+      "zemari": "di/n efrem",
+      "lyrics": "Bealsham melakh mun aqeytay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

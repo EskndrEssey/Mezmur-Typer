@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_6f56357bf9",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ይትባረክ ከም ኣብርሃም"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ይትባረክ ከም ኣብርሃም",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nደስ ይበለና’ሞ      ከም ኣብርሃም\nበዚ ቅዱስ መርዓ\nፍጹም ቅኑዕ እዩ\nናይ ተኽሊል መርዓና\n[[/chorus]]\n\nይትባረክ ከም ኣብርሃም (2)\nእህ ዘለዓለም (4) ይትባረክ ከም ኣብርሃም\n\nጸጋ መንፈስቅዱስ      ከም ኣብርሃም\nሰለዝተዋህቦም\nመርዓውን መርዓትን\nብርሃን ኮይኑ ገጾም\n\nድንግለይ ባርኽልና ነዞም መርዓውትና\nባርኽልና እህ ባርኽልና\nተረኸቢ >> ኣብ ማእከልና\nንወድኺ >> ለምንልና\nንመርዓና >> ክባርኸልና\nባህ ዘበለ >> ክኾነልና"
+    },
+    "ti_ro": {
+      "title": "Ytbarek kem abrham",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nYtbarek kem abrham (2)\n[[/chorus]]\nH zelealem (4) ytbarek kem abrham\nDes ybelena’mo kem abrham\nBezi qdus mera\nFtsum qnu yu\nNay tekhlil merana\nTsega menfesqdus kem abrham\nSeleztewahbom\nMerawn meratn\nBrhan koynu getsom\nNay amlakh hyabu kem abrham\nAykonen kem alem\nHagosn selamn\nYhb nzelalem\nDngley barkhlna nezom merawtna\nBarkhlna h barkhlna\nTerekhebi ab makelna\nNwedkhi lemnlna\nNmerana kbarkhelna\nBah zebele kkhonelna\nAb mnetki h atsnlna\nBkhidanki halwlna\nAbti betki ahdrlna\nBfqrkhi tmerlna\nKab frekhi megblna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

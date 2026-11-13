@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_51e924b807",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ውዕለትኪ ድንግል"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ውዕለትኪ ድንግል",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nኣነ ኣይጠምይን ከቶ ኣይጸምእን\nንዓኺ ሒዘ ገለ ኣይከውንን\nኣይከብደንን’ዩ መከራ ዓለም\nወድኺ ሒዘ መድኃኔ ዓለም\n[[/chorus]]\n\nውዕለትኪ ድንግል በዚሑለይ’ዩ\nሓያል ፍቕርኺ ማሪኹኒ’ዩ\nተምበርኪኸ’የ ስለ ክብርኺ\nክዝምር’የ ንኽቡር ስምኪ\n\nትርጉም ረኺቡ ምሳኺ ጉዕዞይ\nተራሕዩለይ እዩ ማዕጾ ዓወተይ\nእቲ ጽዋዐይ`ውን መሊኡ ተረፈ\nትሕዙን ልበይ ኣባኺ ኣዕረፈ\n\nቅዱስ ወድኺ ማሪኹኒ’ዩ\nውሽጠይ ሓዲሩ ፈዊሱኒ’ዩ\nናይ ሴም ምሳሌ ሸፋኒት ነውረይ\nተሓጺቡዩ ሎምስ ሕይወተይ"
+    },
+    "ti_ro": {
+      "title": "W'letki dngl",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "Wletki dngl bezihuley’yu\nHayal fqrkhi marikhuni’yu\nTemberkikhe’ye sle kbrkhi\nKzmr’ye nkhbur smki\nAne aytemyn keto aytsemn\nNakhi hize gele aykewnn\nAykebdenn’yu mekera alem\nWedkhi hize medhane alem\nTrgum rekhibu msakhi guzoy\nTerahyuley yu matso awetey\nTi tswaay`wn meliu terefe\nThzun lbey abakhi arefe\nNay gbtsi sdet wuy nbatki\nMaliduni’yu lewah lbkhi\nAyhafrn’ye adnine rsey\nNakhi hize ndngl adey\nQdus wedkhi marikhuni’yu\nWshtey hadiru fewisuni’yu\nNay sem msale shefanit newrey\nTehatsibuyu loms hywetey"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0873",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 873,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ሓዚነ ኣለኹ’ሞ ብሥጋ ፈተና",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nሓዚነ ኣለኹ’ሞ ብሥጋ ፈተና\nጫፍ ስለ ዘይብሉ ናይ ዓለም ሓዘና\nቀልጢፍኪ ምጽእኒ ናብዛ ንእሽቶ ቤተይ\nኣጸናንዕኒ ድንግል ኣደ ኣምላኸይ\nዓቢይ’ዩ ’ቲ ባሕሪ ድንግል ኣደ ኣምላኸይ\nንኢሽተይ’ያ መርከበይ ድንግል ኣደ ኣምላኸይ(2)\nመራሒት መገደይ ድንግል ኣደ ኣምላኸይ\nንስኺ ወደበይ ድንግል ኣደ ኣምላኸይ (2)\nንመንገደይ ኵሉ ድንግል ኣደ ኣምላኸይ\nተላግጽ’ያ ዓለም ድንግል ኣደ ኣምላኸይ (2)\nመመክሒት ኣዲኡ ድንግል ኣደ ኣምላኸይ\nኣበይ ‘ላ እናበለት ድንግል ኣደ ኣምላኸይ (2)\nብቐቢጸ ተስፋ ድንግል ኣደ ኣምላኸይ\nከይወድቕ ወድኺ ድንግል ኣደ ኣምላኸይ (2)\nብመዓልትን ለይትን ድንግል ኣደ ኣምላኸይ\nሓልውኒ ኢኺ ድንግል ኣደ ኣምላኸይ\nተስፋ ኣስንቕኒ ድንግል ኣደ ኣምላኸይ\nየለን ዘትረፍክዎ ድንግል ኣደ ኣምላኸይ\nደይበ ወሪደ ድንግል ኣደ ኣምላኸይ (2)\nንስኺ መኽሰበይ ድንግል ኣደ ኣምላኸይ\nቅድስት ጽዮን ኣደይ ድንግል ኣደ ኣምላኸይ (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

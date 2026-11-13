@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ca681f99aa",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኦ ኣፍላገ ወንጌሉ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኦ ኣፍላገ ወንጌሉ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nተቀደሲ ወንሥኢ ኃይለ ኦ ቤተ እግዚአብሔር\nእስመ ናሁ ንጉሥኪ በጽሓ እግዚአብሔር\n[[/chorus]]\n\nሰላም ለክሙ አፍላገ ወንጌሉ ለክርስቶስ ሰላም ለክሙ (2)\nበጽባሕ ሐውጽዋ ለቤተ መቅደስነ ለደብረ መንክራት (2)\nኦ ኣፍላገ ወንጌሉ ለክርስቶስ ሰላም ለክሙ\nበጽባሕ ፡ በጽባሕ ሐውጽዋ (2)\n\nለባርኮ አውደዓመት ምስለ ወልድኪ ልዑል\nንዒ ማርያም፡ ንዒ ማርያም ለምሕረት ወሣህል (2)\nቅዱስ ጊዮርጊስ መንደፈራ"
+    },
+    "ti_ro": {
+      "title": "O aflage wengelu",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nBetsbah  betsbah hawtswa (2)\n[[/chorus]]\n\nSelam lekmu aflage wengelu lekrstos selam lekmu (2)\nBetsbah hawtswa lebete meqdesne ledebre menkrat (2)\nO aflage wengelu lekrstos selam lekmu\nTeqedesi wenssi hayle o bete gziabher\nSme nahu ngusski betsha gziabher\nLebarko awdeamet msle weldki lul\nNi maryam ni maryam lemhret wesahl (2)\nQdus giyorgis mendefera"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

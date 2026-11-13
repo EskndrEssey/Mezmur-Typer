@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3ba075c9af",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እምነት ምስ ግብሪ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እምነት ምስ ግብሪ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣዳም ምስ ተፈጥረ ብኽብሪ ኣብ ገነት\nምስ ሕያው ኣምላኹ ክነብር ብሕይወት\nዘልዓለም ክነቅሕ ክውድስ ንኽብሩ\nኣእጋር ተዓደሎ ዘወትር ዝቖመሉ\n[[/chorus]]\n\nእምነት ምስ ግብሪ ጽድቂ ነጣምር ብውህደት\nንቃለስ ሓቦ ንበል ንጉየ ብሓድነት\nቦታ ዘይውስኖ’ዩ ጉዕዞ ክርስትና\nምስጢሩ ንፍለጦ መሰል ውሉድነትና\n\nሕጉ ተኸቲሉ ሕይወቱ ክኣሊ\nከይርስዕ ከይዝንግዕ ህላወ ፈጣሪ\nቃሉ ተመጊቡ ህይወቱ ክዕንግል\nኣእዛን ተዋህቦ ጽምኡ ንኸጥልል\n\nኣሕዋት ንቑም ንጽናዕ ኣብ ቅዱስ ዕላማ\nቃሉ ንስመዓዮ ነሐድስ መንፈስና\nብምስጋና ሕይወት ንቑም ዘንትእለት\nእሙን ባርያ ኣምላኽ ጳውሎስ ንመልከት"
+    },
+    "ti_ro": {
+      "title": "'Mnet ms gbri",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Mnet ms gbri tsdqi netamr bwhdet\nNqales habo nbel nguye bhadnet\nBota zeywsno’yu guzo krstna\nMstiru nfleto mesel wludnetna\nAdam ms tefetre bkhbri ab genet\nMs hyaw amlakhu knebr bhywet\nZelalem kneqh kwds nkhbru\nAgar teadelo zewetr zqomelu\nHgu tekhetilu hywetu kali\nKeyrs keyzng hlawe fetari\nQalu temegibu hywetu kngl\nAzan tewahbo tsmu nkhetll\nAb makel qdusan bhbret kzmr\nKemesgn amlakhu bhagos kll\nSemayawi zema kkhewn lalu\nQalat kseralu lsan feterelu\nAhwat nqum ntsna ab qdus lama\nQalu nsmeayo nehads menfesna\nBmsgana hywet nqum zentlet\nMun barya amlakh pawlos nmelket"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

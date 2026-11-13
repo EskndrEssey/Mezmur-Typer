@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_896d97ace4",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣነስ ብምግባረይ"
+  },
+  "singer": "ዘማሪ ይልማ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣነስ ብምግባረይ",
+      "zemari": "ዘማሪ ይልማ ሃይሉ",
+      "lyrics": "[[chorus]]\nእቲ ናይ ሓዊ ባሕሪ\nብዓይነይ ከይርእዮ\nንቅዱስ ሚካኤል\nኣሕልፎ በልዮ (2)\n[[/chorus]]\n\nኣነስ ብምግባረይ ድኹም ኮይነ’የ (2)\nሕዘንለይ ድንግል ናባኺ መጺኤ (2)\n\nናይ ዳዊት መሰንቆ\nናይ ኤልያስ መና\nናይ ናሆም መድኃኒት\nንዒ በደመና (2)\n\nእነብዕ ኣለኹ\nኣብ ቅድሜኺ ኮይነ\nእልምነኪ ድንግል\nበደለይ ኣሚነ (2)"
+    },
+    "ti_ro": {
+      "title": "Anes bmgbarey",
+      "zemari": "zemari ylma haylu",
+      "lyrics": "[[chorus]]\nHzenley dngl nabakhi meTsie (2)\n[[/chorus]]\n\nAnes bmgbarey dkhum koyne’ye (2)\n'Ti nay hawi bahri\nB'ayney keyr'yo\nNqdus mikael\nAhlfo belyo (2)\nNay dawit mesenqo\nNay elyas mena\nNay nahom medhanit\nN'i bedemena (2)\nKdekhmeni kelo\nNskhi’khi hayley\nNay lbey medhanit\nRedait mrkusey(2)\n'Neb' alekhu\nAb qdmekhi koyne\n'Lmneki dngl\nBedeley amine (2)\nZeywda' mhret\nAb wedkhi alo\nNeti zamneki\nSelamki habyo (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

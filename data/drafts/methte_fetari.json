@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b6248dd400",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መትሕተ ፈጣሪ"
+  },
+  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መትሕተ ፈጣሪ",
+      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
+      "lyrics": "[[chorus]]\nካብ ቤተይ ወጺኤ ገዛኺ ክሳለም\nናይ ልበይ ነጊረ ቅድሜኺ ክቐውም\nዝተቐደሰ’ዩ ኢድኪ ብበረኸት\nክዝምረልኪ’የ ኣንቲ ዕጸ ገነት\n[[/chorus]]\n\nመትሕተ ፈጣሪ መልዕልተ ፍጡራን\nኣልቦ ዘከማኪ እሙ ለኣዶናይ\n\nንባብ ናይ ፍቕርኺ ነጢቡ ኣብ ልበይ\nንወርሒ ረጊጽኪ ነጊስኪ ኣብ ሰማይ\nከዋኽብቲ ልዕሌኺ ጸሓይ ተኸዲንኪ\nጽዮን ደስ ይበልኪ እግዚአብሔር ሓርዩኪ\n\nመን’ዩ ዝመስለኪ ድንግለይ ንጽሕቲ\nፍጡር’ውን የለን ዝወዳደረኪ\nኣደ ናይ ንጉሥ መመክሒት ፍጥረት\nሕጹር’ዩ ልብና ናይ ፍቕሪ ቀለቤት\nዲ/ን ሃዋዝ ተገኘ"
+    },
+    "ti_ro": {
+      "title": "Methte feTari",
+      "zemari": "di/n 'zra ha/maryam",
+      "lyrics": "Methte fetari mellte fturan\nAlbo zekemaki mu leadonay\nKab betey wetsie gezakhi ksalem\nNay lbey negire qdmekhi kqewm\nZteqedese’yu idki bberekhet\nKzmrelki’ye anti tse genet\nNbab nay fqrkhi netibu ab lbey\nNwerhi regitski negiski ab semay\nKewakhbti llekhi tsehay tekhedinki\nTsyon des ybelki gziabher haryuki\nZelalemawi’yu natki dnglna\nLul geruki’yu nay tbebu fana\nNnay semay goyta namlakh welidki\nBkwilu kbrti kab seb tefelikhi\nMen’yu zmesleki dngley ntshti\nFtur’wn yelen zwedadereki\nAde nay nguss memekhit ftret\nHtsur’yu lbna nay fqri qelebet"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

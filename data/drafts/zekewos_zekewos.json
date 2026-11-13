@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_cb0decdd95",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዘኬዎስ ዘኬዎስ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዘኬዎስ ዘኬዎስ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nነዚ ቃል ምስ ሰምዐ ብፍጥነት ወረደ\nጐይታ ንኽርኢ ድሌቱ ዛየደ\nኣብ ቤቱ ክምሳሕ ጐይታ ምስ ፈቐደ\n[[/chorus]]\n\nዘኬዎስ ዘኬዎስ ንዓ ውረድ ካብ ሳግላ ንቤትካ ክውዕላ (2)\nብበረኸት በዓል ምሉእ ጸጋ ንኽትከውን ምስ ኣልፋ ኦሜጋ (2)\n\nነንዝዓመጾም ዓጸፋ ክመልስ\nእናልዓለ ሳጹን ኣብ ቅድሚ ክርስቶስ\nብጥብኣት’ውን ቆመ ዘጉሃዮም ክኽሕስ\n\nንሕና’ውን ንደይብ ናብ ሳግላና ሕይወት\nቤት መቕደስ ኣምላኽያ ናይ እምነት መሰረት\nከም ዘኬዎስ ንኹን ንኽንረክብ ድኅነት"
+    },
+    "ti_ro": {
+      "title": "Zekewos zekewos",
+      "zemari": "di/n efrem",
+      "lyrics": "Zekewos zekewos na wred kab sagla nbetka kwla (2)\nBberekhet beal mlu tsega nkhtkewn ms alfa omega (2)\nNezi qal ms sema bftnet werede\nGoyta nkhri dletu zayede\nAb betu kmsah goyta ms feqede\nNenzametsom atsefa kmels\nNalale satsun ab qdmi krstos\nBtbat’wn qome zeguhayom kkhhs\nBhagos bdesta nyew nejew nabele\nKem tefethat btey koynu nazelele\nNay hywetu ray sle zestebhale\nNhna’wn ndeyb nab saglana hywet\nBet meqdes amlakhya nay mnet meseret\nKem zekewos nkhun nkhnrekb dhnet\nNhna’wn ndeyb . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

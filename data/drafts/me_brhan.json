@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_34b8bb5ba2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እመ ብርሃን"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እመ ብርሃን",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nዕላማ ናይ ምፍጣረይ ነይሩ ንኸመስግን\nብናይ ጽድቂ ጎደና ንክመላለስ’ውን\nኣይከኣለትን ስጋይ ክትእዘዝ ንነፍሰይ\nሕጂስ በርቲዑኒ’ሎ ናይ ኃጢአት ስቓይ\n[[/chorus]]\n\nእመ ብርሃን ምርሕኒ መገዲ ቅድስና\nንኽተግህ ነፍሰይ ወትሩ ንምስጋና\nስፍራ ቅዱሳን ክኸውን እቲ ናተይ ርስተይ\nካብ ጎደና ኣበሳ ኣውጽእያ ነፍሰይ\n\nጐይታይ ስለይ ምስቃሉ ብዕላማ ነይሩ\nሰላም ንኽህበኒ ጸላኢ ኣሲሩ\nውዕለት ስቕለት ቀራንዮ ከይሃስስ ካብ ልበይ\nስለይ ቁሚ ድንግለይ ክዓቢ ልቦናይ\n\nየለን ከማኺ ማርያም ጭንቀይ ዘካፍሎ\nዝኽርኺ በረኸት’ዩ ሰላም ንኣእምሮ\nተስፋ ጉዕዞ ሕይወተይ ድንግል ተለመኒ\nስምኪ ጥዑም መዓዛ ስንቂ ይኹነኒ"
+    },
+    "ti_ro": {
+      "title": "'Me brhan",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Me brhan mrhni megedi qdsna\nNkhtegh nefsey wetru nmsgana\nSfra qdusan kkhewn ti natey rstey\nKab godena abesa awtsya nefsey\nLama nay mftarey neyru nkhemesgn\nBnay tsdqi godena nkmelales’wn\nAykealetn sgay ktzez nnefsey\nHjis bertiuni’lo nay hatiat sqay\nGoytay sley msqalu blama neyru\nSelam nkhhbeni tselai asiru\nWlet sqlet qeranyo keyhass kab lbey\nSley qumi dngley kabi lbonay\nTzazatu nkelo ab wshti hlinay\nTghatey tetserigu ysear bsgay\nMret siol khasb ntezkhl nkalit\nMarefe’do sgay kabzi kfu tmnit\nYelen kemakhi maryam chnqey zekaflo\nZkhrkhi berekhet’yu selam namro\nTesfa guzo hywetey dngl telemeni\nSmki tum meaza snqi ykhuneni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

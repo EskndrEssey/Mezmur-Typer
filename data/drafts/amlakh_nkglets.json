@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_db0427c76c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣምላኽ እንክግለጽ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣምላኽ እንክግለጽ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nወርሒ እንክትጽልምት ከዋኽብቲ እንክረግፉ\nጸሓይ እንክትጠፍእ ሰማይን ምድርን እንክሓልፉ\nፍርድና ክንቅበል ደቂ ኣዳም ኩልና ንስራዕ\nኣብ ቅድሚ ኣምላኽ ይርአ ተግባርና ይቕላዕ (2)\n[[/chorus]]\n\nኣምላኽ እንክግለጽ ብዘፍርሕ ግርማኡ\nቅዱሳን መላእክት መለኸት እንክነፍሑ\nናይ ደብረ ዘይት ቃሉ ዝፍጸም ኣኺሉ ጊዜኡ\nተስፋ ንገብር ኩልና ናይ ኣምላኽ ምምጽኡ (2)\n\nጻድቃን እንክወርሱ መንግስተ ሰማያት\nኃጥኣን ይኸዱ ናብ ገሃነመ እሳት\nከምዚ ኣይመሰለናን ነይሩ ይብሉ ብብኽያት ብኣውያት\nፍርዶም ይቕበሉ ካብ ኣምላኽ ዘይውዳእ መዓት (2)"
+    },
+    "ti_ro": {
+      "title": "Amlakh 'nkgleTs",
+      "zemari": "di/n efrem",
+      "lyrics": "Amlakh nkglets bzefrh grmau\nQdusan melakt melekhet nknefhu\nNay debre zeyt qalu zftsem akhilu gizeu\nTesfa ngebr kulna nay amlakh mmtsu (2)\nWerhi nkttslmt kewakhbti nkregfu\nTsehay nkttef semayn mdrn nkhalfu\nFrdna knqbel deqi adam kulna nsra\nAb qdmi amlakh yra tegbarna yqla (2)\nTsadqan nkwersu mengste semayat\nHatan ykhedu nab gehaneme sat\nKemzi aymeselenan neyru yblu bbkhyat bawyat\nFrdom yqbelu kab amlakh zeywda meat (2)\nNay medhane alem zeylwet qalu\nAyterfn kmets’yu qdusan akhetilu\nHatan nkbekhyu tsadqan yzmrlu\nNhna’khe abey ykhewn nrkebelu(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

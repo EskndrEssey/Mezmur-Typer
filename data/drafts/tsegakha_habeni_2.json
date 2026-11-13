@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_fea7f070d3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጸጋኻ ሃበኒ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጸጋኻ ሃበኒ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nክርስቶስ ኣምላኸይ ናይ ሕይወተይ ቤዛ\nክርዳእ ፍቕርኻ ናይ ስቕለትካ ቃንዛ\nኣብ ጽላት ናይ ልበይ ፍቕርኻ ክሕተም\nዳህስሳ ንልበይ ብመንፈስ ክልብም (2)\n[[/chorus]]\n\nጸጋኻ ሃበኒ ሕደጎ በደለይ\nከም ብዝሒ ምሕረትካ\nቀድሳ ንነፍሰይ\n\nካባኻ ርሒቐ ኮብሊለ ብበደል\nፍጹም ኣይፈተኻን ኣብ ሰልሚ ክትከል\nንኽብሪ ምስጋና ቆይሙ ዝተፈጥረ\nከም ፍቓድ ልብኻ ሕጂ’ውን ከበረ (2)"
+    },
+    "ti_ro": {
+      "title": "Tsegakha habeni",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nDahssa nlbey bmenfes klbm (2)\n[[/chorus]]\n\nTsegakha habeni hdego bedeley\nKem bzhi mhretka\nQedsa nnefsey\nKrstos amlakhey nay hywetey beza\nKrda fqrkha nay sqletka qanza\nAb tslat nay lbey fqrkha khtem\nKabakha rhiqe koblile bbedel\nFtsum ayfetekhan ab selmi ktkel\nNkhbri msgana qoymu ztefetre\nKem fqad lbkha hji’wn kebere (2)\nKab key bedeley kab hsum barnet\nDegim hara ye rekhibe natsnet\nKbri ms wdase kemu’wn msgana\nTeqebel nsmka semayawi danya (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

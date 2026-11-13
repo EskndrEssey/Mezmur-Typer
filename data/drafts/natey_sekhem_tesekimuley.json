@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_5419bbed1f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናተይ ሰኸም ተሰኪሙለይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናተይ ሰኸም ተሰኪሙለይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣነ ከምልኾ ጸዊዑኒ\nብጽኑዕ ፍቕሩ ፈዊሱኒ\nኣብ ቤተይ ኣትዩ ኣብሪሁለይ\nኣመቂሩኒ ኣብ ሕይወተይ\nኣነ ዝህቦ እንታይ ኣሎኒ\nስለ ‘ቲ ዅሉ ዝገበረለይ\nእሾኽ ኣብ ርእሱ ተሸኪሙ\nመርገም ካብ ነፍሰይ ኣልዒሉለይ\n[[/chorus]]\n\nናተይ ሰኸም ተሰኪሙለይ\nጾረይ ብዅሉ ኣልዒሉለይ\nከመስግኖ'የ ኣብ ዘመነይ\nንጐይታ ጎይቶት ንኣምላኸይ\n\nደሙ ኣፍሲሱ ኣፍቂሩኒ\nመስቀል ሓዚሉ ደኺሙለይ\nጥፍጣፍ ናይ ሰባት ተቐቢሉ\nንመግረፍተይ ተገሪፉለይ\nንዓይ ዝግባእ መከራ ሞት\nተቐቢሉለይ ጐይታ ጎይቶት\nከይቀረብክዎ ቀሪቡኒ\nናብ ብርሃን ሕይወት ስሒቡኒ"
+    },
+    "ti_ro": {
+      "title": "Natey sekhem tesekimuley",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Natey sekhem tesekimuley\nTsorey bkwilu aliluley\nKemesgno'ye ab zemeney\nNgoyta goytot namlakhey\nAne kemlkho tsewiuni\nBtsnu fqru fewisuni\nAb betey atyu abrihuley\nAmeqiruni ab hywetey\nAne zhbo ntay aloni\nSle ‘ti kwilu zgebereley\nShokh ab rsu teshekimu\nMergem kab nefsey aliluley\nDemu afsisu afqiruni\nMesqel hazilu dekhimuley\nTftaf nay sebat teqebilu\nNmegreftey tegerifuley\nNay zgba mekera mot\nTeqebiluley goyta goytot\nKeyqerebkwo qeribuni\nNab brhan hywet shibuni\nTetahizeye teasire\nBlewhat fqru tesebire\nQeyrwo'yu ntarikhey\nMlu seb geyruni amlakhey\nAfey zmare meliwo\nMenfesawnet amhiruni\nAbo nay tbeb nay thtna\nMsu mnbar yhsheni"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

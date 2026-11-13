@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_8f534aafbb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክርስቶስ ሠምራ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክርስቶስ ሠምራ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\n“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”`\n[[/chorus]]\n\nብቃል ኪዳንኪ ተማሕጺነ\nስምኪ ጸዊዐ ካብ ሞት ድኂነ\nካብ ሕጂ የለን ሽግር መከራ\nንዓኺ ሒዘ ክርስቶስ ሠምራ\n\nነፍሰይ ተማሪኻ ብዜና ገድልኺ\nተኣምርኪ ሰሚዓ ኣድኒቓ ክብርኺ\nብሓያል ኪዳንኪ ካብ ሞት ተናግፊ\nንኃጥእ ደጊፍኪ ካብ ሲኦል ተትርፊ\n“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”`\n\nፍጹም ደምሲስክዮ ናይ ጸላኢ ውዲት\nብጽኑዕ ትሕትና ብስግደት ብጸሎት\nዳግም ምስ ሚካኤል ንሰይጣን ስዒርኪ\nካብ ልዑል ፈጣሪ ኣኽሊል ተቐበልኪ\n“ክርስቶስ ሠምራ ረዳኢተይ ኣማላዲተይ\nምሕረት ለምኒ ካብ ኣምላኸይ”"
+    },
+    "ti_ro": {
+      "title": "Krstos Semra",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\n“Krstos semra redaitey amaladitey\nMhret lemni kab amlakhey”`\n[[/chorus]]\n\nBqal kidanki temahtsine\nSmki tsewia kab mot dhine\nKab hji yelen shgr mekera\nNakhi hize krstos semra\n\nNefsey temarikha bzena gedlkhi\nTeamrki semia adniqa kbrkhi\nBhayal kidanki kab mot tenagfi\nNhat degifki kab siol tetrfi\n\nNay mhret lmano meliu lbkhi\nMhret ntselai kab goyta lemenki\nKemzi zlemene ab mela zemena\nKeto aysemanan o qdst adena\n“Betre maryam redaitey amaladitey\nMhret lemni kab amlakhey”\nFtsum demsiskyo nay tselai wdit\nBtsnu thtna bsgdet btselot\nDagm ms mikael nseytan sirki\nKab lul fetari akhlil teqebelki\n“Krstos semra redaitey amaladitey\nMhret lemni kab amlakhey”\nMenfesawit ade kulu tessmri\nMetan keyterfeks ngoyta azekri\nKemtom abotatey nabakhi anqarire\nMhretki tsbe kidanki zekire\n“Betre maryam redaitey amaladitey\nMhret lemni kab amlakhey”"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

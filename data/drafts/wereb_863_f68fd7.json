@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0863",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 863,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ኤልሻዳይ እግዚአብሔር",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nኤልሻዳይ እግዚአብሔር\nከኣሊ ኢኻ እግዚአብሔር (2)\nቀድሰኒ ከኣሊ ኢኻ\nኣንጽሃኒ ብምሕረትካ\nናትካ ክኸውን ንዘልዓለም\nባርኽ ሕይወተይ መድኃኔ ዓለም (2)\nብፍኖትካ ንኽኽተል\nኣብ ሕቑፎኻ ንኸጽልል\nሓይሊ ሳጥናኤል ንኽምክቶ\nቅዱስ መንፈስካ ኣብ ውሽጠይ ይእቶ (2)\nፍቕርኻ’ዩ ሰረገላይ\nዘብጽሓኒ ናብ ዕላማይ\nንብዓተይ ተመልከት መግለጺ ጣዕሳይ\nጐይታይ ደምስሶ ኵሉ ኣበሳይ (2)\nናተይ ኢኻ ዝብል ቃልካ\nንኽሰምዕ ኣብ ምጽኣትካ\nፍቐድ ኣምላኸይ ክወርስ ገነት\nግርማ ክለብስ ኣብ ሰማይ ሕይወት (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

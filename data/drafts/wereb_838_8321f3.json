@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0838",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 838,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ክነብዕ’የ ወትሩ ክበኪ’የ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nክነብዕ’የ ወትሩ ክበኪ’የ\nንጐይታ ኣምላኸይ ብዙሕ በዲለ’የ\nገዓረይ ኣውያተይ ተቐበለኒ\nምስኪን ኮይነ ’ለኹ ኃጢአት ዘድከመኒ(2)\nልበይ ኣቤት በል ክጽውዕ ኣምላኽካ\nብሓዘን ብብኽያት ኣፍልጥ ትካዜኻ\nበደለይ ፈሊጠ ምሕረትካ ክጥይቕ\nመሓሪ ኢኻ’ሞ ፍጡር ዘይትንዕቕ\nመጋረጃ ኃጢአት ንፊተይ ሸፈኖ\nኣካለይ ማህመነ ምቛም ተሳእኖ\nኢኺ’ሞ ኣብ ቅድሚኡ በዓል ክብሪ ሞገስ\nእመቤት ለምኒ ናብ ፍቁር ክርስቶስ\nጉልበተይ ንስኻ መበርትዒ ሓይለይ\nበደለይ ደምስሶ ኩነለይ መምህረይ\nካብ በደል ክርሕቕ ኣእዳውካ ዘርጊሕካ\nዳግም ንኸይብድል ኣጽንዓኒ ኢኻ\nጌጋ ተጋግየ ንዓኻ ኣቐየምኩ\nንጠፋኢ ሕይወት ኣምላኸይ ሓደግኩ\nሕጂ ግን ኣሚነ ከም እተጋገኹ\nብርኹስ ኣንደበት ንዓኻ ለመንኩ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

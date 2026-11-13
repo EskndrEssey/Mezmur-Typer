@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_d0c63f87e9",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣይትቀየመና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣይትቀየመና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብበደልና ብብዝሒ ኃጢኣትና (2) ኣይትቀየመና (2)\nጐይታ ብምሕረትካ ሎሚ ይቕሬታ ሃበና\nደብረ መንክራት ቅዱስ ቂርቆስ (ማይጭሆት)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "Aytqeyemena",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Bbedelna bbzhi hatiatna (2) aytqeyemena (2)\nGoyta bmhretka lomi yqreta habena\nDebre menkrat qdus qirqos (maychhot)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

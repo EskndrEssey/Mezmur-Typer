@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_e91c698b75",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኪዳነ ምሕረት እመቤት"
+  },
+  "singer": "ዘማሪት ለምለም ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኪዳነ ምሕረት እመቤት",
+      "zemari": "ዘማሪት ለምለም ከበደ",
+      "lyrics": "[[chorus]]\nኣብ ልዕሊ ሰማያት ካብ ዘሎ ማሕደርኪ (2)\nዝማሬ ዝመልኦ ናይ ዘልዓለም ቤትኪ\nፍጥረታት ናይ ምድሪ ማርያም ማርያም ይብል(2)\nብሰረገላ እሙ ለቃል ምጽና ድንግል (2)\n[[/chorus]]\n\nኪዳነ ምሕረት እመቤት እመቤት (2)\nንዒ (4) ሰኣሊተ ምሕረት (2)\n\nካብ ናይ ህድኣት ወደብ ካብ ናይ ፍቕሪ ዓውዲ(2)\nካብ ከተማ ሓቂ ካብ ናይ ሰላም ዓዲ\nሰኣሊ ለነ ቅድስት ውዳሴ እንክስማዕ (2)\nምስ ሚካኤል ምስ ገብርኤል ምጽና ካብ ራማ (2)\n\nበኣማላድነትኪ ፍጥረት ንክድሕን (2)\nኣማኑኤል ሂቡኪ ናይ ዘልዓለም ኪዳን\nበዚ'ውን ወለዶ ብጽእቲ ይብለኪ (2)\nኣደየ ትምክሕተይ ምርኩሰይ ኮይንኪ’ኺ (2)\n\nዘማሪት ዘርፌ ከበደ"
+    },
+    "ti_ro": {
+      "title": "Kidane mhret 'mebet",
+      "zemari": "zemarit lemlem kebede",
+      "lyrics": "[[chorus]]\nKidane mhret mebet mebet (2)\n[[/chorus]]\n\nNi (4) sealite mhret (2)\nAb lli semayat kab zelo mahderki (2)\nZmare zmelo nay zelalem betki\nFtretat nay mdri maryam maryam ybl(2)\nBseregela mu leqal mtsna dngl (2)\nKab nay hdat wedeb kab nay fqri awdi(2)\nKab ketema haqi kab nay selam adi\nSeali lene qdst wdase nksma (2)\nMs mikael ms gebrel mtsna kab rama (2)\nTnewih kdanki ywred kab semayat (2)\nNnbatna ydrez natki amaladnet\nZmare nay tsyon temelat nefsna (2)\nNi (3) nbel kemtom abotatna (2)\nBeamaladnetki ftret nkdhn (2)\nAmanuel hibuki nay zelalem kidan\nBezi'wn weledo btsti ybleki (2)\nAdeye tmkhtey mrkusey koynki’khi (2)\nNay lbi nknegrukhi semiki aytetsqtn (2)\nNtsgum ryu'wn lbkhi aychknn\nKem qtsbet ayni qeltifki tredi(2)\nKab hazen kab mekera nskhi terfi (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

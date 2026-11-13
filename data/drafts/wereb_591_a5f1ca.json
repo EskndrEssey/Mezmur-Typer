@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0591",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 591,
+  "wereb_category": "wereb_egziabher",
+  "wereb_category_geez": "ወረብ እግዚኣብሔር",
+  "wereb_category_en": "Wereb Egziabher",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ሃበነ እግዚኦ ኣዕይንተ ኣእምሮ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nሃበነ እግዚኦ ኣዕይንተ ኣእምሮ\nወትረ ኪያከ ይርኣያ (2)\nእህ (3) ወኣእዛንነሂ ቃለ ዘባሕቲትከ ይስምዓ (2)\nሃበና ጐይታና ናይ ምስትውዓል ኣዕይንቲ\nኵሉ ጊዜ ንዓኻ ዝርእያ (2)\nእህ (3) ኣእዛና'ውን ከምኡ ናትካ\nናይ በይንኻ ቃል ዝሰምዓ (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

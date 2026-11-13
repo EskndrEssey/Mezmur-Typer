@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_fe58d1fa92",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እናብርሀ"
+  },
+  "singer": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እናብርሀ",
+      "zemari": "ዘምሪ ንጐይታ ዘምሪ ንስሙ",
+      "lyrics": "[[chorus]]\nዓለም ንምስዓር ተጋዲሉ\nክሳብ ጊዜ ሞት እሙን ኮይኑ\nናይ ክብሪ ኣኽሊል ተሸሊሙ\nጊዮርጊስ ብኣምላኽ ከቢሩ\n[[/chorus]]\n\nእናኣብርሀ እቲ ጻዕዳ ልብሱ\nጊዮርጊስ መጸ ብፈረሱ\nዋልታን ኵናትን ክኾነኒ\nካብ ኣፍ ድራጎን ከድሕነኒ\n\nኣብ ኢድ ጸላእየይ ወዲቐ\nተስፋ ቆሪጸ ሞት ክጽበ\nጊዮርጊስ መጺኡ ክረድኣኒ\nብስም ኣምላኹ ከድሕነኒ\n\nርጉም ኣራዊት ተቐቲሉ\nሰላምኩም ይብዛሕ ዕልል በሉ\nኣውጁ ሓርነት ብሓጎስ\nኣኽብሩ ንኣምላኽ ጊዮርጊስ\nዘማሪት ጸዳል ጎበዜ"
+    },
+    "ti_ro": {
+      "title": "'Nabrha",
+      "zemari": "zemri ngoyta zemri nsmu",
+      "lyrics": "Naabrha ti tsada lbsu\nGiyorgis metse bferesu\nWaltan kwinatn kkhoneni\nKab af dragon kedhneni\nAlem nmsar tegadilu\nKsab gize mot mun koynu\nNay kbri akhlil teshelimu\nGiyorgis bamlakh kebiru\nAb id tselayey wediqe\nTesfa qoritse mot ktsbe\nGiyorgis metsiu kredani\nBsm amlakhu kedhneni\nHaylu dekhimu tselayey\nBhayli tselot redaiyey\nGiyorgis bzuh'yu trufatu\nBetey meliu berekhetu\nRgum arawit teqetilu\nSelamkum ybzah ll belu\nAwju harnet bhagos\nAkhbru namlakh giyorgis"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

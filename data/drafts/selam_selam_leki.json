@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_12bc7c4862",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰላም ሰላም ለኪ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰላም ሰላም ለኪ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nማርያም ቅድስቲ ሰላም ለኪ\nማርያም ውድስቲ ሰላም ለኪ\nማርያም ንጽህቲ ሰላም ለኪ\nማርያም ልዕልቲ ሰላም ለኪ\n[[/chorus]]\n\nሰላም ሰላም ለኪ\nማርያም ሰላም ለኪ\n\nብርኽቲ ንስኺ ሰላም ለኪ\nዝመልኣኪ ጸጋ ሰላም ለኪ\nድንግል ብሕሊና ሰላም ለኪ\nድንግል’ውን ብሥጋ ሰላም ለኪ\n\nመን ኣሎ ከማኺ ሰላም ለኪ\nመለኮት ዝጾረ ሰላም ለኪ\nመን ኣሎ ከማኺ ሰላም ለኪ\nንኣምላኽ ዘሕደረ ሰላም ለኪ\n\nዓባይ ክነስኺ ሰላም ለኪ\nብዙሕ ትሕትናኺ ሰላም ለኪ\nከለኺ ጓል ሰባት ሰላም ለኪ\nሓፍቶም ንመላእክት ሰላም ለኪ"
+    },
+    "ti_ro": {
+      "title": "Selam selam leki",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Selam selam leki\nMaryam selam leki\nMaryam qdsti selam leki\nMaryam wdsti selam leki\nMaryam ntshti selam leki\nMaryam llti selam leki\nBrkhti nskhi selam leki\nZmelaki tsega selam leki\nDngl bhlina selam leki\nDngl’wn bssga selam leki\nMerate ab ikhi selam leki\nMahderu nweld selam leki\nTsrha menfes qdus selam leki\nHrytom nsslus selam leki\nMen alo kemakhi selam leki\nMelekot ztsore selam leki\nMen alo kemakhi selam leki\nNamlakh zehdere selam leki\nYmset hlinay selam leki\nKbrkhi nkhasb selam leki\nTsub’yu mestenkr selam leki\nNay tnskhi neger selam leki\nAbay kneskhi selam leki\nBzuh thtnakhi selam leki\nKelekhi gwal sebat selam leki\nHaftom nmelakt selam leki\nGziabher amlakh selam leki\nWrdetki reaye selam leki\nKab semay weridu selam leki\nMsakhi teraye selam leki"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

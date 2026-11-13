@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d30cfa4f0f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣባ ኣባ ብጹእአምላክ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣባ ኣባ ብጹእአምላክ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብጹእ አምላክ ሓረስታይ እምነት ዘይጸዓድ\nብጹእ አምላክ ወንጌል ትዘርእ ብዘይስግኣት\nብጹእ አምላክ መገዲ እምነት መሪሕካና\nኣብ ቅድስና ተሰሪትና\n[[/chorus]]\n\nኣባ ኣባ ብጹእአምላክ ገዳማዊ\nኣገልጋሊ ኣምላኽ ሰማያዊ\nመምህር ምእመናን ናይ ትሕትና\nምሕረት ለምን ካብ ኣምላኽና\n\nብጹእ አምላክ ተኣምረኛ ኣቦ ገዳም\nብጹእ አምላክ ኣብ በረኸትካ የለን ሕማም\nብጹእ አምላክ ገዳምካ ኣትየ ተፈዊሰ\nብቃልኪዳንካ ተቐዲሰ\n\nብጹእ አምላክ ገጽ ኃጢኣት ትጸልእ ባሕታዊ\nብጹእ አምላክ ምድራዊ መልኣኽ ሰማያዊ\nብጹእ አምላክ ብቓል ኪዳንካ ሓልወና\nብጹእ ብጹእ ንብል ኣሎና"
+    },
+    "ti_ro": {
+      "title": "Aba aba bTsu'amlak",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Aba aba btsuamlak gedamawi\nAgelgali amlakh semayawi\nMemhr mmenan nay thtna\nMhret lemn kab amlakhna\nBtsu amlak harestay mnet zeytsead\nBtsu amlak wengel tzer bzeysgat\nBtsu amlak megedi mnet merihkana\nAb qdsna teseritna\nBtsu amlak teamrenya abo gedam\nBtsu amlak ab berekhetka yelen hmam\nBtsu amlak gedamka atye tefewise\nBqalkidanka teqedise\nBtsu amlak bgrma leyti nab tselot\nBtsu amlak tebtsh nerka seatat\nBtsu amlak fqri krstos bertiuka\nMs nssa gedam hadirka\nBtsu amlak gets hatiat ttsel bahtawi\nBtsu amlak mdrawi melakh semayawi\nBtsu amlak bqal kidanka halwena\nBtsu btsu nbl alona"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0803cc0334",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣሎ ኣብ ዝፋኑ"
+  },
+  "singer": "ዘማሪት ዘርፌ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣሎ ኣብ ዝፋኑ",
+      "zemari": "ዘማሪት ዘርፌ ከበደ",
+      "lyrics": "[[chorus]]\nእግዚአብሔር ኣሎ ኣብ ዝፋኑ\nንጉሥ ኣሎ ኣብ ዝፋኑ\nይፈርድ’ዩ ኣብ ገጊዜኡ (2)\n[[/chorus]]\n\nኣብ እስራኤል ከምዚ ኮነ ኣብ መንግስቲ ሰሎሞን\nመንጎ ክልተ ኣንስቲ ብምኽንያት ሓደ ህፃን\nንምዉት ገዲፈን ይበኣሳ ብህልው\nእዚኣን እቲኣን ናተይ’ዩ ብምባል\n\nኣብታ ከውታ ለይቲ ማዕጾ ብዕጽው\nኣደንጋጺ ድምጺ ውሽጠይ ኣፋጽዩ\nወደይ ወደይ ኢላ ሰሚዐ ክትበኪ\nኣተሓዚነያ ብምልእታ ለይቲ\n\nርግጽ ወዳ ሞይቱ ነፍሱ ምስ ተዓዝረ\nነዚ እፈልጥ’የ ምስኣ’የ ሓዲረ\nምናልባት ዝ’ህፃን ተመሰላ ናታ\nሓሳዊት’ያ ንሳ ብፍላጥ ስሒታ\n\nብሓቂ ቅኑዕ’ዩ ኵሉ ዝተፈርደ\nት’ህፃን ይጨደድ ይመቐል ት’ሓደ\nንክልቴና ኣይኹን ልበይ ብምምራሩ\nወድ መን ይነብር ናይ መን ተቐቢሩ"
+    },
+    "ti_ro": {
+      "title": "Alo ab zfanu",
+      "zemari": "zemarit zerfe kebede",
+      "lyrics": "Ab srael kemzi kone ab mengsti selomon\nMengo klte ansti bmkhnyat hade htsan\nNmwut gedifen ybeasa bhlw\nZian tian natey’yu bmbal\nGziabher alo ab zfanu\nNguss alo ab zfanu\nYferd’yu ab gegizeu (2)\nAbta kewta leyti matso btsw\nAdengatsi dmtsi wshtey afatsyu\nWedey wedey ila semia ktbeki\nAtehazineya bmlta leyti\nNgusey shh amet nges\nHasye aykonkun naa zkhess\nBdlti’ye haqi’leni\nFthikha’ya tenbreni\nRgts weda moytu nefsu ms teazre\nNezi felt’ye msa’ye hadire\nMnalbat z’htsan temesela nata\nHasawit’ya nsa bflat shita\nWedey iyu wedey iyu\nGoyta yfelt mqaley’yu\nFredeley ayhasekhun\nAytsedyo ayteqmekn\nBhaqi qnu’yu kwilu zteferde\nT’htsan ycheded ymeqel t’hade\nNkltena aykhun lbey bmmraru\nWed men ynebr nay men teqebiru\nBzey hatiat slemntay\nYmewt zi wedey\nTezeykones naa haba\nAytqtelo bejakha’ba"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b267256f65",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓረገ ወይን"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓረገ ወይን",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nትመስሊ ፊደለ ወትወልዲ ወንጌለ\nዘታገምሪ ነበልባለ\nትመስሊ ሰማየ ወትወልዲ ጸሓየ\nዘታገምሪ ኣዶናየ\n[[/chorus]]\n\nሓረገ ወይን (2)\nሓረገ ወይን ኣንቲ ማርያም\nኣጸደ ወይን (2)\nኣጸደ ወይን ኣንቲ ማርያም\n\nትመስሊ መሶበ ወትወልዲ ኮኮበ\nዘታጸግቢ ርሁበ\nትመስሊ መቅደሰ ወትወልዲ ንጉሰ\nዘታገምሪ መንፈሰ ቅዱሰ\n\nትመስሊ ደመና ወትወልዲ ሕብስተ መና\nዘታገምሪ ጥዒና\nትመስሊ ስኂነ ወትወልዲ መድኅነ\nወትፌውሲ ዱያነ\n\nወለመንፈስ ቅዱስ ጽርሐ ቤቱ\nስብሐት ለኪ እምዘበላዕነ ሥጋ ወልድኪ\nወእምዘሰተይነ ደመ መሲሕኪ\nኣግብርትኪ ወኣእማትኪ\nለዓለመ ዓለም ኣሜን (2)"
+    },
+    "ti_ro": {
+      "title": "Harege weyn",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nHarege weyn (2)\n[[/chorus]]\n\nHarege weyn anti maryam\nAtsede weyn (2)\nAtsede weyn anti maryam\nTmesli fidele wetweldi wengele\nZetagemri nebelbale\nTmesli semaye wetweldi tsehaye\nZetagemri adonaye\nTmesli mesobe wetweldi kokobe\nZetatsegbi rhube\nTmesli meqdese wetweldi nguse\nZetagemri menfese qduse\nTmesli tabote wetweldi tslate\nZetagemri melekote\nTmesli gerahte wetweldi sewite\nZetatsedqi nefsate\nTmesli demena wetweldi hbste mena\nZetagemri tina\nTmesli shine wetweldi medhne\nWetfewsi duyane\nTmesli mssraqe wetweldi mebreqe\nWetalebsi ruqe\nLeab meratu weleweld weladitu\nWelemenfes qdus tsrha betu\nSbhat leki mzebelane ssga weldki\nWemzeseteyne deme mesihki\nAgbrtki weamatki\nLealeme alem amen (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

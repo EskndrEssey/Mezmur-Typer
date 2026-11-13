@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_462b593436",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እስመ ኣልብነ ረዳኤ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እስመ ኣልብነ ረዳኤ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nእስመ ዘእንበሌከ ባዕደ ኢነኣምር (2)\n[[/chorus]]\n\nእስመ ኣልብነ ረዳኤ በጊዜ ምንዳቤ ወኃዘን"
+    },
+    "ti_ro": {
+      "title": "'Sme albne redae",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nSme zenbeleke bade ineamr (2)\n[[/chorus]]\n\nSme albne redae begize mndabe wehazen"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

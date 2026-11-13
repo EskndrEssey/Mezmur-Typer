@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ff579dcafd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዓኻ ዘቐድም"
+  },
+  "singer": "ዲ/ን ሃዋዝ ተገኘ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዓኻ ዘቐድም",
+      "zemari": "ዲ/ን ሃዋዝ ተገኘ",
+      "lyrics": "[[chorus]]\nልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን\nይሰብከካ ደምካ ንምድሪ ዝሽፍን\nንብዝሒ ክብርኻ መግለጺ የብለይን\nፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን (2)\n[[/chorus]]\n\nንዓኻ ዘቐድም ከመይ’ሉ ይሰዓር\nንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር\nልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ\nሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ\n\nኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ\nኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ\nከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ\nብድሕሪት እጎዪ ኣሚነ ኢየሱስ\nብድሕሪት እጉዪ ኣሚነ ክርስቶስ"
+    },
+    "ti_ro": {
+      "title": "N'akha zeqedm",
+      "zemari": "di/n hawaz tegenye",
+      "lyrics": "[[chorus]]\nFqrkha meghadi iyu natey lsan (2)\n[[/chorus]]\n\nN'akha zeqedm kemey’lu yse'ar\nNbrtu' ma'bel bqlTsmka ysegr\nL'li bahri qoymka r'yatka 'ayney\nMotey regiTska ikha iyesus medhney\nL'li qwanqwa iyu natkas ayznton\nYsebkeka demka nmdri zshfn\nNbzhi kbrkha megleTsi yebleyn\nAb dahreway zemen bakha tezaribu\nAbokha nnefsey nabakha aqribu\nKemey ile sq 'bl ndmTsu semi'as\nBdhrit 'goyi amine iyesus\nBdhrit 'guyi amine krstos\nGudgwadey btenkol aTsrar tetefahre\nL'li mot dew belku hayal smka Tseyre\n'Nase'abkukha geyreka bqdmit\n'Nabarekhkukha yquTser zemenat (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

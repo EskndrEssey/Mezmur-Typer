@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a6ab173336",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኤልሻዳይ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኤልሻዳይ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nቀድሰኒ ከኣሊ ኢኻ\nኣንጽሃኒ ብምሕረትካ\nናትካ ክኸውን ንዘልዓለም\nባርኽ ሕይወተይ መድኃኔ ዓለም (2)\n[[/chorus]]\n\nኤልሻዳይ እግዚአብሔር\nከኣሊ ኢኻ እግዚአብሔር (2)\n\nብፍኖትካ ንኽኽተል\nኣብ ሕቑፎኻ ንኸጽልል\nሓይሊ ሳጥናኤል ንኽምክቶ\nቅዱስ መንፈስካ ኣብ ውሽጠይ ይእቶ (2)\n\nናተይ ኢኻ ዝብል ቃልካ\nንኽሰምዕ ኣብ ምጽኣትካ\nፍቐድ ኣምላኸይ ክወርስ ገነት\nግርማ ክለብስ ኣብ ሰማይ ሕይወት (2)"
+    },
+    "ti_ro": {
+      "title": "Elshaday",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nKeali ikha 'gziabher (2)\n[[/chorus]]\n\nElshaday 'gziabher\nQedseni keali ikha\nAnTshani bmhretka\nNatka kkhewn nzel'alem\nBarkh hywetey medhane 'alem (2)\nBfnotka nkhkhtel\nAb hqufokha nkheTsll\nHayli saTnael nkhmkto\nQdus menfeska ab wshTey y'to (2)\nFqrkha’yu seregelay\nZebTshani nab 'lamay\nNb'atey temelket megleTsi Ta'say\nGoytay demsso kwilu abesay (2)\nNatey ikha zbl qalka\nNkhsem' ab mTsatka\nFqed amlakhey kwers genet\nGrma klebs ab semay hywet (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

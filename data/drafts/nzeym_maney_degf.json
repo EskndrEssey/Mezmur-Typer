@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_22a3ed8197",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዘይምእማነይ ደግፍ"
+  },
+  "singer": "ዘማሪት ለምለም ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዘይምእማነይ ደግፍ",
+      "zemari": "ዘማሪት ለምለም ከበደ",
+      "lyrics": "[[chorus]]\nፍረ ዘየፍረኹ እንተኾንኩ’ኳ ድኹም\nምሳኻ ክነብር ንጉሥ ናይ ሰላም\nተሳኣንኩ’ውን ጽድቂ ኣይውጻእ ካብ ቤትካ\nተጸመም ዛ’ዓመት ክሳዕ ዝጸንዓልካ\n[[/chorus]]\n\nንዘይምእማነይ ደግፍ ጐይታየይ (2)\nንስኻ ኢኻ መጸግዕየይ\nንዘይምእማነይ ደግፍ ጐይታየይ\n\nተሸገረካ’ውን ሕይወተይ ዘይጽኑዕ\nተዓገስ ቅሩብ ስጋዕ ዝብርትዕ\nተዘይነበርኩ’ኳ ከምቲ ቅዱስ ቃልካ\nሎሚ’ውን ምሳይ ኩን ብጽኑዕ ኪዳንካ\n\nኣምእዘኒ ኢኻ ንጨናይ ቀይር\nከም ሽቱ ናይ ናርዶስ ግበሮ ክቡር\nቅረብ ብፍቕርኻ በደለይ ሓዲግካ\nልበይ ኣሐጉሳ ትርከብ ንምሕረትካ"
+    },
+    "ti_ro": {
+      "title": "Nzeym'maney degf",
+      "zemari": "zemarit lemlem kebede",
+      "lyrics": "[[chorus]]\nNzeymmaney degf goytayey (2)\n[[/chorus]]\n\nNskha ikha metsegyey\nNzeymmaney degf goytayey\nFre zeyefrekhu ntekhonku’kwa dkhum\nMsakha knebr nguss nay selam\nTesaanku’wn tsdqi aywtsa kab betka\nTetsemem za’amet ksa ztsenalka\nTeshegereka’wn hywetey zeytsnu\nTeages qrub sga zbrt\nTezeyneberku’kwa kemti qdus qalka\nLomi’wn msay kun btsnu kidanka\nBezihu ti lemtsey koyne ye ntsul\nQeltf dahsseni mhretka kdel\nKab semay metsaka kabti brtu wegen\nQrebeni goytay fqrkha kshfen\nAmzeni ikha nchenay qeyr\nKem shtu nay nardos gbero kbur\nQreb bfqrkha bedeley hadigka\nLbey ahagusa trkeb nmhretka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3a417c4083",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣይቴ ንሐውር"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣይቴ ንሐውር",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nእምገጽከ እርሐቅ ወፈቃድየ እግበር\nአመ አተውኩ በውሳጤ ሐመር\nበድምፀ ነጐድጓድ ወበድምፀ ማዕበል\nኃይለከ ከሠትከ በግብርከ ልዑል\n[[/chorus]]\n\nኣይቴኑ አሐውር እመንፈስከ ወአይቴ እጐይይ እምቅድመ ገጽከ\nእመኒ ዐረጉ ውስተ ሰማይ ህየኒ አንተ\nአይቴ ነሐውር ወአይቴ ንጐይይ እምቅድመ ገጽከ\nመነ ንሰምዕ ወመነ ናጸምዕ እንበለ ቃልከ\nመድኃኔ ዓለም እግዚአ ፍጡራን\nወበኃይልከ ረዳኤ ምንዱባን (2)\n\nአባግዐ መርዔት በኃይል ገፋዕኩ\nበቅትለቶሙ ለጻድቃን ሠመርኩ\nሳውል ተመየጥ ብህልከኒ ሊተ\nወበትእዛዝከ ኃይልከ ተከሥተ\n\nሕይወተ ዚአነ ለደቀ ቤትከ\nአመ ተሌለየ እምነ ፍቅርከ\nእስመ ከመ ዓሣ ዘእንበለ ባሕር\nአልብነ ሕይወት በሰማይ ወምድር\nመስቀል መድኃኒትና"
+    },
+    "ti_ro": {
+      "title": "Ayte nhawr",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nWebehaylke redae mnduban (2)\n[[/chorus]]\n\nAytenu ahawr menfeske weayte goyy mqdme getske\nMeni aregu wste semay hyeni ante\nAyte nehawr weayte ngoyy mqdme getske\nMene nsem wemene natsem nbele qalke\nMedhane alem gzia fturan\nMgetske rhaq wefeqadye gber\nAme atewku bewsate hamer\nBedmtse negodgwad webedmtse mabel\nHayleke kesetke begbrke lul\nAbaga meret behayl gefaku\nBeqtletomu letsadqan semerku\nSawl temeyet bhlkeni lite\nWebetzazke haylke tekesste\nBebhilotye iykhdeke\nAla mewt besqay msleke\nIteqota weiteqeyeme\nAme khdkwo semani dagme\nHywete ziane ledeqe betke\nAme teleleye mne fqrke\nSme keme asa zenbele bahr\nAlbne hywet besemay wemdr\nMesqel medhanitna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_d87e4ce446",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቤተ ክርስቲያና"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቤተ ክርስቲያና",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nሕብስትን ወይንን ኣቦና ሃየ መግብና (2)\n[[/chorus]]\n\nቤተክርስቲያና ናይ ኣደ ፍቕሪ እዩ ዘለኪ ንዓና ኃጥኣን ደቅኺ (2)\nከይንጠሚ ኣብልዕና ከይንጸምእ’ውን ኣስትይና"
+    },
+    "ti_ro": {
+      "title": "Bete krstiyana",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nHbstn weynn abona haye megbna (2)\n[[/chorus]]\n\nBetekrstiyana nay ade fqri yu zeleki nana hatan deqkhi (2)\nKeyntemi ablna keyntsem’wn astyna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

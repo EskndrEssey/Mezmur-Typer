@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ec236ae54b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ያሬድ ካህን ዘመረ"
+  },
+  "singer": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ያሬድ ካህን ዘመረ",
+      "zemari": "ሊቀ መላእክት ኣድሕነና ኢኻ ሚካኤል",
+      "lyrics": "[[chorus]]\nኣርያም ብማለት ያሬድ ዘመረ\nማህሌት ጀመረ\nዜማ ምስ ምልክት ፍጹም እናስመረ\nኣቕረበ ምስጋና ያሬድ ዘመረ\nብንዋየ ዜማ\nጸናጽል ኣልዓለ ከበሮ መቆምያ\n[[/chorus]]\n\nያሬድ ካህን ዘመረ (2)\nዘመረ ያሬድ ዘመረ\nንኣምላኽ ኣመስገነ (2)\n\nብግእዝ ብእዝል ያሬድ ዘመረ\nብኣራራይ ዜማ\nካብ ብሉይ ካብ ሓዲስ ምስጢር ኣሳነየ\nብምልክት ዜማ      ያሬድ ዘመረ\nናይ ኣምላኽ መከራ\nናይ መስቀል ነገር ናይ ምድሓኑ ስራሕ\n\nድጓ ጾመድጓ      ያሬድ ዘመረ\nምዕራፍ መዋሥዕት\nምስጢር ተገልጸሉ ዜማ መላእክት\nናይ ዜማ መሰረት ያሬድ ዘመረ\nዓይኒ ማይ ዘመረ\nወዲ ተዋሐዶ ናይ ሃይማኖት ፍረ\n ወረብ እግዚአብሔር"
+    },
+    "ti_ro": {
+      "title": "Yared kahn zemere",
+      "zemari": "liqe mela'kt adhnena ikha mikael",
+      "lyrics": "[[chorus]]\nYared kahn zemere (2)\n[[/chorus]]\n\nZemere yared zemere\nNamlakh amesgene (2)\nAryam bmalet yared zemere\nMahlet jemere\nZema ms mlkt ftsum nasmere\nAqrebe msgana yared zemere\nBnwaye zema\nTsenatsl alale kebero meqomya\nBgz bzl yared zemere\nBararay zema\nKab bluy kab hadis mstir asaneye\nBmlkt zema yared zemere\nNay amlakh mekera\nNay mesqel neger nay mdhanu srah\nDemu nafesese yared zemere\nBkhunat tewegiu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

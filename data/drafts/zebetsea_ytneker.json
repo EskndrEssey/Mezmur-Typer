@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_23a30ad878",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዘበጸኣዕ ይትነከር"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዘበጸኣዕ ይትነከር",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nመላእክት ሰማይ ይሰግዱ ብፍርሓት\nማዕጠንቲ ይሕዙ የቕርቡልካ ስብሓት\nኣኽናፎም ዘርጊሖም ክሰግዱ ኣብ ቅድሜኻ\nቅዱስ ምስጉን ንጹህ ይብሉኻ ንዓኻ\n[[/chorus]]\n\nዘበጸኣዕ ይትነከር ወእመባረቅት ይትኣኰት (2)\nወይትናበብ በእሳት ድምጸ ነጎድጓዱ በሰረገላት (2)\n\nምሉእ ሰፊሕ ረቂቕ ብባህሪኡ ምስጉን\nንስሙ ምስጋና ንዘልዓለም ይኹን\nዘፍቀረና ኣቦ ምስጢር ናይ ምንባርና\nንዕኡ ዝገልጽ እንታይ ቃላት ኣሎና"
+    },
+    "ti_ro": {
+      "title": "ZebeTsea' ytneker",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nZebetsea ytneker wemebareqt ytakot (2)\n[[/chorus]]\n\nWeytnabeb besat dmtse negodgwadu beseregelat (2)\nMelakt semay ysegdu bfrhat\nMatenti yhzu yeqrbulka sbhat\nAkhnafom zergihom ksegdu ab qdmekha\nQdus msgun ntsuh yblukha nakha\nMlu sefih reqiq bbahriu msgun\nNsmu msgana nzelalem ykhun\nZefqerena abo mstir nay mnbarna\nNu zgelts ntay qalat alona\nNtay zeyhalefna ntay zeysegerna\nKem werqi bhawi ina tefetina\nKem mgbarna aykonen beti zefqerena\nMhretu bzuh'yu ymesgen amlakhna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

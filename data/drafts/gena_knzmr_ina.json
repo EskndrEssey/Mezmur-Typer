@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3120959ce7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ገና ክንዝምር ኢና"
+  },
+  "singer": "ዘማሪ ይልማ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ገና ክንዝምር ኢና",
+      "zemari": "ዘማሪ ይልማ ሃይሉ",
+      "lyrics": "[[chorus]]\nንኣምላኽ ናይ ዳዊት ቅድሜና ሰሪዕና\nብዝማሬ ያሬድ ናይ ዳዊት በገና\nከም ናይ መላእክቱ ብርሃኑ ለቢስና\nንኽብሪ ሥላሴ ክንገልጽ ፍቕርና\nገና ክንዝምር ኢና\n[[/chorus]]\n\nገና ክንዝምር ኢና (4)\nከም ናይ መላእክቱ ብርሃኑ ለቢስና\nገና ክንዝምር ኢና\n\nናይ ምስጋና ዜማ ጐይታ ሂቡና’ሎ\nከም ናይ መላእክቱ ንዑ ነመስግኖ\nዘይተሰምዐ ዜማ ካብ ሰብ’ውን ዘይኮነ\nብዘይምቍራጽ ልብና ፈልፈለ\nገና ክንዝምር ኢና\n\nዳዊት ተመሲጡ እንከቕርብ ምስጋና\nሜልኮል ሰሓቐቶ ስኢና ልቦና\nኣምላኽ ግን ሓረዮ ኣኽበሮ ንዳዊት\nከቕርብ ኣዘዞ ናይ ምስጋና መስዋእት\nገና ክንዝምር ኢና"
+    },
+    "ti_ro": {
+      "title": "Gena knzmr ina",
+      "zemari": "zemari ylma haylu",
+      "lyrics": "Gena knzmr ina (4)\nKem nay melaktu brhanu lebisna\nGena knzmr ina\nNamlakh nay dawit qdmena serina\nBzmare yared nay dawit begena\nKem nay melaktu brhanu lebisna\nNkhbri sslase kngelts fqrna\nGena knzmr ina\nNay msgana zema goyta hibuna’lo\nKem nay melaktu nu nemesgno\nZeytesema zema kab seb’wn zeykone\nBzeymqwirats lbna felfele\nGena knzmr ina\nBtbit zeykones babiy thtna\nNkhbri krstos kngelts fqrna\nSrahna koynu`lo namlakh msgana\nSlezkhefele hywetu bejana\nGena knzmr ina\nDawit temesitu nkeqrb msgana\nMelkol sehaqeto sina lbona\nAmlakh gn hareyo akhbero ndawit\nKeqrb azezo nay msgana meswat\nGena knzmr ina"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

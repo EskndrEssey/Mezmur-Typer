@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_3d4f40d798",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፈትዩና እዩ’ሞ"
+  },
+  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፈትዩና እዩ’ሞ",
+      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
+      "lyrics": "[[chorus]]\nካብ ስፍራ ጸልማት ካብ ናይ ዓለም ከውታ\nእናጸውዐ ናብ ብርሃን ወጋሕታ\nሕዝቡ ከይኮንና ሕዝቡ’ዩ ገይሩና\nእስራኤል ዘነፍስ ምሕረት ረኺብና ኢና\n[[/chorus]]\n\nፈትዩና እዩ’ሞ ዳግም ኣይጸልኣናን\nርእዩና’ዩሞ ከቶ ኣይርስዓናን\nየለን ዝመስሎ እሙን ቅዱስ ጐይታ\nምሳና እዩ ክሳብ መወዳእታ\n\nጥበበኛታት ንኸሕፍር ኢሉ\nሥጋ ለቢሱ ንዓና መሲሉ\nብሞት ኣምላኽና ሕይወት ረኺብና ኢና\nዕልል ንበል ነጻነት ረኺብና\n\nቀስቱ ኣልዒሉ ጸላኢ እንተ መጸ\nከጥፍኣና ኢሉ ውዲት ‘ተሓንጸጸ\nዳዊት ክዕወት ንጎልያድ ዘሕፈሮ\nኣምላኽ እስራኤል ኣብ መንጎና ኣሎ"
+    },
+    "ti_ro": {
+      "title": "Fetyuna 'yu’mo",
+      "zemari": "zemarit werqnesh haylu",
+      "lyrics": "Fetyuna yu’mo dagm aytselanan\nRyuna’yumo keto ayrsanan\nYelen zmeslo mun qdus goyta\nMsana yu ksab mewedata\nKab sfra tselmat kab nay alem kewta\nNatsewa nab brhan wegahta\nHzbu keykonna hzbu’yu geyruna\nSrael zenefs mhret rekhibna ina\nTbebenyatat nkhehfr ilu\nSsga lebisu nana mesilu\nBmot amlakhna hywet rekhibna ina\nLl nbel netsanet rekhibna\n‘Tetemye megbey ms ztsem mestey\nKeyarq lbsey keyshger mrkusey\nHayley brtay metsnyey yu\nQltsm tselatey seyrwo rayu\nQestu alilu tselai nte metse\nKetfana ilu wdit ‘tehantsetse\nDawit kwet ngolyad zehfero\nAmlakh srael ab mengona alo"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

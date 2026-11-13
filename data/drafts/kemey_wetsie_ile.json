@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_57ca5074fa",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከመይ ወጺኤ ኢለ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከመይ ወጺኤ ኢለ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nእቲ መዓልቲ`ቲ ኣይመጽእን ካልኣይ\nከይምለስ ከይዱ`ሎ ኣፍሲሱ ንብዓተይ\nኣብ መስቀልካ ኮይንካ ፍቕርኻ ኣርኢኻኒ\nኵሉ መከራኻ ንዓይ ተበጅዩኒ\n[[/chorus]]\n\nከመይ ወጺኤ ኢለ ፍጹም ኣይድነቕን\nይኣምንየ ጐይታይ ከም ዘይትገድፈኒ\nቲ’ዅሉ ሓሊፉ ተሪፉ ናብ ድሕሪት\nይኣክል ካብ ሕጂ ንብዓት ይኹን ብኽያት\n\nከመይ ኢሉ ተንሲኡ ኣልኣዛር ኣይትበሉ\nይኽእልዩ እግዚአብሔር ይኽእልዩ ኵሉ\nከም ታሪኽ ሓሊፉ ቲ’ዘጨነቐኒ\nክንደይ ተሳገርኩ ጐይታ እናመርሓኒ\n\nቁስለይ ቆሲልካለይ ጽምአይ’ውን ጸሚእካ\nመዓስ ተረዲአ ናይ መስቀል ዕላማ\nስለ ፍቕሪ ናተይ ዘይኮንካዮ የለን\nኣርኢኻኒ ጐይታ ፍቕሪ ኢኻ ዘለዓለም"
+    },
+    "ti_ro": {
+      "title": "Kemey weTsie ile",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Kemey wetsie ile ftsum aydneqn\nYamnye goytay kem zeytgedfeni\nTi’kwilu halifu terifu nab dhrit\nYakl kab hji nbat ykhun bkhyat\nTi mealti`ti aymetsn kalay\nKeymles keydu`lo afsisu nbatey\nAb mesqelka koynka fqrkha arikhani\nKwilu mekerakha nay tebejyuni\nKemey ilu tensiu alazar aytbelu\nYkhlyu gziabher ykhlyu kwilu\nKem tarikh halifu ti’zecheneqeni\nKndey tesagerku goyta namerhani\nKab kebdi nay asa kab mamuq wetsia\nKzmrelu ye hadsh seb koyne\nMuz chena hize wedeqku qdmiu\nTsdqi khasbeley goyta bmhretu\nQusley qosilkaley tsmay’wn tsemika\nMeas teredia nay mesqel lama\nSle fqri natey zeykonkayo yelen\nArikhani goyta fqri ikha zelealem"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

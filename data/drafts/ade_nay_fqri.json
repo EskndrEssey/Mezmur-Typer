@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_beb772bc7c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣደ ናይ ፍቕሪ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣደ ናይ ፍቕሪ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nኣብ ሕይወተይ ኣብ ናብራይ\nኩኒ ብቕድመይ ብድሕረይ\nቀሲኑ ልበይ ንስኺ ስለዘለኺ ኣብ ጎነይ\n[[/chorus]]\n\nኣደ ናይ ፍቕሪ ናይ ሰላም (2)\nይናፍቐኒ ስምኪ ተዘይጸዊዐ ማርያም\n\nትምኒተይ ይስመር ሕቡእ ሕልመይ\nእሕለፍ ንማዕበል ይብዛሕ ሓይለይ\nኣደ ጐይታየይ ኢኺ ሓይሊ ኣለዎ’ቲ ጸሎትኪ\n\nትማል ይኹን ሎሚ አመስግን\nስለ ጽባሕ’ውን ኣይፈርሕን\nሜዳ ክኸውን እዩ’ቲ እምባ ብወድኺ ኣባ"
+    },
+    "ti_ro": {
+      "title": "Ade nay fqri",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "Ade nay fqri nay selam (2)\nYnafqeni smki tezeytsewia maryam\nAb hywetey ab nabray\nKuni bqdmey bdhrey\nQesinu lbey nskhi slezelekhi ab goney\nTmnitey ysmer hbu hlmey\nHlef nmabel ybzah hayley\nAde goytayey ikhi hayli alewo’ti tselotki\nNkheyterfeki ab megedi\nMntay tselot aythdegi\nAythabni ntselayey kfu mesadedi\nTmal ykhun lomi amesgn\nSle tsbah’wn ayferhn\nMeda kkhewn yu’ti mba bwedkhi aba"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

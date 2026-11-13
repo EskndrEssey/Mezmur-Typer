@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_5e34f49f9b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብደመናት ግሩም’ዩ"
+  },
+  "singer": "ዘማሪት ቅድስት ምትኩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብደመናት ግሩም’ዩ",
+      "zemari": "ዘማሪት ቅድስት ምትኩ",
+      "lyrics": "[[chorus]]\nብእሳት ስሩሕ ዝፋኑ በረድ ጌሩ መካኑ\nማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ\nመልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ\nይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ\n[[/chorus]]\n\nብደመናት ግሩም’ዩ ብሰማያት ምስጉን’ዩ\nብመላእክት ስቡሕ’ዩ ብቅዱሳን ድንቂ’ዩ\n\nምድሪ ይርኢ ካብ ላዕሊ ይሰፍር ቀላይ\nማዕበላት’ውን ይግሰጽ ብስልጣኑ እንኪወጽእ\nመባርቕቱ እንኪወጹ ንሰማያት ኪገልጹ\nይግለጽ ብግርማ ቤቱ ኣርያም ስማ\n\nብእሳት ስሩሕ ዙፋኑ በረድ ጌሩ መካኑ\nማይ እሳት ተሰማምዑ ጥበበኛ’ዩ ብርቱዕ\nመልኣክ ኪሩብ ዝፋኑ ሱራፊ’ዩ ካህኑ\nይሰግዱ’ዮም ኣብ ፊቱ ዘልዓለም’ዩ መንግስቱ"
+    },
+    "ti_ro": {
+      "title": "Bdemenat grum’yu",
+      "zemari": "zemarit qdst mtku",
+      "lyrics": "[[chorus]]\nMay sat tesemamu tbebenya’yu brtu\nMelak kirub zfanu surafi’yu kahnu\nYsegdu’yom ab fitu zelalem’yu mengstu\n[[/chorus]]\n\nBdemenat grum’yu bsemayat msgun’yu\nBmelakt sbuh’yu bqdusan dnqi’yu\nBsat sruh zfanu bered geru mekanu\n\nMdri yri kab lali ysefr qelay\nMabelat’wn ygsets bsltanu nkiwets\nMebarqtu nkiwetsu nsemayat kigeltsu\nYglets bgrma betu aryam sma\nSemay natu menber mergetsitu’wn mdr\nKab lali yebrh bsat mendeq yserh\nZeydekm gebari nzelalem nebari\nBzeynfget wehabi ngfuat habhabi\nBsat sruh zufanu bered geru mekanu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

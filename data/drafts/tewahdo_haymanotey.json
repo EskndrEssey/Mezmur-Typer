@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f12d24cb7a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተዋሕዶ ሃይማኖተይ"
+  },
+  "singer": "ዘማሪት ኣዜብ ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተዋሕዶ ሃይማኖተይ",
+      "zemari": "ዘማሪት ኣዜብ ከበደ",
+      "lyrics": "[[chorus]]\nከተማታት ግብጺ ብደምና ሃኒጽና\nብምቕታል ጽድቂ የለን ሞይትና ግን ነቢርና\nማዕተብኩም ፍትሑ ብተኹ ኢሎምና\nንሕናስ ምስ ክሳድና ውሰድዋ በልና\n[[/chorus]]\n\nተዋሕዶ ሃይማኖተይ\nናይ ጥንቲ ኢኺ ናይቶም ኣቦታተይ\nማዕተበይ ኣይበትኽን\nክትነብር'ያ ንዘልዓለም\n\nጴጥሮስ ተሰቒሉ ጳውሎስ ተሰይፉ\nተዋህዶ እናበሉ ብዙሕ'ዩ ሓሊፉ\nብእሳት ብመጋዝ ብስቓይ ሓሊፎም\nዘመን ዘይቅይሮ ታሪኽ ግን ጽሒፎም\n\nከምዘይረኣና ብስቕታ ሓሊፍና\nመክሊትና ከይረብሕ ክንቀብሮ መሪጽና\nሕጂ ግን ይኣክል ስቕታና ይሰበር\nናይ ተዋህዶ ምስጢር ይገለጽ ይነገር"
+    },
+    "ti_ro": {
+      "title": "Tewahdo haymanotey",
+      "zemari": "zemarit azeb kebede",
+      "lyrics": "Tewahdo haymanotey\nNay tnti ikhi naytom abotatey\nMatebey aybetkhn\nKtnebr'ya nzelalem\nKetematat gbtsi bdemna hanitsna\nBmqtal tsdqi yelen moytna gn nebirna\nMatebkum fthu btekhu ilomna\nNhnas ms ksadna wsedwa belna\nPetros teseqilu pawlos teseyfu\nTewahdo nabelu bzuh'yu halifu\nBsat bmegaz bsqay halifom\nZemen zeyqyro tarikh gn tshifom\nQedamot nabelna dahrot keynkhewn\nNu nberaber nnqah ayndeqs\nZbi ms atewe trgum albo awyat\nDeqi tewahdo hji iyu ti seat\nKemzeyreana bsqta halifna\nMeklitna keyrebh knqebro meritsna\nHji gn yakl sqtana yseber\nNay tewahdo mstir ygelets yneger"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

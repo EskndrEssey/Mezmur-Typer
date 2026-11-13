@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0351392977",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ውሬታ የብለይን"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ውሬታ የብለይን",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nጊልያ ዓለም ኮይነ ኣብ ናይ ኃጢአት ባሕሪ\nፍታዋ መሊአ ሞት ንእትፈርደኒ\nከዕቢ ሕሊና ቆይመ ኣብ ቅድሜኻ\nከሰስተይ ኣሕፊርካ ኢልካኒ ይቕረይኹንካ (2)\n[[/chorus]]\n\nውሬታ የብለይን ጐይታ ንውዕለትካ\nቃላት የብለይን ዝገልጽ ፍቕርኻ\nምሕረትካ'ዩ ቤትካ ዘንበረኒ\nጸጋኻ'ውን ልዕል ዘበለኒ (2)\n\nኤማሁስ ከቕንዕ ንቤትካ ሕቖይ ሂበ\nእናሰጎምካ ጎነይ ምልላይካ ስኢነ\nወሓዚ ቅዱስ ቃልካ እናንደዶ ልበይ\nበረኸት ኣእዳውካ ኣብሪሁ ኣዕይንተይ (2)\n\nክነብር ይብህግ ወሲነ ኣብ ቤትካ\nይፈራረቕ ልበይ ብናይ ዓለም ረብሓ\nግዙእ ክልተ ምዃን ሎምስ ኣድኪሙኒ\nሓላፊት'ያ ዓለም ምሳኻ ይሕሸኒ (2)"
+    },
+    "ti_ro": {
+      "title": "Wreta yebleyn",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nTsegakha'wn ll zebeleni (2)\n[[/chorus]]\n\nWreta yebleyn goyta nwletka\nQalat yebleyn zgelts fqrkha\nMhretka'yu betka zenbereni\nGilya alem koyne ab nay hatiat bahri\nFtawa melia mot ntferdeni\nKebi hlina qoyme ab qdmekha\nKesestey ahfirka ilkani yqreykhunka (2)\nEmahus keqn nbetka hqoy hibe\nNasegomka goney mllayka sine\nWehazi qdus qalka nandedo lbey\nBerekhet adawka abrihu ayntey (2)\nBgizyawi shgr ray albo koyne\nKab tsnu metkeley dro teneqile\nAyfeltekan nkbl derho ms neqewe\nBjelemta nbat mhretka lemine (2)\nKnebr ybhg wesine ab betka\nYferareq lbey bnay alem rebha\nGzu klte mkwan loms adkimuni\nHalafit'ya alem msakha yhsheni (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

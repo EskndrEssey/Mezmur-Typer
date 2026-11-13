@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_35986ea156",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከበሮ ኣልዕሉ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከበሮ ኣልዕሉ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nኣዳም ዘለለ ብሓጎስ ደስታ\nሔዋን ዓለለት ድሙቕ ዕልልታ\nነፍሳት ዘለሉ ኣብ ማእከል ገነት\nስለዘብቅዐ ሕሱም ባርነት\n[[/chorus]]\n\nከበሮ ኣልዕሉ ዕልል በሉ\nንጐይታ ክብሪ ኣመስግኑ\nኩልኺ ምድሪ ተገዝእዮ\nንኣምላኽ ምድሓን ፍለጥዮ (2)\n\nናይ ጥንቲ ገበል ጸረ ድኅነትና\nተሳዒሩ እዩ ብደም ጐይታና\nኮይኑልና ኣሎ ፍሥሐ ሓጎስ\nብምድሓን ኣምላኽ ጐይታ ክርስቶስ\n\nምት ምስ መቓብር . . ."
+    },
+    "ti_ro": {
+      "title": "Kebero al'lu",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nNamlakh mdhan fletyo (2)\n[[/chorus]]\n\nKebero allu ll belu\nNgoyta kbri amesgnu\nKulkhi mdri tegezyo\nAdam zelele bhagos desta\nHewan alelet dmuq llta\nNefsat zelelu ab makel genet\nSlezebqa hsum barnet\nNay tnti gebel tsere dhnetna\nTesairu yu bdem goytana\nKoynulna alo fssha hagos\nBmdhan amlakh goyta krstos\nMot ms meqabr asbi hatiat\nRhiqulna’yu bnay goyta mot\nWhbet amlakhki nay qeranyo\nNefsey btsega teqebelyo\nMt ms meqabr . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

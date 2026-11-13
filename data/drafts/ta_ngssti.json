@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_cbca548de5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እታ ንግሥቲ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እታ ንግሥቲ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nእግዚአብሔር ኣባኺ ክግለጽ ክነግሥ\nክብርኺ ወሲኹ ብምልኣት ክፈስስ\nካብ ጸሓይ ንላዕሊ ዕጽፍታት በሪህኪ\nትነብሪ ዘለዓለም ኣብ ሰማይ ከቢርኪ (2)\n[[/chorus]]\n\nእታ ንግሥቲ ብወርቂ ኦፌር ተሰሊማ\nኣብ የማንካ ትቐውም(2)\nትልምን’ውን ጽድቂ ክንስለም\n\nልዑል እግዚአብሔር ኃደረ ኣብ ማሕጸንኪ\nመላእክት ሰገዱ ንዘሎ ኣብ ከርሥኺ\nንወልደ እግዚአብሔር ማሕደሩ ዝኾንኪ\nንፀሓይ ብምውላድ ሰማይ ተሰሚኺ (2)\n\nንፍጹም ክብርኺ ናፊቐ ክርእዮ\nንዓይ ንባርያኺ ገጽኪ ኣብርህዮ\nኣብ የማን ትቖሚ ዘወትር ኣዴና\nለምኒ ንጐይታ ምእንቲ ኵልና (2)"
+    },
+    "ti_ro": {
+      "title": "'Ta ngSsti",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nAb yemanka tqewm(2)\n[[/chorus]]\n\nTa ngssti bwerqi ofer teselima\nTlmn’wn tsdqi knslem\nGziabher abakhi kglets knegss\nKbrkhi wesikhu bmlat kfess\nKab tsehay nlali tsftat berihki\nTnebri zelealem ab semay kebirki (2)\nLul gziabher hadere ab mahtsenki\nMelakt segedu nzelo ab kersskhi\nNwelde gziabher mahderu zkhonki\nNtsehay bmwlad semay tesemikhi (2)\nRgbit nay selam ngsst zearyam\nKbrti bgziabher adena maryam\nWerqi teselimki brhan tekhedinki\nMelakt bhabar wetru yemesgnukhi (2)\nNftsum kbrkhi nafiqe kryo\nNay nbaryakhi getski abrhyo\nAb yeman tqomi zewetr adena\nLemni ngoyta mnti kwilna (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

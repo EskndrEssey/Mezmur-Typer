@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a94d6890df",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ክዝምር’የ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ክዝምር’የ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nውዕለቱ ብዙሕ ልዕል ኢለ’የ በቲ ምሕረቱ\nክዝምር’የ እናሸብሸብኩ ንጎይትነቱ\nስሙ ጸዊዐ ወዲቖም እዮም ኵሎም ጸላእተይ\nነፍሰይ ድኂና ሞገስ ኮይኑኒ ብርሃን ሕይወተይ\n[[/chorus]]\n\nክዝምር’የ ስቕ ኣይብልን\nጐይታ ዝገበሮ ኣይውዳእን\nክጽውዕ’የ ብልሳነይ\nስለ ምሕረቱ ንኣምላኸይ\n\nምሒሉለይ ዳግም ከይጠፍእ ኪዳን ኣትዩለይ\nፍቕሩ ኣርእዩኒ እናራህረሀ ሸኸመይ ጸይሩለይ\nነፍሰይ ድኂና ካብ ብርቱዕ ጸልማት ብንጹህ ደሙ\nመዓር ዝኾነ ቃል መጊቡኒ ጐይታ ብኣእዳዉ\n\nኣየቋርጽን ኣፈይ ምስጋና ንዘልዓለም\nባርያ ኣይኮንኩን ተዓዲገ’የ ብናይ ጐይታ ደም\nንርእሱ ኣሕሊፉ መግቢ ኮይኑኒ ምጥማየይ ርእዩ\nኣጽጊቡኒ’ዩ ብበረኸቱ ቤተይ መሊኡ"
+    },
+    "ti_ro": {
+      "title": "Kzmr’ye",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "Kzmr’ye sq aybln\nGoyta zgebero aywdan\nKtsw’ye blsaney\nSle mhretu namlakhey\nWletu bzuh ll ile’ye beti mhretu\nKzmr’ye nashebshebku ngoytnetu\nSmu tsewia wediqom yom kwilom tselatey\nNefsey dhina moges koynuni brhan hywetey\nMhiluley dagm keytef kidan atyuley\nFqru aryuni narahreha shekhemey tseyruley\nNefsey dhina kab brtu tselmat bntsuh demu\nMear zkhone qal megibuni goyta badawu\nNabzi abtsihuni nadegefe bnatu mhret\nTshifuni’yu bqdus idu ab mezgeb hywet\nMs qdusanu hade gerwo cha dley\nKemlkho ye nzedhaneni brukh amlakhey\nAyeqwartsn afey msgana nzelalem\nBarya aykonkun teadige’ye bnay goyta dem\nNrsu ahlifu megbi koynuni mtmayey ryu\nAtsgibuni’yu bberekhetu betey meliu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

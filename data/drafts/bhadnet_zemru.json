@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a32400576b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብሓድነት ዘምሩ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብሓድነት ዘምሩ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nኣብ ኃጢአት ባርነት ክነብር ከለና\nካብ ቤቱ ርሒቕና ትእዛዙ ጥሒስና\nጸላእቱ ከለና ንዘይጨከነልና\nውዕለቱ ግሩም’ዩ ነመስግን ኩልና (2)\n[[/chorus]]\n\nዕልል በሉ ብሓድነት ዘምሩ\nኣመስግኑ ንኽብሩ ዘምሩሉ\nከም እግዚአብሔር ማንም የለን በሉ\n\nንሱ ትሕት ኢሉ ንዓና ኣኽቢሩና\nንሥጋኡን ደሙን ክንበልዕ ሂቡና\nሕያዋይ ጓሳ’ዩ የለን ዝሰኣኖ\nንመድኃኔ ዓለም ምስጋና ይኹኖ (2)\n\nስርሑ ዘደንቕ’ዩ ከምዚ ዘፍቀረና\nካብ ዘይውዳእ ፍቕሩ በረኸት ሂቡና\nኣይውዳእን’ዩ ኣምላኽ ምሕረትካ\nውዳሴ ነቕርብ ንዘምር ብዕልልታ (2)"
+    },
+    "ti_ro": {
+      "title": "Bhadnet zemru",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "[[chorus]]\nNmedhane alem msgana ykhuno (2)\n[[/chorus]]\n\nLl belu bhadnet zemru\nAmesgnu nkhbru zemrulu\nKem gziabher manm yelen belu\nAb hatiat barnet knebr kelena\nKab betu rhiqna tzazu thisna\nTselatu kelena nzeychekenelna\nWletu grum’yu nemesgn kulna (2)\nNsu tht ilu nana akhbiruna\nNssgaun demun knbel hibuna\nHyaway gwasa’yu yelen zseano\nHywetu zehlefe kem amlakh men alo\nAb mesqel wilu kwilu zkealo\nFqru bzuh ‘yu haqi’yu mengedu\nMsana’wn kone kab semay weridu (2)\nSrhu zedenq’yu kemzi zefqerena\nKab zeywda fqru berekhet hibuna\nAywdan’yu amlakh mhretka\nWdase neqrb nzemr bllta (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

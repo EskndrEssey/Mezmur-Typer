@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b07ee080c5",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብዚ ምብቅዐይ"
+  },
+  "singer": "ዘማሪ ሃብታሙ ሽብሩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብዚ ምብቅዐይ",
+      "zemari": "ዘማሪ ሃብታሙ ሽብሩ",
+      "lyrics": "[[chorus]]\nሃብታም ዝበልካኒ ካብ ዓለም ሓሪኻ\nመዓስ ከም ካልኦት መልክዐይ ርኢኻ\nብልጽግና ዓለም ብናይ ሰማይ ሚዛን ድኽነት'ዩ ለካ\nብዝረአ ኣይኮነን ዓይኒ ብዝመልእ መዐቀኒ ናትካ\n[[/chorus]]\n\nኣብዚ ምብቅዐይ እዩ ብኣኻ\nኮይንካ ሞገሰይ በቲ ጸጋኻ\nተሓቲሙ'ዩ ስምካ ኣብ ልበይ\nምስጢር ናይ ክብረይ እንዲኻ ጐይታይ\n\nኣብ መንኮብካ ኮይነ ብንብዓት እሓጽበካ\nመዓሰይ ዘንጊዐ ንዓይ ምስካምካ\nኣብቂዑኒ እምበር በቒዐ ኣይብልን ኣነ መሊአ ኣፈይ\nኣብ ምሉእ ዘመነይ ኢድካ እንክትዓዪ\nርእያ እያ'ሞ ዓይነይ"
+    },
+    "ti_ro": {
+      "title": "Abzi mbq'ay",
+      "zemari": "zemari habtamu shbru",
+      "lyrics": "Abzi mbqay yu bakha\nKoynka mogesey beti tsegakha\nTehatimu'yu smka ab lbey\nMstir nay kbrey ndikha goytay\nHabtam zbelkani kab alem harikha\nMeas kem kalot melkay rikha\nBltsgna alem bnay semay mizan dkhnet'yu leka\nBzrea aykonen ayni bzmel meaqeni natka\nAb menkobka koyne bnbat hatsbeka\nMeasey zengia nay mskamka\nAbqiuni mber beqia aybln ane melia afey\nAb mlu zemeney idka nktayi\nRya ya'mo ayney\nNseb zegerm'yu llna baryakha\nMstir'yu nssga zeyftah mermirka\nKemey seleto ilu nakha resiu ydneq seb bay\nZkwilu gn natka kabakha\nSlekha bakha'yu goytay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

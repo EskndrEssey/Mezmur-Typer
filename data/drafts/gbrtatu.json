@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_d80752699e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ግብርታቱ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ግብርታቱ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nብቅንኢ ኣሕዋት ተሸይጡ ዮሴፍ ምኻዱ\nኣብ ጊዜ ጥሜት ኮነ ዋሕስ ዘመዱ\nምውት ከነኣን ሕያው ኮነ ኣብ ግብጺ\nንብዝሒ ጥበብ ኣዶናይ የለን መግለጺ\n[[/chorus]]\n\nግብርታቱ ዘይምርመር መንገዱ’ውን ዘይእሰር\nድንቂ ኢዩ እግዚአብሔር ዝልውጥ ንነገር\n\nምሉእ ሕይወቱ ዝመልኦ ስርቂ ሽፍትነት\nጥጦስ ለመነ ክረክብ ካብ ጐይታ ምሕረት\nጐይታ መሓሮ ጸደቀ ኣተወ ገነት\nንፍቕሪ ጐይታ ብሓቂ የብሉን ደረት\n\nነውረይ ኣርሒቑ ኣበሳይ ዝሸፈነለይ\nዝጸውዓኒ ካብ ዓለም ናብ ቤቱ ሠናይ\nኣነ ኣብዚ ቤቱ ክህሉ መን ሓሲብዎ\nኲሉ ብእኡ ኢዩ’ሞ ውዳሴ ሃብዎ\n\nኣደ ሩፍታይ አቡነ ገብረመንፈስቅዱስ (ሓጋዝ)"
+    },
+    "ti_ro": {
+      "title": "Gbrtatu",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Gbrtatu zeymrmer mengedu’wn zeyser\nDnqi iyu gziabher zlwt nneger\nBqni ahwat tesheytu yosef mkhadu\nAb gize tmet kone wahs zemedu\nMwt kenean hyaw kone ab gbtsi\nNbzhi tbeb adonay yelen megletsi\nMlu hywetu zmelo srqi shftnet\nTtos lemene krekb kab goyta mhret\nGoyta meharo tsedeqe atewe genet\nNfqri goyta bhaqi yeblun deret\nMs teneshu btasa ms melu menfes\nMefth nay semay tewahbe kehadi petros\nMemhre wengel’wn kone zesadd pawlos\nFtsum zseano yelen namlakhna qdus\nNewrey arhiqu abesay zshefeneley\nZtsewani kab alem nab betu senay\nAne abzi betu khlu men hasibwo\nKulu bu iyu’mo wdase habwo\nNkhegelglo’wn hayli tsega hibuni\nKem mun qotsiru kea zmedebeni\nShh kwa hat rkhus nte neberku\nBmzaz tsega krstos mhret rekhebku\nAde ruftay abune gebremenfesqdus (hagaz)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

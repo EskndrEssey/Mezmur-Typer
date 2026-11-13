@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_46a69ef28e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣሕዋት ብሓደ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣሕዋት ብሓደ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nምእካብና ኵሉ ብስም እቲ እሙን\nተግባራትና ኮነ ከም ፍቓዱ ይኹን\nሰናይን ጥዑምን ክኾነልና ሓጎስ\nብመንገዱ ንንበር ሓሳብና ነሐድስ\n[[/chorus]]\n\nኣሕዋት ብሓደ ሓቢሮም ክነብሩ\nነቲ ልዑል ኣምላኽ ስሙ እናዘከሩ\nሰናይ እዩ ጥዑም ኢሉ ብመዝሙሩ\nልቢ ኣምላኽ ዳዊት ብበገና ጌሩ\n\nኣብ ረብሓ ነውዕሎ ወርቃዊ ጊዜና\nካብቲ ከቢድ ድቃስ ንተንስእ ኩልና\nሓቢርና ክንነብር ኣምላኽ እናመስገንና\nኣይርከብን እዩ ምስ ተፈላለና\n\nምእካብ ብዙሕ’ዩ ሓደራ ነስተውዕል\nብጓይላ ብባእሲ ብዘጸይፍ ዕላል\nዳሕራዩ ዝኸፍእ ሰላምካ ዘርሕቕ\nስለዚ ንፍለጦ ኣኼባ ዘጽድቕ\nድንቂ ፍቕሪ ደብረ ሰላም መድኃኔ ዓለም(ደቀምሓረ)"
+    },
+    "ti_ro": {
+      "title": "Ahwat bhade",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "Ahwat bhade habirom knebru\nNeti lul amlakh smu nazekeru\nSenay yu tum ilu bmezmuru\nLbi amlakh dawit bbegena geru\nMkabna kwilu bsm ti mun\nTegbaratna kone kem fqadu ykhun\nSenayn tumn kkhonelna hagos\nBmengedu nnber hasabna nehads\nAb rebha newlo werqawi gizena\nKabti kebid dqas ntens kulna\nHabirna knnebr amlakh namesgenna\nAyrkebn yu ms tefelalena\nFqri zmela goyta’wn zfetwa\nAbiy ms nshto kwilu yhlwa\nHbret ya adey qsanet zelewa\nNgho kone mshet tngl’ya rahwa\nMkab bzuh’yu hadera nestewl\nBgwayla bbasi bzetseyf lal\nDahrayu zkhef selamka zerhq\nSlezi nfleto akheba zetsdq\nDnqi fqri debre selam medhane alem(deqemhare)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

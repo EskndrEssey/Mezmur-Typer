@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0844",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 844,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ተስፋና ንስኻ ንዘለዓለም (2)",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nተስፋና ንስኻ ንዘለዓለም (2)\nወዲ ድንግል ማርያም መድኃኔ ዓለም (2)\nኣፍሲስካ ክቡር ደም ስጋኻ ቆሪስካ (2)\nብልዑ ስተዩ ኢልካ ንዓለም ዝሃብካ (2)\nሕይወትካ ብምሕላፍ ፍቕሪ ዝገለጽካ (2)\nተፈታዊ ጐይታ ሕያዋይ ጓሳ ኢኻ (2)\nደምካ ዝነጸገ መልኣከ ሰላም (2)\nቅዱስ ዑራኤል ኢዩ ይኽበር መድኃኔ ዓለም (2)\nተስፋና ንስኻ ንዘለዓለም (2)\nወዲ ድንግል ማርያም መድኃኔ ዓለም (2)\nኣሜን ኣሜን ኣሜን ንብል ብሓበራ (2)\nሰላምካ ለኣኽ ንመላእ ኤርትራ (2)\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

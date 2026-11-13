@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_aa7d11b460",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕልል ዕልል ንበል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕልል ዕልል ንበል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nተሓጒሱ’ዩ ጐይታ ሎሚ መዓልቲ\nብሥጋ ወደሙ ኮይኖም መጻምድቲ\nኣቡኣን ኣዲኣን ሎሚ ደስ ይበልኩም\nናይ ሓፍትና መርዓ ጐይታ ኣርእይኩም\n[[/chorus]]\n\nዕልል (2) ንበል ንዘምር ብደስታ\nነዚ ዝገበረ ናይ ሠራዊት ጐይታ\nኵሉ ጽቡቕ ጌሩ ንዝፈፀመልና\nሎሚ ነቕርበሉ ንኣምላኽ ምስጋና\n\nመርቕዋ ኢኹም ኵልኹም ስድራኣ\nምኻዳ እዩ’ሞ ናብ ሓድሽ ሓዳራ\nኣመስግኑ ኢኹም ብጣቕዒት ብዕልልታ\nነዚ ዝገበረ ናይ ሠራዊት ጐይታ"
+    },
+    "ti_ro": {
+      "title": "'Ll 'll nbel",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Ll (2) nbel nzemr bdesta\nNezi zgebere nay serawit goyta\nKwilu tsbuq geru nzfetsemelna\nLomi neqrbelu namlakh msgana\nTehagusu’yu goyta lomi mealti\nBssga wedemu koynom metsamdti\nAbuan adian lomi des ybelkum\nNay haftna mera goyta arykum\nMerqwa ikhum kwilkhum sdraa\nMkhada yu’mo nab hadsh hadara\nAmesgnu ikhum btaqit bllta\nNezi zgebere nay serawit goyta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

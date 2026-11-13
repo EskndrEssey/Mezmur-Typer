@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0e62091aeb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኦ ሥሉስ ቅዱስ"
+  },
+  "singer": "ዲ/ን ምንዳየ ብርሃኑ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኦ ሥሉስ ቅዱስ",
+      "zemari": "ዲ/ን ምንዳየ ብርሃኑ",
+      "lyrics": "[[chorus]]\nኦ ሥሉስ ቅዱስ ተመስገን (2)\nፈጣሪ ኵሉ ዓለማት\nእግዚአብሔር ተመስገን\n[[/chorus]]\n\nኣዳም ከይተፈጥረ ኣብ ዙፋን ነበርካ\nብኣምላኽነትካ እናተመስገንካ\nመላእኽት ፈጠርካ ስምካ ዝጽውዑ\nብምስጋና ቆይሞም ምስኻ ዝነብሩ (2)\n\nናይ ነገስታት ንጉሥ ናይ ዓለም ፈጣሪ\nንፍጥረታት ኵሉ ኣውዒሉ ኣሕዳሪ\nሥላሴ ነመስግን ሥሉስ ቅዱስ ንበል\nንዓለም ካብ ምኽባር ኣብ ቤቶም ነጽልል(2)"
+    },
+    "ti_ro": {
+      "title": "O Sslus qdus",
+      "zemari": "di/n mndaye brhanu",
+      "lyrics": "[[chorus]]\nO sslus qdus temesgen (2)\n[[/chorus]]\n\nFetari kwilu alemat\nGziabher temesgen\nAdam keytefetre ab zufan neberka\nBamlakhnetka natemesgenka\nMelakht feterka smka ztswu\nBmsgana qoymom mskha znebru (2)\nWedseb feterka kbrkha kwers\nNakha amesginu hywetu kqds\nNhna’wn ntsw keytegebana\nMatsokha nkhuhkuh neqrb msgana (2)\nNay negestat nguss nay alem fetari\nNftretat kwilu awilu ahdari\nSslase nemesgn sslus qdus nbel\nNalem kab mkhbar ab betom netsll(2)\nAb ruba yordanos sslase rina\nNmengstu qdus qdus qdus ilna\nTbarekh tqedes nefsey bsslase\nBamlak abotat abrham wemuse (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

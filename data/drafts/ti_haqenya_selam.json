@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_93fe3128bc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እቲ ሓቀኛ ሰላም"
+  },
+  "singer": "ዘማሪት ለምለም ከበደ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እቲ ሓቀኛ ሰላም",
+      "zemari": "ዘማሪት ለምለም ከበደ",
+      "lyrics": "[[chorus]]\nኃጢአተይ እንክዝክር ይጭነቕ እቲ ልበይ\nኣድኪምዋ ነፍሰይ ካባኻ ምፍላየይ\nናባኻ ኣብለኒ ልበይ ይብለካ ኣሎ\nእቲ ሓቀኛ ሰላም ኣብ ቤትካ’ዩ ዘሎ\n[[/chorus]]\n\nእቲ ሓቀኛ ሰላም ኣብ ቤትካ’ዩ ዘሎ (2)\nርዳእ ከይናወጽ ልበይ ይልምን ኣሎ (2)\n\nንጸሎት ቅዳሴ ከይተግህ ዘወትር\nኣብ ኣደባባይ ስምካ ንኸይምስክር\nወዲቐ ኣለኹ’ሞ በዚሑ ድኻመይ\nርዳእ ኣማኑኤል ከጽንዕ እምነተይ\n\nጐይታ ንጣዕሳይ ንብዓተይ ተቐበል\nኣቦኻ’የ በለኒ ውሉድካ’የ ክብል\nዘይቲ ከይቀረብኩ ሃንደበት መጺኻ\nደገ ኣይተቑመኒ ማዕጾኻ ዓጺኻ"
+    },
+    "ti_ro": {
+      "title": "'Ti haqenya selam",
+      "zemari": "zemarit lemlem kebede",
+      "lyrics": "[[chorus]]\nRda keynawets lbey ylmn alo (2)\n[[/chorus]]\n\nTi haqenya selam ab betka’yu zelo (2)\nHatiatey nkzkr ychneq ti lbey\nAdkimwa nefsey kabakha mflayey\nNabakha ableni lbey ybleka alo\nTi haqenya selam ab betka’yu zelo\nNtselot qdase keytegh zewetr\nAb adebabay smka nkheymskr\nWediqe alekhu’mo bezihu dkhamey\nRda amanuel ketsn mnetey\nSle hatiatey yflfl nbatey\nNay nsha ykhun metsai hywetey\nBeza lomi let mealti mdhaney\nFqrkha hasibe metsaku amlakhey\nGoyta ntasay nbatey teqebel\nAbokha’ye beleni wludka’ye kbl\nZeyti keyqerebku handebet metsikha\nDege aytequmeni matsokha atsikha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

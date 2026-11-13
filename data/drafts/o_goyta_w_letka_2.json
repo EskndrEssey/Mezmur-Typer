@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c032bbeee6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኦ ጐይታ ውዕለትካ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኦ ጐይታ ውዕለትካ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nብሐዋርያት ጌርካ ብዙሕ ምሂርካኒ\nስለ ኃጢአተይ ሞይትካ ሕይወት’ውን ሂብካኒ (2)\n[[/chorus]]\n\nኦ ጐይታ ውዕለትካ ተኣምርካ ድንቂ’ዩ\nኣምላኻዊ ቃልካ ስምካ ሕይወት ኢዩ (2)\n\nኣጸናኒዕካኒ በጺሕካ ኣብ ሓዘነይ\nኣጆኻ ዝወደይ ኢልካ ዘልዓልካኒ\nኣጆኺ ’ዛ ጓለይ ኢልካ ዘልዓልካኒ\n\nሓቀኛ ረዳኢ ወገነይ ንስኻ\nጐይታ ካብ ወለደይ ትበልጽ ንስኻ (2)\n\nስምካ መግበይ ኮይኑ እጸግብ ጸዊዐ\nፍጹም’ውን ይምካሕ ፍቕርኻ ጥዒመ (2)"
+    },
+    "ti_ro": {
+      "title": "O goyta w'letka",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nAmlakhawi qalka smka hywet iyu (2)\n[[/chorus]]\n\nO goyta wletka teamrka dnqi’yu\nBhawaryat gerka bzuh mhirkani\nSle hatiatey moytka hywet’wn hibkani (2)\nAtsenanikani betsihka ab hazeney\nAjokha zwedey ilka zelalkani\nAjokhi ’za gwaley ilka zelalkani\nKab zeytef hawi kab mot zewtsakhani\nNakha zkheflo goyta ntay aloni(2)\nHaqenya redai wegeney nskha\nGoyta kab weledey tbelts nskha (2)\nMmenan nmkah goyta bakha’yu\nZeytqyer amlakh smka kbur'yu(2)\nSmka megbey koynu tsegb tsewia\nFtsum’wn ymkah fqrkha time (2)\nBsemay bmdri bnefsi bsga\nBakha mkah alfa weomega (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

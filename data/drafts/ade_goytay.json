@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_2c61347293",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣደ ጐይታይ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣደ ጐይታይ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nናይ ኤልሳቤጥ ቦታ ተኪኤ ክቐውም\nክዝምር ክውድስ ኣይክእሎን ከርምም\nኣደ ጐይታይ ናባይ ክትመጺ ካበይ ኮነ ክብል\nድምጺ ሰላምታኺ ሰሚዔ መንፈሰይ ከጥልል\n[[/chorus]]\n\nንኤልሳቤጥ ዝበጻሕኪ ኣደ ጐይታይ ንዒ\nከመስግኖ ክውድሶ ነቲ ክቡር ስምኪ\n\nኣብ ቅድሜኺ ድንግል ኮይነ ክሰራሰር\nክጸናናዕ እወ ኣርዑተይ ክስበር\nናይ ያዕቆብ መሳልል ኢኺ ዝረኣያ ኣብ ሎዛ\nገላግልያ ንሕይወተይ ካብ ናይ ዓለም ቃንዛ\n\nኣስምዕኒ ድንግል ክሰምር ሃንቀውታይ\nወደየ በልኒ ክምእዝ ሕይወተይ\nኣብ ጽላልኪ ብምህላወይ ተመሰልኩ በሃም\nነዓይ ምሳኺ ይሕሸኒ ኣይደልን ክልብም"
+    },
+    "ti_ro": {
+      "title": "Ade goytay",
+      "zemari": "di/n efrem",
+      "lyrics": "Nelsabet zbetsahki ade goytay ni\nKemesgno kwdso neti kbur smki\nNay elsabet bota tekie kqewm\nKzmr kwds ayklon kermm\nAde goytay nabay ktmetsi kabey kone kbl\nDmtsi selamtakhi semie menfesey ketll\nAb qdmekhi dngl koyne kseraser\nKtsenana we arutey ksber\nNay yaqob mesall ikhi zreaya ab loza\nGelaglya nhywetey kab nay alem qanza\nTsbet nay kerskhi sefihu kab semay\nAb mahtsenki tsorki nlul adonay\nTse patos zesina ikhi ztsorki halhalta\nKab mahtsenki bzterekhbe rekhibna foyta\nAsmni dngl ksemr hanqewtay\nWedeye belni kmz hywetey\nAb tslalki bmhlawey temeselku beham\nNeay msakhi yhsheni aydeln klbm"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_552c586ed2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣቦና ቅዱስ ኣረጋዊ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣቦና ቅዱስ ኣረጋዊ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nኣቦ ናይ እምነት ተጋዳሊ\nኣኽሊል ተዓዲልካ እቲ ዘይበሊ\nረዳኢ ዘኽታማት ትጉህ መምህር\nፍጹም ዝቐደሶ እግዚኣብሔር\n[[/chorus]]\n\nኣቦና ቅዱስ ኣረጋዊ ዓለም ዝመነንካ ባሕታዊ (2)\nኣምሳል ኤልያስ (3) ገዳማዊ (2)\n\nደብርኻ ትንገር እቲ ገድልኻ\nዕጹብ መንክር እዩ ትሕትናኻ\nገብርሄር ብዓል ብዙሕ ምክሊት\nኖላዊ ትጉህ ፍጡን ንረዲኤት\n\nኣቡነ ኣረጋዊ ረዳኤ ነፍስና\nኣብ ዘለና ኣሊና ርድኣና\nስለቲ ምሕረት ድኅነት ሕዝብኻ\nካብ ልዑል ፈጣሪ ለምነልና ኢኻ\nዲ/ን ኤፍሬም"
+    },
+    "ti_ro": {
+      "title": "Abona qdus aregawi",
+      "zemari": "di/n efrem",
+      "lyrics": "Abona qdus aregawi alem zmenenka bahtawi (2)\nAmsal elyas (3) gedamawi (2)\nAbo nay mnet tegadali\nAkhlil teadilka ti zeybeli\nRedai zekhtamat tguh memhr\nFtsum zqedeso gziabher\nDebrkha tnger ti gedlkha\nTsub menkr yu thtnakha\nGebrher bal bzuh mklit\nNolawi tguh ftun nrediet\nHmumat yhawyu wurat yryu\nBlmanokha ftsum zamenu\nLemtsamat ynetshu tsemamat ysemu\nZemikael yblu kwilom ymhtsenu\nAbune aregawi redae nefsna\nAb zelena alina rdana\nSleti mhret dhnet hzbkha\nKab lul fetari lemnelna ikha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

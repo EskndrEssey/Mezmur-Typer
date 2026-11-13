@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_c8ab1b4ed2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዘእምደብረ ደናግል"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዘእምደብረ ደናግል",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nወትሩፈ ምግባር ኣረጋዊ ዘውገ ሙሴ ወገብረ ክርስቶስ\n[[/chorus]]\n\nዘእምደብረ ደናግል (2) ኣባ ኤልያስ"
+    },
+    "ti_ro": {
+      "title": "Ze'mdebre denagl",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Zemdebre denagl (2) aba elyas\nWetrufe mgbar aregawi zewge muse wegebre krstos"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment"
+  ]
+}

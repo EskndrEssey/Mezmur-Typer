@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0683",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 683,
+  "wereb_category": "wereb_emebrhan",
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb Emebrhan",
+  "category": "st_mary",
+  "categories": [
+    "st_mary"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ኣዳም ወደሰኪ ቅድመ ገጸ ኵሉ ጉባኤ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nኣዳም ወደሰኪ ቅድመ ገጸ ኵሉ ጉባኤ\nበልደትኪ (2) ረኪቦ ትንሳኤ\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

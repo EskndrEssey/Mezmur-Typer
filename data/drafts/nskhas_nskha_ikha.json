@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_09e43a1d95",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንስኻስ ንስኻ ኢኻ"
+  },
+  "singer": "ዲ/ን ልዑልሰገድ ጌታቸው",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንስኻስ ንስኻ ኢኻ",
+      "zemari": "ዲ/ን ልዑልሰገድ ጌታቸው",
+      "lyrics": "[[chorus]]\nደመና ኣይሃሉ ዋላ'ውን ኣይዝነም\nወርሕን ጸሓይ'ውን ብርሃን እንተዘይሂቦም\nጠባይ ናይ ፍጥረታት ዋላ ይቀያየር\nከም ዘለኻያ ኢኻ ሕያው እግዚአብሔር\n[[/chorus]]\n\nንስኻስ ንስኻ ኢኻ ጸባኦት ዘለካ (2)\nዘልዓለም ትነብር ንዅሉ ኣሕሊፍካ\nወናኒ ናይ ኵሉ ንስኻ በይንኻ\n\nሓያላን ናይ ምድሪ ትማል ዝነበሩ\nብሓይሊ ብስልጣን ኣዝዮም ዝተፈርሑ\nተኣልዮም `ዮም ምስ ጊዜ ሓሊፎም\nንስኻ ግን ኢኻ ንጉሥ ዘልዓለም\n\nኣማልኽቲ ግሪኽ ኮይኖም’ዮም ሓመድ\nብወርቂ ብብሩር ዝተሰርሑ ብኢድ\nፍጹም ዘይትሓልፍ ዘመን ዘይስዕረካ\nንስኻ በይንኻ ትገዝእ ፈጢርካ"
+    },
+    "ti_ro": {
+      "title": "Nskhas nskha ikha",
+      "zemari": "di/n l'ulseged getachew",
+      "lyrics": "[[chorus]]\nNskhas nskha ikha tsebaot zeleka (2)\n[[/chorus]]\n\nZelalem tnebr nkwilu ahlifka\nWenani nay kwilu nskha beynkha\nDemena ayhalu wala'wn ayznem\nWerhn tsehay'wn brhan ntezeyhibom\nTebay nay ftretat wala yqeyayer\nKem zelekhaya ikha hyaw gziabher\nHayalan nay mdri tmal zneberu\nBhayli bsltan azyom zteferhu\nTealyom `yom ms gize halifom\nNskha gn ikha nguss zelalem\nKwilu nalewetka zeytlwet keto\nTfedya nkhula kem zgebereto\nAb tsetsbah'wn hadsh'yu ti smka\nNskha beynkha gize zeyqotsreka\nAmalkhti grikh koynom’yom hamed\nBwerqi bbrur zteserhu bid\nFtsum zeythalf zemen zeysreka\nNskha beynkha tgez fetirka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

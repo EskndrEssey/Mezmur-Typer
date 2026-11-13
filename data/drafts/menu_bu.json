@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_20ed74da86",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እመኑ ብኡ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እመኑ ብኡ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nተሃውከ ‘ቲ ሩባ\n‘ቲ ጽሕዲ ተሰብረ\n‘ቲ ከውሒ ተጨድደ\nጣዖታት ኣህዛብ\nቅድሚኡ ረገፉ\nዝኣመኑ ስሙ\nንማዕበል ሓለፉ\n[[/chorus]]\n\nእመኑ ብኡ በቲ ሓያል ጐይታ\nንዕኡ ዝመስል ማንም የለን ኮታ\nውቅያኖስ ባሕሪ ዋላ እንተተንስአ\nክዝሕል እዩ ዝኾነ እንተኾነ\nእመኑ ብኡ ነደደ ‘ቲ እምባ\n\nእመኑ ብኡ ዘይሓልፍ መከራ\nዘይከኣል የለን\nከኣሊ ኵሉ ዩ\nጐይታ መድኃኔዓለም\nፍቕሪ’ዩ ዘለዓለም\nፍሉይ ርህራሄኡ\nይነብራ ኣእዳዉ\nተዘርጊሔን ወትሩ\n\nእመኑ ብኡ ፈኸራ ጸላኢ\nዋጋ የብሉን\nዘይገድፈና ኣምላኽ\nምሳና’ዩ መድኅን\nመሊኡ እናኣንጀርበበ\nጸጋኡ ካብ በዝሐ\nንሞት እናረገጽና\nንዝምር ጌና"
+    },
+    "ti_ro": {
+      "title": "'Menu bu",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Menu bu beti hayal goyta\nNu zmesl manm yelen kota\nWqyanos bahri wala ntetensa\nKzhl yu zkhone ntekhone\nMenu bu nedede ‘ti mba\nTehawke ‘ti ruba\n‘Ti tshdi tesebre\n‘Ti kewhi techedde\nTaotat ahzab\nQdmiu regefu\nZamenu smu\nNmabel halefu\nMenu bu zeyhalf mekera\nZeykeal yelen\nKeali kwilu yu\nGoyta medhanealem\nFqri’yu zelealem\nFluy rhraheu\nYnebra adawu\nTezergihen wetru\nMenu bu mabel zeysebro\nTsnuyu merkebna\nFrhi yelen radi\nAb gonu kelena\nTetsay tesairu\nSeytan’wn hafiru\nBmezmur msgana\nYmeset lbna\nMenu bu fekhera tselai\nWaga yeblun\nZeygedfena amlakh\nMsana’yu medhn\nMeliu naanjerbebe\nTsegau kab bezha\nNmot naregetsna\nNzmr gena"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

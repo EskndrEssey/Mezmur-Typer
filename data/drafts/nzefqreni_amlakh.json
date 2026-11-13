@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_279c73a87c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዘፍቅረኒ ኣምላኽ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዘፍቅረኒ ኣምላኽ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nእንታይ ርኢኻ ኢኻ ንዓይ ፈቲኻኒ\nንሞተይ ሞይትካለይ ንኽብሪ ዘብቃዕካኒ\nንምስኪን ኣልዒልካ ሓይልኻ ሂብካኒ\nምስጋና ይኹንካ ልዕል ዘበልካኒ\n[[/chorus]]\n\nንዘፍቅረኒ ኣምላኽ ወትሩ ክዝምርየ\nናይ ምድኃኑ ጥበብ ብዓይነይ ርእየ’የ\nናተይ ናይ ቤተይ ርስቲ እግዚኣብሔር ኮይኑለይ\nነዛ ምስኪን ገዛይ በረኸት ሂብዋ\n\nናይ ሕይወት ማይ ንዓይ ኣስቲኻኒ ኢኻ\nምሕረትካ ኣብ ልዕለይ ኣፍሲስካዮ ኢኻ\nካብ ዓለም ጥፍኣት ንስኻ ኣውጺኻኒ\nተመስገን ኣምላኸይ ቤትካ ዘርኣኻኒ\n\nጸሎተይ ሰሚዕካ ድኂና ሕይወተይ\nሰላምካ ኣጽኒዕዋ ነታ ንእሽቶይ ቤተይ\nሎምስ ተማሂረ’የ ከምዘይገድፍ ጐይታ\nክስውኣሉ ክነብር ዝማሬን ዕልልታን"
+    },
+    "ti_ro": {
+      "title": "Nzefqreni amlakh",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Nzefqreni amlakh wetru kzmrye\nNay mdhanu tbeb bayney rye’ye\nNatey nay betey rsti gziabher koynuley\nNeza mskin gezay berekhet hibwa\nNtay rikha ikha nay fetikhani\nNmotey moytkaley nkhbri zebqakani\nNmskin alilka haylkha hibkani\nMsgana ykhunka ll zebelkani\nNay hywet may nay astikhani ikha\nMhretka ab lley afsiskayo ikha\nKab alem tfat nskha awtsikhani\nTemesgen amlakhey betka zerakhani\nNeta chenaq lbey bsrat melikhayo\nNay hywetey ngus bmntay kemesgno\nKab alem felyu nay’yu tsewiu\nZredani amlakh nab betu katu\nTselotey semika dhina hywetey\nSelamka atsniwa neta nshtoy betey\nLoms temahire’ye kemzeygedf goyta\nKswalu knebr zmaren lltan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

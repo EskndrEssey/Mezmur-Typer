@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ff99b33427",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ራማዊ መልኣክ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ራማዊ መልኣክ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nመን ከም እግዚኣብሔር ትርጓሜ ስምካ\nብትሕትናኻ ሳጥናኤል ዘሕፈርካ\nብጽኑዕ እምነት ሽመት ዝወረስካ\nቅዱስ ሚካኤል ረዳኢ ሕዝብኻ(2)\n[[/chorus]]\n\nራማዊ መልኣኽ ናይ መላእኽት ሓለቓ\nመጋቢብሉይ ኩነና ጠበቓ\nቅዱስ ሚካኤል ኩነና ጠበቓ\n\nድርሳንካ እንክንበብ ይፍጸም ተኣምር\nስምካ ተጸዊዑ ሰይጣን ይባረር\nለፍሊፉ ብሓቂ ኃይልኻ ኣመስኪሩ\nሚካኤል ዝብል ስም ዲያብሎስ ኣሲሩ(2)\n\nብስምካ ይድሕን ዝሳቐ ብሕማም\nጸበልካ መድኃኒ ኮይንና ምስክር\nሰኣሌ ምሕረት ብዙኅ ውህብቶኻ\nጸጋ በረኸትካ ይኹን ኣብ ደቅኻ(2)"
+    },
+    "ti_ro": {
+      "title": "Ramawi melak",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nQdus mikael redai hzbkha(2)\n[[/chorus]]\n\nRamawi melakh nay melakht haleqa\nMegabibluy kunena tebeqa\nQdus mikael kunena tebeqa\nMen kem gziabher trgwame smka\nBthtnakha satnael zehferka\nBtsnu mnet shmet zwereska\nDrsanka nknbeb yftsem teamr\nSmka tetsewiu seytan ybarer\nLeflifu bhaqi haylkha ameskiru\nMikael zbl sm diyablos asiru(2)\nSltanka grum ab hawi tqewm\nSmka nktswa menafst yehdm\nKdanka mebreq hawi meqenetka\nHzbkha tewts kab tselmat shibka(2)\nBsmka ydhn zsaqe bhmam\nTsebelka medhani koynna mskr\nSeale mhret bzuh whbtokha\nTsega berekhetka ykhun ab deqkha(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

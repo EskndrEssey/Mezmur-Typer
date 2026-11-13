@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_f45fff821f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከመስግነኪ ብዘመነይ"
+  },
+  "singer": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከመስግነኪ ብዘመነይ",
+      "zemari": "ሊቀ መዘምራን ቴድሮስ ዮሴፍ",
+      "lyrics": "[[chorus]]\nልበይ’ውን ተላዕለ ክቓኒ ፍቕርኺ\nብፍጹም ትሕትና ከመስግን ንዓኺ\nመጸናንዒት ናይ ኣብርሃም ድንኳን\nዝተሓጽረት ተኽሊ እመብዙሃን\n[[/chorus]]\n\nድንግል ማርያም ኣደ ኣምላኽ\nከመስግነኪ ብዘመነይ\nንወድኺ’ውን ክብሪ ውዳሴ\nተቕርበሉ ወትሩ ንነፍሰይ (2)\n\nዝለምለመት መሬት ኣምላኽ ዝመረጻ\nናይ ጽላት ማሕደር ታቦቱ ድንግል’ያ\nናይ ሰማይ ናይ ምድሪ ንግስቲ ዝኾነት\nክብሪ ይግበኣ ወትሩ ንግሆ ምሸት"
+    },
+    "ti_ro": {
+      "title": "Kemesgneki bzemeney",
+      "zemari": "liqe mezemran tedros yosef",
+      "lyrics": "[[chorus]]\nTeqrbelu wetru nnefsey (2)\n[[/chorus]]\n\nDngl maryam ade amlakh\nKemesgneki bzemeney\nNwedkhi’wn kbri wdase\nLbey’wn telale kqani fqrkhi\nBftsum thtna kemesgn nakhi\nMetsenanit nay abrham dnkwan\nZtehatsret tekhli mebzuhan\nZlemlemet meret amlakh zmeretsa\nNay tslat mahder tabotu dngl’ya\nNay semay nay mdri ngsti zkhonet\nKbri ygbea wetru ngho mshet\nHaderakhi dngl ade nay kulatna\nBmljakhi dngl aytfeleyna\nNeti bahri hawi asgrna dngl\nNkheynmewt keynri sqay"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

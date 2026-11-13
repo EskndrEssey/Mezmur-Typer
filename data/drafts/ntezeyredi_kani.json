@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_31c15113f1",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እንተዘይረዲእካኒ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እንተዘይረዲእካኒ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nጐይታይ ኵሉ ጊዜ ናባኻ የእዊ ኣነ\nብሰንኪ ሓጢኣተይ ዕረፍቲ ስኢነ\nኣቦታት ለሚኖም መዓስ ኣሕፊርካዮም\nስለዝኣምኑኻ ካብ ሞት ኣድኂንካዮም\n[[/chorus]]\n\nተዘይረዲእካኒ ንበይነይ’የ\nኣማኑኤል ጐይታይ(2)\nእልምነካ ኣለኹ\nኣይትርአ ድኽመተይ\n\nየሽካዕልሉ’ለዉ ኩሎም ዝርኣዩኒ\nዘድሕነካ ኣምላኽ ኣበይ ኣሎ ይብሉኒ\nንኡስ’የ እፈልጥ ሓሰኻ ናይ ምድሪ\nብብርቱዕ ቅልጽምካ ጐይታይ ኣድሕነኒ\n\nኣብ ጊዜ ጸገመይ ረዳኢየይ ኢኻ\nተርክበለይ ኢኻ ጸሎተይ ሰሚዕካ\nወትሩ ክዛረብ’የ መድኃኒ ምዃንካ\nክዝምረልካ’የ ኣብ ማእከል ህዝብኻ"
+    },
+    "ti_ro": {
+      "title": "'Ntezeyredi'kani",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nAmanuel goytay(2)\n[[/chorus]]\n\nTezeyredikani nbeyney’ye\nLmneka alekhu\nAytra dkhmetey\nGoytay kwilu gize nabakha yewi ane\nBsenki hatiatey refti sine\nAbotat leminom meas ahfirkayom\nSlezamnukha kab mot adhinkayom\nYeshkallu’lewu kulom zrayuni\nZedhneka amlakh abey alo ybluni\nNus’ye felt hasekha nay mdri\nBbrtu qltsmka goytay adhneni\nAmanuel amlakhey tselotey smani\nAwyatey’wn tsnbel qeltifka rdani\nNztetsegukha metsegiom ikha\nNetom shgurat’wn tbetshom balkha\nAb gize tsegemey redaiyey ikha\nTerkbeley ikha tselotey semika\nWetru kzareb’ye medhani mkwanka\nKzmrelka’ye ab makel hzbkha"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ff45700456",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰማይ’ዩ ዝፋኑ"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰማይ’ዩ ዝፋኑ",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nካህናት ናይ ሰማይ ኩሎም ብሓድነት\nይዓጥኑ ኣለዉ መንበረ ጸባኦት\nኣኽሊሎም ኣውሪዶም ሰጊዶም ብፍርሓት\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n[[/chorus]]\n\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n\nቅዱስ (3) ክብሉ ኣብ ኣርያም\nንገንሸል ፋሲካ ዝተዋሕሰ ብደም\nቅዱሳን መላእክት ኣኽናፎም ዘርጊሖም\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ\n\nሰረገላ እሳት እዩ መንኮርኮሩ\nይሕምበብ ኣብ ንፋሳት ኣብ ማያት ጠፈሩ\nመንክር’ዩ ኣምላኽና ዕጹብ’ዩ ነገሩ\nሰማይ’ዩ ዝፋኑ ምድሪ መርገጽ እግሩ\nይምስገን ንዘልዓለም ልዑል ኣብ መንበሩ"
+    },
+    "ti_ro": {
+      "title": "Semay’yu zfanu",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nSemay’yu zfanu mdri mergets gru\nYmsgen nzelalem lul ab menberu\n[[/chorus]]\n\nKahnat nay semay kulom bhadnet\nYatnu alewu menbere tsebaot\nAkhlilom awridom segidom bfrhat\n\nQdus (3) kblu ab aryam\nNgenshel fasika ztewahse bdem\nQdusan melakt akhnafom zergihom\n\nKem dehay bzuh mayat kem brtu negodgwad\nHtsanat betelhem koynom hade neged\nYeqrbu alewu mahlet bmeregd\n\nSeregela sat yu menkorkoru\nYhmbeb ab nfasat ab mayat teferu\nMenkr’yu amlakhna tsub’yu negeru\n\nNmengstu hlfet zeyblu zelalem\nSgedu bfrhat zelekhum ab alem\nNelshaday amlakh qdus nabelkum"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

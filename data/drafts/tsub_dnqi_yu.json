@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_fcf32da58d",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዕጹብ ድንቂ’ዩ"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዕጹብ ድንቂ’ዩ",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nወዲቕና ኔርና ኣተንሲኡ\nባሕሪ ከፊሉ ኣሳጊሩ\nናይ እምነት መርከብ እና ኣንሰፈፈ\nሩባ ድነ ሞት እናኣሕለፈ\n[[/chorus]]\n\nዕጹብ ድንቂ’ዩ እቲ ውዕለቱ\nኣምላኽ ንዓና ዝገበሮ\nከቶ ኣይሓድገናን ንዘልዓለም\nከም እግዚአብሔር ማንም የለን\n\nዝጠፍአት በጊዕ ንኽደሊ\nንገዛእ ርእሱ ኣዋሪዱ\nመስቀሉ ሒዙ ፈጣሪ ዓለም\nኣፍቂሩና’ዩ ንዘልዓለም\n\nመታን ክንረክብ ጽኑዕ ሕይወት\nኣፍቂሩና’ዩ ክሳዕ ብሞት\nደጊም እሞ እንታይ የፍርሓና\nንኽፉእ ዘይህብ ኣቦ ኣሎና"
+    },
+    "ti_ro": {
+      "title": "'Tsub dnqi’yu",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "Tsub dnqi’yu ti wletu\nAmlakh nana zgebero\nKeto ayhadgenan nzelalem\nKem gziabher manm yelen\nWediqna nerna atensiu\nBahri kefilu asagiru\nNay mnet merkeb na ansefefe\nRuba dne mot naahlefe\nZtefat begi nkhdeli\nNgeza rsu awaridu\nMesqelu hizu fetari alem\nAfqiruna’yu nzelalem\nKab abo nlali abo yu\nBnbat dequ ysaqe’yu\nAb hazen shgr tekhafali\nLewah amlakh’yu telemani\nMetan knrekb tsnu hywet\nAfqiruna’yu ksa bmot\nDegim mo ntay yefrhana\nNkhfu zeyhb abo alona"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

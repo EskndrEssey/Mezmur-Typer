@@ -1,0 +1,45 @@
+{
+  "id": "h_efr_08864841a3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ተስፋና ንስኻ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ተስፋና ንስኻ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nኣፍሲስካ ክቡር ደም ስጋኻ ቆሪስካ (2)\nብልዑ ስተዩ ኢልካ ንዓለም ዝሃብካ (2)\n[[/chorus]]\n\nተስፋና ንስኻ ንዘለዓለም (2)\nወዲ ድንግል ማርያም መድኃኔ ዓለም (2)\n\nሕይወትካ ብምሕላፍ ፍቕሪ ዝገለጽካ (2)\nተፈታዊ ጐይታ ሕያዋይ ጓሳ ኢኻ (2)\nደምካ ዝነጸገ መልኣከ ሰላም (2)\nቅዱስ ዑራኤል ኢዩ ይኽበር መድኃኔ ዓለም (2)\nተስፋና ንስኻ ንዘለዓለም (2)\nወዲ ድንግል ማርያም መድኃኔ ዓለም (2)\nኣሜን ኣሜን ኣሜን ንብል ብሓበራ (2)\nሰላምካ ለኣኽ ንመላእ ኤርትራ (2)"
+    },
+    "ti_ro": {
+      "title": "Tesfana nskha",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nTesfana nskha nzelealem (2)\n[[/chorus]]\n\nAfsiska kbur dem sgakha qoriska (2)\nBlu steyu ilka nalem zhabka (2)\nHywetka bmhlaf fqri zgeletska (2)\nTefetawi goyta hyaway gwasa ikha (2)\nDemka znetsege melake selam (2)\nQdus urael iyu ykhber medhane alem (2)\n\nAmen amen amen nbl bhabera (2)\nSelamka leakh nmela ertra (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "short_fragment",
+    "chorus_check"
+  ]
+}

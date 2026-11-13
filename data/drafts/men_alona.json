@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_cdbd3c509a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መን ኣሎና"
+  },
+  "singer": "ዲ/ን ትዝታው ሳሙኤል",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መን ኣሎና",
+      "zemari": "ዲ/ን ትዝታው ሳሙኤል",
+      "lyrics": "[[chorus]]\nሎሚ ፈትዩ ጽባሕ ዝጸልእ\nሎሚ ሂቡ ጽባሕ ዝኸልእ\nናይ ሰብ ሕይወት ኣይእመንን’ዩ\nባህርኻ ግን ኣይልወጥን’ዩ\n[[/chorus]]\n\nመን ኣሎና ጐይታና ብዘይብኣኻ (2)\nኣብ ሰማይ ኮነ ኣብ ኵሉ ምድሪ\nመን ኣሎና ብዘይ በኣኻ\n\nመልክዕ ሕይወትና ተደዊኑ\nመንገድና ናይ ጥፍኣት ኮይኑ\nጸላኢና’ውን ከሳድደና\nኤልሻዳይ ግን ተዋጊእካልና\n\nከይተለመንካ ትህብ ጐይታ\nኣይተሕፍርን ንወገናትካ\nሓሳብ ልብና ሰሚሩልና\nብሩህ ኮይኑ ተስፋ ሕይወትና"
+    },
+    "ti_ro": {
+      "title": "Men alona",
+      "zemari": "di/n tztaw samuel",
+      "lyrics": "[[chorus]]\nMen alona goytana bzeybakha (2)\n[[/chorus]]\n\nAb semay kone ab kwilu mdri\nMen alona bzey beakha\nLomi fetyu tsbah ztsel\nLomi hibu tsbah zkhel\nNay seb hywet aymenn’yu\nBahrkha gn aylwetn’yu\nMelk hywetna tedewinu\nMengedna nay tfat koynu\nTselaina’wn kesaddena\nElshaday gn tewagikalna\nNabra alem ashenifuna\nHayli siol anawitsuna\nMaser hatiat kfthalna\nAtsebqo mewedatana\nKeytelemenka thb goyta\nAytehfrn nwegenatka\nHasab lbna semirulna\nBruh koynu tesfa hywetna\nNabra alem . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

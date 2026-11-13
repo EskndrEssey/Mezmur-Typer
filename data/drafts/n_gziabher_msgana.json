@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_ac1dec2bab",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንእግዚአብሔር ምስጋና"
+  },
+  "singer": "ዲ/ን እዝራ ሃ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንእግዚአብሔር ምስጋና",
+      "zemari": "ዲ/ን እዝራ ሃ/ማርያም",
+      "lyrics": "[[chorus]]\nቲ’ናይ ሞት ዘመን ጊዜኡ ከብቅዕ\nሕይወት ወድሰብ ካብ ሓጢኣት ክነጽህ\nካብ ድንግል ማርያም ጐይታ ተወሊዱ\nቂምን በቐልን ኵሉ ተለዊጡ\n[[/chorus]]\n\nኣብ ሰማይ ንእግዚአብሔር ምስጋና\nኣብ ምድሪ ንወዲ ሰብ ሰላም\nተወሊዱ’ዩ’ሞ መድኅኔ ዓለም (2)\n\nኮይኑዩ ሰላም ናጽነት ንሕይወት\nተወሊዱ’ዩ ናይ ዓለም መድኃኒት\nናይ ሰማይ ዜማ ተሰምዐ ኣብ ምድሪ\nብኣፍ መላእክት ንእግዚአብሔር ክብሪ\nቃሉ ኣይርስዕን ናይ ምሕረት ኪዳኑ\nንኃጥኣን ካብ ሞት ዘውጽኣሉ\nማሕላኡ ጽኑዕ ዝበሎ ዝፍጽም\nዘድሓነና ኣምላኽ ዕልል ንበለሉ\nኣጽናዒ ድምጺ ሰሚዕና ኣብ ኤፍራታ\nኣብ ዱር ርኢናዩ ናይ ፍጥረታት ጐይታ\nኣብ ዝቖመሉን ዝሓድረሉን ቦታ\nክንሰግድ ኢና ዳግም ኢልና ጐይታ"
+    },
+    "ti_ro": {
+      "title": "N'gziabher msgana",
+      "zemari": "di/n 'zra ha/maryam",
+      "lyrics": "Ab semay ngziabher msgana\nAb mdri nwedi seb selam\nTewelidu’yu’mo medhne alem (2)\nTi’nay mot zemen gizeu kebq\nHywet wedseb kab hatiat knetsh\nKab dngl maryam goyta tewelidu\nQimn beqeln kwilu telewitu\nKoynuyu selam natsnet nhywet\nTewelidu’yu nay alem medhanit\nNay semay zema tesema ab mdri\nBaf melakt ngziabher kbri\nQalu ayrsn nay mhret kidanu\nNhatan kab mot zewtsalu\nMahlau tsnu zbelo zftsm\nZedhanena amlakh ll nbelelu\nAtsnai dmtsi semina ab efrata\nAb dur rinayu nay ftretat goyta\nAb zqomelun zhadrelun bota\nKnsegd ina dagm ilna goyta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

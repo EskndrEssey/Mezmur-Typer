@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_5cf0cf51cb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ስለ ዘፍቀረ እንድዩ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ስለ ዘፍቀረ እንድዩ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nብጥፍእቲ ነፍሶም ዝጓሃየት ልቡ\nኣይሓድጎምን ክብል ብእሳት ክልብለቡ\nካብ ሰማይ ምስ ወረደ ብፍቕሪ ተሳሒቡ\nብወንጀል ከሰስዎ ወንጌሉ ከይስዕቡ\n[[/chorus]]\n\nስለ ዘፍቀረ እንድዩ ንስቓይና ብስቓዩ\nመርገምና ክጸውር ሞት ኣዳም ክጥዕም ሓርዩ\nካብ ቃሉ እንሰምዓ እታ ትሕይሎ ፍቕሪ\nዘይጽወር ኣጽዊራቶ ከርእየና ብግብሪ\n\nቅዱስ እንክነሱ ንጹህ ‘ዝ ባህሪኡ\nምራቕ እናተተፍኦ ዘይተጸየፈ ኮርዩ\nትሕት እንተበለ ከድሕነና ፈትዩ\nነገር ፍቕሪ ኮይንዎ እምበር ኣምላኽናስ ሓያል እዩ\n\nኣብ ማእከል በርባሮስ ብምርኮ ኣዳም እንክድብል\nዲያብሎስ ክጭድር መን ከማይ እንክብል\nእቲ ዘይመውት ጐይታ ሓይሊ ጽልመት ቀቲሉ\nብሞቱ ሰንሰለት ኃጢኣትና በቲኹልና እዩ ኣብ መስቀሉ"
+    },
+    "ti_ro": {
+      "title": "Sle zefqere 'ndyu",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Sle zefqere ndyu nsqayna bsqayu\nMergemna ktsewr mot adam ktm haryu\nKab qalu nsema ta thylo fqri\nZeytswer atswirato keryena bgbri\nBtfti nefsom zgwahayet lbu\nAyhadgomn kbl bsat klblebu\nKab semay ms werede bfqri tesahibu\nBwenjel keseswo wengelu keysbu\nQdus nknesu ntsuh ‘z bahriu\nMraq natetefo zeytetseyefe koryu\nTht ntebele kedhnena fetyu\nNeger fqri koynwo mber amlakhnas hayal yu\nAmlakh lgsi nkelo zeznb kab semay\nNeza goreru ftsum keliomo may\nBdemu natlelom metsits ntesteywo\nQal hdget hatiat mber meas hmaq wetsiwo\nAb makel berbaros bmrko adam nkdbl\nDiyablos kchdr men kemay nkbl\nTi zeymewt goyta hayli tslmet qetilu\nBmotu senselet hatiatna betikhulna yu ab mesqelu\nQanza sqyatu kem sef koynu nawega\nMare ti thazno lba bhagos ktmela\nWuy nbat maryam zwerere nandeda\nSle fqri yu neyru kem dem fqur weda"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

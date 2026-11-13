@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_805192ca32",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፈለጥኩኻ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፈለጥኩኻ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nንዘይሰምዕ ኣምላኽ ፍጹም ንዘይርኢ\nእዚ እዩ ኣምላኽካ ኣምልኮ በሉኒ\nፈጣሪ ናይ ጸሓይ በጃኻ ርድኣኒ\nኢለ ምስ ለመንኩ ኣለኹ ኢልካኒ\n[[/chorus]]\n\nፈለጥኩኻ ኣነ ፈለጥኩኻ\nንዓይ ጠሚትካኒ ብዓይኒ ምሕረትካ\nተገሊጽካለይ መድኃኔ ዓለም\nተመስገን ተመስገን ንዘልዓለም\n\nኣጽዋረይ ኣልዒለ ስንቀይ እውን ቋጺረ\nንዓኻ ከጥፍእ ኢለ ተላዒለ\nንጌጋ መንገደይ ንቕኑዕ ለዊጥካ\nብርሃን ኣርኢኻኒ ነቲ ብሩህ ገጽካ\n\nኣበይ ኣሎ ኣምላኸይ ኣበይ እዩ ዝርከብ\nኣብ ደገ ሰላሙ ኣብቲ ናቱ መቕደስ\nሥጋኡ ቆሪሱ ክቡር ደሙ ኣፍሲሱ\nወትሩ ይዕድል’ዩ ንዑ ተቐደሱ"
+    },
+    "ti_ro": {
+      "title": "FeleTkukha",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Feletkukha ane feletkukha\nNay temitkani bayni mhretka\nTegelitskaley medhane alem\nTemesgen temesgen nzelalem\nNzeysem amlakh ftsum nzeyri\nZi yu amlakhka amlko beluni\nFetari nay tsehay bejakha rdani\nIle ms lemenku alekhu ilkani\nAtswarey alile snqey wn qwatsire\nNakha ketf ile telaile\nNgega mengedey nqnu lewitka\nBrhan arikhani neti bruh getska\nAhzab kmskru hmumat wrat\nKulom kednuqukha ksemu bsrat\nQumet hatsiruni ab sagla hakwire\nLoms rekhibeka bzuh temahire\nAbey alo amlakhey abey yu zrkeb\nAb dege selamu abti natu meqdes\nSsgau qorisu kbur demu afsisu\nWetru ydl’yu nu teqedesu"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_4165185151",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መኑአ ይቀውም"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መኑአ ይቀውም",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nኩሎም ክቖሙ’ዮም ዘርኢ ደቂ ኣዳም\nኣብ ቅድሚ ጐይታኦም መድኃኔ ዓለም\nዘዘፍረይዎ መመኽሊቶም ሒዞም\nጐይታ ክህቦም’ዩ እቲ ግቡእ ዓስቦም\n[[/chorus]]\n\nመኑአ ይቀውም ቅድመ መንበሩ ለልዑል\nአመ ምጽአቱ ዳግመ ይኰንና ለምድር\nጐይታ ክመጽእ’ዩ ብመዓልቲ ፍርዲ\nግርማኡ ለቢሱ ደፊኡ’ውን ዘውዲ\nብድምጺ መለኸት ብዘፍርሕ ነውጺ\nንፍጥረት ናይ ኣዳም ዓስቦም ንኽፈዲ\n\nንጻድቃን’ውን ይብሎም ብቓል ናይ ምስጋና\nሕገይ ዝሓለኹም ፍቓድ ቅድስና\nመንግስተይ ውረሱ ዕጡቓት ንጽህና\nንዑ ናባይ ደቀይ ምሉኣት ትሕትና\n\nሽዑ ክኸውን’ዩ ብኽያትን ሓዘንን\nኣዴታት ኣይሰምዓን ኣውያት ናይ ውሉደን\nንብዓት ክውሕዝ’ዩ ከም ፈለገ ግዮን\nእዚ ክኸውን’ዩ ብጽሒት ኃጥኣን"
+    },
+    "ti_ro": {
+      "title": "Menua yqewm",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "Menua yqewm qdme menberu lelul\nAme mtsatu dagme ykonna lemdr\nGoyta kmets’yu bmealti frdi\nGrmau lebisu defiu’wn zewdi\nBdmtsi melekhet bzefrh newtsi\nNftret nay adam asbom nkhfedi\nKulom kqomu’yom zeri deqi adam\nAb qdmi goytaom medhane alem\nZezefreywo memekhlitom hizom\nGoyta khbom’yu ti gbu asbom\nNtsadqan’wn yblom bqal nay msgana\nHgey zhalekhum fqad qdsna\nMengstey wresu tuqat ntshna\nNu nabay deqey mluat thtna\nNhatan’wn yblom bqal nay weqesa\nHgey zeyhalekhum mluat abesa\nZeyefrekhum mekhlit nay ssa selasa\nKab qdmey rehaqu wludat diyablos\nShu kkhewn’yu bkhyatn hazenn\nAdetat ayseman awyat nay wluden\nNbat kwhz’yu kem felege gyon\nZi kkhewn’yu btshit hatan\nNmhtsen alena bsgakha demka\nNmhtsen o goyta bmaryam adekha\nNmhtsen alona betom qdusanka\nKulatna knatu ab semayawit betka"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

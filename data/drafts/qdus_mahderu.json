@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9033b52641",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ቅዱስ ማሕደሩ"
+  },
+  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ቅዱስ ማሕደሩ",
+      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
+      "lyrics": "[[chorus]]\nጸጋን ምሕረትን ፍቕሩ ኣባና\nጥንቲ ኣትሒዙ መሊኡ ተሪፉ\nሞት ኣይሕዘናን ሓሊና ጐይታ\nቀዛፊ መልኣክ ከይዱ ሓሊፉ\nፒራሚዳትን ቀጽርን ሓሊፉ\nእቲ ሕሱም ክፉእ መዓልቲ\nቅዱስ እስራኤል ዋልታና ኮይኑ\nዓቂብና’ዩ መዓልቲ ለይቲ\n[[/chorus]]\n\nቅዱስ ማሕደሩ ምእመናን መሊኡ\nጐይታ ንደቁ ኣዝዩ ኣብዚሑ\nዝበጽሓኩም ብግሩም ግብሩ\nደስ ደስ ይበልኩም ታሪኽ ተሰሪሑ (2)\n\nኣብ ድኽነት’ውን እንተሃሊና\nሃብታማት ኢና ዘይጎደለና\nኣይነማርርን ምስኡ እንተኾይና\nካብዚ ዝበልጽ ክብሪ ኣለና\nመጸግዒና መመክሒና እዩ\nንጉሥ ናይ ክብሪ ግኑን ጐይታ\nተራእዩ ኣብ መስቀል ኢዱ ዘርጊሑ\nእሙን ኣምላኽ’ዩ በዓል ውዕለታት\n\nእቲ መድረኽ ክመልእ እዩ\nሓድሽ ዝማሬ ሓድሽ ምስጋና\nበገና ሓዙ ውጹ ብዕልልታ\nዘሐጉስ ቅኔ ጌና’ዩ ጌና\nዘይነጽፍ ሃብቲ ዘይውዳእ ጸጋ\nተጎናጺፍና ብለጋስ ጐይታ\nዕጽፊ በዚሕና ካብ ማዕሙቕ\nወጺእና ኢና ሰይጣን ክርታዕ"
+    },
+    "ti_ro": {
+      "title": "Qdus mahderu",
+      "zemari": "zemarit werqnesh haylu",
+      "lyrics": "[[chorus]]\nDes des ybelkum tarikh teserihu (2)\n[[/chorus]]\n\nQdus mahderu mmenan meliu\nGoyta ndequ azyu abzihu\nZbetshakum bgrum gbru\nTsegan mhretn fqru abana\nTnti athizu meliu terifu\nMot ayhzenan halina goyta\nQezafi melak keydu halifu\nPiramidatn qetsrn halifu\nTi hsum kfu mealti\nQdus srael waltana koynu\nAqibna’yu mealti leyti\nAb dkhnet’wn ntehalina\nHabtamat ina zeygodelena\nAynemarrn msu ntekhoyna\nKabzi zbelts kbri alena\nMetsegina memekhina yu\nNguss nay kbri gnun goyta\nTerayu ab mesqel idu zergihu\nMun amlakh’yu beal wletat\nBetemeqdesu tsdqu ynegr\nYwj lomi abiy bsrat\nFtsum tm ilka mmrakh yelen\nGoyta ndequ ayhbn nmot\nSearti ina serawit mnet\nTahdid tselai zeyefrhana\nMs gedewon ftsum semirna\nShg nkwla teawitna ina\nTi medrekh kmel yu\nHadsh zmare hadsh msgana\nBegena hazu wtsu bllta\nZehagus qne gena’yu gena\nZeynetsf habti zeywda tsega\nTegonatsifna blegas goyta\nTsfi bezihna kab mamuq\nWetsina ina seytan krta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

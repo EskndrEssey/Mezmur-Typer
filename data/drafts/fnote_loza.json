@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0dbc1da599",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፍኖተ ሎዛ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፍኖተ ሎዛ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣስካላ ያዕቆብ ጉዕዞ መላእክት ምሳሌኺ\nንጉሥ ብምውላድ ንግስት ንምባል በቒዕኪ\nፍቕርኺ ንዓይ ከምሓዊ ኮይኑ ኣንዲዱኒ\nኪዳነ ምሕረት ቅዱስ ምልጃኺ ረዲኡኒ\n[[/chorus]]\n\nፍኖተ ሎዛ ኪዳነ ምሕረት ፍኖተ ሎዛ (2)\nኣብ መሪር ሕይወት ናትና መኣዛ\nዝፈረኽልና ናይ ዓለም ቤዛ\n\nናይ ገነት ደገ ብስለ ሔዋን ምስ ተዓጽወ\nብምኽንያትኪ ጉዕዞ ዕረፍተይ ዝተራሕወ\nመሳልል ኢኺ ካብ ሞት ናብ ሕይወት ዝሰግረላ\nጐይታ ወሊድኪ ንነፍሰይ ካብ ጸልማት ዘልዕላ\n\nናይ ኣምላኸይ ቤት ንስኺ ንነፍሰይ ኩርዓታ\nከቢዱኒሎ ብዙሕ'ዩ ቲ'ናትኪ ውዕለታ\nገብርኤል መጺኡ ሰላምታ ሂቡ ኣብሲሩኪ\nኪዳነ ምሕረት ቃላት ስኢኑ ንምግላጽኪ"
+    },
+    "ti_ro": {
+      "title": "Fnote loza",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Fnote loza kidane mhret fnote loza (2)\nAb merir hywet natna meaza\nZferekhlna nay alem beza\nAskala yaqob guzo melakt msalekhi\nNguss bmwlad ngst nmbal beqiki\nFqrkhi nay kemhawi koynu andiduni\nKidane mhret qdus mljakhi rediuni\nNay genet dege bsle hewan ms teatswe\nBmkhnyatki guzo reftey zterahwe\nMesall ikhi kab mot nab hywet zsegrela\nGoyta welidki nnefsey kab tselmat zella\nDege semayat haben aletna nfturat\nMahder nay amlakh grmaom ikhi nqdusat\nZtensakulki betel ikhi msalyawit\nBkhidan natki aybelann yu ti'arawit\nNay amlakhey bet nskhi nnefsey kurata\nKebidunilo bzuh'yu ti'natki wleta\nGebrel metsiu selamta hibu absiruki\nKidane mhret qalat sinu nmglatski"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

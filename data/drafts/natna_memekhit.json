@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_776a3887a8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናትና መመክሒት"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናትና መመክሒት",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣማን ብኣማን (2) ኣደ ናይ ጐይታና\nንኣምን በኣኺ ንምህጸን ብስምኪ ድንግል ኣማልድና\n[[/chorus]]\n\nናትና መመክሒት ኣምላኽ ዝወለድኪ (2)\nኦ ድንግል ኣዴና ዝተባረኪ’ኺ\n\nነቢያት ኩላቶም ድንግል ዝበሉኺ (2)\nደመና ናይ ኤልያስ ማርያም ንስኺ’ኺ\n\nሓዊ ከየንደዳ ሙሴ ዝረኣያ (2)\nዝለምለመት ቆጽሊ ድንግል ማርያም እያ"
+    },
+    "ti_ro": {
+      "title": "Natna memekhit",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nNatna memekhit amlakh zweledki (2)\n[[/chorus]]\n\nO dngl adena ztebareki’khi\nAman baman (2) ade nay goytana\nNamn beakhi nmhtsen bsmki dngl amaldna\nNebiyat kulatom dngl zbelukhi (2)\nDemena nay elyas maryam nskhi’khi\nAdiom ntsadqan haftom nmelakt(2)\nBnatki qalkidan rekhibna hywet\nHawi keyendeda muse zreaya (2)\nZlemlemet qotsli dngl maryam ya\nAde dnglna amlakh zhabeki (2)\nMhret awrdlna nana deqkhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

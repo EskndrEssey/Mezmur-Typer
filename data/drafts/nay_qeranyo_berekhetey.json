@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_5b8d21a383",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ቀራንዮ በረኸተይ"
+  },
+  "singer": "ዘማሪት ፍቅርተ ፈለቀ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ቀራንዮ በረኸተይ",
+      "zemari": "ዘማሪት ፍቅርተ ፈለቀ",
+      "lyrics": "[[chorus]]\nመሃረኒ'ባ ኣባ ሕርያቆስ\nጽዮን ንኽብላ ስማ ክቕድስ\nኤፍሬም ኣርእየኒ ናታ ምስጋና\nናታ ውዕለታት ስኢኑ መዘና\nአረ መን ኢለ ክሰምያ\nነዛ ናይ ምድሓን ደሃያ(2)\n[[/chorus]]\n\nናይ ቀራንዮ በረኸተይ\nመን ኢለ ክሰምያ እመቤተይ\nክገልጻ ስኢነ ቋንቋ\nዕጹብ'ያ ኢለያ በቃ (2)\n\nዙፋን እግዚአብሔር ቅድስት ከተማ\nቤልሆር ይርዕድ ድምጻ ክስማዕ\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ(2)\n\nዙፋን እግዚአብሔር ቅድስት ከተማ\nቤልሆር ይርዕድ ድምጻ ክስማዕ\nትሕቲ ሰማይ መን ማዕሬኺ\nቃላት ስኢነ ዕጹብ እብለኪ\nንስኺስ ፍልይቲ ኢኺ\nኣብ ዘመነይ ርኤኪ(2)"
+    },
+    "ti_ro": {
+      "title": "Nay qeranyo berekhetey",
+      "zemari": "zemarit fqrte feleqe",
+      "lyrics": "[[chorus]]\nTsub'ya ileya beqa (2)\n[[/chorus]]\n\nNay qeranyo berekhetey\nMen ile ksemya mebetey\nKgeltsa sine qwanqwa\nMehareni'ba aba hryaqos\nTsyon nkhbla sma kqds\nEfrem aryeni nata msgana\nNata wletat sinu mezena\nAre men ile ksemya\nNeza nay mdhan dehaya(2)\n\nHyabnetki teqebileye\nKem yohans wedi tesemye\nThti mesqelu aleni kidan\nNhat kbl semia bezan\nAnes ileki adey\nIkhi'mo berekhetey(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "chorus_check"
+  ]
+}

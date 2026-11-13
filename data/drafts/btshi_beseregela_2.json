@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b64eec90dc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብጽሒ በሰረገላ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብጽሒ በሰረገላ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nማርያም ድንግል       በሰረገላ\nተስፋኡ ንኣዳም\nለውሃቱ ንኣቤል\nታቦት ጽድቂ ናይ ኖህ\nመኣዛ ናይ ይስሓቅ\nሰዋስው ናይ ያዕቆብ\n[[/chorus]]\n\nብጽሂ በሰረገላ (2)\nከመታሕድርኒ (2) በብሔር ዘተድላ (2)\n\nከመታሕድርኒ (2) በብሔር ዘተድላ\nማርያም ድንግል     በሰረገላ\nናዛዚት ናይ ዮሴፍ\nጽላት ሕጊ ሙሴ\nበትሪ ናይ ኣሮን\nጸምሪ ናይ ጌዴዎን\nመሰንቆ ናይ ዳዊት\n\nማርያም ድንግል በሰረገላ\nጓል ኢያቄም ሃና\nጸናጽል ናይ ኣሮን\nናይ ዘካርያስ ሓጎስ\nንጽህቲ ኣዳራሽ\nናይ ነቢይ ሚልክያስ\n\nማርያም ድንግል በሰረገላ\nምስ ፍቑር ወድኺ\nኣብ መርዓ ዶኪማስ\nከምዝተረኸብኪ\nሎሚ እውን ንዒ\nመርዓና ባርኺ"
+    },
+    "ti_ro": {
+      "title": "BTshi beseregela",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "[[chorus]]\nBtshi beseregela (2)\n[[/chorus]]\n\nTesfau nadam\nLewhatu nabel\nTabot tsdqi nay noh\nMeaza nay yshaq\nSewasw nay yaqob\n\nNazazit nay yosef\nTslat hgi muse\nBetri nay aron\nTsemri nay gedewon\nMesenqo nay dawit\nMaryam dngl beseregela\nAkhlil nay selomon\nMesob werqi elyas\nQerni nay samuel\nTsw matso mbraq\nNay nebiy hzqel\nMaryam dngl beseregela\nGwal iyaqem hana\nTsenatsl nay aron\nNay zekaryas hagos\nNtshti adarash\nNay nebiy milkyas\nMaryam dngl beseregela\nNtseyti nay hywet\nNay silondis tebib\nFewasit aqusalu\nNnebiy nahom\nMgbaru nhenok\nMaryam dngl beseregela\nMs fqur wedkhi\nAb mera dokimas\nKemzterekhebki\nLomi wn ni\nMerana barkhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

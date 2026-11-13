@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_24acd3edb6",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣዘክሪ ድንግል"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣዘክሪ ድንግል",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nከም ዝወለድክዮ        ኣዘክሪ\nኣብ ቤተልሔም\nከም ዘደቀስክዮ\nኣብ መብልዒ ማል\nንኃጥኣን ኣይኮነን ንጻድቃን\n[[/chorus]]\n\nኣዘክሪ ድንግል ኣዘክሪ\nንጐይታ ሓብሪ ኣዘክሪ\nንኃጥኣን ኣይኮነን ንጻድቃን (2)\n\nበቲ ጊዜ ቁሪ         ኣዘክሪ\nከም ዝገበርክሉ\nናይ በጊዕን ላምን\nእስትንፋሶም ኵሉ\nንኃጥኣን ኣይኮነን ንጻድቃን\n\nኣብ መከራ ጐይታ         ኣዘክሪ\nንብዓት ከምዘፍሰስኪ\nገነት ንኽንኣቱ\nንሕና ደቅኺ\nንኃጥኣን ኣይኮነን ንጻድቃን"
+    },
+    "ti_ro": {
+      "title": "Azekri dngl",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "[[chorus]]\nNhatan aykonen ntsadqan (2)\n[[/chorus]]\n\nAzekri dngl azekri\nNgoyta habri azekri\nKem zweledkyo azekri\nAb betelhem\nKem zedeqeskyo\nAb mebli mal\nNhatan aykonen ntsadqan\nBeti gize quri azekri\nKem zgeberklu\nNay begin lamn\nStnfasom kwilu\nNhatan aykonen ntsadqan\nAb berekha gbtsi azekri\nKem ztesededki\nNayti merir harur\nTi kwilu tsegemki\nNhatan aykonen ntsadqan\nAb mekera goyta azekri\nNbat kemzefseski\nGenet nkhnatu\nNhna deqkhi\nNhatan aykonen ntsadqan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

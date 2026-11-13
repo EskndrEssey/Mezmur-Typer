@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_098b18cd3b",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መርዓዊ ሰማያዊ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መርዓዊ ሰማያዊ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nደናግል ተንስኣ መብራህትኽን ሓዛ\nመርዓዊ መጺኡ ብሓባር ዘምራ\nንወንጌል ሒዞም’ዮም ኩልና ንስዓቦም\nፍቕሪ ንኽረኽቡ ኣምላኽ ይባርኮም\n[[/chorus]]\n\nመርዓዊ ሰማያዊ (2)\nለእመገብረ በዓለ በዓለ እህ (3)\nንበሩ በሰላም (3) ክሳብ ዘለዓለም\n\nጻማ ናይ ድኻሞም (2)\nብርሃን ከብርህ’ዩ በዚ ሃይማኖቶም"
+    },
+    "ti_ro": {
+      "title": "Mer'awi semayawi",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nMerawi semayawi (2)\n[[/chorus]]\n\nLemegebre beale beale h (3)\nNberu beselam (3) ksab zelealem\nDenagl tensa mebrahtkhn haza\nMerawi metsiu bhabar zemra\nNwengel hizom’yom kulna nsabom\nFqri nkhrekhbu amlakh ybarkom\nTsama nay dkhamom (2)\nBrhan kebrh’yu bezi haymanotom"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

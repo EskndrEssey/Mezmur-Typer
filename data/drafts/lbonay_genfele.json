@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_821848012e",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ልቦናይ ገንፈለ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ልቦናይ ገንፈለ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nሰላምታ ንዓኺ ጽዮን ድንግል ኣደይ\nብልመና ናትኪ ድኂና ሕይወተይ\nብምሕረት ወድኺ ካብ ሞት ድኂነየ\nኣደ ናይ ኩላትና ክምስክረልኪየ (2)\n[[/chorus]]\n\nልቦናይ ገንፈለ ጽቡቕ ነገር ጥራይ\nኣነ ከመስግና ንማርያም ኣደይ\nብውሑድ ደኣ እምበር ብብዙሕ ኣይኮነን\nኣማላዲት ዓለም ድንግል ማርያም ኣደይ\n\nመርከብ ናተይ ኢኺ መዕረፊት ጽላለይ\nካብ ጸላእተይ ኩሎም ጋራዲት ሕይወተይ\nርስቲ ናይ ቀራንዮ ኣደይ ኢኺ ናተይ\nከመስግነኪየ ኣብ ዘመን ሕይወተይ (2)\n\nንጉሥ ጽባቐኺ ብሂጉ ኣፍቂሩ\nትሕትናኺ ርእዩ ኣባኺ ሓዲሩ\nወርቂ ተሰሊምኪ ኣብ ቅድሚኡ ቆይምኪ\nንዅሉ ወለዶ መመክሒት ኢኺ (2)"
+    },
+    "ti_ro": {
+      "title": "Lbonay genfele",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "[[chorus]]\nAde nay kulatna kmskrelkiye (2)\n[[/chorus]]\n\nLbonay genfele tsbuq neger tray\nAne kemesgna nmaryam adey\nBwhud dea mber bbzuh aykonen\nAmaladit alem dngl maryam adey\nSelamta nakhi tsyon dngl adey\nBlmena natki dhina hywetey\nBmhret wedkhi kab mot dhineye\nMerkeb natey ikhi merefit tslaley\nKab tselatey kulom garadit hywetey\nRsti nay qeranyo adey ikhi natey\nKemesgnekiye ab zemen hywetey (2)\nHabtamat nay mdri ab fitki segedu\nHayalat nay alem kulom tewaredu\nFqri adenetki shibuni yu\nMe amlak hadera nay temelketi (2)\nNguss tsbaqekhi bhigu afqiru\nThtnakhi ryu abakhi hadiru\nWerqi teselimki ab qdmiu qoymki\nNkwilu weledo memekhit ikhi (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

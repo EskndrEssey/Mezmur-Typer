@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b216d0e4cc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣብ ኣምበላይ ፈረስ"
+  },
+  "singer": "ዘማሪት ምርትነሽ ጥላሁን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣብ ኣምበላይ ፈረስ",
+      "zemari": "ዘማሪት ምርትነሽ ጥላሁን",
+      "lyrics": "[[chorus]]\nከም ነበልባል እሳት ዓይኑ የብርህ ኣብ ሰማይ\nኮኾብ ጽባሕ ንስሪ እዩ ኢየሱስ ኤልሻዳይ\nንበርባሮስ በርቢሩ ንማዕሙቕ ዝፈተሸ\nኣኽተመ ሞተ እንክብሉ ተዓዊቱ ነገሰ\n[[/chorus]]\n\nኣብ ኣምበላይ ፈረስ ኣብ ጽዮን ዝረኣኹኻ\nኣብ ኣምበላይ ፈረስ ኣብ ራእይ ዝረኣኹኻ\nኢየሱስ ወዲ እግዚአብሔር ፍትወይ ክበረለይ\nኢየሱስ ወዲ ማርያም ፍቁረይ ንገሰለይ\n\nሸውዓተ ዕጽፊ ጸሓይ ንልብና ኣብርሃ\nከፍርሶ’ውን ተገልጸ ንናይ ዲያብሎስ ስራሕ\nኩነኔ ንብዓት ኮነ ነበረ ኣይነበረ\nሰዓቱ ምስ ኣኸለ ዲያብሎስ ተሳዕረ\n\nተፈለናሉ ንሕናስ ንኣምልኾ ንምስጋና\nንንጉሥ ማሪኹ’ሎ ፍረ ናይ ከናፍርና\nጸጸር ኣየቐምጥን መሊኡ ኵሉ ቦታ\nንዘምልኹ ብጽድቂ ስለ ዘብዝሐ ጐይታ"
+    },
+    "ti_ro": {
+      "title": "Ab ambelay feres",
+      "zemari": "zemarit mrtnesh Tlahun",
+      "lyrics": "Ab ambelay feres ab tsyon zreakhukha\nAb ambelay feres ab ray zreakhukha\nIyesus wedi gziabher ftwey kbereley\nIyesus wedi maryam fqurey ngeseley\nKem nebelbal sat aynu yebrh ab semay\nKokhob tsbah nsri yu iyesus elshaday\nNberbaros berbiru nmamuq zfeteshe\nAkhteme mote nkblu teawitu negese\nShewate tsfi tsehay nlbna abrha\nKefrso’wn tegeltse nnay diyablos srah\nKunene nbat kone nebere aynebere\nSeatu ms akhele diyablos tesare\nNay werqi zengi hizu nahzab ygez\nBmhret byqreta nhayalat yefzz\nFqru lewituni’yu marikhwa nnefsey\nFeres brhan zelewo goyta beal ambelay\nTefelenalu nhnas namlkho nmsgana\nNnguss marikhu’lo fre nay kenafrna\nTsetser ayeqemtn meliu kwilu bota\nNzemlkhu btsdqi sle zebzha goyta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

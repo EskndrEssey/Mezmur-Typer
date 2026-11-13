@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_bc52891148",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ስምኪ ጸዊዖም"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ስምኪ ጸዊዖም",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nብቤተክርስቲያን ኣብ ቅድሚ ኣምላኾም\nብሥጋ ወደሙ ሓደ ኣካል ኮይኖም\nነዚ ክንርኢ ኣምላኽ ዘብቅዓና\nክብሪ ምስጋና ንልዑል ጐይታ\nኣምላኽ ብሓቂ ይኽበር ይመስገን\nብቅዱስ ቁርባን ሎሚ ተመርዕዮም\nይሃብኩም ሎሚ መድኃኔዓለም\nዕድመ ማቱሳላ ከመ አብርሃም\n[[/chorus]]\n\nስምኪ ጸዊዖም መዓስ ሓፊሮም\nማርያም ኢሎም ኣበይ ወዲቖም\nስምኪ ኢዩ’ሞ ስንቂ ኮይንዎም\nእንሆ ምስጋና ተቐበልዮም\n\nምሳኻ ትነብር ሓፍቲ ረኺብካ\nናትና መርዓዊ እንቛዕ ደስ በለካ\nእግዚአብሔር ኣብዚ ዘብጻሓና\nገዛካ ይመርቕ ብፍቕሪ የንብርካ\nሓዊ ረኺብኪ ዝሓስብ ንዓኺ\nናትና መርዓት እንቋዕ ደስ በለኪ\nጐይታ ይመስገን ደስ ኢሉና ኣሎ\nኣብ ቤተክርስቲያን መርዓኦም ርኢና"
+    },
+    "ti_ro": {
+      "title": "Smki Tsewi'om",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Smki tsewiom meas hafirom\nMaryam ilom abey wediqom\nSmki iyu’mo snqi koynwom\nNho msgana teqebelyom\nBbetekrstiyan ab qdmi amlakhom\nBssga wedemu hade akal koynom\nNezi knri amlakh zebqana\nKbri msgana nlul goyta\nAmlakh bhaqi ykhber ymesgen\nBqdus qurban lomi temeryom\nYhabkum lomi medhanealem\nDme matusala keme abrham\nMsakha tnebr hafti rekhibka\nNatna merawi nqwa des beleka\nGziabher abzi zebtsahana\nGezaka ymerq bfqri yenbrka\nHawi rekhibki zhasb nakhi\nNatna merat nqwa des beleki\nGoyta ymesgen des iluna alo\nAb betekrstiyan meraom rina\nBalti grma dngl ade goyta\nMkhnyat mdhan nay adam tesfa\nSmki ktswu ab gize hagosom\nMsom lgebi mbatsyon tsegom\nMetan keytefu zekhtam keykonu\nGziabher sq aybelomn\nAmlakh ymesgen dl alewom\nBqdus qurban lomi temeryom"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

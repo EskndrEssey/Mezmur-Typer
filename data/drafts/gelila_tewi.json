@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_0005a20994",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ገሊላ እተዊ"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ገሊላ እተዊ",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nድንግል ማርያም ኣደይ ገሊላ እተዊ\nስደት ይኣኽለኪ\nሄሮድስ ምስ ሞተ\nገብርኤል ኢሉኪ\nናብ ሃገርኪ ንዒ\nካብ ባዕድ ሃገር ውጺ\nብሰረገላ እሳት\nዑራኤል ቅድሜኺ\nናብ ሃገርኪ ገሊላ እተዊ (2)\n[[/chorus]]\n\nድንግል ማርያም ክሳዕ መዓስ\nተሰዲድኪ እትነብሪ\nገሊላ እተዊ (4) ናብ ሃገርኪ ገሊላ እተዊ\n\nንጐይታ ዝናማት       ገሊላ እተዊ\nኣዲኡ እንከለኺ\nሰይጣን ኣብ ሰብ ኮይኑ\nንማይ ከልኪሉኪ\nጽምእኺ ጸኒዑ\nመከራ በርቲዑ\nይኣክል መከራ\nጽምኢ ጥሜት ኵሉ\nናብ ገሊላ ንዒ\nንስደት ባሪኽኪ\nናብ ሃገርኪ ገሊላ እተዊ(2)"
+    },
+    "ti_ro": {
+      "title": "Gelila 'tewi",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "[[chorus]]\nNab hagerki gelila tewi (2)\n[[/chorus]]\n\nDngl maryam ksa meas\nTesedidki tnebri\nGelila tewi (4) nab hagerki gelila tewi\nDngl maryam adey gelila tewi\nSdet yakhleki\nHerods ms mote\nGebrel iluki\nNab hagerki ni\nKab bad hager wtsi\nBseregela sat\nUrael qdmekhi\nNgoyta znamat gelila tewi\nAdiu nkelekhi\nSeytan ab seb koynu\nNmay kelkiluki\nTsmkhi tseniu\nMekera bertiu\nYakl mekera\nTsmi tmet kwilu\nNab gelila ni\nNsdet barikhki\nNab hagerki gelila tewi(2)\nNay sematat akhlil gelila tewi\nMoges nay qdusan\nNabay’wn ybtsah\nTi’natki berekhet\nNakhi mebrhan\nNweladite qal\nGztne maryam\nMu leadonay\nZi kwilu aygban\nMekeran sqayn\nNab hagerki gelila twi (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1c9f93681c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብመንን እንታይን"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብመንን እንታይን",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nናይ ሲና ዕጸ ጳጦስ ሙሴ ዝረኣየኪ\nጐይታ ዝወለድኪ ድንግል ደስ ይበልኪ\nናይ ሔዋን መድኃኒት ድንግል ማርያም\nክብሪ ይግበኣኪ ክሳብ ዘልዓለም\n[[/chorus]]\n\nብመንን እንታይን ድንግል ክንምስለኪ\nወላዲተ አምላክ ተስፋና’ኺ ንስኺ\nኣደ ኣማኑኤል ምስጋና ይብጻሕኪ\n\nሐመረ ኖህ ድንግል ናይ ቃልኪዳን ኣርማ\nቀስተ ደመና’ያ ናይ ምሕረት ከተማ\nንጽዮን ሓረያ መሕደሪኡ ክትከውን\nጥበቡ ድንቂ’ዩ ኣምላኽ ናይ ቅዱሳን\n\nውዕለታ ብዙሕ’ዩ እንታይ’ለ ክነግር\nካብ ጭንቀት ተውጽእ ካብ መከራ ሽግር\nዓንጋሊት ከርሲ’ያ ናይ ሰማይ መና\nንማርያም ኣዴና ንዑ ነመስግና"
+    },
+    "ti_ro": {
+      "title": "Bmenn 'ntayn",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Bmenn ntayn dngl knmsleki\nWeladite amlak tesfana’khi nskhi\nAde amanuel msgana ybtsahki\nNay sina tse patos muse zreayeki\nGoyta zweledki dngl des ybelki\nNay hewan medhanit dngl maryam\nKbri ygbeaki ksab zelalem\nHamere noh dngl nay qalkidan arma\nQeste demena’ya nay mhret ketema\nNtsyon hareya mehderiu ktkewn\nTbebu dnqi’yu amlakh nay qdusan\nAbesa zeybla nay selus grat\nAb hlina amlakh kab tnti neberet\nAb genet trkeb nay kbri qendel\nNi ni dngl abakhi netsll\nWleta bzuh’yu ntay’le knegr\nKab chnqet tewts kab mekera shgr\nAngalit kersi’ya nay semay mena\nNmaryam adena nu nemesgna"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

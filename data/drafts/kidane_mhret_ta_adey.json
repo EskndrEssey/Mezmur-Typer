@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_9b48caaaf8",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኪዳነ ምሕረት እታ ኣደይ"
+  },
+  "singer": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኪዳነ ምሕረት እታ ኣደይ",
+      "zemari": "ቀሲስ ኣሸናፊ ገ/ማርያም",
+      "lyrics": "[[chorus]]\nኣደይ ሰብ ኮይነ`የ ብፍቕርኺ\nካብ ስቓይ ድኂነ ብወድኺ\nስምኪ ክጽውዕ ቀትሪ ለይቲ\nሕይወተይ ክረኽበላ ዕረፍቲ\n[[/chorus]]\n\nኪዳነ ምሕረት እታ ኣደይ\nመጸናንዒት ኣብ ሓዘነይ(2)\nሽግረይ ጭንቀተይ ስዒረዮ\nፍቕርኺ ድንግል ሃሪፈዮ(2)\nኣብ ሓዘነይ ረዳኢት\nኣብ ሽግረይ ንዒ ኣደይ(2)\n\nናፊቐኪ ኣለኹ ድንግል ኣደይ\nካብ ሊባኖስ ንዒ ረዳኢተይ\nናይ ሓደራ ቆልዓየ ውሉድ ናትኪ\nእንሆ መዝሙር የቕርበልኪ\n\nብኃጢአት ከይነብር ናተይ ሕይወት\nሰላምኪ ልኣኺ ንግሆ ምሸት\nንስእልኺ ኵሉ ሓቒፉ ኣሎ\nንብርሃን ወድኺ ናፊቑ ኣሎ"
+    },
+    "ti_ro": {
+      "title": "Kidane mhret 'ta adey",
+      "zemari": "qesis ashenafi ge/maryam",
+      "lyrics": "[[chorus]]\nMetsenanit ab hazeney(2)\n[[/chorus]]\n\nKidane mhret ta adey\nShgrey chnqetey sireyo\nFqrkhi dngl harifeyo(2)\nAb hazeney redait\nAb shgrey ni adey(2)\nAdey seb koyne`ye bfqrkhi\nKab sqay dhine bwedkhi\nSmki ktsw qetri leyti\nHywetey krekhbela refti\nNafiqeki alekhu dngl adey\nKab libanos ni redaitey\nNay hadera qolaye wlud natki\nNho mezmur yeqrbelki\nFqrkhi fluy`yu anti mebetey\nMsakhi’yu zelo hasabatey\nAb yeman krstos zqomkley\nNftretat kwilu reqley\nBhatiat keynebr natey hywet\nSelamki lakhi ngho mshet\nNslkhi kwilu haqifu alo\nNbrhan wedkhi nafiqu alo"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

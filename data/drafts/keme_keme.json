@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_27ee797869",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ከመ ከመ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ከመ ከመ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣብርሃም ተሰደ ከመ ከመ\nኣምላኹ ኣሚኑ\nከም ሑጻ ከብዝሖ\nልክዕ ከም ኪዳኑ\nንሳራ’ውን ሃቦ\nክትኮኖ ኣሚኑ\nይረስየክሙ (2) ከመ ከመ\n[[/chorus]]\n\nከመ ከመ/2 /\nኣብርሃም ወሳራ\n\nመርዓውን መርዓትን ከመ ከመ\nእንቋዕ ሓጎሰኩም\nኣምላከ ኣብርሃም\nኮይኑ’ሎ ምሳኹም\nንዑ ነመስግኖ\nነዚ ፈጣሪኹም\nክንልምኖ ኢና\nከርእየና ፍሬኹም\nይረስየክሙ (2) ከመ ከመ"
+    },
+    "ti_ro": {
+      "title": "Keme keme",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Keme keme/2 /\nAbrham wesara\nAbrham tesede keme keme\nAmlakhu aminu\nKem hutsa kebzho\nLk kem kidanu\nNsara’wn habo\nKtkono aminu\nYresyekmu (2) keme keme\nMerawn meratn keme keme\nNqwa hagosekum\nAmlake abrham\nKoynu’lo msakhum\nNu nemesgno\nNezi fetarikhum\nKnlmno ina\nKeryena frekhum\nYresyekmu (2) keme keme\nBlmad aykonen keme keme\nBgwaylan dankeran\nTrgum zelewo’yu\nMera nay gelila\nZeqn bhaqi\nKemzi nzmne\nBmezmur nay yared\nMenfesawi qne\nYresyekmu (2) keme keme"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_53525febad",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሕዝቅኤል ዝበላ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሕዝቅኤል ዝበላ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nናይ ድኅነት ምልክት ንጽህቲ ኣዴና\nካብ ኣምላኽ ብሓጢኣት ርሒቕና ነበርና\nምሳና ክዕረቕ ሞንጎኛ ጌርዋ\nንዑ ነመስግና\n[[/chorus]]\n\nሕዝቅኤል ዝበላ ዕጽውቲ ገዛ\nኣትዩ ዝወጸላ ጐይታ ብዕጽውታ\nናይ ኣምላኽ ማሕደር`ያ\nማንም ዘይኣትዋ ንጽህቲ ኣዴና\n\nገብርኤል ብስራት ኣበሲርዋ\nደስ ይበልኪ ድንግል ተፈስሂ ኢልዋ\nናይ ዓለም መድኃኒት ኣባኺ ሓዲሩ\nክውለድ’ዩ ኢልዋ\n\nብመንን እንታይን ክንምስለኪ\nዕጹብ ድንቂ እዩ ድንግል’ቲ ስራሕኪ\nኣባ ህርያቆስ ከም ዘመስገነኪ\nድንግል ክብርቲ ኢኺ"
+    },
+    "ti_ro": {
+      "title": "Hzqel zbela",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Hzqel zbela tswti geza\nAtyu zwetsela goyta btswta\nNay amlakh mahder`ya\nManm zeyatwa ntshti adena\nNay dhnet mlkt ntshti adena\nKab amlakh bhatiat rhiqna neberna\nMsana kreq mongonya gerwa\nNu nemesgna\nGebrel bsrat abesirwa\nDes ybelki dngl tefeshi ilwa\nNay alem medhanit abakhi hadiru\nKwled’yu ilwa\nKab ansti kulen ztefetekhi\nNay sat melekot mehderi zkhonki\nDngl bhlina dngl bsgakhi\nMen alo kemakhi\nBmenn ntayn knmsleki\nTsub dnqi yu dngl’ti srahki\nAba hryaqos kem zemesgeneki\nDngl kbrti ikhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

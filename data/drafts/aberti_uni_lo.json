@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_34598138ec",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኣበርቲዑኒ’ሎ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኣበርቲዑኒ’ሎ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nበገናይ ኣልዒለ ክጽውዕ ንስምካ\nጐይታ ኣበርቲዑኒ’ቲ ቅዱስ መንፈስካ\nፍጹም ዘይትሓድግ ኣምላኽ መድኃኔ ዓለም\nከመስግነካ’የ ክዝምር ዘልዓለም\n[[/chorus]]\n\nኣበርቲዑኒ’ሎ ፍቕርኻ\nኣበርቲዑኒ’ሎ ሓይልኻ\nብጸጋ ድኂነ ብስምካ\nክነብር’የ ኣነ ኣብ ቤትካ\n\nብስምካ ኣሚነ ዓወት’ዩ መንገደይ\nናይ ወንጭፈይ እምኒ ንስኻ ኢኻ ሓይለይ\n‘ቲ ናይ ሳኦል ካባ ከም ዝደርበኻለይ\nንጸላእተይ ኩሎም ጐይታ ኣሕፍረለይ\n\nፍጹም ኃጥእ ኢልካ ሸለል ኣይበልካንን\nክፉእ ብምግባረይ ጐይታ ኣይፈረድካንን\nእሞ ውሬታይሲ ብምንታይ ክመልሶ\nኣብ መቕደስካ ኣትየ ስምካ ክውድሶ"
+    },
+    "ti_ro": {
+      "title": "Aberti'uni’lo",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "Abertiuni’lo fqrkha\nAbertiuni’lo haylkha\nBtsega dhine bsmka\nKnebr’ye ane ab betka\nBegenay alile ktsw nsmka\nGoyta abertiuni’ti qdus menfeska\nFtsum zeythadg amlakh medhane alem\nKemesgneka’ye kzmr zelalem\nBsmka amine awet’yu mengedey\nNay wenchfey mni nskha ikha hayley\n‘Ti nay saol kaba kem zderbekhaley\nNtselatey kulom goyta ahfreley\nSamrawit knesey fewsi zkhonkani\nKab ayhud kemakha menyu zefqereni\nNmstirey kwilu goytay negirkani\nKwilu gdef belka nay seabeni\nFtsum hat ilka shelel aybelkann\nKfu bmgbarey goyta ayferedkann\nMo wretaysi bmntay kmelso\nAb meqdeska atye smka kwdso"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

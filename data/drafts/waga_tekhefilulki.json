@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_c1cea1a81f",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ዋጋ ተኸፊሉልኪ"
+  },
+  "singer": "ዘማሪት ወርቅነሽ ሃይሉ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ዋጋ ተኸፊሉልኪ",
+      "zemari": "ዘማሪት ወርቅነሽ ሃይሉ",
+      "lyrics": "[[chorus]]\nመን’ዩ ሰሚዑ ዝበጽሐ ኣብ ሽግርኪ\nረጊጹ ቀጥቂጡ ሰይጣን ምስ ገዝኣኪ\nተሳቕዩ ብዙሕ ካብ ሞት ዘድሓነኪ\nመድኃኔ ዓለም ‘ዩ ገባሪ ውዕለትኪ\n[[/chorus]]\n\nዋጋ ተኸፊሉልኪ\nኣምላኽ ተሰቒሉልኪ\nነጻ ወጺእኪ ሎሚ\nነፍሰይ ንኣምላኽ ዘምሪ\n\nይበርህ ይደምቕ መሊሱ ይድብን\n`ቲ መቕርብ ናይ ሎሚ ጽባሕ ኣይርከብን\nጐይታ ግን ሓይልኺ ናይ ምንባርኪ ትርጉም\nስልማት ክብርኺ እዩ ናትኪ ሰላም\n\nሞቑሕ ተሰይሩ ሞት ስልጣን ሰኣነ\nካብ ባርነት ሲኦል ፍጥረት ሓራ ኮነ\nዘምሪ ንጐይታ ዘምሪ ንስሙ\nተሓጺብኪ ኢኺ በቲ ቅዱስ ደሙ"
+    },
+    "ti_ro": {
+      "title": "Waga tekhefilulki",
+      "zemari": "zemarit werqnesh haylu",
+      "lyrics": "Waga tekhefilulki\nAmlakh teseqilulki\nNetsa wetsiki lomi\nNefsey namlakh zemri\nMen’yu semiu zbetsha ab shgrki\nRegitsu qetqitu seytan ms gezaki\nTesaqyu bzuh kab mot zedhaneki\nMedhane alem ‘yu gebari wletki\nYberh ydemq melisu ydbn\n`Ti meqrb nay lomi tsbah ayrkebn\nGoyta gn haylkhi nay mnbarki trgum\nSlmat kbrkhi yu natki selam\nAytbedli ikhi nefsey nmedhn\nHara awtsiuki yu nay alem brhan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

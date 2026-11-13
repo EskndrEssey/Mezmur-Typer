@@ -1,0 +1,44 @@
+{
+  "id": "h_efr_ba610f333a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ፍቕርኻ ዓቢይ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ፍቕርኻ ዓቢይ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣብ ሜዳታት ዓለም ጊዜይ ኣባኺነ\nብፍትወት ናይ ስጋ ቅድስና ስኢነ\nንስኻ ግን (2) ጐይታይ ናባይ ነዓ ኢልካኒ\nኣብ ትሕቲ ኣእዳውካ ፍጹም ኣዕቚብካኒ\nኣብ ውሽጢ ሕቑፎኻ ፍቕሪ መሊእካኒ\n[[/chorus]]\n\nፍቕርኻ ዓቢይ’ዩ ክኸፍሎ ከቢዱ\nጐይታይ ‘ቲ ምሕረትካ ካብ ሰማይ ወሪዱ\nበሪሃ ደሚቓ ሽምዓይ ተወሊዓ\nብሳላኻ ጐይታይ ሕይወተይ ተቢዓ\n\nመዓስ እሞ ጐይታይ ተረዲኤ ኣነ\nዓመታት ከቑጽር ኣብ ኣጸድካ ኮይነ\nሕጂ ግና (2) ፍቕርኻ ሰሪጹ ኣብ ልበይ\nጨው ተወሲኽዋ መቂራ ሕይወተይ\nጐይታየ ተመስገን ናተይ መድኃኒየይ\n\nዕልልታን መዝሙርን ካብ ልበይ ገንፊሉ\nብደሃይ ቃላትካ ኣካለይ ዘሊሉ\nእወ ኵሉ (2) ካባኻ እንድዩ ‘ቲ ነባሪ ሕይወት\nዓይኒ ዘይረኣዮ ብልቢ ሰብ ዘይግመት\nእዝኒ ዘይሰምዖ ናይ ፍቕርኻ ውህበት\nንዑ ተመሓሩ ደብረ ፀሐይ ቅዱስ ገብርኤል (ሠላሳ\nኣምስተኛ)"
+    },
+    "ti_ro": {
+      "title": "Fqrkha 'abiy",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Fqrkha abiy’yu kkheflo kebidu\nGoytay ‘ti mhretka kab semay weridu\nBeriha demiqa shmay tewelia\nBsalakha goytay hywetey tebia\nAb medatat alem gizey abakhine\nBftwet nay sga qdsna sine\nNskha gn (2) goytay nabay nea ilkani\nAb thti adawka ftsum aqwabkani\nAb wshti hqufokha fqri melikani\nMeas mo goytay teredie ane\nAmetat kequtsr ab atsedka koyne\nHji gna (2) fqrkha seritsu ab lbey\nChew tewesikhwa meqira hywetey\nGoytaye temesgen natey medhaniyey\nBrhan yu getska ztemela fqri\nNab hatan ztmt rshatom ketsri\nBrhatska (2) goytay kefilkaley waga\nBeti qdus demka nefsey teadiga\nKab siol wetsia nab genet ariga\nLltan mezmurn kab lbey genfilu\nBdehay qalatka akaley zelilu\nWe kwilu (2) kabakha ndyu ‘ti nebari hywet\nAyni zeyreayo blbi seb zeygmet\nZni zeysemo nay fqrkha whbet\nNu temeharu debre tsehay qdus gebrel (selasa\nAmstenya)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "needs_review": [
+    "repeat_markers"
+  ]
+}

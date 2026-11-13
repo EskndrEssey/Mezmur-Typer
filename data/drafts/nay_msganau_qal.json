@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_adea7f75f0",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ናይ ምስጋናኡ ቃል"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ናይ ምስጋናኡ ቃል",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nኣምላከ ቅዱሳን ኣሎ ምሳና\nእቲ ዝሃበና ናይ ጥበቡ ዜና\nምስጋናኡ ነቕርብ ኣብ ውሽጢ ልብና\nመንክር ኃያል ኣምላኽ’ዩ ትጉህ ጓሳና\n[[/chorus]]\n\nናይ ምስጋናኡ ቃል ካብኡ ይመጽእ\nናይ ውዳሴ ምንጪ ካብኡ ይወጽእ (2)\nኵሉ ብእኡን ካብኡን ንዕኡን\nኣሜን ስብሐት ይኹኖ ብውዳሴኡ (2)\n\nኵሉ ዝመልኽ ብባህሪኡ\nኣይርከብን ፍጹም ከምኡ\nበረኸት ሂቡና ምሉእ ጸጋኡ\nክብሪ ንዘልዓለም ነቕርብ ንዕዑ\n\nናብ ጽርሓ ኣርያም . . ."
+    },
+    "ti_ro": {
+      "title": "Nay msganau qal",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nNay wdase mnchi kabu ywets (2)\n[[/chorus]]\n\nNay msganau qal kabu ymets\nKwilu bun kabun nun\nAmen sbhat ykhuno bwdaseu (2)\nAmlake qdusan alo msana\nTi zhabena nay tbebu zena\nMsganau neqrb ab wshti lbna\nMenkr hayal amlakh’yu tguh gwasana\nKwilu zmelkh bbahriu\nAyrkebn ftsum kemu\nBerekhet hibuna mlu tsegau\nKbri nzelalem neqrb nu\nNab tsrha aryam nu gesgsu\nHaleluya nbel ab qdus meqdesu\nAb tefer sltanu nsu negisu\nGoyta khbena mlu mogesu\nNab tsrha aryam . . ."
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

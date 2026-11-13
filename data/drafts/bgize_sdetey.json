@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b2245a9372",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብጊዜ ስደተይ"
+  },
+  "singer": "ዲ/ን ተስፋዓለም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብጊዜ ስደተይ",
+      "zemari": "ዲ/ን ተስፋዓለም",
+      "lyrics": "[[chorus]]\nንስምኪ ክጽውዕ ይቐስን ‘ቲ ልበይ\nሓሳበይ ይሰምር ቲ’ባህጊ ድልየተይ\nሕጉስ’የ በኣኺ ድንግል ወላዲተይ\nስለዝኾንኪ ዋሕስ ናይ ሕይወተይ\n[[/chorus]]\n\nብጊዜ ስደተይ ተስፋ ትኾንኒ/ና\nሓዘነይ ቀንጢጥኪ ግርማ ተልብስኒ/ና\nማርያም ረዳኢተይ ጸግዐይ ጽላለይ መመክሒተይ (2)\n\nንቓላት ወድኺ ብፍጹም ክእዘዝ\nበረኸት ክረክብ በቲ ናትኪ ሓገዝ\nካብቲ ማይ ሕይወት ቀጻሊ ዝውሕዝ\nክሰቲ ርድእኒ ሰላመይ ክዓዝዝ\n\nእንተተናወጸት ዓለም ከም ባሕሪ\nመልክዓ ትቐይር በቲ ክፉእ ግብሪ\nክዝምረልኪ’የ ውዕለትኪ ከውሪ\nማርያም እናበልኩ ንኽለብስ ክብሪ"
+    },
+    "ti_ro": {
+      "title": "Bgize sdetey",
+      "zemari": "di/n tesfa'alem",
+      "lyrics": "[[chorus]]\nMaryam redaitey tsegay tslaley memekhitey (2)\n[[/chorus]]\n\nBgize sdetey tesfa tkhonni/na\nHazeney qentitki grma telbsni/na\nNsmki ktsw yqesn ‘ti lbey\nHasabey ysemr ti’bahgi dlyetey\nHgus’ye beakhi dngl weladitey\nSlezkhonki wahs nay hywetey\nNqalat wedkhi bftsum kzez\nBerekhet krekb beti natki hagez\nKabti may hywet qetsali zwhz\nKseti rdni selamey kazz\nKab dqas alem teberabrni\nBhatiat keywedq neay tmerhni\nWedkhi’ye ane seabi yohans\nBetey’wn tewi grma albsni\nNtetenawetset alem kem bahri\nMelka tqeyr beti kfu gbri\nKzmrelki’ye wletki kewri\nMaryam nabelku nkhlebs kbri"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

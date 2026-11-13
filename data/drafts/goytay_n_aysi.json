@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_a24b9e92bb",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጐይታይ ንዓይሲ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጐይታይ ንዓይሲ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nፍሉይ ፍቕሪ’ዩ ኣብ ልዕለይ ኣባይ ዘለካ\nክትባርኸኒ ኣብ ቤተይ ቆጸራ ጌርካ\nክንዲ ዘፍቀርካ ኣነ ግን ኣሳዲደካ\nርፍራፍ ሃበኒ ዝበልካ ንስኻ ኢኻ(2)\n[[/chorus]]\n\nጐይታይ ንዓይሲ ክንደይ ትፈትወኒ\nነዳይ መሲልካ ቤተይ መጺኻኒ\n\nካበይ ኮነለይ ጐይታየ ክትኣቱ ቤተይ\nገዛይ መሊኡ በረኸት በዚሑ ጸጋይ\nኣይንዓቕካንን ብፍጹም ኃጥእ’ዩ ኢልካ\nክንደይ ይዓዝዝ ጐይታየ እቲ ለውሃትካ(2)\n\nኣይሕወስን’የ ምስ ሰዶም ምስ ሰብ ጎሞራ\nሞት’ዩ ትርፉ ናይ ኃጢኣት ሽግር መከራ\nይጽበለ’ኹ ጐይታየ ከፊተ ቤተይ\nስደደለይ ኢኻ መልኣኽካ ርድኣኒ ጐይታይ (2)"
+    },
+    "ti_ro": {
+      "title": "Goytay n'aysi",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "[[chorus]]\nRfraf habeni zbelka nskha ikha(2)\n[[/chorus]]\n\nGoytay naysi kndey tfetweni\nNeday mesilka betey metsikhani\nFluy fqri’yu ab lley abay zeleka\nKtbarkheni ab betey qotsera gerka\nKndi zefqerka ane gn asadideka\nKabey koneley goytaye ktatu betey\nGezay meliu berekhet bezihu tsegay\nAynaqkann bftsum hat’yu ilka\nKndey yazz goytaye ti lewhatka(2)\nAybelnye nbeyney bzeyka neday\nSeytan knedd bftsum khgos goytay\nTegelitskaley ab meret bsslasekha\nTemelkitka ikha goytaye wrdet baryakha(2)\nAyhwesn’ye ms sedom ms seb gomora\nMot’yu trfu nay hatiat shgr mekera\nYtsbele’khu goytaye kefite betey\nSdedeley ikha melakhka rdani goytay (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_bccfe49bd7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሰማያዊ ብርሃን"
+  },
+  "singer": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሰማያዊ ብርሃን",
+      "zemari": "ሊቀ መላእክት ኣገልጋሊ ጐይታይ",
+      "lyrics": "[[chorus]]\nመጥምቀ መለኮት ሓያል ንእምነቱ ተባዕ ንመትከሉ\nቃላቱ ዘንድድ ርትዒ ኣጎልቢቡ\nንሰይፊ ዝሓልፍ ኣምላኹ ኣሚኑ\nይኹነለይ ድርብ ኣርኣያ ሕይወቱ\n[[/chorus]]\n\nሰማያዊ ብርሃን ቅዱሳን ለቢሶም\nምስሊ ከዋኽብቲ ንሰማይ ኣድሚቖም\nኣሰሮም ስዒበ ከማእዝን ሕይወተይ\nልዑል እግዚአብሔር ግዝኣዮ ንልበይ\n\nሓዋርያ ጳውሎስ ስቡር ቅጥቁጥ ልቢ\nጽንዓት ዝወነነ ጽላሎት ኣካሉ ሕሙማት ዘሕወየ\nብዘደንቕ መንፈስ ጉያኡ ዛዚሙ\nሓዲዱ ይሰረት ብማዕዶይ ደሚቑ\n\nአቡነ እንድርያስ ፍርሓት እግዚእብሔር ዝዓዘዘ ኣብ ልቡ\nመዓሙቕ እምነቱ ንብርሃን ገጢሙ\nፍጹም ቅድስና ኣኽሊል ዝደፍአ\nበረኸት ክወስድ ኣምላኽ ኣባይ ዕየ"
+    },
+    "ti_ro": {
+      "title": "Semayawi brhan",
+      "zemari": "liqe mela'kt agelgali goytay",
+      "lyrics": "Semayawi brhan qdusan lebisom\nMsli kewakhbti nsemay admiqom\nAserom sibe kemazn hywetey\nLul gziabher gzayo nlbey\nMetmqe melekot hayal nmnetu teba nmetkelu\nQalatu zendd rti agolbibu\nNseyfi zhalf amlakhu aminu\nYkhuneley drb araya hywetu\nHawarya pawlos sbur qtqut lbi\nTsnat zwenene tslalot akalu hmumat zehweye\nBzedenq menfes guyau zazimu\nHadidu yseret bmadoy demiqu\nQdus giyorgis tswa mot chelitu\nHywet zsekhua sgau nkmter mnet zeyegudele\nAsbi sematnet brhan tewenzifu\nLomi kmerhani sdedo feresu\nAbune ndryas frhat gzibher zazeze ab lbu\nMeamuq mnetu nbrhan getimu\nFtsum qdsna akhlil zdefa\nBerekhet kwesd amlakh abay ye\nAbune samuel qelem nawadede mtshaf zteharme\nAtranos yedalu mnbab nanefege\nMlat thtnau whbet qdsna\nMsay nkhhadr lakheley goyta"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

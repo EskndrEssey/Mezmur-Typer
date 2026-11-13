@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_7fd35a732a",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጐይታ እንክዓዪ"
+  },
+  "singer": "ዘማሪት ፍቅርተ ፈለቀ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጐይታ እንክዓዪ",
+      "zemari": "ዘማሪት ፍቅርተ ፈለቀ",
+      "lyrics": "[[chorus]]\nሳኦል ኵናቱ እንተመዘዘ\nጎልያድ ሰይፊ እንተሓዘ\nዳዊት ኣይሞተን ከምቲ ቃሉ\nተፈተነ'ምበር ኣብ ማእከሉ\n[[/chorus]]\n\nጐይታ እንክዓዪ ብዕላማዩ\nእዚ መከራ ንሰናይ'ዩ (2)\nማእከሉ'ኳ እንተዘይተነግረ\nራእይ ዘለዎ ነይሓፈረ (2)\n\nብተንኮል ተተሸጠ ዮሴፍ\nሕልሙ ከይተፈጸመ ኣይተርፍ\nልዕል ክብል'ዩ ምስ ግርማ\nክነግስ እዩ ኣብ ከተማ\n\nይኣክል ራሄል እቲ ብኽያት\nኪሓልፍ እዩ እቲ ኣውያት\nግብጺ ኣይተርፉን'ዮም 'ቶም ወገንኪ\nባሕሪ ኣይሓልፉን ጸላእትኺ"
+    },
+    "ti_ro": {
+      "title": "Goyta 'nk'ayi",
+      "zemari": "zemarit fqrte feleqe",
+      "lyrics": "[[chorus]]\nZi mekera nsenay'yu (2)\n[[/chorus]]\n\nGoyta nkayi blamayu\nMakelu'kwa ntezeytenegre\nRay zelewo neyhafere (2)\nSaol kwinatu ntemezeze\nGolyad seyfi ntehaze\nDawit aymoten kemti qalu\nTefetene'mber ab makelu\nBtenkol teteshete yosef\nHlmu keytefetseme ayterf\nLl kbl'yu ms grma\nKnegs yu ab ketema\nNus tekhone mjmarna\nKabi yu ftsamena\nManm ayterfn ab mado\nKetwena'yu rsti adu\nYakl rahel ti bkhyat\nKihalf yu ti awyat\nGbtsi ayterfun'yom 'tom wegenki\nBahri ayhalfun tselatkhi"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_07f4faf0d7",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንንእስነተይ"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንንእስነተይ",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nነዓኻ ሒዘ ምስ ሓያል ገጢመ\nስምካ እናጸዋዕኩ ንጎልያድ ኣውዲቐ\nከም ልበይ ኢልካኒ መንፈስካ ሰኒቐ\nብበገናይ ንስምካ ዘሚረ ኣድኒቐ\n[[/chorus]]\n\nንንእስነተይ ናብ ቤትካ ዘእተኻ\nካብ ሓላፊ ነገር ባርያኻ ዝኸወልካ\nኣምላከ እስራኤል ከመስግነካ\nምስጋና ውዳሴ ይኹን ነዓኻ\n\nጌና ንዓለም ከይተላለኽዎ\nኣምላኽ መን ምዃኑ እንከይፈለጥክዎ\nብደመና ሰማይ ቃል ኣምላኽ መጸኒ\nኃረይኩከ እምከርሰ እምከ በለኒ\n\nሰዊርካኒ’ኻ ካብ ጓይላን ዓለምን\nናይ ንእስነት ዕብዳን ኣሕሊፍካ ኣይሃብካንን\nኣብ ቤትካ ኣስፊርካኒ ነዓኻ ከመስግን\nቅዱስ ኢኻ ዝወዳደረካ’ውን የለን"
+    },
+    "ti_ro": {
+      "title": "Nn'snetey",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "Nnsnetey nab betka zetekha\nKab halafi neger baryakha zkhewelka\nAmlake srael kemesgneka\nMsgana wdase ykhun neakha\nNeakha hize ms hayal getime\nSmka natsewaku ngolyad awdiqe\nKem lbey ilkani menfeska seniqe\nBbegenay nsmka zemire adniqe\nGena nalem keytelalekhwo\nAmlakh men mkwanu nkeyfeletkwo\nBdemena semay qal amlakh metseni\nHareykuke mkerse mke beleni\nShel lsaney fidel keyqotsere\nLbey bnusu abakha kebere\nAb meqdes kbrkha zelalem dew kbl\nSamuel’yu neyru tsawitka kzkr\nSewirkani’kha kab gwaylan alemn\nNay nsnet bdan ahlifka ayhabkann\nAb betka asfirkani neakha kemesgn\nQdus ikha zwedadereka’wn yelen"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

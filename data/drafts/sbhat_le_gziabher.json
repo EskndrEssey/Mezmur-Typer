@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_80824d6eb3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ስብሐት ለእግዚአብሔር"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ስብሐት ለእግዚአብሔር",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nስብሐት ለእግዚአብሔር ኪያነ ዘፈጠረ ከመ ናምልኮ\nስብሐት ለማርያም እመ አምላክ እግዝእትነ ወመድኃኒትነ\nስብሐት ለመስቀለ ክርስቶስ ዕፀ መድኃኒት ኃይልነ ወጸወንነ።\n[[/chorus]]\n\nማሕበር ኣርድእት"
+    },
+    "ti_ro": {
+      "title": "Sbhat le'gziabher",
+      "zemari": "di/n efrem",
+      "lyrics": "Sbhat legziabher kiyane zefetere keme namlko\nSbhat lemaryam me amlak gztne wemedhanitne\nSbhat lemesqele krstos tse medhanit haylne wetsewenne.\nMahber ardt"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0866",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 866,
+  "wereb_category": "wereb_meraa",
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wereb Mer'a",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ኣነ መን’የ ኢልና ርእስና ንመርምር",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nኣነ መን’የ ኢልና ርእስና ንመርምር\nኣብ ቅድሚ ኣምላኽና ኃጢኣትና ንዘክር\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\nናይ ኣምላኽ ትእዛዛት ብኣና ተጣሒሱ\nብዝሙት ብሓሜት ኣካልና ረኺሱ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\nናይ ሥጋ ጥቕሚ ርእዩ ልብና ሰዲዑ\nሞት ክሳብ ዝወስደና ንምንታይ ዘንጊዑ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\nንንስሓ ዝኸውን ካብ ሃበና ዕድመ\nንመለስ ናብ ኣምላኽ ብርሃና ከይጸለመ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\nኣሞጽ ኣብ ትንቢቱ ከም እተተንበዮ\nነፍስና ከይትጠሚ ቃሉ ንስምዓዮ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\nናይ ጻድቃን ሰማእታት ናይ ድንግል ጸሎታ\nኣይፈለየና ኣብ ቅድሚ ልዑል ጐይታ\nበደልና ኣሚና ርእስና ኣትሒትና\nበደልና ኣሚና ንለምን ኣምላኽና\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

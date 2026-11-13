@@ -1,0 +1,52 @@
+{
+  "id": "h_wereb_0717",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "hymn_number": 717,
+  "wereb_category": "wereb_qdusan",
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb Qdusan",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "wereb"
+  ],
+  "status": "draft",
+  "langs": {
+    "ti": {
+      "title": "ኣስምዐኒ ኣስምዐኒ ቃለ",
+      "zemari": "",
+      "lyrics": "[[chorus]]\nኣስምዐኒ ኣስምዐኒ ቃለ\nበብሂለ ኦሆ (3) ዑራኤል\n[[/chorus]]"
+    },
+    "ti_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  },
+  "metadata": {
+    "created_at": "2026-11-12T00:00:00Z",
+    "updated_at": "2026-11-12T00:00:00Z"
+  }
+}

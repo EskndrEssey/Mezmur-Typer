@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b4cf8b05bc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ኢራብ ንዓይኒ ማያት"
+  },
+  "singer": "ዘማሪት ህጻን ቃልኪዳን",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ኢራብ ንዓይኒ ማያት",
+      "zemari": "ዘማሪት ህጻን ቃልኪዳን",
+      "lyrics": "[[chorus]]\nእግዚኣብሔር ስምካ . . .\nህብስተ ሕይወት’ዩ ንዝበልዖ\nጽዋእ መድኃኒት ንዝሰትዮ\nእግዚኣብሔር ስምካ . . .\nስንቂ ኮይኑኒ’ሎ ንመንገደይ\nኣመቓቒርዎ ንሕይወተይ\nእግዚኣብሔር ስምካ . . .\nካብ መዓር ካብ ወርቂ ዝሕረ’ዩ\nንውሽጢ ነፍሰይ’ውን ሰላመይ`ዩ\n[[/chorus]]\n\nኢራብ ንዓይኒ ማያት ከምትብህጎ\nመሬት ንዝናም ሰማይ ከም ትጸምኦ\nናባኻ’ዩ ልበይ ሃረርታኡ\nስምካ ንዘልዓለም መግበይ ኮይኑ እግዚአብሔር\n\nእግዚኣብሔር ስምካ . . .\nካብ ነገስታት ምድሪ እዛ ዓለም\nዝመሳሰሎ`ውን ከቶ የለን\nእግዚኣብሔር ስምካ . . .\nእናሻዕ ክጽውዕ ይጥዕመኒ\nከምኡ ዝበለ’ሞ መን አሎኒ\nእግዚኣብሔር ስምካ . . .\nኣነስ ክጽውዖ ንዘልዓለም\nጸግዐይ ከውለይ እምባይ ኣብዚ ዓለም"
+    },
+    "ti_ro": {
+      "title": "Irab n'ayni mayat",
+      "zemari": "zemarit hTsan qalkidan",
+      "lyrics": "[[chorus]]\nO gziabher smka o gziabher (2)\n[[/chorus]]\n\nIrab nayni mayat kemtbhgo\nMeret nznam semay kem ttsemo\nNabakha’yu lbey harertau\nSmka nzelalem megbey koynu gziabher\nGziabher smka . . .\nHbste hywet’yu nzbelo\nTswa medhanit nzsetyo\nGziabher smka . . .\nSnqi koynuni’lo nmengedey\nAmeqaqirwo nhywetey\nGziabher smka . . .\nKab mear kab werqi zhre’yu\nNwshti nefsey’wn selamey`yu\nGziabher smka . . .\nKab negestat mdri za alem\nZmesaselo`wn keto yelen\nGziabher smka . . .\nNasha ktsw ytmeni\nKemu zbele’mo men aloni\nGziabher smka . . .\nAnes ktswo nzelalem\nTsegay kewley mbay abzi alem\nGziabher smka . . .\nNfas mabel bahri zehd’yu\nTsnu gnbi yu ndhnelu\nGziabher smka . . .\nSmka kab tesemye ab llena\nMen’yu zqawemo zefrhana\nGziabher smka . . .\nMs nsgum smka temerkusna\nNqfat yeblnan ab qdmena"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

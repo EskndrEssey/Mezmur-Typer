@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_95d0ad2ce3",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብዘይ ነዳዲ"
+  },
+  "singer": "ዲ/ን ሙሉእ ሓጎስ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብዘይ ነዳዲ",
+      "zemari": "ዲ/ን ሙሉእ ሓጎስ",
+      "lyrics": "[[chorus]]\nተማሪኸ ንኽብሪ ንሓርነት\nተቓጺለ ብፍቕሪ ብናትካ ውዕለት\nከናፍረይ ምስጋናኻ ክነግራ\nኣፍደገኻ ክነብር ፍቐደለይ ሓደራ\n[[/chorus]]\n\nብዘይ ነዳዲ ፍቕርኻ ኣቃጺሉኒ\nብዘይግዴታ ውዕለትካ ማሪኹኒ\nፍቕርኻ ንዓይ ከመስግነካ ገዲዱኒ\nሰንሰለተይ ኣውዲቑ ፈዊሱኒ\n\nርኹስ መንፈስ ኣርሒቕካለይ ሓዪለ\nእምነት ፍቕሪ ተስፋ ውህበት ተቐቢለ\nብየማንካ ተጎዝጊዘ ተደጊፈ\nናይዛ ዓለም መከራ መፈንጠራ ሓሊፈ\n\nደብረ ሰላም ቅዱስ ሚካኤል (ዓዲ ቀይሕ)"
+    },
+    "ti_ro": {
+      "title": "Bzey nedadi",
+      "zemari": "di/n mulu' hagos",
+      "lyrics": "Bzey nedadi fqrkha aqatsiluni\nBzeygdeta wletka marikhuni\nFqrkha nay kemesgneka gediduni\nSenseletey awdiqu fewisuni\nTemarikhe nkhbri nharnet\nTeqatsile bfqri bnatka wlet\nKenafrey msganakha knegra\nAfdegekha knebr fqedeley hadera\nRkhus menfes arhiqkaley hayile\nMnet fqri tesfa whbet teqebile\nByemanka tegozgize tedegife\nNayza alem mekera mefentera halife\nBado nere fre zeyblu gereb\nZeyestewl chnqi mekera zqleb\nNmot tselmat htsuy nere ntfat\nFqrkha arikhani natsa wetsie kab tselmat\nDebre selam qdus mikael (adi qeyh)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

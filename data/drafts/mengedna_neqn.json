@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_96a7a9b410",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "መንገድና ነቕንዕ"
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "መንገድና ነቕንዕ",
+      "zemari": "ቀሲስ ጸገዝኣብ",
+      "lyrics": "[[chorus]]\nጽባቐ የብሉን ጣዕሚ ናይ ሥጋና\nእሙናን ምዃን’ዩ ዝያዳ መልክዕና\nፍቓድ ዓለም ምምላእ ደረት ዕርበት’ዩ\nኦርቶዶክስ ምኃዝ ግና መገዲ ሕይወት’ዩ\n[[/chorus]]\n\nድበት ከይደፍኖ ዓይኒ ማይ ልብና\nእሾኽ ከየብቁል ቃድራ ሓሳባትና\nመገድና ነቕንዕ ብሃይማኖት ግብሪ\nሕማቕ ፍረ የለን ኣብ ጽቡቕ ተኽሊ ዝፈሪ\n\nዕርፊ ምንፍቕና ነግሒ ካብ ጀመረ\nብጸሎት ንጸመድ ንበሎ ኤሎሄ\nሓጎስ ክኾነልና ምህርቲ ቀውዕና\nትኽ ዝበለ መገዲ ንግበረሉ ንኣእጋርና\n\nደመና ኣይሠፍሮን እቲ ናይ ሓጋይ ሰማይ\nጸጋ ኣይወርዶን ንበሃሊ ንዓይ\nጎንና ነስተብህል ከብዲ’ቶም ስኡናን\nኣፍ ደገ መንግሥቱ’ዩ ምርኅራኅ ንፍጡራን"
+    },
+    "ti_ro": {
+      "title": "Mengedna neqn'",
+      "zemari": "qesis Tsegezab",
+      "lyrics": "Dbet keydefno ayni may lbna\nShokh keyebqul qadra hasabatna\nMegedna neqn bhaymanot gbri\nHmaq fre yelen ab tsbuq tekhli zferi\nTsbaqe yeblun tami nay ssgana\nMunan mkwan’yu zyada melkna\nFqad alem mmla deret rbet’yu\nOrtodoks mhaz gna megedi hywet’yu\nRfi mnfqna neghi kab jemere\nBtselot ntsemed nbelo elohe\nHagos kkhonelna mhrti qewna\nTkh zbele megedi ngberelu nagarna\nMnchi nhtetelom znefsu nfasat\nTsdqi keymeslena ntelezebe qalat\nBshbti nsha lbi keytehatsbe\nAgarna aysgwimn megedi nte rekhebe\nDemena aysefron ti nay hagay semay\nTsega aywerdon nbehali nay\nGonna nestebhl kebdi’tom sunan\nAf dege mengsstu’yu mrhrah nfturan"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

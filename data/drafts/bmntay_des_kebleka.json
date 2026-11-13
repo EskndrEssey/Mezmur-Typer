@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_b9fb8cbebe",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ብምንታይ ደስ ከብለካ"
+  },
+  "singer": "ዘማሪ ዳግማዊ ደርቤ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ብምንታይ ደስ ከብለካ",
+      "zemari": "ዘማሪ ዳግማዊ ደርቤ",
+      "lyrics": "[[chorus]]\nሱራፌል ኪሩቤል ቅዱስ እናበሉ\nመላእክተ-ራማ ኵሎም የመስግኑ\nድንቂ መካር ሓያል ኤልሻዳይ ኢኻሞ\nንጽኑዕ ፍቕርኻ ኣብ ውሽጠይ ሕተሞ(2)\n[[/chorus]]\n\nብምንታይ ደስ ከብለካ ኦ ጐይታየ\nብምንታይ ደስ ከብለካ ኣምላኸየ\nዓለማት ኵሉ ኣብ ኢድካ’ዶ ኣይኮነን\nዝፈጠርካ ኣምላኽ ኣብ ኢድካ’ዶ ኣይኮነን\n\nንጹህ መስዋእቲ’ዩ ዝፈቱ ኣምላኸይ\nእንታይ ሒዘ ክቐርብ ናብዚ ልዑል ጐይታይ\nኣብ ላዕሊ ሰማያት ኣብ መሬት ኣብ ታሕቲ\nኣምላኽ ዘይርከቦ የለን ዋላ ሓንቲ(2)\n\nሃብተይ ምስ ንብረተይ ጉልበተይ እንታዩ\nጥዕና ዝህበኒ ብዘይካኻ መን’ዩ\nክጨንቀኒ ከሎ ኣብ ምሉእ ዘመነይ\nንዓኻ’የ ዝሕዝ ከውሕሳ ሕይወተይ(2)"
+    },
+    "ti_ro": {
+      "title": "Bmntay des kebleka",
+      "zemari": "zemari dagmawi derbe",
+      "lyrics": "[[chorus]]\nNtsnu fqrkha ab wshtey htemo(2)\n[[/chorus]]\n\nBmntay des kebleka o goytaye\nBmntay des kebleka amlakheye\nAlemat kwilu ab idka’do aykonen\nZfeterka amlakh ab idka’do aykonen\nSurafel kirubel qdus nabelu\nMelakte-rama kwilom yemesgnu\nDnqi mekar hayal elshaday ikhamo\nNtsuh meswati’yu zfetu amlakhey\nNtay hize kqerb nabzi lul goytay\nAb lali semayat ab meret ab tahti\nAmlakh zeyrkebo yelen wala hanti(2)\nBkidan btselot qdase seatat\nBalkha habena hayli menfesqdus\nNabakha knmles amlakh degfena\nMsakha’yu zelo metsai hywetna(2)\nHabtey ms nbretey gulbetey ntayu\nTna zhbeni bzeykakha men’yu\nKchenqeni kelo ab mlu zemeney\nNakha’ye zhz kewhsa hywetey(2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

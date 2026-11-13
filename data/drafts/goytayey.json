@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_be9aff0a4c",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ጐይታየይ"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ጐይታየይ",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nንጹህ ክርስቶስ ኮንካ በደለኛ ኢልካ ነዓና\nናይ ኣዳም በደል ገበረ ንዓኻ ንኽትቅተል\nናይ ሔዋን ስሕተት ኣብቅዓካ ንሞት ጐይታ ጎይቶት\n[[/chorus]]\n\nጐይታየይ ኣይሁድ ዓማጽያን ሰቐሉኻየ\nመድኃኒት ዓለም ሲሳይ ዓለም ሰቐሉኻየ (2)\n\nንጹህ ክርስቶስ ኮንካ በደለኛ ነዓና ኢልካ\nመስቀል ኣሰኪሞም ብምእሳር ገረፉ ንኣካላትካ (2)\n\nጸጋዊ ማያት ማይ ጸማእኩ እንክትብል\nንኽትሰትዮ ሃቡኻ ሓዊሶም ሓሞትን ከርበን (2)"
+    },
+    "ti_ro": {
+      "title": "Goytayey",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nMedhanit alem sisay alem seqelukhaye (2)\n[[/chorus]]\n\nGoytayey ayhud amatsyan seqelukhaye\nNtsuh krstos konka bedelenya ilka neana\nNay adam bedel gebere nakha nkhtqtel\nNay hewan shtet abqaka nmot goyta goytot\nNtsuh krstos konka bedelenya neana ilka\nMesqel asekimom bmsar gerefu nakalatka (2)\nGbuzat ayhud nakha bmgfa asaqeyukha\nTftafom bmtfa nabachewu alagetsulka (2)\nTsegawi mayat may tsemaku nktbl\nNkhtsetyo habukha hawisom hamotn kerben (2)\nMehari ikha’mo nkwilu hatiatna keyreakha\nYqrebel balkha beti kfatna keyteqeyemka (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

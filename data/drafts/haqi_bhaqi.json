@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_13d34eb7e2",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ሓቂ ብሓቂ"
+  },
+  "singer": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ሓቂ ብሓቂ",
+      "zemari": "ሊቀ መላእክት ኣብ ቅድሚት መንበርካ",
+      "lyrics": "[[chorus]]\nንስኻ ዘይብሉ ኵሉ ከንቱ እዩ\nናይ ሕይወት መቐረት ኣባኻ እንድዩ\nልበይ ዘንጊዑካ ንኻልእ ኣናድዩ\nከለኻ ኣብ ውሽጠይ ካልእ ጐይታ ፈትዩ (2)\n[[/chorus]]\n\nሓቂ ብሓቂ ሎሚ ረኺበካ\nከምቲ ድጉል ሓዊ ኣብ ውሽጠይ ሰፊርካ\nሰላምካ’ዩ መግበይ ደጊም ድሕሪ ሎሚ\nኣስተማቒረ’የ ነቲ ናትካ ጣዕሚ\n\nዘይውዳእ ዒላ’ዩ እቲ ናትካ ምስጢር\nፍጹም ዝጠዓመ ካብ ኵሉ ዝምቅር\nነዚ ክምርምሮ ኣነ ኣይከኣልኩን\nካባኻ ርሒቐ ፍጹም ኣይዓረፍኩን (2)\n\nጠፊኤ ካባኻ ኣጥፊኤ ንብረተይ\nኣነ ረኺበካ ንስኻ’ውን ነዓይ\nደጊመ ከይጠፍእ ጐይታ ሓልወኒ\nንዓኻ ከኽብር ጸጋኻ ሃበኒ (2)"
+    },
+    "ti_ro": {
+      "title": "Haqi bhaqi",
+      "zemari": "liqe mela'kt ab qdmit menberka",
+      "lyrics": "[[chorus]]\nKabakha rhiqe ftsum ayarefkun (2)\n[[/chorus]]\n\nHaqi bhaqi lomi rekhibeka\nKemti dgul hawi ab wshtey sefirka\nSelamka’yu megbey degim dhri lomi\nAstemaqire’ye neti natka tami\nNskha zeyblu kwilu kentu yu\nNay hywet meqeret abakha ndyu\nLbey zengiuka nkhal anadyu\nKelekha ab wshtey kal goyta fetyu (2)\nZeywda ila’yu ti natka mstir\nFtsum zteame kab kwilu zmqr\nNezi kmrmro ane aykealkun\nReqiq’yu bahrikha bssga zeydhses\nAb kwilu seferka nay zelalem nguss\nNeti chnuq lbey merefi zkhonka\nNay abrham amlakh dnqi’yu srahka (2)\nTefie kabakha atfie nbretey\nAne rekhibeka nskha’wn neay\nDegime keytef goyta halweni\nNakha kekhbr tsegakha habeni (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

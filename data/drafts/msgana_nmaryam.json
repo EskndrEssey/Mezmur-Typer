@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_dd04c29cdd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ምስጋና ንማርያም"
+  },
+  "singer": "ዲ/ን ኤፍሬም",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ምስጋና ንማርያም",
+      "zemari": "ዲ/ን ኤፍሬም",
+      "lyrics": "[[chorus]]\nንዓኺ መሪጹ ከይተፈጥረ ዓለም\nንዓና ንኸድሕን ሕያው መድኃኔ ዓለም\nብኣኺ ኢና’ሞ ሕይወት ዝረኸብና\nምስጋና ይብጻሕኪ ማርያም ኣዴና\n[[/chorus]]\n\nምስጋና ንማርያም ካብ ሞት\nኣድኂና ብሕይወት ዘንበረትና\nናይ ቅዱሳን ሕይወት ኣደ መድኃኒና (2)\n\nካብ ሰማይ ወሪዱ መድኃኔ ዓለም\nብሓቂ ይመስገን ይኽበር ንዘልዓለም\nንዘምር ኩልና ንጐይታ ፈጣሪ\nክንዲ ዝሃበና ናይ ዘልዓለም ክብሪ\n\nጸጋ ዝተመልኣኪ ማርያም ቅድስቲ\nካብ ኩለን ኣንስቲ ንስኺ ሕርይቲ\nንዓና ደቅኺ ሓጢኣት ዝበዝሓና\nካብ ፍቑር ወድኺ ምሕረት ለምንልና"
+    },
+    "ti_ro": {
+      "title": "Msgana nmaryam",
+      "zemari": "di/n efrem",
+      "lyrics": "[[chorus]]\nNay qdusan hywet ade medhanina (2)\n[[/chorus]]\n\nMsgana nmaryam kab mot\nAdhina bhywet zenberetna\nNakhi meritsu keytefetre alem\nNana nkhedhn hyaw medhane alem\nBakhi ina’mo hywet zrekhebna\nMsgana ybtsahki maryam adena\nKab semay weridu medhane alem\nBhaqi ymesgen ykhber nzelalem\nNzemr kulna ngoyta fetari\nKndi zhabena nay zelalem kbri\nHatiatna bezihu shekhmu kebiduna\nAqallna’do rhrhti adena\nTegbarna kefiu mesilna nalem\nAdhnna dngl kab sate gehanem\nTsega ztemelaki maryam qdsti\nKab kulen ansti nskhi hryti\nNana deqkhi hatiat zbezhana\nKab fqur wedkhi mhret lemnlna\nMeseret hywetna dhnet nay nefsna\nAmlakh bmwladki kab tselmat wetsina\nKab mekera awtsiu khbena selam\nTewelidu goyta kab dngl maryam"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

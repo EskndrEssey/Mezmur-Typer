@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_1a7efe62dc",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "ንዓኻ ዘቐድም"
+  },
+  "singer": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "ንዓኻ ዘቐድም",
+      "zemari": "ሊቀ ማህሌታት ብመንፈስ ተቓንዩ",
+      "lyrics": "[[chorus]]\nልዕሊ ቋንቋ ኢዩ ናትካስ ኣይዝንቶን\nይሰብከካ ደምካ ንምድሪ ዝሽፍን\nንብዝሒ ክብርኻ መግለጺ የብለይን\nፍቕርኻ መግሃዲ ኢዩ ናተይ ልሳን (2)\n[[/chorus]]\n\nንዓኻ ዘቐድም ከመይ’ሉ ይሰዓር\nንብርቱዕ ማዕበል ብቕልጽምካ ይሰግር\nልዕሊ ባሕሪ ቆይምካ ርእያትካ ዓይነይ\nሞተይ ረጊጽካ ኢኻ ኢየሱስ መድኅነይ\n\nኣብ ዳሕረዋይ ዘመን ብኣኻ ተዛሪቡ\nኣቦኻ ንነፍሰይ ናባኻ ኣቕሪቡ\nከመይ ኢለ ስቕ እብል ንድምጹ ሰሚዐስ\nብድሕሪት እጎዪ ኣሚነ ኢየሱስ\nብድሕሪት እጉዪ ኣሚነ ክርስቶስ"
+    },
+    "ti_ro": {
+      "title": "N'akha zeqedm",
+      "zemari": "liqe mahletat bmenfes teqanyu",
+      "lyrics": "[[chorus]]\nFqrkha meghadi iyu natey lsan (2)\n[[/chorus]]\n\nNakha zeqedm kemey’lu ysear\nNbrtu mabel bqltsmka ysegr\nLli bahri qoymka ryatka ayney\nMotey regitska ikha iyesus medhney\nLli qwanqwa iyu natkas ayznton\nYsebkeka demka nmdri zshfn\nNbzhi kbrkha megletsi yebleyn\nAb dahreway zemen bakha tezaribu\nAbokha nnefsey nabakha aqribu\nKemey ile sq bl ndmtsu semias\nBdhrit goyi amine iyesus\nBdhrit guyi amine krstos\nGudgwadey btenkol atsrar tetefahre\nLli mot dew belku hayal smka tseyre\nNaseabkukha geyreka bqdmit\nNabarekhkukha yqutser zemenat (2)"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}

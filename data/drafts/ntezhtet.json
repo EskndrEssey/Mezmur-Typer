@@ -1,0 +1,41 @@
+{
+  "id": "h_efr_fe09d686dd",
+  "source": "EFRATA_MEZMUR_BOOK",
+  "status": "draft",
+  "title": {
+    "ti": "እንተዝሕተት"
+  },
+  "singer": "ዲ/ን ኣብርሃም መሓሪ",
+  "langs": {
+    "en": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "ti": {
+      "title": "እንተዝሕተት",
+      "zemari": "ዲ/ን ኣብርሃም መሓሪ",
+      "lyrics": "[[chorus]]\nክሓልፈኒ እዋን ብባዕለይ ዝፍሕሶ\nፍስሓ ወሰላም ክፋእ እንክወርሶ\nንሓቂ ነገር’ዶ ሰሪ ምባል ጐይታ\nብኽዉን ዘይክዉን ክላበስ ኣበሳ\n[[/chorus]]\n\nእንተዝሕተት ንሕይወተይ (2)\nእንታይ ምበልኩ ብህላወይ\n\nቃድራ መሬት እወ ዘይእንታዩ ራህዲ\nስርናይ ምስ ክርዳድ ‘ናተባህለ ጽርዲ\nዘለኹ ክመስል ኣእጋረይ ተኺለ\nኣካል ብዘይውነ እንታይ ምወሸለ\n\nመላፍንቲ ጸጋ ኣብ ምድረ ሕያዋን\nንእግዚአብሔር ኣሚነ ክእንፍቶ ስካን\nኣእዳወይ ከይጠምር እጅገይ ክኸፍሶ\nህንጸት ናይ ተስፋይ ዳግም ከሐድሶ"
+    },
+    "ti_ro": {
+      "title": "'Ntezhtet",
+      "zemari": "di/n abrham mehari",
+      "lyrics": "[[chorus]]\nNtezhtet nhywetey (2)\n[[/chorus]]\n\nNtay mbelku bhlawey\nKhalfeni wan bbaley zfhso\nFsha weselam kfa nkwerso\nNhaqi neger’do seri mbal goyta\nBkhwun zeykwun klabes abesa\nQadra meret we zeyntayu rahdi\nSrnay ms krdad ‘natebahle tsrdi\nZelekhu kmesl agarey tekhile\nAkal bzeywne ntay mweshele\nNea natey qdus ksema azaney\nBah ilwen krya frean aintey\nAkhalo krekb hywetey ksetr\nBgziabher weledoy ab aryam ksdr\nMelafnti tsega ab mdre hyawan\nNgziabher amine knfto skan\nAdawey keytemr jgey kkhefso\nHntset nay tesfay dagm kehadso"
+    },
+    "am": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "am_ro": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    },
+    "om": {
+      "title": "",
+      "zemari": "",
+      "lyrics": ""
+    }
+  }
+}
