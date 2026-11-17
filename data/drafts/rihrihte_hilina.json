@@ -1,0 +1,50 @@
+{
+  "id": "h_5cf9v4onsi85",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ርህርህተ ሕሊና",
+    "ti_ro": "Rihrihte hilina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ማርያም ድንግል ማርያም\nርህርህተ ሕሊና /4/ ማርያም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMaryam Maryam dingil Maryam\nRihrihte hilina /4/ Maryam\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "ሓረገወይን",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

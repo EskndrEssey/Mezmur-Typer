@@ -1,0 +1,52 @@
+{
+  "id": "h_ib70p479e4w1",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰላም ለኪ ማርያም",
+    "ti_ro": "Selam leki Maryam",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰላም ለኪ ማርያም\nእመአምላክ ማኅደረ መለኮት\nወልድኪ ይጼውዓኪ ውስተ ሕይወት /2/\nወመንግስተ ክብር\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSelam leki Maryam\nʾImeʾamlak mahdere melekot\nWeldiki yitsewʿaki wiste hiywet /2/\nWemengiste kibr\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

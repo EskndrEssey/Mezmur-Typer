@@ -1,0 +1,50 @@
+{
+  "id": "h_9etsqa6imxpq",
+  "category": "nissha",
+  "categories": [
+    "nissha",
+    "general"
+  ],
+  "subcategories": [
+    "nisha"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ንጹም ጾመ",
+    "ti_ro": "Nitsum tsome",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nንጹም ጾመ ወናፍቅር ቢጸነ\nወንትፋቀር /4/ ንትፋቀር በበይናቲነ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNitsum tsome wenafqir bitsene\nWentifaqer /4/ nitfaqer bebeynatine\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

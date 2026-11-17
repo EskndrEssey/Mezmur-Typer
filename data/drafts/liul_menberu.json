@@ -1,0 +1,51 @@
+{
+  "id": "h_t5zb5h39epgc",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልዑል መንበሩ",
+    "ti_ro": "Liʿul menberu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልዑል መንበሩ /4/\nዑራኤል ልዑል መንበሩ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nLiʿul menberu /4/\nʿUraʾel liʿul menberu\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

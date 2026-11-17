@@ -1,0 +1,52 @@
+{
+  "id": "h_h1yohox8kpo2",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ነፍሳተ ጻድቃን ኣውያን ኣመ ይሁቡ መኣዛ",
+    "ti_ro": "Nefsate tsadqan ʾawyan ʾame yihubu meʾaza",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nነፍሳተ ጻድቃን ኣውያን ኣመ ይሁቡ መኣዛ\nለዘምግባረ ጽድቅ ኣልብነ ይኩነነ ቤዛ /2/\nንግደትኪ ማርያም እስከ ደብረ ቁስቋም እምሎዛ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNefsate tsadqan ʾawyan ʾame yihubu meʾaza\nLezemgibare tsidq ʾalbine yikunene beza /2/\nNigdetki Maryam ʾiske debre qusqwam ʾimloza\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

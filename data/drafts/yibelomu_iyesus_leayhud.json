@@ -1,0 +1,51 @@
+{
+  "id": "h_03ygw1cqu6s4",
+  "category": "feasts",
+  "categories": [
+    "feasts"
+  ],
+  "subcategories": [
+    "meskel",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ይቤሎሙ ኢየሱስ ለኣይሁድ",
+    "ti_ro": "Yibelomu Iyesus leʾayhud",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nይቤሎሙ ኢየሱስ /2/ ለኣይሁድ\nእመኑ ብየ ወእመኑ በኣቡየ\nአበርህ በመስቀልየ ለእሊአየ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nYibelomu Iyesus /2/ leʾayhud\nʾImenu biye weʾimenu beʾabuye\nʾAberh bemesqelye leʾiliʾaye /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መስቀል",
+  "wereb_category_en": "Wereb of the Cross",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

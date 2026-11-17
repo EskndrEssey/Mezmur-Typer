@@ -1,0 +1,52 @@
+{
+  "id": "h_mivwhd6uljr7",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መሓርኒ ድንግል ወተሳሃልኒ በበዘመኑ",
+    "ti_ro": "Meharni dingil wetesahalni bebezemenu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመሓርኒ ድንግል ወተሳሃልኒ በበዘመኑ /2/\nለእመ መሐርክኒ /3/ ዘይኴንነኒ መኑ\nኰናኔ ሥጋ ወነፍስ /4/ ወልድኪ ኣኮኑ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMeharni dingil wetesahalni bebezemenu /2/\nLeʾime meharkini /3/ zeykwenneni menu\nKonane siga wenefs /4/ weldiki ʾakonu\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

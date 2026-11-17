@@ -1,0 +1,52 @@
+{
+  "id": "h_q8qiq83gp5eo",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሙሴ ዘርእያ ሃገር ቅድስት",
+    "ti_ro": "Muse zerʾiya hager qidist",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሙሴ ዘርእያ /2/ ሃገር ቅድስት /2/\nዕዝራኒ ተናገራ /2/ ዘመራ ዳዊት\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMuse zerʾiya /2/ hager qidist /2/\nʿIzrani tenagera /2/ zemera Dawit\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

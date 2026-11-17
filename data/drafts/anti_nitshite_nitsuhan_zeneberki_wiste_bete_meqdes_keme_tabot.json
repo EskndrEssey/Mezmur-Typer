@@ -1,0 +1,52 @@
+{
+  "id": "h_h5hr7shu8wly",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣንቲ ንጽሕተ ንጹሓን ዘነበርኪ ውስተ ቤተ መቅደስ ከመ ታቦት",
+    "ti_ro": "ʾAnti nitshite nitsuhan zeneberki wiste bete meqdes keme tabot",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣንቲ ንጽሕተ ንጹሓን ዘነበርኪ ውስተ ቤተ መቅደስ ከመ ታቦት\nወመላእክት ያመጽኡ ሲሳየኪ ያመጽኡ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾAnti nitshite nitsuhan zeneberki wiste bete meqdes keme tabot\nWemelaʾikt yametsʾu sisayeki yametsʾu\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

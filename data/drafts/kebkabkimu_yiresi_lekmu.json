@@ -1,0 +1,51 @@
+{
+  "id": "h_7dolsqisz1zc",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wedding",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከብካብክሙ ይረሲ ለክሙ",
+    "ti_ro": "Kebkabkimu yiresi lekmu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከብካብክሙ ይረሲ ለክሙ /2/\nከብካበ ዶኪማስ ወልደ ዮሐንስ\nይረሲ ለክሙ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nKebkabkimu yiresi lekmu /2/\nKebkabe dokimas welde yohans\nYiresi lekmu /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wedding Wereb",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_i6wmwjbsz2nt",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ምስለ ሚካኤል ወገብርኤል",
+    "ti_ro": "Misle Mikaʾel wegebriʾel",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nምስለ ሚካኤል ወገብርኤል\nንዒ ሠናይት ማርያም /2/\nንዒ /4/ እመ አምላክ ንዒ ማርያም /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMisle Mikaʾel wegebriʾel\nNiʿi senayt Maryam /2/\nNiʿi /4/ ʾime ʾamlak niʿi Maryam /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

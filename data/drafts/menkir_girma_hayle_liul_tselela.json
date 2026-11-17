@@ -1,0 +1,52 @@
+{
+  "id": "h_qt5s9cvw0fkr",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መንክር ግርማ ኃይለ ልዑል ጸለላ",
+    "ti_ro": "Menkir girma hayle liʿul tselela",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመንክር ግርማ ኃይለ ልዑል ጸለላ /2/\nኣማን /2/ መላእክት ይኬልልዋ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMenkir girma hayle liʿul tselela /2/\nʾAman /2/ melaʾikt yikelliwa /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

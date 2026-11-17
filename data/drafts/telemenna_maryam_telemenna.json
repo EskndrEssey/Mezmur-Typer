@@ -1,0 +1,52 @@
+{
+  "id": "h_r3dfvku5oh4w",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተለመንና ማርያም ተለመንና",
+    "ti_ro": "Telemenna Maryam telemenna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nተለመንና /2/ ማርያም ተለመንና\nናይ ንጹሃን ኣኽሊል /2/ ናይ ቅዱሳን ብርሃን\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTelemenna /2/ Maryam telemenna\nNay nitsuhan ʾakhlil /2/ nay qidusan birhan\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

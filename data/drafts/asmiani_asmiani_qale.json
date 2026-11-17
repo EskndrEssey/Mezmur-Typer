@@ -1,0 +1,51 @@
+{
+  "id": "h_fpesxa47dk3g",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣስምዐኒ ኣስምዐኒ ቃለ",
+    "ti_ro": "ʾAsmiʿani ʾasmiʿani qale",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣስምዐኒ ኣስምዐኒ ቃለ\nበብሂለ ኦሆ /3/ ዑራኤል\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾAsmiʿani ʾasmiʿani qale\nBebhile ʾoho /3/ ʿUraʾel\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

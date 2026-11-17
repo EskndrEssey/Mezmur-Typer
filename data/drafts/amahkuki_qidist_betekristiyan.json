@@ -1,0 +1,51 @@
+{
+  "id": "h_flttwyvmx15c",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wedding",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣማህኩኪ ቅድስት ቤተክርስቲያን",
+    "ti_ro": "ʾAmahkuki qidist betekristiyan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣማህኩኪ ቅድስት ቤተክርስቲያን /2/\nከብካብ ኮነ በቃና ዘገሊላ\nደምጸ እንዚራ ውስተ ቤተእግዚአብሔር\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾAmahkuki qidist betekristiyan /2/\nKebkab kone beqana zegelila\nDemtse ʾinzira wiste beteʾigziʾabher\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wedding Wereb",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

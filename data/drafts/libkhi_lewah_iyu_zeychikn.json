@@ -1,0 +1,52 @@
+{
+  "id": "h_eeh0u07lu23m",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልብኺ ለዋህ እዩ ዘይጭክን",
+    "ti_ro": "Libkhi lewah ʾiyu zeych'ikn",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልብኺ ለዋህ እዩ ዘይጭክን\n[[/chorus]]\n\n[[highlight]]ርህርህተ ሕሊና ማርያም /2/[[/highlight]]\n\nከም ኣባ ህርያቆስ ከም ቅዱስ ኤፍሬም\n[[highlight]]ተለመንልና ማርያም ድንግል /2/[[/highlight]]",
+    "ti_ro": "[[chorus]]\nLibkhi lewah ʾiyu zeych'ikn\n[[/chorus]]\n\n[[highlight]]Rihrihte hilina Maryam /2/[[/highlight]]\n\nKem ʾaba hiryaqos kem qidus ʾEfrem\n[[highlight]]Telemenlina Maryam dingil /2/[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

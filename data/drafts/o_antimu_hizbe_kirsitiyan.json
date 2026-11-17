@@ -1,0 +1,51 @@
+{
+  "id": "h_bxyf9umw73we",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኦ ኣንትሙ ህዝበ ክርስቲያን",
+    "ti_ro": "ʾO ʾantimu hizbe kirsitiyan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኦ ኣንትሙ ህዝበ ክርስቲያን\nበከመ ተጋባእክሙ በዛቲ ዕለት /2/\n[[/chorus]]\n\nከማሁ ያስተጋብእክሙ በደብረ ጽዮን ቅድስት\n[[highlight]]ወበኢየሩሳሌም ኣግዓዚት /2/[[/highlight]]",
+    "ti_ro": "[[chorus]]\nʾO ʾantimu hizbe kirsitiyan\nBekeme tegabaʾikmu bezati ʿilet /2/\n[[/chorus]]\n\nKemahu yastegabʾikmu bedebre Tsiyon qidist\n[[highlight]]Webeʾiyerusalem ʾagʿazit /2/[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

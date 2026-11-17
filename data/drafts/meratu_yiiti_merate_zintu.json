@@ -1,0 +1,51 @@
+{
+  "id": "h_dyvfov8x2xso",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wedding",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መርዓቱ ይእቲ መርዓተ ዝንቱ",
+    "ti_ro": "Merʿatu yiʾiti merʿate zintu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመርዓቱ ይእቲ /2/ መርዓተ ዝንቱ\nሙዳየ መና ግሩም ሙዳየ መና /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMerʿatu yiʾiti /2/ merʿate zintu\nMudaye mena girum mudaye mena /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wedding Wereb",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

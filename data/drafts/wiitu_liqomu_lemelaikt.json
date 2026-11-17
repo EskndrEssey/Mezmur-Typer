@@ -1,0 +1,51 @@
+{
+  "id": "h_nzqne43k7g0a",
+  "category": "angels",
+  "categories": [
+    "angels"
+  ],
+  "subcategories": [
+    "other_angels",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ውእቱ ሊቆሙ ለመላእክት",
+    "ti_ro": "Wiʾitu liqomu lemelaʾikt",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nውእቱ ሊቆሙ ለመላእክት\nወመልኣኮሙ ቅዱስ ሚካኤል\nልብሱ ዘመብረቅ ዓይኑ ዘርግብ ሊቀ መላእክት\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nWiʾitu liqomu lemelaʾikt\nWemelʾakomu qidus Mikaʾel\nLibsu zemebreq ʿaynu zergib liqe melaʾikt\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_frcmjd1y7med",
+  "category": "feasts",
+  "categories": [
+    "feasts"
+  ],
+  "subcategories": [
+    "meskel",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መስቀል ኃይልነ መስቀል ጽንዕነ መስቀል ቤዛነ",
+    "ti_ro": "Mesqel hayline mesqel tsinʿine mesqel bezane",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመስቀል ኃይልነ መስቀል ጽንዕነ መስቀል ቤዛነ\nመድኃኒትነ ለእለ ኣመነ /2/\n[[/chorus]]\n\nመስቀል ሓይልና መስቀል\nጽንዓትና መስቀል በጃና\nመድኃኒትና’ዩ ነቶም ዝኣመና",
+    "ti_ro": "[[chorus]]\nMesqel hayline mesqel tsinʿine mesqel bezane\nMedhanitne leʾile ʾamene /2/\n[[/chorus]]\n\nMesqel haylina mesqel\nTsinʿatna mesqel bejana\nMedhanitna’yu netom ziʾamena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መስቀል",
+  "wereb_category_en": "Wereb of the Cross",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

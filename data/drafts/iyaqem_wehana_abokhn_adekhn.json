@@ -1,0 +1,52 @@
+{
+  "id": "h_y1dlmwkihw2h",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኢያቄም ወሐና ኣቦኽን ኣዴኽን",
+    "ti_ro": "ʾIyaqem wehana ʾabokhn ʾadekhn",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኢያቄም ወሐና ኣቦኽን ኣዴኽን\nቤተ እግዚአብሔር ከይዶም\nመብጽዓ ዝሃቡኺ መና ካብ ሰማያት\nኣምላኽ ዘውረደልኪ\nፍጽምት ድንግል ንጽሕት ማርያም ንስኺ\nኦ እመ ክርስቶስ ማርያም ንስኺ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾIyaqem wehana ʾabokhn ʾadekhn\nBete Egziabher keydom\nMebtsiʿa zihabukhi mena kab semayat\nʾAmlakh zewredelki\nFitsmit dingil nitshit Maryam niskhi\nʾO ʾime Kristos Maryam niskhi /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

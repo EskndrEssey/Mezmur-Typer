@@ -1,0 +1,51 @@
+{
+  "id": "h_th2ol01emju1",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ወገዳሙኒ ገዳሙኒ ኣንትሙ",
+    "ti_ro": "Wegedamuni gedamuni ʾantimu",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nወገዳሙኒ ገዳሙኒ ኣንትሙ /2/\nለዓለም ብርሃኑ /2/ ኣንትሙ ለዓለም ብርሃኑ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nWegedamuni gedamuni ʾantimu /2/\nLeʿalem birhanu /2/ ʾantimu leʿalem birhanu\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

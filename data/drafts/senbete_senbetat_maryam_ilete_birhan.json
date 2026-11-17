@@ -1,0 +1,52 @@
+{
+  "id": "h_2vqytafv13km",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰንበተ ሰንበታት ማርያም ዕለተ ብርሃን",
+    "ti_ro": "Senbete senbetat Maryam ʿilete birhan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰንበተ ሰንበታት ማርያም ዕለተ ብርሃን\nይወጽኡ ኃጥኣን እምደይን\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nSenbete senbetat Maryam ʿilete birhan\nYiwetsʾu hat'ʾan ʾimdeyn\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

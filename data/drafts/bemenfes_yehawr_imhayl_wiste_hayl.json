@@ -1,0 +1,51 @@
+{
+  "id": "h_4e1m4f69wv9r",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በመንፈስ የሐውር እምኃይል ውስተ ኃይል",
+    "ti_ro": "Bemenfes yehawr ʾimhayl wiste hayl",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበመንፈስ የሐውር እምኃይል ውስተ ኃይል\nካህን /2/ ወነቢይ ዮሃንስ መጥምቅ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBemenfes yehawr ʾimhayl wiste hayl\nKahn /2/ wenebiy yohans met'miq\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

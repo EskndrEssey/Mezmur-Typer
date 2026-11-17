@@ -1,0 +1,52 @@
+{
+  "id": "h_o8axeve1ux4u",
+  "category": "sillase",
+  "categories": [
+    "sillase",
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_sillase",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እምኵሉ ይኄይስ በሥላሴከ ተኣምኖ",
+    "ti_ro": "ʾImkulu yiheys beslaseke teʾamno",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእምኵሉ ይኄይስ በሥላሴከ ተኣምኖ\nወላዲትከ /2/ ወበወላዲትከ ተማኅጽኖ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾImkulu yiheys beslaseke teʾamno\nWeladitke /2/ webeweladitke temahtsino\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እግዚአብሔር",
+  "wereb_category_en": "Wereb of God",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

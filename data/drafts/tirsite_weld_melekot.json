@@ -1,0 +1,52 @@
+{
+  "id": "h_o9wrd6rccdux",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ትርሲተ ወልድ መለኮት",
+    "ti_ro": "Tirsite weld melekot",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nትርሲተ ወልድ መለኮት\nወፍቅር ኃደረ ላዕሌሃ ወልድ\nይቤላ ርግብየ ወይቤላ ሠናይትየ ማርያም ድንግል\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTirsite weld melekot\nWefqir hadere laʿileha weld\nYibela rigbiye weybela senaytiye Maryam dingil\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_kagigggttk1k",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wedding",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ልዑል ሠምራ ዳዊት ዘመራ",
+    "ti_ro": "Liʿul semra Dawit zemera",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nልዑል ሠምራ ዳዊት ዘመራ /2/\nበቤተመቅደስ ተወክፍዋ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nLiʿul semra Dawit zemera /2/\nBebetemeqdes tewekfiwa /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wedding Wereb",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

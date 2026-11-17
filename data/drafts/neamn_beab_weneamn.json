@@ -1,0 +1,51 @@
+{
+  "id": "h_ob9823ircywy",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ነአምን በአብ ወነአምን",
+    "ti_ro": "Neʾamn beʾab weneʾamn",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nነአምን በአብ ወነአምን\nበወልድ ወበመንፈስ ቅዱስ /2/\nእህ እማርያም ዘተወልደ\nአፍቂሮ ኪያነ እሀ መጽአ ወልድ /2\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNeʾamn beʾab weneʾamn\nBeweld webemenfes qidus /2/\nʾIh ʾimaryam zetewelde\nʾAfqiro kiyane ʾiha metsʾa weld /2\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እግዚአብሔር",
+  "wereb_category_en": "Wereb of God",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

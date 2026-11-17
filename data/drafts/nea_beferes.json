@@ -1,0 +1,52 @@
+{
+  "id": "h_40uf5uz0njcx",
+  "category": "giorgis",
+  "categories": [
+    "giorgis",
+    "saints"
+  ],
+  "subcategories": [
+    "giyorgis",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ነዐ በፈረስ",
+    "ti_ro": "Neʿa beferes",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nነዐ በፈረስ /2/\nጊዮርጊስ ነዐ በፈረስ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nNeʿa beferes /2/\nGiyorgis neʿa beferes /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

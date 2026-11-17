@@ -1,0 +1,52 @@
+{
+  "id": "h_zn525ycs2u5h",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሰላም ንዓኺ ማርያም",
+    "ti_ro": "Selam niʿakhi Maryam",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሰላም ንዓኺ ማርያም\nፈጣሪ ንምውላድ ዝበቓዕኪ /2/\n[[/chorus]]\n\nኣምላኽ ንዓኺ ‘ተዘይሓድገልና\nከም ሰዶምን ከም ጎሞራን\n[[highlight]]ኩልና ምስ ኮንና /2/[[/highlight]]",
+    "ti_ro": "[[chorus]]\nSelam niʿakhi Maryam\nFet'ari nimwilad zibeqhaʿiki /2/\n[[/chorus]]\n\nʾAmlakh niʿakhi ‘tezeyhadgelna\nKem sedomn kem gomoran\n[[highlight]]Kulna mis konna /2/[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

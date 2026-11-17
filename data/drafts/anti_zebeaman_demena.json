@@ -1,0 +1,52 @@
+{
+  "id": "h_14srb63cygp6",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኣንቲ ዘበኣማን ደመና",
+    "ti_ro": "ʾAnti zebeʾaman demena",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኣንቲ ዘበኣማን ደመና /2/\nረከብኪ ጸጋ ግብረ ድንግል\nየዓቢ ክብራ ለማርያም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾAnti zebeʾaman demena /2/\nRekebki tsega gibre dingil\nYeʿabi kibra lemaryam\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

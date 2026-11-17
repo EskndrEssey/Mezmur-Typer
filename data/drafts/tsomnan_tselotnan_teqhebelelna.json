@@ -1,0 +1,51 @@
+{
+  "id": "h_1ugzdd3wbuys",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጾምናን ጸሎትናን ተቐበለልና",
+    "ti_ro": "Tsomnan tselotnan teqhebelelna",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጾምናን ጸሎትናን ተቐበለልና\nባህ ዘብለካ ይኹነልና\nንኸይንሰዓር ሓይልኻ ሃበና\nሓፊሩ ይመለስ ይውደቕ ጸላኢና\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTsomnan tselotnan teqhebelelna\nBah zebleka yikhunelna\nNikheyniseʿar haylikha habena\nHafiru yimeles yiwdeqh tselaʾina\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እግዚአብሔር",
+  "wereb_category_en": "Wereb of God",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

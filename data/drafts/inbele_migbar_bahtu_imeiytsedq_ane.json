@@ -1,0 +1,52 @@
+{
+  "id": "h_xu99o4lmkfn6",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እንበለ ምግባር ባሕቱ እመኢይጸድቅ አነ",
+    "ti_ro": "ʾInbele migbar bahtu ʾimeʾiytsedq ʾane",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእንበለ ምግባር ባሕቱ እመኢይጸድቅ አነ\nቦኑ ለከንቱ ኪዳንኪ ኮነ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾInbele migbar bahtu ʾimeʾiytsedq ʾane\nBonu lekentu kidanki kone /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

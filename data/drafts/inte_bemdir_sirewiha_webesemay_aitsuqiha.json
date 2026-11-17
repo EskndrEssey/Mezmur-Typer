@@ -1,0 +1,52 @@
+{
+  "id": "h_sqhoarflp51f",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "እንተ በምድር ስረዊሃ ወበሰማይ ኣዕጹቂሃ",
+    "ti_ro": "ʾInte bemdir sirewiha webesemay ʾaʿitsuqiha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nእንተ በምድር ስረዊሃ ወበሰማይ ኣዕጹቂሃ\nሓረገ ወይን /2/ ድንግል ሓረገ ወይን\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nʾInte bemdir sirewiha webesemay ʾaʿitsuqiha\nHarege weyn /2/ dingil harege weyn\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_khff917wa3d3",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ደም ማይ ወሓሊብ",
+    "ti_ro": "Dem may wehalib",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nደም ማይ ወሓሊብ /2/\nእም ክሳድ ፈልፈለ /2/\nሶበ ተከለለ /4/ ቅዱስ ዮሐንስ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nDem may wehalib /2/\nʾIm kisad felfele /2/\nSobe tekelele /4/ qidus yohans\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

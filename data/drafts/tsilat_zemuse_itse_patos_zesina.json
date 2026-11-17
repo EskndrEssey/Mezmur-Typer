@@ -1,0 +1,52 @@
+{
+  "id": "h_vyncr2499kko",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ጽላት ዘሙሴ ዕጸ ጳጦስ ዘሲና",
+    "ti_ro": "Tsilat zemuse ʿitse p'at'os zesina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nጽላት ዘሙሴ ዕጸ ጳጦስ ዘሲና\nጸናጽል /5/ ዘኣሮን ካህን\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nTsilat zemuse ʿitse p'at'os zesina\nTsenatsl /5/ zeʾaron kahn\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

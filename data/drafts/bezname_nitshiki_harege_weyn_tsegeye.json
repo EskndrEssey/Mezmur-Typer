@@ -1,0 +1,52 @@
+{
+  "id": "h_cyn6btpc7y0p",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በዝናመ ንጽህኪ ሓረገ ወይን ጸገየ",
+    "ti_ro": "Bezname nitshiki harege weyn tsegeye",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበዝናመ ንጽህኪ ሓረገ ወይን ጸገየ /2/\nወሮማን /2/ ሓዋዘ ፈረየ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBezname nitshiki harege weyn tsegeye /2/\nWeroman /2/ hawaze fereye /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

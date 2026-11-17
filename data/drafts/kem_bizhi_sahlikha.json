@@ -1,0 +1,50 @@
+{
+  "id": "h_6wo55upvdy4l",
+  "category": "nissha",
+  "categories": [
+    "nissha",
+    "general"
+  ],
+  "subcategories": [
+    "nisha"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከም ብዝሒ ሳህልኻ",
+    "ti_ro": "Kem bizhi sahlikha",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከም ብዝሒ ሳህልኻ ኣምላኽ መሓረና/2/\nከምቲ ምሕረትካ’ውን ይቕሬታ ሃበና/2/\n[[/chorus]]\n\n[[highlight]]ኣንጽሃና ጐይታ ካብ እከይ በደልና/2/[[/highlight]]\n[[highlight]]ነዛ ጸልማት ዓለም ከይከውን ዕድልና/2/[[/highlight]]\n\n[[highlight]]ንሕናስ ፈለጥናዮ ኣበሳ በደልና/2/[[/highlight]]\n[[highlight]]ፍጹም ኣንጽሃና ምሕረት ግበረልና/2/[[/highlight]]\n\n[[highlight]]ኣምላኽ ኣሕዘናካ እከይ’ውን ገበርና/2/[[/highlight]]\n[[highlight]]ይቕረ ክትብለና ቅድሜኻ ወደቕና/2/[[/highlight]]\n\n[[highlight]]ቅድሜኻ ወዲቕና ክንልምን ነዓኻ/2/[[/highlight]]\n[[highlight]]ጐይታ መሓረና ምውዳቕና ርኢኻ/2[[/highlight]]",
+    "ti_ro": "[[chorus]]\nKem bizhi sahlikha ʾamlakh meharena/2/\nKemti mihretka’win yiqhreta habena/2/\n[[/chorus]]\n\n[[highlight]]ʾAntsihana goyta kab ʾikey bedelna/2/[[/highlight]]\n[[highlight]]Neza tselmat ʿalem keykewn ʿidlina/2/[[/highlight]]\n\n[[highlight]]Nihnas felet'nayo ʾabesa bedelna/2/[[/highlight]]\n[[highlight]]Fitsum ʾantsihana mihret giberelna/2/[[/highlight]]\n\n[[highlight]]ʾAmlakh ʾahzenaka ʾikey’win geberna/2/[[/highlight]]\n[[highlight]]Yiqhre kitbilena qidmekha wedeqhna/2/[[/highlight]]\n\n[[highlight]]Qidmekha wediqhna kinlimn neʿakha/2/[[/highlight]]\n[[highlight]]Goyta meharena miwdaqhna riʾikha/2[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "h_w7fmk77872li",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ተማልድ’ያ",
+    "ti_ro": "Temald’ya",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ድንግል ርህርህት ኣዴና\nተማልድያ ናብ ፈጣሪና\nኣይንጠራጠርን ተማልድያ ማርያም ኣዴና/2/\n[[/chorus]]\n\nንዅሉ ሓጣኣትና በደልና ሓዲጋ\nምሕረት ተውርደልና ብነፍሲ ብስጋ\n\nበቡኣን በዲኣን ብኢያቄም ብሃና\nማርያም ትባርኮ ነዚ ጉባኤና\n\nመሰረት ሕይወትና መውጽኢት ናይ ጸሓይ\nዋሕስ ናይ ኵሉኺ ብምድሪ ብሰማይ",
+    "ti_ro": "[[chorus]]\nMaryam dingil rihriht ʾadena\nTemaldiya nab fet'arina\nʾAynit'erat'ern temaldiya Maryam ʾadena/2/\n[[/chorus]]\n\nNikhulu hat'aʾatna bedelna hadiga\nMihret tewridelna binefsi bisga\n\nBebuʾan bediʾan biʾiyaqem bihana\nMaryam tibarko nezi gubaʾena\n\nMeseret hiywetna mewtsiʾit nay tsehay\nWahs nay kulukhi bimdiri bisemay",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

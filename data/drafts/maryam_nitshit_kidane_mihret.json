@@ -1,0 +1,52 @@
+{
+  "id": "h_tqpuv4tdrgkb",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "kidane_mehret",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ማርያም ንጽህት ኪዳነ ምሕረት",
+    "ti_ro": "Maryam nitshit Kidane mihret",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nማርያም ንጽህት ኪዳነ ምሕረት\nሰኣሊ ለነ /2/ ቅድስት\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nMaryam nitshit Kidane mihret\nSeʾali lene /2/ qidist\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_xqe7k1qhg01p",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ካብ ኣንስቲ ተፈሊኺ ብርኽቲ ዝኾንኪ",
+    "ti_ro": "Kab ʾansiti tefelikhi birkhiti zikhonki",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nካብ ኣንስቲ ተፈሊኺ ብርኽቲ ዝኾንኪ\nቅድስተ ቅዱሳን /2/ ድንግል ማርያም ኢኺ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nKab ʾansiti tefelikhi birkhiti zikhonki\nQidsite qidusan /2/ dingil Maryam ʾikhi /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "h_m7z9dng7or47",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "በጎል በጎል ሰብአ ሰገል",
+    "ti_ro": "Begol begol sebʾa segel",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nበጎል በጎል ሰብአ ሰገል /4/\nበጎል ሰብአ ሰገል ሰገዱ ሎቱ /4/\nጐይታ ተወሊዱ ኣብ መብልዕ ማል /4/\nጐይታ ተወሊዱ ዕልል ንበል /4/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBegol begol sebʾa segel /4/\nBegol sebʾa segel segedu lotu /4/\nGoyta tewelidu ʾab mebliʿi mal /4/\nGoyta tewelidu ʿill nibel /4/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እግዚአብሔር",
+  "wereb_category_en": "Wereb of God",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_e3mumlt0m1wh",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቁስቋም ተዓቢ ቁስቋም ትከብር ቁስቋም ድንግል",
+    "ti_ro": "Qusqwam teʿabi qusqwam tikebr qusqwam dingil",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቁስቋም ተዓቢ ቁስቋም ትከብር ቁስቋም ድንግል /2/\nእምሱራፌል ቁስቋም ተዓቢ\nእምኪሩቤል ቁስቋም ትከብር\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nQusqwam teʿabi qusqwam tikebr qusqwam dingil /2/\nʾImsurafel qusqwam teʿabi\nʾImkirubel qusqwam tikebr\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

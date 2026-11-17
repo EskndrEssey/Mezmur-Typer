@@ -1,0 +1,49 @@
+{
+  "id": "h_4op4u0jefk2l",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዕፀ ሕይወት",
+    "ti_ro": "ʿItse hiywet",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመድኃኒት ዕፀ ሕይወት /2/\nዝንቱ ውእቱ መስቀል /2/\n[[/chorus]]\n\n[[highlight]]መድኃኒቶሙ ለእስራኤል /2/[[/highlight]]\n[[highlight]]በኣምሳለ ኣርዌ ብርት ዘገዳም /2/[[/highlight]]\n\n[[highlight]]ዘኣግብኦ ለኣዳም /2/[[/highlight]]\n[[highlight]]ገነተ ተድላ ወትፍስሕት /2/[[/highlight]]\n\n[[highlight]]ሓይልነ ወጸወንነ /2/[[/highlight]]\n[[highlight]]ለእለ ነኣምን መድኃኒትነ /2/[[/highlight]]\n\nያድህኖሙ በመስቀሉ\nይትቤዘዎሙ በመስቀሉ\n[[highlight]]ለእለ ኣምኑ በኃይሉ /2/[[/highlight]]",
+    "ti_ro": "[[chorus]]\nMedhanit ʿitse hiywet /2/\nZintu wiʾitu mesqel /2/\n[[/chorus]]\n\n[[highlight]]Medhanitomu leʾisraʾel /2/[[/highlight]]\n[[highlight]]Beʾamsale ʾarwe birt zegedam /2/[[/highlight]]\n\n[[highlight]]Zeʾagbiʾo leʾadam /2/[[/highlight]]\n[[highlight]]Genete tedla wetfishit /2/[[/highlight]]\n\n[[highlight]]Hayline wetsewenne /2/[[/highlight]]\n[[highlight]]Leʾile neʾamn medhanitne /2/[[/highlight]]\n\nYadhinomu bemesqelu\nYitbezewomu bemesqelu\n[[highlight]]Leʾile ʾamnu behaylu /2/[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "ቀሲስ ጸገዝኣብ",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

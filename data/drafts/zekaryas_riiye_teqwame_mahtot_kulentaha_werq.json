@@ -1,0 +1,52 @@
+{
+  "id": "h_dih7kx44v4cl",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘካርያስ ርእየ ተቅዋመ ማህቶት ኩለንታሃ ወርቅ",
+    "ti_ro": "Zekaryas riʾiye teqwame mahtot kulentaha werq",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘካርያስ ርእየ ተቅዋመ ማህቶት ኩለንታሃ ወርቅ\nበየማና ወበጸጋማ ኣዕጹቀ ዘይት\nነቢያት ይትፌስሑ ሓዋርያት ይትሃሰዩ በውስቴታ\nወዳዊት ይዜምር በውስተ ማሕፈዲሃ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nZekaryas riʾiye teqwame mahtot kulentaha werq\nBeyemana webetsegama ʾaʿitsuqe zeyt\nNebiyat yitfeshu hawaryat yithaseyu bewsiteta\nWedawit yizemr bewsite mahfediha\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

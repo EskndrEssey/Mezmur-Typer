@@ -1,0 +1,52 @@
+{
+  "id": "h_ux7ola7fklu1",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ብኪ ይትፌስሑ ዘገነተ ጽጌ ጻድቃን",
+    "ti_ro": "Biki yitfeshu zegenete tsige tsadqan",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nብኪ ይትፌስሑ ዘገነተ ጽጌ ጻድቃን /2/\nዕለተ ብርሃን /2/ ማርያም ዕለተ ብርሃን\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBiki yitfeshu zegenete tsige tsadqan /2/\nʿIlete birhan /2/ Maryam ʿilete birhan\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

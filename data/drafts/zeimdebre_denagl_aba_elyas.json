@@ -1,0 +1,51 @@
+{
+  "id": "h_cusz75ydk0mm",
+  "category": "saints",
+  "categories": [
+    "saints"
+  ],
+  "subcategories": [
+    "other_saints",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ዘእምደብረ ደናግል ኣባ ኤልያስ",
+    "ti_ro": "Zeʾimdebre denagl ʾaba ʾElyas",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nዘእምደብረ ደናግል /2/ ኣባ ኤልያስ\nኣረጋዊ ዘውገ ሙሴ ወገብረክርስቶስ ኣማን ዘቀደሶ መንፈስቅዱስ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nZeʾimdebre denagl /2/ ʾaba ʾElyas\nʾAregawi zewge Muse wegebrekristos ʾaman zeqedeso menfesqidus\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ ቅዱሳን",
+  "wereb_category_en": "Wereb of the Saints",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

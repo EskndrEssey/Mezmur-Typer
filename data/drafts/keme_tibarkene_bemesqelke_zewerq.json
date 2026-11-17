@@ -1,0 +1,51 @@
+{
+  "id": "h_1aqkhet6e5d2",
+  "category": "feasts",
+  "categories": [
+    "feasts"
+  ],
+  "subcategories": [
+    "meskel",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ከመ ትባርከነ በመስቀልከ ዘወርቅ",
+    "ti_ro": "Keme tibarkene bemesqelke zewerq",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nከመ ትባርከነ በመስቀልከ ዘወርቅ /2/\nከመ ይኩን ቤዛ /2/ ለኵሉ ዓለም /2/ ለብሰ ሥጋ ማርያም\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nKeme tibarkene bemesqelke zewerq /2/\nKeme yikun beza /2/ lekulu ʿalem /2/ lebse siga Maryam\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መስቀል",
+  "wereb_category_en": "Wereb of the Cross",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

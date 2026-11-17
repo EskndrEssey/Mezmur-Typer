@@ -1,0 +1,52 @@
+{
+  "id": "h_v25l30mmcesf",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ገብርኤል ኣብሰራ ለድንግል ወይቤላ",
+    "ti_ro": "Gebriʾel ʾabsera lednigl weybela",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nገብርኤል ኣብሰራ ለድንግል ወይቤላ /2/\nትወልዲ ንጉሰ ገብርኤል ይቤላ /2/\nገብርኤል ኣብሰራ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nGebriʾel ʾabsera lednigl weybela /2/\nTiweldi niguse Gebriʾel yibela /2/\nGebriʾel ʾabsera\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

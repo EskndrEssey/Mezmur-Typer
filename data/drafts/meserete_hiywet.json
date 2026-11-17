@@ -1,0 +1,49 @@
+{
+  "id": "h_2aduuxuztsw8",
+  "category": "egziabher",
+  "categories": [
+    "egziabher"
+  ],
+  "subcategories": [
+    "eg_general"
+  ],
+  "title": {
+    "en": "",
+    "ti": "መሠረተ ሕይወት",
+    "ti_ro": "Meserete hiywet",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nመሠረተ ሕይወት ማርያም\nወጥንተ መድኃኒት ዘእም ቀዲሙ\n[[/chorus]]\n\n[[highlight]]ቤዛ/3/ ለቤዛ ዓለሙ[[/highlight]]",
+    "ti_ro": "[[chorus]]\nMeserete hiywet Maryam\nWet'nite medhanit zeʾim qedimu\n[[/chorus]]\n\n[[highlight]]Beza/3/ lebeza ʿalemu[[/highlight]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "singer": "ሓደ ክገብረና ደብረ ኤፍራታ ልደታ ለማርያም (ቃሓውታ)",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

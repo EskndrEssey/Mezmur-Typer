@@ -1,0 +1,51 @@
+{
+  "id": "h_5z33e7ysn5rd",
+  "category": "general",
+  "categories": [
+    "general"
+  ],
+  "subcategories": [
+    "wedding",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ሃሌሉያ ለክርስቶስ ይደሉ ስብሐት",
+    "ti_ro": "Haleluya lekristos yidelu sibhat",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nሃሌሉያ ለክርስቶስ ይደሉ ስብሐት\nለዘኣብጽሓነ እስከ ዛቲ ሰዓት /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nHaleluya lekristos yidelu sibhat\nLezeʾabtsihane ʾiske zati seʿat /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ መርዓ",
+  "wereb_category_en": "Wedding Wereb",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "h_yppf4ma9y8rq",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ለመኑ እነግር ኃዘነ ልብየ",
+    "ti_ro": "Lemenu ʾinegr hazene libye",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nለመኑ እነግር ኃዘነ ልብየ\nእንበሌኪ ማርያም እግዝእትየ /2/\nወፍጡነ ስምዕኒ ጸሎትየ /2/\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nLemenu ʾinegr hazene libye\nʾInbeleki Maryam ʾigziʾitye /2/\nWeft'une simʿini tselotye /2/\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

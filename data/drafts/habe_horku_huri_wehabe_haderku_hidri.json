@@ -1,0 +1,52 @@
+{
+  "id": "h_yyge25l8yvdz",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ኃበ ሖርኩ ሑሪ ወኃበ ኃደርኩ ኅድሪ",
+    "ti_ro": "Habe horku huri wehabe haderku hidri",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nኃበ ሖርኩ ሑሪ ወኃበ ኃደርኩ ኅድሪ\nኃበ ነበርኩ ንበሪ\nማርያም ድንግል ዘተናገርኩ ሥመሪ\nየማነ እዴኪ በላዕሌየ ኣንብሪ\nእለ ይጻረሩኒ ተጻረሪ ወምክሮሙ ዘርዝሪ\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nHabe horku huri wehabe haderku hidri\nHabe neberku niberi\nMaryam dingil zetenagerku simeri\nYemane ʾideki belaʿileye ʾanbiri\nʾIle yitsareruni tetsareri wemkiromu zerziri\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}

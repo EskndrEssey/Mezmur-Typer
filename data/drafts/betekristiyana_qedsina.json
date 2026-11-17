@@ -1,0 +1,52 @@
+{
+  "id": "h_sr2isnv4j03o",
+  "category": "Mariam",
+  "categories": [
+    "Mariam",
+    "st_mary"
+  ],
+  "subcategories": [
+    "st_mary",
+    "wereb"
+  ],
+  "title": {
+    "en": "",
+    "ti": "ቤተክርስቲያና ቀድስና",
+    "ti_ro": "Betekristiyana qedsina",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "subtitle": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "lyrics": {
+    "en": "",
+    "ti": "[[chorus]]\nቤተክርስቲያና ቀድስና\nነቶም ንኣምነኪ ሓይልኺ ሃብና\nጽዮን ኣዴና በረኸትኪ ኣይፈለየና\nማርያም ኣዴና በረኸትኪ ኣይፈለየና\n[[/chorus]]",
+    "ti_ro": "[[chorus]]\nBetekristiyana qedsina\nNetom niʾamneki haylikhi habna\nTsiyon ʾadena berekhetki ʾayfeleyena\nMaryam ʾadena berekhetki ʾayfeleyena\n[[/chorus]]",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "youtubeUrls": {
+    "en": "",
+    "ti": "",
+    "ti_ro": "",
+    "am": "",
+    "am_ro": "",
+    "om": ""
+  },
+  "wereb_category_geez": "ወረብ እመብርሃን",
+  "wereb_category_en": "Wereb of Mary",
+  "status": "published",
+  "metadata": {
+    "contributor_name": "eskndr",
+    "created_at": "2026-11-17T08:00:00.000Z",
+    "updated_at": "2026-11-17T08:00:00.000Z"
+  }
+}
